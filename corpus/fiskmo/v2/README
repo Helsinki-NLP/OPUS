@@ -1,0 +1,42 @@
+ Corpus Name: fiskmo
+     Website: http://opus.nlpl.eu/fiskmo-v2.php
+     Release: v2
+Release date: Fri Jun 28 06:57:07 EEST 2019
+     License: CC–BY-NC-SA 4.0
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+This is part if fiskmö, a massive parallel corpus for Finnish and Swedish.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+fiskmo/v2/freq/fi.freq.gz
+fiskmo/v2/freq/sv.freq.gz
+fiskmo/v2/mono/fi.tok.gz
+fiskmo/v2/mono/fi.txt.gz
+fiskmo/v2/mono/sv.tok.gz
+fiskmo/v2/mono/sv.txt.gz
+fiskmo/v2/moses/fi-sv.txt.zip
+fiskmo/v2/parsed/fi.zip
+fiskmo/v2/parsed/sv.zip
+fiskmo/v2/raw/fi.zip
+fiskmo/v2/raw/sv.zip
+fiskmo/v2/smt/fi-sv.alg.zip
+fiskmo/v2/smt/fi-sv.zip
+fiskmo/v2/tmx/fi-sv.tmx.gz
+fiskmo/v2/xml/fi.zip
+fiskmo/v2/xml/sv.zip

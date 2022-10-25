@@ -1,0 +1,42 @@
+ Corpus Name: Finlex
+     Website: http://opus.nlpl.eu/Finlex-v2018.php
+     Release: v2018
+Release date: Wed Feb  6 11:46:08 EET 2019
+     License: CC-BY
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+The Finlex Data Base is a comprehensive collection of legislative and other judicial information of Finland, which is available in Finnish, Swedish and partially in English. This corpus is taken from the Semantic Finlex serice that provides the Finnish and Swedish data as linked open data and also raw XML files.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+Finlex/v2018/freq/fi.freq.gz
+Finlex/v2018/freq/sv.freq.gz
+Finlex/v2018/mono/fi.tok.gz
+Finlex/v2018/mono/fi.txt.gz
+Finlex/v2018/mono/sv.tok.gz
+Finlex/v2018/mono/sv.txt.gz
+Finlex/v2018/moses/fi-sv.txt.zip
+Finlex/v2018/parsed/fi.zip
+Finlex/v2018/parsed/sv.zip
+Finlex/v2018/raw/fi.zip
+Finlex/v2018/raw/sv.zip
+Finlex/v2018/smt/fi-sv.alg.zip
+Finlex/v2018/smt/fi-sv.zip
+Finlex/v2018/tmx/fi-sv.tmx.gz
+Finlex/v2018/xml/fi.zip
+Finlex/v2018/xml/sv.zip

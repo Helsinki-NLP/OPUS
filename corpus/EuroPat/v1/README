@@ -1,0 +1,48 @@
+ Corpus Name: EuroPat
+     Website: http://opus.nlpl.eu/EuroPat-v1.php
+     Release: v1
+Release date: Sat Oct 31 21:51:58 EET 2020
+     License: <a hre=https://tico-19.github.io/LICENSE.md>Creative Commons CC0 license</a>
+   Copyright: <a hre=https://tico-19.github.io/LICENSE.md>Creative Commons CC0 license</a>
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, acknowledge the EuroPat project at https://europat.net/. This version is derived from the original release at their website adjusted for redistribution via the OPUS corpus collection. Please, acknowledge OPUS as well for this service.
+
+Parallel corpora of patents from the United States Patent and Trademark Office and from the European Patent Organisation compiled into aligned data sets available from https://europat.net/
+The data is released under the Creative Commons CC0 license (no rights reserved), see https://europat.net/ for more details
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+EuroPat/v1/freq/de.freq.gz
+EuroPat/v1/freq/en.freq.gz
+EuroPat/v1/freq/fr.freq.gz
+EuroPat/v1/mono/de.tok.gz
+EuroPat/v1/mono/de.txt.gz
+EuroPat/v1/mono/en.tok.gz
+EuroPat/v1/mono/en.txt.gz
+EuroPat/v1/mono/fr.tok.gz
+EuroPat/v1/mono/fr.txt.gz
+EuroPat/v1/moses/de-en.txt.zip
+EuroPat/v1/moses/de-fr.txt.zip
+EuroPat/v1/moses/en-fr.txt.zip
+EuroPat/v1/raw/de.zip
+EuroPat/v1/raw/en.zip
+EuroPat/v1/raw/fr.zip
+EuroPat/v1/tmx/de-en.tmx.gz
+EuroPat/v1/tmx/de-fr.tmx.gz
+EuroPat/v1/tmx/en-fr.tmx.gz
+EuroPat/v1/xml/de.zip
+EuroPat/v1/xml/en.zip
+EuroPat/v1/xml/fr.zip

@@ -1,0 +1,38 @@
+ Corpus Name: DOGC
+     Website: http://opus.nlpl.eu/DOGC-v2.php
+     Release: v2
+Release date: Sat Mar  3 22:04:55 EET 2018
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+This is a collection of documents from the official journal of the Catalan Goverment in Catalan and Spanish provided by Antoni Oliver Gonzalez from the Universitat Oberta de Catalunya. The data is provided under the license provided at http://www.gencat.cat/web/cat/avis_legal.htm
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+freq ...... token frequencies
+wordalign . word alignments
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+DOGC/v2/freq/DOGC.ca.gz
+DOGC/v2/freq/DOGC.es.gz
+DOGC/v2/LICENSE
+DOGC/v2/mono/DOGC.ca.gz
+DOGC/v2/mono/DOGC.es.gz
+DOGC/v2/mono/DOGC.raw.ca.gz
+DOGC/v2/mono/DOGC.raw.es.gz
+DOGC/v2/moses/ca-es.txt.zip
+DOGC/v2/raw/ca.zip
+DOGC/v2/raw/es.zip
+DOGC/v2/README
+DOGC/v2/tmx/ca-es.tmx.gz
+DOGC/v2/xml/ca-es.xml.gz
+DOGC/v2/xml/ca.zip
+DOGC/v2/xml/es.zip

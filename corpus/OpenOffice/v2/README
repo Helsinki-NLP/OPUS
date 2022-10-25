@@ -1,0 +1,98 @@
+ Corpus Name: OpenOffice
+     Website: http://opus.nlpl.eu/OpenOffice-v2.php
+     Release: v2
+Release date: Wed Mar  7 08:06:55 EET 2018
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+A collection of documents from http://www.openoffice.org/. The original documentation of the office package Openoffice.org contains 2014 English documents which have been partly translated into 5 languages: French, Spanish, Swedish, German, and Japanese. The original documentation in English comprises about 500,000 words and translations contain between 400,000 and 500,000 words per language. All documents have been tokenized and, except for the Spanish part, tagged with parts of speech. The English part of the corpus has been marked with syntactic chunks as well.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+freq ...... token frequencies
+wordalign . word alignments
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+OpenOffice/v2/freq/OpenOffice.de.gz
+OpenOffice/v2/freq/OpenOffice.en.gz
+OpenOffice/v2/freq/OpenOffice.es.gz
+OpenOffice/v2/freq/OpenOffice.fr.gz
+OpenOffice/v2/freq/OpenOffice.jp.gz
+OpenOffice/v2/freq/OpenOffice.sv.gz
+OpenOffice/v2/mono/OpenOffice.de.gz
+OpenOffice/v2/mono/OpenOffice.en.gz
+OpenOffice/v2/mono/OpenOffice.es.gz
+OpenOffice/v2/mono/OpenOffice.fr.gz
+OpenOffice/v2/mono/OpenOffice.jp.gz
+OpenOffice/v2/mono/OpenOffice.raw.de.gz
+OpenOffice/v2/mono/OpenOffice.raw.en.gz
+OpenOffice/v2/mono/OpenOffice.raw.es.gz
+OpenOffice/v2/mono/OpenOffice.raw.fr.gz
+OpenOffice/v2/mono/OpenOffice.raw.jp.gz
+OpenOffice/v2/mono/OpenOffice.raw.sv.gz
+OpenOffice/v2/mono/OpenOffice.sv.gz
+OpenOffice/v2/moses/de-en.txt.zip
+OpenOffice/v2/moses/de-es.txt.zip
+OpenOffice/v2/moses/de-fr.txt.zip
+OpenOffice/v2/moses/de-jp.txt.zip
+OpenOffice/v2/moses/de-sv.txt.zip
+OpenOffice/v2/moses/en-es.txt.zip
+OpenOffice/v2/moses/en-fr.txt.zip
+OpenOffice/v2/moses/en-jp.txt.zip
+OpenOffice/v2/moses/en-sv.txt.zip
+OpenOffice/v2/moses/es-fr.txt.zip
+OpenOffice/v2/moses/es-jp.txt.zip
+OpenOffice/v2/moses/es-sv.txt.zip
+OpenOffice/v2/moses/fr-jp.txt.zip
+OpenOffice/v2/moses/fr-sv.txt.zip
+OpenOffice/v2/moses/jp-sv.txt.zip
+OpenOffice/v2/raw/de.zip
+OpenOffice/v2/raw/en.zip
+OpenOffice/v2/raw/es.zip
+OpenOffice/v2/raw/fr.zip
+OpenOffice/v2/raw/jp.zip
+OpenOffice/v2/raw/sv.zip
+OpenOffice/v2/tmx/de-en.tmx.gz
+OpenOffice/v2/tmx/de-es.tmx.gz
+OpenOffice/v2/tmx/de-fr.tmx.gz
+OpenOffice/v2/tmx/de-jp.tmx.gz
+OpenOffice/v2/tmx/de-sv.tmx.gz
+OpenOffice/v2/tmx/en-es.tmx.gz
+OpenOffice/v2/tmx/en-fr.tmx.gz
+OpenOffice/v2/tmx/en-jp.tmx.gz
+OpenOffice/v2/tmx/en-sv.tmx.gz
+OpenOffice/v2/tmx/es-fr.tmx.gz
+OpenOffice/v2/tmx/es-jp.tmx.gz
+OpenOffice/v2/tmx/es-sv.tmx.gz
+OpenOffice/v2/tmx/fr-jp.tmx.gz
+OpenOffice/v2/tmx/fr-sv.tmx.gz
+OpenOffice/v2/tmx/jp-sv.tmx.gz
+OpenOffice/v2/xml/de-en.xml.gz
+OpenOffice/v2/xml/de-es.xml.gz
+OpenOffice/v2/xml/de-fr.xml.gz
+OpenOffice/v2/xml/de-jp.xml.gz
+OpenOffice/v2/xml/de-sv.xml.gz
+OpenOffice/v2/xml/de.zip
+OpenOffice/v2/xml/en-es.xml.gz
+OpenOffice/v2/xml/en-fr.xml.gz
+OpenOffice/v2/xml/en-jp.xml.gz
+OpenOffice/v2/xml/en-sv.xml.gz
+OpenOffice/v2/xml/en.zip
+OpenOffice/v2/xml/es-fr.xml.gz
+OpenOffice/v2/xml/es-jp.xml.gz
+OpenOffice/v2/xml/es-sv.xml.gz
+OpenOffice/v2/xml/es.zip
+OpenOffice/v2/xml/fr-jp.xml.gz
+OpenOffice/v2/xml/fr-sv.xml.gz
+OpenOffice/v2/xml/fr.zip
+OpenOffice/v2/xml/jp-sv.xml.gz
+OpenOffice/v2/xml/jp.zip
+OpenOffice/v2/xml/sv.zip

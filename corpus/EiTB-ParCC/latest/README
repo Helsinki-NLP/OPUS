@@ -1,0 +1,42 @@
+ Corpus Name: EiTB-ParCC
+     Website: http://opus.nlpl.eu/EiTB-ParCC-v1.php
+     Release: v1
+Release date: Sun Jun 14 04:22:16 EEST 2020
+     License: The corpus is distributed under the <a href=https://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons BY-NC-SA 4.0 license</a>
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+If you use any part of this corpus in your own work, please cite the following article:  @inproceedings{etchegoyhen-gete:2020:LREC2, author    = {Etchegoyhen, Thierry  and  Gete, Harritxu}, title     = {Handle with Care: A Case Study in Comparable Corpora Exploitation for Neural Machine Translation}, booktitle = {Proceedings of the 12th Language Resources and Evaluation Conference}, month     = {May}, year      = {2020}, location   = {Marseille, France}, publisher = {European Language Resources Association}, pages     = {3792--3800} } 
+
+EiTB-ParCC: Parallel Corpus of Comparable NewsA Basque-Spanish parallel corpus provided by Vicomtech (https://www.vicomtech.org), extracted from comparable news produced by the Basque public broadcasting group Euskal Irrati Telebista.
+Simple example corpus
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+EiTB-ParCC/v1/freq/es.freq.gz
+EiTB-ParCC/v1/freq/eu.freq.gz
+EiTB-ParCC/v1/mono/es.tok.gz
+EiTB-ParCC/v1/mono/es.txt.gz
+EiTB-ParCC/v1/mono/eu.tok.gz
+EiTB-ParCC/v1/mono/eu.txt.gz
+EiTB-ParCC/v1/moses/es-eu.txt.zip
+EiTB-ParCC/v1/parsed/es.zip
+EiTB-ParCC/v1/parsed/eu.zip
+EiTB-ParCC/v1/raw/es.zip
+EiTB-ParCC/v1/raw/eu.zip
+EiTB-ParCC/v1/smt/es-eu.alg.zip
+EiTB-ParCC/v1/smt/es-eu.zip
+EiTB-ParCC/v1/tmx/es-eu.tmx.gz
+EiTB-ParCC/v1/xml/es.zip
+EiTB-ParCC/v1/xml/eu.zip

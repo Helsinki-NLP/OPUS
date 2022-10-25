@@ -1,0 +1,98 @@
+ Corpus Name: EuroPat
+     Website: http://opus.nlpl.eu/EuroPat-v2.php
+     Release: v2
+Release date: Sat Apr  3 16:29:53 EEST 2021
+     License: <a href=https://creativecommons.org/share-your-work/public-domain/cc0/>Creative Commons CC0 license</a>
+   Copyright: <a href=https://creativecommons.org/share-your-work/public-domain/cc0/>Creative Commons CC0 license</a>
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, acknowledge the EuroPat project at https://europat.net/. This version is derived from the original release at their website adjusted for redistribution via the OPUS corpus collection. Please, acknowledge OPUS as well for this service.
+
+Parallel corpora of patents from the United States Patent and Trademark Office and from the European Patent Organisation compiled into aligned data sets available from https://europat.net/
+The data is released under the Creative Commons CC0 license (no rights reserved), see https://europat.net/ for more details
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+EuroPat/v2/freq/de.freq.gz
+EuroPat/v2/freq/en.freq.gz
+EuroPat/v2/freq/es.freq.gz
+EuroPat/v2/freq/fr.freq.gz
+EuroPat/v2/freq/hr.freq.gz
+EuroPat/v2/freq/no.freq.gz
+EuroPat/v2/freq/pl.freq.gz
+EuroPat/v2/mono/de.tok.gz
+EuroPat/v2/mono/de.txt.gz
+EuroPat/v2/mono/en.tok.gz
+EuroPat/v2/mono/en.txt.gz
+EuroPat/v2/mono/es.tok.gz
+EuroPat/v2/mono/es.txt.gz
+EuroPat/v2/mono/fr.tok.gz
+EuroPat/v2/mono/fr.txt.gz
+EuroPat/v2/mono/hr.tok.gz
+EuroPat/v2/mono/hr.txt.gz
+EuroPat/v2/mono/no.tok.gz
+EuroPat/v2/mono/no.txt.gz
+EuroPat/v2/mono/pl.tok.gz
+EuroPat/v2/mono/pl.txt.gz
+EuroPat/v2/moses/de-en.txt.zip
+EuroPat/v2/moses/de-es.txt.zip
+EuroPat/v2/moses/de-fr.txt.zip
+EuroPat/v2/moses/de-hr.txt.zip
+EuroPat/v2/moses/de-no.txt.zip
+EuroPat/v2/moses/de-pl.txt.zip
+EuroPat/v2/moses/en-es.txt.zip
+EuroPat/v2/moses/en-fr.txt.zip
+EuroPat/v2/moses/en-hr.txt.zip
+EuroPat/v2/moses/en-no.txt.zip
+EuroPat/v2/moses/en-pl.txt.zip
+EuroPat/v2/moses/es-fr.txt.zip
+EuroPat/v2/moses/es-hr.txt.zip
+EuroPat/v2/moses/es-no.txt.zip
+EuroPat/v2/moses/es-pl.txt.zip
+EuroPat/v2/moses/fr-hr.txt.zip
+EuroPat/v2/moses/fr-no.txt.zip
+EuroPat/v2/moses/fr-pl.txt.zip
+EuroPat/v2/moses/hr-no.txt.zip
+EuroPat/v2/moses/hr-pl.txt.zip
+EuroPat/v2/moses/no-pl.txt.zip
+EuroPat/v2/raw/de.zip
+EuroPat/v2/raw/en.zip
+EuroPat/v2/raw/es.zip
+EuroPat/v2/raw/fr.zip
+EuroPat/v2/raw/hr.zip
+EuroPat/v2/raw/no.zip
+EuroPat/v2/raw/pl.zip
+EuroPat/v2/tmx/de-es.tmx.gz
+EuroPat/v2/tmx/de-fr.tmx.gz
+EuroPat/v2/tmx/de-hr.tmx.gz
+EuroPat/v2/tmx/de-no.tmx.gz
+EuroPat/v2/tmx/de-pl.tmx.gz
+EuroPat/v2/tmx/es-fr.tmx.gz
+EuroPat/v2/tmx/es-hr.tmx.gz
+EuroPat/v2/tmx/es-no.tmx.gz
+EuroPat/v2/tmx/es-pl.tmx.gz
+EuroPat/v2/tmx/fr-hr.tmx.gz
+EuroPat/v2/tmx/fr-no.tmx.gz
+EuroPat/v2/tmx/fr-pl.tmx.gz
+EuroPat/v2/tmx/hr-no.tmx.gz
+EuroPat/v2/tmx/hr-pl.tmx.gz
+EuroPat/v2/tmx/no-pl.tmx.gz
+EuroPat/v2/xml/de.zip
+EuroPat/v2/xml/en.zip
+EuroPat/v2/xml/es.zip
+EuroPat/v2/xml/fr.zip
+EuroPat/v2/xml/hr.zip
+EuroPat/v2/xml/no.zip
+EuroPat/v2/xml/pl.zip

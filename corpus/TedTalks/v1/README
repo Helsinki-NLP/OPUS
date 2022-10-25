@@ -1,0 +1,38 @@
+ Corpus Name: TedTalks
+     Website: http://opus.nlpl.eu/TedTalks-v1.php
+     Release: v1
+Release date: Sun Mar  4 00:47:27 EET 2018
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+This is a Croatian-English parallel corpus of transcribed and translated TED talks, originally extracted from https://wit3.fbk.eu. The corpus is compiled by \&\#381;eljko Agi\&\#263; and is taken from http://lt.ffzg.hr/zagic provided under the CC-BY-NC-SA license.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+freq ...... token frequencies
+wordalign . word alignments
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+TedTalks/v1/freq/TedTalks.en.gz
+TedTalks/v1/freq/TedTalks.hr.gz
+TedTalks/v1/LICENSE
+TedTalks/v1/mono/TedTalks.en.gz
+TedTalks/v1/mono/TedTalks.hr.gz
+TedTalks/v1/mono/TedTalks.raw.en.gz
+TedTalks/v1/mono/TedTalks.raw.hr.gz
+TedTalks/v1/moses/en-hr.txt.zip
+TedTalks/v1/raw/en.zip
+TedTalks/v1/raw/hr.zip
+TedTalks/v1/README
+TedTalks/v1/tmx/en-hr.tmx.gz
+TedTalks/v1/xml/en-hr.xml.gz
+TedTalks/v1/xml/en.zip
+TedTalks/v1/xml/hr.zip

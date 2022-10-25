@@ -1,0 +1,38 @@
+ Corpus Name: MBS
+     Website: http://opus.nlpl.eu/MBS-v1.php
+     Release: v1
+Release date: Sat Mar  3 22:42:22 EET 2018
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+Corpus Moniteur belge/Belgisch Staatsblad provided by Tom Vanallemeersch. See Vanallemeersch (2010) 'Belgisch Staatsblad Corpus: Retrieving French-Dutch Sentences from Official Documents', Proceedings of LREC 7, Malta (please cite). The corpus is available for research purposes. Original Source: http://www.ccl.kuleuven.be/~tallem/
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+freq ...... token frequencies
+wordalign . word alignments
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+MBS/v1/freq/MBS.fr.gz
+MBS/v1/freq/MBS.nl.gz
+MBS/v1/LICENSE
+MBS/v1/mono/MBS.fr.gz
+MBS/v1/mono/MBS.nl.gz
+MBS/v1/mono/MBS.raw.fr.gz
+MBS/v1/mono/MBS.raw.nl.gz
+MBS/v1/moses/fr-nl.txt.zip
+MBS/v1/raw/fr.zip
+MBS/v1/raw/nl.zip
+MBS/v1/README
+MBS/v1/tmx/fr-nl.tmx.gz
+MBS/v1/xml/fr-nl.xml.gz
+MBS/v1/xml/fr.zip
+MBS/v1/xml/nl.zip

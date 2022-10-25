@@ -1,0 +1,42 @@
+ Corpus Name: MIZAN
+     Website: http://opus.nlpl.eu/MIZAN-v1.php
+     Release: v1
+Release date: Fri Nov 27 15:47:57 EET 2020
+     License: <a href=https://github.com/omidkashefi/Mizan/blob/master/LICENSE.md>CC-BY-4.0</a>
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite Kashefi, O. (2018). MIZAN: a large persian-english parallel corpus. Computing Research Repository, arXiv:1801.02107. [bibtex] and also acknoweldge OPUS for providing this service
+
+MIZAN: A Large Persian-English Parallel Corpus available from https://github.com/omidkashefi/Mizan/
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+MIZAN/v1/freq/en.freq.gz
+MIZAN/v1/freq/fa.freq.gz
+MIZAN/v1/mono/en.tok.gz
+MIZAN/v1/mono/en.txt.gz
+MIZAN/v1/mono/fa.tok.gz
+MIZAN/v1/mono/fa.txt.gz
+MIZAN/v1/moses/en-fa.txt.zip
+MIZAN/v1/parsed/en.zip
+MIZAN/v1/parsed/fa.zip
+MIZAN/v1/raw/en.zip
+MIZAN/v1/raw/fa.zip
+MIZAN/v1/smt/en-fa.alg.zip
+MIZAN/v1/smt/en-fa.zip
+MIZAN/v1/tmx/en-fa.tmx.gz
+MIZAN/v1/xml/en.zip
+MIZAN/v1/xml/fa.zip

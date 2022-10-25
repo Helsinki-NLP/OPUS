@@ -1,0 +1,108 @@
+ Corpus Name: WMT-News
+     Website: http://opus.nlpl.eu/WMT-News-v2014.php
+     Release: v2014
+Release date: Sun Mar  4 00:54:58 EET 2018
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+A parallel corpus of News Test Sets provided by WMT for training SMT: http://www.statmt.org/wmt14/
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+freq ...... token frequencies
+wordalign . word alignments
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+WMT-News/v2014/freq/WMT-News.cs.gz
+WMT-News/v2014/freq/WMT-News.de.gz
+WMT-News/v2014/freq/WMT-News.en.gz
+WMT-News/v2014/freq/WMT-News.es.gz
+WMT-News/v2014/freq/WMT-News.fr.gz
+WMT-News/v2014/freq/WMT-News.hi.gz
+WMT-News/v2014/freq/WMT-News.ru.gz
+WMT-News/v2014/LICENSE
+WMT-News/v2014/mono/WMT-News.cs.gz
+WMT-News/v2014/mono/WMT-News.de.gz
+WMT-News/v2014/mono/WMT-News.en.gz
+WMT-News/v2014/mono/WMT-News.es.gz
+WMT-News/v2014/mono/WMT-News.fr.gz
+WMT-News/v2014/mono/WMT-News.hi.gz
+WMT-News/v2014/mono/WMT-News.raw.cs.gz
+WMT-News/v2014/mono/WMT-News.raw.de.gz
+WMT-News/v2014/mono/WMT-News.raw.en.gz
+WMT-News/v2014/mono/WMT-News.raw.es.gz
+WMT-News/v2014/mono/WMT-News.raw.fr.gz
+WMT-News/v2014/mono/WMT-News.raw.hi.gz
+WMT-News/v2014/mono/WMT-News.raw.ru.gz
+WMT-News/v2014/mono/WMT-News.ru.gz
+WMT-News/v2014/moses/cs-de.txt.zip
+WMT-News/v2014/moses/cs-en.txt.zip
+WMT-News/v2014/moses/cs-es.txt.zip
+WMT-News/v2014/moses/cs-fr.txt.zip
+WMT-News/v2014/moses/cs-ru.txt.zip
+WMT-News/v2014/moses/de-en.txt.zip
+WMT-News/v2014/moses/de-es.txt.zip
+WMT-News/v2014/moses/de-fr.txt.zip
+WMT-News/v2014/moses/de-ru.txt.zip
+WMT-News/v2014/moses/en-es.txt.zip
+WMT-News/v2014/moses/en-fr.txt.zip
+WMT-News/v2014/moses/en-hi.txt.zip
+WMT-News/v2014/moses/en-ru.txt.zip
+WMT-News/v2014/moses/es-fr.txt.zip
+WMT-News/v2014/moses/es-ru.txt.zip
+WMT-News/v2014/moses/fr-ru.txt.zip
+WMT-News/v2014/raw/cs.zip
+WMT-News/v2014/raw/de.zip
+WMT-News/v2014/raw/en.zip
+WMT-News/v2014/raw/es.zip
+WMT-News/v2014/raw/fr.zip
+WMT-News/v2014/raw/hi.zip
+WMT-News/v2014/raw/ru.zip
+WMT-News/v2014/README
+WMT-News/v2014/tmx/cs-de.tmx.gz
+WMT-News/v2014/tmx/cs-en.tmx.gz
+WMT-News/v2014/tmx/cs-es.tmx.gz
+WMT-News/v2014/tmx/cs-fr.tmx.gz
+WMT-News/v2014/tmx/cs-ru.tmx.gz
+WMT-News/v2014/tmx/de-en.tmx.gz
+WMT-News/v2014/tmx/de-es.tmx.gz
+WMT-News/v2014/tmx/de-fr.tmx.gz
+WMT-News/v2014/tmx/de-ru.tmx.gz
+WMT-News/v2014/tmx/en-es.tmx.gz
+WMT-News/v2014/tmx/en-fr.tmx.gz
+WMT-News/v2014/tmx/en-hi.tmx.gz
+WMT-News/v2014/tmx/en-ru.tmx.gz
+WMT-News/v2014/tmx/es-fr.tmx.gz
+WMT-News/v2014/tmx/es-ru.tmx.gz
+WMT-News/v2014/tmx/fr-ru.tmx.gz
+WMT-News/v2014/xml/cs-de.xml.gz
+WMT-News/v2014/xml/cs-en.xml.gz
+WMT-News/v2014/xml/cs-es.xml.gz
+WMT-News/v2014/xml/cs-fr.xml.gz
+WMT-News/v2014/xml/cs-ru.xml.gz
+WMT-News/v2014/xml/cs.zip
+WMT-News/v2014/xml/de-en.xml.gz
+WMT-News/v2014/xml/de-es.xml.gz
+WMT-News/v2014/xml/de-fr.xml.gz
+WMT-News/v2014/xml/de-ru.xml.gz
+WMT-News/v2014/xml/de.zip
+WMT-News/v2014/xml/en-es.xml.gz
+WMT-News/v2014/xml/en-fr.xml.gz
+WMT-News/v2014/xml/en-hi.xml.gz
+WMT-News/v2014/xml/en-ru.xml.gz
+WMT-News/v2014/xml/en.zip
+WMT-News/v2014/xml/es-fr.xml.gz
+WMT-News/v2014/xml/es-ru.xml.gz
+WMT-News/v2014/xml/es.zip
+WMT-News/v2014/xml/fr-ru.xml.gz
+WMT-News/v2014/xml/fr.zip
+WMT-News/v2014/xml/hi.zip
+WMT-News/v2014/xml/ru.zip
