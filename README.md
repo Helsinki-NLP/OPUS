@@ -24,11 +24,44 @@ There are various data files that are derived from the core data sets.
 corpus/name/vX/moses ..... plain text files for each bitext (Moses format)
 corpus/name/vX/tmx ....... translation memory exchange format for each bitext
 corpus/name/vX/parsed .... parsed corpora in XML (not all data sets are parsed)
-corpus/name/vX/dic ....... a rough dictionary extracted from word alignment
 corpus/name/vX/mono ...... monolingual plain text files for each language
 corpus/name/vX/freq ...... token frequency lists
 corpus/name/vX/smt ....... word alignments and extracted phrase translation tables
+corpus/name/vX/dic ....... a rough dictionary extracted from word alignment
 ~~~
+
+## The OPUS ecosystem
+
+Tools for finding and processing OPUS data sets:
+
+* [OpusTools](https://github.com/Helsinki-NLP/OpusTools) - Python library and tools for accessing and processing OPUS data
+* [OpusTools-perl](https://github.com/Helsinki-NLP/OpusTools-perl) - Perl scripts for processing OPUS data
+* [OPUS-API](https://github.com/Helsinki-NLP/OPUS-API) - API for searching OPUS resources [[live API](https://opus.nlpl.eu/opusapi/)]
+* [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - a toolbox for filtering and compiling parallel corpora
+
+
+Managing OPUS (some with restricted access):
+
+* [OPUS-ingest](https://github.com/Helsinki-NLP/OPUS-ingest) - scripts for ingesting/importing data to OPUS
+* [OPUS-website](https://github.com/Helsinki-NLP/OPUS-website) - OPUS website
+* [OPUS-admin](https://github.com/Helsinki-NLP/OPUS-admin) - scripts and recipes for admin tasks
+* [OPUS-repository](https://github.com/Helsinki-NLP/OPUS-repository) - experimental data upload backend
+* [OPUS-interface](https://github.com/Helsinki-NLP/OPUS-interface) - web interface for the OPUS-repository
+* [OPUS-ISA](https://github.com/Helsinki-NLP/OPUS-ISA) - experimental sentence alignment interface
+
+
+Machine translation with OPUS-MT:
+
+* [Opus-MT](https://github.com/Helsinki-NLP/Opus-MT) - OPUS-MT web service setup
+* [OPUS-MT-train](https://github.com/Helsinki-NLP/OPUS-MT-train) - scripts and recipes for training OPUS-MT models
+* [OPUS-translator](https://github.com/Helsinki-NLP/OPUS-translator) - OPUS-MT web interface [[live demo](https://translate.ling.helsinki.fi/)]
+* [OPUS-MT-testsets](https://github.com/Helsinki-NLP/OPUS-MT-testsets) - a collection of MT benchmarks
+* [OPUS-MT-leaderboard](https://github.com/Helsinki-NLP/OPUS-MT-leaderboard) - OPUS-MT evaluation scores and leaderboards [[live](https://opus.nlpl.eu/leaderboard/)]
+* [OPUS-MT-map](https://github.com/Helsinki-NLP/OPUS-MT-map) - interactive map of OPUS-MT language coverage [[live demo](https://opus.nlpl.eu/NMT-map/Tatoeba-all/src2trg/index.html)]
+* [OPUS-MT-app](https://github.com/Helsinki-NLP/OPUS-MT-app) - desktop app for local translation with OPUS-MT (fork of of [translateLocally](https://github.com/XapaJIaMnu/translateLocally))
+* [OPUS-CAT](https://github.com/Helsinki-NLP/OPUS-CAT) - OPUS-MT integration in CAT tools
+
+
 
 
 ## Citing
@@ -50,3 +83,24 @@ and also acknowledge corpus-specific references as specified in the resource-spe
 }
 ```
 
+
+## Links to other resources
+
+* [mtdata](https://github.com/thammegowda/mtdata) - a library for retrieving MT datasets
+* [LanguageCodes](https://github.com/Helsinki-NLP/LanguageCodes) - Perl modules for managing language codes
+* [eflomal](https://github.com/robertostling/eflomal) - a tool for efficient word alignment
+
+
+## Acknowledgements
+
+OPUS and related resources and tools have been partially supported by various projects such as
+
+* [LetsMT!](http://project.letsmt.eu/)
+* [MeMAD](https://memad.eu/)
+* [neic-NLPL](https://wiki.neic.no/wiki/Nordic_language_processing_laboratory)
+* [EOSC-nordic](https://www.eosc-nordic.eu/)
+* [ELG](https://live.european-language-grid.eu/catalogue/project/2866)
+* [FoTran](https://www.helsinki.fi/en/researchgroups/natural-language-understanding)
+* HPLT
+
+OPUS is hosted by [CSC](https://www.csc.fi), the IT Center for Science in Finland, and heavily draws on the HPC resources provided by CSC. OPUS is also part of [NLPL](http://wiki.nlpl.eu), the Nordic Language Processing Laboratory. Last but not least, OPUS would not be possible without the various contributions from the community including aligned data sets and tools to create and process parallel corpora.
