@@ -56,9 +56,9 @@ Machine translation with OPUS-MT:
 * [OPUS-MT-train](https://github.com/Helsinki-NLP/OPUS-MT-train) - scripts and recipes for training OPUS-MT models
 * [OPUS-translator](https://github.com/Helsinki-NLP/OPUS-translator) - OPUS-MT web interface [[live demo](https://translate.ling.helsinki.fi/)]
 * [OPUS-MT-testsets](https://github.com/Helsinki-NLP/OPUS-MT-testsets) - a collection of MT benchmarks
-* [OPUS-MT-leaderboard](https://github.com/Helsinki-NLP/OPUS-MT-leaderboard) - OPUS-MT evaluation scores and leaderboards [[live](https://opus.nlpl.eu/leaderboard/)]
+* [OPUS-MT-leaderboard](https://github.com/Helsinki-NLP/OPUS-MT-leaderboard) - OPUS-MT evaluation scores and leaderboards [[live demo](https://opus.nlpl.eu/leaderboard/)]
 * [OPUS-MT-map](https://github.com/Helsinki-NLP/OPUS-MT-map) - interactive map of OPUS-MT language coverage [[live demo](https://opus.nlpl.eu/NMT-map/Tatoeba-all/src2trg/index.html)]
-* [OPUS-MT-app](https://github.com/Helsinki-NLP/OPUS-MT-app) - desktop app for local translation with OPUS-MT (fork of of [translateLocally](https://github.com/XapaJIaMnu/translateLocally))
+* [OPUS-MT-app](https://github.com/Helsinki-NLP/OPUS-MT-app) - desktop app for local translation with OPUS-MT (fork of [translateLocally](https://github.com/XapaJIaMnu/translateLocally))
 * [OPUS-CAT](https://github.com/Helsinki-NLP/OPUS-CAT) - OPUS-MT integration in CAT tools
 
 
@@ -88,7 +88,11 @@ and also acknowledge corpus-specific references as specified in the resource-spe
 
 * [mtdata](https://github.com/thammegowda/mtdata) - a library for retrieving MT datasets
 * [LanguageCodes](https://github.com/Helsinki-NLP/LanguageCodes) - Perl modules for managing language codes
-* [eflomal](https://github.com/robertostling/eflomal) - a tool for efficient word alignment
+* [eflomal](https://github.com/robertostling/eflomal) - a tool for efficient word alignment with [pre-trained priors from OPUS](https://opus.nlpl.eu/eflomal-priors.html)
+* [the Tatoeba translation challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - a comprehensive MT dataset compiled from OPUS and Tatoeba
+* [wiki back-translations](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/data/Backtranslations.md) - over a billion automatically translated sentences
+* [OPUS-SPM](https://github.com/Helsinki-NLP/OPUS-MT-train/blob/master/tatoeba/SentencePieceModels.md) - pre-trained sentence piece models from OPUS data
+
 
 
 ## Acknowledgements
