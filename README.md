@@ -3,7 +3,8 @@ The Open Parallel Corpus
 
 
 * website: http://opus.nlpl.eu
-* contact: jorg.tiedemann@helsinki.fi
+* github: https://github.com/Helsinki-NLP/OPUS
+* contact: opus-project AT helsinki DOT fi
 
 
 This directory contains information about the released parallel corpora and derived data
@@ -34,10 +35,10 @@ corpus/name/vX/dic ....... a rough dictionary extracted from word alignment
 
 Tools for finding and processing OPUS data sets:
 
-* [OpusTools](https://github.com/Helsinki-NLP/OpusTools) - Python library and tools for accessing and processing OPUS data
+* [OpusTools](https://github.com/Helsinki-NLP/OpusTools) - Python library and tools for accessing and processing OPUS data [[pypi](https://pypi.org/project/opustools/)]
 * [OpusTools-perl](https://github.com/Helsinki-NLP/OpusTools-perl) - Perl scripts for processing OPUS data
 * [OPUS-API](https://github.com/Helsinki-NLP/OPUS-API) - API for searching OPUS resources [[live API](https://opus.nlpl.eu/opusapi/)]
-* [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - a toolbox for filtering and compiling parallel corpora
+* [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - a toolbox for filtering and compiling parallel corpora [[doc](https://helsinki-nlp.github.io/OpusFilter/)]
 
 
 Managing OPUS (some with restricted access):
@@ -99,12 +100,13 @@ and also acknowledge corpus-specific references as specified in the resource-spe
 
 OPUS and related resources and tools have been partially supported by various projects such as
 
-* [LetsMT!](http://project.letsmt.eu/)
-* [MeMAD](https://memad.eu/)
-* [neic-NLPL](https://wiki.neic.no/wiki/Nordic_language_processing_laboratory)
-* [EOSC-nordic](https://www.eosc-nordic.eu/)
-* [ELG](https://live.european-language-grid.eu/catalogue/project/2866)
-* [FoTran](https://www.helsinki.fi/en/researchgroups/natural-language-understanding)
-* HPLT
+* [LetsMT!](http://project.letsmt.eu/) - A Platform for Online Sharing
+of Training Data and Building User Tailored Machine Translation (EU ICT PSP)
+* [MeMAD](https://memad.eu/) - Methods for Managing Audiovisual Data (EU Horizon 2020)
+* [NLPL](https://wiki.neic.no/wiki/Nordic_language_processing_laboratory) - the Nordic Language Processing Laboritory (neic)
+* [EOSC-nordic](https://www.eosc-nordic.eu/) - the European Open Science Cloud within the Nordic and Baltic countries (EU Horizon 2020)
+* [ELG](https://live.european-language-grid.eu/catalogue/project/2866) - the European Language Grid (EU Horizon 2020)
+* [FoTran](https://www.helsinki.fi/en/researchgroups/natural-language-understanding) - Found in Translation (EU ERC)
+* HPLT - High-Performance Language Technologies (EU Horizon)
 
 OPUS is hosted by [CSC](https://www.csc.fi), the IT Center for Science in Finland, and heavily draws on the HPC resources provided by CSC. OPUS is also part of [NLPL](http://wiki.nlpl.eu), the Nordic Language Processing Laboratory. Last but not least, OPUS would not be possible without the various contributions from the community including aligned data sets and tools to create and process parallel corpora.
