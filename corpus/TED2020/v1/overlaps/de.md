@@ -4,8 +4,8 @@ Estimation of the overlap with other OPUS corpora
 based on the number of matching sentences in language 'de'.
 (de-duplicated, exact matches)
 
-| corpus | size | matching sentences | percentage |
-|--------|------|--------------------|------------|
+| corpus | version | size | matching sentences | percentage |
+|--------|:-------:|-----:|-------------------:|-----------:|
 | QED | v2.0a | 684273 | 157840/329147 | 47.95 |
 | TED2013 | v1.1 | 142424 | 110761/329147 | 33.65 |
 | MultiParaCrawl | v9 | 220731737 | 37234/329147 | 11.31 |

@@ -4,8 +4,8 @@ Estimation of the overlap with other OPUS corpora
 based on the number of matching sentences in language 'en-es'.
 (de-duplicated, exact matches)
 
-| corpus | size | matching sentences | percentage |
-|--------|------|--------------------|------------|
+| corpus | version | size | matching sentences | percentage |
+|--------|:-------:|-----:|-------------------:|-----------:|
 | QED | v2.0a | 1051812 | 127218/405946 | 31.33 |
 | TED2013 | v1.1 | 156698 | 123250/405946 | 30.36 |
 | CCMatrix | v1 | 405034797 | 36880/405946 | 9.08 |

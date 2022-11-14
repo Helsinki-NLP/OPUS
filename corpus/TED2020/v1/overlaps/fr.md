@@ -4,8 +4,8 @@ Estimation of the overlap with other OPUS corpora
 based on the number of matching sentences in language 'fr'.
 (de-duplicated, exact matches)
 
-| corpus | size | matching sentences | percentage |
-|--------|------|--------------------|------------|
+| corpus | version | size | matching sentences | percentage |
+|--------|:-------:|-----:|-------------------:|-----------:|
 | QED | v2.0a | 1265895 | 155343/437124 | 35.53 |
 | TED2013 | v1.1 | 158664 | 125873/437124 | 28.79 |
 | MultiParaCrawl | v8 | 199141573 | 52561/437124 | 12.02 |

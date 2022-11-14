@@ -4,8 +4,8 @@ Estimation of the overlap with other OPUS corpora
 based on the number of matching sentences in language 'en-fi'.
 (de-duplicated, exact matches)
 
-| corpus | size | matching sentences | percentage |
-|--------|------|--------------------|------------|
+| corpus | version | size | matching sentences | percentage |
+|--------|:-------:|-----:|-------------------:|-----------:|
 | QED | v2.0a | 96483 | 18822/43555 | 43.21 |
 | ParaCrawl | v9 | 31315288 | 3306/43555 | 7.59 |
 | CCMatrix | v1 | 35804134 | 834/43555 | 1.91 |
