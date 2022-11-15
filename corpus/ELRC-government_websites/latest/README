@@ -1,0 +1,164 @@
+ Corpus Name: ELRC-government_websites
+     Website: http://opus.nlpl.eu/ELRC-government_websites-v1.php
+     Release: v1
+Release date: Mon Nov  7 13:22:44 EET 2022
+     License: openUnder-PSI
+   Copyright: Check details at <a href=https://elrc-share.eu/repository/browse/english-portuguese-website-parallel-corpus-processed/d6057afaea8d11e9913100155d0267061bb29ef57d224c478a9fffdb9425f26f/>ELRC share</a>
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please acknowledge the <a href=https://elrc-share.eu/repository/browse/english-portuguese-website-parallel-corpus-processed/d6057afaea8d11e9913100155d0267061bb29ef57d224c478a9fffdb9425f26f/>original sources and providers</a> of the data and also <a href=http://opus.lingfil.uu.se/LREC2012.txt>cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href=http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+English-Portuguese website parallel corpus (Processed)   
+ELRC-2560-government_websites_English_Portuguese is a public data set distributed by the https://www.elrc-share.eu
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-government_websites/v1/freq/de.freq.gz
+ELRC-government_websites/v1/freq/en.freq.gz
+ELRC-government_websites/v1/freq/es.freq.gz
+ELRC-government_websites/v1/freq/fr.freq.gz
+ELRC-government_websites/v1/freq/ga.freq.gz
+ELRC-government_websites/v1/freq/hr.freq.gz
+ELRC-government_websites/v1/freq/it.freq.gz
+ELRC-government_websites/v1/freq/pt.freq.gz
+ELRC-government_websites/v1/mono/de.tok.gz
+ELRC-government_websites/v1/mono/de.txt.gz
+ELRC-government_websites/v1/mono/en.tok.gz
+ELRC-government_websites/v1/mono/en.txt.gz
+ELRC-government_websites/v1/mono/es.tok.gz
+ELRC-government_websites/v1/mono/es.txt.gz
+ELRC-government_websites/v1/mono/fr.tok.gz
+ELRC-government_websites/v1/mono/fr.txt.gz
+ELRC-government_websites/v1/mono/ga.tok.gz
+ELRC-government_websites/v1/mono/ga.txt.gz
+ELRC-government_websites/v1/mono/hr.tok.gz
+ELRC-government_websites/v1/mono/hr.txt.gz
+ELRC-government_websites/v1/mono/it.tok.gz
+ELRC-government_websites/v1/mono/it.txt.gz
+ELRC-government_websites/v1/mono/pt.tok.gz
+ELRC-government_websites/v1/mono/pt.txt.gz
+ELRC-government_websites/v1/moses/de-es.txt.zip
+ELRC-government_websites/v1/moses/en-es.txt.zip
+ELRC-government_websites/v1/moses/en-ga.txt.zip
+ELRC-government_websites/v1/moses/en-hr.txt.zip
+ELRC-government_websites/v1/moses/en-pt.txt.zip
+ELRC-government_websites/v1/moses/es-fr.txt.zip
+ELRC-government_websites/v1/moses/es-ga.txt.zip
+ELRC-government_websites/v1/moses/es-hr.txt.zip
+ELRC-government_websites/v1/moses/es-it.txt.zip
+ELRC-government_websites/v1/moses/es-pt.txt.zip
+ELRC-government_websites/v1/moses/ga-pt.txt.zip
+ELRC-government_websites/v1/raw/de.zip
+ELRC-government_websites/v1/raw/en.zip
+ELRC-government_websites/v1/raw/es.zip
+ELRC-government_websites/v1/raw/fr.zip
+ELRC-government_websites/v1/raw/ga.zip
+ELRC-government_websites/v1/raw/hr.zip
+ELRC-government_websites/v1/raw/it.zip
+ELRC-government_websites/v1/raw/pt.zip
+ELRC-government_websites/v1/tmx/de-es.tmx.gz
+ELRC-government_websites/v1/tmx/en-es.tmx.gz
+ELRC-government_websites/v1/tmx/en-ga.tmx.gz
+ELRC-government_websites/v1/tmx/en-hr.tmx.gz
+ELRC-government_websites/v1/tmx/en-pt.tmx.gz
+ELRC-government_websites/v1/tmx/es-fr.tmx.gz
+ELRC-government_websites/v1/tmx/es-ga.tmx.gz
+ELRC-government_websites/v1/tmx/es-hr.tmx.gz
+ELRC-government_websites/v1/tmx/es-it.tmx.gz
+ELRC-government_websites/v1/tmx/es-pt.tmx.gz
+ELRC-government_websites/v1/tmx/ga-pt.tmx.gz
+ELRC-government_websites/v1/xml/de.zip
+ELRC-government_websites/v1/xml/en.zip
+ELRC-government_websites/v1/xml/es.zip
+ELRC-government_websites/v1/xml/fr.zip
+ELRC-government_websites/v1/xml/ga.zip
+ELRC-government_websites/v1/xml/hr.zip
+ELRC-government_websites/v1/xml/it.zip
+ELRC-government_websites/v1/xml/pt.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-government_websites/v1/freq/de.freq.gz
+ELRC-government_websites/v1/freq/en.freq.gz
+ELRC-government_websites/v1/freq/es.freq.gz
+ELRC-government_websites/v1/freq/fr.freq.gz
+ELRC-government_websites/v1/freq/ga.freq.gz
+ELRC-government_websites/v1/freq/hr.freq.gz
+ELRC-government_websites/v1/freq/it.freq.gz
+ELRC-government_websites/v1/freq/pt.freq.gz
+ELRC-government_websites/v1/mono/de.tok.gz
+ELRC-government_websites/v1/mono/de.txt.gz
+ELRC-government_websites/v1/mono/en.tok.gz
+ELRC-government_websites/v1/mono/en.txt.gz
+ELRC-government_websites/v1/mono/es.tok.gz
+ELRC-government_websites/v1/mono/es.txt.gz
+ELRC-government_websites/v1/mono/fr.tok.gz
+ELRC-government_websites/v1/mono/fr.txt.gz
+ELRC-government_websites/v1/mono/ga.tok.gz
+ELRC-government_websites/v1/mono/ga.txt.gz
+ELRC-government_websites/v1/mono/hr.tok.gz
+ELRC-government_websites/v1/mono/hr.txt.gz
+ELRC-government_websites/v1/mono/it.tok.gz
+ELRC-government_websites/v1/mono/it.txt.gz
+ELRC-government_websites/v1/mono/pt.tok.gz
+ELRC-government_websites/v1/mono/pt.txt.gz
+ELRC-government_websites/v1/moses/de-es.txt.zip
+ELRC-government_websites/v1/moses/en-es.txt.zip
+ELRC-government_websites/v1/moses/en-ga.txt.zip
+ELRC-government_websites/v1/moses/en-hr.txt.zip
+ELRC-government_websites/v1/moses/en-pt.txt.zip
+ELRC-government_websites/v1/moses/es-fr.txt.zip
+ELRC-government_websites/v1/moses/es-ga.txt.zip
+ELRC-government_websites/v1/moses/es-hr.txt.zip
+ELRC-government_websites/v1/moses/es-it.txt.zip
+ELRC-government_websites/v1/moses/es-pt.txt.zip
+ELRC-government_websites/v1/moses/ga-pt.txt.zip
+ELRC-government_websites/v1/raw/de.zip
+ELRC-government_websites/v1/raw/en.zip
+ELRC-government_websites/v1/raw/es.zip
+ELRC-government_websites/v1/raw/fr.zip
+ELRC-government_websites/v1/raw/ga.zip
+ELRC-government_websites/v1/raw/hr.zip
+ELRC-government_websites/v1/raw/it.zip
+ELRC-government_websites/v1/raw/pt.zip
+ELRC-government_websites/v1/tmx/de-es.tmx.gz
+ELRC-government_websites/v1/tmx/en-es.tmx.gz
+ELRC-government_websites/v1/tmx/en-ga.tmx.gz
+ELRC-government_websites/v1/tmx/en-hr.tmx.gz
+ELRC-government_websites/v1/tmx/en-pt.tmx.gz
+ELRC-government_websites/v1/tmx/es-fr.tmx.gz
+ELRC-government_websites/v1/tmx/es-ga.tmx.gz
+ELRC-government_websites/v1/tmx/es-hr.tmx.gz
+ELRC-government_websites/v1/tmx/es-it.tmx.gz
+ELRC-government_websites/v1/tmx/es-pt.tmx.gz
+ELRC-government_websites/v1/tmx/ga-pt.tmx.gz
+ELRC-government_websites/v1/xml/de.zip
+ELRC-government_websites/v1/xml/en.zip
+ELRC-government_websites/v1/xml/es.zip
+ELRC-government_websites/v1/xml/fr.zip
+ELRC-government_websites/v1/xml/ga.zip
+ELRC-government_websites/v1/xml/hr.zip
+ELRC-government_websites/v1/xml/it.zip
+ELRC-government_websites/v1/xml/pt.zip

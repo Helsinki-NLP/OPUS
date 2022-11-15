@@ -1,0 +1,322 @@
+ Corpus Name: ELRC-2480-Estatuto_dos_Deputad
+     Website: http://opus.nlpl.eu/ELRC-2480-Estatuto_dos_Deputad-v1.php
+     Release: v1
+Release date: Mon Oct 31 19:08:42 EET 2022
+     License: publicDomain
+   Copyright: publicDomain
+
+This corpus is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+Estatuto dos Deputados   
+ELRC-2480-Estatuto_dos_Deputados is a public data set distributed by the https://www.elrc-share.eu
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/ca.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/en.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/es.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/fr.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/it.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/pt.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/ca.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/ca.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/en.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/en.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/es.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/es.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/fr.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/fr.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/it.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/it.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/pt.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/pt.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-en.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-fr.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-es.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-fr.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-it.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-it.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/ca.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-es.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-fr.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-en.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-fr.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-es.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-fr.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-it.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-it.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/ca.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/pt.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/ca.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/en.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/es.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/fr.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/it.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/pt.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/ca.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/ca.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/en.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/en.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/es.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/es.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/fr.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/fr.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/it.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/it.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/pt.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/pt.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-en.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-fr.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-es.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-fr.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-it.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-it.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/ca.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-es.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-fr.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-en.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-fr.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-es.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-fr.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-it.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-it.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/ca.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/pt.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/ca.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/en.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/es.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/fr.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/it.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/pt.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/ca.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/ca.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/en.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/en.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/es.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/es.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/fr.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/fr.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/it.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/it.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/pt.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/pt.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-en.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-fr.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-es.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-fr.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-it.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-it.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/ca.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-es.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-fr.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-en.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-fr.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-es.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-fr.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-it.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-it.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/ca.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/pt.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/ca.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/en.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/es.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/fr.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/it.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/freq/pt.freq.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/ca.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/ca.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/en.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/en.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/es.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/es.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/fr.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/fr.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/it.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/it.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/pt.tok.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/mono/pt.txt.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-en.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-fr.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-es.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-fr.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-it.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/en-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-it.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-pt.txt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/ca.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/raw/pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-es.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-fr.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-pt.alg.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-pt.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-en.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-fr.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-es.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-fr.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-it.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/en-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-it.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-pt.tmx.gz
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/ca.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/en.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/es.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/fr.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/it.zip
+ELRC-2480-Estatuto_dos_Deputad/v1/xml/pt.zip
