@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-pt:
+    alignments: 86
+    downloads:
+      alignments:
+        size: 899
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/xml/en-pt.xml.gz
+      smt phrase table:
+        size: 28637
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/smt/en-pt.zip
+      source language:
+        size: 6175
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/raw/en.zip
+      target language:
+        size: 6482
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/raw/pt.zip
+      tokenized source language:
+        size: 12653
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/xml/en.zip
+      tokenized target language:
+        size: 13303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/xml/pt.zip
+      word alignment dictionary:
+        size: 2379
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/dic/en-pt.dic.gz
+      word alignments:
+        size: 10711
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/smt/en-pt.alg.zip
+    files: 1
+    source language tokens: 87
+    target language tokens: 1638
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 2483
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/freq/en.freq.gz
+      plain text:
+        size: 3897
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/mono/en.txt.gz
+      tokenized text:
+        size: 3923
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 12653
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/xml/en.zip
+      xml:
+        size: 6175
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/raw/en.zip
+    files: 1
+    sentences: 116
+    tokens: 1884
+  pt:
+    downloads:
+      frequency list:
+        size: 2821
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/freq/pt.freq.gz
+      plain text:
+        size: 4208
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/mono/pt.txt.gz
+      tokenized text:
+        size: 4224
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/mono/pt.tok.gz
+      tokenized xml:
+        size: 13303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/xml/pt.zip
+      xml:
+        size: 6482
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/raw/pt.zip
+    files: 1
+    sentences: 108
+    tokens: 1967
+moses:
+  en-pt:
+    alignments: 87
+    download size: 10205
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/moses/en-pt.txt.zip
+    source language tokens: 1638
+    target language tokens: 1693
+tmx:
+  en-pt:
+    download size: 8530
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2474-Marketing_Influncia/v1/tmx/en-pt.tmx.gz
+    source language tokens: 1638
+    target language tokens: 1693
+    translation units: 87

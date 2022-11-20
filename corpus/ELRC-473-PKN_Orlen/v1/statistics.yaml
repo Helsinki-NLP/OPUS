@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 2337
+    downloads:
+      alignments:
+        size: 20767
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/xml/en-pl.xml.gz
+      source language:
+        size: 133894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/raw/en.zip
+      target language:
+        size: 147843
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/raw/pl.zip
+      tokenized source language:
+        size: 381868
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/xml/en.zip
+      tokenized target language:
+        size: 371968
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/xml/pl.zip
+    files: 1
+    source language tokens: 2343
+    target language tokens: 52706
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 27376
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/freq/en.freq.gz
+      plain text:
+        size: 122899
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/mono/en.txt.gz
+      tokenized text:
+        size: 123288
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 381868
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/xml/en.zip
+      xml:
+        size: 133894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/raw/en.zip
+    files: 1
+    sentences: 2447
+    tokens: 69940
+  pl:
+    downloads:
+      frequency list:
+        size: 47093
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/freq/pl.freq.gz
+      plain text:
+        size: 136248
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 136549
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 371968
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/xml/pl.zip
+      xml:
+        size: 147843
+        url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/raw/pl.zip
+    files: 1
+    sentences: 2463
+    tokens: 60393
+moses:
+  en-pl:
+    alignments: 2344
+    download size: 272464
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/moses/en-pl.txt.zip
+    source language tokens: 52808
+    target language tokens: 62191
+tmx:
+  en-pl:
+    download size: 292642
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-473-PKN_Orlen/v1/tmx/en-pl.tmx.gz
+    source language tokens: 52706
+    target language tokens: 62078
+    translation units: 2337

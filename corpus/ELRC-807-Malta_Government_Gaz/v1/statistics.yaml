@@ -1,0 +1,83 @@
+---
+bitexts:
+  en-mt:
+    alignments: 4041
+    downloads:
+      alignments:
+        size: 43331
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/xml/en-mt.xml.gz
+      source language:
+        size: 174595
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/raw/en.zip
+      target language:
+        size: 182779
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/raw/mt.zip
+      tokenized source language:
+        size: 583671
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/xml/en.zip
+      tokenized target language:
+        size: 675663
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/xml/mt.zip
+    files: 1
+    source language tokens: 5397
+    target language tokens: 62376
+monolingual:
+  807:
+    downloads:
+      tokenized xml:
+        size: 1450
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/xml/807.zip
+  en:
+    downloads:
+      frequency list:
+        size: 33098
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/freq/en.freq.gz
+      plain text:
+        size: 149455
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/mono/en.txt.gz
+      tokenized text:
+        size: 151067
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 583671
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/xml/en.zip
+      xml:
+        size: 174595
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/raw/en.zip
+    files: 1
+    sentences: 5606
+    tokens: 107372
+  mt:
+    downloads:
+      frequency list:
+        size: 34782
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/freq/mt.freq.gz
+      plain text:
+        size: 157717
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/mono/mt.txt.gz
+      tokenized text:
+        size: 159799
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/mono/mt.tok.gz
+      tokenized xml:
+        size: 675663
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/xml/mt.zip
+      xml:
+        size: 182779
+        url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/raw/mt.zip
+    files: 1
+    sentences: 5613
+    tokens: 126107
+moses:
+  en-mt:
+    alignments: 5391
+    download size: 337143
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/moses/en-mt.txt.zip
+    source language tokens: 75204
+    target language tokens: 89742
+tmx:
+  en-mt:
+    download size: 316400
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-807-Malta_Government_Gaz/v1/tmx/en-mt.tmx.gz
+    source language tokens: 62376
+    target language tokens: 74504
+    translation units: 4041

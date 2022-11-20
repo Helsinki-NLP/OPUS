@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-sk:
+    alignments: 8040
+    downloads:
+      alignments:
+        size: 112716
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/xml/en-sk.xml.gz
+      smt phrase table:
+        size: 2335525
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/smt/en-sk.zip
+      source language:
+        size: 340347
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/raw/en.zip
+      target language:
+        size: 373283
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/raw/sk.zip
+      tokenized source language:
+        size: 1000088
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/xml/en.zip
+      tokenized target language:
+        size: 981836
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/xml/sk.zip
+      word alignment dictionary:
+        size: 133665
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/dic/en-sk.dic.gz
+      word alignments:
+        size: 530045
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/smt/en-sk.alg.zip
+    files: 1
+    source language tokens: 8041
+    target language tokens: 136758
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 38864
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/freq/en.freq.gz
+      plain text:
+        size: 305968
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/mono/en.txt.gz
+      tokenized text:
+        size: 307950
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1000088
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/xml/en.zip
+      xml:
+        size: 340347
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/raw/en.zip
+    files: 1
+    sentences: 8359
+    tokens: 180161
+  sk:
+    downloads:
+      frequency list:
+        size: 72142
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/freq/sk.freq.gz
+      plain text:
+        size: 335430
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/mono/sk.txt.gz
+      tokenized text:
+        size: 337023
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/mono/sk.tok.gz
+      tokenized xml:
+        size: 981836
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/xml/sk.zip
+      xml:
+        size: 373283
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/raw/sk.zip
+    files: 1
+    sentences: 8631
+    tokens: 157846
+moses:
+  en-sk:
+    alignments: 8041
+    download size: 683330
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/moses/en-sk.txt.zip
+    source language tokens: 136758
+    target language tokens: 158573
+tmx:
+  en-sk:
+    download size: 748794
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1072-annual_reports_immig/v1/tmx/en-sk.tmx.gz
+    source language tokens: 136758
+    target language tokens: 158573
+    translation units: 8041

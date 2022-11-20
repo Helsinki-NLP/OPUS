@@ -1,0 +1,87 @@
+---
+bitexts:
+  el-en:
+    alignments: 1434
+    downloads:
+      alignments:
+        size: 13092
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/el-en.xml.gz
+      smt phrase table:
+        size: 558854
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/smt/el-en.zip
+      source language:
+        size: 78457
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/raw/el.zip
+      target language:
+        size: 59486
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/raw/en.zip
+      tokenized source language:
+        size: 191354
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/el.zip
+      tokenized target language:
+        size: 176120
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/en.zip
+      word alignment dictionary:
+        size: 31292
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/dic/el-en.dic.gz
+      word alignments:
+        size: 98621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/smt/el-en.alg.zip
+    files: 1
+    source language tokens: 1434
+    target language tokens: 26548
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 23638
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/freq/el.freq.gz
+      plain text:
+        size: 69833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/mono/el.txt.gz
+      tokenized text:
+        size: 70133
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 191354
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/el.zip
+      xml:
+        size: 78457
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/raw/el.zip
+    files: 1
+    sentences: 1739
+    tokens: 30601
+  en:
+    downloads:
+      frequency list:
+        size: 12930
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/freq/en.freq.gz
+      plain text:
+        size: 50842
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/mono/en.txt.gz
+      tokenized text:
+        size: 51132
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 176120
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/en.zip
+      xml:
+        size: 59486
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/raw/en.zip
+    files: 1
+    sentences: 1754
+    tokens: 32484
+moses:
+  el-en:
+    alignments: 1435
+    download size: 130975
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/moses/el-en.txt.zip
+    source language tokens: 26550
+    target language tokens: 28007
+tmx:
+  el-en:
+    download size: 142273
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/tmx/el-en.tmx.gz
+    source language tokens: 26548
+    target language tokens: 28005
+    translation units: 1434

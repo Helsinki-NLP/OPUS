@@ -1,0 +1,87 @@
+---
+bitexts:
+  da-en:
+    alignments: 800
+    downloads:
+      alignments:
+        size: 5716
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/xml/da-en.xml.gz
+      smt phrase table:
+        size: 230212
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/smt/da-en.zip
+      source language:
+        size: 34163
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/raw/da.zip
+      target language:
+        size: 32389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/raw/en.zip
+      tokenized source language:
+        size: 92006
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/xml/da.zip
+      tokenized target language:
+        size: 90705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/xml/en.zip
+      word alignment dictionary:
+        size: 14976
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/dic/da-en.dic.gz
+      word alignments:
+        size: 51223
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/smt/da-en.alg.zip
+    files: 1
+    source language tokens: 801
+    target language tokens: 13310
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 12107
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/freq/da.freq.gz
+      plain text:
+        size: 29414
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/mono/da.txt.gz
+      tokenized text:
+        size: 29651
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 92006
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/xml/da.zip
+      xml:
+        size: 34163
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/raw/da.zip
+    files: 1
+    sentences: 805
+    tokens: 15810
+  en:
+    downloads:
+      frequency list:
+        size: 9608
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/freq/en.freq.gz
+      plain text:
+        size: 27783
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/mono/en.txt.gz
+      tokenized text:
+        size: 27941
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 90705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/xml/en.zip
+      xml:
+        size: 32389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/raw/en.zip
+    files: 1
+    sentences: 804
+    tokens: 16170
+moses:
+  da-en:
+    alignments: 801
+    download size: 62520
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/moses/da-en.txt.zip
+    source language tokens: 13310
+    target language tokens: 13924
+tmx:
+  da-en:
+    download size: 65124
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3204-antibiotic/v1/tmx/da-en.tmx.gz
+    source language tokens: 13310
+    target language tokens: 13924
+    translation units: 801

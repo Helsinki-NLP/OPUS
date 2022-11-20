@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-hi:
+    alignments: 1331242
+    downloads:
+      alignments:
+        size: 12396470
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/xml/en-hi.xml.gz
+      source language:
+        size: 47227831
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/raw/en.zip
+      target language:
+        size: 62203439
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/raw/hi.zip
+      tokenized source language:
+        size: 128506450
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/xml/en.zip
+      tokenized target language:
+        size: 173396270
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/xml/hi.zip
+    files: 1
+    source language tokens: 1561173
+    target language tokens: 18668287
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 906129
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/freq/en.freq.gz
+      plain text:
+        size: 39285213
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/mono/en.txt.gz
+      tokenized text:
+        size: 39495572
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/mono/en.tok.gz
+      tokenized xml:
+        size: 128506450
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/xml/en.zip
+      xml:
+        size: 47227831
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/raw/en.zip
+    files: 1
+    sentences: 1743152
+    tokens: 22594639
+  hi:
+    downloads:
+      frequency list:
+        size: 850257
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/freq/hi.freq.gz
+      plain text:
+        size: 56856226
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/mono/hi.txt.gz
+      tokenized text:
+        size: 50569344
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/mono/hi.tok.gz
+      tokenized xml:
+        size: 173396270
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/xml/hi.zip
+      xml:
+        size: 62203439
+        url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/raw/hi.zip
+    files: 1
+    sentences: 1563381
+    tokens: 34202009
+moses:
+  en-hi:
+    alignments: 1555734
+    download size: 104073421
+    download url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/moses/en-hi.txt.zip
+    source language tokens: 19811238
+    target language tokens: 21394352
+tmx:
+  en-hi:
+    download size: 108343899
+    download url: https://object.pouta.csc.fi/OPUS-IITB/v2.0/tmx/en-hi.tmx.gz
+    source language tokens: 18668287
+    target language tokens: 20169501
+    translation units: 1331242

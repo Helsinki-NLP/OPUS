@@ -1,0 +1,78 @@
+---
+bitexts:
+  bg-en:
+    alignments: 2633
+    downloads:
+      alignments:
+        size: 22737
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/xml/bg-en.xml.gz
+      source language:
+        size: 142995
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/raw/bg.zip
+      target language:
+        size: 113137
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/raw/en.zip
+      tokenized source language:
+        size: 366558
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/xml/bg.zip
+      tokenized target language:
+        size: 330848
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/xml/en.zip
+    files: 1
+    source language tokens: 2989
+    target language tokens: 51153
+monolingual:
+  bg:
+    downloads:
+      frequency list:
+        size: 32399
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/freq/bg.freq.gz
+      plain text:
+        size: 130227
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/mono/bg.txt.gz
+      tokenized text:
+        size: 130937
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/mono/bg.tok.gz
+      tokenized xml:
+        size: 366558
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/xml/bg.zip
+      xml:
+        size: 142995
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/raw/bg.zip
+    files: 1
+    sentences: 3018
+    tokens: 61127
+  en:
+    downloads:
+      frequency list:
+        size: 19228
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/freq/en.freq.gz
+      plain text:
+        size: 100689
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 100967
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 330848
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/xml/en.zip
+      xml:
+        size: 113137
+        url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/raw/en.zip
+    files: 1
+    sentences: 3000
+    tokens: 60618
+moses:
+  bg-en:
+    alignments: 2990
+    download size: 247329
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/moses/bg-en.txt.zip
+    source language tokens: 52500
+    target language tokens: 53982
+tmx:
+  bg-en:
+    download size: 264930
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-437-Bulgarian_strategic_/v1/tmx/bg-en.tmx.gz
+    source language tokens: 51153
+    target language tokens: 52633
+    translation units: 2633

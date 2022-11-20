@@ -1,0 +1,87 @@
+---
+bitexts:
+  de-it:
+    alignments: 15938
+    downloads:
+      alignments:
+        size: 139043
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/de-it.xml.gz
+      smt phrase table:
+        size: 6272919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/smt/de-it.zip
+      source language:
+        size: 887703
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/raw/de.zip
+      target language:
+        size: 860108
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/raw/it.zip
+      tokenized source language:
+        size: 2525359
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/de.zip
+      tokenized target language:
+        size: 2763833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/it.zip
+      word alignment dictionary:
+        size: 187855
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/dic/de-it.dic.gz
+      word alignments:
+        size: 1459882
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/smt/de-it.alg.zip
+    files: 1
+    source language tokens: 16008
+    target language tokens: 377985
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 141595
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/freq/de.freq.gz
+      plain text:
+        size: 820306
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/mono/de.txt.gz
+      tokenized text:
+        size: 823084
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 2525359
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/de.zip
+      xml:
+        size: 887703
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/raw/de.zip
+    files: 1
+    sentences: 16750
+    tokens: 436910
+  it:
+    downloads:
+      frequency list:
+        size: 85146
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/freq/it.freq.gz
+      plain text:
+        size: 775068
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/mono/it.txt.gz
+      tokenized text:
+        size: 778473
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/mono/it.tok.gz
+      tokenized xml:
+        size: 2763833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/it.zip
+      xml:
+        size: 860108
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/raw/it.zip
+    files: 1
+    sentences: 20230
+    tokens: 512003
+moses:
+  de-it:
+    alignments: 16008
+    download size: 1689698
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/moses/de-it.txt.zip
+    source language tokens: 379382
+    target language tokens: 421085
+tmx:
+  de-it:
+    download size: 1764635
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/tmx/de-it.tmx.gz
+    source language tokens: 377985
+    target language tokens: 419635
+    translation units: 15938

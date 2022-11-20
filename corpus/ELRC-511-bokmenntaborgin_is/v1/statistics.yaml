@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 329
+    downloads:
+      alignments:
+        size: 4391
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/xml/en-is.xml.gz
+      source language:
+        size: 16123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/raw/en.zip
+      target language:
+        size: 16682
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/raw/is.zip
+      tokenized source language:
+        size: 34768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/xml/en.zip
+      tokenized target language:
+        size: 33624
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/xml/is.zip
+    files: 1
+    source language tokens: 330
+    target language tokens: 4216
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 8002
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/freq/en.freq.gz
+      plain text:
+        size: 13003
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/mono/en.txt.gz
+      tokenized text:
+        size: 13070
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 34768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/xml/en.zip
+      xml:
+        size: 16123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/raw/en.zip
+    files: 1
+    sentences: 335
+    tokens: 5478
+  is:
+    downloads:
+      frequency list:
+        size: 9391
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/freq/is.freq.gz
+      plain text:
+        size: 13439
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/mono/is.txt.gz
+      tokenized text:
+        size: 13517
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 33624
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/xml/is.zip
+      xml:
+        size: 16682
+        url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/raw/is.zip
+    files: 1
+    sentences: 353
+    tokens: 4954
+moses:
+  en-is:
+    alignments: 330
+    download size: 29764
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/moses/en-is.txt.zip
+    source language tokens: 4216
+    target language tokens: 4636
+tmx:
+  en-is:
+    download size: 27268
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-511-bokmenntaborgin_is/v1/tmx/en-is.tmx.gz
+    source language tokens: 4216
+    target language tokens: 4636
+    translation units: 330

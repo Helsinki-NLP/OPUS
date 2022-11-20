@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 2272
+    downloads:
+      alignments:
+        size: 18341
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 99781
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/raw/en.zip
+      target language:
+        size: 96671
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 267575
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/xml/en.zip
+      tokenized target language:
+        size: 239367
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 2273
+    target language tokens: 35086
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 21342
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/freq/en.freq.gz
+      plain text:
+        size: 88660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 89135
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 267575
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/xml/en.zip
+      xml:
+        size: 99781
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/raw/en.zip
+    files: 1
+    sentences: 2321
+    tokens: 46745
+  nb:
+    downloads:
+      frequency list:
+        size: 28565
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 84890
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 85279
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 239367
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/xml/nb.zip
+      xml:
+        size: 96671
+        url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/raw/nb.zip
+    files: 1
+    sentences: 2379
+    tokens: 40085
+moses:
+  en-nb:
+    alignments: 2273
+    download size: 186750
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/moses/en-nb.txt.zip
+    source language tokens: 35086
+    target language tokens: 41850
+tmx:
+  en-nb:
+    download size: 197769
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-537-www.sjofartsdir.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 35086
+    target language tokens: 41850
+    translation units: 2273

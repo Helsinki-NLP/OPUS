@@ -1,0 +1,164 @@
+---
+bitexts:
+  en-hr:
+    alignments: 7910
+    downloads:
+      alignments:
+        size: 65607
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/en-hr.xml.gz
+      source language:
+        size: 386874
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/en.zip
+      target language:
+        size: 347065
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/hr.zip
+      tokenized source language:
+        size: 1135720
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/en.zip
+      tokenized target language:
+        size: 930750
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/hr.zip
+    files: 1
+    source language tokens: 7911
+    target language tokens: 136809
+  en-pl:
+    alignments: 1355
+    downloads:
+      alignments:
+        size: 18806
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/en-pl.xml.gz
+      source language:
+        size: 386874
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/en.zip
+      target language:
+        size: 60115
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/pl.zip
+      tokenized source language:
+        size: 1135720
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/en.zip
+      tokenized target language:
+        size: 144632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/pl.zip
+    files: 1
+    source language tokens: 1356
+    target language tokens: 20224
+  hr-pl:
+    alignments: 8
+    downloads:
+      alignments:
+        size: 394
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/hr-pl.xml.gz
+      source language:
+        size: 347065
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/hr.zip
+      target language:
+        size: 60115
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/pl.zip
+      tokenized source language:
+        size: 930750
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/hr.zip
+      tokenized target language:
+        size: 144632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/pl.zip
+    files: 1
+    source language tokens: 9
+    target language tokens: 13
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 48593
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/freq/en.freq.gz
+      plain text:
+        size: 350547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/mono/en.txt.gz
+      tokenized text:
+        size: 352487
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1135720
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/en.zip
+      xml:
+        size: 386874
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/en.zip
+    files: 1
+    sentences: 9296
+    tokens: 207392
+  hr:
+    downloads:
+      frequency list:
+        size: 75373
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/freq/hr.freq.gz
+      plain text:
+        size: 315701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 317086
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 930750
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/hr.zip
+      xml:
+        size: 347065
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/hr.zip
+    files: 1
+    sentences: 7874
+    tokens: 158054
+  pl:
+    downloads:
+      frequency list:
+        size: 23146
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/freq/pl.freq.gz
+      plain text:
+        size: 52872
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 53065
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 144632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/pl.zip
+      xml:
+        size: 60115
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/raw/pl.zip
+    files: 1
+    sentences: 1362
+    tokens: 22715
+moses:
+  en-hr:
+    alignments: 7911
+    download size: 666714
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/moses/en-hr.txt.zip
+    source language tokens: 136809
+    target language tokens: 159632
+  en-pl:
+    alignments: 1356
+    download size: 109613
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/moses/en-pl.txt.zip
+    source language tokens: 20224
+    target language tokens: 24129
+  hr-pl:
+    alignments: 9
+    download size: 2279
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/moses/hr-pl.txt.zip
+    source language tokens: 13
+    target language tokens: 16
+tmx:
+  en-hr:
+    download size: 717142
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/tmx/en-hr.tmx.gz
+    source language tokens: 136809
+    target language tokens: 159632
+    translation units: 7911
+  en-pl:
+    download size: 117292
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/tmx/en-pl.tmx.gz
+    source language tokens: 20224
+    target language tokens: 24129
+    translation units: 1356
+  hr-pl:
+    download size: 482
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/tmx/hr-pl.tmx.gz
+    source language tokens: 13
+    target language tokens: 16
+    translation units: 9

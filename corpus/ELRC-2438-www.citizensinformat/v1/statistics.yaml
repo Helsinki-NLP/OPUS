@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 6690
+    downloads:
+      alignments:
+        size: 77289
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 2794320
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/smt/en-ga.zip
+      source language:
+        size: 297823
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/raw/en.zip
+      target language:
+        size: 339894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/raw/ga.zip
+      tokenized source language:
+        size: 981956
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/xml/en.zip
+      tokenized target language:
+        size: 1106025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 128355
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 499463
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 10297
+    target language tokens: 116494
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 29192
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/freq/en.freq.gz
+      plain text:
+        size: 245426
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/mono/en.txt.gz
+      tokenized text:
+        size: 245494
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 981956
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/xml/en.zip
+      xml:
+        size: 297823
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/raw/en.zip
+    files: 1
+    sentences: 10298
+    tokens: 185397
+  ga:
+    downloads:
+      frequency list:
+        size: 43091
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/freq/ga.freq.gz
+      plain text:
+        size: 297107
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 297207
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 1106025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/xml/ga.zip
+      xml:
+        size: 339894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/raw/ga.zip
+    files: 1
+    sentences: 10300
+    tokens: 202756
+moses:
+  en-ga:
+    alignments: 10298
+    download size: 588335
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/moses/en-ga.txt.zip
+    source language tokens: 183999
+    target language tokens: 201120
+tmx:
+  en-ga:
+    download size: 476878
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2438-www.citizensinformat/v1/tmx/en-ga.tmx.gz
+    source language tokens: 116494
+    target language tokens: 126894
+    translation units: 6690

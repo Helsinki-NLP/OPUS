@@ -1,0 +1,93 @@
+---
+bitexts:
+  en-pl:
+    alignments: 1510
+    downloads:
+      alignments:
+        size: 14938
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/xml/en-pl.xml.gz
+      smt phrase table:
+        size: 618611
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/smt/en-pl.zip
+      source language:
+        size: 107366
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/raw/en.zip
+      target language:
+        size: 118406
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/raw/pl.zip
+      tokenized source language:
+        size: 332391
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/xml/en.zip
+      tokenized target language:
+        size: 324477
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/xml/pl.zip
+      word alignment dictionary:
+        size: 49797
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/dic/en-pl.dic.gz
+      word alignments:
+        size: 161104
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/smt/en-pl.alg.zip
+    files: 1
+    source language tokens: 1532
+    target language tokens: 46752
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 22269
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/freq/en.freq.gz
+      parsed:
+        size: 1102137
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/parsed/en.zip
+      plain text:
+        size: 98069
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/mono/en.txt.gz
+      tokenized text:
+        size: 97712
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 332391
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/xml/en.zip
+      xml:
+        size: 107366
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/raw/en.zip
+    files: 1
+    sentences: 1859
+    tokens: 62302
+  pl:
+    downloads:
+      frequency list:
+        size: 38670
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/freq/pl.freq.gz
+      parsed:
+        size: 1128739
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/parsed/pl.zip
+      plain text:
+        size: 108296
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 108079
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 324477
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/xml/pl.zip
+      xml:
+        size: 118406
+        url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/raw/pl.zip
+    files: 1
+    sentences: 1962
+    tokens: 55297
+moses:
+  en-pl:
+    alignments: 1532
+    download size: 218270
+    download url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/moses/en-pl.txt.zip
+    source language tokens: 46823
+    target language tokens: 54133
+tmx:
+  en-pl:
+    download size: 227952
+    download url: https://object.pouta.csc.fi/OPUS-ELRA-W0174/v1/tmx/en-pl.tmx.gz
+    source language tokens: 46752
+    target language tokens: 54054
+    translation units: 1510

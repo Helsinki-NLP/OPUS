@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 1511
+    downloads:
+      alignments:
+        size: 14921
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/en-pl.xml.gz
+      source language:
+        size: 107506
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/raw/en.zip
+      target language:
+        size: 118547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/raw/pl.zip
+      tokenized source language:
+        size: 330170
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/en.zip
+      tokenized target language:
+        size: 322352
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/pl.zip
+    files: 1
+    source language tokens: 1532
+    target language tokens: 46752
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 22471
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/freq/en.freq.gz
+      plain text:
+        size: 98220
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/mono/en.txt.gz
+      tokenized text:
+        size: 98661
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 330170
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/en.zip
+      xml:
+        size: 107506
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/raw/en.zip
+    files: 1
+    sentences: 1859
+    tokens: 62813
+  pl:
+    downloads:
+      frequency list:
+        size: 38681
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/freq/pl.freq.gz
+      plain text:
+        size: 108636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 109145
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 322352
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/pl.zip
+      xml:
+        size: 118547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/raw/pl.zip
+    files: 1
+    sentences: 1962
+    tokens: 55653
+moses:
+  en-pl:
+    alignments: 1533
+    download size: 217793
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/moses/en-pl.txt.zip
+    source language tokens: 46823
+    target language tokens: 54097
+tmx:
+  en-pl:
+    download size: 227991
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/tmx/en-pl.tmx.gz
+    source language tokens: 46752
+    target language tokens: 54018
+    translation units: 1511

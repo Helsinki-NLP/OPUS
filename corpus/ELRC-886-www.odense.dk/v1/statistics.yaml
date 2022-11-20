@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 1426
+    downloads:
+      alignments:
+        size: 10918
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/xml/da-en.xml.gz
+      source language:
+        size: 70109
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/raw/da.zip
+      target language:
+        size: 71004
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/raw/en.zip
+      tokenized source language:
+        size: 166926
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/xml/da.zip
+      tokenized target language:
+        size: 175704
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/xml/en.zip
+    files: 1
+    source language tokens: 1427
+    target language tokens: 24080
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 29679
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/freq/da.freq.gz
+      plain text:
+        size: 62618
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/mono/da.txt.gz
+      tokenized text:
+        size: 63049
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 166926
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/xml/da.zip
+      xml:
+        size: 70109
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/raw/da.zip
+    files: 1
+    sentences: 1429
+    tokens: 28115
+  en:
+    downloads:
+      frequency list:
+        size: 24604
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/freq/en.freq.gz
+      plain text:
+        size: 63309
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/mono/en.txt.gz
+      tokenized text:
+        size: 63565
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 175704
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/xml/en.zip
+      xml:
+        size: 71004
+        url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/raw/en.zip
+    files: 1
+    sentences: 1440
+    tokens: 30302
+moses:
+  da-en:
+    alignments: 1427
+    download size: 134748
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/moses/da-en.txt.zip
+    source language tokens: 24080
+    target language tokens: 26590
+tmx:
+  da-en:
+    download size: 138435
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-886-www.odense.dk/v1/tmx/da-en.tmx.gz
+    source language tokens: 24080
+    target language tokens: 26590
+    translation units: 1427

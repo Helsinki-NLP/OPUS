@@ -1,0 +1,74 @@
+---
+bitexts:
+  da-en:
+    alignments: 10053
+    downloads:
+      alignments:
+        size: 79210
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/xml/da-en.xml.gz
+      source language:
+        size: ~
+        url: ~
+      target language:
+        size: ~
+        url: ~
+      tokenized source language:
+        size: 1139993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/xml/da.zip
+      tokenized target language:
+        size: 1212687
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/xml/en.zip
+    files: 1
+    source language tokens: 10054
+    target language tokens: 172141
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 78602
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/freq/da.freq.gz
+      plain text:
+        size: 393104
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/mono/da.txt.gz
+      tokenized text:
+        size: 395633
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 1139993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/xml/da.zip
+      xml: {}
+    files: 1
+    sentences: 10233
+    tokens: 198939
+  en:
+    downloads:
+      frequency list:
+        size: 47330
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/freq/en.freq.gz
+      plain text:
+        size: 391500
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/mono/en.txt.gz
+      tokenized text:
+        size: 392972
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1212687
+        url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/xml/en.zip
+      xml: {}
+    files: 1
+    sentences: 10375
+    tokens: 220059
+moses:
+  da-en:
+    alignments: 10054
+    download size: 833956
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/moses/da-en.txt.zip
+    source language tokens: 172141
+    target language tokens: 198083
+tmx:
+  da-en:
+    download size: 883188
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-849-ufm.dk/v1/tmx/da-en.tmx.gz
+    source language tokens: 172141
+    target language tokens: 198083
+    translation units: 10054

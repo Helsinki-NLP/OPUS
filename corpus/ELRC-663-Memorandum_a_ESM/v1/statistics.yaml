@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 431
+    downloads:
+      alignments:
+        size: 5876
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/xml/el-en.xml.gz
+      source language:
+        size: 47718
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/raw/el.zip
+      target language:
+        size: 32738
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/raw/en.zip
+      tokenized source language:
+        size: 114270
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/xml/el.zip
+      tokenized target language:
+        size: 88470
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/xml/en.zip
+    files: 1
+    source language tokens: 433
+    target language tokens: 14036
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 18540
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/freq/el.freq.gz
+      plain text:
+        size: 44321
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/mono/el.txt.gz
+      tokenized text:
+        size: 44499
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 114270
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/xml/el.zip
+      xml:
+        size: 47718
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/raw/el.zip
+    files: 1
+    sentences: 438
+    tokens: 18259
+  en:
+    downloads:
+      frequency list:
+        size: 10554
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/freq/en.freq.gz
+      plain text:
+        size: 29228
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/mono/en.txt.gz
+      tokenized text:
+        size: 29365
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 88470
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/xml/en.zip
+      xml:
+        size: 32738
+        url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/raw/en.zip
+    files: 1
+    sentences: 438
+    tokens: 15845
+moses:
+  el-en:
+    alignments: 434
+    download size: 77192
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/moses/el-en.txt.zip
+    source language tokens: 14053
+    target language tokens: 16329
+tmx:
+  el-en:
+    download size: 84574
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-663-Memorandum_a_ESM/v1/tmx/el-en.tmx.gz
+    source language tokens: 14036
+    target language tokens: 16314
+    translation units: 431

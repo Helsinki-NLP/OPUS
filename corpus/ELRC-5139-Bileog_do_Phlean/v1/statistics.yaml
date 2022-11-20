@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ga:
+    alignments: 21
+    downloads:
+      alignments:
+        size: 389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/xml/en-ga.xml.gz
+      source language:
+        size: 3118
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/raw/en.zip
+      target language:
+        size: 3298
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/raw/ga.zip
+      tokenized source language:
+        size: 4204
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/xml/en.zip
+      tokenized target language:
+        size: 4541
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/xml/ga.zip
+    files: 1
+    source language tokens: 22
+    target language tokens: 282
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 804
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/freq/en.freq.gz
+      plain text:
+        size: 938
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/mono/en.txt.gz
+      tokenized text:
+        size: 945
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 4204
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/xml/en.zip
+      xml:
+        size: 3118
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/raw/en.zip
+    files: 1
+    sentences: 36
+    tokens: 333
+  ga:
+    downloads:
+      frequency list:
+        size: 1005
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/freq/ga.freq.gz
+      plain text:
+        size: 1111
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 1119
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 4541
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/xml/ga.zip
+      xml:
+        size: 3298
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/raw/ga.zip
+    files: 1
+    sentences: 36
+    tokens: 373
+moses:
+  en-ga:
+    alignments: 22
+    download size: 3986
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/moses/en-ga.txt.zip
+    source language tokens: 282
+    target language tokens: 324
+tmx:
+  en-ga:
+    download size: 2353
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5139-Bileog_do_Phlean/v1/tmx/en-ga.tmx.gz
+    source language tokens: 282
+    target language tokens: 324
+    translation units: 22

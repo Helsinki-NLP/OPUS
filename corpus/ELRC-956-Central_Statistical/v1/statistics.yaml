@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 2691
+    downloads:
+      alignments:
+        size: 38272
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/xml/en-pl.xml.gz
+      source language:
+        size: 84790
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/raw/en.zip
+      target language:
+        size: 90820
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/raw/pl.zip
+      tokenized source language:
+        size: 214258
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/xml/en.zip
+      tokenized target language:
+        size: 213595
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/xml/pl.zip
+    files: 1
+    source language tokens: 2692
+    target language tokens: 28850
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 25742
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/freq/en.freq.gz
+      plain text:
+        size: 72150
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/mono/en.txt.gz
+      tokenized text:
+        size: 72533
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 214258
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/xml/en.zip
+      xml:
+        size: 84790
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/raw/en.zip
+    files: 1
+    sentences: 2918
+    tokens: 36236
+  pl:
+    downloads:
+      frequency list:
+        size: 34509
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/freq/pl.freq.gz
+      plain text:
+        size: 77632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 77915
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 213595
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/xml/pl.zip
+      xml:
+        size: 90820
+        url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/raw/pl.zip
+    files: 1
+    sentences: 2937
+    tokens: 33499
+moses:
+  en-pl:
+    alignments: 2692
+    download size: 165372
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/moses/en-pl.txt.zip
+    source language tokens: 28850
+    target language tokens: 31672
+tmx:
+  en-pl:
+    download size: 158173
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-956-Central_Statistical/v1/tmx/en-pl.tmx.gz
+    source language tokens: 28850
+    target language tokens: 31672
+    translation units: 2692

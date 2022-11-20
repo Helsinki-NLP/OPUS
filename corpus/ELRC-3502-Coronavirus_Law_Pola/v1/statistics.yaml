@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-pl:
+    alignments: 4428
+    downloads:
+      alignments:
+        size: 34745
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/en-pl.xml.gz
+      smt phrase table:
+        size: 1299788
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/smt/en-pl.zip
+      source language:
+        size: 273248
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/raw/en.zip
+      target language:
+        size: 294016
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/raw/pl.zip
+      tokenized source language:
+        size: 766323
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/en.zip
+      tokenized target language:
+        size: 716768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/pl.zip
+      word alignment dictionary:
+        size: 121174
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/dic/en-pl.dic.gz
+      word alignments:
+        size: 401026
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/smt/en-pl.alg.zip
+    files: 1
+    source language tokens: 4429
+    target language tokens: 98522
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 32847
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/freq/en.freq.gz
+      plain text:
+        size: 253094
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/mono/en.txt.gz
+      tokenized text:
+        size: 254298
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 766323
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/en.zip
+      xml:
+        size: 273248
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/raw/en.zip
+    files: 1
+    sentences: 4466
+    tokens: 134856
+  pl:
+    downloads:
+      frequency list:
+        size: 63534
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/freq/pl.freq.gz
+      plain text:
+        size: 273524
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 274364
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 716768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/pl.zip
+      xml:
+        size: 294016
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/raw/pl.zip
+    files: 1
+    sentences: 4478
+    tokens: 111067
+moses:
+  en-pl:
+    alignments: 4429
+    download size: 547866
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/moses/en-pl.txt.zip
+    source language tokens: 98522
+    target language tokens: 121286
+tmx:
+  en-pl:
+    download size: 617885
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/tmx/en-pl.tmx.gz
+    source language tokens: 98522
+    target language tokens: 121286
+    translation units: 4429

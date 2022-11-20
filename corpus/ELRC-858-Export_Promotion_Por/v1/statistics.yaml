@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 4241
+    downloads:
+      alignments:
+        size: 55496
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/en-pl.xml.gz
+      source language:
+        size: 171893
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/raw/en.zip
+      target language:
+        size: 187066
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/raw/pl.zip
+      tokenized source language:
+        size: 466057
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/en.zip
+      tokenized target language:
+        size: 457200
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/pl.zip
+    files: 1
+    source language tokens: 4242
+    target language tokens: 61156
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 41716
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/freq/en.freq.gz
+      plain text:
+        size: 153456
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/mono/en.txt.gz
+      tokenized text:
+        size: 154181
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 466057
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/en.zip
+      xml:
+        size: 171893
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/raw/en.zip
+    files: 1
+    sentences: 4325
+    tokens: 80615
+  pl:
+    downloads:
+      frequency list:
+        size: 64110
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/freq/pl.freq.gz
+      plain text:
+        size: 168119
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 168846
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 457200
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/pl.zip
+      xml:
+        size: 187066
+        url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/raw/pl.zip
+    files: 1
+    sentences: 4308
+    tokens: 70928
+moses:
+  en-pl:
+    alignments: 4242
+    download size: 345034
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/moses/en-pl.txt.zip
+    source language tokens: 61156
+    target language tokens: 70793
+tmx:
+  en-pl:
+    download size: 367953
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/tmx/en-pl.tmx.gz
+    source language tokens: 61156
+    target language tokens: 70793
+    translation units: 4242

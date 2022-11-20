@@ -1,0 +1,211 @@
+---
+bitexts:
+  af-en:
+    alignments: 52064
+    downloads:
+      alignments:
+        size: 481897
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/af-en.xml.gz
+      smt phrase table:
+        size: 4556810
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/smt/af-en.zip
+      source language:
+        size: 779601
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/af.zip
+      target language:
+        size: 1342685
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/en.zip
+      tokenized source language:
+        size: 2112120
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/af.zip
+      tokenized target language:
+        size: 3719124
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/en.zip
+      word alignment dictionary:
+        size: 52848
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/dic/af-en.dic.gz
+      word alignments:
+        size: 1244613
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/smt/af-en.alg.zip
+    files: 1
+    source language tokens: 61479
+    target language tokens: 291809
+  el-en:
+    alignments: 7035
+    downloads:
+      alignments:
+        size: 111284
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/el-en.xml.gz
+      smt phrase table:
+        size: 2678073
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/smt/el-en.zip
+      source language:
+        size: 569049
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/el.zip
+      target language:
+        size: 1342685
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/en.zip
+      tokenized source language:
+        size: 1444112
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/el.zip
+      tokenized target language:
+        size: 3719124
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/en.zip
+      word alignment dictionary:
+        size: 35917
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/dic/el-en.dic.gz
+      word alignments:
+        size: 897905
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/smt/el-en.alg.zip
+    files: 1
+    source language tokens: 8256
+    target language tokens: 187941
+  en-zh:
+    alignments: 2212
+    downloads:
+      alignments:
+        size: 29982
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/en-zh.xml.gz
+      smt phrase table:
+        size: 971351
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/smt/en-zh.zip
+      source language:
+        size: 1342685
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/en.zip
+      target language:
+        size: 114949
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/zh.zip
+      tokenized source language:
+        size: 3719124
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/en.zip
+      tokenized target language:
+        size: 344134
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/zh.zip
+      word alignment dictionary:
+        size: 10458
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/dic/en-zh.dic.gz
+      word alignments:
+        size: 387846
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/smt/en-zh.alg.zip
+    files: 1
+    source language tokens: 2292
+    target language tokens: 61321
+monolingual:
+  af:
+    downloads:
+      frequency list:
+        size: 102045
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/freq/af.freq.gz
+      plain text:
+        size: 561685
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/mono/af.txt.gz
+      tokenized text:
+        size: 563664
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/mono/af.tok.gz
+      tokenized xml:
+        size: 2112120
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/af.zip
+      xml:
+        size: 779601
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/af.zip
+    files: 1
+    sentences: 63109
+    tokens: 374064
+  el:
+    downloads:
+      frequency list:
+        size: 89204
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/freq/el.freq.gz
+      plain text:
+        size: 520826
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/mono/el.txt.gz
+      tokenized text:
+        size: 522595
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 1444112
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/el.zip
+      xml:
+        size: 569049
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/el.zip
+    files: 1
+    sentences: 8465
+    tokens: 227888
+  en:
+    downloads:
+      frequency list:
+        size: 113373
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/freq/en.freq.gz
+      plain text:
+        size: 1042832
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1047544
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 3719124
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/en.zip
+      xml:
+        size: 1342685
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/en.zip
+    files: 3
+    sentences: 73878
+    tokens: 652534
+  zh:
+    downloads:
+      frequency list:
+        size: 17110
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/freq/zh.freq.gz
+      plain text:
+        size: 88463
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/mono/zh.txt.gz
+      tokenized text:
+        size: 88577
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/mono/zh.tok.gz
+      tokenized xml:
+        size: 344134
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/xml/zh.zip
+      xml:
+        size: 114949
+        url: https://object.pouta.csc.fi/OPUS-SPC/v1/raw/zh.zip
+    files: 1
+    sentences: 2229
+    tokens: 61456
+moses:
+  af-en:
+    alignments: 57351
+    download size: 1105038
+    download url: https://object.pouta.csc.fi/OPUS-SPC/v1/moses/af-en.txt.zip
+    source language tokens: 303197
+    target language tokens: 322651
+  el-en:
+    alignments: 8181
+    download size: 841228
+    download url: https://object.pouta.csc.fi/OPUS-SPC/v1/moses/el-en.txt.zip
+    source language tokens: 191198
+    target language tokens: 195388
+  en-zh:
+    alignments: 2228
+    download size: 189995
+    download url: https://object.pouta.csc.fi/OPUS-SPC/v1/moses/en-zh.txt.zip
+    source language tokens: 61411
+    target language tokens: 69352
+tmx:
+  af-en:
+    download size: 1301810
+    download url: https://object.pouta.csc.fi/OPUS-SPC/v1/tmx/af-en.tmx.gz
+    source language tokens: 291809
+    target language tokens: 309406
+    translation units: 52064
+  el-en:
+    download size: 979706
+    download url: https://object.pouta.csc.fi/OPUS-SPC/v1/tmx/el-en.tmx.gz
+    source language tokens: 187941
+    target language tokens: 192086
+    translation units: 7035
+  en-zh:
+    download size: 224339
+    download url: https://object.pouta.csc.fi/OPUS-SPC/v1/tmx/en-zh.tmx.gz
+    source language tokens: 61321
+    target language tokens: 69235
+    translation units: 2212

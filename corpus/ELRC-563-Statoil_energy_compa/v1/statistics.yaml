@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 55200
+    downloads:
+      alignments:
+        size: 835588
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/xml/en-nb.xml.gz
+      source language:
+        size: 2712798
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/raw/en.zip
+      target language:
+        size: 2636435
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/raw/nb.zip
+      tokenized source language:
+        size: 10269544
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/xml/en.zip
+      tokenized target language:
+        size: 9312381
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/xml/nb.zip
+    files: 1
+    source language tokens: 111069
+    target language tokens: 820937
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 124460
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/freq/en.freq.gz
+      plain text:
+        size: 2252700
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2267000
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 10269544
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/xml/en.zip
+      xml:
+        size: 2712798
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/raw/en.zip
+    files: 1
+    sentences: 111128
+    tokens: 2034666
+  nb:
+    downloads:
+      frequency list:
+        size: 208301
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/freq/nb.freq.gz
+      plain text:
+        size: 2174925
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 2191046
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 9312381
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/xml/nb.zip
+      xml:
+        size: 2636435
+        url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/raw/nb.zip
+    files: 1
+    sentences: 111083
+    tokens: 1783709
+moses:
+  en-nb:
+    alignments: 111070
+    download size: 4962794
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/moses/en-nb.txt.zip
+    source language tokens: 1535762
+    target language tokens: 1780953
+tmx:
+  en-nb:
+    download size: 4409884
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-563-Statoil_energy_compa/v1/tmx/en-nb.tmx.gz
+    source language tokens: 820937
+    target language tokens: 949893
+    translation units: 55200

@@ -1,0 +1,37 @@
+---
+bitexts:
+  en-ga:
+    downloads:
+      alignments:
+        size: 1992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/en-ga.xml.gz
+      source language:
+        size: ~
+        url: ~
+      target language:
+        size: ~
+        url: ~
+      tokenized source language:
+        size: 25758
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/en.zip
+      tokenized target language:
+        size: 25842
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/ga.zip
+monolingual:
+  804:
+    downloads:
+      tokenized xml:
+        size: 1420
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/804.zip
+  en:
+    downloads:
+      tokenized xml:
+        size: 25758
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/en.zip
+      xml: {}
+  ga:
+    downloads:
+      tokenized xml:
+        size: 25842
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/ga.zip
+      xml: {}

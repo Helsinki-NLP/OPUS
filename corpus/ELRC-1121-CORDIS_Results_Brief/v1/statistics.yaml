@@ -1,0 +1,87 @@
+---
+bitexts:
+  de-en:
+    alignments: 182065
+    downloads:
+      alignments:
+        size: 1372432
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/xml/de-en.xml.gz
+      smt phrase table:
+        size: 27754164
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/smt/de-en.zip
+      source language:
+        size: 11032687
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/raw/de.zip
+      target language:
+        size: 9417705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/raw/en.zip
+      tokenized source language:
+        size: 25713252
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/xml/de.zip
+      tokenized target language:
+        size: 23630577
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/xml/en.zip
+      word alignment dictionary:
+        size: 1051308
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/dic/de-en.dic.gz
+      word alignments:
+        size: 11194881
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/smt/de-en.alg.zip
+    files: 1
+    source language tokens: 182066
+    target language tokens: 3530934
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 1194033
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/freq/de.freq.gz
+      plain text:
+        size: 10224165
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/mono/de.txt.gz
+      tokenized text:
+        size: 10269810
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 25713252
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/xml/de.zip
+      xml:
+        size: 11032687
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/raw/de.zip
+    files: 1
+    sentences: 182172
+    tokens: 4018106
+  en:
+    downloads:
+      frequency list:
+        size: 411799
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/freq/en.freq.gz
+      plain text:
+        size: 8659627
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/mono/en.txt.gz
+      tokenized text:
+        size: 8689717
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 23630577
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/xml/en.zip
+      xml:
+        size: 9417705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/raw/en.zip
+    files: 1
+    sentences: 182082
+    tokens: 3964041
+moses:
+  de-en:
+    alignments: 182066
+    download size: 19723143
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/moses/de-en.txt.zip
+    source language tokens: 3530934
+    target language tokens: 3544306
+tmx:
+  de-en:
+    download size: 20778724
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1121-CORDIS_Results_Brief/v1/tmx/de-en.tmx.gz
+    source language tokens: 3530934
+    target language tokens: 3544306
+    translation units: 182066

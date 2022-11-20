@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-hr:
+    alignments: 11707
+    downloads:
+      alignments:
+        size: 162391
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/xml/en-hr.xml.gz
+      source language:
+        size: 484035
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/raw/en.zip
+      target language:
+        size: 506602
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/raw/hr.zip
+      tokenized source language:
+        size: 1446531
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/xml/en.zip
+      tokenized target language:
+        size: 1379759
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/xml/hr.zip
+    files: 1
+    source language tokens: 11708
+    target language tokens: 203778
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 49501
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/freq/en.freq.gz
+      plain text:
+        size: 438292
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/mono/en.txt.gz
+      tokenized text:
+        size: 440057
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1446531
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/xml/en.zip
+      xml:
+        size: 484035
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/raw/en.zip
+    files: 1
+    sentences: 12000
+    tokens: 269711
+  hr:
+    downloads:
+      frequency list:
+        size: 87446
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/freq/hr.freq.gz
+      plain text:
+        size: 457295
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 459278
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 1379759
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/xml/hr.zip
+      xml:
+        size: 506602
+        url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/raw/hr.zip
+    files: 1
+    sentences: 12375
+    tokens: 239776
+moses:
+  en-hr:
+    alignments: 11708
+    download size: 956840
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/moses/en-hr.txt.zip
+    source language tokens: 203778
+    target language tokens: 241659
+tmx:
+  en-hr:
+    download size: 1019057
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-788-Croatian_Bank/v1/tmx/en-hr.tmx.gz
+    source language tokens: 203778
+    target language tokens: 241659
+    translation units: 11708

@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 768
+    downloads:
+      alignments:
+        size: 5714
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/xml/da-en.xml.gz
+      source language:
+        size: 32091
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/raw/da.zip
+      target language:
+        size: 32884
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/raw/en.zip
+      tokenized source language:
+        size: 75896
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/xml/da.zip
+      tokenized target language:
+        size: 78701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/xml/en.zip
+    files: 1
+    source language tokens: 769
+    target language tokens: 10284
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 15086
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/freq/da.freq.gz
+      plain text:
+        size: 27530
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/mono/da.txt.gz
+      tokenized text:
+        size: 27714
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 75896
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/xml/da.zip
+      xml:
+        size: 32091
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/raw/da.zip
+    files: 1
+    sentences: 771
+    tokens: 12739
+  en:
+    downloads:
+      frequency list:
+        size: 13698
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/freq/en.freq.gz
+      plain text:
+        size: 28044
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/mono/en.txt.gz
+      tokenized text:
+        size: 28181
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 78701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/xml/en.zip
+      xml:
+        size: 32884
+        url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/raw/en.zip
+    files: 1
+    sentences: 798
+    tokens: 13308
+moses:
+  da-en:
+    alignments: 769
+    download size: 60904
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/moses/da-en.txt.zip
+    source language tokens: 10284
+    target language tokens: 11395
+tmx:
+  da-en:
+    download size: 58335
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-894-Gallery_Denmark/v1/tmx/da-en.tmx.gz
+    source language tokens: 10284
+    target language tokens: 11395
+    translation units: 769

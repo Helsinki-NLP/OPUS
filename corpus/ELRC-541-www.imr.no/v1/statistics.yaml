@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 3218
+    downloads:
+      alignments:
+        size: 25681
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 143728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/raw/en.zip
+      target language:
+        size: 140147
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 375008
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/xml/en.zip
+      tokenized target language:
+        size: 344266
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 3219
+    target language tokens: 50344
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 31223
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/freq/en.freq.gz
+      plain text:
+        size: 127905
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 128821
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 375008
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/xml/en.zip
+      xml:
+        size: 143728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/raw/en.zip
+    files: 1
+    sentences: 3270
+    tokens: 65548
+  nb:
+    downloads:
+      frequency list:
+        size: 41275
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 123662
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 124325
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 344266
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/xml/nb.zip
+      xml:
+        size: 140147
+        url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/raw/nb.zip
+    files: 1
+    sentences: 3313
+    tokens: 58023
+moses:
+  en-nb:
+    alignments: 3219
+    download size: 269653
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/moses/en-nb.txt.zip
+    source language tokens: 50344
+    target language tokens: 58183
+tmx:
+  en-nb:
+    download size: 286259
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-541-www.imr.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 50344
+    target language tokens: 58183
+    translation units: 3219

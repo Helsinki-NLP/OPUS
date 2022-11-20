@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-me:
+    alignments: 58934
+    downloads:
+      alignments:
+        size: 756084
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/xml/en-me.xml.gz
+      smt phrase table:
+        size: 4319018
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/smt/en-me.zip
+      source language:
+        size: 2738117
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/raw/en.zip
+      target language:
+        size: 2372085
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/raw/me.zip
+      tokenized source language:
+        size: 4513718
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/xml/en.zip
+      tokenized target language:
+        size: 3734973
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/xml/me.zip
+      word alignment dictionary:
+        size: 262052
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/dic/en-me.dic.gz
+      word alignments:
+        size: 869970
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/smt/en-me.alg.zip
+    files: 110
+    source language tokens: 68505
+    target language tokens: 349912
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 70904
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/freq/en.freq.gz
+      plain text:
+        size: 916900
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/mono/en.txt.gz
+      tokenized text:
+        size: 928373
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 4513718
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/xml/en.zip
+      xml:
+        size: 2738117
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/raw/en.zip
+    files: 110
+    sentences: 73508
+    tokens: 597639
+  me:
+    downloads:
+      frequency list:
+        size: 118782
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/freq/me.freq.gz
+      plain text:
+        size: 842270
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/mono/me.txt.gz
+      tokenized text:
+        size: 852666
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/mono/me.tok.gz
+      tokenized xml:
+        size: 3734973
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/xml/me.zip
+      xml:
+        size: 2372085
+        url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/raw/me.zip
+    files: 110
+    sentences: 69511
+    tokens: 469207
+moses:
+  en-me:
+    alignments: 65042
+    download size: 1990570
+    download url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/moses/en-me.txt.zip
+    source language tokens: 360794
+    target language tokens: 441419
+tmx:
+  en-me:
+    download size: 2128851
+    download url: https://object.pouta.csc.fi/OPUS-MontenegrinSubs/v1/tmx/en-me.tmx.gz
+    source language tokens: 349912
+    target language tokens: 428180
+    translation units: 58934

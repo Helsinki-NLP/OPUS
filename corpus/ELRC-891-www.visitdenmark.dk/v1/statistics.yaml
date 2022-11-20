@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 1602
+    downloads:
+      alignments:
+        size: 12253
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/da-en.xml.gz
+      source language:
+        size: 62589
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/raw/da.zip
+      target language:
+        size: 61875
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/raw/en.zip
+      tokenized source language:
+        size: 149231
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/da.zip
+      tokenized target language:
+        size: 155237
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/en.zip
+    files: 1
+    source language tokens: 1603
+    target language tokens: 21271
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 24381
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/freq/da.freq.gz
+      plain text:
+        size: 54387
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/mono/da.txt.gz
+      tokenized text:
+        size: 54744
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 149231
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/da.zip
+      xml:
+        size: 62589
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/raw/da.zip
+    files: 1
+    sentences: 1605
+    tokens: 24602
+  en:
+    downloads:
+      frequency list:
+        size: 19500
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/freq/en.freq.gz
+      plain text:
+        size: 53894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/mono/en.txt.gz
+      tokenized text:
+        size: 54113
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 155237
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/en.zip
+      xml:
+        size: 61875
+        url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/raw/en.zip
+    files: 1
+    sentences: 1615
+    tokens: 26540
+moses:
+  da-en:
+    alignments: 1603
+    download size: 117713
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/moses/da-en.txt.zip
+    source language tokens: 21271
+    target language tokens: 23590
+tmx:
+  da-en:
+    download size: 121996
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/tmx/da-en.tmx.gz
+    source language tokens: 21271
+    target language tokens: 23590
+    translation units: 1603

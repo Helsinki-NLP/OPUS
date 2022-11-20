@@ -1,0 +1,197 @@
+---
+bitexts:
+  en-ku:
+    alignments: 6051
+    downloads:
+      alignments:
+        size: 61999
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/en-ku.xml.gz
+      smt phrase table:
+        size: 327474
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/smt/en-ku.zip
+      source language:
+        size: 2201296
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/en.zip
+      target language:
+        size: 709522
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/ku.zip
+      tokenized source language:
+        size: 8952552
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/en.zip
+      tokenized target language:
+        size: 1883587
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/ku.zip
+      word alignment dictionary:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/dic/en-ku.dic.gz
+      word alignments:
+        size: 43701
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/smt/en-ku.alg.zip
+    files: 1
+    source language tokens: 6486
+    target language tokens: 122006
+  en-tr:
+    alignments: 31749
+    downloads:
+      alignments:
+        size: 333430
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/en-tr.xml.gz
+      smt phrase table:
+        size: 1256278
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/smt/en-tr.zip
+      source language:
+        size: 2201296
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/en.zip
+      target language:
+        size: 2422240
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/tr.zip
+      tokenized source language:
+        size: 8952552
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/en.zip
+      tokenized target language:
+        size: 6016931
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/tr.zip
+      word alignment dictionary:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/dic/en-tr.dic.gz
+      word alignments:
+        size: 232031
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/smt/en-tr.alg.zip
+    files: 1
+    source language tokens: 35080
+    target language tokens: 560049
+  ku-tr:
+    alignments: 6944
+    downloads:
+      alignments:
+        size: 70776
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/ku-tr.xml.gz
+      smt phrase table:
+        size: 477165
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/smt/ku-tr.zip
+      source language:
+        size: 709522
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/ku.zip
+      target language:
+        size: 2422240
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/tr.zip
+      tokenized source language:
+        size: 1883587
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/ku.zip
+      tokenized target language:
+        size: 6016931
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/tr.zip
+      word alignment dictionary:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/dic/ku-tr.dic.gz
+      word alignments:
+        size: 49874
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/smt/ku-tr.alg.zip
+    files: 1
+    source language tokens: 7390
+    target language tokens: 117282
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 146418
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/freq/en.freq.gz
+      parsed:
+        size: 15968672
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/parsed/en.zip
+      plain text:
+        size: 1870871
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1882133
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 8952552
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/en.zip
+      xml:
+        size: 2201296
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/en.zip
+    files: 2
+    sentences: 57441
+    tokens: 1026788
+  ku:
+    downloads:
+      frequency list:
+        size: 82631
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/freq/ku.freq.gz
+      plain text:
+        size: 594318
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/mono/ku.txt.gz
+      tokenized text:
+        size: 596787
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/mono/ku.tok.gz
+      tokenized xml:
+        size: 1883587
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/ku.zip
+      xml:
+        size: 709522
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/ku.zip
+    files: 2
+    sentences: 19267
+    tokens: 313442
+  tr:
+    downloads:
+      frequency list:
+        size: 275767
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/freq/tr.freq.gz
+      parsed:
+        size: 14890567
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/parsed/tr.zip
+      plain text:
+        size: 2056595
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/mono/tr.txt.gz
+      tokenized text:
+        size: 2074061
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/mono/tr.tok.gz
+      tokenized xml:
+        size: 6016931
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/xml/tr.zip
+      xml:
+        size: 2422240
+        url: https://object.pouta.csc.fi/OPUS-Bianet/v1/raw/tr.zip
+    files: 2
+    sentences: 61247
+    tokens: 911912
+moses:
+  en-ku:
+    alignments: 6402
+    download size: 622420
+    download url: https://object.pouta.csc.fi/OPUS-Bianet/v1/moses/en-ku.txt.zip
+    source language tokens: 126036
+    target language tokens: 138719
+  en-tr:
+    alignments: 34770
+    download size: 3544116
+    download url: https://object.pouta.csc.fi/OPUS-Bianet/v1/moses/en-tr.txt.zip
+    source language tokens: 581190
+    target language tokens: 739391
+  ku-tr:
+    alignments: 7325
+    download size: 725227
+    download url: https://object.pouta.csc.fi/OPUS-Bianet/v1/moses/ku-tr.txt.zip
+    source language tokens: 120712
+    target language tokens: 142525
+tmx:
+  en-ku:
+    download size: 636606
+    download url: https://object.pouta.csc.fi/OPUS-Bianet/v1/tmx/en-ku.tmx.gz
+    source language tokens: 122006
+    target language tokens: 134255
+    translation units: 6051
+  en-tr:
+    download size: 3593104
+    download url: https://object.pouta.csc.fi/OPUS-Bianet/v1/tmx/en-tr.tmx.gz
+    source language tokens: 560049
+    target language tokens: 713142
+    translation units: 31749
+  ku-tr:
+    download size: 734422
+    download url: https://object.pouta.csc.fi/OPUS-Bianet/v1/tmx/ku-tr.tmx.gz
+    source language tokens: 117282
+    target language tokens: 138243
+    translation units: 6944

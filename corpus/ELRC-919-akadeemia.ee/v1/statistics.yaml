@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-et:
+    alignments: 8976
+    downloads:
+      alignments:
+        size: 82527
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/xml/en-et.xml.gz
+      source language:
+        size: 447729
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/raw/en.zip
+      target language:
+        size: 439547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/raw/et.zip
+      tokenized source language:
+        size: 1218634
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/xml/en.zip
+      tokenized target language:
+        size: 1021389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/xml/et.zip
+    files: 1
+    source language tokens: 10900
+    target language tokens: 118837
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 72024
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/freq/en.freq.gz
+      plain text:
+        size: 404103
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/mono/en.txt.gz
+      tokenized text:
+        size: 406398
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1218634
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/xml/en.zip
+      xml:
+        size: 447729
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/raw/en.zip
+    files: 1
+    sentences: 10946
+    tokens: 213629
+  et:
+    downloads:
+      frequency list:
+        size: 135476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/freq/et.freq.gz
+      plain text:
+        size: 394470
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/mono/et.txt.gz
+      tokenized text:
+        size: 398489
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/mono/et.tok.gz
+      tokenized xml:
+        size: 1021389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/xml/et.zip
+      xml:
+        size: 439547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/raw/et.zip
+    files: 1
+    sentences: 10908
+    tokens: 157062
+moses:
+  en-et:
+    alignments: 10901
+    download size: 859277
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/moses/en-et.txt.zip
+    source language tokens: 126987
+    target language tokens: 184087
+tmx:
+  en-et:
+    download size: 823084
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-919-akadeemia.ee/v1/tmx/en-et.tmx.gz
+    source language tokens: 118837
+    target language tokens: 174531
+    translation units: 8976

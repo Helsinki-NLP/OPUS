@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 1196
+    downloads:
+      alignments:
+        size: 15523
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/xml/en-is.xml.gz
+      source language:
+        size: 59033
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/raw/en.zip
+      target language:
+        size: 63214
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/raw/is.zip
+      tokenized source language:
+        size: 148976
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/xml/en.zip
+      tokenized target language:
+        size: 142446
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/xml/is.zip
+    files: 1
+    source language tokens: 1197
+    target language tokens: 20093
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 20526
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/freq/en.freq.gz
+      plain text:
+        size: 52240
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/mono/en.txt.gz
+      tokenized text:
+        size: 52359
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 148976
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/xml/en.zip
+      xml:
+        size: 59033
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/raw/en.zip
+    files: 1
+    sentences: 1214
+    tokens: 25477
+  is:
+    downloads:
+      frequency list:
+        size: 28855
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/freq/is.freq.gz
+      plain text:
+        size: 56108
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/mono/is.txt.gz
+      tokenized text:
+        size: 56278
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 142446
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/xml/is.zip
+      xml:
+        size: 63214
+        url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/raw/is.zip
+    files: 1
+    sentences: 1224
+    tokens: 22231
+moses:
+  en-is:
+    alignments: 1197
+    download size: 116014
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/moses/en-is.txt.zip
+    source language tokens: 20093
+    target language tokens: 22708
+tmx:
+  en-is:
+    download size: 120126
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-510-Harpa_Reykjavik_Conc/v1/tmx/en-is.tmx.gz
+    source language tokens: 20093
+    target language tokens: 22708
+    translation units: 1197

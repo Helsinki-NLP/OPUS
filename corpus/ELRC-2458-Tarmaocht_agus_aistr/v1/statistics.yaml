@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 188
+    downloads:
+      alignments:
+        size: 2057
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 59630
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/smt/en-ga.zip
+      source language:
+        size: 20240
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/raw/en.zip
+      target language:
+        size: 21933
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/raw/ga.zip
+      tokenized source language:
+        size: 40501
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/en.zip
+      tokenized target language:
+        size: 46423
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 4003
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 18580
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 189
+    target language tokens: 4901
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 6507
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/freq/en.freq.gz
+      plain text:
+        size: 11583
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/mono/en.txt.gz
+      tokenized text:
+        size: 11645
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 40501
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/en.zip
+      xml:
+        size: 20240
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/raw/en.zip
+    files: 1
+    sentences: 311
+    tokens: 5806
+  ga:
+    downloads:
+      frequency list:
+        size: 7830
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/freq/ga.freq.gz
+      plain text:
+        size: 13208
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 13252
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 46423
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/ga.zip
+      xml:
+        size: 21933
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/raw/ga.zip
+    files: 1
+    sentences: 330
+    tokens: 6878
+moses:
+  en-ga:
+    alignments: 189
+    download size: 33349
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/moses/en-ga.txt.zip
+    source language tokens: 4901
+    target language tokens: 5889
+tmx:
+  en-ga:
+    download size: 25446
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/tmx/en-ga.tmx.gz
+    source language tokens: 4901
+    target language tokens: 5889
+    translation units: 189

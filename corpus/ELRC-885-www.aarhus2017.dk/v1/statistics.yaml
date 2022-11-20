@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 4708
+    downloads:
+      alignments:
+        size: 36525
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/da-en.xml.gz
+      source language:
+        size: 220751
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/raw/da.zip
+      target language:
+        size: 219083
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/raw/en.zip
+      tokenized source language:
+        size: 552351
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/da.zip
+      tokenized target language:
+        size: 569529
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/en.zip
+    files: 1
+    source language tokens: 4709
+    target language tokens: 80862
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 56563
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/freq/da.freq.gz
+      plain text:
+        size: 200145
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/mono/da.txt.gz
+      tokenized text:
+        size: 201489
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 552351
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/da.zip
+      xml:
+        size: 220751
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/raw/da.zip
+    files: 1
+    sentences: 4724
+    tokens: 93301
+  en:
+    downloads:
+      frequency list:
+        size: 41799
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/freq/en.freq.gz
+      plain text:
+        size: 198426
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/mono/en.txt.gz
+      tokenized text:
+        size: 199228
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 569529
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/en.zip
+      xml:
+        size: 219083
+        url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/raw/en.zip
+    files: 1
+    sentences: 4747
+    tokens: 99138
+moses:
+  da-en:
+    alignments: 4709
+    download size: 422042
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/moses/da-en.txt.zip
+    source language tokens: 80862
+    target language tokens: 87804
+tmx:
+  da-en:
+    download size: 436828
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/tmx/da-en.tmx.gz
+    source language tokens: 80862
+    target language tokens: 87804
+    translation units: 4709

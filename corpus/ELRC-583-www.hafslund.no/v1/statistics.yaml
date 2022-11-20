@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 3465
+    downloads:
+      alignments:
+        size: 27044
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 138605
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/raw/en.zip
+      target language:
+        size: 132695
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 390768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/en.zip
+      tokenized target language:
+        size: 343796
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 3466
+    target language tokens: 52558
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 23193
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/freq/en.freq.gz
+      plain text:
+        size: 122568
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 123007
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 390768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/en.zip
+      xml:
+        size: 138605
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/raw/en.zip
+    files: 1
+    sentences: 3544
+    tokens: 71053
+  nb:
+    downloads:
+      frequency list:
+        size: 33704
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 115569
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 116379
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 343796
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/nb.zip
+      xml:
+        size: 132695
+        url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/raw/nb.zip
+    files: 1
+    sentences: 3547
+    tokens: 59113
+moses:
+  en-nb:
+    alignments: 3466
+    download size: 257338
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/moses/en-nb.txt.zip
+    source language tokens: 52558
+    target language tokens: 64187
+tmx:
+  en-nb:
+    download size: 277450
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 52558
+    target language tokens: 64187
+    translation units: 3466

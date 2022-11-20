@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 3442
+    downloads:
+      alignments:
+        size: 28966
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/xml/en-pl.xml.gz
+      source language:
+        size: 205343
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/raw/en.zip
+      target language:
+        size: 222251
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/raw/pl.zip
+      tokenized source language:
+        size: 617592
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/xml/en.zip
+      tokenized target language:
+        size: 570018
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/xml/pl.zip
+    files: 1
+    source language tokens: 3443
+    target language tokens: 81002
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 33938
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/freq/en.freq.gz
+      plain text:
+        size: 189661
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/mono/en.txt.gz
+      tokenized text:
+        size: 190311
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 617592
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/xml/en.zip
+      xml:
+        size: 205343
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/raw/en.zip
+    files: 1
+    sentences: 3632
+    tokens: 114515
+  pl:
+    downloads:
+      frequency list:
+        size: 61894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/freq/pl.freq.gz
+      plain text:
+        size: 204820
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 205585
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 570018
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/xml/pl.zip
+      xml:
+        size: 222251
+        url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/raw/pl.zip
+    files: 1
+    sentences: 3780
+    tokens: 92605
+moses:
+  en-pl:
+    alignments: 3444
+    download size: 413982
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/moses/en-pl.txt.zip
+    source language tokens: 81004
+    target language tokens: 102317
+tmx:
+  en-pl:
+    download size: 443017
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-813-Polish_Foreign_Affai/v1/tmx/en-pl.tmx.gz
+    source language tokens: 81002
+    target language tokens: 102315
+    translation units: 3442

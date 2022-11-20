@@ -1,0 +1,831 @@
+---
+bitexts:
+  cs-en:
+    alignments: 10018010
+    downloads:
+      alignments:
+        size: 80687053
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/cs-en.xml.gz
+      smt phrase table:
+        size: 725949061
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/cs-en.zip
+      source language:
+        size: 198900326
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/cs.zip
+      target language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      tokenized source language:
+        size: 616889451
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/cs.zip
+      tokenized target language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      word alignment dictionary:
+        size: 7230360
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/cs-en.dic.gz
+      word alignments:
+        size: 179177902
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/cs-en.alg.zip
+    files: 101
+    source language tokens: 10020250
+    target language tokens: 77541080
+  de-en:
+    alignments: 36345228
+    downloads:
+      alignments:
+        size: 309076207
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/de-en.xml.gz
+      smt phrase table:
+        size: 3784244331
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/de-en.zip
+      source language:
+        size: 1195758142
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/de.zip
+      target language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      tokenized source language:
+        size: 4528705323
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/de.zip
+      tokenized target language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      word alignment dictionary:
+        size: 20959266
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/de-en.dic.gz
+      word alignments:
+        size: 1234473146
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/de-en.alg.zip
+    files: 364
+    source language tokens: 36351593
+    target language tokens: 450716290
+  en-es:
+    alignments: 16000865
+    downloads:
+      alignments:
+        size: 136838924
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-es.xml.gz
+      smt phrase table:
+        size: 2457525517
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-es.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 792360640
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/es.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 3301557571
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/es.zip
+      word alignment dictionary:
+        size: 9850838
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-es.dic.gz
+      word alignments:
+        size: 868453552
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-es.alg.zip
+    files: 161
+    source language tokens: 16001341
+    target language tokens: 326260824
+  en-et:
+    alignments: 1297557
+    downloads:
+      alignments:
+        size: 10751791
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-et.xml.gz
+      smt phrase table:
+        size: 212802454
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-et.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 45711512
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/et.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 154144390
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/et.zip
+      word alignment dictionary:
+        size: 2827423
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-et.dic.gz
+      word alignments:
+        size: 31770874
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-et.alg.zip
+    files: 13
+    source language tokens: 1298103
+    target language tokens: 15768092
+  en-fi:
+    alignments: 624038
+    downloads:
+      alignments:
+        size: 5123483
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-fi.xml.gz
+      smt phrase table:
+        size: 103918773
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-fi.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 21575182
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/fi.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 52931909
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/fi.zip
+      word alignment dictionary:
+        size: 3537226
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-fi.dic.gz
+      word alignments:
+        size: 16239142
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-fi.alg.zip
+    files: 7
+    source language tokens: 624058
+    target language tokens: 6970061
+  en-fr:
+    alignments: 27621795
+    downloads:
+      alignments:
+        size: 234118969
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-fr.xml.gz
+      smt phrase table:
+        size: 4109063604
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-fr.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 1337646469
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/fr.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 5850997827
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/fr.zip
+      word alignment dictionary:
+        size: 11820795
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-fr.dic.gz
+      word alignments:
+        size: 1699873257
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-fr.alg.zip
+    files: 277
+    source language tokens: 27622881
+    target language tokens: 547266082
+  en-it:
+    alignments: 8318247
+    downloads:
+      alignments:
+        size: 70945130
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-it.xml.gz
+      smt phrase table:
+        size: 1301331678
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-it.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 366130139
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/it.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 1524378171
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/it.zip
+      word alignment dictionary:
+        size: 7455209
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-it.dic.gz
+      word alignments:
+        size: 367557787
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-it.alg.zip
+    files: 84
+    source language tokens: 8318493
+    target language tokens: 155241639
+  en-lv:
+    alignments: 242220
+    downloads:
+      alignments:
+        size: 2031366
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-lv.xml.gz
+      smt phrase table:
+        size: 47721924
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-lv.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 9945264
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/lv.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 25375919
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/lv.zip
+      word alignment dictionary:
+        size: 1765101
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-lv.dic.gz
+      word alignments:
+        size: 8032580
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-lv.alg.zip
+    files: 3
+    source language tokens: 242227
+    target language tokens: 3379595
+  en-nl:
+    alignments: 2560421
+    downloads:
+      alignments:
+        size: 21588905
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-nl.xml.gz
+      smt phrase table:
+        size: 372406504
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-nl.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 105104848
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/nl.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 440418515
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/nl.zip
+      word alignment dictionary:
+        size: 3900038
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-nl.dic.gz
+      word alignments:
+        size: 90962709
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-nl.alg.zip
+    files: 26
+    source language tokens: 2560472
+    target language tokens: 45200631
+  en-pl:
+    alignments: 1275117
+    downloads:
+      alignments:
+        size: 10807058
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-pl.xml.gz
+      smt phrase table:
+        size: 212433510
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-pl.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 54500788
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/pl.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 140214154
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/pl.zip
+      word alignment dictionary:
+        size: 3857329
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-pl.dic.gz
+      word alignments:
+        size: 44778759
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-pl.alg.zip
+    files: 13
+    source language tokens: 1275162
+    target language tokens: 18743746
+  en-pt:
+    alignments: 2809328
+    downloads:
+      alignments:
+        size: 23624916
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-pt.xml.gz
+      smt phrase table:
+        size: 500990262
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-pt.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 135031535
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/pt.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 376417721
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/pt.zip
+      word alignment dictionary:
+        size: 3757526
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-pt.dic.gz
+      word alignments:
+        size: 121934936
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-pt.alg.zip
+    files: 29
+    source language tokens: 2809381
+    target language tokens: 57460809
+  en-ro:
+    alignments: 2459145
+    downloads:
+      alignments:
+        size: 20693875
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-ro.xml.gz
+      smt phrase table:
+        size: 229399504
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-ro.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 69616760
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/ro.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 206342883
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/ro.zip
+      word alignment dictionary:
+        size: 2952432
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-ro.dic.gz
+      word alignments:
+        size: 48160470
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-ro.alg.zip
+    files: 25
+    source language tokens: 2459752
+    target language tokens: 32821637
+  en-ru:
+    alignments: 12057826
+    downloads:
+      alignments:
+        size: 99882741
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en-ru.xml.gz
+      smt phrase table:
+        size: 1400048403
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-ru.zip
+      source language:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+      target language:
+        size: 426514678
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/ru.zip
+      tokenized source language:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      tokenized target language:
+        size: 1099127887
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/ru.zip
+      word alignment dictionary:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/dic/en-ru.dic.gz
+      word alignments:
+        size: 365209465
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/smt/en-ru.alg.zip
+    files: 121
+    source language tokens: 12061155
+    target language tokens: 132771767
+monolingual:
+  cs:
+    downloads:
+      frequency list:
+        size: 10146902
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/cs.freq.gz
+      plain text:
+        size: 153922989
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/cs.txt.gz
+      tokenized text:
+        size: 155898196
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/cs.tok.gz
+      tokenized xml:
+        size: 616889451
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/cs.zip
+      xml:
+        size: 198900326
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/cs.zip
+    files: 101
+    sentences: 11129146
+    tokens: 116449310
+  de:
+    downloads:
+      frequency list:
+        size: 58218742
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/de.freq.gz
+      plain text:
+        size: 998972737
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/de.txt.gz
+      tokenized text:
+        size: 1004553528
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 4528705323
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/de.zip
+      xml:
+        size: 1195758142
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/de.zip
+    files: 364
+    sentences: 42385548
+    tokens: 534375578
+  en:
+    downloads:
+      frequency list:
+        size: 91453970
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/en.freq.gz
+      plain text:
+        size: 3743718589
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/en.txt.gz
+      tokenized text:
+        size: 3757785968
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 18430169897
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/en.zip
+      xml:
+        size: 4414278135
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/en.zip
+    files: 1224
+    sentences: 142279635
+    tokens: 2236191471
+  es:
+    downloads:
+      frequency list:
+        size: 11529734
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/es.freq.gz
+      plain text:
+        size: 699044139
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/es.txt.gz
+      tokenized text:
+        size: 701491341
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 3301557571
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/es.zip
+      xml:
+        size: 792360640
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/es.zip
+    files: 161
+    sentences: 18735018
+    tokens: 387960030
+  et:
+    downloads:
+      frequency list:
+        size: 11734282
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/et.freq.gz
+      plain text:
+        size: 39045782
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/et.txt.gz
+      tokenized text:
+        size: 38679286
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/et.tok.gz
+      tokenized xml:
+        size: 154144390
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/et.zip
+      xml:
+        size: 45711512
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/et.zip
+    files: 13
+    sentences: 1478811
+    tokens: 19657173
+  fi:
+    downloads:
+      frequency list:
+        size: 1751632
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/fi.freq.gz
+      plain text:
+        size: 18330654
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/fi.txt.gz
+      tokenized text:
+        size: 18447591
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/fi.tok.gz
+      tokenized xml:
+        size: 52931909
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/fi.zip
+      xml:
+        size: 21575182
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/fi.zip
+    files: 7
+    sentences: 699266
+    tokens: 8629725
+  fr:
+    downloads:
+      frequency list:
+        size: 20071661
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/fr.freq.gz
+      plain text:
+        size: 1181100930
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 1187708826
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 5850997827
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/fr.zip
+      xml:
+        size: 1337646469
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/fr.zip
+    files: 277
+    sentences: 32071365
+    tokens: 705887025
+  it:
+    downloads:
+      frequency list:
+        size: 7824157
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/it.freq.gz
+      plain text:
+        size: 318175200
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/it.txt.gz
+      tokenized text:
+        size: 319616481
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/it.tok.gz
+      tokenized xml:
+        size: 1524378171
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/it.zip
+      xml:
+        size: 366130139
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/it.zip
+    files: 84
+    sentences: 9781130
+    tokens: 180170020
+  lv:
+    downloads:
+      frequency list:
+        size: 710163
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/lv.freq.gz
+      plain text:
+        size: 8567767
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/lv.txt.gz
+      tokenized text:
+        size: 8629315
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/lv.tok.gz
+      tokenized xml:
+        size: 25375919
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/lv.zip
+      xml:
+        size: 9945264
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/lv.zip
+    files: 3
+    sentences: 278078
+    tokens: 4103831
+  nl:
+    downloads:
+      frequency list:
+        size: 3568417
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/nl.freq.gz
+      plain text:
+        size: 90500716
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/nl.txt.gz
+      tokenized text:
+        size: 90917234
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/nl.tok.gz
+      tokenized xml:
+        size: 440418515
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/nl.zip
+      xml:
+        size: 105104848
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/nl.zip
+    files: 26
+    sentences: 2988604
+    tokens: 51253102
+  pl:
+    downloads:
+      frequency list:
+        size: 2032429
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/pl.freq.gz
+      plain text:
+        size: 46993698
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 47253294
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 140214154
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/pl.zip
+      xml:
+        size: 54500788
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/pl.zip
+    files: 13
+    sentences: 1487193
+    tokens: 22716776
+  pt:
+    downloads:
+      frequency list:
+        size: 2117303
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/pt.freq.gz
+      plain text:
+        size: 118940760
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/pt.txt.gz
+      tokenized text:
+        size: 119386575
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/pt.tok.gz
+      tokenized xml:
+        size: 376417721
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/pt.zip
+      xml:
+        size: 135031535
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/pt.zip
+    files: 29
+    sentences: 3227787
+    tokens: 66297465
+  ro:
+    downloads:
+      frequency list:
+        size: 1454638
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/ro.freq.gz
+      plain text:
+        size: 56138347
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/ro.txt.gz
+      tokenized text:
+        size: 56403754
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/ro.tok.gz
+      tokenized xml:
+        size: 206342883
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/ro.zip
+      xml:
+        size: 69616760
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/ro.zip
+    files: 25
+    sentences: 2903709
+    tokens: 38634543
+  ru:
+    downloads:
+      frequency list:
+        size: 15581579
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/freq/ru.freq.gz
+      plain text:
+        size: 369194375
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/ru.txt.gz
+      tokenized text:
+        size: 371824271
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/mono/ru.tok.gz
+      tokenized xml:
+        size: 1099127887
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/xml/ru.zip
+      xml:
+        size: 426514678
+        url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/raw/ru.zip
+    files: 121
+    sentences: 13438606
+    tokens: 182393843
+moses:
+  cs-en:
+    alignments: 10019079
+    download size: 353409206
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/cs-en.txt.zip
+    source language tokens: 77546308
+    target language tokens: 83681468
+  de-en:
+    alignments: 36351010
+    download size: 2125822027
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/de-en.txt.zip
+    source language tokens: 450747304
+    target language tokens: 478757669
+  en-es:
+    alignments: 16001324
+    download size: 1448189387
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-es.txt.zip
+    source language tokens: 326267538
+    target language tokens: 348047838
+  en-et:
+    alignments: 1297570
+    download size: 85386666
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-et.txt.zip
+    source language tokens: 15768132
+    target language tokens: 16959026
+  en-fi:
+    alignments: 624058
+    download size: 39538712
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-fi.txt.zip
+    source language tokens: 6970140
+    target language tokens: 9498707
+  en-fr:
+    alignments: 27622876
+    download size: 2406153707
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-fr.txt.zip
+    source language tokens: 547275545
+    target language tokens: 602054465
+  en-it:
+    alignments: 8318479
+    download size: 668801751
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-it.txt.zip
+    source language tokens: 155243088
+    target language tokens: 156502574
+  en-lv:
+    alignments: 242227
+    download size: 18165785
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-lv.txt.zip
+    source language tokens: 3379659
+    target language tokens: 4267850
+  en-nl:
+    alignments: 2560472
+    download size: 190326613
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-nl.txt.zip
+    source language tokens: 45201584
+    target language tokens: 45423699
+  en-pl:
+    alignments: 1275162
+    download size: 96991850
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-pl.txt.zip
+    source language tokens: 18743924
+    target language tokens: 22120442
+  en-pt:
+    alignments: 2809379
+    download size: 247734972
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-pt.txt.zip
+    source language tokens: 57461364
+    target language tokens: 57645516
+  en-ro:
+    alignments: 2459752
+    download size: 123605713
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-ro.txt.zip
+    source language tokens: 32827428
+    target language tokens: 32963586
+  en-ru:
+    alignments: 12059881
+    download size: 735129331
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/moses/en-ru.txt.zip
+    source language tokens: 132780180
+    target language tokens: 159463985
+tmx:
+  cs-en:
+    download size: 339221337
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/cs-en.tmx.gz
+    source language tokens: 77541080
+    target language tokens: 83676202
+    translation units: 10018010
+  de-en:
+    download size: 2125311880
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/de-en.tmx.gz
+    source language tokens: 450716290
+    target language tokens: 478725223
+    translation units: 36345228
+  en-es:
+    download size: 1518511396
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-es.tmx.gz
+    source language tokens: 326260824
+    target language tokens: 348040989
+    translation units: 16000865
+  en-et:
+    download size: 82366784
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-et.tmx.gz
+    source language tokens: 15768092
+    target language tokens: 16958991
+    translation units: 1297557
+  en-fi:
+    download size: 42151548
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-fi.tmx.gz
+    source language tokens: 6970061
+    target language tokens: 9498608
+    translation units: 624038
+  en-fr:
+    download size: 2524438503
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-fr.tmx.gz
+    source language tokens: 547266082
+    target language tokens: 602043092
+    translation units: 27621795
+  en-it:
+    download size: 695647398
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-it.tmx.gz
+    source language tokens: 155241639
+    target language tokens: 156501070
+    translation units: 8318247
+  en-lv:
+    download size: 19660580
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-lv.tmx.gz
+    source language tokens: 3379595
+    target language tokens: 4267775
+    translation units: 242220
+  en-nl:
+    download size: 199904806
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-nl.tmx.gz
+    source language tokens: 45200631
+    target language tokens: 45422762
+    translation units: 2560421
+  en-pl:
+    download size: 104464810
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-pl.tmx.gz
+    source language tokens: 18743746
+    target language tokens: 22120268
+    translation units: 1275117
+  en-pt:
+    download size: 263674162
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-pt.tmx.gz
+    source language tokens: 57460809
+    target language tokens: 57644931
+    translation units: 2809328
+  en-ro:
+    download size: 106126862
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-ro.tmx.gz
+    source language tokens: 32821637
+    target language tokens: 32957814
+    translation units: 2459145
+  en-ru:
+    download size: 775070082
+    download url: https://object.pouta.csc.fi/OPUS-ParaCrawl/v1/tmx/en-ru.tmx.gz
+    source language tokens: 132771767
+    target language tokens: 159454943
+    translation units: 12057826

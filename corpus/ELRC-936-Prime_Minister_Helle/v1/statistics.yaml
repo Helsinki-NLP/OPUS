@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 5268
+    downloads:
+      alignments:
+        size: 70059
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/xml/el-en.xml.gz
+      source language:
+        size: 356814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/raw/el.zip
+      target language:
+        size: 252063
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/raw/en.zip
+      tokenized source language:
+        size: 823814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/xml/el.zip
+      tokenized target language:
+        size: 715768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/xml/en.zip
+    files: 1
+    source language tokens: 5322
+    target language tokens: 115411
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 71103
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/freq/el.freq.gz
+      plain text:
+        size: 334527
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/mono/el.txt.gz
+      tokenized text:
+        size: 335735
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 823814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/xml/el.zip
+      xml:
+        size: 356814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/raw/el.zip
+    files: 1
+    sentences: 5417
+    tokens: 130761
+  en:
+    downloads:
+      frequency list:
+        size: 32880
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/freq/en.freq.gz
+      plain text:
+        size: 228251
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/mono/en.txt.gz
+      tokenized text:
+        size: 229035
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 715768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/xml/en.zip
+      xml:
+        size: 252063
+        url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/raw/en.zip
+    files: 1
+    sentences: 5438
+    tokens: 131280
+moses:
+  el-en:
+    alignments: 5323
+    download size: 591054
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/moses/el-en.txt.zip
+    source language tokens: 115681
+    target language tokens: 116895
+tmx:
+  el-en:
+    download size: 662234
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-936-Prime_Minister_Helle/v1/tmx/el-en.tmx.gz
+    source language tokens: 115411
+    target language tokens: 116612
+    translation units: 5268

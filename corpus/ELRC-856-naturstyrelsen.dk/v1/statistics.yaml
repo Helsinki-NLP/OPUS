@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 3117
+    downloads:
+      alignments:
+        size: 24665
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/da-en.xml.gz
+      source language:
+        size: 130437
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/raw/da.zip
+      target language:
+        size: 134372
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/raw/en.zip
+      tokenized source language:
+        size: 318547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/da.zip
+      tokenized target language:
+        size: 350514
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/en.zip
+    files: 1
+    source language tokens: 3118
+    target language tokens: 47649
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 41129
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/freq/da.freq.gz
+      plain text:
+        size: 116101
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/mono/da.txt.gz
+      tokenized text:
+        size: 116714
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 318547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/da.zip
+      xml:
+        size: 130437
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/raw/da.zip
+    files: 1
+    sentences: 3169
+    tokens: 54741
+  en:
+    downloads:
+      frequency list:
+        size: 32001
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/freq/en.freq.gz
+      plain text:
+        size: 120041
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/mono/en.txt.gz
+      tokenized text:
+        size: 120505
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 350514
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/en.zip
+      xml:
+        size: 134372
+        url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/raw/en.zip
+    files: 1
+    sentences: 3174
+    tokens: 62449
+moses:
+  da-en:
+    alignments: 3118
+    download size: 252951
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/moses/da-en.txt.zip
+    source language tokens: 47649
+    target language tokens: 55709
+tmx:
+  da-en:
+    download size: 264555
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/tmx/da-en.tmx.gz
+    source language tokens: 47649
+    target language tokens: 55709
+    translation units: 3118

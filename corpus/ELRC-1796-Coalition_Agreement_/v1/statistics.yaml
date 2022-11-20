@@ -1,0 +1,87 @@
+---
+bitexts:
+  fr-nl:
+    alignments: 2545
+    downloads:
+      alignments:
+        size: 20247
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/xml/fr-nl.xml.gz
+      smt phrase table:
+        size: 627167
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/smt/fr-nl.zip
+      source language:
+        size: 129549
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/raw/fr.zip
+      target language:
+        size: 126735
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/raw/nl.zip
+      tokenized source language:
+        size: 370303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/xml/fr.zip
+      tokenized target language:
+        size: 326825
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/xml/nl.zip
+      word alignment dictionary:
+        size: 51821
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/dic/fr-nl.dic.gz
+      word alignments:
+        size: 213842
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/smt/fr-nl.alg.zip
+    files: 1
+    source language tokens: 2546
+    target language tokens: 51664
+monolingual:
+  fr:
+    downloads:
+      frequency list:
+        size: 27715
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/freq/fr.freq.gz
+      plain text:
+        size: 117894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 118475
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 370303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/xml/fr.zip
+      xml:
+        size: 129549
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/raw/fr.zip
+    files: 1
+    sentences: 2590
+    tokens: 66983
+  nl:
+    downloads:
+      frequency list:
+        size: 35140
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/freq/nl.freq.gz
+      plain text:
+        size: 115106
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/mono/nl.txt.gz
+      tokenized text:
+        size: 115467
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/mono/nl.tok.gz
+      tokenized xml:
+        size: 326825
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/xml/nl.zip
+      xml:
+        size: 126735
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/raw/nl.zip
+    files: 1
+    sentences: 2584
+    tokens: 56448
+moses:
+  fr-nl:
+    alignments: 2546
+    download size: 246827
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/moses/fr-nl.txt.zip
+    source language tokens: 51664
+    target language tokens: 56646
+tmx:
+  fr-nl:
+    download size: 265436
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1796-Coalition_Agreement_/v1/tmx/fr-nl.tmx.gz
+    source language tokens: 51664
+    target language tokens: 56646
+    translation units: 2546

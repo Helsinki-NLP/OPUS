@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 2865
+    downloads:
+      alignments:
+        size: 22426
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/xml/en-is.xml.gz
+      source language:
+        size: 121621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/raw/en.zip
+      target language:
+        size: 127913
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/raw/is.zip
+      tokenized source language:
+        size: 384342
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/xml/en.zip
+      tokenized target language:
+        size: 347089
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/xml/is.zip
+    files: 1
+    source language tokens: 2866
+    target language tokens: 56399
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 15624
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/freq/en.freq.gz
+      plain text:
+        size: 108646
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/mono/en.txt.gz
+      tokenized text:
+        size: 108970
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 384342
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/xml/en.zip
+      xml:
+        size: 121621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/raw/en.zip
+    files: 1
+    sentences: 2980
+    tokens: 73160
+  is:
+    downloads:
+      frequency list:
+        size: 28705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/freq/is.freq.gz
+      plain text:
+        size: 115339
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/mono/is.txt.gz
+      tokenized text:
+        size: 115754
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 347089
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/xml/is.zip
+      xml:
+        size: 127913
+        url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/raw/is.zip
+    files: 1
+    sentences: 2889
+    tokens: 61203
+moses:
+  en-is:
+    alignments: 2866
+    download size: 240118
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/moses/en-is.txt.zip
+    source language tokens: 56399
+    target language tokens: 67820
+tmx:
+  en-is:
+    download size: 262810
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-505-www.pfs.is/v1/tmx/en-is.tmx.gz
+    source language tokens: 56399
+    target language tokens: 67820
+    translation units: 2866

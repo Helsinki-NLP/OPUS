@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 10
+    downloads:
+      alignments:
+        size: 283
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 6248
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/smt/en-ga.zip
+      source language:
+        size: 2536
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/raw/en.zip
+      target language:
+        size: 2647
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/raw/ga.zip
+      tokenized source language:
+        size: 3249
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/en.zip
+      tokenized target language:
+        size: 3476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 243
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 4044
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 11
+    target language tokens: 182
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 535
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/freq/en.freq.gz
+      plain text:
+        size: 618
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/mono/en.txt.gz
+      tokenized text:
+        size: 625
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 3249
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/en.zip
+      xml:
+        size: 2536
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/raw/en.zip
+    files: 1
+    sentences: 12
+    tokens: 210
+  ga:
+    downloads:
+      frequency list:
+        size: 662
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/freq/ga.freq.gz
+      plain text:
+        size: 718
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 727
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 3476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/ga.zip
+      xml:
+        size: 2647
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/raw/ga.zip
+    files: 1
+    sentences: 12
+    tokens: 243
+moses:
+  en-ga:
+    alignments: 11
+    download size: 3017
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/moses/en-ga.txt.zip
+    source language tokens: 182
+    target language tokens: 209
+tmx:
+  en-ga:
+    download size: 1561
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/tmx/en-ga.tmx.gz
+    source language tokens: 182
+    target language tokens: 209
+    translation units: 11

@@ -1,0 +1,78 @@
+---
+bitexts:
+  de-it:
+    alignments: 867
+    downloads:
+      alignments:
+        size: 6665
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/xml/de-it.xml.gz
+      source language:
+        size: 46894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/raw/de.zip
+      target language:
+        size: 46795
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/raw/it.zip
+      tokenized source language:
+        size: 105902
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/xml/de.zip
+      tokenized target language:
+        size: 117467
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/xml/it.zip
+    files: 1
+    source language tokens: 868
+    target language tokens: 14817
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 21422
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/freq/de.freq.gz
+      plain text:
+        size: 41404
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/mono/de.txt.gz
+      tokenized text:
+        size: 41632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 105902
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/xml/de.zip
+      xml:
+        size: 46894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/raw/de.zip
+    files: 1
+    sentences: 909
+    tokens: 16730
+  it:
+    downloads:
+      frequency list:
+        size: 18521
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/freq/it.freq.gz
+      plain text:
+        size: 41606
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/mono/it.txt.gz
+      tokenized text:
+        size: 41779
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/mono/it.tok.gz
+      tokenized xml:
+        size: 117467
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/xml/it.zip
+      xml:
+        size: 46795
+        url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/raw/it.zip
+    files: 1
+    sentences: 876
+    tokens: 19948
+moses:
+  de-it:
+    alignments: 868
+    download size: 88984
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/moses/de-it.txt.zip
+    source language tokens: 14817
+    target language tokens: 16821
+tmx:
+  de-it:
+    download size: 92977
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-420-Audioguide_Military_/v1/tmx/de-it.tmx.gz
+    source language tokens: 14817
+    target language tokens: 16821
+    translation units: 868

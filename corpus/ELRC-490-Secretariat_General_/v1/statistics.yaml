@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-sl:
+    alignments: 62985
+    downloads:
+      alignments:
+        size: 526081
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/en-sl.xml.gz
+      source language:
+        size: 2884758
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/raw/en.zip
+      target language:
+        size: 2895090
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/raw/sl.zip
+      tokenized source language:
+        size: 9590726
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/en.zip
+      tokenized target language:
+        size: 8621409
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/sl.zip
+    files: 1
+    source language tokens: 63069
+    target language tokens: 1332897
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 97801
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/freq/en.freq.gz
+      plain text:
+        size: 2636626
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2647565
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 9590726
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/en.zip
+      xml:
+        size: 2884758
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/raw/en.zip
+    files: 1
+    sentences: 65616
+    tokens: 1840859
+  sl:
+    downloads:
+      frequency list:
+        size: 185620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/freq/sl.freq.gz
+      plain text:
+        size: 2644934
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/mono/sl.txt.gz
+      tokenized text:
+        size: 2659095
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/mono/sl.tok.gz
+      tokenized xml:
+        size: 8621409
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/sl.zip
+      xml:
+        size: 2895090
+        url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/raw/sl.zip
+    files: 1
+    sentences: 64526
+    tokens: 1562049
+moses:
+  en-sl:
+    alignments: 63070
+    download size: 5593877
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/moses/en-sl.txt.zip
+    source language tokens: 1335531
+    target language tokens: 1637493
+tmx:
+  en-sl:
+    download size: 6100903
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/tmx/en-sl.tmx.gz
+    source language tokens: 1332897
+    target language tokens: 1634170
+    translation units: 62985

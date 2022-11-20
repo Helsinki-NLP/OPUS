@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-fi:
+    alignments: 53843
+    downloads:
+      alignments:
+        size: 420685
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/en-fi.xml.gz
+      source language:
+        size: 2524364
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/raw/en.zip
+      target language:
+        size: 2435254
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/raw/fi.zip
+      tokenized source language:
+        size: 6834031
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/en.zip
+      tokenized target language:
+        size: 5157240
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/fi.zip
+    files: 1
+    source language tokens: 53844
+    target language tokens: 665172
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 96995
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/freq/en.freq.gz
+      plain text:
+        size: 2298759
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2305086
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 6834031
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/en.zip
+      xml:
+        size: 2524364
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/raw/en.zip
+    files: 1
+    sentences: 55702
+    tokens: 1205071
+  fi:
+    downloads:
+      frequency list:
+        size: 425718
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/freq/fi.freq.gz
+      plain text:
+        size: 2200695
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/mono/fi.txt.gz
+      tokenized text:
+        size: 2205264
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/mono/fi.tok.gz
+      tokenized xml:
+        size: 5157240
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/fi.zip
+      xml:
+        size: 2435254
+        url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/raw/fi.zip
+    files: 1
+    sentences: 55450
+    tokens: 755652
+moses:
+  en-fi:
+    alignments: 53844
+    download size: 4768992
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/moses/en-fi.txt.zip
+    source language tokens: 665172
+    target language tokens: 1084607
+tmx:
+  en-fi:
+    download size: 5235566
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/tmx/en-fi.tmx.gz
+    source language tokens: 665172
+    target language tokens: 1084607
+    translation units: 53844

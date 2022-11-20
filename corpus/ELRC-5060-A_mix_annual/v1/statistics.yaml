@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ga:
+    alignments: 6588
+    downloads:
+      alignments:
+        size: 56939
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/en-ga.xml.gz
+      source language:
+        size: 332512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/raw/en.zip
+      target language:
+        size: 373833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/raw/ga.zip
+      tokenized source language:
+        size: 902255
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/en.zip
+      tokenized target language:
+        size: 1034315
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/ga.zip
+    files: 1
+    source language tokens: 6589
+    target language tokens: 145682
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 37410
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/freq/en.freq.gz
+      plain text:
+        size: 298720
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/mono/en.txt.gz
+      tokenized text:
+        size: 299743
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 902255
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/en.zip
+      xml:
+        size: 332512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/raw/en.zip
+    files: 1
+    sentences: 7469
+    tokens: 158304
+  ga:
+    downloads:
+      frequency list:
+        size: 54447
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/freq/ga.freq.gz
+      plain text:
+        size: 340888
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 341663
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 1034315
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/ga.zip
+      xml:
+        size: 373833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/raw/ga.zip
+    files: 1
+    sentences: 7502
+    tokens: 179944
+moses:
+  en-ga:
+    alignments: 6589
+    download size: 676855
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/moses/en-ga.txt.zip
+    source language tokens: 145682
+    target language tokens: 166104
+tmx:
+  en-ga:
+    download size: 747343
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/tmx/en-ga.tmx.gz
+    source language tokens: 145682
+    target language tokens: 166104
+    translation units: 6589

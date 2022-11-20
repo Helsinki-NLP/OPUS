@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 2713
+    downloads:
+      alignments:
+        size: 21421
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 98684
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/raw/en.zip
+      target language:
+        size: 95388
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 281936
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/xml/en.zip
+      tokenized target language:
+        size: 245112
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 2714
+    target language tokens: 37665
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 17119
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/freq/en.freq.gz
+      plain text:
+        size: 86818
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 87178
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 281936
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/xml/en.zip
+      xml:
+        size: 98684
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/raw/en.zip
+    files: 1
+    sentences: 2738
+    tokens: 52344
+  nb:
+    downloads:
+      frequency list:
+        size: 25630
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 83611
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 84148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 245112
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/xml/nb.zip
+      xml:
+        size: 95388
+        url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/raw/nb.zip
+    files: 1
+    sentences: 2733
+    tokens: 43005
+moses:
+  en-nb:
+    alignments: 2714
+    download size: 186463
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/moses/en-nb.txt.zip
+    source language tokens: 37665
+    target language tokens: 47207
+tmx:
+  en-nb:
+    download size: 200170
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-605-www.altinn.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 37665
+    target language tokens: 47207
+    translation units: 2714

@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 22
+    downloads:
+      alignments:
+        size: 361
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 9116
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/smt/en-ga.zip
+      source language:
+        size: 2881
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/raw/en.zip
+      target language:
+        size: 3051
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/raw/ga.zip
+      tokenized source language:
+        size: 4307
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/en.zip
+      tokenized target language:
+        size: 4725
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 449
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 5013
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 23
+    target language tokens: 399
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 816
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/freq/en.freq.gz
+      plain text:
+        size: 1011
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1015
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 4307
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/en.zip
+      xml:
+        size: 2881
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/raw/en.zip
+    files: 1
+    sentences: 22
+    tokens: 423
+  ga:
+    downloads:
+      frequency list:
+        size: 977
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/freq/ga.freq.gz
+      plain text:
+        size: 1163
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 1168
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 4725
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/ga.zip
+      xml:
+        size: 3051
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/raw/ga.zip
+    files: 1
+    sentences: 23
+    tokens: 484
+moses:
+  en-ga:
+    alignments: 23
+    download size: 3863
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/moses/en-ga.txt.zip
+    source language tokens: 399
+    target language tokens: 426
+tmx:
+  en-ga:
+    download size: 2423
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/tmx/en-ga.tmx.gz
+    source language tokens: 399
+    target language tokens: 426
+    translation units: 23

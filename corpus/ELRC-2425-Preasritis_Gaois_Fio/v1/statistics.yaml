@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 162
+    downloads:
+      alignments:
+        size: 1516
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 73758
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/smt/en-ga.zip
+      source language:
+        size: 17061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/raw/en.zip
+      target language:
+        size: 17534
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/raw/ga.zip
+      tokenized source language:
+        size: 33942
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/xml/en.zip
+      tokenized target language:
+        size: 34686
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 4780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 22796
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 163
+    target language tokens: 4210
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 4651
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/freq/en.freq.gz
+      plain text:
+        size: 8535
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/mono/en.txt.gz
+      tokenized text:
+        size: 8561
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 33942
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/xml/en.zip
+      xml:
+        size: 17061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/raw/en.zip
+    files: 1
+    sentences: 200
+    tokens: 4733
+  ga:
+    downloads:
+      frequency list:
+        size: 5335
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/freq/ga.freq.gz
+      plain text:
+        size: 8977
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 8992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 34686
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/xml/ga.zip
+      xml:
+        size: 17534
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/raw/ga.zip
+    files: 1
+    sentences: 195
+    tokens: 4772
+moses:
+  en-ga:
+    alignments: 163
+    download size: 25978
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/moses/en-ga.txt.zip
+    source language tokens: 4210
+    target language tokens: 4303
+tmx:
+  en-ga:
+    download size: 19121
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2425-Preasritis_Gaois_Fio/v1/tmx/en-ga.tmx.gz
+    source language tokens: 4210
+    target language tokens: 4303
+    translation units: 163

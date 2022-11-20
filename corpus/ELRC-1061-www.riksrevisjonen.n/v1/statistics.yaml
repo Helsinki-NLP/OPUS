@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-nb:
+    alignments: 52003
+    downloads:
+      alignments:
+        size: 391332
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/xml/en-nb.xml.gz
+      smt phrase table:
+        size: 1252930
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/smt/en-nb.zip
+      source language:
+        size: 2369443
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/raw/en.zip
+      target language:
+        size: 2351647
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/raw/nb.zip
+      tokenized source language:
+        size: 6727092
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/xml/en.zip
+      tokenized target language:
+        size: 634882
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/xml/nb.zip
+      word alignment dictionary:
+        size: 120676
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/dic/en-nb.dic.gz
+      word alignments:
+        size: 293771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/smt/en-nb.alg.zip
+    files: 1
+    source language tokens: 52004
+    target language tokens: 155767
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 79767
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/freq/en.freq.gz
+      plain text:
+        size: 2154421
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2161817
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 6727092
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/xml/en.zip
+      xml:
+        size: 2369443
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/raw/en.zip
+    files: 1
+    sentences: 52199
+    tokens: 1225757
+  nb:
+    downloads:
+      frequency list:
+        size: 58149
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/freq/nb.freq.gz
+      plain text:
+        size: 2143311
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 228428
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 634882
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/xml/nb.zip
+      xml:
+        size: 2351647
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/raw/nb.zip
+    files: 1
+    sentences: 5025
+    tokens: 108774
+moses:
+  en-nb:
+    alignments: 52004
+    download size: 4548115
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/moses/en-nb.txt.zip
+    source language tokens: 920117
+    target language tokens: 1114827
+tmx:
+  en-nb:
+    download size: 4929003
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1061-www.riksrevisjonen.n/v1/tmx/en-nb.tmx.gz
+    source language tokens: 920117
+    target language tokens: 1114827
+    translation units: 52004

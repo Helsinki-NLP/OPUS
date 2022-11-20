@@ -1,0 +1,83 @@
+---
+bitexts:
+  el-en:
+    alignments: 179
+    downloads:
+      alignments:
+        size: 1435
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/xml/el-en.xml.gz
+      source language:
+        size: 8294
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/raw/el.zip
+      target language:
+        size: 6712
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/raw/en.zip
+      tokenized source language:
+        size: 21424
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/xml/el.zip
+      tokenized target language:
+        size: 18891
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/xml/en.zip
+    files: 1
+    source language tokens: 180
+    target language tokens: 2965
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 3525
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/freq/el.freq.gz
+      plain text:
+        size: 5828
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/mono/el.txt.gz
+      tokenized text:
+        size: 5860
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 21424
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/xml/el.zip
+      xml:
+        size: 8294
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/raw/el.zip
+    files: 1
+    sentences: 179
+    tokens: 3536
+  en:
+    downloads:
+      frequency list:
+        size: 2327
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/freq/en.freq.gz
+      plain text:
+        size: 4301
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/mono/en.txt.gz
+      tokenized text:
+        size: 4332
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 18891
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/xml/en.zip
+      xml:
+        size: 6712
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/raw/en.zip
+    files: 1
+    sentences: 180
+    tokens: 3475
+  tmx:
+    downloads:
+      tokenized xml:
+        size: 1456
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/xml/tmx.zip
+moses:
+  el-en:
+    alignments: 180
+    download size: 12970
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/moses/el-en.txt.zip
+    source language tokens: 2965
+    target language tokens: 3034
+tmx:
+  el-en:
+    download size: 11314
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3857-State_Budget_Executi/v1/tmx/el-en.tmx.gz
+    source language tokens: 2965
+    target language tokens: 3034
+    translation units: 180

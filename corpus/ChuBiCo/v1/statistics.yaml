@@ -1,0 +1,140 @@
+---
+bitexts:
+  chv-en:
+    alignments: 199459
+    downloads:
+      alignments:
+        size: 1649430
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/chv-en.xml.gz
+      smt phrase table:
+        size: 19480443
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/smt/chv-en.zip
+      source language:
+        size: 54931561
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/raw/chv.zip
+      target language:
+        size: 9292283
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/raw/en.zip
+      tokenized source language:
+        size: 114411957
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/chv.zip
+      tokenized target language:
+        size: 24316294
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/en.zip
+      word alignment dictionary:
+        size: 474653
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/dic/chv-en.dic.gz
+      word alignments:
+        size: 11251270
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/smt/chv-en.alg.zip
+    files: 1
+    source language tokens: 200000
+    target language tokens: 2718292
+  chv-ru:
+    alignments: 1000540
+    downloads:
+      alignments:
+        size: 7770879
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/chv-ru.xml.gz
+      source language:
+        size: 54931561
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/raw/chv.zip
+      target language:
+        size: 44115233
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/raw/ru.zip
+      tokenized source language:
+        size: 114411957
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/chv.zip
+      tokenized target language:
+        size: 91894809
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/ru.zip
+    files: 1
+    source language tokens: 1002013
+    target language tokens: 10850955
+monolingual:
+  chv:
+    downloads:
+      frequency list:
+        size: 1811069
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/freq/chv.freq.gz
+      plain text:
+        size: 49515537
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/mono/chv.txt.gz
+      tokenized text:
+        size: 49728740
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/mono/chv.tok.gz
+      tokenized xml:
+        size: 114411957
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/chv.zip
+      xml:
+        size: 54931561
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/raw/chv.zip
+    files: 2
+    sentences: 1257751
+    tokens: 16616890
+  en:
+    downloads:
+      frequency list:
+        size: 305297
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/freq/en.freq.gz
+      plain text:
+        size: 8175867
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/mono/en.txt.gz
+      tokenized text:
+        size: 8235820
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 24316294
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/en.zip
+      xml:
+        size: 9292283
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/raw/en.zip
+    files: 1
+    sentences: 217165
+    tokens: 4221758
+  ru:
+    downloads:
+      frequency list:
+        size: 1993687
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/freq/ru.freq.gz
+      plain text:
+        size: 39565907
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/mono/ru.txt.gz
+      tokenized text:
+        size: 39650780
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/mono/ru.tok.gz
+      tokenized xml:
+        size: 91894809
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/xml/ru.zip
+      xml:
+        size: 44115233
+        url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/raw/ru.zip
+    files: 1
+    sentences: 1040219
+    tokens: 13490861
+moses:
+  chv-en:
+    alignments: 200001
+    download size: 18970762
+    download url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/moses/chv-en.txt.zip
+    source language tokens: 2719339
+    target language tokens: 3461073
+  chv-ru:
+    alignments: 1002014
+    download size: 84230419
+    download url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/moses/chv-ru.txt.zip
+    source language tokens: 10856100
+    target language tokens: 10867259
+tmx:
+  chv-en:
+    download size: 21402723
+    download url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/tmx/chv-en.tmx.gz
+    source language tokens: 2718292
+    target language tokens: 3460156
+    translation units: 199459
+  chv-ru:
+    download size: 88403930
+    download url: https://object.pouta.csc.fi/OPUS-ChuBiCo/v1/tmx/chv-ru.tmx.gz
+    source language tokens: 10850955
+    target language tokens: 10862415
+    translation units: 1000540

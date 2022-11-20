@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 610
+    downloads:
+      alignments:
+        size: 7994
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/en-pl.xml.gz
+      source language:
+        size: 33478
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/raw/en.zip
+      target language:
+        size: 36609
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/raw/pl.zip
+      tokenized source language:
+        size: 86117
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/en.zip
+      tokenized target language:
+        size: 82157
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/pl.zip
+    files: 1
+    source language tokens: 611
+    target language tokens: 11110
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 11786
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/freq/en.freq.gz
+      plain text:
+        size: 29338
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/mono/en.txt.gz
+      tokenized text:
+        size: 29449
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 86117
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/en.zip
+      xml:
+        size: 33478
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/raw/en.zip
+    files: 1
+    sentences: 627
+    tokens: 15129
+  pl:
+    downloads:
+      frequency list:
+        size: 18463
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/freq/pl.freq.gz
+      plain text:
+        size: 32331
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 32396
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 82157
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/pl.zip
+      xml:
+        size: 36609
+        url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/raw/pl.zip
+    files: 1
+    sentences: 622
+    tokens: 12585
+moses:
+  en-pl:
+    alignments: 611
+    download size: 66336
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/moses/en-pl.txt.zip
+    source language tokens: 11110
+    target language tokens: 13604
+tmx:
+  en-pl:
+    download size: 68034
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/tmx/en-pl.tmx.gz
+    source language tokens: 11110
+    target language tokens: 13604
+    translation units: 611

@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-sv:
+    alignments: 6818
+    downloads:
+      alignments:
+        size: 51874
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/en-sv.xml.gz
+      source language:
+        size: 189580
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/raw/en.zip
+      target language:
+        size: 187561
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/raw/sv.zip
+      tokenized source language:
+        size: 530236
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/en.zip
+      tokenized target language:
+        size: 469252
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/sv.zip
+    files: 1
+    source language tokens: 6819
+    target language tokens: 70038
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 27005
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/freq/en.freq.gz
+      plain text:
+        size: 160760
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 161671
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 530236
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/en.zip
+      xml:
+        size: 189580
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/raw/en.zip
+    files: 1
+    sentences: 6880
+    tokens: 97367
+  sv:
+    downloads:
+      frequency list:
+        size: 42260
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/freq/sv.freq.gz
+      plain text:
+        size: 159684
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 160473
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 469252
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/sv.zip
+      xml:
+        size: 187561
+        url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/raw/sv.zip
+    files: 1
+    sentences: 6831
+    tokens: 79067
+moses:
+  en-sv:
+    alignments: 6819
+    download size: 358078
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/moses/en-sv.txt.zip
+    source language tokens: 70038
+    target language tokens: 85783
+tmx:
+  en-sv:
+    download size: 381545
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/tmx/en-sv.tmx.gz
+    source language tokens: 70038
+    target language tokens: 85783
+    translation units: 6819

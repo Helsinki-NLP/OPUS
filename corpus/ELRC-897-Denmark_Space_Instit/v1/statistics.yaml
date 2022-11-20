@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 1939
+    downloads:
+      alignments:
+        size: 15122
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/da-en.xml.gz
+      source language:
+        size: 104477
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/raw/da.zip
+      target language:
+        size: 101943
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/raw/en.zip
+      tokenized source language:
+        size: 259967
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/da.zip
+      tokenized target language:
+        size: 265442
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/en.zip
+    files: 1
+    source language tokens: 1940
+    target language tokens: 37834
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 35222
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/freq/da.freq.gz
+      plain text:
+        size: 95092
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/mono/da.txt.gz
+      tokenized text:
+        size: 95749
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 259967
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/da.zip
+      xml:
+        size: 104477
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/raw/da.zip
+    files: 1
+    sentences: 1941
+    tokens: 43665
+  en:
+    downloads:
+      frequency list:
+        size: 26447
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/freq/en.freq.gz
+      plain text:
+        size: 92844
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/mono/en.txt.gz
+      tokenized text:
+        size: 93207
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 265442
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/en.zip
+      xml:
+        size: 101943
+        url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/raw/en.zip
+    files: 1
+    sentences: 1945
+    tokens: 45925
+moses:
+  da-en:
+    alignments: 1940
+    download size: 199064
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/moses/da-en.txt.zip
+    source language tokens: 37834
+    target language tokens: 41090
+tmx:
+  da-en:
+    download size: 203395
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/tmx/da-en.tmx.gz
+    source language tokens: 37834
+    target language tokens: 41090
+    translation units: 1940

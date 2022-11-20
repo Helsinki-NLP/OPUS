@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ga:
+    alignments: 114
+    downloads:
+      alignments:
+        size: 1066
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/en-ga.xml.gz
+      source language:
+        size: 9048
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/raw/en.zip
+      target language:
+        size: 9952
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/raw/ga.zip
+      tokenized source language:
+        size: 19782
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/en.zip
+      tokenized target language:
+        size: 22108
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/ga.zip
+    files: 1
+    source language tokens: 115
+    target language tokens: 2881
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 4017
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/freq/en.freq.gz
+      plain text:
+        size: 6682
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/mono/en.txt.gz
+      tokenized text:
+        size: 6708
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 19782
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/en.zip
+      xml:
+        size: 9048
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/raw/en.zip
+    files: 1
+    sentences: 129
+    tokens: 3170
+  ga:
+    downloads:
+      frequency list:
+        size: 4794
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/freq/ga.freq.gz
+      plain text:
+        size: 7564
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 7570
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 22108
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/ga.zip
+      xml:
+        size: 9952
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/raw/ga.zip
+    files: 1
+    sentences: 132
+    tokens: 3534
+moses:
+  en-ga:
+    alignments: 115
+    download size: 16468
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/moses/en-ga.txt.zip
+    source language tokens: 2881
+    target language tokens: 3215
+tmx:
+  en-ga:
+    download size: 15112
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/tmx/en-ga.tmx.gz
+    source language tokens: 2881
+    target language tokens: 3215
+    translation units: 115

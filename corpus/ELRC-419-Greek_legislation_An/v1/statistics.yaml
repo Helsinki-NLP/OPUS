@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 1069
+    downloads:
+      alignments:
+        size: 7342
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/xml/el-en.xml.gz
+      source language:
+        size: 62010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/raw/el.zip
+      target language:
+        size: 44133
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/raw/en.zip
+      tokenized source language:
+        size: 135377
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/xml/el.zip
+      tokenized target language:
+        size: 112031
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/xml/en.zip
+    files: 1
+    source language tokens: 1070
+    target language tokens: 16515
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 23174
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/freq/el.freq.gz
+      plain text:
+        size: 56264
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/mono/el.txt.gz
+      tokenized text:
+        size: 56509
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 135377
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/xml/el.zip
+      xml:
+        size: 62010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/raw/el.zip
+    files: 1
+    sentences: 1070
+    tokens: 20424
+  en:
+    downloads:
+      frequency list:
+        size: 12395
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/freq/en.freq.gz
+      plain text:
+        size: 38279
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/mono/en.txt.gz
+      tokenized text:
+        size: 38487
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 112031
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/xml/en.zip
+      xml:
+        size: 44133
+        url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/raw/en.zip
+    files: 1
+    sentences: 1084
+    tokens: 18687
+moses:
+  el-en:
+    alignments: 1070
+    download size: 101317
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/moses/el-en.txt.zip
+    source language tokens: 16515
+    target language tokens: 18175
+tmx:
+  el-en:
+    download size: 113308
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-419-Greek_legislation_An/v1/tmx/el-en.tmx.gz
+    source language tokens: 16515
+    target language tokens: 18175
+    translation units: 1070

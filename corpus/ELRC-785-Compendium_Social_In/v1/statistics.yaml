@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 429
+    downloads:
+      alignments:
+        size: 5980
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/en-pl.xml.gz
+      source language:
+        size: 16030
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/raw/en.zip
+      target language:
+        size: 16645
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/raw/pl.zip
+      tokenized source language:
+        size: 39274
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/en.zip
+      tokenized target language:
+        size: 36471
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/pl.zip
+    files: 1
+    source language tokens: 462
+    target language tokens: 4683
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 6357
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/freq/en.freq.gz
+      plain text:
+        size: 12549
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/mono/en.txt.gz
+      tokenized text:
+        size: 12612
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 39274
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/en.zip
+      xml:
+        size: 16030
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/raw/en.zip
+    files: 1
+    sentences: 471
+    tokens: 6632
+  pl:
+    downloads:
+      frequency list:
+        size: 8545
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/freq/pl.freq.gz
+      plain text:
+        size: 13146
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 13180
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 36471
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/pl.zip
+      xml:
+        size: 16645
+        url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/raw/pl.zip
+    files: 1
+    sentences: 465
+    tokens: 5504
+moses:
+  en-pl:
+    alignments: 463
+    download size: 29599
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/moses/en-pl.txt.zip
+    source language tokens: 4840
+    target language tokens: 5908
+tmx:
+  en-pl:
+    download size: 28027
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/tmx/en-pl.tmx.gz
+    source language tokens: 4683
+    target language tokens: 5720
+    translation units: 429

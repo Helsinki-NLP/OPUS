@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 144064
+    downloads:
+      alignments:
+        size: 2558304
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 8040181
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/raw/en.zip
+      target language:
+        size: 8008860
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 31182049
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/xml/en.zip
+      tokenized target language:
+        size: 29319900
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 340840
+    target language tokens: 2236497
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 202881
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/freq/en.freq.gz
+      plain text:
+        size: 6409310
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 6446378
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 31182049
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/xml/en.zip
+      xml:
+        size: 8040181
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/raw/en.zip
+    files: 1
+    sentences: 340934
+    tokens: 5846106
+  nb:
+    downloads:
+      frequency list:
+        size: 357044
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 6279948
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 6324046
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 29319900
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/xml/nb.zip
+      xml:
+        size: 8008860
+        url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/raw/nb.zip
+    files: 1
+    sentences: 340849
+    tokens: 5352666
+moses:
+  en-nb:
+    alignments: 340841
+    download size: 14326788
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/moses/en-nb.txt.zip
+    source language tokens: 4713001
+    target language tokens: 5204508
+tmx:
+  en-nb:
+    download size: 9108252
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-518-www.regjeringen.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 2236497
+    target language tokens: 2456201
+    translation units: 144064

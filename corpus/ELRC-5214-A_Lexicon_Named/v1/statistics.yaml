@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-uk:
+    alignments: 495402
+    downloads:
+      alignments:
+        size: 3771793
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/xml/en-uk.xml.gz
+      source language:
+        size: 4606299
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/raw/en.zip
+      target language:
+        size: 5304973
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/raw/uk.zip
+      tokenized source language:
+        size: 8538739
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/xml/en.zip
+      tokenized target language:
+        size: 9423767
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/xml/uk.zip
+    files: 1
+    source language tokens: 495403
+    target language tokens: 979062
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 1270835
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/freq/en.freq.gz
+      plain text:
+        size: 2920712
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2922328
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 8538739
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/xml/en.zip
+      xml:
+        size: 4606299
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/raw/en.zip
+    files: 1
+    sentences: 495598
+    tokens: 1142066
+  uk:
+    downloads:
+      frequency list:
+        size: 1366411
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/freq/uk.freq.gz
+      plain text:
+        size: 3705275
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/mono/uk.txt.gz
+      tokenized text:
+        size: 3717191
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/mono/uk.tok.gz
+      tokenized xml:
+        size: 9423767
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/xml/uk.zip
+      xml:
+        size: 5304973
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/raw/uk.zip
+    files: 1
+    sentences: 496166
+    tokens: 1187251
+moses:
+  en-uk:
+    alignments: 495403
+    download size: 8972766
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/moses/en-uk.txt.zip
+    source language tokens: 979062
+    target language tokens: 1126221
+tmx:
+  en-uk:
+    download size: 8395753
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5214-A_Lexicon_Named/v1/tmx/en-uk.tmx.gz
+    source language tokens: 979062
+    target language tokens: 1126221
+    translation units: 495403

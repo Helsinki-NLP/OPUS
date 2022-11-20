@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-uk:
+    alignments: 86784
+    downloads:
+      alignments:
+        size: 727905
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/xml/en-uk.xml.gz
+      source language:
+        size: 4563124
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/raw/en.zip
+      target language:
+        size: 5618290
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/raw/uk.zip
+      tokenized source language:
+        size: 12501696
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/xml/en.zip
+      tokenized target language:
+        size: 12504935
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/xml/uk.zip
+    files: 1
+    source language tokens: 88229
+    target language tokens: 1550463
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 178245
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/freq/en.freq.gz
+      plain text:
+        size: 4096875
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/mono/en.txt.gz
+      tokenized text:
+        size: 4116442
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 12501696
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/xml/en.zip
+      xml:
+        size: 4563124
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/raw/en.zip
+    files: 1
+    sentences: 96679
+    tokens: 2154342
+  uk:
+    downloads:
+      frequency list:
+        size: 451897
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/freq/uk.freq.gz
+      plain text:
+        size: 5165143
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/mono/uk.txt.gz
+      tokenized text:
+        size: 5177629
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/mono/uk.tok.gz
+      tokenized xml:
+        size: 12504935
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/xml/uk.zip
+      xml:
+        size: 5618290
+        url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/raw/uk.zip
+    files: 1
+    sentences: 97061
+    tokens: 1879570
+moses:
+  en-uk:
+    alignments: 88230
+    download size: 9735562
+    download url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/moses/en-uk.txt.zip
+    source language tokens: 1574611
+    target language tokens: 1885729
+tmx:
+  en-uk:
+    download size: 10948828
+    download url: https://object.pouta.csc.fi/OPUS-SUMMA/v1/tmx/en-uk.tmx.gz
+    source language tokens: 1550463
+    target language tokens: 1856385
+    translation units: 86784

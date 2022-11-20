@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-es:
+    alignments: 1293
+    downloads:
+      alignments:
+        size: 11078
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/xml/en-es.xml.gz
+      smt phrase table:
+        size: 333114
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/smt/en-es.zip
+      source language:
+        size: 70420
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/raw/en.zip
+      target language:
+        size: 70755
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/raw/es.zip
+      tokenized source language:
+        size: 184117
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/xml/en.zip
+      tokenized target language:
+        size: 190495
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/xml/es.zip
+      word alignment dictionary:
+        size: 23219
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/dic/en-es.dic.gz
+      word alignments:
+        size: 111373
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/smt/en-es.alg.zip
+    files: 1
+    source language tokens: 1294
+    target language tokens: 28341
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 16842
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/freq/en.freq.gz
+      plain text:
+        size: 59853
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/mono/en.txt.gz
+      tokenized text:
+        size: 60079
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 184117
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/xml/en.zip
+      xml:
+        size: 70420
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/raw/en.zip
+    files: 1
+    sentences: 1492
+    tokens: 31669
+  es:
+    downloads:
+      frequency list:
+        size: 16986
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/freq/es.freq.gz
+      plain text:
+        size: 60085
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/mono/es.txt.gz
+      tokenized text:
+        size: 60307
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 190495
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/xml/es.zip
+      xml:
+        size: 70755
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/raw/es.zip
+    files: 1
+    sentences: 1421
+    tokens: 33609
+moses:
+  en-es:
+    alignments: 1294
+    download size: 131900
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/moses/en-es.txt.zip
+    source language tokens: 28341
+    target language tokens: 30456
+tmx:
+  en-es:
+    download size: 135257
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2498-Plan_Nacional_e/v1/tmx/en-es.tmx.gz
+    source language tokens: 28341
+    target language tokens: 30456
+    translation units: 1294

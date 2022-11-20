@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-lt:
+    alignments: 1770
+    downloads:
+      alignments:
+        size: 13723
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/xml/en-lt.xml.gz
+      source language:
+        size: 76390
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/raw/en.zip
+      target language:
+        size: 79245
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/raw/lt.zip
+      tokenized source language:
+        size: 207027
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/xml/en.zip
+      tokenized target language:
+        size: 181025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/xml/lt.zip
+    files: 1
+    source language tokens: 1771
+    target language tokens: 24482
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 20065
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/freq/en.freq.gz
+      plain text:
+        size: 67917
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/mono/en.txt.gz
+      tokenized text:
+        size: 68073
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 207027
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/xml/en.zip
+      xml:
+        size: 76390
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/raw/en.zip
+    files: 1
+    sentences: 1798
+    tokens: 37525
+  lt:
+    downloads:
+      frequency list:
+        size: 32686
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/freq/lt.freq.gz
+      plain text:
+        size: 70649
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/mono/lt.txt.gz
+      tokenized text:
+        size: 70914
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/mono/lt.tok.gz
+      tokenized xml:
+        size: 181025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/xml/lt.zip
+      xml:
+        size: 79245
+        url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/raw/lt.zip
+    files: 1
+    sentences: 1796
+    tokens: 28710
+moses:
+  en-lt:
+    alignments: 1771
+    download size: 149051
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/moses/en-lt.txt.zip
+    source language tokens: 24482
+    target language tokens: 33911
+tmx:
+  en-lt:
+    download size: 157444
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-590-www.lrs.lt/v1/tmx/en-lt.tmx.gz
+    source language tokens: 24482
+    target language tokens: 33911
+    translation units: 1771

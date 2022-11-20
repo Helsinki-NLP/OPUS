@@ -1,0 +1,87 @@
+---
+bitexts:
+  el-en:
+    alignments: 1021
+    downloads:
+      alignments:
+        size: 14227
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/xml/el-en.xml.gz
+      smt phrase table:
+        size: 347943
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/smt/el-en.zip
+      source language:
+        size: 63989
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/raw/el.zip
+      target language:
+        size: 50813
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/raw/en.zip
+      tokenized source language:
+        size: 156345
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/xml/el.zip
+      tokenized target language:
+        size: 152887
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/xml/en.zip
+      word alignment dictionary:
+        size: 23665
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/dic/el-en.dic.gz
+      word alignments:
+        size: 92855
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/smt/el-en.alg.zip
+    files: 1
+    source language tokens: 1022
+    target language tokens: 22797
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 20401
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/freq/el.freq.gz
+      plain text:
+        size: 56475
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/mono/el.txt.gz
+      tokenized text:
+        size: 56665
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 156345
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/xml/el.zip
+      xml:
+        size: 63989
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/raw/el.zip
+    files: 1
+    sentences: 1377
+    tokens: 25261
+  en:
+    downloads:
+      frequency list:
+        size: 11675
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/freq/en.freq.gz
+      plain text:
+        size: 43211
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/mono/en.txt.gz
+      tokenized text:
+        size: 43350
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 152887
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/xml/en.zip
+      xml:
+        size: 50813
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/raw/en.zip
+    files: 1
+    sentences: 1371
+    tokens: 28636
+moses:
+  el-en:
+    alignments: 1022
+    download size: 107794
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/moses/el-en.txt.zip
+    source language tokens: 22797
+    target language tokens: 26159
+tmx:
+  el-en:
+    download size: 117355
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1986-Constitution_Greece/v1/tmx/el-en.tmx.gz
+    source language tokens: 22797
+    target language tokens: 26159
+    translation units: 1022

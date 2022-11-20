@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-fi:
+    alignments: 1000
+    downloads:
+      alignments:
+        size: 7396
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/xml/en-fi.xml.gz
+      source language:
+        size: 31561
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/raw/en.zip
+      target language:
+        size: 32296
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/raw/fi.zip
+      tokenized source language:
+        size: 76133
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/xml/en.zip
+      tokenized target language:
+        size: 64092
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/xml/fi.zip
+    files: 1
+    source language tokens: 1001
+    target language tokens: 7517
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 9838
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/freq/en.freq.gz
+      plain text:
+        size: 25696
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/mono/en.txt.gz
+      tokenized text:
+        size: 25832
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 76133
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/xml/en.zip
+      xml:
+        size: 31561
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/raw/en.zip
+    files: 1
+    sentences: 1001
+    tokens: 12704
+  fi:
+    downloads:
+      frequency list:
+        size: 17304
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/freq/fi.freq.gz
+      plain text:
+        size: 26375
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/mono/fi.txt.gz
+      tokenized text:
+        size: 26468
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/mono/fi.tok.gz
+      tokenized xml:
+        size: 64092
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/xml/fi.zip
+      xml:
+        size: 32296
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/raw/fi.zip
+    files: 1
+    sentences: 1000
+    tokens: 8758
+moses:
+  en-fi:
+    alignments: 1001
+    download size: 59007
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/moses/en-fi.txt.zip
+    source language tokens: 7517
+    target language tokens: 11257
+tmx:
+  en-fi:
+    download size: 62500
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4995-Finnish_Financial_MT/v1/tmx/en-fi.tmx.gz
+    source language tokens: 7517
+    target language tokens: 11257
+    translation units: 1001

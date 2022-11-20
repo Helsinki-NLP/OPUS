@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 710
+    downloads:
+      alignments:
+        size: 9176
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/xml/en-is.xml.gz
+      source language:
+        size: 30110
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/raw/en.zip
+      target language:
+        size: 32025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/raw/is.zip
+      tokenized source language:
+        size: 82400
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/xml/en.zip
+      tokenized target language:
+        size: 78981
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/xml/is.zip
+    files: 1
+    source language tokens: 711
+    target language tokens: 10542
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 10495
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/freq/en.freq.gz
+      plain text:
+        size: 25086
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/mono/en.txt.gz
+      tokenized text:
+        size: 25386
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 82400
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/xml/en.zip
+      xml:
+        size: 30110
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/raw/en.zip
+    files: 1
+    sentences: 730
+    tokens: 14657
+  is:
+    downloads:
+      frequency list:
+        size: 13856
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/freq/is.freq.gz
+      plain text:
+        size: 26928
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/mono/is.txt.gz
+      tokenized text:
+        size: 27135
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 78981
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/xml/is.zip
+      xml:
+        size: 32025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/raw/is.zip
+    files: 1
+    sentences: 729
+    tokens: 13104
+moses:
+  en-is:
+    alignments: 711
+    download size: 57249
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/moses/en-is.txt.zip
+    source language tokens: 10542
+    target language tokens: 11887
+tmx:
+  en-is:
+    download size: 59031
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-516-Icelandic_Medicines/v1/tmx/en-is.tmx.gz
+    source language tokens: 10542
+    target language tokens: 11887
+    translation units: 711

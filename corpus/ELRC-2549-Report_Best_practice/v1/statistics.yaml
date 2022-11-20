@@ -1,0 +1,87 @@
+---
+bitexts:
+  bg-en:
+    alignments: 214
+    downloads:
+      alignments:
+        size: 3101
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/bg-en.xml.gz
+      smt phrase table:
+        size: 48225
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/smt/bg-en.zip
+      source language:
+        size: 11709
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/raw/bg.zip
+      target language:
+        size: 8783
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/raw/en.zip
+      tokenized source language:
+        size: 24500
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/bg.zip
+      tokenized target language:
+        size: 19512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/en.zip
+      word alignment dictionary:
+        size: 3306
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/dic/bg-en.dic.gz
+      word alignments:
+        size: 14718
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/smt/bg-en.alg.zip
+    files: 1
+    source language tokens: 215
+    target language tokens: 2757
+monolingual:
+  bg:
+    downloads:
+      frequency list:
+        size: 5644
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/freq/bg.freq.gz
+      plain text:
+        size: 9048
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/mono/bg.txt.gz
+      tokenized text:
+        size: 9113
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/mono/bg.tok.gz
+      tokenized xml:
+        size: 24500
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/bg.zip
+      xml:
+        size: 11709
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/raw/bg.zip
+    files: 1
+    sentences: 216
+    tokens: 3722
+  en:
+    downloads:
+      frequency list:
+        size: 3428
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/freq/en.freq.gz
+      plain text:
+        size: 6077
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/mono/en.txt.gz
+      tokenized text:
+        size: 6112
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 19512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/en.zip
+      xml:
+        size: 8783
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/raw/en.zip
+    files: 1
+    sentences: 221
+    tokens: 3113
+moses:
+  bg-en:
+    alignments: 215
+    download size: 17846
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/moses/bg-en.txt.zip
+    source language tokens: 2757
+    target language tokens: 2894
+tmx:
+  bg-en:
+    download size: 17249
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/tmx/bg-en.tmx.gz
+    source language tokens: 2757
+    target language tokens: 2894
+    translation units: 215

@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 1645
+    downloads:
+      alignments:
+        size: 14823
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/xml/en-nb.xml.gz
+      source language:
+        size: 53342
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/raw/en.zip
+      target language:
+        size: 49826
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/raw/nb.zip
+      tokenized source language:
+        size: 150097
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/xml/en.zip
+      tokenized target language:
+        size: 128423
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/xml/nb.zip
+    files: 1
+    source language tokens: 1907
+    target language tokens: 15480
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 13391
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/freq/en.freq.gz
+      plain text:
+        size: 43794
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/mono/en.txt.gz
+      tokenized text:
+        size: 44279
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 150097
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/xml/en.zip
+      xml:
+        size: 53342
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/raw/en.zip
+    files: 1
+    sentences: 1945
+    tokens: 25538
+  nb:
+    downloads:
+      frequency list:
+        size: 15495
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/freq/nb.freq.gz
+      plain text:
+        size: 40279
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 40720
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 128423
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/xml/nb.zip
+      xml:
+        size: 49826
+        url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/raw/nb.zip
+    files: 1
+    sentences: 1915
+    tokens: 20903
+moses:
+  en-nb:
+    alignments: 1907
+    download size: 95094
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/moses/en-nb.txt.zip
+    source language tokens: 16578
+    target language tokens: 21190
+tmx:
+  en-nb:
+    download size: 97328
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-386-Statens_Vegvesen/v1/tmx/en-nb.tmx.gz
+    source language tokens: 15480
+    target language tokens: 19762
+    translation units: 1645

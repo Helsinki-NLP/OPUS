@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 12225
+    downloads:
+      alignments:
+        size: 100807
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/xml/en-is.xml.gz
+      source language:
+        size: 652424
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/raw/en.zip
+      target language:
+        size: 657727
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/raw/is.zip
+      tokenized source language:
+        size: 1846978
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/xml/en.zip
+      tokenized target language:
+        size: 1690149
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/xml/is.zip
+    files: 1
+    source language tokens: 12633
+    target language tokens: 250083
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 58299
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/freq/en.freq.gz
+      plain text:
+        size: 597899
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/mono/en.txt.gz
+      tokenized text:
+        size: 600264
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1846978
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/xml/en.zip
+      xml:
+        size: 652424
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/raw/en.zip
+    files: 1
+    sentences: 12851
+    tokens: 331435
+  is:
+    downloads:
+      frequency list:
+        size: 97185
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/freq/is.freq.gz
+      plain text:
+        size: 599817
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/mono/is.txt.gz
+      tokenized text:
+        size: 602645
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 1690149
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/xml/is.zip
+      xml:
+        size: 657727
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/raw/is.zip
+    files: 1
+    sentences: 13276
+    tokens: 280908
+moses:
+  en-is:
+    alignments: 12634
+    download size: 1264240
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/moses/en-is.txt.zip
+    source language tokens: 251801
+    target language tokens: 295258
+tmx:
+  en-is:
+    download size: 1369143
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4295-www.malfong.is/v1/tmx/en-is.tmx.gz
+    source language tokens: 250083
+    target language tokens: 293456
+    translation units: 12225

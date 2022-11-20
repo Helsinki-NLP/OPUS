@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nn:
+    alignments: 1375
+    downloads:
+      alignments:
+        size: 11576
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/xml/en-nn.xml.gz
+      source language:
+        size: 46844
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/raw/en.zip
+      target language:
+        size: 45661
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/raw/nn.zip
+      tokenized source language:
+        size: 132797
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/xml/en.zip
+      tokenized target language:
+        size: 118308
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/xml/nn.zip
+    files: 1
+    source language tokens: 1484
+    target language tokens: 17156
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 11047
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/freq/en.freq.gz
+      plain text:
+        size: 39186
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/mono/en.txt.gz
+      tokenized text:
+        size: 39430
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 132797
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/xml/en.zip
+      xml:
+        size: 46844
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/raw/en.zip
+    files: 1
+    sentences: 1545
+    tokens: 24622
+  nn:
+    downloads:
+      frequency list:
+        size: 13962
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/freq/nn.freq.gz
+      plain text:
+        size: 38523
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/mono/nn.txt.gz
+      tokenized text:
+        size: 38706
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/mono/nn.tok.gz
+      tokenized xml:
+        size: 118308
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/xml/nn.zip
+      xml:
+        size: 45661
+        url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/raw/nn.zip
+    files: 1
+    sentences: 1484
+    tokens: 20968
+moses:
+  en-nn:
+    alignments: 1485
+    download size: 86921
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/moses/en-nn.txt.zip
+    source language tokens: 18481
+    target language tokens: 21998
+tmx:
+  en-nn:
+    download size: 87088
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-612-Courts_Norway/v1/tmx/en-nn.tmx.gz
+    source language tokens: 17156
+    target language tokens: 20354
+    translation units: 1375

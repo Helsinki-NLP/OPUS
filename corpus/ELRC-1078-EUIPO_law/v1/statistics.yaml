@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-it:
+    alignments: 26555
+    downloads:
+      alignments:
+        size: 301980
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/xml/en-it.xml.gz
+      smt phrase table:
+        size: 11706723
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/smt/en-it.zip
+      source language:
+        size: 2567116
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/raw/en.zip
+      target language:
+        size: 2706526
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/raw/it.zip
+      tokenized source language:
+        size: 8521132
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/xml/en.zip
+      tokenized target language:
+        size: 8525706
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/xml/it.zip
+      word alignment dictionary:
+        size: 272147
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/dic/en-it.dic.gz
+      word alignments:
+        size: 2974091
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/smt/en-it.alg.zip
+    files: 1
+    source language tokens: 31635
+    target language tokens: 1199684
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 112437
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/freq/en.freq.gz
+      plain text:
+        size: 2378557
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2396646
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 8521132
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/xml/en.zip
+      xml:
+        size: 2567116
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/raw/en.zip
+    files: 1
+    sentences: 42095
+    tokens: 1595125
+  it:
+    downloads:
+      frequency list:
+        size: 139240
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/freq/it.freq.gz
+      plain text:
+        size: 2514967
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/mono/it.txt.gz
+      tokenized text:
+        size: 2533863
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/mono/it.tok.gz
+      tokenized xml:
+        size: 8525706
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/xml/it.zip
+      xml:
+        size: 2706526
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/raw/it.zip
+    files: 1
+    sentences: 42192
+    tokens: 1553764
+moses:
+  en-it:
+    alignments: 31636
+    download size: 5101671
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/moses/en-it.txt.zip
+    source language tokens: 1240626
+    target language tokens: 1334280
+tmx:
+  en-it:
+    download size: 5189207
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1078-EUIPO_law/v1/tmx/en-it.tmx.gz
+    source language tokens: 1199684
+    target language tokens: 1291243
+    translation units: 26555

@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ro:
+    alignments: 4185
+    downloads:
+      alignments:
+        size: 52935
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/xml/en-ro.xml.gz
+      smt phrase table:
+        size: 1099053
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/smt/en-ro.zip
+      source language:
+        size: 184185
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/raw/en.zip
+      target language:
+        size: 200950
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/raw/ro.zip
+      tokenized source language:
+        size: 531359
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/xml/en.zip
+      tokenized target language:
+        size: 543511
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/xml/ro.zip
+      word alignment dictionary:
+        size: 83635
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/dic/en-ro.dic.gz
+      word alignments:
+        size: 289176
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/smt/en-ro.alg.zip
+    files: 1
+    source language tokens: 4186
+    target language tokens: 81775
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 22613
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/freq/en.freq.gz
+      plain text:
+        size: 164409
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/mono/en.txt.gz
+      tokenized text:
+        size: 165039
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 531359
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/xml/en.zip
+      xml:
+        size: 184185
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/raw/en.zip
+    files: 1
+    sentences: 4427
+    tokens: 93327
+  ro:
+    downloads:
+      frequency list:
+        size: 33534
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/freq/ro.freq.gz
+      plain text:
+        size: 180234
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/mono/ro.txt.gz
+      tokenized text:
+        size: 181085
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/mono/ro.tok.gz
+      tokenized xml:
+        size: 543511
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/xml/ro.zip
+      xml:
+        size: 200950
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/raw/ro.zip
+    files: 1
+    sentences: 4488
+    tokens: 90655
+moses:
+  en-ro:
+    alignments: 4186
+    download size: 367722
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/moses/en-ro.txt.zip
+    source language tokens: 81775
+    target language tokens: 84708
+tmx:
+  en-ro:
+    download size: 412269
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1992-Rural_Development_Pr/v1/tmx/en-ro.tmx.gz
+    source language tokens: 81775
+    target language tokens: 84708
+    translation units: 4186

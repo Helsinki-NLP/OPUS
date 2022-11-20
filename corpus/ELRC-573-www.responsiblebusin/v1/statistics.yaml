@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 2980
+    downloads:
+      alignments:
+        size: 23668
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/xml/en-nb.xml.gz
+      source language:
+        size: 135780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/raw/en.zip
+      target language:
+        size: 138284
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/raw/nb.zip
+      tokenized source language:
+        size: 396897
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/xml/en.zip
+      tokenized target language:
+        size: 372553
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/xml/nb.zip
+    files: 1
+    source language tokens: 2981
+    target language tokens: 58614
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 24024
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/freq/en.freq.gz
+      plain text:
+        size: 123050
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/mono/en.txt.gz
+      tokenized text:
+        size: 123406
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 396897
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/xml/en.zip
+      xml:
+        size: 135780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/raw/en.zip
+    files: 1
+    sentences: 3030
+    tokens: 72640
+  nb:
+    downloads:
+      frequency list:
+        size: 34885
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/freq/nb.freq.gz
+      plain text:
+        size: 125223
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 125743
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 372553
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/xml/nb.zip
+      xml:
+        size: 138284
+        url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/raw/nb.zip
+    files: 1
+    sentences: 3034
+    tokens: 65223
+moses:
+  en-nb:
+    alignments: 2981
+    download size: 264350
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/moses/en-nb.txt.zip
+    source language tokens: 58614
+    target language tokens: 65570
+tmx:
+  en-nb:
+    download size: 272756
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-573-www.responsiblebusin/v1/tmx/en-nb.tmx.gz
+    source language tokens: 58614
+    target language tokens: 65570
+    translation units: 2981

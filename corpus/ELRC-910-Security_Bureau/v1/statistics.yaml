@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 1286
+    downloads:
+      alignments:
+        size: 17895
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/xml/en-pl.xml.gz
+      source language:
+        size: 67640
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/raw/en.zip
+      target language:
+        size: 72036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/raw/pl.zip
+      tokenized source language:
+        size: 174363
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/xml/en.zip
+      tokenized target language:
+        size: 163531
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/xml/pl.zip
+    files: 1
+    source language tokens: 1287
+    target language tokens: 21818
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 20017
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/freq/en.freq.gz
+      plain text:
+        size: 60728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/mono/en.txt.gz
+      tokenized text:
+        size: 60916
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 174363
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/xml/en.zip
+      xml:
+        size: 67640
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/raw/en.zip
+    files: 1
+    sentences: 1303
+    tokens: 30105
+  pl:
+    downloads:
+      frequency list:
+        size: 31174
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/freq/pl.freq.gz
+      plain text:
+        size: 64795
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 64977
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 163531
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/xml/pl.zip
+      xml:
+        size: 72036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/raw/pl.zip
+    files: 1
+    sentences: 1316
+    tokens: 24659
+moses:
+  en-pl:
+    alignments: 1287
+    download size: 133534
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/moses/en-pl.txt.zip
+    source language tokens: 21818
+    target language tokens: 27147
+tmx:
+  en-pl:
+    download size: 142692
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-910-Security_Bureau/v1/tmx/en-pl.tmx.gz
+    source language tokens: 21818
+    target language tokens: 27147
+    translation units: 1287

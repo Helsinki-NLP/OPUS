@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-sv:
+    alignments: 1544
+    downloads:
+      alignments:
+        size: 11181
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/xml/en-sv.xml.gz
+      source language:
+        size: 66945
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/raw/en.zip
+      target language:
+        size: 66081
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/raw/sv.zip
+      tokenized source language:
+        size: 180993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/xml/en.zip
+      tokenized target language:
+        size: 163738
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/xml/sv.zip
+    files: 1
+    source language tokens: 1545
+    target language tokens: 24399
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 14732
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/freq/en.freq.gz
+      plain text:
+        size: 59025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/mono/en.txt.gz
+      tokenized text:
+        size: 59271
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 180993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/xml/en.zip
+      xml:
+        size: 66945
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/raw/en.zip
+    files: 1
+    sentences: 1544
+    tokens: 31864
+  sv:
+    downloads:
+      frequency list:
+        size: 20171
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/freq/sv.freq.gz
+      plain text:
+        size: 58139
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 58398
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 163738
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/xml/sv.zip
+      xml:
+        size: 66081
+        url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/raw/sv.zip
+    files: 1
+    sentences: 1544
+    tokens: 26848
+moses:
+  en-sv:
+    alignments: 1545
+    download size: 126439
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/moses/en-sv.txt.zip
+    source language tokens: 24399
+    target language tokens: 28047
+tmx:
+  en-sv:
+    download size: 136206
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-929-www.sida.se/v1/tmx/en-sv.tmx.gz
+    source language tokens: 24399
+    target language tokens: 28047
+    translation units: 1545

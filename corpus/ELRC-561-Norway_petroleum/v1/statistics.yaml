@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 1683
+    downloads:
+      alignments:
+        size: 14828
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/en-nb.xml.gz
+      source language:
+        size: 61916
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/raw/en.zip
+      target language:
+        size: 61230
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/raw/nb.zip
+      tokenized source language:
+        size: 185475
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/en.zip
+      tokenized target language:
+        size: 169282
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/nb.zip
+    files: 1
+    source language tokens: 2016
+    target language tokens: 23548
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 13697
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/freq/en.freq.gz
+      plain text:
+        size: 52903
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/mono/en.txt.gz
+      tokenized text:
+        size: 53118
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 185475
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/en.zip
+      xml:
+        size: 61916
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/raw/en.zip
+    files: 1
+    sentences: 2016
+    tokens: 34336
+  nb:
+    downloads:
+      frequency list:
+        size: 18578
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/freq/nb.freq.gz
+      plain text:
+        size: 52246
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 52508
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 169282
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/nb.zip
+      xml:
+        size: 61230
+        url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/raw/nb.zip
+    files: 1
+    sentences: 2016
+    tokens: 29898
+moses:
+  en-nb:
+    alignments: 2017
+    download size: 116590
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/moses/en-nb.txt.zip
+    source language tokens: 26075
+    target language tokens: 30772
+tmx:
+  en-nb:
+    download size: 115724
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/tmx/en-nb.tmx.gz
+    source language tokens: 23548
+    target language tokens: 27767
+    translation units: 1683

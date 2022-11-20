@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 9384
+    downloads:
+      alignments:
+        size: 125032
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/xml/en-pl.xml.gz
+      source language:
+        size: 340863
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/raw/en.zip
+      target language:
+        size: 366806
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/raw/pl.zip
+      tokenized source language:
+        size: 963113
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/xml/en.zip
+      tokenized target language:
+        size: 891713
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/xml/pl.zip
+    files: 1
+    source language tokens: 9385
+    target language tokens: 125077
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 42327
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/freq/en.freq.gz
+      plain text:
+        size: 304282
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/mono/en.txt.gz
+      tokenized text:
+        size: 305218
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 963113
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/xml/en.zip
+      xml:
+        size: 340863
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/raw/en.zip
+    files: 1
+    sentences: 9420
+    tokens: 174517
+  pl:
+    downloads:
+      frequency list:
+        size: 83152
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/freq/pl.freq.gz
+      plain text:
+        size: 327393
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 328492
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 891713
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/xml/pl.zip
+      xml:
+        size: 366806
+        url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/raw/pl.zip
+    files: 1
+    sentences: 9511
+    tokens: 141644
+moses:
+  en-pl:
+    alignments: 9385
+    download size: 676618
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/moses/en-pl.txt.zip
+    source language tokens: 125077
+    target language tokens: 158514
+tmx:
+  en-pl:
+    download size: 739047
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-864-Chancellery_Prime_Mi/v1/tmx/en-pl.tmx.gz
+    source language tokens: 125077
+    target language tokens: 158514
+    translation units: 9385

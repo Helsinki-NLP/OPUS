@@ -1,0 +1,87 @@
+---
+bitexts:
+  el-en:
+    alignments: 1869
+    downloads:
+      alignments:
+        size: 27320
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/el-en.xml.gz
+      smt phrase table:
+        size: 739738
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/smt/el-en.zip
+      source language:
+        size: 123701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/raw/el.zip
+      target language:
+        size: 87338
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/raw/en.zip
+      tokenized source language:
+        size: 311080
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/el.zip
+      tokenized target language:
+        size: 269278
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/en.zip
+      word alignment dictionary:
+        size: 49675
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/dic/el-en.dic.gz
+      word alignments:
+        size: 138365
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/smt/el-en.alg.zip
+    files: 1
+    source language tokens: 1870
+    target language tokens: 45652
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 31095
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/freq/el.freq.gz
+      plain text:
+        size: 111345
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/mono/el.txt.gz
+      tokenized text:
+        size: 111725
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 311080
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/el.zip
+      xml:
+        size: 123701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/raw/el.zip
+    files: 1
+    sentences: 2485
+    tokens: 50611
+  en:
+    downloads:
+      frequency list:
+        size: 15642
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/freq/en.freq.gz
+      plain text:
+        size: 74790
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/mono/en.txt.gz
+      tokenized text:
+        size: 75018
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 269278
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/en.zip
+      xml:
+        size: 87338
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/raw/en.zip
+    files: 1
+    sentences: 2545
+    tokens: 50345
+moses:
+  el-en:
+    alignments: 1870
+    download size: 200052
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/moses/el-en.txt.zip
+    source language tokens: 45652
+    target language tokens: 45963
+tmx:
+  el-en:
+    download size: 221307
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/tmx/el-en.tmx.gz
+    source language tokens: 45652
+    target language tokens: 45963
+    translation units: 1870

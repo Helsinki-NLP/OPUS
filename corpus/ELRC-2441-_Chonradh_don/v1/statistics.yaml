@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 1998
+    downloads:
+      alignments:
+        size: 18211
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 556114
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/smt/en-ga.zip
+      source language:
+        size: 61072
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/raw/en.zip
+      target language:
+        size: 67632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/raw/ga.zip
+      tokenized source language:
+        size: 193202
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/en.zip
+      tokenized target language:
+        size: 217557
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 32727
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 115668
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 2282
+    target language tokens: 25877
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 16093
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/freq/en.freq.gz
+      plain text:
+        size: 50755
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/mono/en.txt.gz
+      tokenized text:
+        size: 51164
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 193202
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/en.zip
+      xml:
+        size: 61072
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/raw/en.zip
+    files: 1
+    sentences: 2363
+    tokens: 36465
+  ga:
+    downloads:
+      frequency list:
+        size: 19617
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/freq/ga.freq.gz
+      plain text:
+        size: 57064
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 57483
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 217557
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/ga.zip
+      xml:
+        size: 67632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/raw/ga.zip
+    files: 1
+    sentences: 2384
+    tokens: 40607
+moses:
+  en-ga:
+    alignments: 2283
+    download size: 121023
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/moses/en-ga.txt.zip
+    source language tokens: 27683
+    target language tokens: 31619
+tmx:
+  en-ga:
+    download size: 120931
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/tmx/en-ga.tmx.gz
+    source language tokens: 25877
+    target language tokens: 29494
+    translation units: 1998

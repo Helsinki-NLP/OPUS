@@ -1,0 +1,78 @@
+---
+bitexts:
+  ca-es:
+    alignments: 8472148
+    downloads:
+      alignments:
+        size: 65990506
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/xml/ca-es.xml.gz
+      source language:
+        size: 489857623
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/raw/ca.zip
+      target language:
+        size: 490055170
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/raw/es.zip
+      tokenized source language:
+        size: 1383438640
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/xml/ca.zip
+      tokenized target language:
+        size: 1348306077
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/xml/es.zip
+    files: 1
+    source language tokens: 8472786
+    target language tokens: 188915356
+monolingual:
+  ca:
+    downloads:
+      frequency list:
+        size: 5229603
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/freq/ca.freq.gz
+      plain text:
+        size: 448021630
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/mono/ca.txt.gz
+      tokenized text:
+        size: 452700589
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/mono/ca.tok.gz
+      tokenized xml:
+        size: 1383438640
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/xml/ca.zip
+      xml:
+        size: 489857623
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/raw/ca.zip
+    files: 1
+    sentences: 8810059
+    tokens: 233264509
+  es:
+    downloads:
+      frequency list:
+        size: 5169528
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/freq/es.freq.gz
+      plain text:
+        size: 449179088
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/mono/es.txt.gz
+      tokenized text:
+        size: 452291709
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/mono/es.tok.gz
+      tokenized xml:
+        size: 1348306077
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/xml/es.zip
+      xml:
+        size: 490055170
+        url: https://object.pouta.csc.fi/OPUS-DOGC/v3/raw/es.zip
+    files: 1
+    sentences: 8767524
+    tokens: 228694894
+moses:
+  ca-es:
+    alignments: 8472787
+    download size: 938949538
+    download url: https://object.pouta.csc.fi/OPUS-DOGC/v3/moses/ca-es.txt.zip
+    source language tokens: 188929205
+    target language tokens: 197986299
+tmx:
+  ca-es:
+    download size: 899121023
+    download url: https://object.pouta.csc.fi/OPUS-DOGC/v3/tmx/ca-es.tmx.gz
+    source language tokens: 188915356
+    target language tokens: 197971667
+    translation units: 8472148

@@ -1,0 +1,131 @@
+---
+bitexts:
+  el-en:
+    alignments: 164
+    downloads:
+      alignments:
+        size: 2753
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/el-en.xml.gz
+      source language:
+        size: 13295
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/raw/el.zip
+      target language:
+        size: 19771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/raw/en.zip
+      tokenized source language:
+        size: 30621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/el.zip
+      tokenized target language:
+        size: 54801
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/en.zip
+    files: 1
+    source language tokens: 164
+    target language tokens: 4223
+  en-fr:
+    alignments: 189
+    downloads:
+      alignments:
+        size: 3025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/en-fr.xml.gz
+      source language:
+        size: 19771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/raw/en.zip
+      target language:
+        size: 12223
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/raw/fr.zip
+      tokenized source language:
+        size: 54801
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/en.zip
+      tokenized target language:
+        size: 33201
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/fr.zip
+    files: 1
+    source language tokens: 190
+    target language tokens: 4921
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 5981
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/freq/el.freq.gz
+      plain text:
+        size: 10467
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/mono/el.txt.gz
+      tokenized text:
+        size: 10495
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 30621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/el.zip
+      xml:
+        size: 13295
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/raw/el.zip
+    files: 1
+    sentences: 210
+    tokens: 4815
+  en:
+    downloads:
+      frequency list:
+        size: 4070
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/freq/en.freq.gz
+      plain text:
+        size: 8789
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/mono/en.txt.gz
+      tokenized text:
+        size: 8829
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 54801
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/en.zip
+      xml:
+        size: 19771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/raw/en.zip
+    files: 2
+    sentences: 499
+    tokens: 10052
+  fr:
+    downloads:
+      frequency list:
+        size: 4497
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/freq/fr.freq.gz
+      plain text:
+        size: 9176
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 9192
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 33201
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/xml/fr.zip
+      xml:
+        size: 12223
+        url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/raw/fr.zip
+    files: 1
+    sentences: 265
+    tokens: 5888
+moses:
+  el-en:
+    alignments: 165
+    download size: 20572
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/moses/el-en.txt.zip
+    source language tokens: 4236
+    target language tokens: 4325
+  en-fr:
+    alignments: 191
+    download size: 20370
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/moses/en-fr.txt.zip
+    source language tokens: 4960
+    target language tokens: 5131
+tmx:
+  el-en:
+    download size: 20044
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/tmx/el-en.tmx.gz
+    source language tokens: 4223
+    target language tokens: 4313
+    translation units: 164
+  en-fr:
+    download size: 18616
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-745-Convention_against_T/v1/tmx/en-fr.tmx.gz
+    source language tokens: 4921
+    target language tokens: 5091
+    translation units: 189

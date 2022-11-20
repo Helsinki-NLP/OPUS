@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 2960
+    downloads:
+      alignments:
+        size: 25100
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/xml/en-pl.xml.gz
+      source language:
+        size: 136715
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/raw/en.zip
+      target language:
+        size: 148937
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/raw/pl.zip
+      tokenized source language:
+        size: 363434
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/xml/en.zip
+      tokenized target language:
+        size: 346989
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/xml/pl.zip
+    files: 1
+    source language tokens: 3000
+    target language tokens: 46450
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 30129
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/freq/en.freq.gz
+      plain text:
+        size: 122979
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/mono/en.txt.gz
+      tokenized text:
+        size: 123633
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 363434
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/xml/en.zip
+      xml:
+        size: 136715
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/raw/en.zip
+    files: 1
+    sentences: 3100
+    tokens: 65520
+  pl:
+    downloads:
+      frequency list:
+        size: 53419
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/freq/pl.freq.gz
+      plain text:
+        size: 134389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 134867
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 346989
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/xml/pl.zip
+      xml:
+        size: 148937
+        url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/raw/pl.zip
+    files: 1
+    sentences: 3139
+    tokens: 55161
+moses:
+  en-pl:
+    alignments: 3001
+    download size: 274149
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/moses/en-pl.txt.zip
+    source language tokens: 46934
+    target language tokens: 57302
+tmx:
+  en-pl:
+    download size: 290634
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-475-Polish_Food/v1/tmx/en-pl.tmx.gz
+    source language tokens: 46450
+    target language tokens: 56727
+    translation units: 2960

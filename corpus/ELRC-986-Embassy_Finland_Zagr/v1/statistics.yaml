@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-hr:
+    alignments: 1966
+    downloads:
+      alignments:
+        size: 26184
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/xml/en-hr.xml.gz
+      source language:
+        size: 88043
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/raw/en.zip
+      target language:
+        size: 91992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/raw/hr.zip
+      tokenized source language:
+        size: 222129
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/xml/en.zip
+      tokenized target language:
+        size: 218157
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/xml/hr.zip
+    files: 1
+    source language tokens: 1967
+    target language tokens: 30739
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 25790
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/freq/en.freq.gz
+      plain text:
+        size: 78433
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/mono/en.txt.gz
+      tokenized text:
+        size: 78763
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 222129
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/xml/en.zip
+      xml:
+        size: 88043
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/raw/en.zip
+    files: 1
+    sentences: 1981
+    tokens: 38311
+  hr:
+    downloads:
+      frequency list:
+        size: 36528
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/freq/hr.freq.gz
+      plain text:
+        size: 82271
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 82549
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 218157
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/xml/hr.zip
+      xml:
+        size: 91992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/raw/hr.zip
+    files: 1
+    sentences: 1989
+    tokens: 35369
+moses:
+  en-hr:
+    alignments: 1967
+    download size: 171825
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/moses/en-hr.txt.zip
+    source language tokens: 30739
+    target language tokens: 33644
+tmx:
+  en-hr:
+    download size: 179063
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-986-Embassy_Finland_Zagr/v1/tmx/en-hr.tmx.gz
+    source language tokens: 30739
+    target language tokens: 33644
+    translation units: 1967

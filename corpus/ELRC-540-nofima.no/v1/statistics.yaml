@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 8755
+    downloads:
+      alignments:
+        size: 77394
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 381290
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/raw/en.zip
+      target language:
+        size: 368878
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 1031507
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/xml/en.zip
+      tokenized target language:
+        size: 925608
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 10291
+    target language tokens: 132069
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 45073
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/freq/en.freq.gz
+      plain text:
+        size: 339904
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 341412
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1031507
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/xml/en.zip
+      xml:
+        size: 381290
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/raw/en.zip
+    files: 1
+    sentences: 10294
+    tokens: 183083
+  nb:
+    downloads:
+      frequency list:
+        size: 71649
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 327116
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 329213
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 925608
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/xml/nb.zip
+      xml:
+        size: 368878
+        url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/raw/nb.zip
+    files: 1
+    sentences: 10303
+    tokens: 157775
+moses:
+  en-nb:
+    alignments: 10292
+    download size: 713395
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/moses/en-nb.txt.zip
+    source language tokens: 138632
+    target language tokens: 162396
+tmx:
+  en-nb:
+    download size: 727967
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-540-nofima.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 132069
+    target language tokens: 154398
+    translation units: 8755

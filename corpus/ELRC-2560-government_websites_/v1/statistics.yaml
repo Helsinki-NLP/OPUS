@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-pt:
+    alignments: 843
+    downloads:
+      alignments:
+        size: 5583
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/xml/en-pt.xml.gz
+      smt phrase table:
+        size: 231560
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/smt/en-pt.zip
+      source language:
+        size: 27476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/raw/en.zip
+      target language:
+        size: 29858
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/raw/pt.zip
+      tokenized source language:
+        size: 78417
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/xml/en.zip
+      tokenized target language:
+        size: 82020
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/xml/pt.zip
+      word alignment dictionary:
+        size: 16091
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/dic/en-pt.dic.gz
+      word alignments:
+        size: 46002
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/smt/en-pt.alg.zip
+    files: 1
+    source language tokens: 844
+    target language tokens: 13270
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 6958
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/freq/en.freq.gz
+      plain text:
+        size: 22410
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 22511
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 78417
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/xml/en.zip
+      xml:
+        size: 27476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/raw/en.zip
+    files: 1
+    sentences: 843
+    tokens: 14695
+  pt:
+    downloads:
+      frequency list:
+        size: 9052
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/freq/pt.freq.gz
+      plain text:
+        size: 24758
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/mono/pt.txt.gz
+      tokenized text:
+        size: 24805
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/mono/pt.tok.gz
+      tokenized xml:
+        size: 82020
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/xml/pt.zip
+      xml:
+        size: 29858
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/raw/pt.zip
+    files: 1
+    sentences: 846
+    tokens: 15012
+moses:
+  en-pt:
+    alignments: 844
+    download size: 52659
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/moses/en-pt.txt.zip
+    source language tokens: 13270
+    target language tokens: 13470
+tmx:
+  en-pt:
+    download size: 55617
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2560-government_websites_/v1/tmx/en-pt.tmx.gz
+    source language tokens: 13270
+    target language tokens: 13470
+    translation units: 844

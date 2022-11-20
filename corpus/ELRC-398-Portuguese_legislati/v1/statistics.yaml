@@ -1,0 +1,78 @@
+---
+bitexts:
+  fr-pt:
+    alignments: 2769
+    downloads:
+      alignments:
+        size: 22250
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/xml/fr-pt.xml.gz
+      source language:
+        size: 95148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/raw/fr.zip
+      target language:
+        size: 93618
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/raw/pt.zip
+      tokenized source language:
+        size: 314966
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/xml/fr.zip
+      tokenized target language:
+        size: 290227
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/xml/pt.zip
+    files: 1
+    source language tokens: 2995
+    target language tokens: 47824
+monolingual:
+  fr:
+    downloads:
+      frequency list:
+        size: 16842
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/freq/fr.freq.gz
+      plain text:
+        size: 82431
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 82915
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 314966
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/xml/fr.zip
+      xml:
+        size: 95148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/raw/fr.zip
+    files: 1
+    sentences: 2995
+    tokens: 60721
+  pt:
+    downloads:
+      frequency list:
+        size: 18098
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/freq/pt.freq.gz
+      plain text:
+        size: 80673
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/mono/pt.txt.gz
+      tokenized text:
+        size: 80824
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/mono/pt.tok.gz
+      tokenized xml:
+        size: 290227
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/xml/pt.zip
+      xml:
+        size: 93618
+        url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/raw/pt.zip
+    files: 1
+    sentences: 2995
+    tokens: 54791
+moses:
+  fr-pt:
+    alignments: 2996
+    download size: 179358
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/moses/fr-pt.txt.zip
+    source language tokens: 48328
+    target language tokens: 50095
+tmx:
+  fr-pt:
+    download size: 189058
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-398-Portuguese_legislati/v1/tmx/fr-pt.tmx.gz
+    source language tokens: 47824
+    target language tokens: 49589
+    translation units: 2769

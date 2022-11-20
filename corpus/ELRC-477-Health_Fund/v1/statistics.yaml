@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 5787
+    downloads:
+      alignments:
+        size: 47890
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/en-pl.xml.gz
+      source language:
+        size: 289147
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/raw/en.zip
+      target language:
+        size: 365161
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/raw/pl.zip
+      tokenized source language:
+        size: 872595
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/en.zip
+      tokenized target language:
+        size: 964152
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/pl.zip
+    files: 1
+    source language tokens: 5802
+    target language tokens: 138619
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 33226
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/freq/en.freq.gz
+      plain text:
+        size: 265993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/mono/en.txt.gz
+      tokenized text:
+        size: 267329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 872595
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/en.zip
+      xml:
+        size: 289147
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/raw/en.zip
+    files: 1
+    sentences: 5852
+    tokens: 162862
+  pl:
+    downloads:
+      frequency list:
+        size: 65413
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/freq/pl.freq.gz
+      plain text:
+        size: 340250
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 341366
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 964152
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/pl.zip
+      xml:
+        size: 365161
+        url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/raw/pl.zip
+    files: 1
+    sentences: 5880
+    tokens: 159936
+moses:
+  en-pl:
+    alignments: 5803
+    download size: 633702
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/moses/en-pl.txt.zip
+    source language tokens: 138635
+    target language tokens: 140912
+tmx:
+  en-pl:
+    download size: 695729
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/tmx/en-pl.tmx.gz
+    source language tokens: 138619
+    target language tokens: 140896
+    translation units: 5787

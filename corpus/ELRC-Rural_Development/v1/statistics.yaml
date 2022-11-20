@@ -1,0 +1,164 @@
+---
+bitexts:
+  en-hr:
+    alignments: 5201
+    downloads:
+      alignments:
+        size: 61582
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/en-hr.xml.gz
+      source language:
+        size: 381061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/en.zip
+      target language:
+        size: 220326
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/hr.zip
+      tokenized source language:
+        size: 1140303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/en.zip
+      tokenized target language:
+        size: 616581
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/hr.zip
+    files: 1
+    source language tokens: 5202
+    target language tokens: 93563
+  en-ro:
+    alignments: 4185
+    downloads:
+      alignments:
+        size: 52761
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/en-ro.xml.gz
+      source language:
+        size: 381061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/en.zip
+      target language:
+        size: 198216
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/ro.zip
+      tokenized source language:
+        size: 1140303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/en.zip
+      tokenized target language:
+        size: 536037
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/ro.zip
+    files: 1
+    source language tokens: 4186
+    target language tokens: 81775
+  hr-ro:
+    alignments: 110
+    downloads:
+      alignments:
+        size: 2638
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/hr-ro.xml.gz
+      source language:
+        size: 220326
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/hr.zip
+      target language:
+        size: 198216
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/ro.zip
+      tokenized source language:
+        size: 616581
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/hr.zip
+      tokenized target language:
+        size: 536037
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/ro.zip
+    files: 1
+    source language tokens: 111
+    target language tokens: 1325
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 36763
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/freq/en.freq.gz
+      plain text:
+        size: 345374
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/mono/en.txt.gz
+      tokenized text:
+        size: 346680
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1140303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/en.zip
+      xml:
+        size: 381061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/en.zip
+    files: 1
+    sentences: 9133
+    tokens: 207270
+  hr:
+    downloads:
+      frequency list:
+        size: 49650
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/freq/hr.freq.gz
+      plain text:
+        size: 199767
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 200348
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 616581
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/hr.zip
+      xml:
+        size: 220326
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/hr.zip
+    files: 1
+    sentences: 5029
+    tokens: 106904
+  ro:
+    downloads:
+      frequency list:
+        size: 33520
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/freq/ro.freq.gz
+      plain text:
+        size: 179213
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/mono/ro.txt.gz
+      tokenized text:
+        size: 179991
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/mono/ro.tok.gz
+      tokenized xml:
+        size: 536037
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/ro.zip
+      xml:
+        size: 198216
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/raw/ro.zip
+    files: 1
+    sentences: 4318
+    tokens: 89719
+moses:
+  en-hr:
+    alignments: 5202
+    download size: 416101
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/moses/en-hr.txt.zip
+    source language tokens: 93563
+    target language tokens: 105562
+  en-ro:
+    alignments: 4186
+    download size: 368016
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/moses/en-ro.txt.zip
+    source language tokens: 81775
+    target language tokens: 84708
+  hr-ro:
+    alignments: 111
+    download size: 10082
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/moses/hr-ro.txt.zip
+    source language tokens: 1325
+    target language tokens: 1540
+tmx:
+  en-hr:
+    download size: 452559
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/tmx/en-hr.tmx.gz
+    source language tokens: 93563
+    target language tokens: 105562
+    translation units: 5202
+  en-ro:
+    download size: 412268
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/tmx/en-ro.tmx.gz
+    source language tokens: 81775
+    target language tokens: 84708
+    translation units: 4186
+  hr-ro:
+    download size: 8161
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/tmx/hr-ro.tmx.gz
+    source language tokens: 1325
+    target language tokens: 1540
+    translation units: 111

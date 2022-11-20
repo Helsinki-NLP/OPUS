@@ -1,0 +1,87 @@
+---
+bitexts:
+  bg-en:
+    alignments: 2096
+    downloads:
+      alignments:
+        size: 26574
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/bg-en.xml.gz
+      smt phrase table:
+        size: 675891
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/smt/bg-en.zip
+      source language:
+        size: 128989
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/raw/bg.zip
+      target language:
+        size: 100947
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/raw/en.zip
+      tokenized source language:
+        size: 324906
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/bg.zip
+      tokenized target language:
+        size: 292504
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/en.zip
+      word alignment dictionary:
+        size: 49627
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/dic/bg-en.dic.gz
+      word alignments:
+        size: 144849
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/smt/bg-en.alg.zip
+    files: 1
+    source language tokens: 2097
+    target language tokens: 47389
+monolingual:
+  bg:
+    downloads:
+      frequency list:
+        size: 31476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/freq/bg.freq.gz
+      plain text:
+        size: 119316
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/mono/bg.txt.gz
+      tokenized text:
+        size: 119837
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/mono/bg.tok.gz
+      tokenized xml:
+        size: 324906
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/bg.zip
+      xml:
+        size: 128989
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/raw/bg.zip
+    files: 1
+    sentences: 2174
+    tokens: 53933
+  en:
+    downloads:
+      frequency list:
+        size: 19001
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/freq/en.freq.gz
+      plain text:
+        size: 91514
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/mono/en.txt.gz
+      tokenized text:
+        size: 91774
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 292504
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/en.zip
+      xml:
+        size: 100947
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/raw/en.zip
+    files: 1
+    sentences: 2159
+    tokens: 53913
+moses:
+  bg-en:
+    alignments: 2097
+    download size: 223158
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/moses/bg-en.txt.zip
+    source language tokens: 47389
+    target language tokens: 49041
+tmx:
+  bg-en:
+    download size: 248111
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/tmx/bg-en.tmx.gz
+    source language tokens: 47389
+    target language tokens: 49041
+    translation units: 2097

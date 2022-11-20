@@ -1,0 +1,84 @@
+---
+bitexts:
+  en-sv:
+    alignments: 32032
+    downloads:
+      alignments:
+        size: 459495
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/xml/en-sv.xml.gz
+      smt phrase table:
+        size: 9118419
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/smt/en-sv.zip
+      source language:
+        size: 1571036
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/raw/en.zip
+      target language:
+        size: 1787851
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/raw/sv.zip
+      tokenized source language:
+        size: 10288128
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/xml/en.zip
+      tokenized target language:
+        size: 4987113
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/xml/sv.zip
+      word alignments:
+        size: 3630000
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/smt/en-sv.alg.zip
+    files: 66
+    source language tokens: 34989
+    target language tokens: 630619
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 55775
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/freq/en.freq.gz
+      plain text:
+        size: 1235234
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1241480
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 10288128
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/xml/en.zip
+      xml:
+        size: 1571036
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/raw/en.zip
+    files: 66
+    sentences: 35353
+    tokens: 916998
+  sv:
+    downloads:
+      frequency list:
+        size: 106240
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/freq/sv.freq.gz
+      plain text:
+        size: 1402211
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 1411234
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 4987113
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/xml/sv.zip
+      xml:
+        size: 1787851
+        url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/raw/sv.zip
+    files: 66
+    sentences: 43005
+    tokens: 880073
+moses:
+  en-sv:
+    alignments: 33283
+    download size: 2375052
+    download url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/moses/en-sv.txt.zip
+    source language tokens: 634908
+    target language tokens: 756908
+tmx:
+  en-sv:
+    download size: 2736308
+    download url: https://object.pouta.csc.fi/OPUS-WikiSource/v1/tmx/en-sv.tmx.gz
+    source language tokens: 630619
+    target language tokens: 752094
+    translation units: 32032

@@ -1,0 +1,90 @@
+---
+bitexts:
+  en-fa:
+    alignments: 1018735
+    downloads:
+      alignments:
+        size: 7790742
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/xml/en-fa.xml.gz
+      smt phrase table:
+        size: 962281594
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/smt/en-fa.zip
+      source language:
+        size: 28694257
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/raw/en.zip
+      target language:
+        size: 34203154
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/raw/fa.zip
+      tokenized source language:
+        size: 75736210
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/xml/en.zip
+      tokenized target language:
+        size: 80828662
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/xml/fa.zip
+      word alignments:
+        size: 256042494
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/smt/en-fa.alg.zip
+    files: 1
+    source language tokens: 1021596
+    target language tokens: 11855150
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 450741
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/freq/en.freq.gz
+      parsed:
+        size: 231135071
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/parsed/en.zip
+      plain text:
+        size: 23927187
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/mono/en.txt.gz
+      tokenized text:
+        size: 24062881
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 75736210
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/xml/en.zip
+      xml:
+        size: 28694257
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/raw/en.zip
+    files: 1
+    sentences: 1052475
+    tokens: 13632530
+  fa:
+    downloads:
+      frequency list:
+        size: 1017068
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/freq/fa.freq.gz
+      parsed:
+        size: 248501325
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/parsed/fa.zip
+      plain text:
+        size: 30183636
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/mono/fa.txt.gz
+      tokenized text:
+        size: 30217778
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/mono/fa.tok.gz
+      tokenized xml:
+        size: 80828662
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/xml/fa.zip
+      xml:
+        size: 34203154
+        url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/raw/fa.zip
+    files: 1
+    sentences: 1021618
+    tokens: 13785611
+moses:
+  en-fa:
+    alignments: 1021597
+    download size: 59234779
+    download url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/moses/en-fa.txt.zip
+    source language tokens: 11862138
+    target language tokens: 12538787
+tmx:
+  en-fa:
+    download size: 66238873
+    download url: https://object.pouta.csc.fi/OPUS-MIZAN/v1/tmx/en-fa.tmx.gz
+    source language tokens: 11855150
+    target language tokens: 12531846
+    translation units: 1018735

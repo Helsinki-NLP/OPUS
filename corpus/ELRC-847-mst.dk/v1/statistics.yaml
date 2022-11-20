@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 36749
+    downloads:
+      alignments:
+        size: 286816
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/da-en.xml.gz
+      source language:
+        size: 1377170
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/raw/da.zip
+      target language:
+        size: 1348217
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/raw/en.zip
+      tokenized source language:
+        size: 3834473
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/da.zip
+      tokenized target language:
+        size: 3975947
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/en.zip
+    files: 1
+    source language tokens: 36750
+    target language tokens: 563148
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 184475
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/freq/da.freq.gz
+      plain text:
+        size: 1240447
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/mono/da.txt.gz
+      tokenized text:
+        size: 1249783
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 3834473
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/da.zip
+      xml:
+        size: 1377170
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/raw/da.zip
+    files: 1
+    sentences: 37103
+    tokens: 681587
+  en:
+    downloads:
+      frequency list:
+        size: 110185
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/freq/en.freq.gz
+      plain text:
+        size: 1204450
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1210179
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 3975947
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/en.zip
+      xml:
+        size: 1348217
+        url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/raw/en.zip
+    files: 1
+    sentences: 38403
+    tokens: 730984
+moses:
+  da-en:
+    alignments: 36750
+    download size: 2631837
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/moses/da-en.txt.zip
+    source language tokens: 563148
+    target language tokens: 639332
+tmx:
+  da-en:
+    download size: 2728606
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/tmx/da-en.tmx.gz
+    source language tokens: 563148
+    target language tokens: 639332
+    translation units: 36750

@@ -1,0 +1,131 @@
+---
+bitexts:
+  de-en_gb:
+    alignments: 57800
+    downloads:
+      alignments:
+        size: 491022
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/de-en_gb.xml.gz
+      source language:
+        size: 3201868
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/raw/de.zip
+      target language:
+        size: 2447743
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/raw/en_gb.zip
+      tokenized source language:
+        size: 7822694
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/de.zip
+      tokenized target language:
+        size: 6757233
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/en_gb.zip
+    files: 1
+    source language tokens: 57821
+    target language tokens: 908381
+  de-fr:
+    alignments: 24930
+    downloads:
+      alignments:
+        size: 191957
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/de-fr.xml.gz
+      source language:
+        size: 3201868
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/raw/de.zip
+      target language:
+        size: 1130754
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/raw/fr.zip
+      tokenized source language:
+        size: 7822694
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/de.zip
+      tokenized target language:
+        size: 3256908
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/fr.zip
+    files: 1
+    source language tokens: 24931
+    target language tokens: 380883
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 304629
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/freq/de.freq.gz
+      plain text:
+        size: 2910109
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/mono/de.txt.gz
+      tokenized text:
+        size: 2923799
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 7822694
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/de.zip
+      xml:
+        size: 3201868
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/raw/de.zip
+    files: 1
+    sentences: 72183
+    tokens: 1263399
+  en_gb:
+    downloads:
+      frequency list:
+        size: 111799
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/freq/en_gb.freq.gz
+      plain text:
+        size: 2212052
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/mono/en_gb.txt.gz
+      tokenized text:
+        size: 2205331
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/mono/en_gb.tok.gz
+      tokenized xml:
+        size: 6757233
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/en_gb.zip
+      xml:
+        size: 2447743
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/raw/en_gb.zip
+    files: 1
+    sentences: 59493
+    tokens: 1183784
+  fr:
+    downloads:
+      frequency list:
+        size: 95727
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/freq/fr.freq.gz
+      plain text:
+        size: 1031821
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 1032561
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 3256908
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/xml/fr.zip
+      xml:
+        size: 1130754
+        url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/raw/fr.zip
+    files: 1
+    sentences: 25215
+    tokens: 581078
+moses:
+  de-en_gb:
+    alignments: 57822
+    download size: 4462041
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/moses/de-en_gb.txt.zip
+    source language tokens: 908692
+    target language tokens: 925251
+  de-fr:
+    alignments: 24932
+    download size: 2143312
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/moses/de-fr.txt.zip
+    source language tokens: 380931
+    target language tokens: 486299
+tmx:
+  de-en_gb:
+    download size: 4913100
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/tmx/de-en_gb.tmx.gz
+    source language tokens: 908381
+    target language tokens: 924840
+    translation units: 57800
+  de-fr:
+    download size: 2328623
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-German_Foreign/v1/tmx/de-fr.tmx.gz
+    source language tokens: 380883
+    target language tokens: 486226
+    translation units: 24930

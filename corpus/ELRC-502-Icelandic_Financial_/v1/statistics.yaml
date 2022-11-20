@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 1524
+    downloads:
+      alignments:
+        size: 11923
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/en-is.xml.gz
+      source language:
+        size: 60866
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/raw/en.zip
+      target language:
+        size: 62877
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/raw/is.zip
+      tokenized source language:
+        size: 172937
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/en.zip
+      tokenized target language:
+        size: 156782
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/is.zip
+    files: 1
+    source language tokens: 1525
+    target language tokens: 23699
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 13978
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/freq/en.freq.gz
+      plain text:
+        size: 53125
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 53397
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 172937
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/en.zip
+      xml:
+        size: 60866
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/raw/en.zip
+    files: 1
+    sentences: 1561
+    tokens: 31437
+  is:
+    downloads:
+      frequency list:
+        size: 21621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/freq/is.freq.gz
+      plain text:
+        size: 55115
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/mono/is.txt.gz
+      tokenized text:
+        size: 55418
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 156782
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/is.zip
+      xml:
+        size: 62877
+        url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/raw/is.zip
+    files: 1
+    sentences: 1545
+    tokens: 26277
+moses:
+  en-is:
+    alignments: 1525
+    download size: 117578
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/moses/en-is.txt.zip
+    source language tokens: 23699
+    target language tokens: 28234
+tmx:
+  en-is:
+    download size: 126046
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/tmx/en-is.tmx.gz
+    source language tokens: 23699
+    target language tokens: 28234
+    translation units: 1525

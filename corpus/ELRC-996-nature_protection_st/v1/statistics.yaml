@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-hr:
+    alignments: 969
+    downloads:
+      alignments:
+        size: 12147
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/xml/en-hr.xml.gz
+      source language:
+        size: 48536
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/raw/en.zip
+      target language:
+        size: 50036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/raw/hr.zip
+      tokenized source language:
+        size: 1780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/xml/en.zip
+      tokenized target language:
+        size: 1780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/xml/hr.zip
+    files: 1
+    source language tokens: 970
+    target language tokens: 19218
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/freq/en.freq.gz
+      plain text:
+        size: 42962
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/mono/en.txt.gz
+      tokenized text:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/xml/en.zip
+      xml:
+        size: 48536
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/raw/en.zip
+    files: 0
+    sentences: 0
+    tokens: 0
+  hr:
+    downloads:
+      frequency list:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/freq/hr.freq.gz
+      plain text:
+        size: 44427
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 1780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/xml/hr.zip
+      xml:
+        size: 50036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/raw/hr.zip
+    files: 0
+    sentences: 0
+    tokens: 0
+moses:
+  en-hr:
+    alignments: 970
+    download size: 93904
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/moses/en-hr.txt.zip
+    source language tokens: 19218
+    target language tokens: 23449
+tmx:
+  en-hr:
+    download size: 100685
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-996-nature_protection_st/v1/tmx/en-hr.tmx.gz
+    source language tokens: 19218
+    target language tokens: 23449
+    translation units: 970

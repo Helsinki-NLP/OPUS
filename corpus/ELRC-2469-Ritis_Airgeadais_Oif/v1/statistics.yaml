@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 487
+    downloads:
+      alignments:
+        size: 4137
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 145896
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/smt/en-ga.zip
+      source language:
+        size: 14678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/raw/en.zip
+      target language:
+        size: 15760
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/raw/ga.zip
+      tokenized source language:
+        size: 42653
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/en.zip
+      tokenized target language:
+        size: 44272
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 10409
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 26141
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 488
+    target language tokens: 6337
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 4691
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/freq/en.freq.gz
+      plain text:
+        size: 9961
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/mono/en.txt.gz
+      tokenized text:
+        size: 10028
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 42653
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/en.zip
+      xml:
+        size: 14678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/raw/en.zip
+    files: 1
+    sentences: 588
+    tokens: 7175
+  ga:
+    downloads:
+      frequency list:
+        size: 5535
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/freq/ga.freq.gz
+      plain text:
+        size: 10791
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 11002
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 44272
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/ga.zip
+      xml:
+        size: 15760
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/raw/ga.zip
+    files: 1
+    sentences: 591
+    tokens: 7387
+moses:
+  en-ga:
+    alignments: 488
+    download size: 25145
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/moses/en-ga.txt.zip
+    source language tokens: 6337
+    target language tokens: 6579
+tmx:
+  en-ga:
+    download size: 28750
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/tmx/en-ga.tmx.gz
+    source language tokens: 6337
+    target language tokens: 6579
+    translation units: 488

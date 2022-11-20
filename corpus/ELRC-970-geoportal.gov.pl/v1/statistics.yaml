@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 640
+    downloads:
+      alignments:
+        size: 8613
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/en-pl.xml.gz
+      source language:
+        size: 26266
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/raw/en.zip
+      target language:
+        size: 28389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/raw/pl.zip
+      tokenized source language:
+        size: 73724
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/en.zip
+      tokenized target language:
+        size: 68109
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/pl.zip
+    files: 1
+    source language tokens: 641
+    target language tokens: 9689
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 7543
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/freq/en.freq.gz
+      plain text:
+        size: 22042
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/mono/en.txt.gz
+      tokenized text:
+        size: 22152
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 73724
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/en.zip
+      xml:
+        size: 26266
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/raw/en.zip
+    files: 1
+    sentences: 647
+    tokens: 13398
+  pl:
+    downloads:
+      frequency list:
+        size: 11928
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/freq/pl.freq.gz
+      plain text:
+        size: 24135
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 24184
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 68109
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/pl.zip
+      xml:
+        size: 28389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/raw/pl.zip
+    files: 1
+    sentences: 642
+    tokens: 10918
+moses:
+  en-pl:
+    alignments: 641
+    download size: 50958
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/moses/en-pl.txt.zip
+    source language tokens: 9689
+    target language tokens: 12047
+tmx:
+  en-pl:
+    download size: 52054
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/tmx/en-pl.tmx.gz
+    source language tokens: 9689
+    target language tokens: 12047
+    translation units: 641

@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 6
+    downloads:
+      alignments:
+        size: 248
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 4006
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/smt/en-ga.zip
+      source language:
+        size: 2097
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/raw/en.zip
+      target language:
+        size: 2084
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/raw/ga.zip
+      tokenized source language:
+        size: 2636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/en.zip
+      tokenized target language:
+        size: 2271
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 3046
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 7
+    target language tokens: 46
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 240
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/freq/en.freq.gz
+      plain text:
+        size: 255
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/mono/en.txt.gz
+      tokenized text:
+        size: 259
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 2636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/en.zip
+      xml:
+        size: 2097
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/raw/en.zip
+    files: 1
+    sentences: 6
+    tokens: 145
+  ga:
+    downloads:
+      frequency list:
+        size: 245
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/freq/ga.freq.gz
+      plain text:
+        size: 239
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 237
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 2271
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/ga.zip
+      xml:
+        size: 2084
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/raw/ga.zip
+    files: 1
+    sentences: 6
+    tokens: 51
+moses:
+  en-ga:
+    alignments: 7
+    download size: 2129
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/moses/en-ga.txt.zip
+    source language tokens: 46
+    target language tokens: 131
+tmx:
+  en-ga:
+    download size: 630
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/tmx/en-ga.tmx.gz
+    source language tokens: 46
+    target language tokens: 131
+    translation units: 7

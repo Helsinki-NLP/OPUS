@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 10234
+    downloads:
+      alignments:
+        size: 77597
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/en-is.xml.gz
+      source language:
+        size: 145263
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/raw/en.zip
+      target language:
+        size: 163531
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/raw/is.zip
+      tokenized source language:
+        size: 430326
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/en.zip
+      tokenized target language:
+        size: 445186
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/is.zip
+    files: 1
+    source language tokens: 10235
+    target language tokens: 69592
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 18398
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/freq/en.freq.gz
+      plain text:
+        size: 108860
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/mono/en.txt.gz
+      tokenized text:
+        size: 109721
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 430326
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/en.zip
+      xml:
+        size: 145263
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/raw/en.zip
+    files: 1
+    sentences: 10275
+    tokens: 81990
+  is:
+    downloads:
+      frequency list:
+        size: 33785
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/freq/is.freq.gz
+      plain text:
+        size: 125887
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/mono/is.txt.gz
+      tokenized text:
+        size: 126998
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 445186
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/is.zip
+      xml:
+        size: 163531
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/raw/is.zip
+    files: 1
+    sentences: 10247
+    tokens: 80431
+moses:
+  en-is:
+    alignments: 10236
+    download size: 290793
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/moses/en-is.txt.zip
+    source language tokens: 69642
+    target language tokens: 70638
+tmx:
+  en-is:
+    download size: 291019
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/tmx/en-is.tmx.gz
+    source language tokens: 69592
+    target language tokens: 70596
+    translation units: 10234

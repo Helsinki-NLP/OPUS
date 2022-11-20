@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 1020
+    downloads:
+      alignments:
+        size: 9067
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 280298
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/smt/en-ga.zip
+      source language:
+        size: 59843
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/raw/en.zip
+      target language:
+        size: 67185
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/raw/ga.zip
+      tokenized source language:
+        size: 155694
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/xml/en.zip
+      tokenized target language:
+        size: 178201
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 24547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 97186
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 1021
+    target language tokens: 24427
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 15818
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/freq/en.freq.gz
+      plain text:
+        size: 52941
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/mono/en.txt.gz
+      tokenized text:
+        size: 53126
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 155694
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/xml/en.zip
+      xml:
+        size: 59843
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/raw/en.zip
+    files: 1
+    sentences: 1239
+    tokens: 26650
+  ga:
+    downloads:
+      frequency list:
+        size: 20496
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/freq/ga.freq.gz
+      plain text:
+        size: 60076
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 60201
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 178201
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/xml/ga.zip
+      xml:
+        size: 67185
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/raw/ga.zip
+    files: 1
+    sentences: 1257
+    tokens: 30379
+moses:
+  en-ga:
+    alignments: 1021
+    download size: 120751
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/moses/en-ga.txt.zip
+    source language tokens: 24427
+    target language tokens: 28147
+tmx:
+  en-ga:
+    download size: 129516
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2506-Programme_Government/v1/tmx/en-ga.tmx.gz
+    source language tokens: 24427
+    target language tokens: 28147
+    translation units: 1021

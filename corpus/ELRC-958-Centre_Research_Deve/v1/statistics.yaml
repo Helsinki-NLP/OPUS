@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 1781
+    downloads:
+      alignments:
+        size: 24108
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/xml/en-pl.xml.gz
+      source language:
+        size: 85771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/raw/en.zip
+      target language:
+        size: 94477
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/raw/pl.zip
+      tokenized source language:
+        size: 233735
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/xml/en.zip
+      tokenized target language:
+        size: 226672
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/xml/pl.zip
+    files: 1
+    source language tokens: 1782
+    target language tokens: 30890
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 21323
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/freq/en.freq.gz
+      plain text:
+        size: 77157
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/mono/en.txt.gz
+      tokenized text:
+        size: 77428
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 233735
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/xml/en.zip
+      xml:
+        size: 85771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/raw/en.zip
+    files: 1
+    sentences: 1787
+    tokens: 40831
+  pl:
+    downloads:
+      frequency list:
+        size: 34638
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/freq/pl.freq.gz
+      plain text:
+        size: 85559
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 85770
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 226672
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/xml/pl.zip
+      xml:
+        size: 94477
+        url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/raw/pl.zip
+    files: 1
+    sentences: 1792
+    tokens: 34977
+moses:
+  en-pl:
+    alignments: 1782
+    download size: 173184
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/moses/en-pl.txt.zip
+    source language tokens: 30890
+    target language tokens: 36421
+tmx:
+  en-pl:
+    download size: 186289
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-958-Centre_Research_Deve/v1/tmx/en-pl.tmx.gz
+    source language tokens: 30890
+    target language tokens: 36421
+    translation units: 1782

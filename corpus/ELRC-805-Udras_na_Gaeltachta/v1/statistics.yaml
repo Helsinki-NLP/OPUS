@@ -1,0 +1,83 @@
+---
+bitexts:
+  en-ga:
+    alignments: 1438
+    downloads:
+      alignments:
+        size: 12954
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/xml/en-ga.xml.gz
+      source language:
+        size: 77527
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/raw/en.zip
+      target language:
+        size: 82740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/raw/ga.zip
+      tokenized source language:
+        size: 216604
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/xml/en.zip
+      tokenized target language:
+        size: 230329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/xml/ga.zip
+    files: 1
+    source language tokens: 1691
+    target language tokens: 30852
+monolingual:
+  805:
+    downloads:
+      tokenized xml:
+        size: 1474
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/xml/805.zip
+  en:
+    downloads:
+      frequency list:
+        size: 15710
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/freq/en.freq.gz
+      plain text:
+        size: 68696
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/mono/en.txt.gz
+      tokenized text:
+        size: 68940
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 216604
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/xml/en.zip
+      xml:
+        size: 77527
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/raw/en.zip
+    files: 1
+    sentences: 1693
+    tokens: 38514
+  ga:
+    downloads:
+      frequency list:
+        size: 18725
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/freq/ga.freq.gz
+      plain text:
+        size: 73615
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 73979
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 230329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/xml/ga.zip
+      xml:
+        size: 82740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/raw/ga.zip
+    files: 1
+    sentences: 1693
+    tokens: 40574
+moses:
+  en-ga:
+    alignments: 1692
+    download size: 152742
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/moses/en-ga.txt.zip
+    source language tokens: 35019
+    target language tokens: 36824
+tmx:
+  en-ga:
+    download size: 150609
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-805-Udras_na_Gaeltachta/v1/tmx/en-ga.tmx.gz
+    source language tokens: 30852
+    target language tokens: 32497
+    translation units: 1438

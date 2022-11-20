@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-lt:
+    alignments: 129736
+    downloads:
+      alignments:
+        size: 1014287
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/xml/en-lt.xml.gz
+      source language:
+        size: 6155609
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/raw/en.zip
+      target language:
+        size: 6063506
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/raw/lt.zip
+      tokenized source language:
+        size: 22012632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/xml/en.zip
+      tokenized target language:
+        size: 17587084
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/xml/lt.zip
+    files: 1
+    source language tokens: 130551
+    target language tokens: 2611910
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 121963
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/freq/en.freq.gz
+      plain text:
+        size: 5644614
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/mono/en.txt.gz
+      tokenized text:
+        size: 5658893
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 22012632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/xml/en.zip
+      xml:
+        size: 6155609
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/raw/en.zip
+    files: 1
+    sentences: 136540
+    tokens: 4279290
+  lt:
+    downloads:
+      frequency list:
+        size: 292474
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/freq/lt.freq.gz
+      plain text:
+        size: 5567332
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/mono/lt.txt.gz
+      tokenized text:
+        size: 5588013
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/mono/lt.tok.gz
+      tokenized xml:
+        size: 17587084
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/xml/lt.zip
+      xml:
+        size: 6063506
+        url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/raw/lt.zip
+    files: 1
+    sentences: 131173
+    tokens: 3058605
+moses:
+  en-lt:
+    alignments: 130549
+    download size: 11848232
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/moses/en-lt.txt.zip
+    source language tokens: 2627956
+    target language tokens: 3885904
+tmx:
+  en-lt:
+    download size: 13046438
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-425-Lithuanian_legislati/v1/tmx/en-lt.tmx.gz
+    source language tokens: 2611910
+    target language tokens: 3862587
+    translation units: 129736

@@ -1,0 +1,164 @@
+---
+bitexts:
+  en-hr:
+    alignments: 11737
+    downloads:
+      alignments:
+        size: 149740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/en-hr.xml.gz
+      source language:
+        size: 959395
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/en.zip
+      target language:
+        size: 550119
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/hr.zip
+      tokenized source language:
+        size: 3292329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/en.zip
+      tokenized target language:
+        size: 1587268
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/hr.zip
+    files: 1
+    source language tokens: 11738
+    target language tokens: 269322
+  en-sl:
+    alignments: 11859
+    downloads:
+      alignments:
+        size: 158207
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/en-sl.xml.gz
+      source language:
+        size: 959395
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/en.zip
+      target language:
+        size: 454598
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/sl.zip
+      tokenized source language:
+        size: 3292329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/en.zip
+      tokenized target language:
+        size: 1590061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/sl.zip
+    files: 1
+    source language tokens: 11860
+    target language tokens: 273949
+  hr-sl:
+    alignments: 11
+    downloads:
+      alignments:
+        size: 534
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/hr-sl.xml.gz
+      source language:
+        size: 550119
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/hr.zip
+      target language:
+        size: 454598
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/sl.zip
+      tokenized source language:
+        size: 1587268
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/hr.zip
+      tokenized target language:
+        size: 1590061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/sl.zip
+    files: 1
+    source language tokens: 12
+    target language tokens: 143
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 67947
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/freq/en.freq.gz
+      plain text:
+        size: 880419
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/mono/en.txt.gz
+      tokenized text:
+        size: 885399
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 3292329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/en.zip
+      xml:
+        size: 959395
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/en.zip
+    files: 1
+    sentences: 21820
+    tokens: 644863
+  hr:
+    downloads:
+      frequency list:
+        size: 85591
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/freq/hr.freq.gz
+      plain text:
+        size: 508975
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 511706
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 1587268
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/hr.zip
+      xml:
+        size: 550119
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/hr.zip
+    files: 1
+    sentences: 10368
+    tokens: 284424
+  sl:
+    downloads:
+      frequency list:
+        size: 77054
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/freq/sl.freq.gz
+      plain text:
+        size: 412373
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/mono/sl.txt.gz
+      tokenized text:
+        size: 414996
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/mono/sl.tok.gz
+      tokenized xml:
+        size: 1590061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/xml/sl.zip
+      xml:
+        size: 454598
+        url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/raw/sl.zip
+    files: 1
+    sentences: 11349
+    tokens: 305706
+moses:
+  en-hr:
+    alignments: 11738
+    download size: 1184112
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/moses/en-hr.txt.zip
+    source language tokens: 269322
+    target language tokens: 320691
+  en-sl:
+    alignments: 11860
+    download size: 849249
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/moses/en-sl.txt.zip
+    source language tokens: 273949
+    target language tokens: 284445
+  hr-sl:
+    alignments: 12
+    download size: 3104
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/moses/hr-sl.txt.zip
+    source language tokens: 143
+    target language tokens: 148
+tmx:
+  en-hr:
+    download size: 1285936
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/tmx/en-hr.tmx.gz
+    source language tokens: 269322
+    target language tokens: 320691
+    translation units: 11738
+  en-sl:
+    download size: 917998
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/tmx/en-sl.tmx.gz
+    source language tokens: 273949
+    target language tokens: 284445
+    translation units: 11860
+  hr-sl:
+    download size: 1191
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-statistical_reports/v1/tmx/hr-sl.tmx.gz
+    source language tokens: 143
+    target language tokens: 148
+    translation units: 12

@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-hr:
+    alignments: 2407
+    downloads:
+      alignments:
+        size: 31354
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/en-hr.xml.gz
+      source language:
+        size: 131837
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/raw/en.zip
+      target language:
+        size: 138294
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/raw/hr.zip
+      tokenized source language:
+        size: 342375
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/en.zip
+      tokenized target language:
+        size: 341702
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/hr.zip
+    files: 1
+    source language tokens: 2408
+    target language tokens: 43206
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 37330
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/freq/en.freq.gz
+      plain text:
+        size: 120334
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/mono/en.txt.gz
+      tokenized text:
+        size: 121135
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 342375
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/en.zip
+      xml:
+        size: 131837
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/raw/en.zip
+    files: 1
+    sentences: 2428
+    tokens: 57498
+  hr:
+    downloads:
+      frequency list:
+        size: 50271
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/freq/hr.freq.gz
+      plain text:
+        size: 126237
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 127094
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 341702
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/hr.zip
+      xml:
+        size: 138294
+        url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/raw/hr.zip
+    files: 1
+    sentences: 2425
+    tokens: 54183
+moses:
+  en-hr:
+    alignments: 2408
+    download size: 260699
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/moses/en-hr.txt.zip
+    source language tokens: 43206
+    target language tokens: 48413
+tmx:
+  en-hr:
+    download size: 265424
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/tmx/en-hr.tmx.gz
+    source language tokens: 43206
+    target language tokens: 48413
+    translation units: 2408

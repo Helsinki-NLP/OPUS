@@ -1,0 +1,131 @@
+---
+bitexts:
+  en-nb:
+    alignments: 2180
+    downloads:
+      alignments:
+        size: 19051
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/en-nb.xml.gz
+      source language:
+        size: 78781
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/raw/en.zip
+      target language:
+        size: 59886
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/raw/nb.zip
+      tokenized source language:
+        size: 225513
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/en.zip
+      tokenized target language:
+        size: 163854
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/nb.zip
+    files: 1
+    source language tokens: 2539
+    target language tokens: 26244
+  en-nn:
+    alignments: 677
+    downloads:
+      alignments:
+        size: 7052
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/en-nn.xml.gz
+      source language:
+        size: 78781
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/raw/en.zip
+      target language:
+        size: 18544
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/raw/nn.zip
+      tokenized source language:
+        size: 225513
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/en.zip
+      tokenized target language:
+        size: 42160
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/nn.zip
+    files: 1
+    source language tokens: 990
+    target language tokens: 6110
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 17017
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/freq/en.freq.gz
+      plain text:
+        size: 67210
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/mono/en.txt.gz
+      tokenized text:
+        size: 67469
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 225513
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/en.zip
+      xml:
+        size: 78781
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/raw/en.zip
+    files: 1
+    sentences: 2832
+    tokens: 41265
+  nb:
+    downloads:
+      frequency list:
+        size: 15110
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/freq/nb.freq.gz
+      plain text:
+        size: 50588
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 50782
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 163854
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/nb.zip
+      xml:
+        size: 59886
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/raw/nb.zip
+    files: 1
+    sentences: 2170
+    tokens: 29710
+  nn:
+    downloads:
+      frequency list:
+        size: 7631
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/freq/nn.freq.gz
+      plain text:
+        size: 14328
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/mono/nn.txt.gz
+      tokenized text:
+        size: 14371
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/mono/nn.tok.gz
+      tokenized xml:
+        size: 42160
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/nn.zip
+      xml:
+        size: 18544
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/raw/nn.zip
+    files: 1
+    sentences: 621
+    tokens: 6860
+moses:
+  en-nb:
+    alignments: 2540
+    download size: 119974
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/moses/en-nb.txt.zip
+    source language tokens: 26841
+    target language tokens: 31571
+  en-nn:
+    alignments: 991
+    download size: 35525
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/moses/en-nn.txt.zip
+    source language tokens: 8155
+    target language tokens: 8931
+tmx:
+  en-nb:
+    download size: 121684
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/tmx/en-nb.tmx.gz
+    source language tokens: 26244
+    target language tokens: 30532
+    translation units: 2180
+  en-nn:
+    download size: 31538
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/tmx/en-nn.tmx.gz
+    source language tokens: 6110
+    target language tokens: 6681
+    translation units: 677

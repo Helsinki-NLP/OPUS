@@ -1,0 +1,87 @@
+---
+bitexts:
+  fr-pt:
+    alignments: 1111
+    downloads:
+      alignments:
+        size: 8183
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/fr-pt.xml.gz
+      smt phrase table:
+        size: 343246
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/smt/fr-pt.zip
+      source language:
+        size: 39953
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/raw/fr.zip
+      target language:
+        size: 39901
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/raw/pt.zip
+      tokenized source language:
+        size: 130614
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/fr.zip
+      tokenized target language:
+        size: 122304
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/pt.zip
+      word alignment dictionary:
+        size: 19327
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/dic/fr-pt.dic.gz
+      word alignments:
+        size: 73217
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/smt/fr-pt.alg.zip
+    files: 1
+    source language tokens: 1150
+    target language tokens: 20196
+monolingual:
+  fr:
+    downloads:
+      frequency list:
+        size: 11602
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/freq/fr.freq.gz
+      plain text:
+        size: 33978
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 34122
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 130614
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/fr.zip
+      xml:
+        size: 39953
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/raw/fr.zip
+    files: 1
+    sentences: 1151
+    tokens: 24875
+  pt:
+    downloads:
+      frequency list:
+        size: 11601
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/freq/pt.freq.gz
+      plain text:
+        size: 33821
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/mono/pt.txt.gz
+      tokenized text:
+        size: 33962
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/mono/pt.tok.gz
+      tokenized xml:
+        size: 122304
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/pt.zip
+      xml:
+        size: 39901
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/raw/pt.zip
+    files: 1
+    sentences: 1150
+    tokens: 22839
+moses:
+  fr-pt:
+    alignments: 1151
+    download size: 75023
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/moses/fr-pt.txt.zip
+    source language tokens: 20282
+    target language tokens: 20981
+tmx:
+  fr-pt:
+    download size: 77208
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/tmx/fr-pt.tmx.gz
+    source language tokens: 20196
+    target language tokens: 20892
+    translation units: 1111

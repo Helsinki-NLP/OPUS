@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-et:
+    alignments: 11541
+    downloads:
+      alignments:
+        size: 132502
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/xml/en-et.xml.gz
+      source language:
+        size: 579946
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/raw/en.zip
+      target language:
+        size: 574866
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/raw/et.zip
+      tokenized source language:
+        size: 1626425
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/xml/en.zip
+      tokenized target language:
+        size: 1381516
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/xml/et.zip
+    files: 1
+    source language tokens: 17296
+    target language tokens: 156696
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 63842
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/freq/en.freq.gz
+      plain text:
+        size: 508382
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/mono/en.txt.gz
+      tokenized text:
+        size: 511058
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1626425
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/xml/en.zip
+      xml:
+        size: 579946
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/raw/en.zip
+    files: 1
+    sentences: 17539
+    tokens: 292772
+  et:
+    downloads:
+      frequency list:
+        size: 129008
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/freq/et.freq.gz
+      plain text:
+        size: 501128
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/mono/et.txt.gz
+      tokenized text:
+        size: 504048
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/mono/et.tok.gz
+      tokenized xml:
+        size: 1381516
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/xml/et.zip
+      xml:
+        size: 574866
+        url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/raw/et.zip
+    files: 1
+    sentences: 17544
+    tokens: 220326
+moses:
+  en-et:
+    alignments: 17297
+    download size: 1094974
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/moses/en-et.txt.zip
+    source language tokens: 188134
+    target language tokens: 258365
+tmx:
+  en-et:
+    download size: 1083834
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-393-Estonian_Cabinet_Min/v1/tmx/en-et.tmx.gz
+    source language tokens: 156696
+    target language tokens: 226088
+    translation units: 11541

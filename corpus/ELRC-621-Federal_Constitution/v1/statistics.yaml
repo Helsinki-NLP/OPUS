@@ -1,0 +1,78 @@
+---
+bitexts:
+  de-en:
+    alignments: 3970
+    downloads:
+      alignments:
+        size: 35644
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/xml/de-en.xml.gz
+      source language:
+        size: 189546
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/raw/de.zip
+      target language:
+        size: 177268
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/raw/en.zip
+      tokenized source language:
+        size: 553018
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/xml/de.zip
+      tokenized target language:
+        size: 604839
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/xml/en.zip
+    files: 1
+    source language tokens: 3971
+    target language tokens: 85229
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 40366
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/freq/de.freq.gz
+      plain text:
+        size: 165293
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/mono/de.txt.gz
+      tokenized text:
+        size: 166464
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 553018
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/xml/de.zip
+      xml:
+        size: 189546
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/raw/de.zip
+    files: 1
+    sentences: 5407
+    tokens: 99748
+  en:
+    downloads:
+      frequency list:
+        size: 25325
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/freq/en.freq.gz
+      plain text:
+        size: 160412
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/mono/en.txt.gz
+      tokenized text:
+        size: 161197
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 604839
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/xml/en.zip
+      xml:
+        size: 177268
+        url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/raw/en.zip
+    files: 1
+    sentences: 4158
+    tokens: 118049
+moses:
+  de-en:
+    alignments: 3971
+    download size: 352344
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/moses/de-en.txt.zip
+    source language tokens: 85229
+    target language tokens: 105409
+tmx:
+  de-en:
+    download size: 377745
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-621-Federal_Constitution/v1/tmx/de-en.tmx.gz
+    source language tokens: 85229
+    target language tokens: 105409
+    translation units: 3971

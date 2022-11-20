@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-sv:
+    alignments: 1502
+    downloads:
+      alignments:
+        size: 11425
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/en-sv.xml.gz
+      source language:
+        size: 58941
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/raw/en.zip
+      target language:
+        size: 57193
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/raw/sv.zip
+      tokenized source language:
+        size: 162512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/en.zip
+      tokenized target language:
+        size: 141753
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/sv.zip
+    files: 1
+    source language tokens: 1503
+    target language tokens: 22126
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 13096
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/freq/en.freq.gz
+      plain text:
+        size: 51284
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/mono/en.txt.gz
+      tokenized text:
+        size: 51382
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 162512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/en.zip
+      xml:
+        size: 58941
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/raw/en.zip
+    files: 1
+    sentences: 1503
+    tokens: 29778
+  sv:
+    downloads:
+      frequency list:
+        size: 16357
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/freq/sv.freq.gz
+      plain text:
+        size: 49695
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 49814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 141753
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/sv.zip
+      xml:
+        size: 57193
+        url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/raw/sv.zip
+    files: 1
+    sentences: 1502
+    tokens: 24325
+moses:
+  en-sv:
+    alignments: 1503
+    download size: 110151
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/moses/en-sv.txt.zip
+    source language tokens: 22126
+    target language tokens: 26747
+tmx:
+  en-sv:
+    download size: 118145
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/tmx/en-sv.tmx.gz
+    source language tokens: 22126
+    target language tokens: 26747
+    translation units: 1503

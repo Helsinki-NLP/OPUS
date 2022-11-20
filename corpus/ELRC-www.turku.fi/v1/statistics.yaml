@@ -1,0 +1,164 @@
+---
+bitexts:
+  en-fi:
+    alignments: 17673
+    downloads:
+      alignments:
+        size: 142719
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/en-fi.xml.gz
+      source language:
+        size: 704203
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/en.zip
+      target language:
+        size: 569814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/fi.zip
+      tokenized source language:
+        size: 1764660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/en.zip
+      tokenized target language:
+        size: 1161310
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/fi.zip
+    files: 1
+    source language tokens: 17674
+    target language tokens: 141917
+  en-sv:
+    alignments: 9705
+    downloads:
+      alignments:
+        size: 73396
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/en-sv.xml.gz
+      source language:
+        size: 704203
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/en.zip
+      target language:
+        size: 338262
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/sv.zip
+      tokenized source language:
+        size: 1764660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/en.zip
+      tokenized target language:
+        size: 766148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/sv.zip
+    files: 1
+    source language tokens: 9706
+    target language tokens: 107773
+  fi-sv:
+    alignments: 6815
+    downloads:
+      alignments:
+        size: 59014
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/fi-sv.xml.gz
+      source language:
+        size: 569814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/fi.zip
+      target language:
+        size: 338262
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/sv.zip
+      tokenized source language:
+        size: 1161310
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/fi.zip
+      tokenized target language:
+        size: 766148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/sv.zip
+    files: 1
+    source language tokens: 6872
+    target language tokens: 58877
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 80401
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/freq/en.freq.gz
+      plain text:
+        size: 621120
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/mono/en.txt.gz
+      tokenized text:
+        size: 624110
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1764660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/en.zip
+      xml:
+        size: 704203
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/en.zip
+    files: 1
+    sentences: 20217
+    tokens: 297124
+  fi:
+    downloads:
+      frequency list:
+        size: 193308
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/freq/fi.freq.gz
+      plain text:
+        size: 497374
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/mono/fi.txt.gz
+      tokenized text:
+        size: 499748
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/mono/fi.tok.gz
+      tokenized xml:
+        size: 1161310
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/fi.zip
+      xml:
+        size: 569814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/fi.zip
+    files: 1
+    sentences: 17191
+    tokens: 163179
+  sv:
+    downloads:
+      frequency list:
+        size: 93959
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/freq/sv.freq.gz
+      plain text:
+        size: 297743
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 299003
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 766148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/xml/sv.zip
+      xml:
+        size: 338262
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/raw/sv.zip
+    files: 1
+    sentences: 9503
+    tokens: 119670
+moses:
+  en-fi:
+    alignments: 17674
+    download size: 1121794
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/moses/en-fi.txt.zip
+    source language tokens: 141917
+    target language tokens: 225584
+  en-sv:
+    alignments: 9706
+    download size: 660309
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/moses/en-sv.txt.zip
+    source language tokens: 107773
+    target language tokens: 131974
+  fi-sv:
+    alignments: 6873
+    download size: 468116
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/moses/fi-sv.txt.zip
+    source language tokens: 59147
+    target language tokens: 76965
+tmx:
+  en-fi:
+    download size: 1181786
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/tmx/en-fi.tmx.gz
+    source language tokens: 141917
+    target language tokens: 225584
+    translation units: 17674
+  en-sv:
+    download size: 696017
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/tmx/en-sv.tmx.gz
+    source language tokens: 107773
+    target language tokens: 131974
+    translation units: 9706
+  fi-sv:
+    download size: 490453
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.turku.fi/v1/tmx/fi-sv.tmx.gz
+    source language tokens: 58877
+    target language tokens: 76604
+    translation units: 6815

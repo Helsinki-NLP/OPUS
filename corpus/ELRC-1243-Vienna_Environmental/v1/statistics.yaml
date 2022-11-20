@@ -1,0 +1,87 @@
+---
+bitexts:
+  de-en:
+    alignments: 2221
+    downloads:
+      alignments:
+        size: 18060
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/xml/de-en.xml.gz
+      smt phrase table:
+        size: 554104
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/smt/de-en.zip
+      source language:
+        size: 123832
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/raw/de.zip
+      target language:
+        size: 118068
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/raw/en.zip
+      tokenized source language:
+        size: 289736
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/xml/de.zip
+      tokenized target language:
+        size: 317847
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/xml/en.zip
+      word alignment dictionary:
+        size: 36880
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/dic/de-en.dic.gz
+      word alignments:
+        size: 178961
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/smt/de-en.alg.zip
+    files: 1
+    source language tokens: 2222
+    target language tokens: 40056
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 45627
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/freq/de.freq.gz
+      plain text:
+        size: 112676
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/mono/de.txt.gz
+      tokenized text:
+        size: 113328
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 289736
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/xml/de.zip
+      xml:
+        size: 123832
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/raw/de.zip
+    files: 1
+    sentences: 2299
+    tokens: 45801
+  en:
+    downloads:
+      frequency list:
+        size: 26509
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/freq/en.freq.gz
+      plain text:
+        size: 107741
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/mono/en.txt.gz
+      tokenized text:
+        size: 108116
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 317847
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/xml/en.zip
+      xml:
+        size: 118068
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/raw/en.zip
+    files: 1
+    sentences: 2257
+    tokens: 55929
+moses:
+  de-en:
+    alignments: 2222
+    download size: 234095
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/moses/de-en.txt.zip
+    source language tokens: 40056
+    target language tokens: 50056
+tmx:
+  de-en:
+    download size: 246824
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1243-Vienna_Environmental/v1/tmx/de-en.tmx.gz
+    source language tokens: 40056
+    target language tokens: 50056
+    translation units: 2222

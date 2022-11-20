@@ -1,0 +1,87 @@
+---
+bitexts:
+  de-en:
+    alignments: 2709
+    downloads:
+      alignments:
+        size: 22971
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/xml/de-en.xml.gz
+      smt phrase table:
+        size: 778317
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/smt/de-en.zip
+      source language:
+        size: 169066
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/raw/de.zip
+      target language:
+        size: 152497
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/raw/en.zip
+      tokenized source language:
+        size: 425403
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/xml/de.zip
+      tokenized target language:
+        size: 442338
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/xml/en.zip
+      word alignment dictionary:
+        size: 40778
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/dic/de-en.dic.gz
+      word alignments:
+        size: 258961
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/smt/de-en.alg.zip
+    files: 1
+    source language tokens: 2716
+    target language tokens: 61073
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 50055
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/freq/de.freq.gz
+      plain text:
+        size: 154197
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/mono/de.txt.gz
+      tokenized text:
+        size: 154814
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 425403
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/xml/de.zip
+      xml:
+        size: 169066
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/raw/de.zip
+    files: 1
+    sentences: 3108
+    tokens: 69896
+  en:
+    downloads:
+      frequency list:
+        size: 28270
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/freq/en.freq.gz
+      plain text:
+        size: 138622
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/mono/en.txt.gz
+      tokenized text:
+        size: 139155
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 442338
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/xml/en.zip
+      xml:
+        size: 152497
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/raw/en.zip
+    files: 1
+    sentences: 3032
+    tokens: 80157
+moses:
+  de-en:
+    alignments: 2717
+    download size: 309813
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/moses/de-en.txt.zip
+    source language tokens: 61090
+    target language tokens: 69055
+tmx:
+  de-en:
+    download size: 329298
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1240-Austrian_Research_Te/v1/tmx/de-en.tmx.gz
+    source language tokens: 61073
+    target language tokens: 69032
+    translation units: 2709

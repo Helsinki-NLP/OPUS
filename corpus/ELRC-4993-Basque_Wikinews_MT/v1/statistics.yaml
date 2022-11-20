@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-eu:
+    alignments: 1780
+    downloads:
+      alignments:
+        size: 14134
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/xml/en-eu.xml.gz
+      source language:
+        size: 85053
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/raw/en.zip
+      target language:
+        size: 85050
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/raw/eu.zip
+      tokenized source language:
+        size: 225565
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/xml/en.zip
+      tokenized target language:
+        size: 222338
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/xml/eu.zip
+    files: 1
+    source language tokens: 1788
+    target language tokens: 28798
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 22667
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/freq/en.freq.gz
+      plain text:
+        size: 75999
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/mono/en.txt.gz
+      tokenized text:
+        size: 76395
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 225565
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/xml/en.zip
+      xml:
+        size: 85053
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/raw/en.zip
+    files: 1
+    sentences: 1795
+    tokens: 40132
+  eu:
+    downloads:
+      frequency list:
+        size: 29823
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/freq/eu.freq.gz
+      plain text:
+        size: 75435
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/mono/eu.txt.gz
+      tokenized text:
+        size: 76187
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/mono/eu.tok.gz
+      tokenized xml:
+        size: 222338
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/xml/eu.zip
+      xml:
+        size: 85050
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/raw/eu.zip
+    files: 1
+    sentences: 1835
+    tokens: 37785
+moses:
+  en-eu:
+    alignments: 1789
+    download size: 162421
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/moses/en-eu.txt.zip
+    source language tokens: 28833
+    target language tokens: 34747
+tmx:
+  en-eu:
+    download size: 170410
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4993-Basque_Wikinews_MT/v1/tmx/en-eu.tmx.gz
+    source language tokens: 28798
+    target language tokens: 34707
+    translation units: 1780

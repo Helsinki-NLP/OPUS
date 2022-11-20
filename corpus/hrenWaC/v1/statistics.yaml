@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-hr:
+    alignments: 96395
+    downloads:
+      alignments:
+        size: 738817
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/xml/en-hr.xml.gz
+      smt phrase table:
+        size: 24867855
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/smt/en-hr.zip
+      source language:
+        size: 5859131
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/raw/en.zip
+      target language:
+        size: 6142491
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/raw/hr.zip
+      tokenized source language:
+        size: 34657352
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/xml/en.zip
+      tokenized target language:
+        size: 14646632
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/xml/hr.zip
+      word alignment dictionary:
+        size: 185933
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/dic/en-hr.dic.gz
+      word alignments:
+        size: 4504168
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/smt/en-hr.alg.zip
+    files: 1
+    source language tokens: 99001
+    target language tokens: 2279348
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 377991
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/freq/en.freq.gz
+      plain text:
+        size: 5465135
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/mono/en.txt.gz
+      tokenized text:
+        size: 5449763
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 34657352
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/xml/en.zip
+      xml:
+        size: 5859131
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/raw/en.zip
+    files: 1
+    sentences: 99001
+    tokens: 2638892
+  hr:
+    downloads:
+      frequency list:
+        size: 679726
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/freq/hr.freq.gz
+      plain text:
+        size: 5735904
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 5762087
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 14646632
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/xml/hr.zip
+      xml:
+        size: 6142491
+        url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/raw/hr.zip
+    files: 1
+    sentences: 99001
+    tokens: 2317872
+moses:
+  en-hr:
+    alignments: 99001
+    download size: 11261967
+    download url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/moses/en-hr.txt.zip
+    source language tokens: 2317872
+    target language tokens: 2645481
+tmx:
+  en-hr:
+    download size: 12199170
+    download url: https://object.pouta.csc.fi/OPUS-hrenWaC/v1/tmx/en-hr.tmx.gz
+    source language tokens: 2279348
+    target language tokens: 2602177
+    translation units: 96395

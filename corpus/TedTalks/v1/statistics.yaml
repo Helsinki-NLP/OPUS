@@ -1,0 +1,84 @@
+---
+bitexts:
+  en-hr:
+    alignments: 81971
+    downloads:
+      alignments:
+        size: 653526
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/xml/en-hr.xml.gz
+      smt phrase table:
+        size: 14950220
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/smt/en-hr.zip
+      source language:
+        size: 2914982
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/raw/en.zip
+      target language:
+        size: 3024317
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/raw/hr.zip
+      tokenized source language:
+        size: 19416572
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/xml/en.zip
+      tokenized target language:
+        size: 7560842
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/xml/hr.zip
+      word alignments:
+        size: 5097686
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/smt/en-hr.alg.zip
+    files: 1
+    source language tokens: 86348
+    target language tokens: 1059318
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 157103
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/freq/en.freq.gz
+      plain text:
+        size: 2562324
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2580293
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 19416572
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/xml/en.zip
+      xml:
+        size: 2914982
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/raw/en.zip
+    files: 1
+    sentences: 86912
+    tokens: 1522618
+  hr:
+    downloads:
+      frequency list:
+        size: 312453
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/freq/hr.freq.gz
+      plain text:
+        size: 2658196
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 2671685
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 7560842
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/xml/hr.zip
+      xml:
+        size: 3024317
+        url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/raw/hr.zip
+    files: 1
+    sentences: 87077
+    tokens: 1283354
+moses:
+  en-hr:
+    alignments: 86348
+    download size: 5639306
+    download url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/moses/en-hr.txt.zip
+    source language tokens: 1095520
+    target language tokens: 1289366
+tmx:
+  en-hr:
+    download size: 5820983
+    download url: https://object.pouta.csc.fi/OPUS-TedTalks/v1/tmx/en-hr.tmx.gz
+    source language tokens: 1059318
+    target language tokens: 1247399
+    translation units: 81971

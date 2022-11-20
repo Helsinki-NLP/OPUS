@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 71
+    downloads:
+      alignments:
+        size: 730
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 34298
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/smt/en-ga.zip
+      source language:
+        size: 7859
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/raw/en.zip
+      target language:
+        size: 8451
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/raw/ga.zip
+      tokenized source language:
+        size: 16573
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/en.zip
+      tokenized target language:
+        size: 18255
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 2187
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 14468
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 72
+    target language tokens: 2288
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 3621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/freq/en.freq.gz
+      plain text:
+        size: 5638
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 5655
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 16573
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/en.zip
+      xml:
+        size: 7859
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/raw/en.zip
+    files: 1
+    sentences: 87
+    tokens: 2558
+  ga:
+    downloads:
+      frequency list:
+        size: 4208
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/freq/ga.freq.gz
+      plain text:
+        size: 6234
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 6245
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 18255
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/ga.zip
+      xml:
+        size: 8451
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/raw/ga.zip
+    files: 1
+    sentences: 84
+    tokens: 2802
+moses:
+  en-ga:
+    alignments: 72
+    download size: 13881
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/moses/en-ga.txt.zip
+    source language tokens: 2288
+    target language tokens: 2578
+tmx:
+  en-ga:
+    download size: 12451
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/tmx/en-ga.tmx.gz
+    source language tokens: 2288
+    target language tokens: 2578
+    translation units: 72

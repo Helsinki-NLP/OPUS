@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 802
+    downloads:
+      alignments:
+        size: 10919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/xml/en-pl.xml.gz
+      source language:
+        size: 39524
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/raw/en.zip
+      target language:
+        size: 41341
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/raw/pl.zip
+      tokenized source language:
+        size: 95047
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/xml/en.zip
+      tokenized target language:
+        size: 88514
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/xml/pl.zip
+    files: 1
+    source language tokens: 803
+    target language tokens: 11155
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 15329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/freq/en.freq.gz
+      plain text:
+        size: 34654
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/mono/en.txt.gz
+      tokenized text:
+        size: 34817
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 95047
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/xml/en.zip
+      xml:
+        size: 39524
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/raw/en.zip
+    files: 1
+    sentences: 805
+    tokens: 15913
+  pl:
+    downloads:
+      frequency list:
+        size: 22217
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/freq/pl.freq.gz
+      plain text:
+        size: 36371
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 36479
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 88514
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/xml/pl.zip
+      xml:
+        size: 41341
+        url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/raw/pl.zip
+    files: 1
+    sentences: 805
+    tokens: 13032
+moses:
+  en-pl:
+    alignments: 803
+    download size: 76167
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/moses/en-pl.txt.zip
+    source language tokens: 11155
+    target language tokens: 13872
+tmx:
+  en-pl:
+    download size: 77484
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-979-Audiovisual_Institut/v1/tmx/en-pl.tmx.gz
+    source language tokens: 11155
+    target language tokens: 13872
+    translation units: 803

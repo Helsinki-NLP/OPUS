@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-es:
+    alignments: 3054
+    downloads:
+      alignments:
+        size: 25762
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/xml/en-es.xml.gz
+      smt phrase table:
+        size: 315143
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/smt/en-es.zip
+      source language:
+        size: 73130
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/raw/en.zip
+      target language:
+        size: 74971
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/raw/es.zip
+      tokenized source language:
+        size: 175818
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/xml/en.zip
+      tokenized target language:
+        size: 181284
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/xml/es.zip
+      word alignment dictionary:
+        size: 14452
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/dic/en-es.dic.gz
+      word alignments:
+        size: 83935
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/smt/en-es.alg.zip
+    files: 1
+    source language tokens: 3054
+    target language tokens: 22670
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 21499
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/freq/en.freq.gz
+      plain text:
+        size: 52576
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/mono/en.txt.gz
+      tokenized text:
+        size: 52996
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 175818
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/xml/en.zip
+      xml:
+        size: 73130
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/raw/en.zip
+    files: 1
+    sentences: 3363
+    tokens: 29564
+  es:
+    downloads:
+      frequency list:
+        size: 23711
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/freq/es.freq.gz
+      plain text:
+        size: 54392
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/mono/es.txt.gz
+      tokenized text:
+        size: 54740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 181284
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/xml/es.zip
+      xml:
+        size: 74971
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/raw/es.zip
+    files: 1
+    sentences: 3363
+    tokens: 30383
+moses:
+  en-es:
+    alignments: 3054
+    download size: 131718
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/moses/en-es.txt.zip
+    source language tokens: 22670
+    target language tokens: 23450
+tmx:
+  en-es:
+    download size: 118213
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2502-TERMITUR/v1/tmx/en-es.tmx.gz
+    source language tokens: 22670
+    target language tokens: 23450
+    translation units: 3054

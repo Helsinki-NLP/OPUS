@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 12509
+    downloads:
+      alignments:
+        size: 163931
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/el-en.xml.gz
+      source language:
+        size: 899980
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/raw/el.zip
+      target language:
+        size: 645016
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/raw/en.zip
+      tokenized source language:
+        size: 2021039
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/el.zip
+      tokenized target language:
+        size: 1804982
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/en.zip
+    files: 1
+    source language tokens: 12510
+    target language tokens: 277118
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 159779
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/freq/el.freq.gz
+      plain text:
+        size: 851016
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/mono/el.txt.gz
+      tokenized text:
+        size: 853980
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 2021039
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/el.zip
+      xml:
+        size: 899980
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/raw/el.zip
+    files: 1
+    sentences: 12631
+    tokens: 311779
+  en:
+    downloads:
+      frequency list:
+        size: 72494
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/freq/en.freq.gz
+      plain text:
+        size: 593698
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/mono/en.txt.gz
+      tokenized text:
+        size: 596322
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1804982
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/en.zip
+      xml:
+        size: 645016
+        url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/raw/en.zip
+    files: 1
+    sentences: 12674
+    tokens: 325511
+moses:
+  el-en:
+    alignments: 12510
+    download size: 1505727
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/moses/el-en.txt.zip
+    source language tokens: 277118
+    target language tokens: 288378
+tmx:
+  el-en:
+    download size: 1684601
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/tmx/el-en.tmx.gz
+    source language tokens: 277118
+    target language tokens: 288378
+    translation units: 12510

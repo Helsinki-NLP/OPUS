@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-uk:
+    alignments: 116259
+    downloads:
+      alignments:
+        size: 881466
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/xml/en-uk.xml.gz
+      source language:
+        size: 4821910
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/raw/en.zip
+      target language:
+        size: 6281316
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/raw/uk.zip
+      tokenized source language:
+        size: 18010028
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/xml/en.zip
+      tokenized target language:
+        size: 17800187
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/xml/uk.zip
+    files: 1
+    source language tokens: 116260
+    target language tokens: 2454311
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 115753
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/freq/en.freq.gz
+      plain text:
+        size: 4394231
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 4418799
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 18010028
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/xml/en.zip
+      xml:
+        size: 4821910
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/raw/en.zip
+    files: 1
+    sentences: 116685
+    tokens: 3491704
+  uk:
+    downloads:
+      frequency list:
+        size: 264219
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/freq/uk.freq.gz
+      plain text:
+        size: 5870107
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/mono/uk.txt.gz
+      tokenized text:
+        size: 5908655
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/mono/uk.tok.gz
+      tokenized xml:
+        size: 17800187
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/xml/uk.zip
+      xml:
+        size: 6281316
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/raw/uk.zip
+    files: 1
+    sentences: 116769
+    tokens: 2944475
+moses:
+  en-uk:
+    alignments: 116260
+    download size: 10812427
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/moses/en-uk.txt.zip
+    source language tokens: 2454311
+    target language tokens: 3137387
+tmx:
+  en-uk:
+    download size: 12662493
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5180-Official_Parliament_/v1/tmx/en-uk.tmx.gz
+    source language tokens: 2454311
+    target language tokens: 3137387
+    translation units: 116260

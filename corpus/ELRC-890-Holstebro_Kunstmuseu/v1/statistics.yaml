@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 1
+    downloads:
+      alignments:
+        size: 7200
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/xml/da-en.xml.gz
+      source language:
+        size: 46251
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/raw/da.zip
+      target language:
+        size: 47592
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/raw/en.zip
+      tokenized source language:
+        size: 1774
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/xml/da.zip
+      tokenized target language:
+        size: 1774
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/xml/en.zip
+    files: 1
+    source language tokens: 1022
+    target language tokens: 1022
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/freq/da.freq.gz
+      plain text:
+        size: 40316
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/mono/da.txt.gz
+      tokenized text:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 1774
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/xml/da.zip
+      xml:
+        size: 46251
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/raw/da.zip
+    files: 0
+    sentences: 0
+    tokens: 0
+  en:
+    downloads:
+      frequency list:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/freq/en.freq.gz
+      plain text:
+        size: 41563
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/mono/en.txt.gz
+      tokenized text:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1774
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/xml/en.zip
+      xml:
+        size: 47592
+        url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/raw/en.zip
+    files: 0
+    sentences: 0
+    tokens: 0
+moses:
+  da-en:
+    alignments: 1023
+    download size: 88553
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/moses/da-en.txt.zip
+    source language tokens: 1023
+    target language tokens: 15781
+tmx:
+  da-en:
+    download size: 90818
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-890-Holstebro_Kunstmuseu/v1/tmx/da-en.tmx.gz
+    source language tokens: 1023
+    target language tokens: 15781
+    translation units: 1023

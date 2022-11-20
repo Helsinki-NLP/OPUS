@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-fi:
+    alignments: 31526
+    downloads:
+      alignments:
+        size: 238198
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/xml/en-fi.xml.gz
+      smt phrase table:
+        size: 5738286
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/smt/en-fi.zip
+      source language:
+        size: 1400616
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/raw/en.zip
+      target language:
+        size: 1430312
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/raw/fi.zip
+      tokenized source language:
+        size: 3743740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/xml/en.zip
+      tokenized target language:
+        size: 2999493
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/xml/fi.zip
+      word alignment dictionary:
+        size: 511510
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/dic/en-fi.dic.gz
+      word alignments:
+        size: 1648702
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/smt/en-fi.alg.zip
+    files: 1
+    source language tokens: 31527
+    target language tokens: 375694
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 87533
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/freq/en.freq.gz
+      plain text:
+        size: 1269988
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1274771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 3743740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/xml/en.zip
+      xml:
+        size: 1400616
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/raw/en.zip
+    files: 1
+    sentences: 31606
+    tokens: 661269
+  fi:
+    downloads:
+      frequency list:
+        size: 308275
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/freq/fi.freq.gz
+      plain text:
+        size: 1301382
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/mono/fi.txt.gz
+      tokenized text:
+        size: 1306044
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/mono/fi.tok.gz
+      tokenized xml:
+        size: 2999493
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/xml/fi.zip
+      xml:
+        size: 1430312
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/raw/fi.zip
+    files: 1
+    sentences: 31587
+    tokens: 428814
+moses:
+  en-fi:
+    alignments: 31527
+    download size: 2727925
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/moses/en-fi.txt.zip
+    source language tokens: 375694
+    target language tokens: 590906
+tmx:
+  en-fi:
+    download size: 2971563
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1771-vnk.fi/v1/tmx/en-fi.tmx.gz
+    source language tokens: 375694
+    target language tokens: 590906
+    translation units: 31527

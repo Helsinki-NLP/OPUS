@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-pl:
+    alignments: 2679
+    downloads:
+      alignments:
+        size: 22843
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/en-pl.xml.gz
+      smt phrase table:
+        size: 866635
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/smt/en-pl.zip
+      source language:
+        size: 105492
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/raw/en.zip
+      target language:
+        size: 104047
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/raw/pl.zip
+      tokenized source language:
+        size: 350212
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/en.zip
+      tokenized target language:
+        size: 289583
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/pl.zip
+      word alignment dictionary:
+        size: 80230
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/dic/en-pl.dic.gz
+      word alignments:
+        size: 177016
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/smt/en-pl.alg.zip
+    files: 1
+    source language tokens: 2680
+    target language tokens: 41479
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 13732
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/freq/en.freq.gz
+      plain text:
+        size: 90825
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/mono/en.txt.gz
+      tokenized text:
+        size: 91173
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 350212
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/en.zip
+      xml:
+        size: 105492
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/raw/en.zip
+    files: 1
+    sentences: 3104
+    tokens: 65525
+  pl:
+    downloads:
+      frequency list:
+        size: 25070
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/freq/pl.freq.gz
+      plain text:
+        size: 90468
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 90919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 289583
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/pl.zip
+      xml:
+        size: 104047
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/raw/pl.zip
+    files: 1
+    sentences: 2824
+    tokens: 47845
+moses:
+  en-pl:
+    alignments: 2680
+    download size: 198490
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/moses/en-pl.txt.zip
+    source language tokens: 41479
+    target language tokens: 58965
+tmx:
+  en-pl:
+    download size: 228531
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/tmx/en-pl.tmx.gz
+    source language tokens: 41479
+    target language tokens: 58965
+    translation units: 2680

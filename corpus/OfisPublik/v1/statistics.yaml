@@ -1,0 +1,84 @@
+---
+bitexts:
+  br-fr:
+    alignments: 62418
+    downloads:
+      alignments:
+        size: 324130
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/xml/br-fr.xml.gz
+      smt phrase table:
+        size: 10139247
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/smt/br-fr.zip
+      source language:
+        size: 2234345
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/raw/br.zip
+      target language:
+        size: 2349368
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/raw/fr.zip
+      tokenized source language:
+        size: 6184279
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/xml/br.zip
+      tokenized target language:
+        size: 12847792
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/xml/fr.zip
+      word alignments:
+        size: 4056545
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/smt/br-fr.alg.zip
+    files: 139
+    source language tokens: 63780
+    target language tokens: 877064
+monolingual:
+  br:
+    downloads:
+      frequency list:
+        size: 208932
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/freq/br.freq.gz
+      plain text:
+        size: 1889858
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/mono/br.txt.gz
+      tokenized text:
+        size: 1902013
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/mono/br.tok.gz
+      tokenized xml:
+        size: 6184279
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/xml/br.zip
+      xml:
+        size: 2234345
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/raw/br.zip
+    files: 139
+    sentences: 63806
+    tokens: 1089596
+  fr:
+    downloads:
+      frequency list:
+        size: 206976
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/freq/fr.freq.gz
+      plain text:
+        size: 1995971
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 1991583
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 12847792
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/xml/fr.zip
+      xml:
+        size: 2349368
+        url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/raw/fr.zip
+    files: 139
+    sentences: 63549
+    tokens: 1034700
+moses:
+  br-fr:
+    alignments: 63422
+    download size: 3856983
+    download url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/moses/br-fr.txt.zip
+    source language tokens: 885751
+    target language tokens: 903947
+tmx:
+  br-fr:
+    download size: 4395863
+    download url: https://object.pouta.csc.fi/OPUS-OfisPublik/v1/tmx/br-fr.tmx.gz
+    source language tokens: 877064
+    target language tokens: 894695
+    translation units: 62418

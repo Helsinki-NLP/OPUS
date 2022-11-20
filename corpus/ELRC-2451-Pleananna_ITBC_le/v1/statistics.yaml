@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 10
+    downloads:
+      alignments:
+        size: 281
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 6529
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/smt/en-ga.zip
+      source language:
+        size: 8399
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/raw/en.zip
+      target language:
+        size: 8507
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/raw/ga.zip
+      tokenized source language:
+        size: 9462
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/xml/en.zip
+      tokenized target language:
+        size: 9700
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 177
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 4123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 11
+    target language tokens: 291
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 860
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/freq/en.freq.gz
+      plain text:
+        size: 975
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/mono/en.txt.gz
+      tokenized text:
+        size: 981
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 9462
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/xml/en.zip
+      xml:
+        size: 8399
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/raw/en.zip
+    files: 1
+    sentences: 12
+    tokens: 328
+  ga:
+    downloads:
+      frequency list:
+        size: 974
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/freq/ga.freq.gz
+      plain text:
+        size: 1076
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 1084
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 9700
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/xml/ga.zip
+      xml:
+        size: 8507
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/raw/ga.zip
+    files: 1
+    sentences: 13
+    tokens: 360
+moses:
+  en-ga:
+    alignments: 11
+    download size: 9252
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/moses/en-ga.txt.zip
+    source language tokens: 291
+    target language tokens: 324
+tmx:
+  en-ga:
+    download size: 2191
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2451-Pleananna_ITBC_le/v1/tmx/en-ga.tmx.gz
+    source language tokens: 291
+    target language tokens: 324
+    translation units: 11

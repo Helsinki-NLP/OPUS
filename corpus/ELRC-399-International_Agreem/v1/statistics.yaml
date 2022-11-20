@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-lv:
+    alignments: 40896
+    downloads:
+      alignments:
+        size: 314659
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/en-lv.xml.gz
+      source language:
+        size: 1967660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/raw/en.zip
+      target language:
+        size: 2112660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/raw/lv.zip
+      tokenized source language:
+        size: 6069489
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/en.zip
+      tokenized target language:
+        size: 5505491
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/lv.zip
+    files: 1
+    source language tokens: 40897
+    target language tokens: 774222
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 78525
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/freq/en.freq.gz
+      plain text:
+        size: 1806314
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1815381
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 6069489
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/en.zip
+      xml:
+        size: 1967660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/raw/en.zip
+    files: 1
+    sentences: 40948
+    tokens: 1150591
+  lv:
+    downloads:
+      frequency list:
+        size: 170618
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/freq/lv.freq.gz
+      plain text:
+        size: 1941964
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/mono/lv.txt.gz
+      tokenized text:
+        size: 1956537
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/mono/lv.tok.gz
+      tokenized xml:
+        size: 5505491
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/lv.zip
+      xml:
+        size: 2112660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/raw/lv.zip
+    files: 1
+    sentences: 42153
+    tokens: 925281
+moses:
+  en-lv:
+    alignments: 40897
+    download size: 3945323
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/moses/en-lv.txt.zip
+    source language tokens: 774222
+    target language tokens: 1035542
+tmx:
+  en-lv:
+    download size: 4355674
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/tmx/en-lv.tmx.gz
+    source language tokens: 774222
+    target language tokens: 1035542
+    translation units: 40897

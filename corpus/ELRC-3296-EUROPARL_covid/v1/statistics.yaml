@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-lt:
+    alignments: 552
+    downloads:
+      alignments:
+        size: 4148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/xml/en-lt.xml.gz
+      smt phrase table:
+        size: 235330
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/smt/en-lt.zip
+      source language:
+        size: 41123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/raw/en.zip
+      target language:
+        size: 42262
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/raw/lt.zip
+      tokenized source language:
+        size: 110701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/xml/en.zip
+      tokenized target language:
+        size: 101593
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/xml/lt.zip
+      word alignment dictionary:
+        size: 14592
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/dic/en-lt.dic.gz
+      word alignments:
+        size: 51826
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/smt/en-lt.alg.zip
+    files: 1
+    source language tokens: 553
+    target language tokens: 13851
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 12093
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/freq/en.freq.gz
+      plain text:
+        size: 36689
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/mono/en.txt.gz
+      tokenized text:
+        size: 37262
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 110701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/xml/en.zip
+      xml:
+        size: 41123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/raw/en.zip
+    files: 1
+    sentences: 554
+    tokens: 19364
+  lt:
+    downloads:
+      frequency list:
+        size: 17503
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/freq/lt.freq.gz
+      plain text:
+        size: 38220
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/mono/lt.txt.gz
+      tokenized text:
+        size: 38367
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/mono/lt.tok.gz
+      tokenized xml:
+        size: 101593
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/xml/lt.zip
+      xml:
+        size: 42262
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/raw/lt.zip
+    files: 1
+    sentences: 561
+    tokens: 15994
+moses:
+  en-lt:
+    alignments: 553
+    download size: 79530
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/moses/en-lt.txt.zip
+    source language tokens: 13851
+    target language tokens: 17543
+tmx:
+  en-lt:
+    download size: 87192
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3296-EUROPARL_covid/v1/tmx/en-lt.tmx.gz
+    source language tokens: 13851
+    target language tokens: 17543
+    translation units: 553

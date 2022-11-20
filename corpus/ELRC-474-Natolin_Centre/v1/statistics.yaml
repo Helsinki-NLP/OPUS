@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 2021
+    downloads:
+      alignments:
+        size: 16452
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/en-pl.xml.gz
+      source language:
+        size: 120721
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/raw/en.zip
+      target language:
+        size: 131608
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/raw/pl.zip
+      tokenized source language:
+        size: 375365
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/en.zip
+      tokenized target language:
+        size: 339415
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/pl.zip
+    files: 1
+    source language tokens: 2022
+    target language tokens: 48574
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 22719
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/freq/en.freq.gz
+      plain text:
+        size: 111417
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/mono/en.txt.gz
+      tokenized text:
+        size: 111804
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 375365
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/en.zip
+      xml:
+        size: 120721
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/raw/en.zip
+    files: 1
+    sentences: 2056
+    tokens: 71404
+  pl:
+    downloads:
+      frequency list:
+        size: 42081
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/freq/pl.freq.gz
+      plain text:
+        size: 121500
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 122013
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 339415
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/pl.zip
+      xml:
+        size: 131608
+        url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/raw/pl.zip
+    files: 1
+    sentences: 2101
+    tokens: 56522
+moses:
+  en-pl:
+    alignments: 2022
+    download size: 244678
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/moses/en-pl.txt.zip
+    source language tokens: 48574
+    target language tokens: 63083
+tmx:
+  en-pl:
+    download size: 263226
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/tmx/en-pl.tmx.gz
+    source language tokens: 48574
+    target language tokens: 63083
+    translation units: 2022

@@ -1,0 +1,78 @@
+---
+bitexts:
+  de-en:
+    alignments: 16474
+    downloads:
+      alignments:
+        size: 124768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/xml/de-en.xml.gz
+      source language:
+        size: 1085645
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/raw/de.zip
+      target language:
+        size: 964044
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/raw/en.zip
+      tokenized source language:
+        size: 2734297
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/xml/de.zip
+      tokenized target language:
+        size: 2727472
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/xml/en.zip
+    files: 1
+    source language tokens: 16475
+    target language tokens: 391637
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 147569
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/freq/de.freq.gz
+      plain text:
+        size: 1015886
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/mono/de.txt.gz
+      tokenized text:
+        size: 1021909
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 2734297
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/xml/de.zip
+      xml:
+        size: 1085645
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/raw/de.zip
+    files: 1
+    sentences: 16565
+    tokens: 448137
+  en:
+    downloads:
+      frequency list:
+        size: 66940
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/freq/en.freq.gz
+      plain text:
+        size: 897004
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/mono/en.txt.gz
+      tokenized text:
+        size: 901334
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 2727472
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/xml/en.zip
+      xml:
+        size: 964044
+        url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/raw/en.zip
+    files: 1
+    sentences: 16484
+    tokens: 485912
+moses:
+  de-en:
+    alignments: 16475
+    download size: 1997848
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/moses/de-en.txt.zip
+    source language tokens: 391637
+    target language tokens: 431356
+tmx:
+  de-en:
+    download size: 2167162
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-774-Presidency/v1/tmx/de-en.tmx.gz
+    source language tokens: 391637
+    target language tokens: 431356
+    translation units: 16475

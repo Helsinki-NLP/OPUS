@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-sv:
+    alignments: 1952
+    downloads:
+      alignments:
+        size: 15565
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/en-sv.xml.gz
+      source language:
+        size: 58455
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/raw/en.zip
+      target language:
+        size: 58029
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/raw/sv.zip
+      tokenized source language:
+        size: 167895
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/en.zip
+      tokenized target language:
+        size: 150722
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/sv.zip
+    files: 1
+    source language tokens: 1953
+    target language tokens: 24365
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 11400
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/freq/en.freq.gz
+      plain text:
+        size: 49077
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/mono/en.txt.gz
+      tokenized text:
+        size: 49261
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 167895
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/en.zip
+      xml:
+        size: 58455
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/raw/en.zip
+    files: 1
+    sentences: 1999
+    tokens: 31367
+  sv:
+    downloads:
+      frequency list:
+        size: 14612
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/freq/sv.freq.gz
+      plain text:
+        size: 48718
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 48917
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 150722
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/sv.zip
+      xml:
+        size: 58029
+        url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/raw/sv.zip
+    files: 1
+    sentences: 2000
+    tokens: 26548
+moses:
+  en-sv:
+    alignments: 1953
+    download size: 108878
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/moses/en-sv.txt.zip
+    source language tokens: 24365
+    target language tokens: 28357
+tmx:
+  en-sv:
+    download size: 117480
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/tmx/en-sv.tmx.gz
+    source language tokens: 24365
+    target language tokens: 28357
+    translation units: 1953

@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 1471
+    downloads:
+      alignments:
+        size: 11246
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/xml/da-en.xml.gz
+      source language:
+        size: 57884
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/raw/da.zip
+      target language:
+        size: 58467
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/raw/en.zip
+      tokenized source language:
+        size: 142123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/xml/da.zip
+      tokenized target language:
+        size: 149553
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/xml/en.zip
+    files: 1
+    source language tokens: 1472
+    target language tokens: 20423
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 21328
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/freq/da.freq.gz
+      plain text:
+        size: 50160
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/mono/da.txt.gz
+      tokenized text:
+        size: 50533
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 142123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/xml/da.zip
+      xml:
+        size: 57884
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/raw/da.zip
+    files: 1
+    sentences: 1486
+    tokens: 23762
+  en:
+    downloads:
+      frequency list:
+        size: 17416
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/freq/en.freq.gz
+      plain text:
+        size: 50800
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/mono/en.txt.gz
+      tokenized text:
+        size: 51039
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 149553
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/xml/en.zip
+      xml:
+        size: 58467
+        url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/raw/en.zip
+    files: 1
+    sentences: 1491
+    tokens: 25765
+moses:
+  da-en:
+    alignments: 1472
+    download size: 109950
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/moses/da-en.txt.zip
+    source language tokens: 20423
+    target language tokens: 22847
+tmx:
+  da-en:
+    download size: 114965
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-889-www.visitvejle.com/v1/tmx/da-en.tmx.gz
+    source language tokens: 20423
+    target language tokens: 22847
+    translation units: 1472

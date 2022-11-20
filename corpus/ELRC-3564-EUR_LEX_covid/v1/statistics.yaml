@@ -1,0 +1,87 @@
+---
+bitexts:
+  cs-en:
+    alignments: 22636
+    downloads:
+      alignments:
+        size: 173051
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/xml/cs-en.xml.gz
+      smt phrase table:
+        size: 7902458
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/smt/cs-en.zip
+      source language:
+        size: 1290668
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/raw/cs.zip
+      target language:
+        size: 1157919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/raw/en.zip
+      tokenized source language:
+        size: 3761834
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/xml/cs.zip
+      tokenized target language:
+        size: 3800919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/xml/en.zip
+      word alignment dictionary:
+        size: 302143
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/dic/cs-en.dic.gz
+      word alignments:
+        size: 2037726
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/smt/cs-en.alg.zip
+    files: 1
+    source language tokens: 22637
+    target language tokens: 550220
+monolingual:
+  cs:
+    downloads:
+      frequency list:
+        size: 124091
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/freq/cs.freq.gz
+      plain text:
+        size: 1200273
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/mono/cs.txt.gz
+      tokenized text:
+        size: 1203180
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/mono/cs.tok.gz
+      tokenized xml:
+        size: 3761834
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/xml/cs.zip
+      xml:
+        size: 1290668
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/raw/cs.zip
+    files: 1
+    sentences: 22687
+    tokens: 627036
+  en:
+    downloads:
+      frequency list:
+        size: 64518
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/freq/en.freq.gz
+      plain text:
+        size: 1070364
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1074329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 3800919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/xml/en.zip
+      xml:
+        size: 1157919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/raw/en.zip
+    files: 1
+    sentences: 22811
+    tokens: 701538
+moses:
+  cs-en:
+    alignments: 22637
+    download size: 2375728
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/moses/cs-en.txt.zip
+    source language tokens: 550220
+    target language tokens: 620421
+tmx:
+  cs-en:
+    download size: 2732483
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3564-EUR_LEX_covid/v1/tmx/cs-en.tmx.gz
+    source language tokens: 550220
+    target language tokens: 620421
+    translation units: 22637

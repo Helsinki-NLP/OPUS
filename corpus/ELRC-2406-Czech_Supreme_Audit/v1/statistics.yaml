@@ -1,0 +1,87 @@
+---
+bitexts:
+  cs-en:
+    alignments: 4770
+    downloads:
+      alignments:
+        size: 62888
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/xml/cs-en.xml.gz
+      smt phrase table:
+        size: 1061315
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/smt/cs-en.zip
+      source language:
+        size: 229684
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/raw/cs.zip
+      target language:
+        size: 210821
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/raw/en.zip
+      tokenized source language:
+        size: 582776
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/xml/cs.zip
+      tokenized target language:
+        size: 614867
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/xml/en.zip
+      word alignment dictionary:
+        size: 62132
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/dic/cs-en.dic.gz
+      word alignments:
+        size: 340610
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/smt/cs-en.alg.zip
+    files: 1
+    source language tokens: 4771
+    target language tokens: 84493
+monolingual:
+  cs:
+    downloads:
+      frequency list:
+        size: 54167
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/freq/cs.freq.gz
+      plain text:
+        size: 208749
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/mono/cs.txt.gz
+      tokenized text:
+        size: 209171
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/mono/cs.tok.gz
+      tokenized xml:
+        size: 582776
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/xml/cs.zip
+      xml:
+        size: 229684
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/raw/cs.zip
+    files: 1
+    sentences: 4822
+    tokens: 94389
+  en:
+    downloads:
+      frequency list:
+        size: 29230
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/freq/en.freq.gz
+      plain text:
+        size: 190993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/mono/en.txt.gz
+      tokenized text:
+        size: 191627
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 614867
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/xml/en.zip
+      xml:
+        size: 210821
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/raw/en.zip
+    files: 1
+    sentences: 4787
+    tokens: 113216
+moses:
+  cs-en:
+    alignments: 4771
+    download size: 425709
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/moses/cs-en.txt.zip
+    source language tokens: 84493
+    target language tokens: 102646
+tmx:
+  cs-en:
+    download size: 471904
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2406-Czech_Supreme_Audit/v1/tmx/cs-en.tmx.gz
+    source language tokens: 84493
+    target language tokens: 102646
+    translation units: 4771

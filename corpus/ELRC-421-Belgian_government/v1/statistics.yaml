@@ -1,0 +1,78 @@
+---
+bitexts:
+  fr-nl:
+    alignments: 1667
+    downloads:
+      alignments:
+        size: 13847
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/xml/fr-nl.xml.gz
+      source language:
+        size: 64647
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/raw/fr.zip
+      target language:
+        size: 63154
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/raw/nl.zip
+      tokenized source language:
+        size: 182625
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/xml/fr.zip
+      tokenized target language:
+        size: 164792
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/xml/nl.zip
+    files: 1
+    source language tokens: 1777
+    target language tokens: 25285
+monolingual:
+  fr:
+    downloads:
+      frequency list:
+        size: 16892
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/freq/fr.freq.gz
+      plain text:
+        size: 56313
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 56463
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 182625
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/xml/fr.zip
+      xml:
+        size: 64647
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/raw/fr.zip
+    files: 1
+    sentences: 1789
+    tokens: 33541
+  nl:
+    downloads:
+      frequency list:
+        size: 18234
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/freq/nl.freq.gz
+      plain text:
+        size: 54784
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/mono/nl.txt.gz
+      tokenized text:
+        size: 54706
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/mono/nl.tok.gz
+      tokenized xml:
+        size: 164792
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/xml/nl.zip
+      xml:
+        size: 63154
+        url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/raw/nl.zip
+    files: 1
+    sentences: 1795
+    tokens: 29593
+moses:
+  fr-nl:
+    alignments: 1778
+    download size: 120673
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/moses/fr-nl.txt.zip
+    source language tokens: 26699
+    target language tokens: 28275
+tmx:
+  fr-nl:
+    download size: 120781
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-421-Belgian_government/v1/tmx/fr-nl.tmx.gz
+    source language tokens: 25285
+    target language tokens: 26838
+    translation units: 1667

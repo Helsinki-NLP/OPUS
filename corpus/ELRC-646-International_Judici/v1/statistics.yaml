@@ -1,0 +1,164 @@
+---
+bitexts:
+  el-en:
+    alignments: 222
+    downloads:
+      alignments:
+        size: 3955
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el-en.xml.gz
+      source language:
+        size: 13730
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/el.zip
+      target language:
+        size: 10593
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/en.zip
+      tokenized source language:
+        size: 30134
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el.zip
+      tokenized target language:
+        size: 25541
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/en.zip
+    files: 1
+    source language tokens: 288
+    target language tokens: 1290
+  el-fr:
+    alignments: 251
+    downloads:
+      alignments:
+        size: 5067
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el-fr.xml.gz
+      source language:
+        size: 13730
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/el.zip
+      target language:
+        size: 11815
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/fr.zip
+      tokenized source language:
+        size: 30134
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el.zip
+      tokenized target language:
+        size: 29659
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/fr.zip
+    files: 1
+    source language tokens: 358
+    target language tokens: 1474
+  en-fr:
+    alignments: 228
+    downloads:
+      alignments:
+        size: 4002
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/en-fr.xml.gz
+      source language:
+        size: 10593
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/en.zip
+      target language:
+        size: 11815
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/fr.zip
+      tokenized source language:
+        size: 25541
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/en.zip
+      tokenized target language:
+        size: 29659
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/fr.zip
+    files: 1
+    source language tokens: 287
+    target language tokens: 1337
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 3402
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/freq/el.freq.gz
+      plain text:
+        size: 4942
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/el.txt.gz
+      tokenized text:
+        size: 4971
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 30134
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el.zip
+      xml:
+        size: 13730
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/el.zip
+    files: 2
+    sentences: 697
+    tokens: 4391
+  en:
+    downloads:
+      frequency list:
+        size: 1939
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/freq/en.freq.gz
+      plain text:
+        size: 3345
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/en.txt.gz
+      tokenized text:
+        size: 3383
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 25541
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/en.zip
+      xml:
+        size: 10593
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/en.zip
+    files: 2
+    sentences: 615
+    tokens: 4201
+  fr:
+    downloads:
+      frequency list:
+        size: 2395
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/freq/fr.freq.gz
+      plain text:
+        size: 3928
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 3970
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 29659
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/fr.zip
+      xml:
+        size: 11815
+        url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/fr.zip
+    files: 2
+    sentences: 686
+    tokens: 4862
+moses:
+  el-en:
+    alignments: 289
+    download size: 10610
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/moses/el-en.txt.zip
+    source language tokens: 1487
+    target language tokens: 1522
+  el-fr:
+    alignments: 359
+    download size: 11902
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/moses/el-fr.txt.zip
+    source language tokens: 1764
+    target language tokens: 1890
+  en-fr:
+    alignments: 288
+    download size: 9630
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/moses/en-fr.txt.zip
+    source language tokens: 1518
+    target language tokens: 1595
+tmx:
+  el-en:
+    download size: 8488
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/tmx/el-en.tmx.gz
+    source language tokens: 1290
+    target language tokens: 1318
+    translation units: 222
+  el-fr:
+    download size: 10279
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/tmx/el-fr.tmx.gz
+    source language tokens: 1474
+    target language tokens: 1595
+    translation units: 251
+  en-fr:
+    download size: 7013
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/tmx/en-fr.tmx.gz
+    source language tokens: 1337
+    target language tokens: 1416
+    translation units: 228

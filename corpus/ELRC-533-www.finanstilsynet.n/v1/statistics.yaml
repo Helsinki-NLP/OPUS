@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 1406
+    downloads:
+      alignments:
+        size: 10323
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/xml/en-nb.xml.gz
+      source language:
+        size: 61000
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/raw/en.zip
+      target language:
+        size: 58522
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/raw/nb.zip
+      tokenized source language:
+        size: 172413
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/xml/en.zip
+      tokenized target language:
+        size: 155233
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/xml/nb.zip
+    files: 1
+    source language tokens: 1444
+    target language tokens: 23216
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 13944
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/freq/en.freq.gz
+      plain text:
+        size: 53888
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/mono/en.txt.gz
+      tokenized text:
+        size: 54029
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 172413
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/xml/en.zip
+      xml:
+        size: 61000
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/raw/en.zip
+    files: 1
+    sentences: 1445
+    tokens: 30831
+  nb:
+    downloads:
+      frequency list:
+        size: 17968
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/freq/nb.freq.gz
+      plain text:
+        size: 51412
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 51660
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 155233
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/xml/nb.zip
+      xml:
+        size: 58522
+        url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/raw/nb.zip
+    files: 1
+    sentences: 1444
+    tokens: 26811
+moses:
+  en-nb:
+    alignments: 1445
+    download size: 114210
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/moses/en-nb.txt.zip
+    source language tokens: 23432
+    target language tokens: 27570
+tmx:
+  en-nb:
+    download size: 123027
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-533-www.finanstilsynet.n/v1/tmx/en-nb.tmx.gz
+    source language tokens: 23216
+    target language tokens: 27286
+    translation units: 1406

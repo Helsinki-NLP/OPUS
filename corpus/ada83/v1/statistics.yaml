@@ -1,0 +1,93 @@
+---
+bitexts:
+  en-ru:
+    alignments: 3967
+    downloads:
+      alignments:
+        size: 32424
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/xml/en-ru.xml.gz
+      smt phrase table:
+        size: 1113134
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/smt/en-ru.zip
+      source language:
+        size: 124691
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/raw/en.zip
+      target language:
+        size: 165398
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/raw/ru.zip
+      tokenized source language:
+        size: 640669
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/xml/en.zip
+      tokenized target language:
+        size: 424011
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/xml/ru.zip
+      word alignment dictionary:
+        size: 88844
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/dic/en-ru.dic.gz
+      word alignments:
+        size: 237254
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/smt/en-ru.alg.zip
+    files: 1
+    source language tokens: 4122
+    target language tokens: 57597
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 12259
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/freq/en.freq.gz
+      parsed:
+        size: 1164660
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/parsed/en.zip
+      plain text:
+        size: 107854
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/mono/en.txt.gz
+      tokenized text:
+        size: 108127
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 640669
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/xml/en.zip
+      xml:
+        size: 124691
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/raw/en.zip
+    files: 1
+    sentences: 4183
+    tokens: 87065
+  ru:
+    downloads:
+      frequency list:
+        size: 29513
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/freq/ru.freq.gz
+      parsed:
+        size: 1211737
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/parsed/ru.zip
+      plain text:
+        size: 147728
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/mono/ru.txt.gz
+      tokenized text:
+        size: 148473
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/mono/ru.tok.gz
+      tokenized xml:
+        size: 424011
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/xml/ru.zip
+      xml:
+        size: 165398
+        url: https://object.pouta.csc.fi/OPUS-ada83/v1/raw/ru.zip
+    files: 1
+    sentences: 4238
+    tokens: 70916
+moses:
+  en-ru:
+    alignments: 4122
+    download size: 278237
+    download url: https://object.pouta.csc.fi/OPUS-ada83/v1/moses/en-ru.txt.zip
+    source language tokens: 58772
+    target language tokens: 78058
+tmx:
+  en-ru:
+    download size: 302460
+    download url: https://object.pouta.csc.fi/OPUS-ada83/v1/tmx/en-ru.tmx.gz
+    source language tokens: 57597
+    target language tokens: 76337
+    translation units: 3967

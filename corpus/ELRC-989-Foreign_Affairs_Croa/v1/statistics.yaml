@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-hr:
+    alignments: 3102
+    downloads:
+      alignments:
+        size: 23809
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/xml/en-hr.xml.gz
+      source language:
+        size: 151492
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/raw/en.zip
+      target language:
+        size: 164754
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/raw/hr.zip
+      tokenized source language:
+        size: 480736
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/xml/en.zip
+      tokenized target language:
+        size: 467146
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/xml/hr.zip
+    files: 1
+    source language tokens: 3103
+    target language tokens: 70545
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 24928
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/freq/en.freq.gz
+      plain text:
+        size: 137568
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/mono/en.txt.gz
+      tokenized text:
+        size: 138141
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 480736
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/xml/en.zip
+      xml:
+        size: 151492
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/raw/en.zip
+    files: 1
+    sentences: 3137
+    tokens: 90773
+  hr:
+    downloads:
+      frequency list:
+        size: 44301
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/freq/hr.freq.gz
+      plain text:
+        size: 150559
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 151219
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 467146
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/xml/hr.zip
+      xml:
+        size: 164754
+        url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/raw/hr.zip
+    files: 1
+    sentences: 3146
+    tokens: 82016
+moses:
+  en-hr:
+    alignments: 3103
+    download size: 304887
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/moses/en-hr.txt.zip
+    source language tokens: 70545
+    target language tokens: 81601
+tmx:
+  en-hr:
+    download size: 329485
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-989-Foreign_Affairs_Croa/v1/tmx/en-hr.tmx.gz
+    source language tokens: 70545
+    target language tokens: 81601
+    translation units: 3103

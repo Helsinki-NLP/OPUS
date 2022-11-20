@@ -1,0 +1,93 @@
+---
+bitexts:
+  es-eu:
+    alignments: 610796
+    downloads:
+      alignments:
+        size: 5086406
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/xml/es-eu.xml.gz
+      smt phrase table:
+        size: 112941737
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/smt/es-eu.zip
+      source language:
+        size: 24516613
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/raw/es.zip
+      target language:
+        size: 22741744
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/raw/eu.zip
+      tokenized source language:
+        size: 95643139
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/xml/es.zip
+      tokenized target language:
+        size: 55418657
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/xml/eu.zip
+      word alignments:
+        size: 21511577
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/smt/es-eu.alg.zip
+    files: 1
+    source language tokens: 642347
+    target language tokens: 7102795
+monolingual:
+  es:
+    downloads:
+      frequency list:
+        size: 979529
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/freq/es.freq.gz
+      parsed:
+        size: 158186919
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/parsed/es.zip
+      plain text:
+        size: 21617794
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/mono/es.txt.gz
+      tokenized text:
+        size: 21728503
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 95643139
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/xml/es.zip
+      xml:
+        size: 24516613
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/raw/es.zip
+    files: 1
+    sentences: 661548
+    tokens: 11196688
+  eu:
+    downloads:
+      frequency list:
+        size: 1654066
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/freq/eu.freq.gz
+      parsed:
+        size: 128712569
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/parsed/eu.zip
+      plain text:
+        size: 19557272
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/mono/eu.txt.gz
+      tokenized text:
+        size: 19709852
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/mono/eu.tok.gz
+      tokenized xml:
+        size: 55418657
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/xml/eu.zip
+      xml:
+        size: 22741744
+        url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/raw/eu.zip
+    files: 1
+    sentences: 685795
+    tokens: 8892988
+moses:
+  es-eu:
+    alignments: 642347
+    download size: 44468751
+    download url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/moses/es-eu.txt.zip
+    source language tokens: 7323094
+    target language tokens: 10018221
+tmx:
+  '*':
+    download size: 0
+    download url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/tmx/*.tmx.gz
+  es-eu:
+    download size: 44951500
+    download url: https://object.pouta.csc.fi/OPUS-Elhuyar/v1/tmx/es-eu.tmx.gz
+    source language tokens: 7102795
+    target language tokens: 9715355
+    translation units: 610796

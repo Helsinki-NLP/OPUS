@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-sv:
+    alignments: 10226
+    downloads:
+      alignments:
+        size: 76628
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/en-sv.xml.gz
+      source language:
+        size: 335332
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/raw/en.zip
+      target language:
+        size: 324376
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/raw/sv.zip
+      tokenized source language:
+        size: 1058443
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/en.zip
+      tokenized target language:
+        size: 879504
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/sv.zip
+    files: 1
+    source language tokens: 10227
+    target language tokens: 140313
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 30111
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/freq/en.freq.gz
+      plain text:
+        size: 295374
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/mono/en.txt.gz
+      tokenized text:
+        size: 296427
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1058443
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/en.zip
+      xml:
+        size: 335332
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/raw/en.zip
+    files: 1
+    sentences: 10266
+    tokens: 206010
+  sv:
+    downloads:
+      frequency list:
+        size: 46313
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/freq/sv.freq.gz
+      plain text:
+        size: 286440
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 287499
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 879504
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/sv.zip
+      xml:
+        size: 324376
+        url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/raw/sv.zip
+    files: 1
+    sentences: 10226
+    tokens: 155664
+moses:
+  en-sv:
+    alignments: 10227
+    download size: 637026
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/moses/en-sv.txt.zip
+    source language tokens: 140313
+    target language tokens: 184446
+tmx:
+  en-sv:
+    download size: 682817
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/tmx/en-sv.tmx.gz
+    source language tokens: 140313
+    target language tokens: 184446
+    translation units: 10227

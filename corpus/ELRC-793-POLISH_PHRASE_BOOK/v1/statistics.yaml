@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 1805
+    downloads:
+      alignments:
+        size: 21530
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/xml/en-pl.xml.gz
+      source language:
+        size: 28376
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/raw/en.zip
+      target language:
+        size: 31431
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/raw/pl.zip
+      tokenized source language:
+        size: 64489
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/xml/en.zip
+      tokenized target language:
+        size: 64168
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/xml/pl.zip
+    files: 1
+    source language tokens: 1878
+    target language tokens: 7875
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 8536
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/freq/en.freq.gz
+      plain text:
+        size: 19973
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/mono/en.txt.gz
+      tokenized text:
+        size: 20045
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 64489
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/xml/en.zip
+      xml:
+        size: 28376
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/raw/en.zip
+    files: 1
+    sentences: 1878
+    tokens: 10132
+  pl:
+    downloads:
+      frequency list:
+        size: 13898
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/freq/pl.freq.gz
+      plain text:
+        size: 23043
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 23115
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 64168
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/xml/pl.zip
+      xml:
+        size: 31431
+        url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/raw/pl.zip
+    files: 1
+    sentences: 1878
+    tokens: 8924
+moses:
+  en-pl:
+    alignments: 1879
+    download size: 54074
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/moses/en-pl.txt.zip
+    source language tokens: 8001
+    target language tokens: 9244
+tmx:
+  en-pl:
+    download size: 52540
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-793-POLISH_PHRASE_BOOK/v1/tmx/en-pl.tmx.gz
+    source language tokens: 7875
+    target language tokens: 9102
+    translation units: 1805

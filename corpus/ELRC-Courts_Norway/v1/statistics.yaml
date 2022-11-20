@@ -1,0 +1,164 @@
+---
+bitexts:
+  en-nb:
+    alignments: 1448
+    downloads:
+      alignments:
+        size: 12482
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/en-nb.xml.gz
+      source language:
+        size: 54300
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/en.zip
+      target language:
+        size: 44578
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/nb.zip
+      tokenized source language:
+        size: 149425
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/en.zip
+      tokenized target language:
+        size: 112278
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/nb.zip
+    files: 1
+    source language tokens: 1562
+    target language tokens: 17733
+  en-nn:
+    alignments: 1375
+    downloads:
+      alignments:
+        size: 11790
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/en-nn.xml.gz
+      source language:
+        size: 54300
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/en.zip
+      target language:
+        size: 43429
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/nn.zip
+      tokenized source language:
+        size: 149425
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/en.zip
+      tokenized target language:
+        size: 108991
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/nn.zip
+    files: 1
+    source language tokens: 1484
+    target language tokens: 17156
+  nb-nn:
+    alignments: 1137
+    downloads:
+      alignments:
+        size: 9822
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/nb-nn.xml.gz
+      source language:
+        size: 44578
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/nb.zip
+      target language:
+        size: 43429
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/nn.zip
+      tokenized source language:
+        size: 112278
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/nb.zip
+      tokenized target language:
+        size: 108991
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/nn.zip
+    files: 1
+    source language tokens: 1230
+    target language tokens: 13730
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 12091
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/freq/en.freq.gz
+      plain text:
+        size: 46375
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/mono/en.txt.gz
+      tokenized text:
+        size: 46534
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 149425
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/en.zip
+      xml:
+        size: 54300
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/en.zip
+    files: 1
+    sentences: 1698
+    tokens: 27652
+  nb:
+    downloads:
+      frequency list:
+        size: 13819
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/freq/nb.freq.gz
+      plain text:
+        size: 37487
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 37662
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 112278
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/nb.zip
+      xml:
+        size: 44578
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/nb.zip
+    files: 1
+    sentences: 1414
+    tokens: 19827
+  nn:
+    downloads:
+      frequency list:
+        size: 13786
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/freq/nn.freq.gz
+      plain text:
+        size: 36701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/mono/nn.txt.gz
+      tokenized text:
+        size: 36866
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/mono/nn.tok.gz
+      tokenized xml:
+        size: 108991
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/xml/nn.zip
+      xml:
+        size: 43429
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/raw/nn.zip
+    files: 1
+    sentences: 1342
+    tokens: 19201
+moses:
+  en-nb:
+    alignments: 1563
+    download size: 87170
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/moses/en-nb.txt.zip
+    source language tokens: 18916
+    target language tokens: 22904
+  en-nn:
+    alignments: 1485
+    download size: 86932
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/moses/en-nn.txt.zip
+    source language tokens: 18481
+    target language tokens: 21998
+  nb-nn:
+    alignments: 1231
+    download size: 68934
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/moses/nb-nn.txt.zip
+    source language tokens: 14663
+    target language tokens: 15137
+tmx:
+  en-nb:
+    download size: 89730
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/tmx/en-nb.tmx.gz
+    source language tokens: 17733
+    target language tokens: 21367
+    translation units: 1448
+  en-nn:
+    download size: 87091
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/tmx/en-nn.tmx.gz
+    source language tokens: 17156
+    target language tokens: 20354
+    translation units: 1375
+  nb-nn:
+    download size: 56946
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Courts_Norway/v1/tmx/nb-nn.tmx.gz
+    source language tokens: 13730
+    target language tokens: 14168
+    translation units: 1137

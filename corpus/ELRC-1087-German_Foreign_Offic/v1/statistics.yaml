@@ -1,0 +1,87 @@
+---
+bitexts:
+  de-fr:
+    alignments: 24930
+    downloads:
+      alignments:
+        size: 192003
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/xml/de-fr.xml.gz
+      smt phrase table:
+        size: 4895384
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/smt/de-fr.zip
+      source language:
+        size: 1091796
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/raw/de.zip
+      target language:
+        size: 1134788
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/raw/fr.zip
+      tokenized source language:
+        size: 2662620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/xml/de.zip
+      tokenized target language:
+        size: 3267174
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/xml/fr.zip
+      word alignment dictionary:
+        size: 203943
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/dic/de-fr.dic.gz
+      word alignments:
+        size: 1779588
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/smt/de-fr.alg.zip
+    files: 1
+    source language tokens: 24931
+    target language tokens: 380883
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 156570
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/freq/de.freq.gz
+      plain text:
+        size: 987785
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/mono/de.txt.gz
+      tokenized text:
+        size: 992673
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 2662620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/xml/de.zip
+      xml:
+        size: 1091796
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/raw/de.zip
+    files: 1
+    sentences: 25387
+    tokens: 433646
+  fr:
+    downloads:
+      frequency list:
+        size: 95727
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/freq/fr.freq.gz
+      plain text:
+        size: 1033135
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 1033907
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 3267174
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/xml/fr.zip
+      xml:
+        size: 1134788
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/raw/fr.zip
+    files: 1
+    sentences: 25299
+    tokens: 582315
+moses:
+  de-fr:
+    alignments: 24932
+    download size: 2143070
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/moses/de-fr.txt.zip
+    source language tokens: 380931
+    target language tokens: 486300
+tmx:
+  de-fr:
+    download size: 2328601
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1087-German_Foreign_Offic/v1/tmx/de-fr.tmx.gz
+    source language tokens: 380883
+    target language tokens: 486227
+    translation units: 24930

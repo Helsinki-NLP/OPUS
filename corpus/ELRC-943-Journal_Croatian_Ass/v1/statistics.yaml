@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-hr:
+    alignments: 18477
+    downloads:
+      alignments:
+        size: 253287
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/xml/en-hr.xml.gz
+      source language:
+        size: 727960
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/raw/en.zip
+      target language:
+        size: 757784
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/raw/hr.zip
+      tokenized source language:
+        size: 2092405
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/xml/en.zip
+      tokenized target language:
+        size: 2030620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/xml/hr.zip
+    files: 1
+    source language tokens: 18478
+    target language tokens: 285792
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 85796
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/freq/en.freq.gz
+      plain text:
+        size: 655405
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/mono/en.txt.gz
+      tokenized text:
+        size: 659757
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 2092405
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/xml/en.zip
+      xml:
+        size: 727960
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/raw/en.zip
+    files: 1
+    sentences: 19099
+    tokens: 379025
+  hr:
+    downloads:
+      frequency list:
+        size: 126772
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/freq/hr.freq.gz
+      plain text:
+        size: 684245
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 688528
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 2030620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/xml/hr.zip
+      xml:
+        size: 757784
+        url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/raw/hr.zip
+    files: 1
+    sentences: 18989
+    tokens: 348543
+moses:
+  en-hr:
+    alignments: 18478
+    download size: 1438851
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/moses/en-hr.txt.zip
+    source language tokens: 285792
+    target language tokens: 321328
+tmx:
+  en-hr:
+    download size: 1458691
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-943-Journal_Croatian_Ass/v1/tmx/en-hr.tmx.gz
+    source language tokens: 285792
+    target language tokens: 321328
+    translation units: 18478

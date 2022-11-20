@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-nb:
+    alignments: 126393
+    downloads:
+      alignments:
+        size: 992872
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/en-nb.xml.gz
+      smt phrase table:
+        size: 27245870
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/smt/en-nb.zip
+      source language:
+        size: 4652877
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/raw/en.zip
+      target language:
+        size: 4784174
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/raw/nb.zip
+      tokenized source language:
+        size: 12071734
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/en.zip
+      tokenized target language:
+        size: 9607532
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/nb.zip
+      word alignment dictionary:
+        size: 893636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/dic/en-nb.dic.gz
+      word alignments:
+        size: 3741161
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/smt/en-nb.alg.zip
+    files: 1
+    source language tokens: 129439
+    target language tokens: 1539455
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 142196
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/freq/en.freq.gz
+      plain text:
+        size: 4124539
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/mono/en.txt.gz
+      tokenized text:
+        size: 4126323
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 12071734
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/en.zip
+      xml:
+        size: 4652877
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/raw/en.zip
+    files: 1
+    sentences: 130052
+    tokens: 2033638
+  nb:
+    downloads:
+      frequency list:
+        size: 282058
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/freq/nb.freq.gz
+      plain text:
+        size: 4233879
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 3460729
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 9607532
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/nb.zip
+      xml:
+        size: 4784174
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/raw/nb.zip
+    files: 1
+    sentences: 107103
+    tokens: 1541123
+moses:
+  en-nb:
+    alignments: 129437
+    download size: 8941690
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/moses/en-nb.txt.zip
+    source language tokens: 1573665
+    target language tokens: 1773505
+tmx:
+  en-nb:
+    download size: 9586049
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/tmx/en-nb.tmx.gz
+    source language tokens: 1539455
+    target language tokens: 1734638
+    translation units: 126393

@@ -1,0 +1,78 @@
+---
+bitexts:
+  de-en:
+    alignments: 8399
+    downloads:
+      alignments:
+        size: 66149
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/xml/de-en.xml.gz
+      source language:
+        size: 374368
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/raw/de.zip
+      target language:
+        size: 333117
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/raw/en.zip
+      tokenized source language:
+        size: 910745
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/xml/de.zip
+      tokenized target language:
+        size: 929105
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/xml/en.zip
+    files: 1
+    source language tokens: 8408
+    target language tokens: 129996
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 88044
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/freq/de.freq.gz
+      plain text:
+        size: 339418
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/mono/de.txt.gz
+      tokenized text:
+        size: 340600
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 910745
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/xml/de.zip
+      xml:
+        size: 374368
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/raw/de.zip
+    files: 1
+    sentences: 8576
+    tokens: 147852
+  en:
+    downloads:
+      frequency list:
+        size: 43177
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/freq/en.freq.gz
+      plain text:
+        size: 298125
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/mono/en.txt.gz
+      tokenized text:
+        size: 299198
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 929105
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/xml/en.zip
+      xml:
+        size: 333117
+        url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/raw/en.zip
+    files: 1
+    sentences: 8686
+    tokens: 165716
+moses:
+  de-en:
+    alignments: 8409
+    download size: 678611
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/moses/de-en.txt.zip
+    source language tokens: 130062
+    target language tokens: 146905
+tmx:
+  de-en:
+    download size: 734929
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-634-BMI_Brochures_2011/v1/tmx/de-en.tmx.gz
+    source language tokens: 129996
+    target language tokens: 146820
+    translation units: 8399

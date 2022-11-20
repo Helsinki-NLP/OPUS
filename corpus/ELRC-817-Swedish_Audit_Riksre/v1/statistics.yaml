@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-sv:
+    alignments: 28967
+    downloads:
+      alignments:
+        size: 231959
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/en-sv.xml.gz
+      source language:
+        size: 1158697
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/raw/en.zip
+      target language:
+        size: 1154318
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/raw/sv.zip
+      tokenized source language:
+        size: 3428280
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/en.zip
+      tokenized target language:
+        size: 2966650
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/sv.zip
+    files: 1
+    source language tokens: 30351
+    target language tokens: 447679
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 51149
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/freq/en.freq.gz
+      plain text:
+        size: 1037371
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1040434
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 3428280
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/en.zip
+      xml:
+        size: 1158697
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/raw/en.zip
+    files: 1
+    sentences: 30831
+    tokens: 637956
+  sv:
+    downloads:
+      frequency list:
+        size: 126447
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/freq/sv.freq.gz
+      plain text:
+        size: 1030025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 1033053
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 2966650
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/sv.zip
+      xml:
+        size: 1154318
+        url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/raw/sv.zip
+    files: 1
+    sentences: 30608
+    tokens: 512333
+moses:
+  en-sv:
+    alignments: 30352
+    download size: 2218351
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/moses/en-sv.txt.zip
+    source language tokens: 467175
+    target language tokens: 580068
+tmx:
+  en-sv:
+    download size: 2370144
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/tmx/en-sv.tmx.gz
+    source language tokens: 447679
+    target language tokens: 555045
+    translation units: 28967

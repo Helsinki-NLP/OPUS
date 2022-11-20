@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-no:
+    alignments: 2000
+    downloads:
+      alignments:
+        size: 14904
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/en-no.xml.gz
+      source language:
+        size: 81159
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/raw/en.zip
+      target language:
+        size: 79344
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/raw/no.zip
+      tokenized source language:
+        size: 207142
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/en.zip
+      tokenized target language:
+        size: 192076
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/no.zip
+    files: 2
+    source language tokens: 2001
+    target language tokens: 27173
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 17836
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/freq/en.freq.gz
+      plain text:
+        size: 68667
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 69051
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 207142
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/en.zip
+      xml:
+        size: 81159
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/raw/en.zip
+    files: 2
+    sentences: 2011
+    tokens: 35022
+  no:
+    downloads:
+      frequency list:
+        size: 23765
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/freq/no.freq.gz
+      plain text:
+        size: 66891
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/mono/no.txt.gz
+      tokenized text:
+        size: 67486
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/mono/no.tok.gz
+      tokenized xml:
+        size: 192076
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/no.zip
+      xml:
+        size: 79344
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/raw/no.zip
+    files: 2
+    sentences: 2010
+    tokens: 30978
+moses:
+  en-no:
+    alignments: 2003
+    download size: 143524
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/moses/en-no.txt.zip
+    source language tokens: 27200
+    target language tokens: 31470
+tmx:
+  en-no:
+    download size: 159696
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/tmx/en-no.tmx.gz
+    source language tokens: 27173
+    target language tokens: 31436
+    translation units: 2000

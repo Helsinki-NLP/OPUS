@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-lv:
+    alignments: 2000
+    downloads:
+      alignments:
+        size: 14874
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/xml/en-lv.xml.gz
+      source language:
+        size: 89080
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/raw/en.zip
+      target language:
+        size: 91905
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/raw/lv.zip
+      tokenized source language:
+        size: 226429
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/xml/en.zip
+      tokenized target language:
+        size: 208656
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/xml/lv.zip
+    files: 2
+    source language tokens: 2001
+    target language tokens: 26862
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 19208
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/freq/en.freq.gz
+      plain text:
+        size: 77114
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/mono/en.txt.gz
+      tokenized text:
+        size: 77440
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 226429
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/xml/en.zip
+      xml:
+        size: 89080
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/raw/en.zip
+    files: 2
+    sentences: 2002
+    tokens: 38329
+  lv:
+    downloads:
+      frequency list:
+        size: 30920
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/freq/lv.freq.gz
+      plain text:
+        size: 79492
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/mono/lv.txt.gz
+      tokenized text:
+        size: 79957
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/mono/lv.tok.gz
+      tokenized xml:
+        size: 208656
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/xml/lv.zip
+      xml:
+        size: 91905
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/raw/lv.zip
+    files: 2
+    sentences: 2011
+    tokens: 31572
+moses:
+  en-lv:
+    alignments: 2002
+    download size: 164166
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/moses/en-lv.txt.zip
+    source language tokens: 26862
+    target language tokens: 33996
+tmx:
+  en-lv:
+    download size: 184642
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4994-Latvian_Financial_MT/v1/tmx/en-lv.tmx.gz
+    source language tokens: 26862
+    target language tokens: 33996
+    translation units: 2001

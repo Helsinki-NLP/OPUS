@@ -1,0 +1,78 @@
+---
+bitexts:
+  de-en:
+    alignments: 11550
+    downloads:
+      alignments:
+        size: 91892
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/de-en.xml.gz
+      source language:
+        size: 479384
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/raw/de.zip
+      target language:
+        size: 461405
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/raw/en.zip
+      tokenized source language:
+        size: 1191678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/de.zip
+      tokenized target language:
+        size: 1364999
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/en.zip
+    files: 1
+    source language tokens: 11555
+    target language tokens: 172420
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 103710
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/freq/de.freq.gz
+      plain text:
+        size: 431278
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/mono/de.txt.gz
+      tokenized text:
+        size: 433003
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 1191678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/de.zip
+      xml:
+        size: 479384
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/raw/de.zip
+    files: 1
+    sentences: 11921
+    tokens: 195324
+  en:
+    downloads:
+      frequency list:
+        size: 48217
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/freq/en.freq.gz
+      plain text:
+        size: 414395
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/mono/en.txt.gz
+      tokenized text:
+        size: 415949
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1364999
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/en.zip
+      xml:
+        size: 461405
+        url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/raw/en.zip
+    files: 1
+    sentences: 11989
+    tokens: 249353
+moses:
+  de-en:
+    alignments: 11556
+    download size: 905299
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/moses/de-en.txt.zip
+    source language tokens: 172468
+    target language tokens: 222926
+tmx:
+  de-en:
+    download size: 974305
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/tmx/de-en.tmx.gz
+    source language tokens: 172420
+    target language tokens: 222840
+    translation units: 11550

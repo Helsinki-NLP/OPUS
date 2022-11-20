@@ -1,0 +1,87 @@
+---
+bitexts:
+  de-en:
+    alignments: 111275
+    downloads:
+      alignments:
+        size: 839040
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/xml/de-en.xml.gz
+      smt phrase table:
+        size: 20812318
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/smt/de-en.zip
+      source language:
+        size: 7022701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/raw/de.zip
+      target language:
+        size: 6104362
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/raw/en.zip
+      tokenized source language:
+        size: 17013916
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/xml/de.zip
+      tokenized target language:
+        size: 16103084
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/xml/en.zip
+      word alignment dictionary:
+        size: 699075
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/dic/de-en.dic.gz
+      word alignments:
+        size: 8612117
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/smt/de-en.alg.zip
+    files: 1
+    source language tokens: 111276
+    target language tokens: 2359556
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 656313
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/freq/de.freq.gz
+      plain text:
+        size: 6533819
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/mono/de.txt.gz
+      tokenized text:
+        size: 6569830
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 17013916
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/xml/de.zip
+      xml:
+        size: 7022701
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/raw/de.zip
+    files: 1
+    sentences: 112203
+    tokens: 2727752
+  en:
+    downloads:
+      frequency list:
+        size: 255812
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/freq/en.freq.gz
+      plain text:
+        size: 5647525
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/mono/en.txt.gz
+      tokenized text:
+        size: 5675812
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 16103084
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/xml/en.zip
+      xml:
+        size: 6104362
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/raw/en.zip
+    files: 1
+    sentences: 111288
+    tokens: 2772567
+moses:
+  de-en:
+    alignments: 111276
+    download size: 12702115
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/moses/de-en.txt.zip
+    source language tokens: 2359556
+    target language tokens: 2425635
+tmx:
+  de-en:
+    download size: 13485640
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1117-CORDIS_News/v1/tmx/de-en.tmx.gz
+    source language tokens: 2359556
+    target language tokens: 2425635
+    translation units: 111276

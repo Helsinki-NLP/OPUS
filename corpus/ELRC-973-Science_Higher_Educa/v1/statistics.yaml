@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 774
+    downloads:
+      alignments:
+        size: 9266
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/xml/en-pl.xml.gz
+      source language:
+        size: 38584
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/raw/en.zip
+      target language:
+        size: 42228
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/raw/pl.zip
+      tokenized source language:
+        size: 97910
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/xml/en.zip
+      tokenized target language:
+        size: 94320
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/xml/pl.zip
+    files: 1
+    source language tokens: 775
+    target language tokens: 12538
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 12825
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/freq/en.freq.gz
+      plain text:
+        size: 33896
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/mono/en.txt.gz
+      tokenized text:
+        size: 34045
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 97910
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/xml/en.zip
+      xml:
+        size: 38584
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/raw/en.zip
+    files: 1
+    sentences: 779
+    tokens: 16880
+  pl:
+    downloads:
+      frequency list:
+        size: 20688
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/freq/pl.freq.gz
+      plain text:
+        size: 37264
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 37386
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 94320
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/xml/pl.zip
+      xml:
+        size: 42228
+        url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/raw/pl.zip
+    files: 1
+    sentences: 788
+    tokens: 14252
+moses:
+  en-pl:
+    alignments: 775
+    download size: 76454
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/moses/en-pl.txt.zip
+    source language tokens: 12538
+    target language tokens: 15126
+tmx:
+  en-pl:
+    download size: 79248
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-973-Science_Higher_Educa/v1/tmx/en-pl.tmx.gz
+    source language tokens: 12538
+    target language tokens: 15126
+    translation units: 775

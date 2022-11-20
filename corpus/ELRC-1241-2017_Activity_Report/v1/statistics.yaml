@@ -1,0 +1,87 @@
+---
+bitexts:
+  de-en:
+    alignments: 1020
+    downloads:
+      alignments:
+        size: 7850
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/xml/de-en.xml.gz
+      smt phrase table:
+        size: 266216
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/smt/de-en.zip
+      source language:
+        size: 58359
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/raw/de.zip
+      target language:
+        size: 56762
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/raw/en.zip
+      tokenized source language:
+        size: 133890
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/xml/de.zip
+      tokenized target language:
+        size: 148504
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/xml/en.zip
+      word alignment dictionary:
+        size: 17715
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/dic/de-en.dic.gz
+      word alignments:
+        size: 83386
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/smt/de-en.alg.zip
+    files: 1
+    source language tokens: 1021
+    target language tokens: 18359
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 25031
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/freq/de.freq.gz
+      plain text:
+        size: 52347
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/mono/de.txt.gz
+      tokenized text:
+        size: 52594
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 133890
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/xml/de.zip
+      xml:
+        size: 58359
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/raw/de.zip
+    files: 1
+    sentences: 1051
+    tokens: 20991
+  en:
+    downloads:
+      frequency list:
+        size: 17381
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/freq/en.freq.gz
+      plain text:
+        size: 50824
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/mono/en.txt.gz
+      tokenized text:
+        size: 51026
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 148504
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/xml/en.zip
+      xml:
+        size: 56762
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/raw/en.zip
+    files: 1
+    sentences: 1049
+    tokens: 25801
+moses:
+  de-en:
+    alignments: 1021
+    download size: 109830
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/moses/de-en.txt.zip
+    source language tokens: 18359
+    target language tokens: 23158
+tmx:
+  de-en:
+    download size: 114297
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1241-2017_Activity_Report/v1/tmx/de-en.tmx.gz
+    source language tokens: 18359
+    target language tokens: 23158
+    translation units: 1021

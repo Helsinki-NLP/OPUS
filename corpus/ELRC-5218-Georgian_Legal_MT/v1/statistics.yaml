@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ka:
+    alignments: 1000
+    downloads:
+      alignments:
+        size: 7553
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/en-ka.xml.gz
+      source language:
+        size: 70689
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/raw/en.zip
+      target language:
+        size: 92339
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/raw/ka.zip
+      tokenized source language:
+        size: 166067
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/en.zip
+      tokenized target language:
+        size: 166414
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/ka.zip
+    files: 1
+    source language tokens: 1001
+    target language tokens: 16950
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 30131
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/freq/en.freq.gz
+      plain text:
+        size: 64186
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/mono/en.txt.gz
+      tokenized text:
+        size: 64552
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 166067
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/en.zip
+      xml:
+        size: 70689
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/raw/en.zip
+    files: 1
+    sentences: 1022
+    tokens: 27078
+  ka:
+    downloads:
+      frequency list:
+        size: 44505
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/freq/ka.freq.gz
+      plain text:
+        size: 86642
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/mono/ka.txt.gz
+      tokenized text:
+        size: 86758
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/mono/ka.tok.gz
+      tokenized xml:
+        size: 166414
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/ka.zip
+      xml:
+        size: 92339
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/raw/ka.zip
+    files: 1
+    sentences: 1010
+    tokens: 21545
+moses:
+  en-ka:
+    alignments: 1001
+    download size: 157505
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/moses/en-ka.txt.zip
+    source language tokens: 16950
+    target language tokens: 23061
+tmx:
+  en-ka:
+    download size: 169465
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/tmx/en-ka.tmx.gz
+    source language tokens: 16950
+    target language tokens: 23061
+    translation units: 1001

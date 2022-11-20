@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-xh:
+    alignments: 150453
+    downloads:
+      alignments:
+        size: 1158410
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/xml/en-xh.xml.gz
+      smt phrase table:
+        size: 22954511
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/smt/en-xh.zip
+      source language:
+        size: 4443061
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/raw/en.zip
+      target language:
+        size: 4635073
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/raw/xh.zip
+      tokenized source language:
+        size: 28060926
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/xml/en.zip
+      tokenized target language:
+        size: 10795449
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/xml/xh.zip
+      word alignments:
+        size: 3708328
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/smt/en-xh.alg.zip
+    files: 40
+    source language tokens: 155119
+    target language tokens: 1381162
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 196331
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/freq/en.freq.gz
+      parsed:
+        size: 34401732
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/parsed/en.zip
+      plain text:
+        size: 3660239
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/mono/en.txt.gz
+      tokenized text:
+        size: 3678943
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 28060926
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/xml/en.zip
+      xml:
+        size: 4443061
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/raw/en.zip
+    files: 40
+    sentences: 169706
+    tokens: 2376555
+  xh:
+    downloads:
+      frequency list:
+        size: 954869
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/freq/xh.freq.gz
+      plain text:
+        size: 3894950
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/mono/xh.txt.gz
+      tokenized text:
+        size: 3897345
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/mono/xh.tok.gz
+      tokenized xml:
+        size: 10795449
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/xml/xh.zip
+      xml:
+        size: 4635073
+        url: https://object.pouta.csc.fi/OPUS-memat/v1/raw/xh.zip
+    files: 40
+    sentences: 164469
+    tokens: 1657800
+moses:
+  en-xh:
+    alignments: 154763
+    download size: 8382865
+    download url: https://object.pouta.csc.fi/OPUS-memat/v1/moses/en-xh.txt.zip
+    source language tokens: 1393304
+    target language tokens: 2071641
+tmx:
+  en-xh:
+    download size: 8957620
+    download url: https://object.pouta.csc.fi/OPUS-memat/v1/tmx/en-xh.tmx.gz
+    source language tokens: 1381162
+    target language tokens: 2055667
+    translation units: 150453

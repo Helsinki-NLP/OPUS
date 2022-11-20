@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-sv:
+    alignments: 496
+    downloads:
+      alignments:
+        size: 3605
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/xml/en-sv.xml.gz
+      smt phrase table:
+        size: 117819
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/smt/en-sv.zip
+      source language:
+        size: 19560
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/raw/en.zip
+      target language:
+        size: 20087
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/raw/sv.zip
+      tokenized source language:
+        size: 50575
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/xml/en.zip
+      tokenized target language:
+        size: 48063
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/xml/sv.zip
+      word alignment dictionary:
+        size: 9830
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/dic/en-sv.dic.gz
+      word alignments:
+        size: 26522
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/smt/en-sv.alg.zip
+    files: 1
+    source language tokens: 497
+    target language tokens: 7018
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 6631
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/freq/en.freq.gz
+      plain text:
+        size: 15992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/mono/en.txt.gz
+      tokenized text:
+        size: 16055
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 50575
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/xml/en.zip
+      xml:
+        size: 19560
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/raw/en.zip
+    files: 1
+    sentences: 497
+    tokens: 8841
+  sv:
+    downloads:
+      frequency list:
+        size: 8143
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/freq/sv.freq.gz
+      plain text:
+        size: 16441
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 16564
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 48063
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/xml/sv.zip
+      xml:
+        size: 20087
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/raw/sv.zip
+    files: 1
+    sentences: 499
+    tokens: 7979
+moses:
+  en-sv:
+    alignments: 497
+    download size: 36321
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/moses/en-sv.txt.zip
+    source language tokens: 7018
+    target language tokens: 7658
+tmx:
+  en-sv:
+    download size: 37642
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2752-vaccination/v1/tmx/en-sv.tmx.gz
+    source language tokens: 7018
+    target language tokens: 7658
+    translation units: 497

@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ga:
+    alignments: 68377
+    downloads:
+      alignments:
+        size: 631450
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/en-ga.xml.gz
+      source language:
+        size: 1796841
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/raw/en.zip
+      target language:
+        size: 1961512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/raw/ga.zip
+      tokenized source language:
+        size: 6477734
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/en.zip
+      tokenized target language:
+        size: 6832519
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/ga.zip
+    files: 1
+    source language tokens: 81517
+    target language tokens: 1206586
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 89473
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/freq/en.freq.gz
+      plain text:
+        size: 1505166
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1505182
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 6477734
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/en.zip
+      xml:
+        size: 1796841
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/raw/en.zip
+    files: 1
+    sentences: 81816
+    tokens: 1324063
+  ga:
+    downloads:
+      frequency list:
+        size: 135517
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/freq/ga.freq.gz
+      plain text:
+        size: 1645540
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 1645644
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 6832519
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/ga.zip
+      xml:
+        size: 1961512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/raw/ga.zip
+    files: 1
+    sentences: 85144
+    tokens: 1352360
+moses:
+  en-ga:
+    alignments: 81518
+    download size: 3561267
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/moses/en-ga.txt.zip
+    source language tokens: 1323583
+    target language tokens: 1351957
+tmx:
+  en-ga:
+    download size: 3498191
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/tmx/en-ga.tmx.gz
+    source language tokens: 1206586
+    target language tokens: 1231771
+    translation units: 68377

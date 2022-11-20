@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-fr:
+    alignments: 21858378
+    downloads:
+      alignments:
+        size: 177738952
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/xml/en-fr.xml.gz
+      source language:
+        size: 1309506903
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/raw/en.zip
+      target language:
+        size: 1471577517
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/raw/fr.zip
+      tokenized source language:
+        size: 5541321864
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/xml/en.zip
+      tokenized target language:
+        size: 6441275141
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/xml/fr.zip
+    files: 226
+    source language tokens: 22520376
+    target language tokens: 559026084
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 18412998
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/freq/en.freq.gz
+      plain text:
+        size: 1209392130
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/mono/en.txt.gz
+      tokenized text:
+        size: 1213713071
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/mono/en.tok.gz
+      tokenized xml:
+        size: 5541321864
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/xml/en.zip
+      xml:
+        size: 1309506903
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/raw/en.zip
+    files: 226
+    sentences: 23710571
+    tokens: 652967272
+  fr:
+    downloads:
+      frequency list:
+        size: 17188755
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/freq/fr.freq.gz
+      plain text:
+        size: 1369285834
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/mono/fr.txt.gz
+      tokenized text:
+        size: 1375254594
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/mono/fr.tok.gz
+      tokenized xml:
+        size: 6441275141
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/xml/fr.zip
+      xml:
+        size: 1471577517
+        url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/raw/fr.zip
+    files: 226
+    sentences: 23835214
+    tokens: 781604035
+moses:
+  en-fr:
+    alignments: 22519904
+    download size: 2701536198
+    download url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/moses/en-fr.txt.zip
+    source language tokens: 575801684
+    target language tokens: 672222429
+tmx:
+  en-fr:
+    download size: 2706813997
+    download url: https://object.pouta.csc.fi/OPUS-giga-fren/v2/tmx/en-fr.tmx.gz
+    source language tokens: 559026084
+    target language tokens: 652224823
+    translation units: 21858378

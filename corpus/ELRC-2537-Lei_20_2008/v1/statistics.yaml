@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-pt:
+    alignments: 39
+    downloads:
+      alignments:
+        size: 506
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/xml/en-pt.xml.gz
+      smt phrase table:
+        size: 23311
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/smt/en-pt.zip
+      source language:
+        size: 4364
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/raw/en.zip
+      target language:
+        size: 4406
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/raw/pt.zip
+      tokenized source language:
+        size: 8817
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/xml/en.zip
+      tokenized target language:
+        size: 8833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/xml/pt.zip
+      word alignment dictionary:
+        size: 1745
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/dic/en-pt.dic.gz
+      word alignments:
+        size: 8871
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/smt/en-pt.alg.zip
+    files: 1
+    source language tokens: 40
+    target language tokens: 1076
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 1712
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/freq/en.freq.gz
+      plain text:
+        size: 2397
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2413
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 8817
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/xml/en.zip
+      xml:
+        size: 4364
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/raw/en.zip
+    files: 1
+    sentences: 49
+    tokens: 1275
+  pt:
+    downloads:
+      frequency list:
+        size: 1787
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/freq/pt.freq.gz
+      plain text:
+        size: 2440
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/mono/pt.txt.gz
+      tokenized text:
+        size: 2459
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/mono/pt.tok.gz
+      tokenized xml:
+        size: 8833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/xml/pt.zip
+      xml:
+        size: 4406
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/raw/pt.zip
+    files: 1
+    sentences: 47
+    tokens: 1276
+moses:
+  en-pt:
+    alignments: 40
+    download size: 6608
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/moses/en-pt.txt.zip
+    source language tokens: 1076
+    target language tokens: 1107
+tmx:
+  en-pt:
+    download size: 5064
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2537-Lei_20_2008/v1/tmx/en-pt.tmx.gz
+    source language tokens: 1076
+    target language tokens: 1107
+    translation units: 40

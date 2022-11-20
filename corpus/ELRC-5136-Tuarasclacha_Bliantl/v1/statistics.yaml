@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ga:
+    alignments: 1036
+    downloads:
+      alignments:
+        size: 10116
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/en-ga.xml.gz
+      source language:
+        size: 66711
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/raw/en.zip
+      target language:
+        size: 76207
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/raw/ga.zip
+      tokenized source language:
+        size: 166918
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/en.zip
+      tokenized target language:
+        size: 200450
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/ga.zip
+    files: 1
+    source language tokens: 1037
+    target language tokens: 24504
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 18586
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/freq/en.freq.gz
+      plain text:
+        size: 58945
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/mono/en.txt.gz
+      tokenized text:
+        size: 59274
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 166918
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/en.zip
+      xml:
+        size: 66711
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/raw/en.zip
+    files: 1
+    sentences: 1434
+    tokens: 28274
+  ga:
+    downloads:
+      frequency list:
+        size: 24019
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/freq/ga.freq.gz
+      plain text:
+        size: 67924
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 68183
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 200450
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/ga.zip
+      xml:
+        size: 76207
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/raw/ga.zip
+    files: 1
+    sentences: 1472
+    tokens: 34360
+moses:
+  en-ga:
+    alignments: 1037
+    download size: 135751
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/moses/en-ga.txt.zip
+    source language tokens: 24504
+    target language tokens: 30586
+tmx:
+  en-ga:
+    download size: 137848
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/tmx/en-ga.tmx.gz
+    source language tokens: 24504
+    target language tokens: 30586
+    translation units: 1037

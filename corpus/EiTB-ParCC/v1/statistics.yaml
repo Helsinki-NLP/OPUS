@@ -1,0 +1,93 @@
+---
+bitexts:
+  es-eu:
+    alignments: 637161
+    downloads:
+      alignments:
+        size: 4908622
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/xml/es-eu.xml.gz
+      smt phrase table:
+        size: 89799624
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/smt/es-eu.zip
+      source language:
+        size: 30868543
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/raw/es.zip
+      target language:
+        size: 29299505
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/raw/eu.zip
+      tokenized source language:
+        size: 80545336
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/xml/es.zip
+      tokenized target language:
+        size: 70972883
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/xml/eu.zip
+      word alignment dictionary:
+        size: 2975006
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/dic/es-eu.dic.gz
+      word alignments:
+        size: 36379988
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/smt/es-eu.alg.zip
+    files: 1
+    source language tokens: 637183
+    target language tokens: 8642515
+monolingual:
+  es:
+    downloads:
+      frequency list:
+        size: 957973
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/freq/es.freq.gz
+      parsed:
+        size: 254956009
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/parsed/es.zip
+      plain text:
+        size: 27886122
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/mono/es.txt.gz
+      tokenized text:
+        size: 28053005
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 80545336
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/xml/es.zip
+      xml:
+        size: 30868543
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/raw/es.zip
+    files: 1
+    sentences: 648329
+    tokens: 13339091
+  eu:
+    downloads:
+      frequency list:
+        size: 1453976
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/freq/eu.freq.gz
+      parsed:
+        size: 193783116
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/parsed/eu.zip
+      plain text:
+        size: 26227341
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/mono/eu.txt.gz
+      tokenized text:
+        size: 26383497
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/mono/eu.tok.gz
+      tokenized xml:
+        size: 70972883
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/xml/eu.zip
+      xml:
+        size: 29299505
+        url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/raw/eu.zip
+    files: 1
+    sentences: 659549
+    tokens: 10838115
+moses:
+  es-eu:
+    alignments: 637182
+    download size: 57244346
+    download url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/moses/es-eu.txt.zip
+    source language tokens: 8642692
+    target language tokens: 11240216
+tmx:
+  es-eu:
+    download size: 58806444
+    download url: https://object.pouta.csc.fi/OPUS-EiTB-ParCC/v1/tmx/es-eu.tmx.gz
+    source language tokens: 8642515
+    target language tokens: 11239976
+    translation units: 637161

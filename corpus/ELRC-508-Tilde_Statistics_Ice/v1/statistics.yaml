@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 2426
+    downloads:
+      alignments:
+        size: 19027
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/xml/en-is.xml.gz
+      source language:
+        size: 89017
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/raw/en.zip
+      target language:
+        size: 97580
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/raw/is.zip
+      tokenized source language:
+        size: 249568
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/xml/en.zip
+      tokenized target language:
+        size: 241625
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/xml/is.zip
+    files: 1
+    source language tokens: 2427
+    target language tokens: 35738
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 17526
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/freq/en.freq.gz
+      plain text:
+        size: 77947
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/mono/en.txt.gz
+      tokenized text:
+        size: 78332
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 249568
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/xml/en.zip
+      xml:
+        size: 89017
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/raw/en.zip
+    files: 1
+    sentences: 2501
+    tokens: 46022
+  is:
+    downloads:
+      frequency list:
+        size: 31273
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/freq/is.freq.gz
+      plain text:
+        size: 86566
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/mono/is.txt.gz
+      tokenized text:
+        size: 87028
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 241625
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/xml/is.zip
+      xml:
+        size: 97580
+        url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/raw/is.zip
+    files: 1
+    sentences: 2461
+    tokens: 40596
+moses:
+  en-is:
+    alignments: 2427
+    download size: 178588
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/moses/en-is.txt.zip
+    source language tokens: 35738
+    target language tokens: 40729
+tmx:
+  en-is:
+    download size: 193901
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-508-Tilde_Statistics_Ice/v1/tmx/en-is.tmx.gz
+    source language tokens: 35738
+    target language tokens: 40729
+    translation units: 2427

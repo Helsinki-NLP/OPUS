@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 28133
+    downloads:
+      alignments:
+        size: 375836
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/xml/en-pl.xml.gz
+      source language:
+        size: 1298014
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/raw/en.zip
+      target language:
+        size: 1470462
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/raw/pl.zip
+      tokenized source language:
+        size: 3500493
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/xml/en.zip
+      tokenized target language:
+        size: 3447199
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/xml/pl.zip
+    files: 1
+    source language tokens: 28134
+    target language tokens: 463072
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 106620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/freq/en.freq.gz
+      plain text:
+        size: 1186378
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1192292
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 3500493
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/xml/en.zip
+      xml:
+        size: 1298014
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/raw/en.zip
+    files: 1
+    sentences: 28257
+    tokens: 619491
+  pl:
+    downloads:
+      frequency list:
+        size: 234455
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/freq/pl.freq.gz
+      plain text:
+        size: 1353114
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 1358372
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 3447199
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/xml/pl.zip
+      xml:
+        size: 1470462
+        url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/raw/pl.zip
+    files: 1
+    sentences: 28270
+    tokens: 534956
+moses:
+  en-pl:
+    alignments: 28134
+    download size: 2680246
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/moses/en-pl.txt.zip
+    source language tokens: 463072
+    target language tokens: 546604
+tmx:
+  en-pl:
+    download size: 2883406
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-975-Science_Poland/v1/tmx/en-pl.tmx.gz
+    source language tokens: 463072
+    target language tokens: 546604
+    translation units: 28134

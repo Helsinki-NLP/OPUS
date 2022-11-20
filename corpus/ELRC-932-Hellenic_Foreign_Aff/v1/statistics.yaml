@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 3429
+    downloads:
+      alignments:
+        size: 46656
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/xml/el-en.xml.gz
+      source language:
+        size: 237604
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/raw/el.zip
+      target language:
+        size: 172485
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/raw/en.zip
+      tokenized source language:
+        size: 538260
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/xml/el.zip
+      tokenized target language:
+        size: 485309
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/xml/en.zip
+    files: 1
+    source language tokens: 3470
+    target language tokens: 74198
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 59832
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/freq/el.freq.gz
+      plain text:
+        size: 222420
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/mono/el.txt.gz
+      tokenized text:
+        size: 223133
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 538260
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/xml/el.zip
+      xml:
+        size: 237604
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/raw/el.zip
+    files: 1
+    sentences: 3549
+    tokens: 84095
+  en:
+    downloads:
+      frequency list:
+        size: 29472
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/freq/en.freq.gz
+      plain text:
+        size: 157020
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/mono/en.txt.gz
+      tokenized text:
+        size: 157751
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 485309
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/xml/en.zip
+      xml:
+        size: 172485
+        url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/raw/en.zip
+    files: 1
+    sentences: 3498
+    tokens: 88443
+moses:
+  el-en:
+    alignments: 3471
+    download size: 398665
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/moses/el-en.txt.zip
+    source language tokens: 74321
+    target language tokens: 77818
+tmx:
+  el-en:
+    download size: 444326
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-932-Hellenic_Foreign_Aff/v1/tmx/el-en.tmx.gz
+    source language tokens: 74198
+    target language tokens: 77675
+    translation units: 3429

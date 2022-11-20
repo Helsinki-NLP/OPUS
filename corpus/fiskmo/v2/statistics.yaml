@@ -1,0 +1,93 @@
+---
+bitexts:
+  fi-sv:
+    alignments: 2099976
+    downloads:
+      alignments:
+        size: 30007566
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/xml/fi-sv.xml.gz
+      smt phrase table:
+        size: 261277464
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/smt/fi-sv.zip
+      source language:
+        size: 77574438
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/raw/fi.zip
+      target language:
+        size: 74747760
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/raw/sv.zip
+      tokenized source language:
+        size: 166348505
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/xml/fi.zip
+      tokenized target language:
+        size: 172531236
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/xml/sv.zip
+      word alignment dictionary:
+        size: 3618333
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/dic/fi-sv.dic.gz
+      word alignments:
+        size: 74267454
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/smt/fi-sv.alg.zip
+    files: 42
+    source language tokens: 2100000
+    target language tokens: 18792496
+monolingual:
+  fi:
+    downloads:
+      frequency list:
+        size: 5013613
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/freq/fi.freq.gz
+      parsed:
+        size: 411576861
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/parsed/fi.zip
+      plain text:
+        size: 68205041
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/mono/fi.txt.gz
+      tokenized text:
+        size: 68667773
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/mono/fi.tok.gz
+      tokenized xml:
+        size: 166348505
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/xml/fi.zip
+      xml:
+        size: 77574438
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/raw/fi.zip
+    files: 42
+    sentences: 2116472
+    tokens: 22832559
+  sv:
+    downloads:
+      frequency list:
+        size: 4191962
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/freq/sv.freq.gz
+      parsed:
+        size: 437722657
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/parsed/sv.zip
+      plain text:
+        size: 65410833
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/mono/sv.txt.gz
+      tokenized text:
+        size: 65842569
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/mono/sv.tok.gz
+      tokenized xml:
+        size: 172531236
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/xml/sv.zip
+      xml:
+        size: 74747760
+        url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/raw/sv.zip
+    files: 42
+    sentences: 2120127
+    tokens: 26126862
+moses:
+  fi-sv:
+    alignments: 2100000
+    download size: 144858927
+    download url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/moses/fi-sv.txt.zip
+    source language tokens: 18792599
+    target language tokens: 22568900
+tmx:
+  fi-sv:
+    download size: 154651425
+    download url: https://object.pouta.csc.fi/OPUS-fiskmo/v2/tmx/fi-sv.tmx.gz
+    source language tokens: 18792496
+    target language tokens: 22568776
+    translation units: 2099976

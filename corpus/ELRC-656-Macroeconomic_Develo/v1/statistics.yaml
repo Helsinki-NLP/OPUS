@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 150
+    downloads:
+      alignments:
+        size: 2074
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/xml/el-en.xml.gz
+      source language:
+        size: 9340
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/raw/el.zip
+      target language:
+        size: 7678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/raw/en.zip
+      tokenized source language:
+        size: 19013
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/xml/el.zip
+      tokenized target language:
+        size: 16930
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/xml/en.zip
+    files: 1
+    source language tokens: 151
+    target language tokens: 2139
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 4624
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/freq/el.freq.gz
+      plain text:
+        size: 6873
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/mono/el.txt.gz
+      tokenized text:
+        size: 6894
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 19013
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/xml/el.zip
+      xml:
+        size: 9340
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/raw/el.zip
+    files: 1
+    sentences: 167
+    tokens: 2644
+  en:
+    downloads:
+      frequency list:
+        size: 3215
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/freq/en.freq.gz
+      plain text:
+        size: 5152
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/mono/en.txt.gz
+      tokenized text:
+        size: 5208
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 16930
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/xml/en.zip
+      xml:
+        size: 7678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/raw/en.zip
+    files: 1
+    sentences: 171
+    tokens: 2609
+moses:
+  el-en:
+    alignments: 151
+    download size: 14458
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/moses/el-en.txt.zip
+    source language tokens: 2139
+    target language tokens: 2208
+tmx:
+  el-en:
+    download size: 13133
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-656-Macroeconomic_Develo/v1/tmx/el-en.tmx.gz
+    source language tokens: 2139
+    target language tokens: 2208
+    translation units: 151

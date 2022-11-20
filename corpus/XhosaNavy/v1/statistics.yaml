@@ -1,0 +1,90 @@
+---
+bitexts:
+  en-xh:
+    alignments: 49692
+    downloads:
+      alignments:
+        size: 388619
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/xml/en-xh.xml.gz
+      smt phrase table:
+        size: 6888272
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/smt/en-xh.zip
+      source language:
+        size: 1650064
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/raw/en.zip
+      target language:
+        size: 1786061
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/raw/xh.zip
+      tokenized source language:
+        size: 10057222
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/xml/en.zip
+      tokenized target language:
+        size: 4013757
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/xml/xh.zip
+      word alignment dictionary:
+        size: 396449
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/dic/en-xh.dic.gz
+      word alignments:
+        size: 1291601
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/smt/en-xh.alg.zip
+    files: 1
+    source language tokens: 50098
+    target language tokens: 534431
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 110979
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/freq/en.freq.gz
+      parsed:
+        size: 12434877
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/parsed/en.zip
+      plain text:
+        size: 1435223
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1440594
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 10057222
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/xml/en.zip
+      xml:
+        size: 1650064
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/raw/en.zip
+    files: 1
+    sentences: 52591
+    tokens: 841080
+  xh:
+    downloads:
+      frequency list:
+        size: 471013
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/freq/xh.freq.gz
+      plain text:
+        size: 1578001
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/mono/xh.txt.gz
+      tokenized text:
+        size: 1572303
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/mono/xh.tok.gz
+      tokenized xml:
+        size: 4013757
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/xml/xh.zip
+      xml:
+        size: 1786061
+        url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/raw/xh.zip
+    files: 1
+    sentences: 52120
+    tokens: 606402
+moses:
+  en-xh:
+    alignments: 49981
+    download size: 3263865
+    download url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/moses/en-xh.txt.zip
+    source language tokens: 536307
+    target language tokens: 751906
+tmx:
+  en-xh:
+    download size: 3526058
+    download url: https://object.pouta.csc.fi/OPUS-XhosaNavy/v1/tmx/en-xh.tmx.gz
+    source language tokens: 534431
+    target language tokens: 749280
+    translation units: 49692

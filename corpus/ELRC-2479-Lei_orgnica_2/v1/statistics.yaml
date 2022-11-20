@@ -1,0 +1,149 @@
+---
+bitexts:
+  en-es:
+    alignments: 2
+    downloads:
+      alignments:
+        size: 214
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/en-es.xml.gz
+      smt phrase table:
+        size: 3130
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/smt/en-es.zip
+      source language:
+        size: 8453
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/raw/en.zip
+      target language:
+        size: 1932
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/raw/es.zip
+      tokenized source language:
+        size: 19052
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/en.zip
+      tokenized target language:
+        size: 2053
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/es.zip
+      word alignment dictionary:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/dic/en-es.dic.gz
+      word alignments:
+        size: 2773
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/smt/en-es.alg.zip
+    files: 1
+    source language tokens: 3
+    target language tokens: 27
+  en-pt:
+    alignments: 133
+    downloads:
+      alignments:
+        size: 1275
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/en-pt.xml.gz
+      smt phrase table:
+        size: 37688
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/smt/en-pt.zip
+      source language:
+        size: 8453
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/raw/en.zip
+      target language:
+        size: 7949
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/raw/pt.zip
+      tokenized source language:
+        size: 19052
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/en.zip
+      tokenized target language:
+        size: 17352
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/pt.zip
+      word alignment dictionary:
+        size: 3362
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/dic/en-pt.dic.gz
+      word alignments:
+        size: 14092
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/smt/en-pt.alg.zip
+    files: 1
+    source language tokens: 134
+    target language tokens: 2446
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 3068
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/freq/en.freq.gz
+      plain text:
+        size: 5650
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/mono/en.txt.gz
+      tokenized text:
+        size: 5656
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 19052
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/en.zip
+      xml:
+        size: 8453
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/raw/en.zip
+    files: 2
+    sentences: 175
+    tokens: 3137
+  es:
+    downloads:
+      frequency list:
+        size: 157
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/freq/es.freq.gz
+      plain text:
+        size: 139
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/mono/es.txt.gz
+      tokenized text:
+        size: 142
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 2053
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/es.zip
+      xml:
+        size: 1932
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/raw/es.zip
+    files: 1
+    sentences: 2
+    tokens: 34
+  pt:
+    downloads:
+      frequency list:
+        size: 3389
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/freq/pt.freq.gz
+      plain text:
+        size: 5501
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/mono/pt.txt.gz
+      tokenized text:
+        size: 5526
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/mono/pt.tok.gz
+      tokenized xml:
+        size: 17352
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/xml/pt.zip
+      xml:
+        size: 7949
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/raw/pt.zip
+    files: 1
+    sentences: 165
+    tokens: 2792
+moses:
+  en-es:
+    alignments: 3
+    download size: 1853
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/moses/en-es.txt.zip
+    source language tokens: 27
+    target language tokens: 27
+  en-pt:
+    alignments: 134
+    download size: 13417
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/moses/en-pt.txt.zip
+    source language tokens: 2446
+    target language tokens: 2817
+tmx:
+  en-es:
+    download size: 420
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/tmx/en-es.tmx.gz
+    source language tokens: 27
+    target language tokens: 27
+    translation units: 3
+  en-pt:
+    download size: 11831
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2479-Lei_orgnica_2/v1/tmx/en-pt.tmx.gz
+    source language tokens: 2446
+    target language tokens: 2817
+    translation units: 134

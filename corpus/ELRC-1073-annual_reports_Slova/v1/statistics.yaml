@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-sk:
+    alignments: 6007
+    downloads:
+      alignments:
+        size: 83574
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/xml/en-sk.xml.gz
+      smt phrase table:
+        size: 1540511
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/smt/en-sk.zip
+      source language:
+        size: 290052
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/raw/en.zip
+      target language:
+        size: 322416
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/raw/sk.zip
+      tokenized source language:
+        size: 821808
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/xml/en.zip
+      tokenized target language:
+        size: 788849
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/xml/sk.zip
+      word alignment dictionary:
+        size: 116142
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/dic/en-sk.dic.gz
+      word alignments:
+        size: 432385
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/smt/en-sk.alg.zip
+    files: 1
+    source language tokens: 6008
+    target language tokens: 109532
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 40543
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/freq/en.freq.gz
+      plain text:
+        size: 264154
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/mono/en.txt.gz
+      tokenized text:
+        size: 265122
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 821808
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/xml/en.zip
+      xml:
+        size: 290052
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/raw/en.zip
+    files: 1
+    sentences: 6331
+    tokens: 148450
+  sk:
+    downloads:
+      frequency list:
+        size: 83644
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/freq/sk.freq.gz
+      plain text:
+        size: 294258
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/mono/sk.txt.gz
+      tokenized text:
+        size: 295187
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/mono/sk.tok.gz
+      tokenized xml:
+        size: 788849
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/xml/sk.zip
+      xml:
+        size: 322416
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/raw/sk.zip
+    files: 1
+    sentences: 6470
+    tokens: 124383
+moses:
+  en-sk:
+    alignments: 6008
+    download size: 590098
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/moses/en-sk.txt.zip
+    source language tokens: 109532
+    target language tokens: 133775
+tmx:
+  en-sk:
+    download size: 642769
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1073-annual_reports_Slova/v1/tmx/en-sk.tmx.gz
+    source language tokens: 109532
+    target language tokens: 133775
+    translation units: 6008

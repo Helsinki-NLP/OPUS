@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 1636
+    downloads:
+      alignments:
+        size: 20442
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/xml/en-pl.xml.gz
+      source language:
+        size: 93527
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/raw/en.zip
+      target language:
+        size: 104528
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/raw/pl.zip
+      tokenized source language:
+        size: 271986
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/xml/en.zip
+      tokenized target language:
+        size: 259449
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/xml/pl.zip
+    files: 1
+    source language tokens: 1637
+    target language tokens: 37249
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 20376
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/freq/en.freq.gz
+      plain text:
+        size: 85598
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/mono/en.txt.gz
+      tokenized text:
+        size: 85851
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 271986
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/xml/en.zip
+      xml:
+        size: 93527
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/raw/en.zip
+    files: 1
+    sentences: 1662
+    tokens: 49535
+  pl:
+    downloads:
+      frequency list:
+        size: 36426
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/freq/pl.freq.gz
+      plain text:
+        size: 96077
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 96316
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 259449
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/xml/pl.zip
+      xml:
+        size: 104528
+        url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/raw/pl.zip
+    files: 1
+    sentences: 1674
+    tokens: 41427
+moses:
+  en-pl:
+    alignments: 1637
+    download size: 190990
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/moses/en-pl.txt.zip
+    source language tokens: 37249
+    target language tokens: 45232
+tmx:
+  en-pl:
+    download size: 208396
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-878-Digitization/v1/tmx/en-pl.tmx.gz
+    source language tokens: 37249
+    target language tokens: 45232
+    translation units: 1637

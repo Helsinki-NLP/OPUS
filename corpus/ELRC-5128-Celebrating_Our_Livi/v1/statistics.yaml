@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ga:
+    alignments: 18
+    downloads:
+      alignments:
+        size: 333
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/xml/en-ga.xml.gz
+      source language:
+        size: 3010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/raw/en.zip
+      target language:
+        size: 3059
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/raw/ga.zip
+      tokenized source language:
+        size: 4289
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/xml/en.zip
+      tokenized target language:
+        size: 4370
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/xml/ga.zip
+    files: 1
+    source language tokens: 19
+    target language tokens: 342
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 878
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/freq/en.freq.gz
+      plain text:
+        size: 1049
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1053
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 4289
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/xml/en.zip
+      xml:
+        size: 3010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/raw/en.zip
+    files: 1
+    sentences: 18
+    tokens: 381
+  ga:
+    downloads:
+      frequency list:
+        size: 964
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/freq/ga.freq.gz
+      plain text:
+        size: 1095
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 1102
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 4370
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/xml/ga.zip
+      xml:
+        size: 3059
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/raw/ga.zip
+    files: 1
+    sentences: 18
+    tokens: 389
+moses:
+  en-ga:
+    alignments: 19
+    download size: 3889
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/moses/en-ga.txt.zip
+    source language tokens: 342
+    target language tokens: 348
+tmx:
+  en-ga:
+    download size: 2278
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5128-Celebrating_Our_Livi/v1/tmx/en-ga.tmx.gz
+    source language tokens: 342
+    target language tokens: 348
+    translation units: 19

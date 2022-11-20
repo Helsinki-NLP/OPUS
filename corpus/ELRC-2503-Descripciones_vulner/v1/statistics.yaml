@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-es:
+    alignments: 97920
+    downloads:
+      alignments:
+        size: 1175269
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/en-es.xml.gz
+      smt phrase table:
+        size: 32857162
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/smt/en-es.zip
+      source language:
+        size: 6406066
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/raw/en.zip
+      target language:
+        size: 7433039
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/raw/es.zip
+      tokenized source language:
+        size: 25646885
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/en.zip
+      tokenized target language:
+        size: 29978508
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/es.zip
+      word alignment dictionary:
+        size: 410779
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/dic/en-es.dic.gz
+      word alignments:
+        size: 11585605
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/smt/en-es.alg.zip
+    files: 1
+    source language tokens: 101695
+    target language tokens: 3996419
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 668248
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/freq/en.freq.gz
+      plain text:
+        size: 5725101
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/mono/en.txt.gz
+      tokenized text:
+        size: 5797107
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 25646885
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/en.zip
+      xml:
+        size: 6406066
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/raw/en.zip
+    files: 1
+    sentences: 166163
+    tokens: 5142784
+  es:
+    downloads:
+      frequency list:
+        size: 726021
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/freq/es.freq.gz
+      plain text:
+        size: 6716827
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/mono/es.txt.gz
+      tokenized text:
+        size: 6785002
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 29978508
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/es.zip
+      xml:
+        size: 7433039
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/raw/es.zip
+    files: 1
+    sentences: 171341
+    tokens: 6007053
+moses:
+  en-es:
+    alignments: 101696
+    download size: 13328000
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/moses/en-es.txt.zip
+    source language tokens: 4155527
+    target language tokens: 4982680
+tmx:
+  en-es:
+    download size: 11993241
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/tmx/en-es.tmx.gz
+    source language tokens: 3996419
+    target language tokens: 4800746
+    translation units: 97920

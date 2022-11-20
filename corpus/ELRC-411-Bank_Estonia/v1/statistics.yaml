@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-et:
+    alignments: 16812
+    downloads:
+      alignments:
+        size: 168259
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/en-et.xml.gz
+      source language:
+        size: 697047
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/raw/en.zip
+      target language:
+        size: 696997
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/raw/et.zip
+      tokenized source language:
+        size: 2147866
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/en.zip
+      tokenized target language:
+        size: 1771448
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/et.zip
+    files: 1
+    source language tokens: 22307
+    target language tokens: 218557
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 45437
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/freq/en.freq.gz
+      plain text:
+        size: 608724
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/mono/en.txt.gz
+      tokenized text:
+        size: 610648
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 2147866
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/en.zip
+      xml:
+        size: 697047
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/raw/en.zip
+    files: 1
+    sentences: 22324
+    tokens: 392690
+  et:
+    downloads:
+      frequency list:
+        size: 112577
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/freq/et.freq.gz
+      plain text:
+        size: 606985
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/mono/et.txt.gz
+      tokenized text:
+        size: 609441
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/mono/et.tok.gz
+      tokenized xml:
+        size: 1771448
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/et.zip
+      xml:
+        size: 696997
+        url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/raw/et.zip
+    files: 1
+    sentences: 22325
+    tokens: 280438
+moses:
+  en-et:
+    alignments: 22308
+    download size: 1322614
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/moses/en-et.txt.zip
+    source language tokens: 239403
+    target language tokens: 347389
+tmx:
+  en-et:
+    download size: 1393623
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/tmx/en-et.tmx.gz
+    source language tokens: 218557
+    target language tokens: 319966
+    translation units: 16812

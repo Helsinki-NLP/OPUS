@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-sv:
+    alignments: 49083
+    downloads:
+      alignments:
+        size: 369336
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/xml/en-sv.xml.gz
+      smt phrase table:
+        size: 8723112
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/smt/en-sv.zip
+      source language:
+        size: 2097832
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/raw/en.zip
+      target language:
+        size: 2148621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/raw/sv.zip
+      tokenized source language:
+        size: 5679619
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/xml/en.zip
+      tokenized target language:
+        size: 5152913
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/xml/sv.zip
+      word alignment dictionary:
+        size: 474784
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/dic/en-sv.dic.gz
+      word alignments:
+        size: 2736180
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/smt/en-sv.alg.zip
+    files: 1
+    source language tokens: 49084
+    target language tokens: 757574
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 107989
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/freq/en.freq.gz
+      plain text:
+        size: 1893462
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1901012
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 5679619
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/xml/en.zip
+      xml:
+        size: 2097832
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/raw/en.zip
+    files: 1
+    sentences: 49214
+    tokens: 1012621
+  sv:
+    downloads:
+      frequency list:
+        size: 241578
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/freq/sv.freq.gz
+      plain text:
+        size: 1950462
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 1957118
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 5152913
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/xml/sv.zip
+      xml:
+        size: 2148621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/raw/sv.zip
+    files: 1
+    sentences: 49120
+    tokens: 828255
+moses:
+  en-sv:
+    alignments: 49084
+    download size: 4083629
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/moses/en-sv.txt.zip
+    source language tokens: 757574
+    target language tokens: 912733
+tmx:
+  en-sv:
+    download size: 4394936
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1770-valtioneuvosto.fi/v1/tmx/en-sv.tmx.gz
+    source language tokens: 757574
+    target language tokens: 912733
+    translation units: 49084

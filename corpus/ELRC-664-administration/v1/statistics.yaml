@@ -1,0 +1,78 @@
+---
+bitexts:
+  bg-en:
+    alignments: 11262
+    downloads:
+      alignments:
+        size: 145055
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/bg-en.xml.gz
+      source language:
+        size: 675883
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/raw/bg.zip
+      target language:
+        size: 538307
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/raw/en.zip
+      tokenized source language:
+        size: 1599911
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/bg.zip
+      tokenized target language:
+        size: 1505087
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/en.zip
+    files: 1
+    source language tokens: 11263
+    target language tokens: 223239
+monolingual:
+  bg:
+    downloads:
+      frequency list:
+        size: 104043
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/freq/bg.freq.gz
+      plain text:
+        size: 633329
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/mono/bg.txt.gz
+      tokenized text:
+        size: 635750
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/mono/bg.tok.gz
+      tokenized xml:
+        size: 1599911
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/bg.zip
+      xml:
+        size: 675883
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/raw/bg.zip
+    files: 1
+    sentences: 11340
+    tokens: 257799
+  en:
+    downloads:
+      frequency list:
+        size: 58826
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/freq/en.freq.gz
+      plain text:
+        size: 493466
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/mono/en.txt.gz
+      tokenized text:
+        size: 494968
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1505087
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/en.zip
+      xml:
+        size: 538307
+        url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/raw/en.zip
+    files: 1
+    sentences: 11345
+    tokens: 271376
+moses:
+  bg-en:
+    alignments: 11263
+    download size: 1181674
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/moses/bg-en.txt.zip
+    source language tokens: 223239
+    target language tokens: 244902
+tmx:
+  bg-en:
+    download size: 1332729
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/tmx/bg-en.tmx.gz
+    source language tokens: 223239
+    target language tokens: 244902
+    translation units: 11263

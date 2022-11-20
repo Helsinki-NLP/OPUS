@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-et:
+    alignments: 16714
+    downloads:
+      alignments:
+        size: 127909
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/en-et.xml.gz
+      source language:
+        size: 805833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/raw/en.zip
+      target language:
+        size: 765731
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/raw/et.zip
+      tokenized source language:
+        size: 2237350
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/en.zip
+      tokenized target language:
+        size: 1788712
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/et.zip
+    files: 1
+    source language tokens: 16715
+    target language tokens: 248213
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 72628
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/freq/en.freq.gz
+      plain text:
+        size: 736075
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/mono/en.txt.gz
+      tokenized text:
+        size: 739170
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 2237350
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/en.zip
+      xml:
+        size: 805833
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/raw/en.zip
+    files: 1
+    sentences: 16748
+    tokens: 405487
+  et:
+    downloads:
+      frequency list:
+        size: 170643
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/freq/et.freq.gz
+      plain text:
+        size: 692557
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/mono/et.txt.gz
+      tokenized text:
+        size: 695948
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/mono/et.tok.gz
+      tokenized xml:
+        size: 1788712
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/et.zip
+      xml:
+        size: 765731
+        url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/raw/et.zip
+    files: 1
+    sentences: 16779
+    tokens: 286607
+moses:
+  en-et:
+    alignments: 16715
+    download size: 1507915
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/moses/en-et.txt.zip
+    source language tokens: 248213
+    target language tokens: 364175
+tmx:
+  en-et:
+    download size: 1621235
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/tmx/en-et.tmx.gz
+    source language tokens: 248213
+    target language tokens: 364175
+    translation units: 16715

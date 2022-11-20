@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 1297
+    downloads:
+      alignments:
+        size: 10071
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 39439
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/raw/en.zip
+      target language:
+        size: 38602
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 114586
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/xml/en.zip
+      tokenized target language:
+        size: 103620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 1385
+    target language tokens: 15740
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 8969
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/freq/en.freq.gz
+      plain text:
+        size: 32569
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 32684
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 114586
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/xml/en.zip
+      xml:
+        size: 39439
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/raw/en.zip
+    files: 1
+    sentences: 1388
+    tokens: 21307
+  nb:
+    downloads:
+      frequency list:
+        size: 11186
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 31824
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 31946
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 103620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/xml/nb.zip
+      xml:
+        size: 38602
+        url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/raw/nb.zip
+    files: 1
+    sentences: 1385
+    tokens: 18484
+moses:
+  en-nb:
+    alignments: 1386
+    download size: 72981
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/moses/en-nb.txt.zip
+    source language tokens: 16377
+    target language tokens: 19263
+tmx:
+  en-nb:
+    download size: 75840
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-613-www.patentstyret.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 15740
+    target language tokens: 18506
+    translation units: 1297

@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-nb:
+    alignments: 4133
+    downloads:
+      alignments:
+        size: 34061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/xml/en-nb.xml.gz
+      smt phrase table:
+        size: 1274145
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/smt/en-nb.zip
+      source language:
+        size: 80121
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/raw/en.zip
+      target language:
+        size: 76314
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/raw/nb.zip
+      tokenized source language:
+        size: 275591
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/xml/en.zip
+      tokenized target language:
+        size: 244148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/xml/nb.zip
+      word alignment dictionary:
+        size: 54862
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/dic/en-nb.dic.gz
+      word alignments:
+        size: 115975
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/smt/en-nb.alg.zip
+    files: 1
+    source language tokens: 4401
+    target language tokens: 37940
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 7018
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/freq/en.freq.gz
+      plain text:
+        size: 62880
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/mono/en.txt.gz
+      tokenized text:
+        size: 63132
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 275591
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/xml/en.zip
+      xml:
+        size: 80121
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/raw/en.zip
+    files: 1
+    sentences: 4404
+    tokens: 55663
+  nb:
+    downloads:
+      frequency list:
+        size: 9403
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/freq/nb.freq.gz
+      plain text:
+        size: 58135
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 58686
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 244148
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/xml/nb.zip
+      xml:
+        size: 76314
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/raw/nb.zip
+    files: 1
+    sentences: 4485
+    tokens: 46873
+moses:
+  en-nb:
+    alignments: 4399
+    download size: 144120
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/moses/en-nb.txt.zip
+    source language tokens: 39825
+    target language tokens: 48004
+tmx:
+  en-nb:
+    download size: 149572
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1081-Forbruker_Europa/v1/tmx/en-nb.tmx.gz
+    source language tokens: 37940
+    target language tokens: 45693
+    translation units: 4133

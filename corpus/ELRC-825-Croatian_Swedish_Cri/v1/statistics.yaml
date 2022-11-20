@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-hr:
+    alignments: 906
+    downloads:
+      alignments:
+        size: 6111
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/xml/en-hr.xml.gz
+      source language:
+        size: 32051
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/raw/en.zip
+      target language:
+        size: 34036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/raw/hr.zip
+      tokenized source language:
+        size: 88233
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/xml/en.zip
+      tokenized target language:
+        size: 84196
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/xml/hr.zip
+    files: 1
+    source language tokens: 907
+    target language tokens: 12484
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 7958
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/freq/en.freq.gz
+      plain text:
+        size: 26699
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/mono/en.txt.gz
+      tokenized text:
+        size: 26764
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 88233
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/xml/en.zip
+      xml:
+        size: 32051
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/raw/en.zip
+    files: 1
+    sentences: 906
+    tokens: 16355
+  hr:
+    downloads:
+      frequency list:
+        size: 12033
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/freq/hr.freq.gz
+      plain text:
+        size: 28620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/mono/hr.txt.gz
+      tokenized text:
+        size: 28745
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/mono/hr.tok.gz
+      tokenized xml:
+        size: 84196
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/xml/hr.zip
+      xml:
+        size: 34036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/raw/hr.zip
+    files: 1
+    sentences: 906
+    tokens: 14177
+moses:
+  en-hr:
+    alignments: 907
+    download size: 61510
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/moses/en-hr.txt.zip
+    source language tokens: 12484
+    target language tokens: 14755
+tmx:
+  en-hr:
+    download size: 65580
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-825-Croatian_Swedish_Cri/v1/tmx/en-hr.tmx.gz
+    source language tokens: 12484
+    target language tokens: 14755
+    translation units: 907

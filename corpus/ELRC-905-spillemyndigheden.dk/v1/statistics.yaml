@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 3354
+    downloads:
+      alignments:
+        size: 25855
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/da-en.xml.gz
+      source language:
+        size: 107740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/raw/da.zip
+      target language:
+        size: 111387
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/raw/en.zip
+      tokenized source language:
+        size: 291724
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/da.zip
+      tokenized target language:
+        size: 319728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/en.zip
+    files: 1
+    source language tokens: 3355
+    target language tokens: 45031
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 23637
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/freq/da.freq.gz
+      plain text:
+        size: 93153
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/mono/da.txt.gz
+      tokenized text:
+        size: 93789
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 291724
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/da.zip
+      xml:
+        size: 107740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/raw/da.zip
+    files: 1
+    sentences: 3354
+    tokens: 52289
+  en:
+    downloads:
+      frequency list:
+        size: 17289
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/freq/en.freq.gz
+      plain text:
+        size: 97101
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/mono/en.txt.gz
+      tokenized text:
+        size: 97440
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 319728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/en.zip
+      xml:
+        size: 111387
+        url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/raw/en.zip
+    files: 1
+    sentences: 3381
+    tokens: 58797
+moses:
+  da-en:
+    alignments: 3355
+    download size: 207967
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/moses/da-en.txt.zip
+    source language tokens: 45031
+    target language tokens: 53292
+tmx:
+  da-en:
+    download size: 223301
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/tmx/da-en.tmx.gz
+    source language tokens: 45031
+    target language tokens: 53292
+    translation units: 3355

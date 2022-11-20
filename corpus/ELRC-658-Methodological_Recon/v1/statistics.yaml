@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 1
+    downloads:
+      alignments:
+        size: 704
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/xml/el-en.xml.gz
+      source language:
+        size: 3919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/raw/el.zip
+      target language:
+        size: 3355
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/raw/en.zip
+      tokenized source language:
+        size: 1750
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/xml/el.zip
+      tokenized target language:
+        size: 1749
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/xml/en.zip
+    files: 1
+    source language tokens: 44
+    target language tokens: 44
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/freq/el.freq.gz
+      plain text:
+        size: 1738
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/mono/el.txt.gz
+      tokenized text:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 1750
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/xml/el.zip
+      xml:
+        size: 3919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/raw/el.zip
+    files: 0
+    sentences: 0
+    tokens: 0
+  en:
+    downloads:
+      frequency list:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/freq/en.freq.gz
+      plain text:
+        size: 1205
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/mono/en.txt.gz
+      tokenized text:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1749
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/xml/en.zip
+      xml:
+        size: 3355
+        url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/raw/en.zip
+    files: 0
+    sentences: 0
+    tokens: 0
+moses:
+  el-en:
+    alignments: 45
+    download size: 4921
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/moses/el-en.txt.zip
+    source language tokens: 45
+    target language tokens: 352
+tmx:
+  el-en:
+    download size: 3486
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-658-Methodological_Recon/v1/tmx/el-en.tmx.gz
+    source language tokens: 45
+    target language tokens: 352
+    translation units: 45

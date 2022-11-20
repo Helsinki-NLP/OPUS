@@ -1,0 +1,87 @@
+---
+bitexts:
+  bg-fr:
+    alignments: 56
+    downloads:
+      alignments:
+        size: 887
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/xml/bg-fr.xml.gz
+      smt phrase table:
+        size: 23250
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/smt/bg-fr.zip
+      source language:
+        size: 5844
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/raw/bg.zip
+      target language:
+        size: 5232
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/raw/fr.zip
+      tokenized source language:
+        size: 10436
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/xml/bg.zip
+      tokenized target language:
+        size: 9898
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/xml/fr.zip
+      word alignment dictionary:
+        size: 1418
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/dic/bg-fr.dic.gz
+      word alignments:
+        size: 9081
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/smt/bg-fr.alg.zip
+    files: 1
+    source language tokens: 57
+    target language tokens: 1193
+monolingual:
+  bg:
+    downloads:
+      frequency list:
+        size: 2781
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/freq/bg.freq.gz
+      plain text:
+        size: 3689
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/mono/bg.txt.gz
+      tokenized text:
+        size: 3697
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/mono/bg.tok.gz
+      tokenized xml:
+        size: 10436
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/xml/bg.zip
+      xml:
+        size: 5844
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/raw/bg.zip
+    files: 1
+    sentences: 56
+    tokens: 1355
+  fr:
+    downloads:
+      frequency list:
+        size: 2193
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/freq/fr.freq.gz
+      plain text:
+        size: 3102
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 3107
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 9898
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/xml/fr.zip
+      xml:
+        size: 5232
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/raw/fr.zip
+    files: 1
+    sentences: 56
+    tokens: 1394
+moses:
+  bg-fr:
+    alignments: 57
+    download size: 8749
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/moses/bg-fr.txt.zip
+    source language tokens: 1193
+    target language tokens: 1219
+tmx:
+  bg-fr:
+    download size: 7663
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2579-Avian_influenza_bios/v1/tmx/bg-fr.tmx.gz
+    source language tokens: 1193
+    target language tokens: 1219
+    translation units: 57

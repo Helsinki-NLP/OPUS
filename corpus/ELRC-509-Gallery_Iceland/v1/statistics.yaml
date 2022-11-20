@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 576
+    downloads:
+      alignments:
+        size: 7497
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/en-is.xml.gz
+      source language:
+        size: 30077
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/raw/en.zip
+      target language:
+        size: 31678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/raw/is.zip
+      tokenized source language:
+        size: 73072
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/en.zip
+      tokenized target language:
+        size: 69760
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/is.zip
+    files: 1
+    source language tokens: 577
+    target language tokens: 9516
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 12441
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/freq/en.freq.gz
+      plain text:
+        size: 26114
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/mono/en.txt.gz
+      tokenized text:
+        size: 26224
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 73072
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/en.zip
+      xml:
+        size: 30077
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/raw/en.zip
+    files: 1
+    sentences: 605
+    tokens: 12407
+  is:
+    downloads:
+      frequency list:
+        size: 16341
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/freq/is.freq.gz
+      plain text:
+        size: 27840
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/mono/is.txt.gz
+      tokenized text:
+        size: 27960
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 69760
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/is.zip
+      xml:
+        size: 31678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/raw/is.zip
+    files: 1
+    sentences: 577
+    tokens: 10842
+moses:
+  en-is:
+    alignments: 577
+    download size: 58381
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/moses/en-is.txt.zip
+    source language tokens: 9516
+    target language tokens: 10837
+tmx:
+  en-is:
+    download size: 58136
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/tmx/en-is.tmx.gz
+    source language tokens: 9516
+    target language tokens: 10837
+    translation units: 577

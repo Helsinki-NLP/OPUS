@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 19
+    downloads:
+      alignments:
+        size: 391
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 6613
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/smt/en-ga.zip
+      source language:
+        size: 3162
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/raw/en.zip
+      target language:
+        size: 2756
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/raw/ga.zip
+      tokenized source language:
+        size: 4914
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/en.zip
+      tokenized target language:
+        size: 3895
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 313
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 4037
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 20
+    target language tokens: 284
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 815
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/freq/en.freq.gz
+      plain text:
+        size: 1085
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1089
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 4914
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/en.zip
+      xml:
+        size: 3162
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/raw/en.zip
+    files: 1
+    sentences: 39
+    tokens: 543
+  ga:
+    downloads:
+      frequency list:
+        size: 595
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/freq/ga.freq.gz
+      plain text:
+        size: 704
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 708
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 3895
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/ga.zip
+      xml:
+        size: 2756
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/raw/ga.zip
+    files: 1
+    sentences: 30
+    tokens: 332
+moses:
+  en-ga:
+    alignments: 20
+    download size: 3607
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/moses/en-ga.txt.zip
+    source language tokens: 284
+    target language tokens: 429
+tmx:
+  en-ga:
+    download size: 2055
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/tmx/en-ga.tmx.gz
+    source language tokens: 284
+    target language tokens: 429
+    translation units: 20

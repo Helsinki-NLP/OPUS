@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 36275
+    downloads:
+      alignments:
+        size: 299643
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/xml/en-is.xml.gz
+      source language:
+        size: 1995475
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/raw/en.zip
+      target language:
+        size: 1945787
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/raw/is.zip
+      tokenized source language:
+        size: 5774010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/xml/en.zip
+      tokenized target language:
+        size: 5085309
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/xml/is.zip
+    files: 1
+    source language tokens: 36289
+    target language tokens: 701163
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 74788
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/freq/en.freq.gz
+      plain text:
+        size: 1823544
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1834621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 5774010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/xml/en.zip
+      xml:
+        size: 1995475
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/raw/en.zip
+    files: 1
+    sentences: 39183
+    tokens: 1020881
+  is:
+    downloads:
+      frequency list:
+        size: 169139
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/freq/is.freq.gz
+      plain text:
+        size: 1765458
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/mono/is.txt.gz
+      tokenized text:
+        size: 1778919
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 5085309
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/xml/is.zip
+      xml:
+        size: 1945787
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/raw/is.zip
+    files: 1
+    sentences: 39978
+    tokens: 835973
+moses:
+  en-is:
+    alignments: 36290
+    download size: 3788343
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/moses/en-is.txt.zip
+    source language tokens: 701373
+    target language tokens: 883131
+tmx:
+  en-is:
+    download size: 4258404
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4327-Government_Offices_I/v1/tmx/en-is.tmx.gz
+    source language tokens: 701163
+    target language tokens: 882870
+    translation units: 36275

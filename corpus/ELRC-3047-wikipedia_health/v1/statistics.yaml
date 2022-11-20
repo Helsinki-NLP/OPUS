@@ -1,0 +1,87 @@
+---
+bitexts:
+  bs-en:
+    alignments: 204
+    downloads:
+      alignments:
+        size: 1620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/xml/bs-en.xml.gz
+      smt phrase table:
+        size: 57670
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/smt/bs-en.zip
+      source language:
+        size: 13552
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/raw/bs.zip
+      target language:
+        size: 13621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/raw/en.zip
+      tokenized source language:
+        size: 27985
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/xml/bs.zip
+      tokenized target language:
+        size: 29913
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/xml/en.zip
+      word alignment dictionary:
+        size: 3111
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/dic/bs-en.dic.gz
+      word alignments:
+        size: 19657
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/smt/bs-en.alg.zip
+    files: 1
+    source language tokens: 205
+    target language tokens: 3446
+monolingual:
+  bs:
+    downloads:
+      frequency list:
+        size: 7619
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/freq/bs.freq.gz
+      plain text:
+        size: 10931
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/mono/bs.txt.gz
+      tokenized text:
+        size: 10962
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/mono/bs.tok.gz
+      tokenized xml:
+        size: 27985
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/xml/bs.zip
+      xml:
+        size: 13552
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/raw/bs.zip
+    files: 1
+    sentences: 205
+    tokens: 4137
+  en:
+    downloads:
+      frequency list:
+        size: 6444
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/freq/en.freq.gz
+      plain text:
+        size: 10998
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/mono/en.txt.gz
+      tokenized text:
+        size: 11023
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 29913
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/xml/en.zip
+      xml:
+        size: 13621
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/raw/en.zip
+    files: 1
+    sentences: 205
+    tokens: 4777
+moses:
+  bs-en:
+    alignments: 205
+    download size: 24490
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/moses/bs-en.txt.zip
+    source language tokens: 3446
+    target language tokens: 4115
+tmx:
+  bs-en:
+    download size: 23201
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3047-wikipedia_health/v1/tmx/bs-en.tmx.gz
+    source language tokens: 3446
+    target language tokens: 4115
+    translation units: 205

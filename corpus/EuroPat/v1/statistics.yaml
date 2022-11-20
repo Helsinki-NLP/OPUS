@@ -1,0 +1,164 @@
+---
+bitexts:
+  de-en:
+    alignments: 12614043
+    downloads:
+      alignments:
+        size: 110084996
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/de-en.xml.gz
+      source language:
+        size: 924501405
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/de.zip
+      target language:
+        size: 1423291612
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/en.zip
+      tokenized source language:
+        size: 2249627421
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/de.zip
+      tokenized target language:
+        size: 4035250910
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/en.zip
+    files: 1
+    source language tokens: 12614161
+    target language tokens: 318177878
+  de-fr:
+    alignments: 7366
+    downloads:
+      alignments:
+        size: 63269
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/de-fr.xml.gz
+      source language:
+        size: 924501405
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/de.zip
+      target language:
+        size: 646728085
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/fr.zip
+      tokenized source language:
+        size: 2249627421
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/de.zip
+      tokenized target language:
+        size: 1827653787
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/fr.zip
+    files: 1
+    source language tokens: 7422
+    target language tokens: 52117
+  en-fr:
+    alignments: 9213171
+    downloads:
+      alignments:
+        size: 79595819
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/en-fr.xml.gz
+      source language:
+        size: 1423291612
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/en.zip
+      target language:
+        size: 646728085
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/fr.zip
+      tokenized source language:
+        size: 4035250910
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/en.zip
+      tokenized target language:
+        size: 1827653787
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/fr.zip
+    files: 1
+    source language tokens: 9213466
+    target language tokens: 283292471
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 20853184
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/freq/de.freq.gz
+      plain text:
+        size: 869318891
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/mono/de.txt.gz
+      tokenized text:
+        size: 873850742
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 2249627421
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/de.zip
+      xml:
+        size: 924501405
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/de.zip
+    files: 1
+    sentences: 12583620
+    tokens: 346722659
+  en:
+    downloads:
+      frequency list:
+        size: 7154466
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/freq/en.freq.gz
+      plain text:
+        size: 1328232277
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1334237523
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 4035250910
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/en.zip
+      xml:
+        size: 1423291612
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/en.zip
+    files: 1
+    sentences: 22132307
+    tokens: 704372134
+  fr:
+    downloads:
+      frequency list:
+        size: 3591124
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/freq/fr.freq.gz
+      plain text:
+        size: 607466033
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 611434164
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 1827653787
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/xml/fr.zip
+      xml:
+        size: 646728085
+        url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/raw/fr.zip
+    files: 1
+    sentences: 8944737
+    tokens: 317964004
+moses:
+  de-en:
+    alignments: 12614161
+    download size: 1802651060
+    download url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/moses/de-en.txt.zip
+    source language tokens: 318180843
+    target language tokens: 387841052
+  de-fr:
+    alignments: 7422
+    download size: 223437
+    download url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/moses/de-fr.txt.zip
+    source language tokens: 52481
+    target language tokens: 63652
+  en-fr:
+    alignments: 9213466
+    download size: 1280101744
+    download url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/moses/en-fr.txt.zip
+    source language tokens: 283300231
+    target language tokens: 284674078
+tmx:
+  de-en:
+    download size: 1929698393
+    download url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/tmx/de-en.tmx.gz
+    source language tokens: 318177878
+    target language tokens: 387837636
+    translation units: 12614043
+  de-fr:
+    download size: 221835
+    download url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/tmx/de-fr.tmx.gz
+    source language tokens: 52117
+    target language tokens: 63214
+    translation units: 7366
+  en-fr:
+    download size: 1349218306
+    download url: https://object.pouta.csc.fi/OPUS-EuroPat/v1/tmx/en-fr.tmx.gz
+    source language tokens: 283292471
+    target language tokens: 284665882
+    translation units: 9213171

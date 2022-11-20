@@ -1,0 +1,83 @@
+---
+bitexts:
+  en-pl:
+    alignments: 2769
+    downloads:
+      alignments:
+        size: 24729
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/xml/en-pl.xml.gz
+      source language:
+        size: 123538
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/raw/en.zip
+      target language:
+        size: 133500
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/raw/pl.zip
+      tokenized source language:
+        size: 364928
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/xml/en.zip
+      tokenized target language:
+        size: 342296
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/xml/pl.zip
+    files: 1
+    source language tokens: 2770
+    target language tokens: 48893
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 21086
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/freq/en.freq.gz
+      plain text:
+        size: 108992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/mono/en.txt.gz
+      tokenized text:
+        size: 109471
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 364928
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/xml/en.zip
+      xml:
+        size: 123538
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/raw/en.zip
+    files: 1
+    sentences: 3283
+    tokens: 66864
+  pl:
+    downloads:
+      frequency list:
+        size: 37368
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/freq/pl.freq.gz
+      plain text:
+        size: 118494
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 118882
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 342296
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/xml/pl.zip
+      xml:
+        size: 133500
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/raw/pl.zip
+    files: 1
+    sentences: 3287
+    tokens: 55689
+  tmx:
+    downloads:
+      tokenized xml:
+        size: 1411
+        url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/xml/tmx.zip
+moses:
+  en-pl:
+    alignments: 2770
+    download size: 244855
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/moses/en-pl.txt.zip
+    source language tokens: 48893
+    target language tokens: 59481
+tmx:
+  en-pl:
+    download size: 262956
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-3853-State_Assets/v1/tmx/en-pl.tmx.gz
+    source language tokens: 48893
+    target language tokens: 59481
+    translation units: 2770

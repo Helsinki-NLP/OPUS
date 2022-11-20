@@ -1,0 +1,87 @@
+---
+bitexts:
+  fr-nl:
+    alignments: 2465
+    downloads:
+      alignments:
+        size: 19017
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/xml/fr-nl.xml.gz
+      smt phrase table:
+        size: 275679
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/smt/fr-nl.zip
+      source language:
+        size: 40300
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/raw/fr.zip
+      target language:
+        size: 40276
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/raw/nl.zip
+      tokenized source language:
+        size: 107848
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/xml/fr.zip
+      tokenized target language:
+        size: 99908
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/xml/nl.zip
+      word alignment dictionary:
+        size: 18054
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/dic/fr-nl.dic.gz
+      word alignments:
+        size: 53263
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/smt/fr-nl.alg.zip
+    files: 1
+    source language tokens: 2490
+    target language tokens: 15123
+monolingual:
+  fr:
+    downloads:
+      frequency list:
+        size: 11315
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/freq/fr.freq.gz
+      plain text:
+        size: 30295
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/mono/fr.txt.gz
+      tokenized text:
+        size: 30460
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/mono/fr.tok.gz
+      tokenized xml:
+        size: 107848
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/xml/fr.zip
+      xml:
+        size: 40300
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/raw/fr.zip
+    files: 1
+    sentences: 2493
+    tokens: 18775
+  nl:
+    downloads:
+      frequency list:
+        size: 13098
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/freq/nl.freq.gz
+      plain text:
+        size: 30231
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/mono/nl.txt.gz
+      tokenized text:
+        size: 30401
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/mono/nl.tok.gz
+      tokenized xml:
+        size: 99908
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/xml/nl.zip
+      xml:
+        size: 40276
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/raw/nl.zip
+    files: 1
+    sentences: 2492
+    tokens: 16441
+moses:
+  fr-nl:
+    alignments: 2491
+    download size: 74495
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/moses/fr-nl.txt.zip
+    source language tokens: 15342
+    target language tokens: 16795
+tmx:
+  fr-nl:
+    download size: 72450
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1797-Budget_Belgium/v1/tmx/fr-nl.tmx.gz
+    source language tokens: 15123
+    target language tokens: 16569
+    translation units: 2465

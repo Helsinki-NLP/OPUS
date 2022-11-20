@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 40
+    downloads:
+      alignments:
+        size: 489
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 15170
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/smt/en-ga.zip
+      source language:
+        size: 4280
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/raw/en.zip
+      target language:
+        size: 4393
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/raw/ga.zip
+      tokenized source language:
+        size: 7308
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/en.zip
+      tokenized target language:
+        size: 7538
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 1046
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 7639
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 41
+    target language tokens: 805
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 1572
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/freq/en.freq.gz
+      plain text:
+        size: 2123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/mono/en.txt.gz
+      tokenized text:
+        size: 2129
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 7308
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/en.zip
+      xml:
+        size: 4280
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/raw/en.zip
+    files: 1
+    sentences: 43
+    tokens: 894
+  ga:
+    downloads:
+      frequency list:
+        size: 1776
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/freq/ga.freq.gz
+      plain text:
+        size: 2229
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 2240
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 7538
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/ga.zip
+      xml:
+        size: 4393
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/raw/ga.zip
+    files: 1
+    sentences: 43
+    tokens: 914
+moses:
+  en-ga:
+    alignments: 41
+    download size: 6309
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/moses/en-ga.txt.zip
+    source language tokens: 805
+    target language tokens: 823
+tmx:
+  en-ga:
+    download size: 4588
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/tmx/en-ga.tmx.gz
+    source language tokens: 805
+    target language tokens: 823
+    translation units: 41

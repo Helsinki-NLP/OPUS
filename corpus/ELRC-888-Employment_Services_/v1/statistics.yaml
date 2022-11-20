@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 2996
+    downloads:
+      alignments:
+        size: 41905
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/xml/en-pl.xml.gz
+      source language:
+        size: 109401
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/raw/en.zip
+      target language:
+        size: 121566
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/raw/pl.zip
+      tokenized source language:
+        size: 332728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/xml/en.zip
+      tokenized target language:
+        size: 317135
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/xml/pl.zip
+    files: 1
+    source language tokens: 2997
+    target language tokens: 46507
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 18879
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/freq/en.freq.gz
+      plain text:
+        size: 95864
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/mono/en.txt.gz
+      tokenized text:
+        size: 96140
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 332728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/xml/en.zip
+      xml:
+        size: 109401
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/raw/en.zip
+    files: 1
+    sentences: 3109
+    tokens: 62231
+  pl:
+    downloads:
+      frequency list:
+        size: 35882
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/freq/pl.freq.gz
+      plain text:
+        size: 107705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 108072
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 317135
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/xml/pl.zip
+      xml:
+        size: 121566
+        url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/raw/pl.zip
+    files: 1
+    sentences: 3092
+    tokens: 52659
+moses:
+  en-pl:
+    alignments: 2997
+    download size: 221554
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/moses/en-pl.txt.zip
+    source language tokens: 46507
+    target language tokens: 56421
+tmx:
+  en-pl:
+    download size: 239452
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-888-Employment_Services_/v1/tmx/en-pl.tmx.gz
+    source language tokens: 46507
+    target language tokens: 56421
+    translation units: 2997

@@ -1,0 +1,78 @@
+---
+bitexts:
+  lv-sv:
+    alignments: 6295488
+    downloads:
+      alignments:
+        size: 49871932
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/xml/lv-sv.xml.gz
+      source language:
+        size: 275323835
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/raw/lv.zip
+      target language:
+        size: 271413943
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/raw/sv.zip
+      tokenized source language:
+        size: 815570303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/xml/lv.zip
+      tokenized target language:
+        size: 813823868
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/xml/sv.zip
+    files: 2
+    source language tokens: 6308534
+    target language tokens: 142085234
+monolingual:
+  lv:
+    downloads:
+      frequency list:
+        size: 5039864
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/freq/lv.freq.gz
+      plain text:
+        size: 249621632
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/mono/lv.txt.gz
+      tokenized text:
+        size: 251501947
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/mono/lv.tok.gz
+      tokenized xml:
+        size: 815570303
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/xml/lv.zip
+      xml:
+        size: 275323835
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/raw/lv.zip
+    files: 2
+    sentences: 6470433
+    tokens: 142085234
+  sv:
+    downloads:
+      frequency list:
+        size: 6598485
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/freq/sv.freq.gz
+      plain text:
+        size: 245088526
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/mono/sv.txt.gz
+      tokenized text:
+        size: 246237732
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/mono/sv.tok.gz
+      tokenized xml:
+        size: 813823868
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/xml/sv.zip
+      xml:
+        size: 271413943
+        url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/raw/sv.zip
+    files: 2
+    sentences: 6616695
+    tokens: 145029382
+moses:
+  lv-sv:
+    alignments: 6308530
+    download size: 525835335
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/moses/lv-sv.txt.zip
+    source language tokens: 114553118
+    target language tokens: 127079369
+tmx:
+  lv-sv:
+    download size: 569748475
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-4190-NTEU_TierA/v1/tmx/lv-sv.tmx.gz
+    source language tokens: ~
+    target language tokens: ~
+    translation units: 6295488

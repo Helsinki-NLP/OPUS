@@ -1,0 +1,164 @@
+---
+bitexts:
+  en-is:
+    alignments: 1064
+    downloads:
+      alignments:
+        size: 8168
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/en-is.xml.gz
+      source language:
+        size: 45165
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/en.zip
+      target language:
+        size: 39484
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/is.zip
+      tokenized source language:
+        size: 141270
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/en.zip
+      tokenized target language:
+        size: 108061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/is.zip
+    files: 1
+    source language tokens: 1065
+    target language tokens: 17633
+  en-nb:
+    alignments: 1016
+    downloads:
+      alignments:
+        size: 8104
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/en-nb.xml.gz
+      source language:
+        size: 45165
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/en.zip
+      target language:
+        size: 33596
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/nb.zip
+      tokenized source language:
+        size: 141270
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/en.zip
+      tokenized target language:
+        size: 97953
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/nb.zip
+    files: 1
+    source language tokens: 1017
+    target language tokens: 16641
+  is-nb:
+    alignments: 762
+    downloads:
+      alignments:
+        size: 6271
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/is-nb.xml.gz
+      source language:
+        size: 39484
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/is.zip
+      target language:
+        size: 33596
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/nb.zip
+      tokenized source language:
+        size: 108061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/is.zip
+      tokenized target language:
+        size: 97953
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/nb.zip
+    files: 1
+    source language tokens: 770
+    target language tokens: 12675
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 8737
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/freq/en.freq.gz
+      plain text:
+        size: 38463
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/mono/en.txt.gz
+      tokenized text:
+        size: 38647
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 141270
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/en.zip
+      xml:
+        size: 45165
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/en.zip
+    files: 1
+    sentences: 1293
+    tokens: 27234
+  is:
+    downloads:
+      frequency list:
+        size: 12337
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/freq/is.freq.gz
+      plain text:
+        size: 33540
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/mono/is.txt.gz
+      tokenized text:
+        size: 33767
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 108061
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/is.zip
+      xml:
+        size: 39484
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/is.zip
+    files: 1
+    sentences: 1035
+    tokens: 19093
+  nb:
+    downloads:
+      frequency list:
+        size: 9105
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/freq/nb.freq.gz
+      plain text:
+        size: 28013
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 28147
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 97953
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/nb.zip
+      xml:
+        size: 33596
+        url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/raw/nb.zip
+    files: 1
+    sentences: 987
+    tokens: 18146
+moses:
+  en-is:
+    alignments: 1065
+    download size: 72003
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/moses/en-is.txt.zip
+    source language tokens: 17633
+    target language tokens: 20738
+  en-nb:
+    alignments: 1017
+    download size: 65650
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/moses/en-nb.txt.zip
+    source language tokens: 16641
+    target language tokens: 19768
+  is-nb:
+    alignments: 771
+    download size: 52297
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/moses/is-nb.txt.zip
+    source language tokens: 12756
+    target language tokens: 12935
+tmx:
+  en-is:
+    download size: 78241
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/tmx/en-is.tmx.gz
+    source language tokens: 17633
+    target language tokens: 20738
+    translation units: 1065
+  en-nb:
+    download size: 70319
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/tmx/en-nb.tmx.gz
+    source language tokens: 16641
+    target language tokens: 19768
+    translation units: 1017
+  is-nb:
+    download size: 54071
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/tmx/is-nb.tmx.gz
+    source language tokens: 12675
+    target language tokens: 12850
+    translation units: 762

@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 4074
+    downloads:
+      alignments:
+        size: 37637
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 102409
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/raw/en.zip
+      target language:
+        size: 101791
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 277677
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/xml/en.zip
+      tokenized target language:
+        size: 261411
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 5079
+    target language tokens: 33798
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 20600
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/freq/en.freq.gz
+      plain text:
+        size: 82320
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 82780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 277677
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/xml/en.zip
+      xml:
+        size: 102409
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/raw/en.zip
+    files: 1
+    sentences: 5080
+    tokens: 48586
+  nb:
+    downloads:
+      frequency list:
+        size: 26738
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 81737
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 82301
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 261411
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/xml/nb.zip
+      xml:
+        size: 101791
+        url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/raw/nb.zip
+    files: 1
+    sentences: 5079
+    tokens: 43850
+moses:
+  en-nb:
+    alignments: 5080
+    download size: 191727
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/moses/en-nb.txt.zip
+    source language tokens: 38759
+    target language tokens: 43960
+tmx:
+  en-nb:
+    download size: 170246
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-535-www.nbim.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 33798
+    target language tokens: 38321
+    translation units: 4074

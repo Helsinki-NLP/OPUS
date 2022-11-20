@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 3953
+    downloads:
+      alignments:
+        size: 30420
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 165343
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/raw/en.zip
+      target language:
+        size: 161162
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 473426
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/xml/en.zip
+      tokenized target language:
+        size: 434531
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 3954
+    target language tokens: 67165
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 22676
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/freq/en.freq.gz
+      plain text:
+        size: 148074
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 148691
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 473426
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/xml/en.zip
+      xml:
+        size: 165343
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/raw/en.zip
+    files: 1
+    sentences: 3960
+    tokens: 84962
+  nb:
+    downloads:
+      frequency list:
+        size: 32769
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 144025
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 144597
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 434531
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/xml/nb.zip
+      xml:
+        size: 161162
+        url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/raw/nb.zip
+    files: 1
+    sentences: 3968
+    tokens: 74858
+moses:
+  en-nb:
+    alignments: 3954
+    download size: 311912
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/moses/en-nb.txt.zip
+    source language tokens: 67165
+    target language tokens: 76577
+tmx:
+  en-nb:
+    download size: 348764
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-562-www.petoro.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 67165
+    target language tokens: 76577
+    translation units: 3954

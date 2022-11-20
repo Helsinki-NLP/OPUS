@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ro:
+    alignments: 12042
+    downloads:
+      alignments:
+        size: 156620
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/xml/en-ro.xml.gz
+      source language:
+        size: 497736
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/raw/en.zip
+      target language:
+        size: 539597
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/raw/ro.zip
+      tokenized source language:
+        size: 1514703
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/xml/en.zip
+      tokenized target language:
+        size: 1547002
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/xml/ro.zip
+    files: 1
+    source language tokens: 12043
+    target language tokens: 239457
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 51661
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/freq/en.freq.gz
+      plain text:
+        size: 450308
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/mono/en.txt.gz
+      tokenized text:
+        size: 452667
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1514703
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/xml/en.zip
+      xml:
+        size: 497736
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/raw/en.zip
+    files: 1
+    sentences: 12220
+    tokens: 281809
+  ro:
+    downloads:
+      frequency list:
+        size: 72933
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/freq/ro.freq.gz
+      plain text:
+        size: 491591
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/mono/ro.txt.gz
+      tokenized text:
+        size: 494312
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/mono/ro.tok.gz
+      tokenized xml:
+        size: 1547002
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/xml/ro.zip
+      xml:
+        size: 539597
+        url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/raw/ro.zip
+    files: 1
+    sentences: 12235
+    tokens: 275505
+moses:
+  en-ro:
+    alignments: 12043
+    download size: 1001279
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/moses/en-ro.txt.zip
+    source language tokens: 239457
+    target language tokens: 244063
+tmx:
+  en-ro:
+    download size: 1056617
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-930-studies_reports_stat/v1/tmx/en-ro.tmx.gz
+    source language tokens: 239457
+    target language tokens: 244063
+    translation units: 12043

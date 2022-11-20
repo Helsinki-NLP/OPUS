@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-es:
+    alignments: 16439
+    downloads:
+      alignments:
+        size: 123010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/xml/en-es.xml.gz
+      smt phrase table:
+        size: 4596118
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/smt/en-es.zip
+      source language:
+        size: 752261
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/raw/en.zip
+      target language:
+        size: 828476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/raw/es.zip
+      tokenized source language:
+        size: 2322746
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/xml/en.zip
+      tokenized target language:
+        size: 2550779
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/xml/es.zip
+      word alignment dictionary:
+        size: 150035
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/dic/en-es.dic.gz
+      word alignments:
+        size: 1402103
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/smt/en-es.alg.zip
+    files: 1
+    source language tokens: 16440
+    target language tokens: 377445
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 47643
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/freq/en.freq.gz
+      plain text:
+        size: 686004
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/mono/en.txt.gz
+      tokenized text:
+        size: 688697
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 2322746
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/xml/en.zip
+      xml:
+        size: 752261
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/raw/en.zip
+    files: 1
+    sentences: 16447
+    tokens: 441384
+  es:
+    downloads:
+      frequency list:
+        size: 62146
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/freq/es.freq.gz
+      plain text:
+        size: 764184
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/mono/es.txt.gz
+      tokenized text:
+        size: 764902
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 2550779
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/xml/es.zip
+      xml:
+        size: 828476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/raw/es.zip
+    files: 1
+    sentences: 16439
+    tokens: 482147
+moses:
+  en-es:
+    alignments: 16440
+    download size: 1530067
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/moses/en-es.txt.zip
+    source language tokens: 377445
+    target language tokens: 421470
+tmx:
+  en-es:
+    download size: 1650255
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2015-EUIPO_2017/v1/tmx/en-es.tmx.gz
+    source language tokens: 377445
+    target language tokens: 421470
+    translation units: 16440

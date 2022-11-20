@@ -1,0 +1,78 @@
+---
+bitexts:
+  da-en:
+    alignments: 3667
+    downloads:
+      alignments:
+        size: 32472
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/xml/da-en.xml.gz
+      source language:
+        size: 124611
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/raw/da.zip
+      target language:
+        size: 123216
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/raw/en.zip
+      tokenized source language:
+        size: 324547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/xml/da.zip
+      tokenized target language:
+        size: 346560
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/xml/en.zip
+    files: 1
+    source language tokens: 4148
+    target language tokens: 45571
+monolingual:
+  da:
+    downloads:
+      frequency list:
+        size: 35324
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/freq/da.freq.gz
+      plain text:
+        size: 107907
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/mono/da.txt.gz
+      tokenized text:
+        size: 108721
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/mono/da.tok.gz
+      tokenized xml:
+        size: 324547
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/xml/da.zip
+      xml:
+        size: 124611
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/raw/da.zip
+    files: 1
+    sentences: 4161
+    tokens: 55705
+  en:
+    downloads:
+      frequency list:
+        size: 25652
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/freq/en.freq.gz
+      plain text:
+        size: 106634
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/mono/en.txt.gz
+      tokenized text:
+        size: 107048
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 346560
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/xml/en.zip
+      xml:
+        size: 123216
+        url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/raw/en.zip
+    files: 1
+    sentences: 4174
+    tokens: 62385
+moses:
+  da-en:
+    alignments: 4149
+    download size: 235353
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/moses/da-en.txt.zip
+    source language tokens: 47096
+    target language tokens: 55245
+tmx:
+  da-en:
+    download size: 236537
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-439-Danish_Higher_Educat/v1/tmx/da-en.tmx.gz
+    source language tokens: 45571
+    target language tokens: 53292
+    translation units: 3667

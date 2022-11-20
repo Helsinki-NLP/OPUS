@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-fi:
+    alignments: 14615
+    downloads:
+      alignments:
+        size: 109262
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/xml/en-fi.xml.gz
+      smt phrase table:
+        size: 2301402
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/smt/en-fi.zip
+      source language:
+        size: 470411
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/raw/en.zip
+      target language:
+        size: 474013
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/raw/fi.zip
+      tokenized source language:
+        size: 1232941
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/xml/en.zip
+      tokenized target language:
+        size: 999768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/xml/fi.zip
+      word alignment dictionary:
+        size: 197078
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/dic/en-fi.dic.gz
+      word alignments:
+        size: 526404
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/smt/en-fi.alg.zip
+    files: 1
+    source language tokens: 14616
+    target language tokens: 124120
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 61964
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/freq/en.freq.gz
+      plain text:
+        size: 412195
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/mono/en.txt.gz
+      tokenized text:
+        size: 414573
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1232941
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/xml/en.zip
+      xml:
+        size: 470411
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/raw/en.zip
+    files: 1
+    sentences: 14623
+    tokens: 217606
+  fi:
+    downloads:
+      frequency list:
+        size: 157306
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/freq/fi.freq.gz
+      plain text:
+        size: 414927
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/mono/fi.txt.gz
+      tokenized text:
+        size: 416920
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/mono/fi.tok.gz
+      tokenized xml:
+        size: 999768
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/xml/fi.zip
+      xml:
+        size: 474013
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/raw/fi.zip
+    files: 1
+    sentences: 14615
+    tokens: 144605
+moses:
+  en-fi:
+    alignments: 14616
+    download size: 905485
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/moses/en-fi.txt.zip
+    source language tokens: 124120
+    target language tokens: 193519
+tmx:
+  en-fi:
+    download size: 969546
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1128-www.visitestonia.com/v1/tmx/en-fi.tmx.gz
+    source language tokens: 124120
+    target language tokens: 193519
+    translation units: 14616

@@ -1,0 +1,78 @@
+---
+bitexts:
+  ca-en:
+    alignments: 2999
+    downloads:
+      alignments:
+        size: 23356
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/ca-en.xml.gz
+      source language:
+        size: 152187
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/raw/ca.zip
+      target language:
+        size: 143897
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/raw/en.zip
+      tokenized source language:
+        size: 397763
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/ca.zip
+      tokenized target language:
+        size: 366728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/en.zip
+    files: 1
+    source language tokens: 3000
+    target language tokens: 56070
+monolingual:
+  ca:
+    downloads:
+      frequency list:
+        size: 43367
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/freq/ca.freq.gz
+      plain text:
+        size: 137361
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/mono/ca.txt.gz
+      tokenized text:
+        size: 138266
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/mono/ca.tok.gz
+      tokenized xml:
+        size: 397763
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/ca.zip
+      xml:
+        size: 152187
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/raw/ca.zip
+    files: 1
+    sentences: 3042
+    tokens: 70125
+  en:
+    downloads:
+      frequency list:
+        size: 37489
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/freq/en.freq.gz
+      plain text:
+        size: 129649
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/mono/en.txt.gz
+      tokenized text:
+        size: 130367
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 366728
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/en.zip
+      xml:
+        size: 143897
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/raw/en.zip
+    files: 1
+    sentences: 3027
+    tokens: 64808
+moses:
+  ca-en:
+    alignments: 3001
+    download size: 284381
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/moses/ca-en.txt.zip
+    source language tokens: 56089
+    target language tokens: 59340
+tmx:
+  ca-en:
+    download size: 291397
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/tmx/ca-en.tmx.gz
+    source language tokens: 56070
+    target language tokens: 59314
+    translation units: 2999

@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 16722
+    downloads:
+      alignments:
+        size: 246828
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/xml/el-en.xml.gz
+      source language:
+        size: 516484
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/raw/el.zip
+      target language:
+        size: 391742
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/raw/en.zip
+      tokenized source language:
+        size: 1132065
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/xml/el.zip
+      tokenized target language:
+        size: 993689
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/xml/en.zip
+    files: 1
+    source language tokens: 21515
+    target language tokens: 134337
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 91512
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/freq/el.freq.gz
+      plain text:
+        size: 436442
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/mono/el.txt.gz
+      tokenized text:
+        size: 438860
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 1132065
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/xml/el.zip
+      xml:
+        size: 516484
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/raw/el.zip
+    files: 1
+    sentences: 21729
+    tokens: 167926
+  en:
+    downloads:
+      frequency list:
+        size: 53719
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/freq/en.freq.gz
+      plain text:
+        size: 309250
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/mono/en.txt.gz
+      tokenized text:
+        size: 311530
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 993689
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/xml/en.zip
+      xml:
+        size: 391742
+        url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/raw/en.zip
+    files: 1
+    sentences: 21673
+    tokens: 167613
+moses:
+  el-en:
+    alignments: 21248
+    download size: 857081
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/moses/el-en.txt.zip
+    source language tokens: 142055
+    target language tokens: 142633
+tmx:
+  el-en:
+    download size: 860820
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-842-Quarterly_Reports_Pa/v1/tmx/el-en.tmx.gz
+    source language tokens: 134337
+    target language tokens: 134927
+    translation units: 16722

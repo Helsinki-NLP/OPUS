@@ -1,0 +1,78 @@
+---
+bitexts:
+  de-en:
+    alignments: 4478
+    downloads:
+      alignments:
+        size: 35004
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/xml/de-en.xml.gz
+      source language:
+        size: 246841
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/raw/de.zip
+      target language:
+        size: 218698
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/raw/en.zip
+      tokenized source language:
+        size: 623016
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/xml/de.zip
+      tokenized target language:
+        size: 618020
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/xml/en.zip
+    files: 3
+    source language tokens: 4479
+    target language tokens: 90782
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 58830
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/freq/de.freq.gz
+      plain text:
+        size: 223757
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/mono/de.txt.gz
+      tokenized text:
+        size: 224877
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 623016
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/xml/de.zip
+      xml:
+        size: 246841
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/raw/de.zip
+    files: 3
+    sentences: 4579
+    tokens: 102715
+  en:
+    downloads:
+      frequency list:
+        size: 33392
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/freq/en.freq.gz
+      plain text:
+        size: 196475
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/mono/en.txt.gz
+      tokenized text:
+        size: 197280
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 618020
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/xml/en.zip
+      xml:
+        size: 218698
+        url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/raw/en.zip
+    files: 3
+    sentences: 4571
+    tokens: 110878
+moses:
+  de-en:
+    alignments: 4481
+    download size: 444783
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/moses/de-en.txt.zip
+    source language tokens: 90782
+    target language tokens: 99441
+tmx:
+  de-en:
+    download size: 480466
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-775-by_Presidency_Counci/v1/tmx/de-en.tmx.gz
+    source language tokens: 90782
+    target language tokens: 99441
+    translation units: 4479

@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 224
+    downloads:
+      alignments:
+        size: 3073
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/en-pl.xml.gz
+      source language:
+        size: 12601
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/raw/en.zip
+      target language:
+        size: 13734
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/raw/pl.zip
+      tokenized source language:
+        size: 32217
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/en.zip
+      tokenized target language:
+        size: 30945
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/pl.zip
+    files: 1
+    source language tokens: 225
+    target language tokens: 4119
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 5467
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/freq/en.freq.gz
+      plain text:
+        size: 9985
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/mono/en.txt.gz
+      tokenized text:
+        size: 10007
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 32217
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/en.zip
+      xml:
+        size: 12601
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/raw/en.zip
+    files: 1
+    sentences: 234
+    tokens: 5480
+  pl:
+    downloads:
+      frequency list:
+        size: 7668
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/freq/pl.freq.gz
+      plain text:
+        size: 11104
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 11123
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 30945
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/pl.zip
+      xml:
+        size: 13734
+        url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/raw/pl.zip
+    files: 1
+    sentences: 230
+    tokens: 4651
+moses:
+  en-pl:
+    alignments: 225
+    download size: 23762
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/moses/en-pl.txt.zip
+    source language tokens: 4119
+    target language tokens: 4968
+tmx:
+  en-pl:
+    download size: 22847
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/tmx/en-pl.tmx.gz
+    source language tokens: 4119
+    target language tokens: 4968
+    translation units: 225

@@ -1,0 +1,83 @@
+---
+bitexts:
+  ca-en:
+    alignments: 38570
+    downloads:
+      alignments:
+        size: 290791
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/xml/ca-en.xml.gz
+      source language:
+        size: 1989550
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/raw/ca.zip
+      target language:
+        size: 1894491
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/raw/en.zip
+      tokenized source language:
+        size: 5731474
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/xml/ca.zip
+      tokenized target language:
+        size: 5257622
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/xml/en.zip
+    files: 1
+    source language tokens: 38595
+    target language tokens: 822018
+monolingual:
+  ca:
+    downloads:
+      frequency list:
+        size: 177487
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/freq/ca.freq.gz
+      plain text:
+        size: 1836355
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/mono/ca.txt.gz
+      tokenized text:
+        size: 1848707
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/mono/ca.tok.gz
+      tokenized xml:
+        size: 5731474
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/xml/ca.zip
+      xml:
+        size: 1989550
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/raw/ca.zip
+    files: 1
+    sentences: 38619
+    tokens: 1014336
+  en:
+    downloads:
+      frequency list:
+        size: 140219
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/freq/en.freq.gz
+      plain text:
+        size: 1741705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1750755
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 5257622
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/xml/en.zip
+      xml:
+        size: 1894491
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/raw/en.zip
+    files: 1
+    sentences: 38672
+    tokens: 929114
+  md:
+    downloads:
+      tokenized xml:
+        size: 1618
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/xml/md.zip
+moses:
+  ca-en:
+    alignments: 38596
+    download size: 3766618
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/moses/ca-en.txt.zip
+    source language tokens: 822259
+    target language tokens: 858385
+tmx:
+  ca-en:
+    download size: 3979296
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5129-GEnCaTA_a/v1/tmx/ca-en.tmx.gz
+    source language tokens: 822018
+    target language tokens: 858161
+    translation units: 38570

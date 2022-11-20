@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-sk:
+    alignments: 2636
+    downloads:
+      alignments:
+        size: 39283
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/xml/en-sk.xml.gz
+      source language:
+        size: 119020
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/raw/en.zip
+      target language:
+        size: 129880
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/raw/sk.zip
+      tokenized source language:
+        size: 379867
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/xml/en.zip
+      tokenized target language:
+        size: 350705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/xml/sk.zip
+    files: 1
+    source language tokens: 2895
+    target language tokens: 58869
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 19557
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/freq/en.freq.gz
+      plain text:
+        size: 105479
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/mono/en.txt.gz
+      tokenized text:
+        size: 105525
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 379867
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/xml/en.zip
+      xml:
+        size: 119020
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/raw/en.zip
+    files: 1
+    sentences: 3154
+    tokens: 72890
+  sk:
+    downloads:
+      frequency list:
+        size: 38785
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/freq/sk.freq.gz
+      plain text:
+        size: 114826
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/mono/sk.txt.gz
+      tokenized text:
+        size: 114838
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/mono/sk.tok.gz
+      tokenized xml:
+        size: 350705
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/xml/sk.zip
+      xml:
+        size: 129880
+        url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/raw/sk.zip
+    files: 1
+    sentences: 3375
+    tokens: 59653
+moses:
+  en-sk:
+    alignments: 2896
+    download size: 237901
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/moses/en-sk.txt.zip
+    source language tokens: 59489
+    target language tokens: 72635
+tmx:
+  en-sk:
+    download size: 250494
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-488-Justice_Slovak/v1/tmx/en-sk.tmx.gz
+    source language tokens: 58869
+    target language tokens: 71996
+    translation units: 2636

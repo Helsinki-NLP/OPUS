@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-pl:
+    alignments: 2755
+    downloads:
+      alignments:
+        size: 39375
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/xml/en-pl.xml.gz
+      source language:
+        size: 137548
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/raw/en.zip
+      target language:
+        size: 160788
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/raw/pl.zip
+      tokenized source language:
+        size: 349376
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/xml/en.zip
+      tokenized target language:
+        size: 357087
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/xml/pl.zip
+    files: 1
+    source language tokens: 2756
+    target language tokens: 45914
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 31591
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/freq/en.freq.gz
+      plain text:
+        size: 124740
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/mono/en.txt.gz
+      tokenized text:
+        size: 125339
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 349376
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/xml/en.zip
+      xml:
+        size: 137548
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/raw/en.zip
+    files: 1
+    sentences: 2782
+    tokens: 58806
+  pl:
+    downloads:
+      frequency list:
+        size: 61708
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/freq/pl.freq.gz
+      plain text:
+        size: 147634
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/mono/pl.txt.gz
+      tokenized text:
+        size: 148177
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/mono/pl.tok.gz
+      tokenized xml:
+        size: 357087
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/xml/pl.zip
+      xml:
+        size: 160788
+        url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/raw/pl.zip
+    files: 1
+    sentences: 2774
+    tokens: 52499
+moses:
+  en-pl:
+    alignments: 2756
+    download size: 288444
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/moses/en-pl.txt.zip
+    source language tokens: 45914
+    target language tokens: 51966
+tmx:
+  en-pl:
+    download size: 307480
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-953-Centre_Nuclear_Resea/v1/tmx/en-pl.tmx.gz
+    source language tokens: 45914
+    target language tokens: 51966
+    translation units: 2756

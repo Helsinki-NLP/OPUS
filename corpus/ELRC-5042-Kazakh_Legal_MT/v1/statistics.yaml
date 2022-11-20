@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-kk:
+    alignments: 1000
+    downloads:
+      alignments:
+        size: 8021
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/xml/en-kk.xml.gz
+      source language:
+        size: 40247
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/raw/en.zip
+      target language:
+        size: 50463
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/raw/kk.zip
+      tokenized source language:
+        size: 100716
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/xml/en.zip
+      tokenized target language:
+        size: 103915
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/xml/kk.zip
+    files: 1
+    source language tokens: 1001
+    target language tokens: 12484
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 12184
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/freq/en.freq.gz
+      plain text:
+        size: 33959
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/mono/en.txt.gz
+      tokenized text:
+        size: 34037
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 100716
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/xml/en.zip
+      xml:
+        size: 40247
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/raw/en.zip
+    files: 1
+    sentences: 1052
+    tokens: 17600
+  kk:
+    downloads:
+      frequency list:
+        size: 22070
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/freq/kk.freq.gz
+      plain text:
+        size: 43864
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/mono/kk.txt.gz
+      tokenized text:
+        size: 44005
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/mono/kk.tok.gz
+      tokenized xml:
+        size: 103915
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/xml/kk.zip
+      xml:
+        size: 50463
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/raw/kk.zip
+    files: 1
+    sentences: 1077
+    tokens: 14803
+moses:
+  en-kk:
+    alignments: 1002
+    download size: 85117
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/moses/en-kk.txt.zip
+    source language tokens: 12495
+    target language tokens: 15822
+tmx:
+  en-kk:
+    download size: 92451
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5042-Kazakh_Legal_MT/v1/tmx/en-kk.tmx.gz
+    source language tokens: 12484
+    target language tokens: 15809
+    translation units: 1000

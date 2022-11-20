@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-ga:
+    alignments: 249
+    downloads:
+      alignments:
+        size: 2120
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/xml/en-ga.xml.gz
+      smt phrase table:
+        size: 32230
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/smt/en-ga.zip
+      source language:
+        size: 7804
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/raw/en.zip
+      target language:
+        size: 8663
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/raw/ga.zip
+      tokenized source language:
+        size: 15036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/xml/en.zip
+      tokenized target language:
+        size: 17333
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/xml/ga.zip
+      word alignment dictionary:
+        size: 1846
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/dic/en-ga.dic.gz
+      word alignments:
+        size: 10974
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/smt/en-ga.alg.zip
+    files: 1
+    source language tokens: 250
+    target language tokens: 1971
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 3030
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/freq/en.freq.gz
+      plain text:
+        size: 4935
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/mono/en.txt.gz
+      tokenized text:
+        size: 4949
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 15036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/xml/en.zip
+      xml:
+        size: 7804
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/raw/en.zip
+    files: 1
+    sentences: 277
+    tokens: 2121
+  ga:
+    downloads:
+      frequency list:
+        size: 3723
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/freq/ga.freq.gz
+      plain text:
+        size: 5744
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 5755
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 17333
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/xml/ga.zip
+      xml:
+        size: 8663
+        url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/raw/ga.zip
+    files: 1
+    sentences: 285
+    tokens: 2473
+moses:
+  en-ga:
+    alignments: 250
+    download size: 13630
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/moses/en-ga.txt.zip
+    source language tokens: 1971
+    target language tokens: 2289
+tmx:
+  en-ga:
+    download size: 11705
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-2468-Oifig_Ombudsman_irin/v1/tmx/en-ga.tmx.gz
+    source language tokens: 1971
+    target language tokens: 2289
+    translation units: 250

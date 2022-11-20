@@ -1,0 +1,87 @@
+---
+bitexts:
+  el-en:
+    alignments: 3874
+    downloads:
+      alignments:
+        size: 53678
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/xml/el-en.xml.gz
+      smt phrase table:
+        size: 1206886
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/smt/el-en.zip
+      source language:
+        size: 186877
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/raw/el.zip
+      target language:
+        size: 137235
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/raw/en.zip
+      tokenized source language:
+        size: 464973
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/xml/el.zip
+      tokenized target language:
+        size: 409869
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/xml/en.zip
+      word alignment dictionary:
+        size: 56793
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/dic/el-en.dic.gz
+      word alignments:
+        size: 251607
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/smt/el-en.alg.zip
+    files: 1
+    source language tokens: 3875
+    target language tokens: 63688
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 46615
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/freq/el.freq.gz
+      plain text:
+        size: 169449
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/mono/el.txt.gz
+      tokenized text:
+        size: 170382
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 464973
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/xml/el.zip
+      xml:
+        size: 186877
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/raw/el.zip
+    files: 1
+    sentences: 4143
+    tokens: 73606
+  en:
+    downloads:
+      frequency list:
+        size: 21712
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/freq/en.freq.gz
+      plain text:
+        size: 119573
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/mono/en.txt.gz
+      tokenized text:
+        size: 120277
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 409869
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/xml/en.zip
+      xml:
+        size: 137235
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/raw/en.zip
+    files: 1
+    sentences: 4189
+    tokens: 73830
+moses:
+  el-en:
+    alignments: 3875
+    download size: 310543
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/moses/el-en.txt.zip
+    source language tokens: 63688
+    target language tokens: 64212
+tmx:
+  el-en:
+    download size: 341946
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1984-Hellenic_Gaming_Comm/v1/tmx/el-en.tmx.gz
+    source language tokens: 63688
+    target language tokens: 64212
+    translation units: 3875

@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-nb:
+    alignments: 3652
+    downloads:
+      alignments:
+        size: 28068
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/xml/en-nb.xml.gz
+      source language:
+        size: 146014
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/raw/en.zip
+      target language:
+        size: 146118
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/raw/nb.zip
+      tokenized source language:
+        size: 392421
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/xml/en.zip
+      tokenized target language:
+        size: 358530
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/xml/nb.zip
+    files: 1
+    source language tokens: 3653
+    target language tokens: 53311
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 24840
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/freq/en.freq.gz
+      plain text:
+        size: 130392
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/mono/en.txt.gz
+      tokenized text:
+        size: 130924
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 392421
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/xml/en.zip
+      xml:
+        size: 146014
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/raw/en.zip
+    files: 1
+    sentences: 3679
+    tokens: 69834
+  nb:
+    downloads:
+      frequency list:
+        size: 38037
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/freq/nb.freq.gz
+      plain text:
+        size: 130593
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/mono/nb.txt.gz
+      tokenized text:
+        size: 131304
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/mono/nb.tok.gz
+      tokenized xml:
+        size: 358530
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/xml/nb.zip
+      xml:
+        size: 146118
+        url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/raw/nb.zip
+    files: 1
+    sentences: 3677
+    tokens: 60246
+moses:
+  en-nb:
+    alignments: 3653
+    download size: 281232
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/moses/en-nb.txt.zip
+    source language tokens: 53311
+    target language tokens: 62784
+tmx:
+  en-nb:
+    download size: 296938
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-565-avinor.no/v1/tmx/en-nb.tmx.gz
+    source language tokens: 53311
+    target language tokens: 62784
+    translation units: 3653

@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-es:
+    alignments: 5295
+    downloads:
+      alignments:
+        size: 44714
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/xml/en-es.xml.gz
+      smt phrase table:
+        size: 1848077
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/smt/en-es.zip
+      source language:
+        size: 339797
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/raw/en.zip
+      target language:
+        size: 365340
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/raw/es.zip
+      tokenized source language:
+        size: 929771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/xml/en.zip
+      tokenized target language:
+        size: 1003074
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/xml/es.zip
+      word alignment dictionary:
+        size: 91875
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/dic/en-es.dic.gz
+      word alignments:
+        size: 531140
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/smt/en-es.alg.zip
+    files: 1
+    source language tokens: 5296
+    target language tokens: 136943
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 43449
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/freq/en.freq.gz
+      plain text:
+        size: 310729
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/mono/en.txt.gz
+      tokenized text:
+        size: 312578
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 929771
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/xml/en.zip
+      xml:
+        size: 339797
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/raw/en.zip
+    files: 1
+    sentences: 6058
+    tokens: 157895
+  es:
+    downloads:
+      frequency list:
+        size: 53560
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/freq/es.freq.gz
+      plain text:
+        size: 337912
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/mono/es.txt.gz
+      tokenized text:
+        size: 339607
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/mono/es.tok.gz
+      tokenized xml:
+        size: 1003074
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/xml/es.zip
+      xml:
+        size: 365340
+        url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/raw/es.zip
+    files: 1
+    sentences: 5856
+    tokens: 171466
+moses:
+  en-es:
+    alignments: 5296
+    download size: 680705
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/moses/en-es.txt.zip
+    source language tokens: 136943
+    target language tokens: 150850
+tmx:
+  en-es:
+    download size: 728996
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-1083-AECOSAN/v1/tmx/en-es.tmx.gz
+    source language tokens: 136943
+    target language tokens: 150850
+    translation units: 5296

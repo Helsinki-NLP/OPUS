@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 84
+    downloads:
+      alignments:
+        size: 1265
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/xml/el-en.xml.gz
+      source language:
+        size: 8870
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/raw/el.zip
+      target language:
+        size: 7183
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/raw/en.zip
+      tokenized source language:
+        size: 16797
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/xml/el.zip
+      tokenized target language:
+        size: 15626
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/xml/en.zip
+    files: 1
+    source language tokens: 85
+    target language tokens: 1934
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 4611
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/freq/el.freq.gz
+      plain text:
+        size: 6601
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/mono/el.txt.gz
+      tokenized text:
+        size: 6637
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 16797
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/xml/el.zip
+      xml:
+        size: 8870
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/raw/el.zip
+    files: 1
+    sentences: 96
+    tokens: 2278
+  en:
+    downloads:
+      frequency list:
+        size: 2980
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/freq/en.freq.gz
+      plain text:
+        size: 4960
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/mono/en.txt.gz
+      tokenized text:
+        size: 4993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 15626
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/xml/en.zip
+      xml:
+        size: 7183
+        url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/raw/en.zip
+    files: 1
+    sentences: 94
+    tokens: 2457
+moses:
+  el-en:
+    alignments: 85
+    download size: 13619
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/moses/el-en.txt.zip
+    source language tokens: 1934
+    target language tokens: 2094
+tmx:
+  el-en:
+    download size: 12411
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-662-Expression_interest/v1/tmx/el-en.tmx.gz
+    source language tokens: 1934
+    target language tokens: 2094
+    translation units: 85

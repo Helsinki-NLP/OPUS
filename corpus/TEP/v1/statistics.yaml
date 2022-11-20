@@ -1,0 +1,84 @@
+---
+bitexts:
+  en-fa:
+    alignments: 594353
+    downloads:
+      alignments:
+        size: 4574277
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/xml/en-fa.xml.gz
+      smt phrase table:
+        size: 29914844
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/smt/en-fa.zip
+      source language:
+        size: 9414226
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/raw/en.zip
+      target language:
+        size: 11265721
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/raw/fa.zip
+      tokenized source language:
+        size: 37786140
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/xml/en.zip
+      tokenized target language:
+        size: 13578294
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/xml/fa.zip
+      word alignments:
+        size: 16978261
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/smt/en-fa.alg.zip
+    files: 1
+    source language tokens: 612086
+    target language tokens: 4357574
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 440181
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/freq/en.freq.gz
+      plain text:
+        size: 7181699
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/mono/en.txt.gz
+      tokenized text:
+        size: 7181749
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 37786140
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/xml/en.zip
+      xml:
+        size: 9414226
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/raw/en.zip
+    files: 1
+    sentences: 612086
+    tokens: 4499918
+  fa:
+    downloads:
+      frequency list:
+        size: 632836
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/freq/fa.freq.gz
+      plain text:
+        size: 9170583
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/mono/fa.txt.gz
+      tokenized text:
+        size: 9170583
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/mono/fa.tok.gz
+      tokenized xml:
+        size: 13578294
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/xml/fa.zip
+      xml:
+        size: 11265721
+        url: https://object.pouta.csc.fi/OPUS-TEP/v1/raw/fa.zip
+    files: 1
+    sentences: 612086
+    tokens: 4395393
+moses:
+  en-fa:
+    alignments: 612086
+    download size: 16353318
+    download url: https://object.pouta.csc.fi/OPUS-TEP/v1/moses/en-fa.txt.zip
+    source language tokens: 4395393
+    target language tokens: 4499928
+tmx:
+  en-fa:
+    download size: 20672102
+    download url: https://object.pouta.csc.fi/OPUS-TEP/v1/tmx/en-fa.tmx.gz
+    source language tokens: 4357574
+    target language tokens: 4460379
+    translation units: 594353

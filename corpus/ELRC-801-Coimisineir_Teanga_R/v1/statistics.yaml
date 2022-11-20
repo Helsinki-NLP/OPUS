@@ -1,0 +1,83 @@
+---
+bitexts:
+  en-ga:
+    alignments: 2107
+    downloads:
+      alignments:
+        size: 17905
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/en-ga.xml.gz
+      source language:
+        size: 90636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/raw/en.zip
+      target language:
+        size: 98343
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/raw/ga.zip
+      tokenized source language:
+        size: 274532
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/en.zip
+      tokenized target language:
+        size: 294809
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/ga.zip
+    files: 1
+    source language tokens: 2323
+    target language tokens: 44791
+monolingual:
+  801:
+    downloads:
+      tokenized xml:
+        size: 1469
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/801.zip
+  en:
+    downloads:
+      frequency list:
+        size: 14889
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/freq/en.freq.gz
+      plain text:
+        size: 79998
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/mono/en.txt.gz
+      tokenized text:
+        size: 80164
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 274532
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/en.zip
+      xml:
+        size: 90636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/raw/en.zip
+    files: 1
+    sentences: 2329
+    tokens: 51591
+  ga:
+    downloads:
+      frequency list:
+        size: 18964
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/freq/ga.freq.gz
+      plain text:
+        size: 87204
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 87441
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 294809
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/ga.zip
+      xml:
+        size: 98343
+        url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/raw/ga.zip
+    files: 1
+    sentences: 2340
+    tokens: 54118
+moses:
+  en-ga:
+    alignments: 2324
+    download size: 180045
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/moses/en-ga.txt.zip
+    source language tokens: 47293
+    target language tokens: 49316
+tmx:
+  en-ga:
+    download size: 184579
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/tmx/en-ga.tmx.gz
+    source language tokens: 44791
+    target language tokens: 46643
+    translation units: 2107

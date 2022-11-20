@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-is:
+    alignments: 41072
+    downloads:
+      alignments:
+        size: 311453
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/en-is.xml.gz
+      source language:
+        size: 1774803
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/raw/en.zip
+      target language:
+        size: 1892662
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/raw/is.zip
+      tokenized source language:
+        size: 4730476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/en.zip
+      tokenized target language:
+        size: 4437993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/is.zip
+    files: 1
+    source language tokens: 41073
+    target language tokens: 629357
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 123739
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/freq/en.freq.gz
+      plain text:
+        size: 1602577
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/mono/en.txt.gz
+      tokenized text:
+        size: 1609665
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 4730476
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/en.zip
+      xml:
+        size: 1774803
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/raw/en.zip
+    files: 1
+    sentences: 41219
+    tokens: 833153
+  is:
+    downloads:
+      frequency list:
+        size: 266844
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/freq/is.freq.gz
+      plain text:
+        size: 1723636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/mono/is.txt.gz
+      tokenized text:
+        size: 1730181
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 4437993
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/is.zip
+      xml:
+        size: 1892662
+        url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/raw/is.zip
+    files: 1
+    sentences: 41320
+    tokens: 699153
+moses:
+  en-is:
+    alignments: 41073
+    download size: 3518524
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/moses/en-is.txt.zip
+    source language tokens: 629357
+    target language tokens: 744304
+tmx:
+  en-is:
+    download size: 3801537
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/tmx/en-is.tmx.gz
+    source language tokens: 629357
+    target language tokens: 744304
+    translation units: 41073

@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-lt:
+    alignments: 12717
+    downloads:
+      alignments:
+        size: 175584
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/xml/en-lt.xml.gz
+      source language:
+        size: 623400
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/raw/en.zip
+      target language:
+        size: 641575
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/raw/lt.zip
+      tokenized source language:
+        size: 1766527
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/xml/en.zip
+      tokenized target language:
+        size: 1554691
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/xml/lt.zip
+    files: 1
+    source language tokens: 21224
+    target language tokens: 159230
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 44730
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/freq/en.freq.gz
+      plain text:
+        size: 524502
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/mono/en.txt.gz
+      tokenized text:
+        size: 527312
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 1766527
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/xml/en.zip
+      xml:
+        size: 623400
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/raw/en.zip
+    files: 1
+    sentences: 22714
+    tokens: 308022
+  lt:
+    downloads:
+      frequency list:
+        size: 88780
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/freq/lt.freq.gz
+      plain text:
+        size: 536975
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/mono/lt.txt.gz
+      tokenized text:
+        size: 539727
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/mono/lt.tok.gz
+      tokenized xml:
+        size: 1554691
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/xml/lt.zip
+      xml:
+        size: 641575
+        url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/raw/lt.zip
+    files: 1
+    sentences: 23461
+    tokens: 239097
+moses:
+  en-lt:
+    alignments: 21225
+    download size: 1179553
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/moses/en-lt.txt.zip
+    source language tokens: 205310
+    target language tokens: 277260
+tmx:
+  en-lt:
+    download size: 1018810
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-405-President_Lithuania/v1/tmx/en-lt.tmx.gz
+    source language tokens: 159230
+    target language tokens: 214381
+    translation units: 12717

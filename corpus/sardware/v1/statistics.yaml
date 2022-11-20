@@ -1,0 +1,87 @@
+---
+bitexts:
+  en-sc:
+    alignments: 6072
+    downloads:
+      alignments:
+        size: 49759
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/xml/en-sc.xml.gz
+      smt phrase table:
+        size: 681881
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/smt/en-sc.zip
+      source language:
+        size: 88318
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/raw/en.zip
+      target language:
+        size: 96348
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/raw/sc.zip
+      tokenized source language:
+        size: 311476
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/xml/en.zip
+      tokenized target language:
+        size: 274144
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/xml/sc.zip
+      word alignment dictionary:
+        size: 20
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/dic/en-sc.dic.gz
+      word alignments:
+        size: 100573
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/smt/en-sc.alg.zip
+    files: 4
+    source language tokens: 6150
+    target language tokens: 31193
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 12542
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/freq/en.freq.gz
+      plain text:
+        size: 59215
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/mono/en.txt.gz
+      tokenized text:
+        size: 58600
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 311476
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/xml/en.zip
+      xml:
+        size: 88318
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/raw/en.zip
+    files: 4
+    sentences: 6551
+    tokens: 36243
+  sc:
+    downloads:
+      frequency list:
+        size: 14407
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/freq/sc.freq.gz
+      plain text:
+        size: 67349
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/mono/sc.txt.gz
+      tokenized text:
+        size: 68466
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/mono/sc.tok.gz
+      tokenized xml:
+        size: 274144
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/xml/sc.zip
+      xml:
+        size: 96348
+        url: https://object.pouta.csc.fi/OPUS-sardware/v1/raw/sc.zip
+    files: 4
+    sentences: 6555
+    tokens: 48452
+moses:
+  en-sc:
+    alignments: 6150
+    download size: 161620
+    download url: https://object.pouta.csc.fi/OPUS-sardware/v1/moses/en-sc.txt.zip
+    source language tokens: 31372
+    target language tokens: 36976
+tmx:
+  en-sc:
+    download size: 162465
+    download url: https://object.pouta.csc.fi/OPUS-sardware/v1/tmx/en-sc.tmx.gz
+    source language tokens: 31193
+    target language tokens: 36784
+    translation units: 6072

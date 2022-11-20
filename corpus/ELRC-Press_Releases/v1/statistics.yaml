@@ -1,0 +1,131 @@
+---
+bitexts:
+  el-en:
+    alignments: 6095
+    downloads:
+      alignments:
+        size: 80375
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/el-en.xml.gz
+      source language:
+        size: 363957
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/raw/el.zip
+      target language:
+        size: 279992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/raw/en.zip
+      tokenized source language:
+        size: 854345
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/el.zip
+      tokenized target language:
+        size: 802471
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/en.zip
+    files: 1
+    source language tokens: 6116
+    target language tokens: 116897
+  en-ga:
+    alignments: 353
+    downloads:
+      alignments:
+        size: 3407
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/en-ga.xml.gz
+      source language:
+        size: 279992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/raw/en.zip
+      target language:
+        size: 23582
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/raw/ga.zip
+      tokenized source language:
+        size: 802471
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/en.zip
+      tokenized target language:
+        size: 65193
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/ga.zip
+    files: 1
+    source language tokens: 354
+    target language tokens: 8646
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 85599
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/freq/el.freq.gz
+      plain text:
+        size: 341433
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/mono/el.txt.gz
+      tokenized text:
+        size: 342996
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 854345
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/el.zip
+      xml:
+        size: 363957
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/raw/el.zip
+    files: 1
+    sentences: 5876
+    tokens: 132297
+  en:
+    downloads:
+      frequency list:
+        size: 49603
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/freq/en.freq.gz
+      plain text:
+        size: 254550
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/mono/en.txt.gz
+      tokenized text:
+        size: 256121
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 802471
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/en.zip
+      xml:
+        size: 279992
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/raw/en.zip
+    files: 1
+    sentences: 6300
+    tokens: 143379
+  ga:
+    downloads:
+      frequency list:
+        size: 8294
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/freq/ga.freq.gz
+      plain text:
+        size: 19840
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 19901
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/mono/ga.tok.gz
+      tokenized xml:
+        size: 65193
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/ga.zip
+      xml:
+        size: 23582
+        url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/raw/ga.zip
+    files: 1
+    sentences: 478
+    tokens: 11520
+moses:
+  el-en:
+    alignments: 6117
+    download size: 620533
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/moses/el-en.txt.zip
+    source language tokens: 117171
+    target language tokens: 118587
+  en-ga:
+    alignments: 354
+    download size: 41423
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/moses/en-ga.txt.zip
+    source language tokens: 8646
+    target language tokens: 10472
+tmx:
+  el-en:
+    download size: 685014
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/tmx/el-en.tmx.gz
+    source language tokens: 116897
+    target language tokens: 118306
+    translation units: 6095
+  en-ga:
+    download size: 42614
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/tmx/en-ga.tmx.gz
+    source language tokens: 8646
+    target language tokens: 10472
+    translation units: 354

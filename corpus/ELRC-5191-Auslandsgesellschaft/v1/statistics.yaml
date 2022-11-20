@@ -1,0 +1,78 @@
+---
+bitexts:
+  de-uk:
+    alignments: 1987
+    downloads:
+      alignments:
+        size: 15237
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/xml/de-uk.xml.gz
+      source language:
+        size: 72960
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/raw/de.zip
+      target language:
+        size: 85941
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/raw/uk.zip
+      tokenized source language:
+        size: 175556
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/xml/de.zip
+      tokenized target language:
+        size: 191251
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/xml/uk.zip
+    files: 1
+    source language tokens: 1988
+    target language tokens: 24158
+monolingual:
+  de:
+    downloads:
+      frequency list:
+        size: 24015
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/freq/de.freq.gz
+      plain text:
+        size: 63491
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/mono/de.txt.gz
+      tokenized text:
+        size: 63889
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/mono/de.tok.gz
+      tokenized xml:
+        size: 175556
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/xml/de.zip
+      xml:
+        size: 72960
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/raw/de.zip
+    files: 1
+    sentences: 2001
+    tokens: 29031
+  uk:
+    downloads:
+      frequency list:
+        size: 30712
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/freq/uk.freq.gz
+      plain text:
+        size: 76936
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/mono/uk.txt.gz
+      tokenized text:
+        size: 77370
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/mono/uk.tok.gz
+      tokenized xml:
+        size: 191251
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/xml/uk.zip
+      xml:
+        size: 85941
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/raw/uk.zip
+    files: 1
+    sentences: 1988
+    tokens: 28809
+moses:
+  de-uk:
+    alignments: 1988
+    download size: 151934
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/moses/de-uk.txt.zip
+    source language tokens: 24158
+    target language tokens: 24893
+tmx:
+  de-uk:
+    download size: 168733
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5191-Auslandsgesellschaft/v1/tmx/de-uk.tmx.gz
+    source language tokens: 24158
+    target language tokens: 24893
+    translation units: 1988

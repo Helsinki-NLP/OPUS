@@ -1,0 +1,78 @@
+---
+bitexts:
+  el-en:
+    alignments: 16285
+    downloads:
+      alignments:
+        size: 201958
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/xml/el-en.xml.gz
+      source language:
+        size: 999636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/raw/el.zip
+      target language:
+        size: 725010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/raw/en.zip
+      tokenized source language:
+        size: 2278495
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/xml/el.zip
+      tokenized target language:
+        size: 2026625
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/xml/en.zip
+    files: 1
+    source language tokens: 16286
+    target language tokens: 307996
+monolingual:
+  el:
+    downloads:
+      frequency list:
+        size: 125430
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/freq/el.freq.gz
+      plain text:
+        size: 936054
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/mono/el.txt.gz
+      tokenized text:
+        size: 939353
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/mono/el.tok.gz
+      tokenized xml:
+        size: 2278495
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/xml/el.zip
+      xml:
+        size: 999636
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/raw/el.zip
+    files: 1
+    sentences: 16811
+    tokens: 348511
+  en:
+    downloads:
+      frequency list:
+        size: 56554
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/freq/en.freq.gz
+      plain text:
+        size: 657772
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/mono/en.txt.gz
+      tokenized text:
+        size: 660672
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 2026625
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/xml/en.zip
+      xml:
+        size: 725010
+        url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/raw/en.zip
+    files: 1
+    sentences: 16908
+    tokens: 360148
+moses:
+  el-en:
+    alignments: 16286
+    download size: 1675446
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/moses/el-en.txt.zip
+    source language tokens: 307996
+    target language tokens: 318456
+tmx:
+  el-en:
+    download size: 1866604
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-843-collection_reports_G/v1/tmx/el-en.tmx.gz
+    source language tokens: 307996
+    target language tokens: 318456
+    translation units: 16286
