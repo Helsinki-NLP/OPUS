@@ -1,35 +1,36 @@
 ---
-alignments: 422171
+alignments: 422172
 copyright: 'The corpus is released under the CC-BY-4.0, in other words the corpus can be freely shared and adapted as long as appropriate'
 language pairs:
-  - en-ur
-  - en-hi
-  - en-gu
-  - en-or
-  - en-kn
-  - en-ml
-  - en-te
-  - en-mr
-  - en-mni
-  - as-en
   - en-pa
-  - bn-en
+  - en-hi
+  - en-kn
   - en-ta
+  - en-gu
+  - en-te
+  - en-ml
+  - en-or
+  - en-ur
+  - en-mni
+  - bn-en
+  - en-mr
+  - as-en
 languages:
-  - gu
   - hi
-  - en
+  - ur
+  - pa
+  - gu
+  - or
   - ml
   - mr
-  - pa
-  - or
-  - ta
-  - bn
   - kn
-  - te
-  - mni
   - as
-  - ur
+  - en
+  - te
+  - bn
+  - mni
+  - ta
+license: CC-BY-SA 4.0
 moses alignments: 422185
 name: pmindia
 number of language pairs: 13

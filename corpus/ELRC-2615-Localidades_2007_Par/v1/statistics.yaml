@@ -28,8 +28,8 @@ bitexts:
         size: 3185
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/smt/ca-es.alg.zip
     files: 1
-    source language tokens: 3
-    target language tokens: 49
+    source language tokens: 59
+    target language tokens: 63
   ca-fr:
     alignments: 3
     downloads:
@@ -58,8 +58,8 @@ bitexts:
         size: 3296
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/smt/ca-fr.alg.zip
     files: 2
-    source language tokens: 4
-    target language tokens: 64
+    source language tokens: 78
+    target language tokens: 78
   ca-it:
     alignments: 2
     downloads:
@@ -88,8 +88,8 @@ bitexts:
         size: 2952
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/smt/ca-it.alg.zip
     files: 1
-    source language tokens: 3
-    target language tokens: 20
+    source language tokens: 28
+    target language tokens: 34
   ca-pt:
     alignments: 4
     downloads:
@@ -118,8 +118,8 @@ bitexts:
         size: 3345
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/smt/ca-pt.alg.zip
     files: 2
-    source language tokens: 5
-    target language tokens: 76
+    source language tokens: 93
+    target language tokens: 109
   es-fr:
     alignments: 1444
     downloads:
@@ -148,10 +148,9 @@ bitexts:
         size: 135868
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/smt/es-fr.alg.zip
     files: 1
-    source language tokens: 1445
-    target language tokens: 45324
+    source language tokens: 53101
+    target language tokens: 53175
   es-it:
-    alignments: 42895
     downloads:
       alignments:
         size: 11402
@@ -168,9 +167,6 @@ bitexts:
       tokenized target language:
         size: 868807
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/xml/it.zip
-    files: 1416
-    source language tokens: 47083
-    target language tokens: ~
   es-pt:
     alignments: 1468
     downloads:
@@ -199,8 +195,8 @@ bitexts:
         size: 103345
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/smt/es-pt.alg.zip
     files: 4
-    source language tokens: 1469
-    target language tokens: 43229
+    source language tokens: 49060
+    target language tokens: 53397
   fr-it:
     alignments: 1434
     downloads:
@@ -220,8 +216,8 @@ bitexts:
         size: 868807
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/xml/it.zip
     files: 1
-    source language tokens: 1435
-    target language tokens: 42913
+    source language tokens: 50047
+    target language tokens: 53121
   fr-pt:
     alignments: 1404
     downloads:
@@ -250,8 +246,8 @@ bitexts:
         size: 115597
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/smt/fr-pt.alg.zip
     files: 3
-    source language tokens: 1405
-    target language tokens: 43177
+    source language tokens: 49008
+    target language tokens: 53439
   it-pt:
     alignments: 1414
     downloads:
@@ -280,8 +276,8 @@ bitexts:
         size: 119414
         url: https://object.pouta.csc.fi/OPUS-ELRC-2615-Localidades_2007_Par/v1/smt/it-pt.alg.zip
     files: 2
-    source language tokens: 1415
-    target language tokens: 42954
+    source language tokens: 48753
+    target language tokens: 50104
 monolingual:
   ca:
     downloads:

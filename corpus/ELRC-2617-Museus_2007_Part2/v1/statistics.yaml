@@ -28,8 +28,8 @@ bitexts:
         size: 2935
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-es.alg.zip
     files: 2
-    source language tokens: 3
-    target language tokens: 36
+    source language tokens: 38
+    target language tokens: 40
   ca-fr:
     alignments: 4
     downloads:
@@ -58,8 +58,8 @@ bitexts:
         size: 3081
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-fr.alg.zip
     files: 2
-    source language tokens: 5
-    target language tokens: 58
+    source language tokens: 65
+    target language tokens: 68
   ca-it:
     alignments: 2
     downloads:
@@ -88,8 +88,8 @@ bitexts:
         size: 2858
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-it.alg.zip
     files: 1
-    source language tokens: 3
-    target language tokens: 19
+    source language tokens: 23
+    target language tokens: 29
   ca-pt:
     alignments: 5
     downloads:
@@ -118,10 +118,9 @@ bitexts:
         size: 3128
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-pt.alg.zip
     files: 2
-    source language tokens: 6
-    target language tokens: 63
+    source language tokens: 82
+    target language tokens: 90
   en-it:
-    alignments: 112
     downloads:
       alignments:
         size: 237
@@ -138,9 +137,6 @@ bitexts:
       tokenized target language:
         size: 498135
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
-    files: 5
-    source language tokens: 112
-    target language tokens: ~
   en-pt:
     alignments: 6
     downloads:
@@ -169,8 +165,8 @@ bitexts:
         size: 4554
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/en-pt.alg.zip
     files: 2
-    source language tokens: 7
-    target language tokens: 227
+    source language tokens: 275
+    target language tokens: 292
   es-fr:
     alignments: 790
     downloads:
@@ -199,8 +195,8 @@ bitexts:
         size: 80528
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/es-fr.alg.zip
     files: 3
-    source language tokens: 791
-    target language tokens: 26057
+    source language tokens: 29547
+    target language tokens: 31120
   es-it:
     alignments: 774
     downloads:
@@ -220,10 +216,10 @@ bitexts:
         size: 498135
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
     files: 3
-    source language tokens: 775
-    target language tokens: 23870
+    source language tokens: 28170
+    target language tokens: 29440
   es-pt:
-    alignments: 864
+    alignments: 866
     downloads:
       alignments:
         size: 7259
@@ -250,8 +246,8 @@ bitexts:
         size: 61812
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/es-pt.alg.zip
     files: 4
-    source language tokens: 866
-    target language tokens: 24894
+    source language tokens: 28565
+    target language tokens: 30087
   fr-it:
     alignments: 760
     downloads:
@@ -271,10 +267,10 @@ bitexts:
         size: 498135
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
     files: 2
-    source language tokens: 761
-    target language tokens: 23685
+    source language tokens: 27939
+    target language tokens: 30794
   fr-pt:
-    alignments: 770
+    alignments: 772
     downloads:
       alignments:
         size: 7074
@@ -301,10 +297,10 @@ bitexts:
         size: 71895
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/fr-pt.alg.zip
     files: 3
-    source language tokens: 772
-    target language tokens: 24859
+    source language tokens: 28514
+    target language tokens: 31391
   it-pt:
-    alignments: 807
+    alignments: 808
     downloads:
       alignments:
         size: 7020
@@ -331,8 +327,8 @@ bitexts:
         size: 68067
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/it-pt.alg.zip
     files: 4
-    source language tokens: 808
-    target language tokens: 23978
+    source language tokens: 28261
+    target language tokens: 28298
 monolingual:
   ca:
     downloads:
