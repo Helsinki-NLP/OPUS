@@ -12,7 +12,7 @@ corpus/releases.md:
 	echo "|--------|----------| " >> $@
 	for c in `find corpus -maxdepth 1 -mindepth 1 -type d -printf "%f\n" | sort`; do \
 	  if [ -e corpus/$$c/$$v/info.yaml ]; then \
-	    w=`grep website corpus/$$c/$$v/info.yaml | cut -f2 -d' '`; \
+	    w=`grep website corpus/$$c/info.yaml | cut -f2 -d' '`; \
 	    echo -n "| [$$c]($$w) | " >> $@; \
 	  else \
 	    echo -n "| $$c | " >> $@; \
@@ -31,7 +31,7 @@ corpus/releases-no-elrc.md:
 	echo "|--------|----------| " >> $@
 	for c in `find corpus -maxdepth 1 -mindepth 1 -type d -printf "%f\n" | grep -v ELRC | grep -v ELRA | sort`; do \
 	  if [ -e corpus/$$c/$$v/info.yaml ]; then \
-	    w=`grep website corpus/$$c/$$v/info.yaml | cut -f2 -d' '`; \
+	    w=`grep website corpus/$$c/info.yaml | cut -f2 -d' '`; \
 	    echo -n "| [$$c]($$w) | " >> $@; \
 	  else \
 	    echo -n "| $$c | " >> $@; \
@@ -43,13 +43,13 @@ corpus/releases-no-elrc.md:
 	done
 
 corpus/releases-elrc.md:
-	echo "# List of corpus releases (without ELRC)" >$@
+	echo "# List of ELRC corpus releases" >$@
 	echo "" >> $@
 	echo "| corpus | releases | " >> $@
 	echo "|--------|----------| " >> $@
 	for c in `find corpus -maxdepth 1 -mindepth 1 -type d -name 'ELRC*' -printf "%f\n" | sort`; do \
 	  if [ -e corpus/$$c/$$v/info.yaml ]; then \
-	    w=`grep website corpus/$$c/$$v/info.yaml | cut -f2 -d' '`; \
+	    w=`grep website corpus/$$c/info.yaml | cut -f2 -d' '`; \
 	    echo -n "| [$$c]($$w) | " >> $@; \
 	  else \
 	    echo -n "| $$c | " >> $@; \
