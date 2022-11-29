@@ -107,6 +107,6 @@ of Training Data and Building User Tailored Machine Translation (EU ICT PSP)
 * [EOSC-nordic](https://www.eosc-nordic.eu/) - the European Open Science Cloud within the Nordic and Baltic countries (EU Horizon 2020)
 * [ELG](https://live.european-language-grid.eu/catalogue/project/2866) - the European Language Grid (EU Horizon 2020)
 * [FoTran](https://www.helsinki.fi/en/researchgroups/natural-language-understanding) - Found in Translation (EU ERC)
-* HPLT - High-Performance Language Technologies (EU Horizon)
+* [HPLT](https://hplt-project.org/) - High-Performance Language Technologies (EU Horizon)
 
 OPUS is hosted by [CSC](https://www.csc.fi), the IT Center for Science in Finland, and heavily draws on the HPC resources provided by CSC. OPUS is also part of [NLPL](http://wiki.nlpl.eu), the Nordic Language Processing Laboratory. Last but not least, OPUS would not be possible without the various contributions from the community including aligned data sets and tools to create and process parallel corpora.
