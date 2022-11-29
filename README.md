@@ -7,7 +7,7 @@ The Open Parallel Corpus
 * contact: opus-project AT helsinki DOT fi
 
 
-This directory contains information about the [released parallel corpora](blob/main/corpus/releases.md) and derived data
+This directory contains information about the [released parallel corpora](RELEASES.md) and derived data
 sets in OPUS, the open collection of parallel corpora. Each sub-directory in `corpus/`
 corresponds to one specific resource with released versions and data sets
 according to the following format:

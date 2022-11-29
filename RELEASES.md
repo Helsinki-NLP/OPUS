@@ -1,7 +1,174 @@
-# List of ELRC corpus releases
+# List of corpus releases
+
+* [list of releases without ELRC](RELEASES-without-ELRC.md)
 
 | corpus | releases | 
 |--------|----------| 
+| [ada83](http://opus.nlpl.eu/ada83.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ada83/v1)  |
+| [Bianet](http://opus.nlpl.eu/Bianet.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Bianet/v1)  |
+| [bible-uedin](http://opus.nlpl.eu/bible.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/bible-uedin/v1)  |
+| [Books](http://opus.nlpl.eu/Books.php) | [2018-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Books/2018-03-03) [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Books/v1)  |
+| [CAPES](http://opus.nlpl.eu/CAPES.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/CAPES/v1)  |
+| [CCAligned](http://opus.nlpl.eu/CCAligned.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/CCAligned/v1)  |
+| [CCMatrix](http://opus.nlpl.eu/CCMatrix.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/CCMatrix/v1)  |
+| [ChuBiCo](http://opus.nlpl.eu/ChuBiCo.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ChuBiCo/v1)  |
+| [DGT](http://opus.nlpl.eu/DGT.php) | [v2019](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DGT/v2019) [v4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DGT/v4)  |
+| [DOGC](http://opus.nlpl.eu/DOGC.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DOGC/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DOGC/v3)  |
+| [ECB](http://opus.nlpl.eu/ECB.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ECB/v1)  |
+| [EhuHac](http://opus.nlpl.eu/EhuHac.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EhuHac/v1)  |
+| [EiTB-ParCC](http://opus.nlpl.eu/EiTB.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EiTB-ParCC/v1)  |
+| [Elhuyar](http://opus.nlpl.eu/Elhuyar.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Elhuyar/v1)  |
+| [ELITR-ECA](http://opus.nlpl.eu/ELITR.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELITR-ECA/v1)  |
+| [ELRA-W0130](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0130/v1)  |
+| [ELRA-W0131](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0131/v1)  |
+| [ELRA-W0133](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0133/v1)  |
+| [ELRA-W0134](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0134/v1)  |
+| [ELRA-W0135](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0135/v1)  |
+| [ELRA-W0136](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0136/v1)  |
+| [ELRA-W0137](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0137/v1)  |
+| [ELRA-W0138](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0138/v1)  |
+| [ELRA-W0142](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0142/v1)  |
+| [ELRA-W0143](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0143/v1)  |
+| [ELRA-W0144](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0144/v1)  |
+| [ELRA-W0145](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0145/v1)  |
+| [ELRA-W0146](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0146/v1)  |
+| [ELRA-W0147](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0147/v1)  |
+| [ELRA-W0148](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0148/v1)  |
+| [ELRA-W0149](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0149/v1)  |
+| [ELRA-W0150](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0150/v1)  |
+| [ELRA-W0151](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0151/v1)  |
+| [ELRA-W0152](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0152/v1)  |
+| [ELRA-W0154](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0154/v1)  |
+| [ELRA-W0156](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0156/v1)  |
+| [ELRA-W0157](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0157/v1)  |
+| [ELRA-W0158](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0158/v1)  |
+| [ELRA-W0159](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0159/v1)  |
+| [ELRA-W0160](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0160/v1)  |
+| [ELRA-W0164](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0164/v1)  |
+| [ELRA-W0165](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0165/v1)  |
+| [ELRA-W0167](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0167/v1)  |
+| [ELRA-W0168](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0168/v1)  |
+| [ELRA-W0169](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0169/v1)  |
+| [ELRA-W0170](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0170/v1)  |
+| [ELRA-W0173](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0173/v1)  |
+| [ELRA-W0174](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0174/v1)  |
+| [ELRA-W0175](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0175/v1)  |
+| [ELRA-W0176](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0176/v1)  |
+| [ELRA-W0177](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0177/v1)  |
+| [ELRA-W0178](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0178/v1)  |
+| [ELRA-W0180](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0180/v1)  |
+| [ELRA-W0181](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0181/v1)  |
+| [ELRA-W0182](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0182/v1)  |
+| [ELRA-W0183](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0183/v1)  |
+| [ELRA-W0184](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0184/v1)  |
+| [ELRA-W0185](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0185/v1)  |
+| [ELRA-W0186](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0186/v1)  |
+| [ELRA-W0187](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0187/v1)  |
+| [ELRA-W0188](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0188/v1)  |
+| [ELRA-W0189](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0189/v1)  |
+| [ELRA-W0190](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0190/v1)  |
+| [ELRA-W0191](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0191/v1)  |
+| [ELRA-W0192](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0192/v1)  |
+| [ELRA-W0193](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0193/v1)  |
+| [ELRA-W0194](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0194/v1)  |
+| [ELRA-W0195](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0195/v1)  |
+| [ELRA-W0196](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0196/v1)  |
+| [ELRA-W0197](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0197/v1)  |
+| [ELRA-W0198](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0198/v1)  |
+| [ELRA-W0199](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0199/v1)  |
+| [ELRA-W0200](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0200/v1)  |
+| [ELRA-W0201](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0201/v1)  |
+| [ELRA-W0202](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0202/v1)  |
+| [ELRA-W0203](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0203/v1)  |
+| [ELRA-W0204](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0204/v1)  |
+| [ELRA-W0205](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0205/v1)  |
+| [ELRA-W0206](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0206/v1)  |
+| [ELRA-W0207](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0207/v1)  |
+| [ELRA-W0208](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0208/v1)  |
+| [ELRA-W0209](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0209/v1)  |
+| [ELRA-W0210](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0210/v1)  |
+| [ELRA-W0211](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0211/v1)  |
+| [ELRA-W0212](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0212/v1)  |
+| [ELRA-W0213](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0213/v1)  |
+| [ELRA-W0214](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0214/v1)  |
+| [ELRA-W0215](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0215/v1)  |
+| [ELRA-W0216](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0216/v1)  |
+| [ELRA-W0217](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0217/v1)  |
+| [ELRA-W0218](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0218/v1)  |
+| [ELRA-W0220](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0220/v1)  |
+| [ELRA-W0221](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0221/v1)  |
+| [ELRA-W0222](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0222/v1)  |
+| [ELRA-W0223](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0223/v1)  |
+| [ELRA-W0224](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0224/v1)  |
+| [ELRA-W0225](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0225/v1)  |
+| [ELRA-W0226](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0226/v1)  |
+| [ELRA-W0227](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0227/v1)  |
+| [ELRA-W0228](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0228/v1)  |
+| [ELRA-W0229](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0229/v1)  |
+| [ELRA-W0230](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0230/v1)  |
+| [ELRA-W0232](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0232/v1)  |
+| [ELRA-W0233](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0233/v1)  |
+| [ELRA-W0234](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0234/v1)  |
+| [ELRA-W0235](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0235/v1)  |
+| [ELRA-W0238](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0238/v1)  |
+| [ELRA-W0239](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0239/v1)  |
+| [ELRA-W0241](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0241/v1)  |
+| [ELRA-W0242](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0242/v1)  |
+| [ELRA-W0243](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0243/v1)  |
+| [ELRA-W0244](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0244/v1)  |
+| [ELRA-W0245](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0245/v1)  |
+| [ELRA-W0246](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0246/v1)  |
+| [ELRA-W0247](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0247/v1)  |
+| [ELRA-W0248](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0248/v1)  |
+| [ELRA-W0249](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0249/v1)  |
+| [ELRA-W0251](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0251/v1)  |
+| [ELRA-W0252](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0252/v1)  |
+| [ELRA-W0253](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0253/v1)  |
+| [ELRA-W0254](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0254/v1)  |
+| [ELRA-W0255](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0255/v1)  |
+| [ELRA-W0256](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0256/v1)  |
+| [ELRA-W0257](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0257/v1)  |
+| [ELRA-W0258](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0258/v1)  |
+| [ELRA-W0259](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0259/v1)  |
+| [ELRA-W0260](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0260/v1)  |
+| [ELRA-W0261](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0261/v1)  |
+| [ELRA-W0262](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0262/v1)  |
+| [ELRA-W0263](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0263/v1)  |
+| [ELRA-W0264](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0264/v1)  |
+| [ELRA-W0265](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0265/v1)  |
+| [ELRA-W0266](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0266/v1)  |
+| [ELRA-W0267](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0267/v1)  |
+| [ELRA-W0270](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0270/v1)  |
+| [ELRA-W0271](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0271/v1)  |
+| [ELRA-W0272](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0272/v1)  |
+| [ELRA-W0273](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0273/v1)  |
+| [ELRA-W0274](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0274/v1)  |
+| [ELRA-W0275](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0275/v1)  |
+| [ELRA-W0276](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0276/v1)  |
+| [ELRA-W0277](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0277/v1)  |
+| [ELRA-W0278](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0278/v1)  |
+| [ELRA-W0279](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0279/v1)  |
+| [ELRA-W0280](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0280/v1)  |
+| [ELRA-W0281](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0281/v1)  |
+| [ELRA-W0282](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0282/v1)  |
+| [ELRA-W0283](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0283/v1)  |
+| [ELRA-W0284](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0284/v1)  |
+| [ELRA-W0285](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0285/v1)  |
+| [ELRA-W0286](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0286/v1)  |
+| [ELRA-W0287](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0287/v1)  |
+| [ELRA-W0288](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0288/v1)  |
+| [ELRA-W0289](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0289/v1)  |
+| [ELRA-W0290](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0290/v1)  |
+| [ELRA-W0291](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0291/v1)  |
+| [ELRA-W0292](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0292/v1)  |
+| [ELRA-W0293](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0293/v1)  |
+| [ELRA-W0294](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0294/v1)  |
+| [ELRA-W0297](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0297/v1)  |
+| [ELRA-W0301](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0301/v1)  |
+| [ELRA-W0305](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0305/v1)  |
+| [ELRA-W0307](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0307/v1)  |
+| [ELRA-W0308](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0308/v1)  |
+| [ELRA-W0309](http://opus.nlpl.eu/ELRA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRA-W0309/v1)  |
 | [ELRC-1000-legislation_Bulgaria](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-1000-legislation_Bulgaria/v1)  |
 | [ELRC-1013-Sweden_a_Pocket](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-1013-Sweden_a_Pocket/v1)  |
 | [ELRC-1015-Croatian_Mine_Action](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-1015-Croatian_Mine_Action/v1)  |
@@ -928,18 +1095,18 @@ http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/m
 | [ELRC-991-Croatian_Journal_Fis](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-991-Croatian_Journal_Fis/v1)  |
 | [ELRC-992-Rural_Development_Pr](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-992-Rural_Development_Pr/v1)  |
 | [ELRC-996-nature_protection_st](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-996-nature_protection_st/v1)  |
-| ELRC-annual_reports | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-annual_reports/v1)  |
+| [ELRC-annual_reports]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-annual_reports/v1)  |
 | [ELRC-antibiotic](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-antibiotic/v1)  |
 | [ELRC-Arquitectura_2007](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Arquitectura_2007/v1)  |
 | [ELRC-Artigos_visitportuga](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Artigos_visitportuga/v1)  |
-| ELRC-Bulgarian_strategic | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Bulgarian_strategic/v1)  |
-| ELRC-by_Presidency | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-by_Presidency/v1)  |
-| ELRC-_Chonradh | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-_Chonradh/v1)  |
+| [ELRC-Bulgarian_strategic]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Bulgarian_strategic/v1)  |
+| [ELRC-by_Presidency]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-by_Presidency/v1)  |
+| [ELRC-_Chonradh]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-_Chonradh/v1)  |
 | [ELRC-CORDIS_News](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-CORDIS_News/v1)  |
 | [ELRC-CORDIS_Results](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-CORDIS_Results/v1)  |
 | [ELRC-Courts_Norway]('Check
 http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Courts_Norway/v1)  |
-| ELRC-Czech_Supreme | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Czech_Supreme/v1)  |
+| [ELRC-Czech_Supreme]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Czech_Supreme/v1)  |
 | [ELRC-EC_EUROPA](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-EC_EUROPA/v1)  |
 | [ELRC-EMEA](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-EMEA/v1)  |
 | [ELRC-EUIPO_2017](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-EUIPO_2017/v1)  |
@@ -953,7 +1120,7 @@ http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/m
 | [ELRC-Finnish_Information](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Finnish_Information/v1)  |
 | [ELRC-Foreign_Affairs](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Foreign_Affairs/v1)  |
 | [ELRC-German_Foreign](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-German_Foreign/v1)  |
-| ELRC-Government_Offices | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Government_Offices/v1)  |
+| [ELRC-Government_Offices]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Government_Offices/v1)  |
 | [ELRC-government_websites]('Check
 ELRC-government_websites
 http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-government_websites/v1)  |
@@ -962,11 +1129,11 @@ http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/m
 | [ELRC-Museus_2007](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Museus_2007/v1)  |
 | [ELRC-Norwegian_Directorat]('Check
 http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Norwegian_Directorat/v1)  |
-| ELRC-Official_Parliament | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Official_Parliament/v1)  |
+| [ELRC-Official_Parliament]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Official_Parliament/v1)  |
 | [ELRC-Parques_e](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Parques_e/v1)  |
 | [ELRC-Patrimnio_Aores](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Patrimnio_Aores/v1)  |
 | [ELRC-PIO_Publication](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-PIO_Publication/v1)  |
-| ELRC-Polish_Food | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Polish_Food/v1)  |
+| [ELRC-Polish_Food]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Polish_Food/v1)  |
 | [ELRC-Portuguese_legislati](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Portuguese_legislati/v1)  |
 | [ELRC-Praias_2007](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Praias_2007/v1)  |
 | [ELRC-presscorner_covid](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-presscorner_covid/v1)  |
@@ -975,7 +1142,7 @@ http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/m
 http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Regional_Development/v1)  |
 | [ELRC-Rural_Development]('Check
 http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Rural_Development/v1)  |
-| ELRC-Secretariat_General | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Secretariat_General/v1)  |
+| [ELRC-Secretariat_General]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Secretariat_General/v1)  |
 | [ELRC-statistical_reports]('Check
 http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-statistical_reports/v1)  |
 | [ELRC-Swedish_Labour](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-Swedish_Labour/v1)  |
@@ -993,3 +1160,67 @@ http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/m
 | [ELRC-www.vero.fi](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-www.vero.fi/v1)  |
 | [ELRC-www.visitestonia.com](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-www.visitestonia.com/v1)  |
 | [ELRC-www.vtv.fi](http://opus.nlpl.eu/ELRC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELRC-www.vtv.fi/v1)  |
+| [EMEA](http://opus.nlpl.eu/EMEA.php) | [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EMEA/v3)  |
+| [EUbookshop](http://opus.nlpl.eu/EUbookshop.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EUbookshop/v2)  |
+| [EUconst](http://opus.nlpl.eu/EUconst.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EUconst/v1)  |
+| [Europarl](http://opus.nlpl.eu/Europarl.php) | [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v3) [v7](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v7) [v8](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v8)  |
+| [EuroPat](http://opus.nlpl.eu/EuroPat.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EuroPat/v1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EuroPat/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EuroPat/v3)  |
+| [Finlex](http://opus.nlpl.eu/Finlex.php) | [v2018](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Finlex/v2018)  |
+| [fiskmo](http://opus.nlpl.eu/fiskmo.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/fiskmo/v2)  |
+| [giga-fren](http://opus.nlpl.eu/giga.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/giga-fren/v2)  |
+| [GlobalVoices](http://opus.nlpl.eu/GlobalVoices.php) | [v2015](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2015) [v2017q3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2017q3) [v2018q4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2018q4)  |
+| [GNOME](http://opus.nlpl.eu/GNOME.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GNOME/v1)  |
+| [GoURMET](http://opus.nlpl.eu/GoURMET.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GoURMET/v1)  |
+| [hrenWaC](http://opus.nlpl.eu/hrenWaC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/hrenWaC/v1)  |
+| [IITB](http://opus.nlpl.eu/IITB.php) | [v2.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/IITB/v2.0)  |
+| [infopankki](http://opus.nlpl.eu/infopankki.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/infopankki/v1)  |
+| [Joshua-IPC](http://opus.nlpl.eu/Joshua.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Joshua-IPC/v1)  |
+| [JRC-Acquis](http://opus.nlpl.eu/JRC.php) | [v3.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/JRC-Acquis/v3.0)  |
+| [KDE4](http://opus.nlpl.eu/KDE4.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KDE4/v2)  |
+| [KDEdoc](http://opus.nlpl.eu/KDEdoc.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KDEdoc/v1)  |
+| [komi](http://opus.nlpl.eu/komi.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/komi/v1)  |
+| [liv4ever](http://opus.nlpl.eu/liv4ever.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/liv4ever/v1)  |
+| [MBS](http://opus.nlpl.eu/MBS.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MBS/v1)  |
+| [memat](http://opus.nlpl.eu/memat.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/memat/v1)  |
+| [MIZAN](http://opus.nlpl.eu/MIZAN.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MIZAN/v1)  |
+| [MontenegrinSubs](http://opus.nlpl.eu/MontenegrinSubs.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MontenegrinSubs/v1)  |
+| [Mozilla-I10n](http://opus.nlpl.eu/Mozilla.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Mozilla-I10n/v1)  |
+| [MPC1]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MPC1/v1)  |
+| [MultiCCAligned](http://opus.nlpl.eu/MultiCCAligned.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiCCAligned/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiCCAligned/v1.1)  |
+| [MultiParaCrawl](http://opus.nlpl.eu/MultiParaCrawl.php) | [v5](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v5) [v7.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v7.1) [v8](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v8) [v9](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v9) [v9b](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v9b)  |
+| [MultiUN](http://opus.nlpl.eu/MultiUN.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiUN/v1)  |
+| [News-Commentary](http://opus.nlpl.eu/News.php) | [v11](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v11) [v14](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v14) [v16](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v16) [v9.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v9.0) [v9.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v9.1)  |
+| [OfisPublik](http://opus.nlpl.eu/OfisPublik.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OfisPublik/v1)  |
+| [OpenOffice](http://opus.nlpl.eu/OpenOffice.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenOffice/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenOffice/v3)  |
+| [OpenSubtitles](http://opus.nlpl.eu/OpenSubtitles.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v1) [v2011](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2011) [v2012](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2012) [v2013](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2013) [v2016](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2016) [v2018](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2018)  |
+| opus-100 | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/opus-100/v1.0)  |
+| [ParaCrawl](http://opus.nlpl.eu/ParaCrawl.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v1) [v4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v4) [v5](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v5) [v7.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v7.1) [v8](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v8) [v9](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v9)  |
+| [PHP](http://opus.nlpl.eu/PHP.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/PHP/v1)  |
+| [pmindia](http://opus.nlpl.eu/pmindia.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/pmindia/v1)  |
+| [QED](http://opus.nlpl.eu/QED.php) | [v2.0a](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/QED/v2.0a)  |
+| [RF](http://opus.nlpl.eu/RF.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/RF/v1)  |
+| [Salome](http://opus.nlpl.eu/Salome.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Salome/v1)  |
+| [sardware](http://opus.nlpl.eu/sardware.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/sardware/v1)  |
+| [SciELO](http://opus.nlpl.eu/SciELO.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SciELO/v1)  |
+| [SETIMES](http://opus.nlpl.eu/SETIMES.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SETIMES/v1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SETIMES/v2)  |
+| [SPC](http://opus.nlpl.eu/SPC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SPC/v1)  |
+| [SUMMA](http://opus.nlpl.eu/SUMMA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SUMMA/v1)  |
+| [Tanzil](http://opus.nlpl.eu/Tanzil.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tanzil/v1)  |
+| [Tatoeba](http://opus.nlpl.eu/Tatoeba.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2) [v20190709](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v20190709) [v2020-05-31](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-05-31) [v2020-11-09](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-11-09) [v2021-03-10](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-03-10) [v2021-07-22](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-07-22) [v2022-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2022-03-03)  |
+| [TED2013](http://opus.nlpl.eu/TED2013.php) | [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TED2013/v1.1)  |
+| [TED2020](http://opus.nlpl.eu/TED2020.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TED2020/v1)  |
+| [TedTalks](http://opus.nlpl.eu/TedTalks.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TedTalks/v1)  |
+| [TEP](http://opus.nlpl.eu/TEP.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TEP/v1)  |
+| [tico-19](http://opus.nlpl.eu/tico.php) | [v2020-10-28](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/tico-19/v2020-10-28)  |
+| [TildeMODEL](http://opus.nlpl.eu/TildeMODEL.php) | [v2018](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TildeMODEL/v2018)  |
+| [Ubuntu](http://opus.nlpl.eu/Ubuntu.php) | [v14.10](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Ubuntu/v14.10)  |
+| [UN](http://opus.nlpl.eu/UN.php) | [v20090831](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/UN/v20090831)  |
+| [UNPC](http://opus.nlpl.eu/UNPC.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/UNPC/v1.0)  |
+| [WikiMatrix](http://opus.nlpl.eu/WikiMatrix.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WikiMatrix/v1)  |
+| [wikimedia](http://opus.nlpl.eu/wikimedia.php) | [v20190628](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/wikimedia/v20190628) [v20210402](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/wikimedia/v20210402)  |
+| [Wikipedia](http://opus.nlpl.eu/Wikipedia.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Wikipedia/v1.0)  |
+| [WikiSource](http://opus.nlpl.eu/WikiSource.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WikiSource/v1)  |
+| [WikiTitles](http://opus.nlpl.eu/WikiTitles.php) | [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WikiTitles/v3)  |
+| [WMT-News](http://opus.nlpl.eu/WMT.php) | [v2014](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WMT-News/v2014) [v2019](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WMT-News/v2019)  |
+| [XhosaNavy](http://opus.nlpl.eu/XhosaNavy.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XhosaNavy/v1)  |
+| [XLEnt](http://opus.nlpl.eu/XLEnt.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XLEnt/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XLEnt/v1.1)  |
