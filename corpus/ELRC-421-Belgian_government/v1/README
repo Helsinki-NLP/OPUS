@@ -162,3 +162,28 @@ ELRC-421-Belgian_government/v1/raw/nl.zip
 ELRC-421-Belgian_government/v1/tmx/fr-nl.tmx.gz
 ELRC-421-Belgian_government/v1/xml/fr.zip
 ELRC-421-Belgian_government/v1/xml/nl.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-421-Belgian_government/v1/freq/fr.freq.gz
+ELRC-421-Belgian_government/v1/freq/nl.freq.gz
+ELRC-421-Belgian_government/v1/mono/fr.tok.gz
+ELRC-421-Belgian_government/v1/mono/fr.txt.gz
+ELRC-421-Belgian_government/v1/mono/nl.tok.gz
+ELRC-421-Belgian_government/v1/mono/nl.txt.gz
+ELRC-421-Belgian_government/v1/moses/fr-nl.txt.zip
+ELRC-421-Belgian_government/v1/raw/fr.zip
+ELRC-421-Belgian_government/v1/raw/nl.zip
+ELRC-421-Belgian_government/v1/tmx/fr-nl.tmx.gz
+ELRC-421-Belgian_government/v1/xml/fr.zip
+ELRC-421-Belgian_government/v1/xml/nl.zip

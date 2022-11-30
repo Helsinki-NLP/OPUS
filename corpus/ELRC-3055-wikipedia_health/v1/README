@@ -226,3 +226,30 @@ ELRC-3055-wikipedia_health/v1/smt/bn-en.zip
 ELRC-3055-wikipedia_health/v1/tmx/bn-en.tmx.gz
 ELRC-3055-wikipedia_health/v1/xml/bn.zip
 ELRC-3055-wikipedia_health/v1/xml/en.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-3055-wikipedia_health/v1/freq/bn.freq.gz
+ELRC-3055-wikipedia_health/v1/freq/en.freq.gz
+ELRC-3055-wikipedia_health/v1/mono/bn.tok.gz
+ELRC-3055-wikipedia_health/v1/mono/bn.txt.gz
+ELRC-3055-wikipedia_health/v1/mono/en.tok.gz
+ELRC-3055-wikipedia_health/v1/mono/en.txt.gz
+ELRC-3055-wikipedia_health/v1/moses/bn-en.txt.zip
+ELRC-3055-wikipedia_health/v1/raw/bn.zip
+ELRC-3055-wikipedia_health/v1/raw/en.zip
+ELRC-3055-wikipedia_health/v1/smt/bn-en.alg.zip
+ELRC-3055-wikipedia_health/v1/smt/bn-en.zip
+ELRC-3055-wikipedia_health/v1/tmx/bn-en.tmx.gz
+ELRC-3055-wikipedia_health/v1/xml/bn.zip
+ELRC-3055-wikipedia_health/v1/xml/en.zip

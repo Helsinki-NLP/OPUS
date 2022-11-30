@@ -1,38 +1,9 @@
-     2017 v1/info-files.tar.gz
-      749 v1/xml/README
-      237 v1/xml/ca-de.xml.gz
-      266 v1/xml/ca-en.xml.gz
-      217 v1/xml/ca-es.xml.gz
-      231 v1/xml/ca-fr.xml.gz
-      257 v1/xml/ca-pt.xml.gz
-    12021 v1/xml/ca.zip
-    13151 v1/xml/de-en.xml.gz
-    12719 v1/xml/de-es.xml.gz
-    12276 v1/xml/de-fr.xml.gz
-      216 v1/xml/de-it.xml.gz
-      207 v1/xml/de-nl.xml.gz
-    13498 v1/xml/de-pt.xml.gz
-  1225751 v1/xml/de.zip
-    12172 v1/xml/en-es.xml.gz
-    11997 v1/xml/en-fr.xml.gz
-      208 v1/xml/en-it.xml.gz
-      216 v1/xml/en-nl.xml.gz
-    13107 v1/xml/en-pt.xml.gz
-  1266678 v1/xml/en.zip
-    11736 v1/xml/es-fr.xml.gz
-      222 v1/xml/es-it.xml.gz
-      208 v1/xml/es-nl.xml.gz
-    12958 v1/xml/es-pt.xml.gz
-  1203014 v1/xml/es.zip
-      218 v1/xml/fr-it.xml.gz
-      208 v1/xml/fr-nl.xml.gz
-    12788 v1/xml/fr-pt.xml.gz
-  1215206 v1/xml/fr.zip
-      221 v1/xml/it-pt.xml.gz
-    10459 v1/xml/it.zip
-      221 v1/xml/nl-pt.xml.gz
-     9615 v1/xml/nl.zip
-  1142485 v1/xml/pt.zip
+     5518 index-filesize.txt
+    11158 index-long.txt
+     3638 index.txt
+    14161 info.txt
+       32 releases.txt
+     2021 v1/info-files.tar.gz
       514 v1/mono/ca.tok.gz
       507 v1/mono/ca.txt.gz
    442495 v1/mono/de.tok.gz
@@ -55,42 +26,26 @@
      7623 v1/moses/ca-es.txt.zip
      7797 v1/moses/ca-fr.txt.zip
      8131 v1/moses/ca-pt.txt.zip
-   230157 v1/moses/de-en.txt.zip
+   230158 v1/moses/de-en.txt.zip
    226744 v1/moses/de-es.txt.zip
    225614 v1/moses/de-fr.txt.zip
      7575 v1/moses/de-it.txt.zip
      7546 v1/moses/de-nl.txt.zip
-   222655 v1/moses/de-pt.txt.zip
+   222656 v1/moses/de-pt.txt.zip
    217920 v1/moses/en-es.txt.zip
    217691 v1/moses/en-fr.txt.zip
-     7588 v1/moses/en-it.txt.zip
+     7589 v1/moses/en-it.txt.zip
      7684 v1/moses/en-nl.txt.zip
    215031 v1/moses/en-pt.txt.zip
    212983 v1/moses/es-fr.txt.zip
      7664 v1/moses/es-it.txt.zip
      7531 v1/moses/es-nl.txt.zip
    209852 v1/moses/es-pt.txt.zip
-     7669 v1/moses/fr-it.txt.zip
-     7539 v1/moses/fr-nl.txt.zip
+     7668 v1/moses/fr-it.txt.zip
+     7538 v1/moses/fr-nl.txt.zip
    209463 v1/moses/fr-pt.txt.zip
      7658 v1/moses/it-pt.txt.zip
-     7693 v1/moses/nl-pt.txt.zip
-      489 v1/freq/ca.freq.gz
-    38790 v1/freq/de.freq.gz
-    27325 v1/freq/en.freq.gz
-    29957 v1/freq/es.freq.gz
-    28912 v1/freq/fr.freq.gz
-      235 v1/freq/it.freq.gz
-      226 v1/freq/nl.freq.gz
-    29682 v1/freq/pt.freq.gz
-    10688 v1/raw/ca.zip
-   491589 v1/raw/de.zip
-   455396 v1/raw/en.zip
-   434661 v1/raw/es.zip
-   432989 v1/raw/fr.zip
-     9870 v1/raw/it.zip
-     9145 v1/raw/nl.zip
-   424454 v1/raw/pt.zip
+     7692 v1/moses/nl-pt.txt.zip
        20 v1/dic/ca-de.dic.gz
        41 v1/dic/ca-en.dic.gz
        20 v1/dic/ca-es.dic.gz
@@ -114,67 +69,49 @@
     42883 v1/dic/fr-pt.dic.gz
        20 v1/dic/it-pt.dic.gz
        20 v1/dic/nl-pt.dic.gz
-      749 v1/tmx/README
-      574 v1/tmx/ca-de.tmx.gz
-     1008 v1/tmx/ca-en.tmx.gz
-      474 v1/tmx/ca-es.tmx.gz
-      615 v1/tmx/ca-fr.tmx.gz
-      934 v1/tmx/ca-pt.tmx.gz
-   238338 v1/tmx/de-en.tmx.gz
-   236774 v1/tmx/de-es.tmx.gz
-   235170 v1/tmx/de-fr.tmx.gz
-      413 v1/tmx/de-it.tmx.gz
-      403 v1/tmx/de-nl.tmx.gz
-   231032 v1/tmx/de-pt.tmx.gz
-   224311 v1/tmx/en-es.tmx.gz
-   224574 v1/tmx/en-fr.tmx.gz
-      432 v1/tmx/en-it.tmx.gz
-      517 v1/tmx/en-nl.tmx.gz
-   220175 v1/tmx/en-pt.tmx.gz
-   218344 v1/tmx/es-fr.tmx.gz
-      485 v1/tmx/es-it.tmx.gz
-      387 v1/tmx/es-nl.tmx.gz
-   196049 v1/tmx/es-pt.tmx.gz
-      499 v1/tmx/fr-it.tmx.gz
-      386 v1/tmx/fr-nl.tmx.gz
-   212723 v1/tmx/fr-pt.tmx.gz
-      483 v1/tmx/it-pt.tmx.gz
-      522 v1/tmx/nl-pt.tmx.gz
-     3032 v1/smt/ca-de.alg.zip
+      489 v1/freq/ca.freq.gz
+    38790 v1/freq/de.freq.gz
+    27325 v1/freq/en.freq.gz
+    29957 v1/freq/es.freq.gz
+    28912 v1/freq/fr.freq.gz
+      235 v1/freq/it.freq.gz
+      226 v1/freq/nl.freq.gz
+    29682 v1/freq/pt.freq.gz
+     3033 v1/smt/ca-de.alg.zip
      3727 v1/smt/ca-de.zip
      3488 v1/smt/ca-en.alg.zip
-     5718 v1/smt/ca-en.zip
-     2897 v1/smt/ca-es.alg.zip
+     5717 v1/smt/ca-en.zip
+     2898 v1/smt/ca-es.alg.zip
      3530 v1/smt/ca-es.zip
      3094 v1/smt/ca-fr.alg.zip
      3794 v1/smt/ca-fr.zip
      3246 v1/smt/ca-pt.alg.zip
-     4605 v1/smt/ca-pt.zip
+     4604 v1/smt/ca-pt.zip
    200082 v1/smt/de-es.alg.zip
    463753 v1/smt/de-es.zip
-   180261 v1/smt/de-fr.alg.zip
+   180262 v1/smt/de-fr.alg.zip
    405850 v1/smt/de-fr.zip
      2836 v1/smt/de-it.alg.zip
-     3278 v1/smt/de-it.zip
+     3280 v1/smt/de-it.zip
      2804 v1/smt/de-nl.alg.zip
-     3294 v1/smt/de-nl.zip
+     3293 v1/smt/de-nl.zip
    186382 v1/smt/de-pt.alg.zip
    443695 v1/smt/de-pt.zip
    196104 v1/smt/en-es.alg.zip
    488903 v1/smt/en-es.zip
      2880 v1/smt/en-it.alg.zip
-     3376 v1/smt/en-it.zip
+     3377 v1/smt/en-it.zip
      2978 v1/smt/en-nl.alg.zip
-     3611 v1/smt/en-nl.zip
+     3610 v1/smt/en-nl.zip
    178604 v1/smt/en-pt.alg.zip
    470378 v1/smt/en-pt.zip
    135740 v1/smt/es-fr.alg.zip
    506621 v1/smt/es-fr.zip
-     2960 v1/smt/es-it.alg.zip
+     2959 v1/smt/es-it.alg.zip
      3455 v1/smt/es-it.zip
      2835 v1/smt/es-nl.alg.zip
      3236 v1/smt/es-nl.zip
-   103788 v1/smt/es-pt.alg.zip
+   103789 v1/smt/es-pt.alg.zip
    491141 v1/smt/es-pt.zip
      2948 v1/smt/fr-it.alg.zip
      3455 v1/smt/fr-it.zip
@@ -186,3 +123,82 @@
      3454 v1/smt/it-pt.zip
      2954 v1/smt/nl-pt.alg.zip
      3548 v1/smt/nl-pt.zip
+      749 v1/xml/README
+      237 v1/xml/ca-de.xml.gz
+      266 v1/xml/ca-en.xml.gz
+      217 v1/xml/ca-es.xml.gz
+      231 v1/xml/ca-fr.xml.gz
+      257 v1/xml/ca-pt.xml.gz
+    14038 v1/xml/ca.zip
+    13151 v1/xml/de-en.xml.gz
+    12719 v1/xml/de-es.xml.gz
+    12276 v1/xml/de-fr.xml.gz
+      216 v1/xml/de-it.xml.gz
+      207 v1/xml/de-nl.xml.gz
+    13498 v1/xml/de-pt.xml.gz
+  1251004 v1/xml/de.zip
+    12172 v1/xml/en-es.xml.gz
+    11997 v1/xml/en-fr.xml.gz
+      208 v1/xml/en-it.xml.gz
+      216 v1/xml/en-nl.xml.gz
+    13107 v1/xml/en-pt.xml.gz
+  1290129 v1/xml/en.zip
+    11736 v1/xml/es-fr.xml.gz
+      222 v1/xml/es-it.xml.gz
+      208 v1/xml/es-nl.xml.gz
+    12958 v1/xml/es-pt.xml.gz
+  1225089 v1/xml/es.zip
+      218 v1/xml/fr-it.xml.gz
+      208 v1/xml/fr-nl.xml.gz
+    12788 v1/xml/fr-pt.xml.gz
+  1236271 v1/xml/fr.zip
+      221 v1/xml/it-pt.xml.gz
+    12176 v1/xml/it.zip
+      221 v1/xml/nl-pt.xml.gz
+    10842 v1/xml/nl.zip
+  1168477 v1/xml/pt.zip
+    10689 v1/raw/ca.zip
+   491589 v1/raw/de.zip
+   455396 v1/raw/en.zip
+   434662 v1/raw/es.zip
+   432989 v1/raw/fr.zip
+     9870 v1/raw/it.zip
+     9144 v1/raw/nl.zip
+   424453 v1/raw/pt.zip
+     2604 v1/overlaps/ca-en.tsv
+     9822 v1/overlaps/de-en.tsv
+    12366 v1/overlaps/de.tsv
+     9554 v1/overlaps/en-es.tsv
+     9453 v1/overlaps/en-fr.tsv
+     6237 v1/overlaps/en-it.tsv
+     4878 v1/overlaps/en-nl.tsv
+     7180 v1/overlaps/en-pt.tsv
+    71486 v1/overlaps/en.tsv
+    12225 v1/overlaps/es.tsv
+    13111 v1/overlaps/fr.tsv
+      749 v1/tmx/README
+      574 v1/tmx/ca-de.tmx.gz
+     1008 v1/tmx/ca-en.tmx.gz
+      474 v1/tmx/ca-es.tmx.gz
+      615 v1/tmx/ca-fr.tmx.gz
+      934 v1/tmx/ca-pt.tmx.gz
+   238339 v1/tmx/de-en.tmx.gz
+   236774 v1/tmx/de-es.tmx.gz
+   235171 v1/tmx/de-fr.tmx.gz
+      413 v1/tmx/de-it.tmx.gz
+      403 v1/tmx/de-nl.tmx.gz
+   231037 v1/tmx/de-pt.tmx.gz
+   224312 v1/tmx/en-es.tmx.gz
+   224574 v1/tmx/en-fr.tmx.gz
+      433 v1/tmx/en-it.tmx.gz
+      518 v1/tmx/en-nl.tmx.gz
+   220173 v1/tmx/en-pt.tmx.gz
+   218345 v1/tmx/es-fr.tmx.gz
+      484 v1/tmx/es-it.tmx.gz
+      387 v1/tmx/es-nl.tmx.gz
+   196048 v1/tmx/es-pt.tmx.gz
+      499 v1/tmx/fr-it.tmx.gz
+      386 v1/tmx/fr-nl.tmx.gz
+   212724 v1/tmx/fr-pt.tmx.gz
+      484 v1/tmx/it-pt.tmx.gz
+      522 v1/tmx/nl-pt.tmx.gz

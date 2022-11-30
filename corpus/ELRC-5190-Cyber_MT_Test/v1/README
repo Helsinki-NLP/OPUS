@@ -148,3 +148,37 @@ ELRC-5190-Cyber_MT_Test/v1/tmx/en-es.tmx.gz
 ELRC-5190-Cyber_MT_Test/v1/xml/ca.zip
 ELRC-5190-Cyber_MT_Test/v1/xml/en.zip
 ELRC-5190-Cyber_MT_Test/v1/xml/es.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ELRC-5190-Cyber_MT_Test/v1/freq/ca.freq.gz
+ELRC-5190-Cyber_MT_Test/v1/freq/en.freq.gz
+ELRC-5190-Cyber_MT_Test/v1/freq/es.freq.gz
+ELRC-5190-Cyber_MT_Test/v1/mono/ca.tok.gz
+ELRC-5190-Cyber_MT_Test/v1/mono/ca.txt.gz
+ELRC-5190-Cyber_MT_Test/v1/mono/en.tok.gz
+ELRC-5190-Cyber_MT_Test/v1/mono/en.txt.gz
+ELRC-5190-Cyber_MT_Test/v1/mono/es.tok.gz
+ELRC-5190-Cyber_MT_Test/v1/mono/es.txt.gz
+ELRC-5190-Cyber_MT_Test/v1/moses/ca-en.txt.zip
+ELRC-5190-Cyber_MT_Test/v1/moses/ca-es.txt.zip
+ELRC-5190-Cyber_MT_Test/v1/moses/en-es.txt.zip
+ELRC-5190-Cyber_MT_Test/v1/raw/ca.zip
+ELRC-5190-Cyber_MT_Test/v1/raw/en.zip
+ELRC-5190-Cyber_MT_Test/v1/raw/es.zip
+ELRC-5190-Cyber_MT_Test/v1/tmx/ca-en.tmx.gz
+ELRC-5190-Cyber_MT_Test/v1/tmx/ca-es.tmx.gz
+ELRC-5190-Cyber_MT_Test/v1/tmx/en-es.tmx.gz
+ELRC-5190-Cyber_MT_Test/v1/xml/ca.zip
+ELRC-5190-Cyber_MT_Test/v1/xml/en.zip
+ELRC-5190-Cyber_MT_Test/v1/xml/es.zip

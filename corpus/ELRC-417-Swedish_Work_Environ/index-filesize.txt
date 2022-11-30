@@ -1,3 +1,8 @@
+     9792 index-filesize.txt
+    19722 index-long.txt
+     6482 index.txt
+        0 info.txt
+       32 releases.txt
         0 v1/dic
      8370 v1/freq/bg.freq.gz
      6964 v1/freq/cs.freq.gz
@@ -13,7 +18,7 @@
     11535 v1/freq/pl.freq.gz
      8219 v1/freq/ro.freq.gz
     55834 v1/freq/sv.freq.gz
-     5246 v1/info-files.tar.gz
+     5122 v1/info-files.tar.gz
     64556 v1/mono/bg.tok.gz
     64312 v1/mono/bg.txt.gz
     17705 v1/mono/cs.tok.gz
@@ -43,153 +48,164 @@
    235805 v1/mono/sv.tok.gz
    234886 v1/mono/sv.txt.gz
       817 v1/moses/README
-    16455 v1/moses/bg-cs.txt.zip
-    21324 v1/moses/bg-de.txt.zip
-    21524 v1/moses/bg-et.txt.zip
-    14746 v1/moses/bg-fi.txt.zip
-    14923 v1/moses/bg-hu.txt.zip
-    21548 v1/moses/bg-lt.txt.zip
-    21099 v1/moses/bg-lv.txt.zip
-    23917 v1/moses/bg-pl.txt.zip
-    24119 v1/moses/bg-ro.txt.zip
-    11652 v1/moses/bg-sv.txt.zip
-    14763 v1/moses/cs-de.txt.zip
-    18769 v1/moses/cs-et.txt.zip
-    15480 v1/moses/cs-fi.txt.zip
-    14914 v1/moses/cs-hu.txt.zip
-    19574 v1/moses/cs-lt.txt.zip
-    18967 v1/moses/cs-lv.txt.zip
-    20035 v1/moses/cs-pl.txt.zip
-    19112 v1/moses/cs-ro.txt.zip
-     8449 v1/moses/cs-sv.txt.zip
-     3066 v1/moses/de-en.txt.zip
-    19176 v1/moses/de-et.txt.zip
-    13729 v1/moses/de-fi.txt.zip
-     3432 v1/moses/de-fr.txt.zip
-    13468 v1/moses/de-hu.txt.zip
-    19361 v1/moses/de-lt.txt.zip
-    19292 v1/moses/de-lv.txt.zip
-    20887 v1/moses/de-pl.txt.zip
-    21665 v1/moses/de-ro.txt.zip
-     7971 v1/moses/de-sv.txt.zip
-     9693 v1/moses/en-es.txt.zip
-     3269 v1/moses/en-fr.txt.zip
-    10616 v1/moses/en-pl.txt.zip
-     2794 v1/moses/en-ro.txt.zip
-   490889 v1/moses/en-sv.txt.zip
-    10577 v1/moses/es-pl.txt.zip
-     9582 v1/moses/es-sv.txt.zip
-    14540 v1/moses/et-fi.txt.zip
-    13250 v1/moses/et-hu.txt.zip
-    22355 v1/moses/et-lt.txt.zip
-    22623 v1/moses/et-lv.txt.zip
-    23795 v1/moses/et-pl.txt.zip
-    22433 v1/moses/et-ro.txt.zip
-     8297 v1/moses/et-sv.txt.zip
-    13747 v1/moses/fi-hu.txt.zip
-    15216 v1/moses/fi-lt.txt.zip
-    14205 v1/moses/fi-lv.txt.zip
-    15640 v1/moses/fi-pl.txt.zip
-    13660 v1/moses/fi-ro.txt.zip
-     3847 v1/moses/fi-sv.txt.zip
-     3721 v1/moses/fr-pl.txt.zip
-     3864 v1/moses/fr-ro.txt.zip
-    14463 v1/moses/hu-lt.txt.zip
-    14640 v1/moses/hu-lv.txt.zip
-    15089 v1/moses/hu-pl.txt.zip
-    14352 v1/moses/hu-ro.txt.zip
-     4231 v1/moses/hu-sv.txt.zip
-    24200 v1/moses/lt-lv.txt.zip
-    24476 v1/moses/lt-pl.txt.zip
-    23699 v1/moses/lt-ro.txt.zip
-    10940 v1/moses/lt-sv.txt.zip
-    23778 v1/moses/lv-pl.txt.zip
-    23233 v1/moses/lv-ro.txt.zip
-     9797 v1/moses/lv-sv.txt.zip
-    26383 v1/moses/pl-ro.txt.zip
-    17971 v1/moses/pl-sv.txt.zip
-     9594 v1/moses/ro-sv.txt.zip
-   100031 v1/raw/bg.zip
-    81043 v1/raw/cs.zip
-    86970 v1/raw/de.zip
-   273305 v1/raw/en.zip
-    15355 v1/raw/es.zip
-    87445 v1/raw/et.zip
-    60815 v1/raw/fi.zip
-     6361 v1/raw/fr.zip
-    63239 v1/raw/hu.zip
-    93131 v1/raw/lt.zip
-    91346 v1/raw/lv.zip
-   118255 v1/raw/pl.zip
-    98706 v1/raw/ro.zip
-   292036 v1/raw/sv.zip
+    16577 v1/moses/bg-cs.txt.zip
+    21446 v1/moses/bg-de.txt.zip
+    21645 v1/moses/bg-et.txt.zip
+    14867 v1/moses/bg-fi.txt.zip
+    15044 v1/moses/bg-hu.txt.zip
+    21670 v1/moses/bg-lt.txt.zip
+    21220 v1/moses/bg-lv.txt.zip
+    24038 v1/moses/bg-pl.txt.zip
+    24240 v1/moses/bg-ro.txt.zip
+    11773 v1/moses/bg-sv.txt.zip
+    14885 v1/moses/cs-de.txt.zip
+    18890 v1/moses/cs-et.txt.zip
+    15602 v1/moses/cs-fi.txt.zip
+    15035 v1/moses/cs-hu.txt.zip
+    19696 v1/moses/cs-lt.txt.zip
+    19088 v1/moses/cs-lv.txt.zip
+    20156 v1/moses/cs-pl.txt.zip
+    19234 v1/moses/cs-ro.txt.zip
+     8570 v1/moses/cs-sv.txt.zip
+     3187 v1/moses/de-en.txt.zip
+    19297 v1/moses/de-et.txt.zip
+    13851 v1/moses/de-fi.txt.zip
+     3553 v1/moses/de-fr.txt.zip
+    13590 v1/moses/de-hu.txt.zip
+    19483 v1/moses/de-lt.txt.zip
+    19414 v1/moses/de-lv.txt.zip
+    21009 v1/moses/de-pl.txt.zip
+    21787 v1/moses/de-ro.txt.zip
+     8093 v1/moses/de-sv.txt.zip
+     9814 v1/moses/en-es.txt.zip
+     3390 v1/moses/en-fr.txt.zip
+    10738 v1/moses/en-pl.txt.zip
+     2916 v1/moses/en-ro.txt.zip
+   491011 v1/moses/en-sv.txt.zip
+    10699 v1/moses/es-pl.txt.zip
+     9703 v1/moses/es-sv.txt.zip
+    14662 v1/moses/et-fi.txt.zip
+    13371 v1/moses/et-hu.txt.zip
+    22477 v1/moses/et-lt.txt.zip
+    22745 v1/moses/et-lv.txt.zip
+    23916 v1/moses/et-pl.txt.zip
+    22555 v1/moses/et-ro.txt.zip
+     8419 v1/moses/et-sv.txt.zip
+    13868 v1/moses/fi-hu.txt.zip
+    15338 v1/moses/fi-lt.txt.zip
+    14326 v1/moses/fi-lv.txt.zip
+    15761 v1/moses/fi-pl.txt.zip
+    13781 v1/moses/fi-ro.txt.zip
+     3969 v1/moses/fi-sv.txt.zip
+     3843 v1/moses/fr-pl.txt.zip
+     3985 v1/moses/fr-ro.txt.zip
+    14585 v1/moses/hu-lt.txt.zip
+    14761 v1/moses/hu-lv.txt.zip
+    15210 v1/moses/hu-pl.txt.zip
+    14473 v1/moses/hu-ro.txt.zip
+     4352 v1/moses/hu-sv.txt.zip
+    24321 v1/moses/lt-lv.txt.zip
+    24598 v1/moses/lt-pl.txt.zip
+    23821 v1/moses/lt-ro.txt.zip
+    11061 v1/moses/lt-sv.txt.zip
+    23900 v1/moses/lv-pl.txt.zip
+    23354 v1/moses/lv-ro.txt.zip
+     9918 v1/moses/lv-sv.txt.zip
+    26505 v1/moses/pl-ro.txt.zip
+    18092 v1/moses/pl-sv.txt.zip
+     9715 v1/moses/ro-sv.txt.zip
+    10037 v1/overlaps/de-en.tsv
+    12862 v1/overlaps/de.tsv
+     9849 v1/overlaps/en-es.tsv
+     9655 v1/overlaps/en-fr.tsv
+    13718 v1/overlaps/en-pl.tsv
+     5749 v1/overlaps/en-ro.tsv
+     7535 v1/overlaps/en-sv.tsv
+    78620 v1/overlaps/en.tsv
+    12675 v1/overlaps/es.tsv
+     8620 v1/overlaps/fi.tsv
+    13188 v1/overlaps/fr.tsv
+   100152 v1/raw/bg.zip
+    81164 v1/raw/cs.zip
+    87091 v1/raw/de.zip
+   273426 v1/raw/en.zip
+    15477 v1/raw/es.zip
+    87566 v1/raw/et.zip
+    60936 v1/raw/fi.zip
+     6483 v1/raw/fr.zip
+    63360 v1/raw/hu.zip
+    93252 v1/raw/lt.zip
+    91468 v1/raw/lv.zip
+   118376 v1/raw/pl.zip
+    98827 v1/raw/ro.zip
+   292157 v1/raw/sv.zip
         0 v1/smt
       815 v1/tmx/README
-    15282 v1/tmx/bg-cs.tmx.gz
+    15283 v1/tmx/bg-cs.tmx.gz
     20143 v1/tmx/bg-de.tmx.gz
     20360 v1/tmx/bg-et.tmx.gz
-    13447 v1/tmx/bg-fi.tmx.gz
-    13988 v1/tmx/bg-hu.tmx.gz
+    13448 v1/tmx/bg-fi.tmx.gz
+    13989 v1/tmx/bg-hu.tmx.gz
     20475 v1/tmx/bg-lt.tmx.gz
-    19845 v1/tmx/bg-lv.tmx.gz
-    22976 v1/tmx/bg-pl.tmx.gz
+    19846 v1/tmx/bg-lv.tmx.gz
+    22977 v1/tmx/bg-pl.tmx.gz
     23158 v1/tmx/bg-ro.tmx.gz
     10248 v1/tmx/bg-sv.tmx.gz
-    13303 v1/tmx/cs-de.tmx.gz
-    17370 v1/tmx/cs-et.tmx.gz
-    13924 v1/tmx/cs-fi.tmx.gz
-    13575 v1/tmx/cs-hu.tmx.gz
+    13304 v1/tmx/cs-de.tmx.gz
+    17371 v1/tmx/cs-et.tmx.gz
+    13925 v1/tmx/cs-fi.tmx.gz
+    13576 v1/tmx/cs-hu.tmx.gz
     17916 v1/tmx/cs-lt.tmx.gz
-    17469 v1/tmx/cs-lv.tmx.gz
-    18530 v1/tmx/cs-pl.tmx.gz
-    17594 v1/tmx/cs-ro.tmx.gz
-     6711 v1/tmx/cs-sv.tmx.gz
+    17470 v1/tmx/cs-lv.tmx.gz
+    18531 v1/tmx/cs-pl.tmx.gz
+    17595 v1/tmx/cs-ro.tmx.gz
+     6712 v1/tmx/cs-sv.tmx.gz
      1319 v1/tmx/de-en.tmx.gz
     17596 v1/tmx/de-et.tmx.gz
     12185 v1/tmx/de-fi.tmx.gz
-     1682 v1/tmx/de-fr.tmx.gz
-    12067 v1/tmx/de-hu.tmx.gz
-    17816 v1/tmx/de-lt.tmx.gz
-    17880 v1/tmx/de-lv.tmx.gz
-    19343 v1/tmx/de-pl.tmx.gz
-    20149 v1/tmx/de-ro.tmx.gz
-     6224 v1/tmx/de-sv.tmx.gz
+     1683 v1/tmx/de-fr.tmx.gz
+    12068 v1/tmx/de-hu.tmx.gz
+    17817 v1/tmx/de-lt.tmx.gz
+    17881 v1/tmx/de-lv.tmx.gz
+    19344 v1/tmx/de-pl.tmx.gz
+    20150 v1/tmx/de-ro.tmx.gz
+     6223 v1/tmx/de-sv.tmx.gz
      7878 v1/tmx/en-es.tmx.gz
-     1465 v1/tmx/en-fr.tmx.gz
+     1466 v1/tmx/en-fr.tmx.gz
      8917 v1/tmx/en-pl.tmx.gz
      1023 v1/tmx/en-ro.tmx.gz
-   525686 v1/tmx/en-sv.tmx.gz
-     8843 v1/tmx/es-pl.tmx.gz
-     7873 v1/tmx/es-sv.tmx.gz
-    12804 v1/tmx/et-fi.tmx.gz
-    11851 v1/tmx/et-hu.tmx.gz
-    20775 v1/tmx/et-lt.tmx.gz
-    21053 v1/tmx/et-lv.tmx.gz
-    22465 v1/tmx/et-pl.tmx.gz
-    21069 v1/tmx/et-ro.tmx.gz
+   525681 v1/tmx/en-sv.tmx.gz
+     8844 v1/tmx/es-pl.tmx.gz
+     7874 v1/tmx/es-sv.tmx.gz
+    12806 v1/tmx/et-fi.tmx.gz
+    11852 v1/tmx/et-hu.tmx.gz
+    20776 v1/tmx/et-lt.tmx.gz
+    21054 v1/tmx/et-lv.tmx.gz
+    22466 v1/tmx/et-pl.tmx.gz
+    21070 v1/tmx/et-ro.tmx.gz
      6652 v1/tmx/et-sv.tmx.gz
     12405 v1/tmx/fi-hu.tmx.gz
-    13663 v1/tmx/fi-lt.tmx.gz
-    12553 v1/tmx/fi-lv.tmx.gz
-    14211 v1/tmx/fi-pl.tmx.gz
+    13665 v1/tmx/fi-lt.tmx.gz
+    12555 v1/tmx/fi-lv.tmx.gz
+    14212 v1/tmx/fi-pl.tmx.gz
     11996 v1/tmx/fi-ro.tmx.gz
      2122 v1/tmx/fi-sv.tmx.gz
-     1998 v1/tmx/fr-pl.tmx.gz
-     2090 v1/tmx/fr-ro.tmx.gz
+     1999 v1/tmx/fr-pl.tmx.gz
+     2091 v1/tmx/fr-ro.tmx.gz
     13149 v1/tmx/hu-lt.tmx.gz
     13305 v1/tmx/hu-lv.tmx.gz
-    13781 v1/tmx/hu-pl.tmx.gz
+    13783 v1/tmx/hu-pl.tmx.gz
     13047 v1/tmx/hu-ro.tmx.gz
      2530 v1/tmx/hu-sv.tmx.gz
     22468 v1/tmx/lt-lv.tmx.gz
-    23064 v1/tmx/lt-pl.tmx.gz
+    23065 v1/tmx/lt-pl.tmx.gz
     22241 v1/tmx/lt-ro.tmx.gz
-     9322 v1/tmx/lt-sv.tmx.gz
+     9320 v1/tmx/lt-sv.tmx.gz
     22395 v1/tmx/lv-pl.tmx.gz
-    21740 v1/tmx/lv-ro.tmx.gz
+    21741 v1/tmx/lv-ro.tmx.gz
      8171 v1/tmx/lv-sv.tmx.gz
-    25213 v1/tmx/pl-ro.tmx.gz
-    16506 v1/tmx/pl-sv.tmx.gz
+    25214 v1/tmx/pl-ro.tmx.gz
+    16507 v1/tmx/pl-sv.tmx.gz
      7884 v1/tmx/ro-sv.tmx.gz
      1471 v1/xml/10_done.zip
      1471 v1/xml/11_done.zip
@@ -259,7 +275,7 @@
      2035 v1/xml/bg-pl.xml.gz
      2121 v1/xml/bg-ro.xml.gz
      1001 v1/xml/bg-sv.xml.gz
-   222634 v1/xml/bg.zip
+   231421 v1/xml/bg.zip
      1241 v1/xml/cs-de.xml.gz
      1760 v1/xml/cs-et.xml.gz
      1419 v1/xml/cs-fi.xml.gz
@@ -269,7 +285,7 @@
      1773 v1/xml/cs-pl.xml.gz
      1715 v1/xml/cs-ro.xml.gz
       798 v1/xml/cs-sv.xml.gz
-   171804 v1/xml/cs.zip
+   179790 v1/xml/cs.zip
       276 v1/xml/de-en.xml.gz
      1788 v1/xml/de-et.xml.gz
      1221 v1/xml/de-fi.xml.gz
@@ -280,16 +296,16 @@
      1894 v1/xml/de-pl.xml.gz
      1989 v1/xml/de-ro.xml.gz
       755 v1/xml/de-sv.xml.gz
-   193912 v1/xml/de.zip
+   202790 v1/xml/de.zip
       999 v1/xml/en-es.xml.gz
       281 v1/xml/en-fr.xml.gz
      1090 v1/xml/en-pl.xml.gz
       255 v1/xml/en-ro.xml.gz
     58430 v1/xml/en-sv.xml.gz
-   791610 v1/xml/en.zip
+   817704 v1/xml/en.zip
      1038 v1/xml/es-pl.xml.gz
       981 v1/xml/es-sv.xml.gz
-    33580 v1/xml/es.zip
+    35642 v1/xml/es.zip
      1394 v1/xml/et-fi.xml.gz
      1229 v1/xml/et-hu.xml.gz
      2211 v1/xml/et-lt.xml.gz
@@ -297,35 +313,35 @@
      2302 v1/xml/et-pl.xml.gz
      2196 v1/xml/et-ro.xml.gz
       844 v1/xml/et-sv.xml.gz
-   180702 v1/xml/et.zip
+   189814 v1/xml/et.zip
      1255 v1/xml/fi-hu.xml.gz
      1421 v1/xml/fi-lt.xml.gz
      1329 v1/xml/fi-lv.xml.gz
      1389 v1/xml/fi-pl.xml.gz
      1284 v1/xml/fi-ro.xml.gz
       406 v1/xml/fi-sv.xml.gz
-   113755 v1/xml/fi.zip
+   120514 v1/xml/fi.zip
       307 v1/xml/fr-pl.xml.gz
       321 v1/xml/fr-ro.xml.gz
-    10067 v1/xml/fr.zip
+    11611 v1/xml/fr.zip
      1312 v1/xml/hu-lt.xml.gz
      1319 v1/xml/hu-lv.xml.gz
      1285 v1/xml/hu-pl.xml.gz
      1278 v1/xml/hu-ro.xml.gz
       413 v1/xml/hu-sv.xml.gz
-   128271 v1/xml/hu.zip
+   134942 v1/xml/hu.zip
      2502 v1/xml/lt-lv.xml.gz
      2403 v1/xml/lt-pl.xml.gz
      2284 v1/xml/lt-ro.xml.gz
      1110 v1/xml/lt-sv.xml.gz
-   202455 v1/xml/lt.zip
+   211911 v1/xml/lt.zip
      2271 v1/xml/lv-pl.xml.gz
      2345 v1/xml/lv-ro.xml.gz
       985 v1/xml/lv-sv.xml.gz
-   204629 v1/xml/lv.zip
+   214059 v1/xml/lv.zip
      2353 v1/xml/pl-ro.xml.gz
      1903 v1/xml/pl-sv.xml.gz
-   259650 v1/xml/pl.zip
+   271090 v1/xml/pl.zip
       918 v1/xml/ro-sv.xml.gz
-   235217 v1/xml/ro.zip
-   734989 v1/xml/sv.zip
+   245433 v1/xml/ro.zip
+   764498 v1/xml/sv.zip

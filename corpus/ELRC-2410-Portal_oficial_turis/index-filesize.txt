@@ -1,4 +1,64 @@
-     1142 v1/info-files.tar.gz
+     2030 index-filesize.txt
+     4160 index-long.txt
+        0 index.txt
+     6189 info.txt
+       32 releases.txt
+        0 v1/dic
+   431395 v1/freq/de.freq.gz
+   302183 v1/freq/en.freq.gz
+   408101 v1/freq/es.freq.gz
+   273685 v1/freq/fr.freq.gz
+   257896 v1/freq/it.freq.gz
+    84387 v1/freq/pt.freq.gz
+     1147 v1/info-files.tar.gz
+  4155637 v1/mono/de.tok.gz
+  4137768 v1/mono/de.txt.gz
+  5620028 v1/mono/en.tok.gz
+  5588314 v1/mono/en.txt.gz
+ 19010833 v1/mono/es.tok.gz
+ 18954596 v1/mono/es.txt.gz
+  4843126 v1/mono/fr.tok.gz
+  4831413 v1/mono/fr.txt.gz
+  4249505 v1/mono/it.tok.gz
+  4232192 v1/mono/it.txt.gz
+   560582 v1/mono/pt.tok.gz
+   557897 v1/mono/pt.txt.gz
+     1465 v1/moses/README
+    54802 v1/moses/de-en.txt.zip
+  8712119 v1/moses/de-es.txt.zip
+ 12247628 v1/moses/en-es.txt.zip
+    65445 v1/moses/en-fr.txt.zip
+    71644 v1/moses/en-it.txt.zip
+     9572 v1/moses/en-pt.txt.zip
+ 10181000 v1/moses/es-fr.txt.zip
+  9099893 v1/moses/es-it.txt.zip
+  1269968 v1/moses/es-pt.txt.zip
+    10242 v1/overlaps/de-en.tsv
+    14073 v1/overlaps/de.tsv
+    10514 v1/overlaps/en-es.tsv
+     9948 v1/overlaps/en-fr.tsv
+     6696 v1/overlaps/en-it.tsv
+     7452 v1/overlaps/en-pt.tsv
+    82004 v1/overlaps/en.tsv
+    13905 v1/overlaps/es.tsv
+    14835 v1/overlaps/fr.tsv
+  4759352 v1/raw/de.zip
+  6439633 v1/raw/en.zip
+ 21620936 v1/raw/es.zip
+  5514275 v1/raw/fr.zip
+  4822389 v1/raw/it.zip
+   688555 v1/raw/pt.zip
+        0 v1/smt
+     1463 v1/tmx/README
+    47084 v1/tmx/de-en.tmx.gz
+  8680812 v1/tmx/de-es.tmx.gz
+ 12014542 v1/tmx/en-es.tmx.gz
+    57823 v1/tmx/en-fr.tmx.gz
+    64295 v1/tmx/en-it.tmx.gz
+     1765 v1/tmx/en-pt.tmx.gz
+ 10105465 v1/tmx/es-fr.tmx.gz
+  8797580 v1/tmx/es-it.tmx.gz
+  1146306 v1/tmx/es-pt.tmx.gz
      7614 v1/xml/10_done.zip
      7614 v1/xml/11_done.zip
      7614 v1/xml/12_done.zip
@@ -12,60 +72,16 @@
      1463 v1/xml/README
      4046 v1/xml/de-en.xml.gz
   1087191 v1/xml/de-es.xml.gz
- 11393154 v1/xml/de.zip
+ 11833100 v1/xml/de.zip
   1536015 v1/xml/en-es.xml.gz
      4521 v1/xml/en-fr.xml.gz
      4162 v1/xml/en-it.xml.gz
       425 v1/xml/en-pt.xml.gz
- 17141827 v1/xml/en.zip
+ 17772389 v1/xml/en.zip
   1202140 v1/xml/es-fr.xml.gz
   1067186 v1/xml/es-it.xml.gz
    235484 v1/xml/es-pt.xml.gz
- 56732314 v1/xml/es.zip
- 14703211 v1/xml/fr.zip
- 12504276 v1/xml/it.zip
-  1719160 v1/xml/pt.zip
-     1465 v1/moses/README
-    54802 v1/moses/de-en.txt.zip
-  8712119 v1/moses/de-es.txt.zip
- 12247628 v1/moses/en-es.txt.zip
-    65444 v1/moses/en-fr.txt.zip
-    71644 v1/moses/en-it.txt.zip
-     9572 v1/moses/en-pt.txt.zip
- 10181000 v1/moses/es-fr.txt.zip
-  9099893 v1/moses/es-it.txt.zip
-  1269969 v1/moses/es-pt.txt.zip
-  4155637 v1/mono/de.tok.gz
-  4137768 v1/mono/de.txt.gz
-  5620028 v1/mono/en.tok.gz
-  5588314 v1/mono/en.txt.gz
- 19010833 v1/mono/es.tok.gz
- 18954596 v1/mono/es.txt.gz
-  4843126 v1/mono/fr.tok.gz
-  4831413 v1/mono/fr.txt.gz
-  4249505 v1/mono/it.tok.gz
-  4232192 v1/mono/it.txt.gz
-   560582 v1/mono/pt.tok.gz
-   557897 v1/mono/pt.txt.gz
-   431395 v1/freq/de.freq.gz
-   302183 v1/freq/en.freq.gz
-   408101 v1/freq/es.freq.gz
-   273685 v1/freq/fr.freq.gz
-   257896 v1/freq/it.freq.gz
-    84387 v1/freq/pt.freq.gz
-  4759353 v1/raw/de.zip
-  6439634 v1/raw/en.zip
- 21620938 v1/raw/es.zip
-  5514276 v1/raw/fr.zip
-  4822390 v1/raw/it.zip
-   688556 v1/raw/pt.zip
-     1463 v1/tmx/README
-    47083 v1/tmx/de-en.tmx.gz
-  8680815 v1/tmx/de-es.tmx.gz
- 12014544 v1/tmx/en-es.tmx.gz
-    57821 v1/tmx/en-fr.tmx.gz
-    64299 v1/tmx/en-it.tmx.gz
-     1765 v1/tmx/en-pt.tmx.gz
- 10105472 v1/tmx/es-fr.tmx.gz
-  8797580 v1/tmx/es-it.tmx.gz
-  1146307 v1/tmx/es-pt.tmx.gz
+ 58784361 v1/xml/es.zip
+ 15207533 v1/xml/fr.zip
+ 12946351 v1/xml/it.zip
+  1809968 v1/xml/pt.zip
