@@ -1,73 +1,27 @@
 ---
 bitexts:
   en-nb:
+    alignments: 733081
     downloads:
       alignments:
         size: 5826452
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/en-nb.xml.gz
       source language:
-        size: 25173339
+        size: 25173461
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/raw/en.zip
       target language:
-        size: 25599323
+        size: 25599445
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/raw/nb.zip
       tokenized source language:
-        size: 84457521
+        size: 86798109
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/en.zip
       tokenized target language:
-        size: 72792476
+        size: 75082877
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/nb.zip
+    files: 19
+    source language tokens: 13395067
+    target language tokens: 16031853
 monolingual:
-  10_done:
-    downloads:
-      tokenized xml:
-        size: 1481
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/10_done.zip
-  11_done:
-    downloads:
-      tokenized xml:
-        size: 1482
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/11_done.zip
-  12_done:
-    downloads:
-      tokenized xml:
-        size: 1482
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/12_done.zip
-  13_done:
-    downloads:
-      tokenized xml:
-        size: 1482
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/13_done.zip
-  14_done:
-    downloads:
-      tokenized xml:
-        size: 1482
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/14_done.zip
-  15_done:
-    downloads:
-      tokenized xml:
-        size: 1483
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/15_done.zip
-  16_done:
-    downloads:
-      tokenized xml:
-        size: 1483
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/16_done.zip
-  17_done:
-    downloads:
-      tokenized xml:
-        size: 1482
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/17_done.zip
-  18_done:
-    downloads:
-      tokenized xml:
-        size: 1482
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/18_done.zip
-  19_done:
-    downloads:
-      tokenized xml:
-        size: 1482
-        url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/19_done.zip
   en:
     downloads:
       frequency list:
@@ -80,11 +34,14 @@ monolingual:
         size: 22509355
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/mono/en.tok.gz
       tokenized xml:
-        size: 84457521
+        size: 86798109
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/en.zip
       xml:
-        size: 25173339
+        size: 25173461
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/raw/en.zip
+    files: 19
+    sentences: 742863
+    tokens: 16031853
   nb:
     downloads:
       frequency list:
@@ -97,16 +54,25 @@ monolingual:
         size: 4329124
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 72792476
+        size: 75082877
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/xml/nb.zip
       xml:
-        size: 25599323
+        size: 25599445
         url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/raw/nb.zip
+    files: 19
+    sentences: 733844
+    tokens: 13337276
 moses:
   en-nb:
-    download size: 48627627
+    alignments: 733091
+    download size: 48627749
     download url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/moses/en-nb.txt.zip
+    source language tokens: 12396011
+    target language tokens: 13921938
 tmx:
   en-nb:
-    download size: 50664935
+    download size: 50664938
     download url: https://object.pouta.csc.fi/OPUS-ELRC-396-Foreign_Affairs_Norw/v1/tmx/en-nb.tmx.gz
+    source language tokens: 12088285
+    target language tokens: 13581429
+    translation units: 690282

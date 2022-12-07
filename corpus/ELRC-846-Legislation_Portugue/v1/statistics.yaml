@@ -1,22 +1,26 @@
 ---
 bitexts:
   en-pt:
+    alignments: 1792
     downloads:
       alignments:
         size: 13744
         url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/xml/en-pt.xml.gz
       source language:
-        size: ~
-        url: ~
+        size: 66245
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/raw/en.zip
       target language:
-        size: ~
-        url: ~
+        size: 65226
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/raw/pt.zip
       tokenized source language:
-        size: 228202
+        size: 234373
         url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/xml/en.zip
       tokenized target language:
-        size: 211425
+        size: 217451
         url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/xml/pt.zip
+    files: 1
+    source language tokens: 40263
+    target language tokens: 44799
 monolingual:
   846:
     downloads:
@@ -25,13 +29,55 @@ monolingual:
         url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/xml/846.zip
   en:
     downloads:
+      frequency list:
+        size: 13843
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/freq/en.freq.gz
+      plain text:
+        size: 57024
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/mono/en.txt.gz
+      tokenized text:
+        size: 57309
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/mono/en.tok.gz
       tokenized xml:
-        size: 228202
+        size: 234373
         url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/xml/en.zip
-      xml: {}
+      xml:
+        size: 66245
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/raw/en.zip
+    files: 1
+    sentences: 1839
+    tokens: 44799
   pt:
     downloads:
+      frequency list:
+        size: 16337
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/freq/pt.freq.gz
+      plain text:
+        size: 56324
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/mono/pt.txt.gz
+      tokenized text:
+        size: 56480
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 211425
+        size: 217451
         url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/xml/pt.zip
-      xml: {}
+      xml:
+        size: 65226
+        url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/raw/pt.zip
+    files: 1
+    sentences: 1792
+    tokens: 40263
+moses:
+  en-pt:
+    alignments: 1793
+    download size: 124320
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/moses/en-pt.txt.zip
+    source language tokens: 34931
+    target language tokens: 39086
+tmx:
+  en-pt:
+    download size: 128716
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-846-Legislation_Portugue/v1/tmx/en-pt.tmx.gz
+    source language tokens: 33183
+    target language tokens: 37209
+    translation units: 1518

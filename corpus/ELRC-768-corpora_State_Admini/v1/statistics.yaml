@@ -1,43 +1,27 @@
 ---
 bitexts:
   bg-en:
+    alignments: 52140
     downloads:
       alignments:
         size: 405029
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/bg-en.xml.gz
       source language:
-        size: 3281827
+        size: 3281945
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/raw/bg.zip
       target language:
-        size: 2589674
+        size: 2589794
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/raw/en.zip
       tokenized source language:
-        size: 7898043
+        size: 8069044
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/bg.zip
       tokenized target language:
-        size: 7345644
+        size: 7516478
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/en.zip
+    files: 13
+    source language tokens: 1273577
+    target language tokens: 1322145
 monolingual:
-  10_done:
-    downloads:
-      tokenized xml:
-        size: 1472
-        url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/10_done.zip
-  11_done:
-    downloads:
-      tokenized xml:
-        size: 1472
-        url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/11_done.zip
-  12_done:
-    downloads:
-      tokenized xml:
-        size: 1472
-        url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/12_done.zip
-  13_done:
-    downloads:
-      tokenized xml:
-        size: 1473
-        url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/13_done.zip
   bg:
     downloads:
       frequency list:
@@ -50,11 +34,14 @@ monolingual:
         size: 3085971
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 7898043
+        size: 8069044
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/bg.zip
       xml:
-        size: 3281827
+        size: 3281945
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/raw/bg.zip
+    files: 13
+    sentences: 53142
+    tokens: 1273577
   en:
     downloads:
       frequency list:
@@ -67,16 +54,25 @@ monolingual:
         size: 2379258
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/mono/en.tok.gz
       tokenized xml:
-        size: 7345644
+        size: 7516478
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/xml/en.zip
       xml:
-        size: 2589674
+        size: 2589794
         url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/raw/en.zip
+    files: 13
+    sentences: 53085
+    tokens: 1322145
 moses:
   bg-en:
-    download size: 5710026
+    alignments: 52153
+    download size: 5710148
     download url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/moses/bg-en.txt.zip
+    source language tokens: 1106651
+    target language tokens: 1194908
 tmx:
   bg-en:
-    download size: 6240388
+    download size: 6240390
     download url: https://object.pouta.csc.fi/OPUS-ELRC-768-corpora_State_Admini/v1/tmx/bg-en.tmx.gz
+    source language tokens: 1066281
+    target language tokens: 1152820
+    translation units: 50422

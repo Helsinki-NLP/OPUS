@@ -1,22 +1,26 @@
 ---
 bitexts:
   en-ga:
+    alignments: 263
     downloads:
       alignments:
         size: 1992
         url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/en-ga.xml.gz
       source language:
-        size: ~
-        url: ~
+        size: 11571
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/raw/en.zip
       target language:
-        size: ~
-        url: ~
+        size: 11794
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/raw/ga.zip
       tokenized source language:
-        size: 25758
+        size: 27101
         url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/en.zip
       tokenized target language:
-        size: 25842
+        size: 27190
         url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/ga.zip
+    files: 1
+    source language tokens: 4018
+    target language tokens: 4078
 monolingual:
   804:
     downloads:
@@ -25,13 +29,55 @@ monolingual:
         url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/804.zip
   en:
     downloads:
+      frequency list:
+        size: 5300
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/freq/en.freq.gz
+      plain text:
+        size: 8453
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/mono/en.txt.gz
+      tokenized text:
+        size: 8525
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/mono/en.tok.gz
       tokenized xml:
-        size: 25758
+        size: 27101
         url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/en.zip
-      xml: {}
+      xml:
+        size: 11571
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/raw/en.zip
+    files: 1
+    sentences: 263
+    tokens: 4078
   ga:
     downloads:
+      frequency list:
+        size: 5523
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/freq/ga.freq.gz
+      plain text:
+        size: 8665
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/mono/ga.txt.gz
+      tokenized text:
+        size: 8730
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 25842
+        size: 27190
         url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/xml/ga.zip
-      xml: {}
+      xml:
+        size: 11794
+        url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/raw/ga.zip
+    files: 1
+    sentences: 264
+    tokens: 4018
+moses:
+  en-ga:
+    alignments: 264
+    download size: 20332
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/moses/en-ga.txt.zip
+    source language tokens: 3037
+    target language tokens: 3390
+tmx:
+  en-ga:
+    download size: 17942
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-804-UCD_Bord_na/v1/tmx/en-ga.tmx.gz
+    source language tokens: 3001
+    target language tokens: 3347
+    translation units: 256
