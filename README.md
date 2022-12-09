@@ -1,4 +1,4 @@
-# OPUS
+# ![OPUS](img/opus_small.jpg)
 
 The Open Parallel Corpus
 
@@ -47,7 +47,7 @@ Managing OPUS:
 * [OPUS-ingest](https://github.com/Helsinki-NLP/OPUS-ingest) - recipes for ingesting/importing data to OPUS
 * [OPUS-website](https://github.com/Helsinki-NLP/OPUS-website) - OPUS website and corpus sample files
 * [OPUS-admin](https://github.com/Helsinki-NLP/OPUS-admin) - scripts and recipes for admin tasks (restricted access)
-* [OPUS-repository](https://opus-repository.ling.helsinki.fi) - experimental parallel data management system [[frontend](https://github.com/Helsinki-NLP/OPUS-interface)] [[backend](https://github.com/Helsinki-NLP/OPUS-repository)] [live demo](https://opus-repository.ling.helsinki.fi)
+* [OPUS-repository](https://opus-repository.ling.helsinki.fi) - parallel data management system [[frontend](https://github.com/Helsinki-NLP/OPUS-interface)] [[backend](https://github.com/Helsinki-NLP/OPUS-repository)] [[live demo](https://opus-repository.ling.helsinki.fi)]
 * [OPUS-ISA](https://github.com/Helsinki-NLP/OPUS-ISA) - experimental sentence alignment interface [[live demo](https://opus.nlpl.eu/isa/isa.php)]
 
 
