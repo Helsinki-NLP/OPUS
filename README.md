@@ -1,4 +1,5 @@
 # OPUS
+
 The Open Parallel Corpus
 
 
@@ -41,14 +42,13 @@ Tools for finding and processing OPUS data sets:
 * [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - a toolbox for filtering and compiling parallel corpora [[doc](https://helsinki-nlp.github.io/OpusFilter/)]
 
 
-Managing OPUS (some with restricted access):
+Managing OPUS:
 
-* [OPUS-ingest](https://github.com/Helsinki-NLP/OPUS-ingest) - scripts for ingesting/importing data to OPUS
-* [OPUS-website](https://github.com/Helsinki-NLP/OPUS-website) - OPUS website
-* [OPUS-admin](https://github.com/Helsinki-NLP/OPUS-admin) - scripts and recipes for admin tasks
-* [OPUS-repository](https://github.com/Helsinki-NLP/OPUS-repository) - experimental data upload backend
-* [OPUS-interface](https://github.com/Helsinki-NLP/OPUS-interface) - web interface for the OPUS-repository
-* [OPUS-ISA](https://github.com/Helsinki-NLP/OPUS-ISA) - experimental sentence alignment interface
+* [OPUS-ingest](https://github.com/Helsinki-NLP/OPUS-ingest) - recipes for ingesting/importing data to OPUS
+* [OPUS-website](https://github.com/Helsinki-NLP/OPUS-website) - OPUS website and corpus sample files
+* [OPUS-admin](https://github.com/Helsinki-NLP/OPUS-admin) - scripts and recipes for admin tasks (restricted access)
+* [OPUS-repository](https://opus-repository.ling.helsinki.fi) - experimental parallel data management system [[frontend](https://github.com/Helsinki-NLP/OPUS-interface)] [[backend](https://github.com/Helsinki-NLP/OPUS-repository)] [live demo](https://opus-repository.ling.helsinki.fi)
+* [OPUS-ISA](https://github.com/Helsinki-NLP/OPUS-ISA) - experimental sentence alignment interface [[live demo](https://opus.nlpl.eu/isa/isa.php)]
 
 
 Machine translation with OPUS-MT:
