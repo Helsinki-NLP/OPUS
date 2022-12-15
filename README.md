@@ -8,38 +8,22 @@ The Open Parallel Corpus
 * contact: opus-project AT helsinki DOT fi
 
 
-This directory contains information about the [released parallel corpora](RELEASES.md) and derived data
+This repository contains information about the [released parallel corpora](RELEASES.md) and derived data
 sets in OPUS, the open collection of parallel corpora. Each sub-directory in `corpus/`
 corresponds to one specific resource with released versions and data sets
-according to the following format:
+according to the following format `corpus/name/version`.
 
-
-~~~
-corpus/name/vX ........... corpus release with version <vX>
-corpus/name/vX/raw ....... untokenized XML files
-corpus/name/vX/xml ....... tokenized XML files (possibly more annotation)
-~~~
-
-There are various data files that are derived from the core data sets.
-
-~~~
-corpus/name/vX/moses ..... plain text files for each bitext (Moses format)
-corpus/name/vX/tmx ....... translation memory exchange format for each bitext
-corpus/name/vX/parsed .... parsed corpora in XML (not all data sets are parsed)
-corpus/name/vX/mono ...... monolingual plain text files for each language
-corpus/name/vX/freq ...... token frequency lists
-corpus/name/vX/smt ....... word alignments and extracted phrase translation tables
-corpus/name/vX/dic ....... a rough dictionary extracted from word alignment
-~~~
 
 ## The OPUS ecosystem
 
 Tools for finding and processing OPUS data sets:
 
-* [OpusTools](https://github.com/Helsinki-NLP/OpusTools) - Python library and tools for accessing and processing OPUS data [[pypi](https://pypi.org/project/opustools/)]
+* [OpusTools](https://github.com/Helsinki-NLP/OpusTools) - Python library and tools for accessing and processing OPUS data [[pip](https://pypi.org/project/opustools/)]
 * [OpusTools-perl](https://github.com/Helsinki-NLP/OpusTools-perl) - Perl scripts for processing OPUS data
 * [OPUS-API](https://github.com/Helsinki-NLP/OPUS-API) - API for searching OPUS resources [[live API](https://opus.nlpl.eu/opusapi/)]
-* [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - a toolbox for filtering and compiling parallel corpora [[doc](https://helsinki-nlp.github.io/OpusFilter/)]
+* [OpusFilter](https://github.com/Helsinki-NLP/OpusFilter) - a toolbox for filtering and compiling parallel corpora [[doc](https://helsinki-nlp.github.io/OpusFilter/)] [[pip](https://pypi.org/project/opusfilter/)]
+* [OPUS-search](https://opus.nlpl.eu/bin/opuscqp.pl) - online search in OPUS data [[Europarl v7](https://opus.nlpl.eu/cwb/Europarl7/frames-cqp.html)] [[Europarl v3](https://opus.nlpl.eu/cwb/Europarl/frames-cqp.html)] [[OpenSubtitles v1](https://opus.nlpl.eu/cwb/OpenSubtitles/frames-cqp.html)] [[OpenSubtitles v2018](https://opus.nlpl.eu/cwb/OpenSubtitles2018/frames-cqp.html)] [[EUconst](https://opus.nlpl.eu/cwb/EUconst/frames-cqp.html)]
+* [OPUS-dic](https://opus.nlpl.eu/lex.php) - online dictionary based on word alignments
 
 
 Managing OPUS:
