@@ -1,0 +1,131 @@
+---
+bitexts:
+  en-ja:
+    alignments: 25740835
+    downloads:
+      alignments:
+        size: 216851045
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/en-ja.xml.gz
+      source language:
+        size: 1380855633
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/raw/en.zip
+      target language:
+        size: 1547292380
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/raw/ja.zip
+      tokenized source language:
+        size: 3877877244
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/en.zip
+      tokenized target language:
+        size: 5125990692
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/ja.zip
+    files: 1
+    source language tokens: 682773528
+    target language tokens: 899056392
+  ja-zh:
+    alignments: 83892
+    downloads:
+      alignments:
+        size: 638015
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/ja-zh.xml.gz
+      source language:
+        size: 1547292380
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/raw/ja.zip
+      target language:
+        size: 7380423
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/raw/zh.zip
+      tokenized source language:
+        size: 5125990692
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/ja.zip
+      tokenized target language:
+        size: 13061054
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/zh.zip
+    files: 1
+    source language tokens: 1369476
+    target language tokens: 3608347
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 13646642
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/freq/en.freq.gz
+      plain text:
+        size: 1181445070
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/mono/en.txt.gz
+      tokenized text:
+        size: 1187818683
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/mono/en.tok.gz
+      tokenized xml:
+        size: 3877877244
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/en.zip
+      xml:
+        size: 1380855633
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/raw/en.zip
+    files: 1
+    sentences: 27529618
+    tokens: 682773528
+  ja:
+    downloads:
+      frequency list:
+        size: 7253936
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/freq/ja.freq.gz
+      plain text:
+        size: 1377868349
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/mono/ja.txt.gz
+      tokenized text:
+        size: 1468919996
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/mono/ja.tok.gz
+      tokenized xml:
+        size: 5125990692
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/ja.zip
+      xml:
+        size: 1547292380
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/raw/ja.zip
+    files: 2
+    sentences: 25855389
+    tokens: 902664739
+  zh:
+    downloads:
+      frequency list:
+        size: 3869466
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/freq/zh.freq.gz
+      plain text:
+        size: 6552367
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/mono/zh.txt.gz
+      tokenized text:
+        size: 6652940
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/mono/zh.tok.gz
+      tokenized xml:
+        size: 13061054
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/xml/zh.zip
+      xml:
+        size: 7380423
+        url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/raw/zh.zip
+    files: 1
+    sentences: 83892
+    tokens: 1369476
+moses:
+  en-ja:
+    alignments: 25740836
+    download size: 2683723546
+    download url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/moses/en-ja.txt.zip
+    source language tokens: 80411914
+    target language tokens: 599019924
+  ja-zh:
+    alignments: 83893
+    download size: 13914620
+    download url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/moses/ja-zh.txt.zip
+    source language tokens: 552505
+    target language tokens: 633769
+tmx:
+  en-ja:
+    download size: 2634658501
+    download url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/tmx/en-ja.tmx.gz
+    source language tokens: 70106392
+    target language tokens: 516209346
+    translation units: 21890952
+  ja-zh:
+    download size: 13941850
+    download url: https://object.pouta.csc.fi/OPUS-JParaCrawl/v3.0/tmx/ja-zh.tmx.gz
+    source language tokens: 551807
+    target language tokens: 632947
+    translation units: 83738

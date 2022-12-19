@@ -1,0 +1,14 @@
+ Corpus Name: XLEnt
+     Package: XLEnt in TMX format
+     Website: http://opus.nlpl.eu/XLEnt-v1.2.php
+     Release: v1.2
+Release date: Tue Dec 13 02:34:33 EET 2022
+      Source: http://data.statmt.org/xlent/
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+If you use the dataset or code, please cite (<a href=http://data.statmt.org/xlent/elkishky_XLEnt.pdf>pdf</a>): <blockquote><pre> @inproceedings{elkishky_xlent_2021,</br> author = {El-Kishky, Ahmed and Renduchintala, Adithya and Cross, James and Guzm{\'a}n, Francisco and Koehn, Philipp},</br> booktitle = {Preprint},</br> title = {{XLEnt}: Mining Cross-lingual Entities with Lexical-Semantic-Phonetic Word Alignment}</br>, year = {2021},</br> address = Online,</br> }</pre></blockquote> and, please, acknowledge <a href=https://www.aclweb.org/anthology/L12-1246/>OPUS</a> (<a href=https://www.aclweb.org/anthology/L12-1246.bib>bib</a>, <a href=http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf>pdf</a>) as well for this service.
+
+This corpus was created by mining CCAligned, CCMatrix, and WikiMatrix parallel sentences. These three sources were themselves extracted from web data from Commoncrawl Snapshots and Wikipedia snapshots. Entity pairs were obtained by performing named entity recognition and typing on English sentences and projecting labels to non-English aligned sentence pairs. No claims of intellectual property are made on the work of preparation of the corpus. XLEnt consists of parallel entity mentions in 120 languages aligned with English. These entity pairs were constructed by performing named entity recognition (NER) and typing on English sentences from mined sentence pairs. These extracted English entity labels and types were projected to the non-English sentences through word alignment. Word alignment was performed by combining three alignment signals ((1) word co-occurence alignment with FastAlign (2) semantic alignment using LASER embeddings, and (3) phonetic alignment via transliteration) into a unified word-alignment model. This lexical/semantic/phonetic alignment approach yielded more than 160 million aligned entity pairs in 120 languages paired with English. Recognizing that each English is often aligned to mulitple entities in different target languages, we can join on English entities to obtain aligned entity pairs that directly pair two non-English entities (e.g., Arabic-French)  The original distribution is available from http://data.statmt.org/xlent/ The difference to version 1 is that pivoting now only uses the link with best score in case of alternative alignments for a pivot entity. Version 1.2 corrects some wrongly aligned languages during pivoting.
+

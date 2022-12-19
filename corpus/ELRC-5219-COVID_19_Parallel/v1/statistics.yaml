@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-it:
+    alignments: 4056
+    downloads:
+      alignments:
+        size: 31118
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/xml/en-it.xml.gz
+      source language:
+        size: 204945
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/raw/en.zip
+      target language:
+        size: 217622
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/raw/it.zip
+      tokenized source language:
+        size: 530672
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/xml/en.zip
+      tokenized target language:
+        size: 572828
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/xml/it.zip
+    files: 1
+    source language tokens: 92032
+    target language tokens: 99220
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 44137
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/freq/en.freq.gz
+      plain text:
+        size: 186762
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/mono/en.txt.gz
+      tokenized text:
+        size: 187726
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 530672
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/xml/en.zip
+      xml:
+        size: 204945
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/raw/en.zip
+    files: 1
+    sentences: 4087
+    tokens: 92032
+  it:
+    downloads:
+      frequency list:
+        size: 50036
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/freq/it.freq.gz
+      plain text:
+        size: 199381
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/mono/it.txt.gz
+      tokenized text:
+        size: 200248
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/mono/it.tok.gz
+      tokenized xml:
+        size: 572828
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/xml/it.zip
+      xml:
+        size: 217622
+        url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/raw/it.zip
+    files: 1
+    sentences: 4071
+    tokens: 99220
+moses:
+  en-it:
+    alignments: 4057
+    download size: 408638
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/moses/en-it.txt.zip
+    source language tokens: 80239
+    target language tokens: 85521
+tmx:
+  en-it:
+    download size: 423930
+    download url: https://object.pouta.csc.fi/OPUS-ELRC-5219-COVID_19_Parallel/v1/tmx/en-it.tmx.gz
+    source language tokens: 80239
+    target language tokens: 85521
+    translation units: 4057

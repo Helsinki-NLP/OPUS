@@ -1,0 +1,175 @@
+ Corpus Name: JParaCrawl
+     Website: http://opus.nlpl.eu/JParaCrawl-v3.0.php
+     Release: v3.0
+Release date: Fri Dec 16 09:46:24 EET 2022
+     License: <a href=LICENSE>Terms of use</a>
+   Copyright: JParaCrawl and the trained models are distributed under the following <a href="LICENSE">license</a>. For commercial use, please contact <a href="http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/
+     Contact: NTT Communication Science Laboratories, Makoto Morishita [jparacrawl-ml -a- hco.ntt.co.jp]
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+We have used Bitextor created by the ParaCrawl project. We gratefully acknowledge the ParaCrawl project for releasing the software and fruitful discussions. We also would like to thank Hisashi Itoh and Takumi Asai for their technical support. Please, cite <a href="http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/
+
+JParaCrawl is the largest publicly available English-Japanese parallel corpus created by NTT. It was created by largely crawling the web and automatically aligning parallel sentences. For more details, see <a href="http://www.kecl.ntt.co.jp/icl/lirg/jparacrawl/
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+JParaCrawl/v3.0/freq/en.freq.gz
+JParaCrawl/v3.0/freq/ja.freq.gz
+JParaCrawl/v3.0/freq/zh.freq.gz
+JParaCrawl/v3.0/mono/en.tok.gz
+JParaCrawl/v3.0/mono/en.txt.gz
+JParaCrawl/v3.0/mono/ja.tok.gz
+JParaCrawl/v3.0/mono/ja.txt.gz
+JParaCrawl/v3.0/mono/zh.tok.gz
+JParaCrawl/v3.0/mono/zh.txt.gz
+JParaCrawl/v3.0/moses/en-ja.txt.zip
+JParaCrawl/v3.0/moses/ja-zh.txt.zip
+JParaCrawl/v3.0/raw/en.zip
+JParaCrawl/v3.0/raw/ja.zip
+JParaCrawl/v3.0/raw/zh.zip
+JParaCrawl/v3.0/tmx/en-ja.tmx.gz
+JParaCrawl/v3.0/tmx/ja-zh.tmx.gz
+JParaCrawl/v3.0/xml/en.zip
+JParaCrawl/v3.0/xml/ja.zip
+JParaCrawl/v3.0/xml/zh.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+JParaCrawl/v3.0/freq/en.freq.gz
+JParaCrawl/v3.0/freq/ja.freq.gz
+JParaCrawl/v3.0/freq/zh.freq.gz
+JParaCrawl/v3.0/mono/en.tok.gz
+JParaCrawl/v3.0/mono/en.txt.gz
+JParaCrawl/v3.0/mono/ja.tok.gz
+JParaCrawl/v3.0/mono/ja.txt.gz
+JParaCrawl/v3.0/mono/zh.tok.gz
+JParaCrawl/v3.0/mono/zh.txt.gz
+JParaCrawl/v3.0/moses/en-ja.txt.zip
+JParaCrawl/v3.0/moses/ja-zh.txt.zip
+JParaCrawl/v3.0/raw/en.zip
+JParaCrawl/v3.0/raw/ja.zip
+JParaCrawl/v3.0/raw/zh.zip
+JParaCrawl/v3.0/tmx/en-ja.tmx.gz
+JParaCrawl/v3.0/tmx/ja-zh.tmx.gz
+JParaCrawl/v3.0/xml/en.zip
+JParaCrawl/v3.0/xml/ja.zip
+JParaCrawl/v3.0/xml/zh.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+JParaCrawl/v3.0/freq/en.freq.gz
+JParaCrawl/v3.0/freq/ja.freq.gz
+JParaCrawl/v3.0/freq/zh.freq.gz
+JParaCrawl/v3.0/mono/en.tok.gz
+JParaCrawl/v3.0/mono/en.txt.gz
+JParaCrawl/v3.0/mono/ja.tok.gz
+JParaCrawl/v3.0/mono/ja.txt.gz
+JParaCrawl/v3.0/mono/zh.tok.gz
+JParaCrawl/v3.0/mono/zh.txt.gz
+JParaCrawl/v3.0/moses/en-ja.txt.zip
+JParaCrawl/v3.0/moses/ja-zh.txt.zip
+JParaCrawl/v3.0/raw/en.zip
+JParaCrawl/v3.0/raw/ja.zip
+JParaCrawl/v3.0/raw/zh.zip
+JParaCrawl/v3.0/tmx/en-ja.tmx.gz
+JParaCrawl/v3.0/tmx/ja-zh.tmx.gz
+JParaCrawl/v3.0/xml/en.zip
+JParaCrawl/v3.0/xml/ja.zip
+JParaCrawl/v3.0/xml/zh.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+JParaCrawl/v3.0/freq/en.freq.gz
+JParaCrawl/v3.0/freq/ja.freq.gz
+JParaCrawl/v3.0/freq/zh.freq.gz
+JParaCrawl/v3.0/mono/en.tok.gz
+JParaCrawl/v3.0/mono/en.txt.gz
+JParaCrawl/v3.0/mono/ja.tok.gz
+JParaCrawl/v3.0/mono/ja.txt.gz
+JParaCrawl/v3.0/mono/zh.tok.gz
+JParaCrawl/v3.0/mono/zh.txt.gz
+JParaCrawl/v3.0/moses/en-ja.txt.zip
+JParaCrawl/v3.0/moses/ja-zh.txt.zip
+JParaCrawl/v3.0/raw/en.zip
+JParaCrawl/v3.0/raw/ja.zip
+JParaCrawl/v3.0/raw/zh.zip
+JParaCrawl/v3.0/tmx/en-ja.tmx.gz
+JParaCrawl/v3.0/tmx/ja-zh.tmx.gz
+JParaCrawl/v3.0/xml/en.zip
+JParaCrawl/v3.0/xml/ja.zip
+JParaCrawl/v3.0/xml/zh.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+JParaCrawl/v3.0/freq/en.freq.gz
+JParaCrawl/v3.0/freq/ja.freq.gz
+JParaCrawl/v3.0/freq/zh.freq.gz
+JParaCrawl/v3.0/mono/en.tok.gz
+JParaCrawl/v3.0/mono/en.txt.gz
+JParaCrawl/v3.0/mono/ja.tok.gz
+JParaCrawl/v3.0/mono/ja.txt.gz
+JParaCrawl/v3.0/mono/zh.tok.gz
+JParaCrawl/v3.0/mono/zh.txt.gz
+JParaCrawl/v3.0/moses/en-ja.txt.zip
+JParaCrawl/v3.0/moses/ja-zh.txt.zip
+JParaCrawl/v3.0/raw/en.zip
+JParaCrawl/v3.0/raw/ja.zip
+JParaCrawl/v3.0/raw/zh.zip
+JParaCrawl/v3.0/tmx/en-ja.tmx.gz
+JParaCrawl/v3.0/tmx/ja-zh.tmx.gz
+JParaCrawl/v3.0/xml/en.zip
+JParaCrawl/v3.0/xml/ja.zip
+JParaCrawl/v3.0/xml/zh.zip
