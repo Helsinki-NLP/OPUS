@@ -7,25 +7,25 @@ bitexts:
         size: 8824
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 425827
+        size: 426060
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/smt/en-ga.zip
       source language:
-        size: 48465
+        size: 48817
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/raw/en.zip
       target language:
-        size: 55108
+        size: 55460
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/raw/ga.zip
       tokenized source language:
-        size: 144103
+        size: 148230
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/xml/en.zip
       tokenized target language:
-        size: 158706
+        size: 162851
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/xml/ga.zip
       word alignment dictionary:
         size: 28382
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 100008
+        size: 100241
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 26794
@@ -43,10 +43,10 @@ monolingual:
         size: 42060
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 144103
+        size: 148230
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/xml/en.zip
       xml:
-        size: 48465
+        size: 48817
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/raw/en.zip
     files: 1
     sentences: 1181
@@ -63,10 +63,10 @@ monolingual:
         size: 49158
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 158706
+        size: 162851
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/xml/ga.zip
       xml:
-        size: 55108
+        size: 55460
         url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/raw/ga.zip
     files: 1
     sentences: 1182
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 1135
-    download size: 98368
+    download size: 98720
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/moses/en-ga.txt.zip
     source language tokens: 24103
     target language tokens: 25724
 tmx:
   en-ga:
-    download size: 105475
+    download size: 105470
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2559-government_websites_/v1/tmx/en-ga.tmx.gz
     source language tokens: 24103
     target language tokens: 25724

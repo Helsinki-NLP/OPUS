@@ -7,25 +7,25 @@ bitexts:
         size: 6385
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/xml/en-pt.xml.gz
       smt phrase table:
-        size: 314348
+        size: 314349
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/smt/en-pt.zip
       source language:
-        size: 57319
+        size: 57680
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/raw/en.zip
       target language:
-        size: 63402
+        size: 63764
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/raw/pt.zip
       tokenized source language:
-        size: 159067
+        size: 162281
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/xml/en.zip
       tokenized target language:
-        size: 179589
+        size: 182829
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/xml/pt.zip
       word alignment dictionary:
         size: 19093
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/dic/en-pt.dic.gz
       word alignments:
-        size: 81399
+        size: 81401
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/smt/en-pt.alg.zip
     files: 1
     source language tokens: 28140
@@ -43,10 +43,10 @@ monolingual:
         size: 52118
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 159067
+        size: 162281
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/xml/en.zip
       xml:
-        size: 57319
+        size: 57680
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/raw/en.zip
     files: 1
     sentences: 865
@@ -63,10 +63,10 @@ monolingual:
         size: 57836
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 179589
+        size: 182829
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/xml/pt.zip
       xml:
-        size: 63402
+        size: 63764
         url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/raw/pt.zip
     files: 1
     sentences: 863
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-pt:
     alignments: 864
-    download size: 115373
+    download size: 115734
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3301-EUROPARL_covid/v1/moses/en-pt.txt.zip
     source language tokens: 25500
     target language tokens: 29027

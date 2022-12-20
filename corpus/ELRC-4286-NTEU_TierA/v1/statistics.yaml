@@ -7,16 +7,16 @@ bitexts:
         size: 31020249
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/xml/bg-sv.xml.gz
       source language:
-        size: 202555958
+        size: 202556356
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/raw/bg.zip
       target language:
-        size: 161440467
+        size: 161440867
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/raw/sv.zip
       tokenized source language:
-        size: 548581252
+        size: 560922750
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/xml/bg.zip
       tokenized target language:
-        size: 487115309
+        size: 500140501
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/xml/sv.zip
     files: 2
     source language tokens: 86817518
@@ -34,10 +34,10 @@ monolingual:
         size: 139362382
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 548581252
+        size: 560922750
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/xml/bg.zip
       xml:
-        size: 202555958
+        size: 202556356
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/raw/bg.zip
     files: 2
     sentences: 3797549
@@ -54,10 +54,10 @@ monolingual:
         size: 145963417
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 487115309
+        size: 500140501
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/xml/sv.zip
       xml:
-        size: 161440467
+        size: 161440867
         url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/raw/sv.zip
     files: 2
     sentences: 4068635
@@ -65,14 +65,14 @@ monolingual:
 moses:
   bg-sv:
     alignments: 3889532
-    download size: 352112169
+    download size: 352112569
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/moses/bg-sv.txt.zip
     source language tokens: 76685047
     target language tokens: 85546218
 tmx:
   bg-sv:
-    download size: 391566686
+    download size: 391566683
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4286-NTEU_TierA/v1/tmx/bg-sv.tmx.gz
-    source language tokens: ~
-    target language tokens: ~
+    source language tokens: 76626309
+    target language tokens: 85482600
     translation units: 3885282

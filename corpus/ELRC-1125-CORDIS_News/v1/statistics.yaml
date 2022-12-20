@@ -7,25 +7,25 @@ bitexts:
         size: 860941
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/xml/en-es.xml.gz
       smt phrase table:
-        size: 21277914
+        size: 21278153
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/smt/en-es.zip
       source language:
-        size: 6384371
+        size: 6384731
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/raw/en.zip
       target language:
-        size: 7248350
+        size: 7248712
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/raw/es.zip
       tokenized source language:
-        size: 16881693
+        size: 17243339
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/xml/en.zip
       tokenized target language:
-        size: 19225677
+        size: 19600887
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/xml/es.zip
       word alignment dictionary:
         size: 641435
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/dic/en-es.dic.gz
       word alignments:
-        size: 10091579
+        size: 10091817
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/smt/en-es.alg.zip
     files: 1
     source language tokens: 2935617
@@ -43,10 +43,10 @@ monolingual:
         size: 5936535
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/mono/en.tok.gz
       tokenized xml:
-        size: 16881693
+        size: 17243339
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/xml/en.zip
       xml:
-        size: 6384371
+        size: 6384731
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/raw/en.zip
     files: 1
     sentences: 113003
@@ -63,10 +63,10 @@ monolingual:
         size: 6779972
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/mono/es.tok.gz
       tokenized xml:
-        size: 19225677
+        size: 19600887
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/xml/es.zip
       xml:
-        size: 7248350
+        size: 7248712
         url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/raw/es.zip
     files: 1
     sentences: 115729
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-es:
     alignments: 112995
-    download size: 13195423
+    download size: 13195787
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/moses/en-es.txt.zip
     source language tokens: 2581884
     target language tokens: 2994213
 tmx:
   en-es:
-    download size: 13996252
+    download size: 13996250
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1125-CORDIS_News/v1/tmx/en-es.tmx.gz
     source language tokens: 2581884
     target language tokens: 2994213

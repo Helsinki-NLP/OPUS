@@ -7,16 +7,16 @@ bitexts:
         size: 87537
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/xml/en-nl.xml.gz
       source language:
-        size: 224673
+        size: 225029
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/raw/en.zip
       target language:
-        size: 225884
+        size: 226240
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/raw/nl.zip
       tokenized source language:
-        size: 589314
+        size: 610309
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/xml/en.zip
       tokenized target language:
-        size: 553784
+        size: 574587
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/xml/nl.zip
     files: 1
     source language tokens: 94601
@@ -34,10 +34,10 @@ monolingual:
         size: 198609
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/mono/en.tok.gz
       tokenized xml:
-        size: 589314
+        size: 610309
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/xml/en.zip
       xml:
-        size: 224673
+        size: 225029
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/raw/en.zip
     files: 1
     sentences: 6672
@@ -54,10 +54,10 @@ monolingual:
         size: 199631
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/mono/nl.tok.gz
       tokenized xml:
-        size: 553784
+        size: 574587
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/xml/nl.zip
       xml:
-        size: 225884
+        size: 226240
         url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/raw/nl.zip
     files: 1
     sentences: 6669
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-nl:
     alignments: 6536
-    download size: 432030
+    download size: 432386
     download url: https://object.pouta.csc.fi/OPUS-ELRC-84-Dutch_Government/v1/moses/en-nl.txt.zip
     source language tokens: 84392
     target language tokens: 93034

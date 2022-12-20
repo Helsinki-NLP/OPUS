@@ -10,16 +10,16 @@ bitexts:
         size: 2127058
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/smt/en-es.zip
       source language:
-        size: 441356
+        size: 441357
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/raw/en.zip
       target language:
         size: 495892
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/raw/es.zip
       tokenized source language:
-        size: 1162675
+        size: 1212969
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/xml/en.zip
       tokenized target language:
-        size: 1338056
+        size: 1391266
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/xml/es.zip
       word alignment dictionary:
         size: 107462
@@ -43,10 +43,10 @@ monolingual:
         size: 368323
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1162675
+        size: 1212969
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/xml/en.zip
       xml:
-        size: 441356
+        size: 441357
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/raw/en.zip
     files: 1
     sentences: 16483
@@ -63,7 +63,7 @@ monolingual:
         size: 417223
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/mono/es.tok.gz
       tokenized xml:
-        size: 1338056
+        size: 1391266
         url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/xml/es.zip
       xml:
         size: 495892
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-es:
     alignments: 13967
-    download size: 877652
+    download size: 877653
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/moses/en-es.txt.zip
     source language tokens: 171955
     target language tokens: 200562
 tmx:
   en-es:
-    download size: 901629
+    download size: 901627
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2543-Inteliterm/v1/tmx/en-es.tmx.gz
     source language tokens: 171953
     target language tokens: 200560

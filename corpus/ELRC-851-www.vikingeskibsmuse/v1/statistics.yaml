@@ -7,16 +7,16 @@ bitexts:
         size: 94895
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/xml/da-en.xml.gz
       source language:
-        size: 487343
+        size: 487720
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/raw/da.zip
       target language:
-        size: 477868
+        size: 478246
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/raw/en.zip
       tokenized source language:
-        size: 1234832
+        size: 1273836
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/xml/da.zip
       tokenized target language:
-        size: 1318599
+        size: 1358013
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/xml/en.zip
     files: 1
     source language tokens: 213697
@@ -34,10 +34,10 @@ monolingual:
         size: 439357
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/mono/da.tok.gz
       tokenized xml:
-        size: 1234832
+        size: 1273836
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/xml/da.zip
       xml:
-        size: 487343
+        size: 487720
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/raw/da.zip
     files: 1
     sentences: 12446
@@ -54,10 +54,10 @@ monolingual:
         size: 427663
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1318599
+        size: 1358013
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/xml/en.zip
       xml:
-        size: 477868
+        size: 478246
         url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/raw/en.zip
     files: 1
     sentences: 12489
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 12404
-    download size: 922366
+    download size: 922744
     download url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/moses/da-en.txt.zip
     source language tokens: 185113
     target language tokens: 214726
 tmx:
   da-en:
-    download size: 970166
+    download size: 970165
     download url: https://object.pouta.csc.fi/OPUS-ELRC-851-www.vikingeskibsmuse/v1/tmx/da-en.tmx.gz
     source language tokens: 185113
     target language tokens: 214726

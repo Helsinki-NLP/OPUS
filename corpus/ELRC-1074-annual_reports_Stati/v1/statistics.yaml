@@ -7,25 +7,25 @@ bitexts:
         size: 75097
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/xml/en-sk.xml.gz
       smt phrase table:
-        size: 1550683
+        size: 1550941
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/smt/en-sk.zip
       source language:
-        size: 225783
+        size: 226164
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/raw/en.zip
       target language:
-        size: 254239
+        size: 254619
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/raw/sk.zip
       tokenized source language:
-        size: 646425
+        size: 664613
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/xml/en.zip
       tokenized target language:
-        size: 634341
+        size: 652487
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/xml/sk.zip
       word alignment dictionary:
         size: 111744
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/dic/en-sk.dic.gz
       word alignments:
-        size: 328143
+        size: 328400
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/smt/en-sk.alg.zip
     files: 1
     source language tokens: 99556
@@ -43,10 +43,10 @@ monolingual:
         size: 204017
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/mono/en.tok.gz
       tokenized xml:
-        size: 646425
+        size: 664613
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/xml/en.zip
       xml:
-        size: 225783
+        size: 226164
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/raw/en.zip
     files: 1
     sentences: 5630
@@ -63,10 +63,10 @@ monolingual:
         size: 230604
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/mono/sk.tok.gz
       tokenized xml:
-        size: 634341
+        size: 652487
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/xml/sk.zip
       xml:
-        size: 254239
+        size: 254619
         url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/raw/sk.zip
     files: 1
     sentences: 5721
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-sk:
     alignments: 5614
-    download size: 461308
+    download size: 461689
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/moses/en-sk.txt.zip
     source language tokens: 89971
     target language tokens: 107164
 tmx:
   en-sk:
-    download size: 509797
+    download size: 509795
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1074-annual_reports_Stati/v1/tmx/en-sk.tmx.gz
     source language tokens: 89971
     target language tokens: 107164

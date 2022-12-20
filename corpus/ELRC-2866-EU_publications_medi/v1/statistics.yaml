@@ -7,19 +7,19 @@ bitexts:
         size: 104502
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/xml/en-hr.xml.gz
       smt phrase table:
-        size: 4352791
+        size: 4352789
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/smt/en-hr.zip
       source language:
-        size: 628080
+        size: 628456
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/raw/en.zip
       target language:
-        size: 674380
+        size: 674754
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/raw/hr.zip
       tokenized source language:
-        size: 1927127
+        size: 1969468
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/xml/en.zip
       tokenized target language:
-        size: 1952087
+        size: 1998438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/xml/hr.zip
       word alignment dictionary:
         size: 263728
@@ -43,10 +43,10 @@ monolingual:
         size: 581783
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1927127
+        size: 1969468
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/xml/en.zip
       xml:
-        size: 628080
+        size: 628456
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/raw/en.zip
     files: 1
     sentences: 12983
@@ -63,10 +63,10 @@ monolingual:
         size: 618084
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 1952087
+        size: 1998438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/xml/hr.zip
       xml:
-        size: 674380
+        size: 674754
         url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/raw/hr.zip
     files: 1
     sentences: 14294
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 12837
-    download size: 1262045
+    download size: 1262418
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/moses/en-hr.txt.zip
     source language tokens: 280982
     target language tokens: 304474
 tmx:
   en-hr:
-    download size: 1372187
+    download size: 1372189
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2866-EU_publications_medi/v1/tmx/en-hr.tmx.gz
     source language tokens: 280982
     target language tokens: 304474

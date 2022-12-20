@@ -7,16 +7,16 @@ bitexts:
         size: 27044
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 138605
+        size: 138975
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/raw/en.zip
       target language:
-        size: 132695
+        size: 133064
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/raw/nb.zip
       tokenized source language:
-        size: 390768
+        size: 402239
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/en.zip
       tokenized target language:
-        size: 343796
+        size: 355080
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/nb.zip
     files: 1
     source language tokens: 59113
@@ -34,10 +34,10 @@ monolingual:
         size: 123007
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 390768
+        size: 402239
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/en.zip
       xml:
-        size: 138605
+        size: 138975
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/raw/en.zip
     files: 1
     sentences: 3544
@@ -54,10 +54,10 @@ monolingual:
         size: 116379
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 343796
+        size: 355080
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/xml/nb.zip
       xml:
-        size: 132695
+        size: 133064
         url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/raw/nb.zip
     files: 1
     sentences: 3547
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 3466
-    download size: 257338
+    download size: 257710
     download url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/moses/en-nb.txt.zip
     source language tokens: 52558
     target language tokens: 64187
 tmx:
   en-nb:
-    download size: 277450
+    download size: 277456
     download url: https://object.pouta.csc.fi/OPUS-ELRC-583-www.hafslund.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 52558
     target language tokens: 64187

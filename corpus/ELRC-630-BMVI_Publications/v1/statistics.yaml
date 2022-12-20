@@ -7,16 +7,16 @@ bitexts:
         size: 91892
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/de-en.xml.gz
       source language:
-        size: 479384
+        size: 479739
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/raw/de.zip
       target language:
-        size: 461405
+        size: 461758
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/raw/en.zip
       tokenized source language:
-        size: 1191678
+        size: 1228751
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/de.zip
       tokenized target language:
-        size: 1364999
+        size: 1403111
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/en.zip
     files: 1
     source language tokens: 195324
@@ -34,10 +34,10 @@ monolingual:
         size: 433003
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/mono/de.tok.gz
       tokenized xml:
-        size: 1191678
+        size: 1228751
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/de.zip
       xml:
-        size: 479384
+        size: 479739
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/raw/de.zip
     files: 1
     sentences: 11921
@@ -54,10 +54,10 @@ monolingual:
         size: 415949
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1364999
+        size: 1403111
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/xml/en.zip
       xml:
-        size: 461405
+        size: 461758
         url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/raw/en.zip
     files: 1
     sentences: 11989
@@ -65,7 +65,7 @@ monolingual:
 moses:
   de-en:
     alignments: 11556
-    download size: 905299
+    download size: 905653
     download url: https://object.pouta.csc.fi/OPUS-ELRC-630-BMVI_Publications/v1/moses/de-en.txt.zip
     source language tokens: 172468
     target language tokens: 222926

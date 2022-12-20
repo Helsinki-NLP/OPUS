@@ -7,16 +7,16 @@ bitexts:
         size: 157969
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/xml/en-sl.xml.gz
       source language:
-        size: 416176
+        size: 416567
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/raw/en.zip
       target language:
-        size: 460911
+        size: 461301
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/raw/sl.zip
       tokenized source language:
-        size: 1625568
+        size: 1663934
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/xml/en.zip
       tokenized target language:
-        size: 1651694
+        size: 1690007
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/xml/sl.zip
     files: 1
     source language tokens: 318114
@@ -34,10 +34,10 @@ monolingual:
         size: 374844
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1625568
+        size: 1663934
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/xml/en.zip
       xml:
-        size: 416176
+        size: 416567
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/raw/en.zip
     files: 1
     sentences: 11908
@@ -54,10 +54,10 @@ monolingual:
         size: 419388
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/mono/sl.tok.gz
       tokenized xml:
-        size: 1651694
+        size: 1690007
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/xml/sl.zip
       xml:
-        size: 460911
+        size: 461301
         url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/raw/sl.zip
     files: 1
     sentences: 11903
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-sl:
     alignments: 11860
-    download size: 849217
+    download size: 849608
     download url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/moses/en-sl.txt.zip
     source language tokens: 273949
     target language tokens: 284445
 tmx:
   en-sl:
-    download size: 917995
+    download size: 917998
     download url: https://object.pouta.csc.fi/OPUS-ELRC-924-statistical_reports_/v1/tmx/en-sl.tmx.gz
     source language tokens: 273949
     target language tokens: 284445

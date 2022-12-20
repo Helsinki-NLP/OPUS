@@ -7,16 +7,16 @@ bitexts:
         size: 12024
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/xml/en-is.xml.gz
       source language:
-        size: 55477
+        size: 55858
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/raw/en.zip
       target language:
-        size: 54720
+        size: 55102
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/raw/is.zip
       tokenized source language:
-        size: 177824
+        size: 183175
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/xml/en.zip
       tokenized target language:
-        size: 149899
+        size: 155049
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/xml/is.zip
     files: 1
     source language tokens: 27006
@@ -34,10 +34,10 @@ monolingual:
         size: 48119
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/mono/en.tok.gz
       tokenized xml:
-        size: 177824
+        size: 183175
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/xml/en.zip
       xml:
-        size: 55477
+        size: 55858
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/raw/en.zip
     files: 1
     sentences: 1584
@@ -54,10 +54,10 @@ monolingual:
         size: 47054
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/mono/is.tok.gz
       tokenized xml:
-        size: 149899
+        size: 155049
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/xml/is.zip
       xml:
-        size: 54720
+        size: 55102
         url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/raw/is.zip
     files: 1
     sentences: 1574
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-is:
     alignments: 1536
-    download size: 104196
+    download size: 104574
     download url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/moses/en-is.txt.zip
     source language tokens: 24988
     target language tokens: 30921
 tmx:
   en-is:
-    download size: 114413
+    download size: 114418
     download url: https://object.pouta.csc.fi/OPUS-ELRC-517-Icelandic_Directorat/v1/tmx/en-is.tmx.gz
     source language tokens: 24988
     target language tokens: 30921

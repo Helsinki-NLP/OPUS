@@ -7,16 +7,16 @@ bitexts:
         size: 82412
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/xml/en-is.xml.gz
       source language:
-        size: 381173
+        size: 381532
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/raw/en.zip
       target language:
-        size: 390243
+        size: 390603
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/raw/is.zip
       tokenized source language:
-        size: 1123381
+        size: 1158489
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/xml/en.zip
       tokenized target language:
-        size: 989382
+        size: 1021984
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/xml/is.zip
     files: 2
     source language tokens: 166787
@@ -34,10 +34,10 @@ monolingual:
         size: 337219
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1123381
+        size: 1158489
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/xml/en.zip
       xml:
-        size: 381173
+        size: 381532
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/raw/en.zip
     files: 2
     sentences: 11055
@@ -54,10 +54,10 @@ monolingual:
         size: 349769
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/mono/is.tok.gz
       tokenized xml:
-        size: 989382
+        size: 1021984
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/xml/is.zip
       xml:
-        size: 390243
+        size: 390603
         url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/raw/is.zip
     files: 2
     sentences: 10404
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-is:
     alignments: 10164
-    download size: 741837
+    download size: 742195
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/moses/en-is.txt.zip
     source language tokens: 146886
     target language tokens: 182447
 tmx:
   en-is:
-    download size: 775086
+    download size: 775090
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4338-University_Iceland/v1/tmx/en-is.tmx.gz
     source language tokens: 143427
     target language tokens: 178238

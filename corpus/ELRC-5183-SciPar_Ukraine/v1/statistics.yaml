@@ -7,16 +7,16 @@ bitexts:
         size: 957196
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/en-ru.xml.gz
       source language:
-        size: 22176672
+        size: 22177028
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/en.zip
       target language:
-        size: 16827714
+        size: 16828071
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/ru.zip
       tokenized source language:
-        size: 61047354
+        size: 62453448
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/en.zip
       tokenized target language:
-        size: 34737834
+        size: 35542128
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/ru.zip
     files: 1
     source language tokens: 2452989
@@ -28,16 +28,16 @@ bitexts:
         size: 2385967
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/en-uk.xml.gz
       source language:
-        size: 22176672
+        size: 22177028
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/en.zip
       target language:
-        size: 28576935
+        size: 28576936
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/uk.zip
       tokenized source language:
-        size: 61047354
+        size: 62453448
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/en.zip
       tokenized target language:
-        size: 60645000
+        size: 62072264
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/uk.zip
     files: 1
     source language tokens: 6187567
@@ -49,16 +49,16 @@ bitexts:
         size: 967486
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/ru-uk.xml.gz
       source language:
-        size: 16827714
+        size: 16828071
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/ru.zip
       target language:
-        size: 28576935
+        size: 28576936
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/uk.zip
       tokenized source language:
-        size: 34737834
+        size: 35542128
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/ru.zip
       tokenized target language:
-        size: 60645000
+        size: 62072264
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/uk.zip
     files: 1
     source language tokens: 2440075
@@ -76,10 +76,10 @@ monolingual:
         size: 20540501
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/mono/en.tok.gz
       tokenized xml:
-        size: 61047354
+        size: 62453448
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/en.zip
       xml:
-        size: 22176672
+        size: 22177028
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/en.zip
     files: 2
     sentences: 435933
@@ -96,10 +96,10 @@ monolingual:
         size: 15966777
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/mono/ru.tok.gz
       tokenized xml:
-        size: 34737834
+        size: 35542128
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/ru.zip
       xml:
-        size: 16827714
+        size: 16828071
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/ru.zip
     files: 2
     sentences: 253125
@@ -121,10 +121,10 @@ monolingual:
         size: 27031387
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/mono/uk.tok.gz
       tokenized xml:
-        size: 60645000
+        size: 62072264
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/xml/uk.zip
       xml:
-        size: 28576935
+        size: 28576936
         url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/raw/uk.zip
     files: 2
     sentences: 447020
@@ -132,19 +132,19 @@ monolingual:
 moses:
   en-ru:
     alignments: 126585
-    download size: 14542293
+    download size: 14542294
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/moses/en-ru.txt.zip
     source language tokens: 2164248
     target language tokens: 2826822
   en-uk:
     alignments: 306813
-    download size: 35015356
+    download size: 35015357
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/moses/en-uk.txt.zip
     source language tokens: 5263362
     target language tokens: 6983013
   ru-uk:
     alignments: 126135
-    download size: 16403191
+    download size: 16403192
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/moses/ru-uk.txt.zip
     source language tokens: 2153475
     target language tokens: 2155404
@@ -156,7 +156,7 @@ tmx:
     target language tokens: 2826822
     translation units: 126585
   en-uk:
-    download size: 39435875
+    download size: 39435871
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5183-SciPar_Ukraine/v1/tmx/en-uk.tmx.gz
     source language tokens: 5263362
     target language tokens: 6983013

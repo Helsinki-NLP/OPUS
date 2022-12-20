@@ -7,16 +7,16 @@ bitexts:
         size: 87749
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/xml/en-lv.xml.gz
       source language:
-        size: 635134
+        size: 635509
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/raw/en.zip
       target language:
-        size: 648872
+        size: 649248
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/raw/lv.zip
       tokenized source language:
-        size: 1856528
+        size: 1894207
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/xml/en.zip
       tokenized target language:
-        size: 1660746
+        size: 1697832
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/xml/lv.zip
     files: 1
     source language tokens: 272057
@@ -34,10 +34,10 @@ monolingual:
         size: 589165
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1856528
+        size: 1894207
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/xml/en.zip
       xml:
-        size: 635134
+        size: 635509
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/raw/en.zip
     files: 1
     sentences: 11610
@@ -54,10 +54,10 @@ monolingual:
         size: 604231
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/mono/lv.tok.gz
       tokenized xml:
-        size: 1660746
+        size: 1697832
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/xml/lv.zip
       xml:
-        size: 648872
+        size: 649248
         url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/raw/lv.zip
     files: 1
     sentences: 11615
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-lv:
     alignments: 11600
-    download size: 1240968
+    download size: 1241344
     download url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/moses/en-lv.txt.zip
     source language tokens: 229914
     target language tokens: 305145
 tmx:
   en-lv:
-    download size: 1390352
+    download size: 1390349
     download url: https://object.pouta.csc.fi/OPUS-ELRC-715-Finance_Economics_Ba/v1/tmx/en-lv.tmx.gz
     source language tokens: 229914
     target language tokens: 305145

@@ -7,16 +7,16 @@ bitexts:
         size: 7327
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/xml/en-it.xml.gz
       source language:
-        size: 47750
+        size: 48105
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/raw/en.zip
       target language:
-        size: 50091
+        size: 50446
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/raw/it.zip
       tokenized source language:
-        size: 146162
+        size: 149695
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/xml/en.zip
       tokenized target language:
-        size: 148301
+        size: 151800
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/xml/it.zip
     files: 1
     source language tokens: 26971
@@ -34,10 +34,10 @@ monolingual:
         size: 42509
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/mono/en.tok.gz
       tokenized xml:
-        size: 146162
+        size: 149695
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/xml/en.zip
       xml:
-        size: 47750
+        size: 48105
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/raw/en.zip
     files: 1
     sentences: 988
@@ -54,10 +54,10 @@ monolingual:
         size: 44878
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/mono/it.tok.gz
       tokenized xml:
-        size: 148301
+        size: 151800
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/xml/it.zip
       xml:
-        size: 50091
+        size: 50446
         url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/raw/it.zip
     files: 1
     sentences: 975
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-it:
     alignments: 959
-    download size: 93193
+    download size: 93549
     download url: https://object.pouta.csc.fi/OPUS-ELRC-845-Corpora_legal_text/v1/moses/en-it.txt.zip
     source language tokens: 22827
     target language tokens: 23445

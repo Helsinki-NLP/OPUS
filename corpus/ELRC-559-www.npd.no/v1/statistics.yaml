@@ -7,16 +7,16 @@ bitexts:
         size: 197266
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 617911
+        size: 618290
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/raw/en.zip
       target language:
-        size: 591101
+        size: 591481
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/raw/nb.zip
       tokenized source language:
-        size: 2125812
+        size: 2204727
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/xml/en.zip
       tokenized target language:
-        size: 1905034
+        size: 1983624
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/xml/nb.zip
     files: 1
     source language tokens: 354635
@@ -34,10 +34,10 @@ monolingual:
         size: 516267
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2125812
+        size: 2204727
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/xml/en.zip
       xml:
-        size: 617911
+        size: 618290
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/raw/en.zip
     files: 1
     sentences: 26454
@@ -54,10 +54,10 @@ monolingual:
         size: 491704
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 1905034
+        size: 1983624
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/xml/nb.zip
       xml:
-        size: 591101
+        size: 591481
         url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/raw/nb.zip
     files: 1
     sentences: 26324
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 26325
-    download size: 1136174
+    download size: 1136555
     download url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/moses/en-nb.txt.zip
     source language tokens: 294000
     target language tokens: 354001
 tmx:
   en-nb:
-    download size: 1117315
+    download size: 1117317
     download url: https://object.pouta.csc.fi/OPUS-ELRC-559-www.npd.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 262948
     target language tokens: 317560

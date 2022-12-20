@@ -7,16 +7,16 @@ bitexts:
         size: 3955
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el-en.xml.gz
       source language:
-        size: 13730
+        size: 14127
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/el.zip
       target language:
-        size: 10593
+        size: 10990
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/en.zip
       tokenized source language:
-        size: 30134
+        size: 32715
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el.zip
       tokenized target language:
-        size: 25541
+        size: 27927
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/en.zip
     files: 1
     source language tokens: 2005
@@ -28,16 +28,16 @@ bitexts:
         size: 5067
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el-fr.xml.gz
       source language:
-        size: 13730
+        size: 14127
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/el.zip
       target language:
-        size: 11815
+        size: 12212
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/fr.zip
       tokenized source language:
-        size: 30134
+        size: 32715
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el.zip
       tokenized target language:
-        size: 29659
+        size: 32238
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/fr.zip
     files: 1
     source language tokens: 2386
@@ -49,16 +49,16 @@ bitexts:
         size: 4002
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/en-fr.xml.gz
       source language:
-        size: 10593
+        size: 10990
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/en.zip
       target language:
-        size: 11815
+        size: 12212
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/fr.zip
       tokenized source language:
-        size: 25541
+        size: 27927
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/en.zip
       tokenized target language:
-        size: 29659
+        size: 32238
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/fr.zip
     files: 1
     source language tokens: 2110
@@ -76,10 +76,10 @@ monolingual:
         size: 4971
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/el.tok.gz
       tokenized xml:
-        size: 30134
+        size: 32715
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/el.zip
       xml:
-        size: 13730
+        size: 14127
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/el.zip
     files: 2
     sentences: 697
@@ -96,10 +96,10 @@ monolingual:
         size: 3383
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/en.tok.gz
       tokenized xml:
-        size: 25541
+        size: 27927
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/en.zip
       xml:
-        size: 10593
+        size: 10990
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/en.zip
     files: 2
     sentences: 615
@@ -116,10 +116,10 @@ monolingual:
         size: 3970
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 29659
+        size: 32238
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/xml/fr.zip
       xml:
-        size: 11815
+        size: 12212
         url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/raw/fr.zip
     files: 2
     sentences: 686
@@ -127,25 +127,25 @@ monolingual:
 moses:
   el-en:
     alignments: 289
-    download size: 10610
+    download size: 11003
     download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/moses/el-en.txt.zip
     source language tokens: 1487
     target language tokens: 1522
   el-fr:
     alignments: 359
-    download size: 11902
+    download size: 12295
     download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/moses/el-fr.txt.zip
     source language tokens: 1764
     target language tokens: 1890
   en-fr:
     alignments: 288
-    download size: 9630
+    download size: 10024
     download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/moses/en-fr.txt.zip
     source language tokens: 1518
     target language tokens: 1595
 tmx:
   el-en:
-    download size: 8488
+    download size: 8489
     download url: https://object.pouta.csc.fi/OPUS-ELRC-646-International_Judici/v1/tmx/el-en.tmx.gz
     source language tokens: 1290
     target language tokens: 1318

@@ -7,25 +7,25 @@ bitexts:
         size: 27645
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/xml/el-en.xml.gz
       smt phrase table:
-        size: 656373
+        size: 656617
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/smt/el-en.zip
       source language:
-        size: 112683
+        size: 113046
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/raw/el.zip
       target language:
-        size: 82511
+        size: 82874
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/raw/en.zip
       tokenized source language:
-        size: 270664
+        size: 278234
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/xml/el.zip
       tokenized target language:
-        size: 235548
+        size: 242992
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/xml/en.zip
       word alignment dictionary:
         size: 42762
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/dic/el-en.dic.gz
       word alignments:
-        size: 135304
+        size: 135548
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/smt/el-en.alg.zip
     files: 1
     source language tokens: 42947
@@ -43,10 +43,10 @@ monolingual:
         size: 102575
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/mono/el.tok.gz
       tokenized xml:
-        size: 270664
+        size: 278234
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/xml/el.zip
       xml:
-        size: 112683
+        size: 113046
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/raw/el.zip
     files: 1
     sentences: 2327
@@ -63,10 +63,10 @@ monolingual:
         size: 72357
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/mono/en.tok.gz
       tokenized xml:
-        size: 235548
+        size: 242992
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/xml/en.zip
       xml:
-        size: 82511
+        size: 82874
         url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/raw/en.zip
     files: 1
     sentences: 2305
@@ -74,13 +74,13 @@ monolingual:
 moses:
   el-en:
     alignments: 2100
-    download size: 187256
+    download size: 187621
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/moses/el-en.txt.zip
     source language tokens: 37534
     target language tokens: 37797
 tmx:
   el-en:
-    download size: 204786
+    download size: 204782
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1981-EQF_Referencing_Repo/v1/tmx/el-en.tmx.gz
     source language tokens: 37534
     target language tokens: 37797

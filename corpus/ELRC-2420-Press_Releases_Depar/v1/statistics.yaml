@@ -7,25 +7,25 @@ bitexts:
         size: 3311
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 112342
+        size: 112588
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/smt/en-ga.zip
       source language:
-        size: 20930
+        size: 21178
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/raw/en.zip
       target language:
-        size: 23683
+        size: 23930
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/raw/ga.zip
       tokenized source language:
-        size: 54826
+        size: 56562
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/xml/en.zip
       tokenized target language:
-        size: 65692
+        size: 67603
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/xml/ga.zip
       word alignment dictionary:
         size: 9007
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 40057
+        size: 40305
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 9558
@@ -43,10 +43,10 @@ monolingual:
         size: 17418
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/mono/en.tok.gz
       tokenized xml:
-        size: 54826
+        size: 56562
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/xml/en.zip
       xml:
-        size: 20930
+        size: 21178
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/raw/en.zip
     files: 1
     sentences: 428
@@ -63,10 +63,10 @@ monolingual:
         size: 19903
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 65692
+        size: 67603
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/xml/ga.zip
       xml:
-        size: 23683
+        size: 23930
         url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/raw/ga.zip
     files: 1
     sentences: 481
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 354
-    download size: 41094
+    download size: 41343
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/moses/en-ga.txt.zip
     source language tokens: 8646
     target language tokens: 10472
 tmx:
   en-ga:
-    download size: 42615
+    download size: 42613
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2420-Press_Releases_Depar/v1/tmx/en-ga.tmx.gz
     source language tokens: 8646
     target language tokens: 10472

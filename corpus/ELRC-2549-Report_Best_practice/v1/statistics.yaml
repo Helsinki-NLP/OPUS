@@ -7,25 +7,25 @@ bitexts:
         size: 3101
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/bg-en.xml.gz
       smt phrase table:
-        size: 48225
+        size: 48470
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/smt/bg-en.zip
       source language:
-        size: 11709
+        size: 12074
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/raw/bg.zip
       target language:
-        size: 8783
+        size: 9150
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/raw/en.zip
       tokenized source language:
-        size: 24500
+        size: 25719
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/bg.zip
       tokenized target language:
-        size: 19512
+        size: 20737
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/en.zip
       word alignment dictionary:
         size: 3306
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/dic/bg-en.dic.gz
       word alignments:
-        size: 14718
+        size: 14966
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/smt/bg-en.alg.zip
     files: 1
     source language tokens: 3113
@@ -43,10 +43,10 @@ monolingual:
         size: 9113
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 24500
+        size: 25719
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/bg.zip
       xml:
-        size: 11709
+        size: 12074
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/raw/bg.zip
     files: 1
     sentences: 216
@@ -63,10 +63,10 @@ monolingual:
         size: 6112
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/mono/en.tok.gz
       tokenized xml:
-        size: 19512
+        size: 20737
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/xml/en.zip
       xml:
-        size: 8783
+        size: 9150
         url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/raw/en.zip
     files: 1
     sentences: 221
@@ -74,7 +74,7 @@ monolingual:
 moses:
   bg-en:
     alignments: 215
-    download size: 17846
+    download size: 18214
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2549-Report_Best_practice/v1/moses/bg-en.txt.zip
     source language tokens: 2757
     target language tokens: 2894

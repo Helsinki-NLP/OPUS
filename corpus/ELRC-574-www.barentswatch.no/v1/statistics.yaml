@@ -7,16 +7,16 @@ bitexts:
         size: 26121
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 133641
+        size: 134009
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/raw/en.zip
       target language:
-        size: 129817
+        size: 130185
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/raw/nb.zip
       tokenized source language:
-        size: 351688
+        size: 362904
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/xml/en.zip
       tokenized target language:
-        size: 316923
+        size: 328045
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/xml/nb.zip
     files: 1
     source language tokens: 53756
@@ -34,10 +34,10 @@ monolingual:
         size: 119153
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 351688
+        size: 362904
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/xml/en.zip
       xml:
-        size: 133641
+        size: 134009
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/raw/en.zip
     files: 1
     sentences: 3476
@@ -54,10 +54,10 @@ monolingual:
         size: 115451
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 316923
+        size: 328045
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/xml/nb.zip
       xml:
-        size: 129817
+        size: 130185
         url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/raw/nb.zip
     files: 1
     sentences: 3473
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 3474
-    download size: 252676
+    download size: 253045
     download url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/moses/en-nb.txt.zip
     source language tokens: 47132
     target language tokens: 55581
 tmx:
   en-nb:
-    download size: 266779
+    download size: 266777
     download url: https://object.pouta.csc.fi/OPUS-ELRC-574-www.barentswatch.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 46917
     target language tokens: 55376

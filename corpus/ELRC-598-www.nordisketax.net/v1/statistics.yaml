@@ -7,16 +7,16 @@ bitexts:
         size: 7388
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/xml/en-nb.xml.gz
       source language:
-        size: 35585
+        size: 35955
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/raw/en.zip
       target language:
-        size: 33815
+        size: 34186
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/raw/nb.zip
       tokenized source language:
-        size: 112272
+        size: 115886
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/xml/en.zip
       tokenized target language:
-        size: 100516
+        size: 104078
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/xml/nb.zip
     files: 1
     source language tokens: 18684
@@ -34,10 +34,10 @@ monolingual:
         size: 30245
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/mono/en.tok.gz
       tokenized xml:
-        size: 112272
+        size: 115886
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/xml/en.zip
       xml:
-        size: 35585
+        size: 35955
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/raw/en.zip
     files: 1
     sentences: 1024
@@ -54,10 +54,10 @@ monolingual:
         size: 28540
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 100516
+        size: 104078
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/xml/nb.zip
       xml:
-        size: 33815
+        size: 34186
         url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/raw/nb.zip
     files: 1
     sentences: 1024
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-nb:
     alignments: 1017
-    download size: 65115
+    download size: 65486
     download url: https://object.pouta.csc.fi/OPUS-ELRC-598-www.nordisketax.net/v1/moses/en-nb.txt.zip
     source language tokens: 16641
     target language tokens: 19768

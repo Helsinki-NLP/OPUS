@@ -7,16 +7,16 @@ bitexts:
         size: 51874
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/en-sv.xml.gz
       source language:
-        size: 189580
+        size: 189953
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/raw/en.zip
       target language:
-        size: 187561
+        size: 187935
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/raw/sv.zip
       tokenized source language:
-        size: 530236
+        size: 551571
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/en.zip
       tokenized target language:
-        size: 469252
+        size: 490015
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/sv.zip
     files: 1
     source language tokens: 79067
@@ -34,10 +34,10 @@ monolingual:
         size: 161671
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 530236
+        size: 551571
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/en.zip
       xml:
-        size: 189580
+        size: 189953
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/raw/en.zip
     files: 1
     sentences: 6880
@@ -54,10 +54,10 @@ monolingual:
         size: 160473
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 469252
+        size: 490015
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/xml/sv.zip
       xml:
-        size: 187561
+        size: 187935
         url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/raw/sv.zip
     files: 1
     sentences: 6831
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-sv:
     alignments: 6819
-    download size: 358078
+    download size: 358452
     download url: https://object.pouta.csc.fi/OPUS-ELRC-744-Finnish_Information_/v1/moses/en-sv.txt.zip
     source language tokens: 70038
     target language tokens: 85783

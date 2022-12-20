@@ -7,16 +7,16 @@ bitexts:
         size: 43509
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 108309
+        size: 108696
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/raw/en.zip
       target language:
-        size: 104210
+        size: 104597
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/raw/nb.zip
       tokenized source language:
-        size: 296726
+        size: 313724
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/xml/en.zip
       tokenized target language:
-        size: 262819
+        size: 279664
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/xml/nb.zip
     files: 1
     source language tokens: 43017
@@ -34,10 +34,10 @@ monolingual:
         size: 82713
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 296726
+        size: 313724
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/xml/en.zip
       xml:
-        size: 108309
+        size: 108696
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/raw/en.zip
     files: 1
     sentences: 5818
@@ -54,10 +54,10 @@ monolingual:
         size: 79190
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 262819
+        size: 279664
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/xml/nb.zip
       xml:
-        size: 104210
+        size: 104597
         url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/raw/nb.zip
     files: 1
     sentences: 5809
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 5810
-    download size: 192977
+    download size: 193364
     download url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/moses/en-nb.txt.zip
     source language tokens: 37423
     target language tokens: 46097
 tmx:
   en-nb:
-    download size: 171147
+    download size: 171149
     download url: https://object.pouta.csc.fi/OPUS-ELRC-564-www.aibn.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 31671
     target language tokens: 39068

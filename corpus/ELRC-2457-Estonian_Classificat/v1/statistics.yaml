@@ -7,25 +7,25 @@ bitexts:
         size: 47924
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/xml/en-et.xml.gz
       smt phrase table:
-        size: 966463
+        size: 966718
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/smt/en-et.zip
       source language:
-        size: 154188
+        size: 154567
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/raw/en.zip
       target language:
-        size: 154963
+        size: 155341
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/raw/et.zip
       tokenized source language:
-        size: 404148
+        size: 423820
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/xml/en.zip
       tokenized target language:
-        size: 346080
+        size: 365272
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/xml/et.zip
       word alignment dictionary:
         size: 80397
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/dic/en-et.dic.gz
       word alignments:
-        size: 184228
+        size: 184484
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/smt/en-et.alg.zip
     files: 1
     source language tokens: 51989
@@ -43,10 +43,10 @@ monolingual:
         size: 129176
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/mono/en.tok.gz
       tokenized xml:
-        size: 404148
+        size: 423820
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/xml/en.zip
       xml:
-        size: 154188
+        size: 154567
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/raw/en.zip
     files: 1
     sentences: 6437
@@ -63,10 +63,10 @@ monolingual:
         size: 131145
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/mono/et.tok.gz
       tokenized xml:
-        size: 346080
+        size: 365272
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/xml/et.zip
       xml:
-        size: 154963
+        size: 155341
         url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/raw/et.zip
     files: 1
     sentences: 6437
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-et:
     alignments: 6438
-    download size: 293902
+    download size: 294281
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/moses/en-et.txt.zip
     source language tokens: 43239
     target language tokens: 62728
 tmx:
   en-et:
-    download size: 309072
+    download size: 309067
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2457-Estonian_Classificat/v1/tmx/en-et.tmx.gz
     source language tokens: 43239
     target language tokens: 62728

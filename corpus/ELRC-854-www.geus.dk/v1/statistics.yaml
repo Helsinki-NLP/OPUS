@@ -7,16 +7,16 @@ bitexts:
         size: 12777
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/xml/da-en.xml.gz
       source language:
-        size: 73665
+        size: 74058
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/raw/da.zip
       target language:
-        size: 74275
+        size: 74668
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/raw/en.zip
       tokenized source language:
-        size: 182755
+        size: 188395
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/xml/da.zip
       tokenized target language:
-        size: 194566
+        size: 200255
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/xml/en.zip
     files: 1
     source language tokens: 31137
@@ -34,10 +34,10 @@ monolingual:
         size: 65929
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/mono/da.tok.gz
       tokenized xml:
-        size: 182755
+        size: 188395
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/xml/da.zip
       xml:
-        size: 73665
+        size: 74058
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/raw/da.zip
     files: 1
     sentences: 1670
@@ -54,10 +54,10 @@ monolingual:
         size: 66453
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/mono/en.tok.gz
       tokenized xml:
-        size: 194566
+        size: 200255
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/xml/en.zip
       xml:
-        size: 74275
+        size: 74668
         url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/raw/en.zip
     files: 1
     sentences: 1676
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 1655
-    download size: 141504
+    download size: 141899
     download url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/moses/da-en.txt.zip
     source language tokens: 26934
     target language tokens: 31115
 tmx:
   da-en:
-    download size: 146013
+    download size: 146016
     download url: https://object.pouta.csc.fi/OPUS-ELRC-854-www.geus.dk/v1/tmx/da-en.tmx.gz
     source language tokens: 26934
     target language tokens: 31115

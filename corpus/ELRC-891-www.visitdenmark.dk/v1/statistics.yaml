@@ -7,16 +7,16 @@ bitexts:
         size: 12253
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/da-en.xml.gz
       source language:
-        size: 62589
+        size: 62977
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/raw/da.zip
       target language:
-        size: 61875
+        size: 62263
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/raw/en.zip
       tokenized source language:
-        size: 149231
+        size: 154552
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/da.zip
       tokenized target language:
-        size: 155237
+        size: 160625
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/en.zip
     files: 1
     source language tokens: 24602
@@ -34,10 +34,10 @@ monolingual:
         size: 54744
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/mono/da.tok.gz
       tokenized xml:
-        size: 149231
+        size: 154552
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/da.zip
       xml:
-        size: 62589
+        size: 62977
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/raw/da.zip
     files: 1
     sentences: 1605
@@ -54,10 +54,10 @@ monolingual:
         size: 54113
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/mono/en.tok.gz
       tokenized xml:
-        size: 155237
+        size: 160625
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/xml/en.zip
       xml:
-        size: 61875
+        size: 62263
         url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/raw/en.zip
     files: 1
     sentences: 1615
@@ -65,7 +65,7 @@ monolingual:
 moses:
   da-en:
     alignments: 1603
-    download size: 117713
+    download size: 118100
     download url: https://object.pouta.csc.fi/OPUS-ELRC-891-www.visitdenmark.dk/v1/moses/da-en.txt.zip
     source language tokens: 21271
     target language tokens: 23590

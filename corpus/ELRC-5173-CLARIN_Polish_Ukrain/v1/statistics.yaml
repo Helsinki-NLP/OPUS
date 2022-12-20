@@ -7,16 +7,16 @@ bitexts:
         size: 660574
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/xml/pl-uk.xml.gz
       source language:
-        size: 1577529
+        size: 1577889
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/raw/pl.zip
       target language:
-        size: 1876950
+        size: 1877309
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/raw/uk.zip
       tokenized source language:
-        size: 3771482
+        size: 4013374
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/xml/pl.zip
       tokenized target language:
-        size: 4304226
+        size: 4555999
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/xml/uk.zip
     files: 1
     source language tokens: 606383
@@ -34,10 +34,10 @@ monolingual:
         size: 1241372
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 3771482
+        size: 4013374
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/xml/pl.zip
       xml:
-        size: 1577529
+        size: 1577889
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/raw/pl.zip
     files: 1
     sentences: 86803
@@ -54,10 +54,10 @@ monolingual:
         size: 1544858
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/mono/uk.tok.gz
       tokenized xml:
-        size: 4304226
+        size: 4555999
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/xml/uk.zip
       xml:
-        size: 1876950
+        size: 1877309
         url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/raw/uk.zip
     files: 1
     sentences: 88459
@@ -65,13 +65,13 @@ monolingual:
 moses:
   pl-uk:
     alignments: 81777
-    download size: 3224009
+    download size: 3224368
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/moses/pl-uk.txt.zip
     source language tokens: 475708
     target language tokens: 519487
 tmx:
   pl-uk:
-    download size: 3560072
+    download size: 3560074
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5173-CLARIN_Polish_Ukrain/v1/tmx/pl-uk.tmx.gz
     source language tokens: 475572
     target language tokens: 519348

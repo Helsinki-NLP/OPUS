@@ -7,16 +7,16 @@ bitexts:
         size: 51149
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/xml/en-hu.xml.gz
       source language:
-        size: 330928
+        size: 331283
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/raw/en.zip
       target language:
-        size: 394168
+        size: 394523
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/raw/hu.zip
       tokenized source language:
-        size: 939931
+        size: 961532
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/xml/en.zip
       tokenized target language:
-        size: 1000121
+        size: 1021690
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/xml/hu.zip
     files: 1
     source language tokens: 158127
@@ -34,10 +34,10 @@ monolingual:
         size: 304745
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 939931
+        size: 961532
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/xml/en.zip
       xml:
-        size: 330928
+        size: 331283
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/raw/en.zip
     files: 1
     sentences: 6634
@@ -54,10 +54,10 @@ monolingual:
         size: 368148
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/mono/hu.tok.gz
       tokenized xml:
-        size: 1000121
+        size: 1021690
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/xml/hu.zip
       xml:
-        size: 394168
+        size: 394523
         url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/raw/hu.zip
     files: 1
     sentences: 6664
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-hu:
     alignments: 6599
-    download size: 702889
+    download size: 703245
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/moses/en-hu.txt.zip
     source language tokens: 139284
     target language tokens: 152005
 tmx:
   en-hu:
-    download size: 778010
+    download size: 778007
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3607-presscorner_covid/v1/tmx/en-hu.tmx.gz
     source language tokens: 139284
     target language tokens: 152005

@@ -7,25 +7,25 @@ bitexts:
         size: 21180
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/xml/en-pl.xml.gz
       smt phrase table:
-        size: 679696
+        size: 679934
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/smt/en-pl.zip
       source language:
-        size: 99290
+        size: 99649
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/raw/en.zip
       target language:
-        size: 112881
+        size: 113240
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/raw/pl.zip
       tokenized source language:
-        size: 286457
+        size: 295621
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/xml/en.zip
       tokenized target language:
-        size: 287717
+        size: 296710
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/xml/pl.zip
       word alignment dictionary:
         size: 55953
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/dic/en-pl.dic.gz
       word alignments:
-        size: 161286
+        size: 161524
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/smt/en-pl.alg.zip
     files: 1
     source language tokens: 47167
@@ -43,10 +43,10 @@ monolingual:
         size: 87064
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/mono/en.tok.gz
       tokenized xml:
-        size: 286457
+        size: 295621
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/xml/en.zip
       xml:
-        size: 99290
+        size: 99649
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/raw/en.zip
     files: 1
     sentences: 2810
@@ -63,10 +63,10 @@ monolingual:
         size: 100513
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 287717
+        size: 296710
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/xml/pl.zip
       xml:
-        size: 112881
+        size: 113240
         url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/raw/pl.zip
     files: 1
     sentences: 2764
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 2599
-    download size: 202425
+    download size: 202783
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/moses/en-pl.txt.zip
     source language tokens: 41009
     target language tokens: 46379
 tmx:
   en-pl:
-    download size: 217430
+    download size: 217426
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2610-Polish_Energy_Conser/v1/tmx/en-pl.tmx.gz
     source language tokens: 40809
     target language tokens: 46154

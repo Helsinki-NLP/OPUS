@@ -7,16 +7,16 @@ bitexts:
         size: 132448
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/en-fr.xml.gz
       source language:
-        size: 2680477
+        size: 2680853
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/en.zip
       target language:
-        size: 1098339
+        size: 1098717
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/fr.zip
       tokenized source language:
-        size: 9772063
+        size: 9943671
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/en.zip
       tokenized target language:
-        size: 4127042
+        size: 4188028
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/fr.zip
     files: 1
     source language tokens: 682430
@@ -28,16 +28,16 @@ bitexts:
         size: 445424
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/en-hr.xml.gz
       source language:
-        size: 2680477
+        size: 2680853
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/en.zip
       target language:
-        size: 2841698
+        size: 2842075
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/hr.zip
       tokenized source language:
-        size: 9772063
+        size: 9943671
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/en.zip
       tokenized target language:
-        size: 9322899
+        size: 9550893
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/hr.zip
     files: 4
     source language tokens: 1701825
@@ -49,16 +49,16 @@ bitexts:
         size: 159046
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/fr-hr.xml.gz
       source language:
-        size: 1098339
+        size: 1098717
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/fr.zip
       target language:
-        size: 2841698
+        size: 2842075
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/hr.zip
       tokenized source language:
-        size: 4127042
+        size: 4188028
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/fr.zip
       tokenized target language:
-        size: 9322899
+        size: 9550893
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/hr.zip
     files: 1
     source language tokens: 631622
@@ -76,10 +76,10 @@ monolingual:
         size: 2480930
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/mono/en.tok.gz
       tokenized xml:
-        size: 9772063
+        size: 9943671
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/en.zip
       xml:
-        size: 2680477
+        size: 2680853
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/en.zip
     files: 4
     sentences: 51510
@@ -96,10 +96,10 @@ monolingual:
         size: 1027612
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 4127042
+        size: 4188028
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/fr.zip
       xml:
-        size: 1098339
+        size: 1098717
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/fr.zip
     files: 1
     sentences: 17969
@@ -116,10 +116,10 @@ monolingual:
         size: 2547349
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 9322899
+        size: 9550893
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/xml/hr.zip
       xml:
-        size: 2841698
+        size: 2842075
         url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/raw/hr.zip
     files: 4
     sentences: 70397
@@ -127,37 +127,37 @@ monolingual:
 moses:
   en-fr:
     alignments: 13611
-    download size: 2028073
+    download size: 2028452
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/moses/en-fr.txt.zip
     source language tokens: 587314
     target language tokens: 611822
   en-hr:
     alignments: 44460
-    download size: 5308535
+    download size: 5308913
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/moses/en-hr.txt.zip
     source language tokens: 1381023
     target language tokens: 1638059
   fr-hr:
     alignments: 13611
-    download size: 2086403
+    download size: 2086781
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/moses/fr-hr.txt.zip
     source language tokens: 506177
     target language tokens: 611822
 tmx:
   en-fr:
-    download size: 2107983
+    download size: 2107988
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/tmx/en-fr.tmx.gz
     source language tokens: 574741
     target language tokens: 598788
     translation units: 11558
   en-hr:
-    download size: 5383189
+    download size: 5383190
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/tmx/en-hr.tmx.gz
     source language tokens: 1299754
     target language tokens: 1542902
     translation units: 40156
   fr-hr:
-    download size: 2187806
+    download size: 2187804
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4329-PRINCIPLE_MVEP_legal/v1/tmx/fr-hr.tmx.gz
     source language tokens: 497163
     target language tokens: 600329

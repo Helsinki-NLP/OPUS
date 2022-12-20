@@ -7,16 +7,16 @@ bitexts:
         size: 14559
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 85045
+        size: 85424
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/raw/en.zip
       target language:
-        size: 80739
+        size: 81117
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/raw/nb.zip
       tokenized source language:
-        size: 217763
+        size: 224152
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/xml/en.zip
       tokenized target language:
-        size: 195929
+        size: 202195
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/xml/nb.zip
     files: 1
     source language tokens: 33170
@@ -34,10 +34,10 @@ monolingual:
         size: 76200
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 217763
+        size: 224152
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/xml/en.zip
       xml:
-        size: 85045
+        size: 85424
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/raw/en.zip
     files: 1
     sentences: 1919
@@ -54,10 +54,10 @@ monolingual:
         size: 72122
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 195929
+        size: 202195
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/xml/nb.zip
       xml:
-        size: 80739
+        size: 81117
         url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/raw/nb.zip
     files: 1
     sentences: 1907
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 1908
-    download size: 158685
+    download size: 159066
     download url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/moses/en-nb.txt.zip
     source language tokens: 28664
     target language tokens: 33375
 tmx:
   en-nb:
-    download size: 164353
+    download size: 164358
     download url: https://object.pouta.csc.fi/OPUS-ELRC-538-www.ngu.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 28558
     target language tokens: 33277

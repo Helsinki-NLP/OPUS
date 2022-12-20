@@ -7,16 +7,16 @@ bitexts:
         size: 25027
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/xml/el-en.xml.gz
       source language:
-        size: 114117
+        size: 114491
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/raw/el.zip
       target language:
-        size: 85121
+        size: 85495
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/raw/en.zip
       tokenized source language:
-        size: 278044
+        size: 284778
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/xml/el.zip
       tokenized target language:
-        size: 253375
+        size: 260191
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/xml/en.zip
     files: 1
     source language tokens: 44890
@@ -34,10 +34,10 @@ monolingual:
         size: 105449
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/mono/el.tok.gz
       tokenized xml:
-        size: 278044
+        size: 284778
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/xml/el.zip
       xml:
-        size: 114117
+        size: 114491
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/raw/el.zip
     files: 1
     sentences: 2020
@@ -54,10 +54,10 @@ monolingual:
         size: 76610
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/mono/en.tok.gz
       tokenized xml:
-        size: 253375
+        size: 260191
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/xml/en.zip
       xml:
-        size: 85121
+        size: 85495
         url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/raw/en.zip
     files: 1
     sentences: 2027
@@ -65,13 +65,13 @@ monolingual:
 moses:
   el-en:
     alignments: 1980
-    download size: 193026
+    download size: 193402
     download url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/moses/el-en.txt.zip
     source language tokens: 39948
     target language tokens: 42250
 tmx:
   el-en:
-    download size: 212146
+    download size: 212142
     download url: https://object.pouta.csc.fi/OPUS-ELRC-652-Greek_law/v1/tmx/el-en.tmx.gz
     source language tokens: 39948
     target language tokens: 42250

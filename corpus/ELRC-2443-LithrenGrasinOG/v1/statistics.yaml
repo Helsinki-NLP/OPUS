@@ -7,25 +7,25 @@ bitexts:
         size: 28096
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 666996
+        size: 667227
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/smt/en-ga.zip
       source language:
-        size: 101458
+        size: 101688
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/raw/en.zip
       target language:
-        size: 111998
+        size: 112226
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/raw/ga.zip
       tokenized source language:
-        size: 262865
+        size: 274210
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/xml/en.zip
       tokenized target language:
-        size: 305333
+        size: 316894
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/xml/ga.zip
       word alignment dictionary:
         size: 46666
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 149049
+        size: 149278
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 44880
@@ -43,10 +43,10 @@ monolingual:
         size: 85820
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/mono/en.tok.gz
       tokenized xml:
-        size: 262865
+        size: 274210
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/xml/en.zip
       xml:
-        size: 101458
+        size: 101688
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/raw/en.zip
     files: 1
     sentences: 3735
@@ -63,10 +63,10 @@ monolingual:
         size: 96550
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 305333
+        size: 316894
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/xml/ga.zip
       xml:
-        size: 111998
+        size: 112226
         url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/raw/ga.zip
     files: 1
     sentences: 3757
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 3710
-    download size: 200798
+    download size: 201029
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/moses/en-ga.txt.zip
     source language tokens: 39431
     target language tokens: 46494
 tmx:
   en-ga:
-    download size: 211588
+    download size: 211584
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2443-LithrenGrasinOG/v1/tmx/en-ga.tmx.gz
     source language tokens: 39178
     target language tokens: 46185

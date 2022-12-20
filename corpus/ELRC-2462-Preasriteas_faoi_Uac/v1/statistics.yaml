@@ -7,25 +7,25 @@ bitexts:
         size: 272
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 3307
+        size: 3539
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/smt/en-ga.zip
       source language:
-        size: 3212
+        size: 3442
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/raw/en.zip
       target language:
-        size: 3403
+        size: 3633
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/raw/ga.zip
       tokenized source language:
-        size: 4874
+        size: 5409
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/xml/en.zip
       tokenized target language:
-        size: 5226
+        size: 5769
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/xml/ga.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 2856
+        size: 3088
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 511
@@ -43,10 +43,10 @@ monolingual:
         size: 1283
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/mono/en.tok.gz
       tokenized xml:
-        size: 4874
+        size: 5409
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/xml/en.zip
       xml:
-        size: 3212
+        size: 3442
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/raw/en.zip
     files: 1
     sentences: 17
@@ -63,10 +63,10 @@ monolingual:
         size: 1468
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 5226
+        size: 5769
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/xml/ga.zip
       xml:
-        size: 3403
+        size: 3633
         url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/raw/ga.zip
     files: 1
     sentences: 20
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 6
-    download size: 4414
+    download size: 4647
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2462-Preasriteas_faoi_Uac/v1/moses/en-ga.txt.zip
     source language tokens: 448
     target language tokens: 500

@@ -34,6 +34,7 @@
 | [IITB](http://opus.nlpl.eu/IITB.php) | [v2.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/IITB/v2.0)  |
 | [infopankki](http://opus.nlpl.eu/infopankki.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/infopankki/v1)  |
 | [Joshua-IPC](http://opus.nlpl.eu/Joshua.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Joshua-IPC/v1)  |
+| [JParaCrawl](http://opus.nlpl.eu/JParaCrawl.php) | [v3.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/JParaCrawl/v3.0)  |
 | [JRC-Acquis](http://opus.nlpl.eu/JRC.php) | [v3.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/JRC-Acquis/v3.0)  |
 | [KDE4](http://opus.nlpl.eu/KDE4.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KDE4/v2)  |
 | [KDEdoc](http://opus.nlpl.eu/KDEdoc.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KDEdoc/v1)  |
@@ -52,7 +53,6 @@
 | [OfisPublik](http://opus.nlpl.eu/OfisPublik.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OfisPublik/v1)  |
 | [OpenOffice](http://opus.nlpl.eu/OpenOffice.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenOffice/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenOffice/v3)  |
 | [OpenSubtitles](http://opus.nlpl.eu/OpenSubtitles.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v1) [v2011](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2011) [v2012](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2012) [v2013](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2013) [v2016](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2016) [v2018](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2018)  |
-| opus-100 | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/opus-100/v1.0)  |
 | [ParaCrawl](http://opus.nlpl.eu/ParaCrawl.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v1) [v4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v4) [v5](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v5) [v7.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v7.1) [v8](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v8) [v9](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ParaCrawl/v9)  |
 | [PHP](http://opus.nlpl.eu/PHP.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/PHP/v1)  |
 | [pmindia](http://opus.nlpl.eu/pmindia.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/pmindia/v1)  |
@@ -82,4 +82,4 @@
 | [WikiTitles](http://opus.nlpl.eu/WikiTitles.php) | [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WikiTitles/v3)  |
 | [WMT-News](http://opus.nlpl.eu/WMT.php) | [v2014](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WMT-News/v2014) [v2019](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WMT-News/v2019)  |
 | [XhosaNavy](http://opus.nlpl.eu/XhosaNavy.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XhosaNavy/v1)  |
-| [XLEnt](http://opus.nlpl.eu/XLEnt.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XLEnt/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XLEnt/v1.1)  |
+| [XLEnt](http://opus.nlpl.eu/XLEnt.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XLEnt/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XLEnt/v1.1) [v1.2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/XLEnt/v1.2)  |

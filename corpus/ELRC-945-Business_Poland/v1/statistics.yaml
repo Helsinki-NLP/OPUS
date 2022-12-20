@@ -7,16 +7,16 @@ bitexts:
         size: 72960
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/xml/en-pl.xml.gz
       source language:
-        size: 211728
+        size: 212117
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/raw/en.zip
       target language:
-        size: 235128
+        size: 235518
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/raw/pl.zip
       tokenized source language:
-        size: 619870
+        size: 637811
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/xml/en.zip
       tokenized target language:
-        size: 589639
+        size: 607369
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/xml/pl.zip
     files: 1
     source language tokens: 96982
@@ -34,10 +34,10 @@ monolingual:
         size: 190288
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/mono/en.tok.gz
       tokenized xml:
-        size: 619870
+        size: 637811
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/xml/en.zip
       xml:
-        size: 211728
+        size: 212117
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/raw/en.zip
     files: 1
     sentences: 5512
@@ -54,10 +54,10 @@ monolingual:
         size: 213314
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 589639
+        size: 607369
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/xml/pl.zip
       xml:
-        size: 235128
+        size: 235518
         url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/raw/pl.zip
     files: 1
     sentences: 5505
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 5491
-    download size: 430188
+    download size: 430580
     download url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/moses/en-pl.txt.zip
     source language tokens: 85378
     target language tokens: 104935
 tmx:
   en-pl:
-    download size: 474213
+    download size: 474214
     download url: https://object.pouta.csc.fi/OPUS-ELRC-945-Business_Poland/v1/tmx/en-pl.tmx.gz
     source language tokens: 85378
     target language tokens: 104935

@@ -7,25 +7,25 @@ bitexts:
         size: 589780
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/xml/en-hr.xml.gz
       smt phrase table:
-        size: 23289886
+        size: 23290133
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/smt/en-hr.zip
       source language:
-        size: 2641524
+        size: 2641894
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/raw/en.zip
       target language:
-        size: 2793196
+        size: 2793565
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/raw/hr.zip
       tokenized source language:
-        size: 8680583
+        size: 8905742
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/xml/en.zip
       tokenized target language:
-        size: 8370089
+        size: 8602685
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/xml/hr.zip
       word alignment dictionary:
         size: 957327
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/dic/en-hr.dic.gz
       word alignments:
-        size: 3978380
+        size: 3978627
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/smt/en-hr.alg.zip
     files: 1
     source language tokens: 1481678
@@ -43,10 +43,10 @@ monolingual:
         size: 2386921
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/mono/en.tok.gz
       tokenized xml:
-        size: 8680583
+        size: 8905742
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/xml/en.zip
       xml:
-        size: 2641524
+        size: 2641894
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/raw/en.zip
     files: 1
     sentences: 70190
@@ -63,10 +63,10 @@ monolingual:
         size: 2515915
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 8370089
+        size: 8602685
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/xml/hr.zip
       xml:
-        size: 2793196
+        size: 2793565
         url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/raw/hr.zip
     files: 1
     sentences: 73214
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 68376
-    download size: 5226841
+    download size: 5227211
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/moses/en-hr.txt.zip
     source language tokens: 1186887
     target language tokens: 1382840
 tmx:
   en-hr:
-    download size: 5633583
+    download size: 5633582
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2542-Agriculture/v1/tmx/en-hr.tmx.gz
     source language tokens: 1186887
     target language tokens: 1382840

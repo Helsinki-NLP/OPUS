@@ -7,16 +7,16 @@ bitexts:
         size: 35502
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 185344
+        size: 185740
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/raw/en.zip
       target language:
-        size: 190533
+        size: 190929
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/raw/nb.zip
       tokenized source language:
-        size: 489347
+        size: 504631
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/xml/en.zip
       tokenized target language:
-        size: 470965
+        size: 486245
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/xml/nb.zip
     files: 1
     source language tokens: 80315
@@ -34,10 +34,10 @@ monolingual:
         size: 166540
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 489347
+        size: 504631
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/xml/en.zip
       xml:
-        size: 185344
+        size: 185740
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/raw/en.zip
     files: 1
     sentences: 4746
@@ -54,10 +54,10 @@ monolingual:
         size: 171521
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 470965
+        size: 486245
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/xml/nb.zip
       xml:
-        size: 190533
+        size: 190929
         url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/raw/nb.zip
     files: 1
     sentences: 4748
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-nb:
     alignments: 4747
-    download size: 360841
+    download size: 361237
     download url: https://object.pouta.csc.fi/OPUS-ELRC-520-www.hioa.no/v1/moses/en-nb.txt.zip
     source language tokens: 69189
     target language tokens: 74412

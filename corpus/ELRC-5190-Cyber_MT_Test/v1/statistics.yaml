@@ -7,16 +7,16 @@ bitexts:
         size: 8138
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/ca-en.xml.gz
       source language:
-        size: 78370
+        size: 78500
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/ca.zip
       target language:
-        size: 68267
+        size: 68397
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/en.zip
       tokenized source language:
-        size: 239207
+        size: 243088
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/ca.zip
       tokenized target language:
-        size: 203010
+        size: 206750
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/en.zip
     files: 1
     source language tokens: 35310
@@ -28,16 +28,16 @@ bitexts:
         size: 8174
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/ca-es.xml.gz
       source language:
-        size: 78370
+        size: 78500
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/ca.zip
       target language:
-        size: 78277
+        size: 78407
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/es.zip
       tokenized source language:
-        size: 239207
+        size: 243088
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/ca.zip
       tokenized target language:
-        size: 235256
+        size: 239165
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/es.zip
     files: 1
     source language tokens: 41234
@@ -49,16 +49,16 @@ bitexts:
         size: 8154
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/en-es.xml.gz
       source language:
-        size: 68267
+        size: 68397
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/en.zip
       target language:
-        size: 78277
+        size: 78407
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/es.zip
       tokenized source language:
-        size: 203010
+        size: 206750
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/en.zip
       tokenized target language:
-        size: 235256
+        size: 239165
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/es.zip
     files: 1
     source language tokens: 35310
@@ -76,10 +76,10 @@ monolingual:
         size: 72176
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/mono/ca.tok.gz
       tokenized xml:
-        size: 239207
+        size: 243088
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/ca.zip
       xml:
-        size: 78370
+        size: 78500
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/ca.zip
     files: 1
     sentences: 1100
@@ -96,10 +96,10 @@ monolingual:
         size: 62169
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/mono/en.tok.gz
       tokenized xml:
-        size: 203010
+        size: 206750
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/en.zip
       xml:
-        size: 68267
+        size: 68397
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/en.zip
     files: 1
     sentences: 1076
@@ -116,10 +116,10 @@ monolingual:
         size: 71853
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/mono/es.tok.gz
       tokenized xml:
-        size: 235256
+        size: 239165
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/xml/es.zip
       xml:
-        size: 78277
+        size: 78407
         url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/raw/es.zip
     files: 1
     sentences: 1110
@@ -127,19 +127,19 @@ monolingual:
 moses:
   ca-en:
     alignments: 1019
-    download size: 139832
+    download size: 139962
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/moses/ca-en.txt.zip
     source language tokens: 28646
     target language tokens: 33141
   ca-es:
     alignments: 1019
-    download size: 149700
+    download size: 149830
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/moses/ca-es.txt.zip
     source language tokens: 33141
     target language tokens: 34348
   en-es:
     alignments: 1019
-    download size: 139678
+    download size: 139808
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/moses/en-es.txt.zip
     source language tokens: 28646
     target language tokens: 34348
@@ -151,7 +151,7 @@ tmx:
     target language tokens: 33002
     translation units: 1008
   ca-es:
-    download size: 129591
+    download size: 129587
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5190-Cyber_MT_Test/v1/tmx/ca-es.tmx.gz
     source language tokens: 33099
     target language tokens: 34304

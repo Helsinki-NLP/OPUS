@@ -7,25 +7,25 @@ bitexts:
         size: 283
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 6248
+        size: 6483
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/smt/en-ga.zip
       source language:
-        size: 2536
+        size: 2772
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/raw/en.zip
       target language:
-        size: 2647
+        size: 2883
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/raw/ga.zip
       tokenized source language:
-        size: 3249
+        size: 3772
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/en.zip
       tokenized target language:
-        size: 3476
+        size: 3998
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/ga.zip
       word alignment dictionary:
         size: 243
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 4044
+        size: 4281
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 210
@@ -43,10 +43,10 @@ monolingual:
         size: 625
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/mono/en.tok.gz
       tokenized xml:
-        size: 3249
+        size: 3772
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/en.zip
       xml:
-        size: 2536
+        size: 2772
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/raw/en.zip
     files: 1
     sentences: 12
@@ -63,10 +63,10 @@ monolingual:
         size: 727
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 3476
+        size: 3998
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/xml/ga.zip
       xml:
-        size: 2647
+        size: 2883
         url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/raw/ga.zip
     files: 1
     sentences: 12
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 11
-    download size: 3017
+    download size: 3253
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2464-Foirm_FSS_Iarratais/v1/moses/en-ga.txt.zip
     source language tokens: 182
     target language tokens: 209

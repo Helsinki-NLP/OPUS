@@ -7,16 +7,16 @@ bitexts:
         size: 1681
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/xml/el-en.xml.gz
       source language:
-        size: 8663
+        size: 9044
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/raw/el.zip
       target language:
-        size: 7040
+        size: 7421
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/raw/en.zip
       tokenized source language:
-        size: 17488
+        size: 18497
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/xml/el.zip
       tokenized target language:
-        size: 15825
+        size: 16834
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/xml/en.zip
     files: 1
     source language tokens: 2497
@@ -34,10 +34,10 @@ monolingual:
         size: 6196
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/mono/el.tok.gz
       tokenized xml:
-        size: 17488
+        size: 18497
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/xml/el.zip
       xml:
-        size: 8663
+        size: 9044
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/raw/el.zip
     files: 1
     sentences: 143
@@ -54,10 +54,10 @@ monolingual:
         size: 4592
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 15825
+        size: 16834
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/xml/en.zip
       xml:
-        size: 7040
+        size: 7421
         url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/raw/en.zip
     files: 1
     sentences: 143
@@ -65,7 +65,7 @@ monolingual:
 moses:
   el-en:
     alignments: 121
-    download size: 13066
+    download size: 13446
     download url: https://object.pouta.csc.fi/OPUS-ELRC-496-Convention_transfer_/v1/moses/el-en.txt.zip
     source language tokens: 2179
     target language tokens: 2298

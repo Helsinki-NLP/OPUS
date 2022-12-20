@@ -7,25 +7,25 @@ bitexts:
         size: 730
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 34298
+        size: 34536
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/smt/en-ga.zip
       source language:
-        size: 7859
+        size: 8098
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/raw/en.zip
       target language:
-        size: 8451
+        size: 8690
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/raw/ga.zip
       tokenized source language:
-        size: 16573
+        size: 17299
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/en.zip
       tokenized target language:
-        size: 18255
+        size: 18978
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/ga.zip
       word alignment dictionary:
         size: 2187
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 14468
+        size: 14706
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 2558
@@ -43,10 +43,10 @@ monolingual:
         size: 5655
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 16573
+        size: 17299
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/en.zip
       xml:
-        size: 7859
+        size: 8098
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/raw/en.zip
     files: 1
     sentences: 87
@@ -63,10 +63,10 @@ monolingual:
         size: 6245
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 18255
+        size: 18978
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/xml/ga.zip
       xml:
-        size: 8451
+        size: 8690
         url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/raw/ga.zip
     files: 1
     sentences: 84
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 72
-    download size: 13881
+    download size: 14121
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/moses/en-ga.txt.zip
     source language tokens: 2288
     target language tokens: 2578
 tmx:
   en-ga:
-    download size: 12451
+    download size: 12452
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2423-Preasritis_Ollscoil_/v1/tmx/en-ga.tmx.gz
     source language tokens: 2288
     target language tokens: 2578

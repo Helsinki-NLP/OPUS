@@ -7,16 +7,16 @@ bitexts:
         size: 23860
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/xml/fr-nl.xml.gz
       source language:
-        size: 108906
+        size: 109276
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/raw/fr.zip
       target language:
-        size: 103622
+        size: 103992
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/raw/nl.zip
       tokenized source language:
-        size: 287373
+        size: 297225
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/xml/fr.zip
       tokenized target language:
-        size: 255330
+        size: 265034
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/xml/nl.zip
     files: 1
     source language tokens: 44296
@@ -34,10 +34,10 @@ monolingual:
         size: 95825
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 287373
+        size: 297225
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/xml/fr.zip
       xml:
-        size: 108906
+        size: 109276
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/raw/fr.zip
     files: 1
     sentences: 3052
@@ -54,10 +54,10 @@ monolingual:
         size: 90209
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/mono/nl.tok.gz
       tokenized xml:
-        size: 255330
+        size: 265034
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/xml/nl.zip
       xml:
-        size: 103622
+        size: 103992
         url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/raw/nl.zip
     files: 1
     sentences: 3043
@@ -65,7 +65,7 @@ monolingual:
 moses:
   fr-nl:
     alignments: 3022
-    download size: 202769
+    download size: 203139
     download url: https://object.pouta.csc.fi/OPUS-ELRC-395-Belgian_about_Belgiu/v1/moses/fr-nl.txt.zip
     source language tokens: 39877
     target language tokens: 44040

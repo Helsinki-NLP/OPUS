@@ -7,16 +7,16 @@ bitexts:
         size: 16989
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/xml/bg-en.xml.gz
       source language:
-        size: 40704
+        size: 41086
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/raw/bg.zip
       target language:
-        size: 35372
+        size: 35755
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/raw/en.zip
       tokenized source language:
-        size: 111957
+        size: 117016
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/xml/bg.zip
       tokenized target language:
-        size: 110826
+        size: 115548
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/xml/en.zip
     files: 1
     source language tokens: 19217
@@ -34,10 +34,10 @@ monolingual:
         size: 32984
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 111957
+        size: 117016
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/xml/bg.zip
       xml:
-        size: 40704
+        size: 41086
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/raw/bg.zip
     files: 1
     sentences: 1584
@@ -54,10 +54,10 @@ monolingual:
         size: 28363
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/mono/en.tok.gz
       tokenized xml:
-        size: 110826
+        size: 115548
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/xml/en.zip
       xml:
-        size: 35372
+        size: 35755
         url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/raw/en.zip
     files: 1
     sentences: 1435
@@ -65,13 +65,13 @@ monolingual:
 moses:
   bg-en:
     alignments: 1293
-    download size: 70554
+    download size: 70936
     download url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/moses/bg-en.txt.zip
     source language tokens: 16063
     target language tokens: 17956
 tmx:
   bg-en:
-    download size: 71463
+    download size: 71464
     download url: https://object.pouta.csc.fi/OPUS-ELRC-471-Bugarian_Revenue/v1/tmx/bg-en.tmx.gz
     source language tokens: 15168
     target language tokens: 16907

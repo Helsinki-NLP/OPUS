@@ -10,16 +10,16 @@ bitexts:
         size: 19539
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/smt/en-ga.zip
       source language:
-        size: 14124
+        size: 14125
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/raw/en.zip
       target language:
         size: 15096
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/raw/ga.zip
       tokenized source language:
-        size: 23342
+        size: 23978
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/xml/en.zip
       tokenized target language:
-        size: 26359
+        size: 27021
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/xml/ga.zip
       word alignment dictionary:
         size: 987
@@ -43,10 +43,10 @@ monolingual:
         size: 6124
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/mono/en.tok.gz
       tokenized xml:
-        size: 23342
+        size: 23978
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/xml/en.zip
       xml:
-        size: 14124
+        size: 14125
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/raw/en.zip
     files: 1
     sentences: 143
@@ -63,7 +63,7 @@ monolingual:
         size: 7048
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 26359
+        size: 27021
         url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/xml/ga.zip
       xml:
         size: 15096
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 51
-    download size: 20894
+    download size: 20893
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2452-Tuairisc_a_thug/v1/moses/en-ga.txt.zip
     source language tokens: 2325
     target language tokens: 2874

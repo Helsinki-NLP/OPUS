@@ -7,16 +7,16 @@ bitexts:
         size: 39725
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/xml/en-et.xml.gz
       source language:
-        size: 260793
+        size: 261160
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/raw/en.zip
       target language:
-        size: 250814
+        size: 251181
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/raw/et.zip
       tokenized source language:
-        size: 778033
+        size: 795520
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/xml/en.zip
       tokenized target language:
-        size: 596588
+        size: 613369
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/xml/et.zip
     files: 1
     source language tokens: 93785
@@ -34,10 +34,10 @@ monolingual:
         size: 237484
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/mono/en.tok.gz
       tokenized xml:
-        size: 778033
+        size: 795520
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/xml/en.zip
       xml:
-        size: 260793
+        size: 261160
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/raw/en.zip
     files: 1
     sentences: 5325
@@ -54,10 +54,10 @@ monolingual:
         size: 228741
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/mono/et.tok.gz
       tokenized xml:
-        size: 596588
+        size: 613369
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/xml/et.zip
       xml:
-        size: 250814
+        size: 251181
         url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/raw/et.zip
     files: 1
     sentences: 5325
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-et:
     alignments: 5326
-    download size: 493062
+    download size: 493428
     download url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/moses/en-et.txt.zip
     source language tokens: 81291
     target language tokens: 131505
 tmx:
   en-et:
-    download size: 532495
+    download size: 532491
     download url: https://object.pouta.csc.fi/OPUS-ELRC-714-Parliament_Estonia/v1/tmx/en-et.tmx.gz
     source language tokens: 81291
     target language tokens: 131505

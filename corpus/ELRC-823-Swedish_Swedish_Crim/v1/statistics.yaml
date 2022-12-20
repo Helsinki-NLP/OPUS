@@ -7,16 +7,16 @@ bitexts:
         size: 11425
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/en-sv.xml.gz
       source language:
-        size: 58941
+        size: 59353
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/raw/en.zip
       target language:
-        size: 57193
+        size: 57604
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/raw/sv.zip
       tokenized source language:
-        size: 162512
+        size: 167640
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/en.zip
       tokenized target language:
-        size: 141753
+        size: 146819
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/sv.zip
     files: 1
     source language tokens: 24325
@@ -34,10 +34,10 @@ monolingual:
         size: 51382
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/mono/en.tok.gz
       tokenized xml:
-        size: 162512
+        size: 167640
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/en.zip
       xml:
-        size: 58941
+        size: 59353
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/raw/en.zip
     files: 1
     sentences: 1503
@@ -54,10 +54,10 @@ monolingual:
         size: 49814
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 141753
+        size: 146819
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/xml/sv.zip
       xml:
-        size: 57193
+        size: 57604
         url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/raw/sv.zip
     files: 1
     sentences: 1502
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-sv:
     alignments: 1503
-    download size: 110151
+    download size: 110562
     download url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/moses/en-sv.txt.zip
     source language tokens: 22126
     target language tokens: 26747
 tmx:
   en-sv:
-    download size: 118145
+    download size: 118146
     download url: https://object.pouta.csc.fi/OPUS-ELRC-823-Swedish_Swedish_Crim/v1/tmx/en-sv.tmx.gz
     source language tokens: 22126
     target language tokens: 26747

@@ -7,16 +7,16 @@ bitexts:
         size: 145055
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/bg-en.xml.gz
       source language:
-        size: 675883
+        size: 676259
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/raw/bg.zip
       target language:
-        size: 538307
+        size: 538683
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/raw/en.zip
       tokenized source language:
-        size: 1599911
+        size: 1636256
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/bg.zip
       tokenized target language:
-        size: 1505087
+        size: 1541430
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/en.zip
     files: 1
     source language tokens: 257799
@@ -34,10 +34,10 @@ monolingual:
         size: 635750
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 1599911
+        size: 1636256
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/bg.zip
       xml:
-        size: 675883
+        size: 676259
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/raw/bg.zip
     files: 1
     sentences: 11340
@@ -54,10 +54,10 @@ monolingual:
         size: 494968
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1505087
+        size: 1541430
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/xml/en.zip
       xml:
-        size: 538307
+        size: 538683
         url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/raw/en.zip
     files: 1
     sentences: 11345
@@ -65,13 +65,13 @@ monolingual:
 moses:
   bg-en:
     alignments: 11263
-    download size: 1181674
+    download size: 1182052
     download url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/moses/bg-en.txt.zip
     source language tokens: 223239
     target language tokens: 244902
 tmx:
   bg-en:
-    download size: 1332729
+    download size: 1332734
     download url: https://object.pouta.csc.fi/OPUS-ELRC-664-administration/v1/tmx/bg-en.tmx.gz
     source language tokens: 223239
     target language tokens: 244902

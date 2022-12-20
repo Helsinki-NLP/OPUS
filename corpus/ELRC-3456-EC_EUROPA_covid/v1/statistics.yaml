@@ -10,16 +10,16 @@ bitexts:
         size: 13432
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/smt/en-ga.zip
       source language:
-        size: 4027
+        size: 4388
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/raw/en.zip
       target language:
-        size: 4215
+        size: 4576
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/raw/ga.zip
       tokenized source language:
-        size: 6426
+        size: 7162
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/xml/en.zip
       tokenized target language:
-        size: 6755
+        size: 7489
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/xml/ga.zip
       word alignment dictionary:
         size: 524
@@ -43,10 +43,10 @@ monolingual:
         size: 2003
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 6426
+        size: 7162
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/xml/en.zip
       xml:
-        size: 4027
+        size: 4388
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/raw/en.zip
     files: 1
     sentences: 51
@@ -63,10 +63,10 @@ monolingual:
         size: 2196
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 6755
+        size: 7489
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/xml/ga.zip
       xml:
-        size: 4215
+        size: 4576
         url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/raw/ga.zip
     files: 1
     sentences: 50
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 51
-    download size: 6034
+    download size: 6395
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/moses/en-ga.txt.zip
     source language tokens: 553
     target language tokens: 602
 tmx:
   en-ga:
-    download size: 4268
+    download size: 4265
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3456-EC_EUROPA_covid/v1/tmx/en-ga.tmx.gz
     source language tokens: 553
     target language tokens: 602

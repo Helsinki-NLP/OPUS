@@ -7,25 +7,25 @@ bitexts:
         size: 5116
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/xml/cs-en.xml.gz
       smt phrase table:
-        size: 121231
+        size: 121474
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/smt/cs-en.zip
       source language:
-        size: 20433
+        size: 20799
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/raw/cs.zip
       target language:
-        size: 18892
+        size: 19257
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/raw/en.zip
       tokenized source language:
-        size: 46692
+        size: 48498
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/xml/cs.zip
       tokenized target language:
-        size: 49037
+        size: 50843
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/xml/en.zip
       word alignment dictionary:
         size: 8309
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/dic/cs-en.dic.gz
       word alignments:
-        size: 30900
+        size: 31144
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/smt/cs-en.alg.zip
     files: 1
     source language tokens: 7181
@@ -43,10 +43,10 @@ monolingual:
         size: 17037
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/mono/cs.tok.gz
       tokenized xml:
-        size: 46692
+        size: 48498
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/xml/cs.zip
       xml:
-        size: 20433
+        size: 20799
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/raw/cs.zip
     files: 1
     sentences: 426
@@ -63,10 +63,10 @@ monolingual:
         size: 15561
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/mono/en.tok.gz
       tokenized xml:
-        size: 49037
+        size: 50843
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/xml/en.zip
       xml:
-        size: 18892
+        size: 19257
         url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/raw/en.zip
     files: 1
     sentences: 421
@@ -74,13 +74,13 @@ monolingual:
 moses:
   cs-en:
     alignments: 403
-    download size: 36265
+    download size: 36630
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/moses/cs-en.txt.zip
     source language tokens: 6343
     target language tokens: 7716
 tmx:
   cs-en:
-    download size: 36921
+    download size: 36920
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2404-Czech_Supreme_Audit/v1/tmx/cs-en.tmx.gz
     source language tokens: 6343
     target language tokens: 7716

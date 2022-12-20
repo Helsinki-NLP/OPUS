@@ -7,16 +7,16 @@ bitexts:
         size: 289419
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/en-uk.xml.gz
       source language:
-        size: 1191047
+        size: 1191425
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/en.zip
       target language:
-        size: 3465511
+        size: 3465513
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/uk.zip
       tokenized source language:
-        size: 3309562
+        size: 3429169
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/en.zip
       tokenized target language:
-        size: 7775953
+        size: 8032509
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/uk.zip
     files: 1
     source language tokens: 527276
@@ -28,16 +28,16 @@ bitexts:
         size: 265302
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/fr-uk.xml.gz
       source language:
-        size: 1235843
+        size: 1236220
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/fr.zip
       target language:
-        size: 3465511
+        size: 3465513
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/uk.zip
       tokenized source language:
-        size: 3468522
+        size: 3577243
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/fr.zip
       tokenized target language:
-        size: 7775953
+        size: 8032509
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/uk.zip
     files: 1
     source language tokens: 529816
@@ -49,16 +49,16 @@ bitexts:
         size: 63625
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/pl-uk.xml.gz
       source language:
-        size: 420688
+        size: 421065
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/pl.zip
       target language:
-        size: 3465511
+        size: 3465513
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/uk.zip
       tokenized source language:
-        size: 984144
+        size: 1011144
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/pl.zip
       tokenized target language:
-        size: 7775953
+        size: 8032509
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/uk.zip
     files: 1
     source language tokens: 157714
@@ -76,10 +76,10 @@ monolingual:
         size: 1033978
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/mono/en.tok.gz
       tokenized xml:
-        size: 3309562
+        size: 3429169
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/en.zip
       xml:
-        size: 1191047
+        size: 1191425
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/en.zip
     files: 1
     sentences: 38000
@@ -96,10 +96,10 @@ monolingual:
         size: 1099929
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 3468522
+        size: 3577243
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/fr.zip
       xml:
-        size: 1235843
+        size: 1236220
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/fr.zip
     files: 1
     sentences: 34079
@@ -116,10 +116,10 @@ monolingual:
         size: 385625
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 984144
+        size: 1011144
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/pl.zip
       xml:
-        size: 420688
+        size: 421065
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/pl.zip
     files: 1
     sentences: 8427
@@ -141,10 +141,10 @@ monolingual:
         size: 3144222
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/mono/uk.tok.gz
       tokenized xml:
-        size: 7775953
+        size: 8032509
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/xml/uk.zip
       xml:
-        size: 3465511
+        size: 3465513
         url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/raw/uk.zip
     files: 3
     sentences: 82223
@@ -152,25 +152,25 @@ monolingual:
 moses:
   en-uk:
     alignments: 36228
-    download size: 2541534
+    download size: 2541537
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/moses/en-uk.txt.zip
     source language tokens: 424838
     target language tokens: 501966
   fr-uk:
     alignments: 33377
-    download size: 2621253
+    download size: 2621256
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/moses/fr-uk.txt.zip
     source language tokens: 418962
     target language tokens: 506502
   pl-uk:
     alignments: 8330
-    download size: 878147
+    download size: 878151
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/moses/pl-uk.txt.zip
     source language tokens: 130225
     target language tokens: 132048
 tmx:
   en-uk:
-    download size: 2851402
+    download size: 2851403
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/tmx/en-uk.tmx.gz
     source language tokens: 424806
     target language tokens: 501932
@@ -182,7 +182,7 @@ tmx:
     target language tokens: 506391
     translation units: 33341
   pl-uk:
-    download size: 989278
+    download size: 989279
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5174-French_Polish_Ukrain/v1/tmx/pl-uk.tmx.gz
     source language tokens: 130217
     target language tokens: 132038

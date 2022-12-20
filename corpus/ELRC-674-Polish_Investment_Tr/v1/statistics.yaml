@@ -7,16 +7,16 @@ bitexts:
         size: 191291
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/xml/en-pl.xml.gz
       source language:
-        size: 660265
+        size: 660659
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/raw/en.zip
       target language:
-        size: 725276
+        size: 725670
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/raw/pl.zip
       tokenized source language:
-        size: 1758599
+        size: 1806245
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/xml/en.zip
       tokenized target language:
-        size: 1707426
+        size: 1754534
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/xml/pl.zip
     files: 1
     source language tokens: 259088
@@ -34,10 +34,10 @@ monolingual:
         size: 602751
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1758599
+        size: 1806245
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/xml/en.zip
       xml:
-        size: 660265
+        size: 660659
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/raw/en.zip
     files: 1
     sentences: 14798
@@ -54,10 +54,10 @@ monolingual:
         size: 664291
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 1707426
+        size: 1754534
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/xml/pl.zip
       xml:
-        size: 725276
+        size: 725670
         url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/raw/pl.zip
     files: 1
     sentences: 14826
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 14737
-    download size: 1334475
+    download size: 1334868
     download url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/moses/en-pl.txt.zip
     source language tokens: 227258
     target language tokens: 272972
 tmx:
   en-pl:
-    download size: 1441364
+    download size: 1441362
     download url: https://object.pouta.csc.fi/OPUS-ELRC-674-Polish_Investment_Tr/v1/tmx/en-pl.tmx.gz
     source language tokens: 227258
     target language tokens: 272972

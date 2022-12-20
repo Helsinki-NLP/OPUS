@@ -7,16 +7,16 @@ bitexts:
         size: 9193
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/xml/en-pl.xml.gz
       source language:
-        size: 26559
+        size: 26940
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/raw/en.zip
       target language:
-        size: 29100
+        size: 29481
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/raw/pl.zip
       tokenized source language:
-        size: 64887
+        size: 67362
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/xml/en.zip
       tokenized target language:
-        size: 63698
+        size: 66144
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/xml/pl.zip
     files: 1
     source language tokens: 9640
@@ -34,10 +34,10 @@ monolingual:
         size: 22530
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/mono/en.tok.gz
       tokenized xml:
-        size: 64887
+        size: 67362
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/xml/en.zip
       xml:
-        size: 26559
+        size: 26940
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/raw/en.zip
     files: 1
     sentences: 660
@@ -54,10 +54,10 @@ monolingual:
         size: 24999
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 63698
+        size: 66144
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/xml/pl.zip
       xml:
-        size: 29100
+        size: 29481
         url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/raw/pl.zip
     files: 1
     sentences: 649
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-pl:
     alignments: 647
-    download size: 52076
+    download size: 52456
     download url: https://object.pouta.csc.fi/OPUS-ELRC-981-Digital_Archives/v1/moses/en-pl.txt.zip
     source language tokens: 8225
     target language tokens: 9398

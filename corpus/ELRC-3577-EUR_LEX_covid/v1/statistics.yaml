@@ -10,16 +10,16 @@ bitexts:
         size: 8057581
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/smt/en-ro.zip
       source language:
-        size: 1181276
+        size: 1181628
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/raw/en.zip
       target language:
-        size: 1391598
+        size: 1391950
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/raw/ro.zip
       tokenized source language:
-        size: 3915488
+        size: 3991931
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/xml/en.zip
       tokenized target language:
-        size: 4438601
+        size: 4520082
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/xml/ro.zip
       word alignment dictionary:
         size: 293645
@@ -43,10 +43,10 @@ monolingual:
         size: 1095661
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 3915488
+        size: 3991931
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/xml/en.zip
       xml:
-        size: 1181276
+        size: 1181628
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/raw/en.zip
     files: 1
     sentences: 23370
@@ -63,10 +63,10 @@ monolingual:
         size: 1296639
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 4438601
+        size: 4520082
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/xml/ro.zip
       xml:
-        size: 1391598
+        size: 1391950
         url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/raw/ro.zip
     files: 1
     sentences: 24770
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ro:
     alignments: 23183
-    download size: 2500616
+    download size: 2500968
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3577-EUR_LEX_covid/v1/moses/en-ro.txt.zip
     source language tokens: 639133
     target language tokens: 703800

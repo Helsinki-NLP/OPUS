@@ -7,16 +7,16 @@ bitexts:
         size: 62997
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/xml/en-pl.xml.gz
       source language:
-        size: 209968
+        size: 210355
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/raw/en.zip
       target language:
-        size: 227056
+        size: 227441
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/raw/pl.zip
       tokenized source language:
-        size: 565906
+        size: 581076
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/xml/en.zip
       tokenized target language:
-        size: 544539
+        size: 559363
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/xml/pl.zip
     files: 1
     source language tokens: 83621
@@ -34,10 +34,10 @@ monolingual:
         size: 190644
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/mono/en.tok.gz
       tokenized xml:
-        size: 565906
+        size: 581076
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/xml/en.zip
       xml:
-        size: 209968
+        size: 210355
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/raw/en.zip
     files: 1
     sentences: 4625
@@ -54,10 +54,10 @@ monolingual:
         size: 206774
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 544539
+        size: 559363
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/xml/pl.zip
       xml:
-        size: 227056
+        size: 227441
         url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/raw/pl.zip
     files: 1
     sentences: 4605
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 4565
-    download size: 421158
+    download size: 421547
     download url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/moses/en-pl.txt.zip
     source language tokens: 73501
     target language tokens: 87695
 tmx:
   en-pl:
-    download size: 446941
+    download size: 446939
     download url: https://object.pouta.csc.fi/OPUS-ELRC-949-Polish_Tourism_Organ/v1/tmx/en-pl.tmx.gz
     source language tokens: 73501
     target language tokens: 87695

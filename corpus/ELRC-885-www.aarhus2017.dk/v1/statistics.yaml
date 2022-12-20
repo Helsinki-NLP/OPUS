@@ -7,16 +7,16 @@ bitexts:
         size: 36525
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/da-en.xml.gz
       source language:
-        size: 220751
+        size: 221137
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/raw/da.zip
       target language:
-        size: 219083
+        size: 219469
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/raw/en.zip
       tokenized source language:
-        size: 552351
+        size: 567718
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/da.zip
       tokenized target language:
-        size: 569529
+        size: 585039
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/en.zip
     files: 1
     source language tokens: 93301
@@ -34,10 +34,10 @@ monolingual:
         size: 201489
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/mono/da.tok.gz
       tokenized xml:
-        size: 552351
+        size: 567718
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/da.zip
       xml:
-        size: 220751
+        size: 221137
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/raw/da.zip
     files: 1
     sentences: 4724
@@ -54,10 +54,10 @@ monolingual:
         size: 199228
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/mono/en.tok.gz
       tokenized xml:
-        size: 569529
+        size: 585039
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/xml/en.zip
       xml:
-        size: 219083
+        size: 219469
         url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/raw/en.zip
     files: 1
     sentences: 4747
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 4709
-    download size: 422042
+    download size: 422425
     download url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/moses/da-en.txt.zip
     source language tokens: 80862
     target language tokens: 87804
 tmx:
   da-en:
-    download size: 436828
+    download size: 436825
     download url: https://object.pouta.csc.fi/OPUS-ELRC-885-www.aarhus2017.dk/v1/tmx/da-en.tmx.gz
     source language tokens: 80862
     target language tokens: 87804

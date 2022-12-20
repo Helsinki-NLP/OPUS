@@ -1,35 +1,35 @@
 ---
 bitexts:
   en-es:
-    alignments: 1
+    alignments: 7
     downloads:
       alignments:
         size: 207
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/en-es.xml.gz
       smt phrase table:
-        size: 2990
+        size: 3224
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/smt/en-es.zip
       source language:
-        size: 9657
+        size: 9892
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/raw/en.zip
       target language:
-        size: 1917
+        size: 2149
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/raw/es.zip
       tokenized source language:
-        size: 23405
+        size: 24550
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/en.zip
       tokenized target language:
-        size: 1956
+        size: 2432
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/es.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/dic/en-es.dic.gz
       word alignments:
-        size: 2646
+        size: 2880
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/smt/en-es.alg.zip
     files: 1
-    source language tokens: 7
-    target language tokens: 9
+    source language tokens: 9
+    target language tokens: ~
   en-pt:
     alignments: 115
     downloads:
@@ -37,25 +37,25 @@ bitexts:
         size: 1134
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/en-pt.xml.gz
       smt phrase table:
-        size: 48485
+        size: 48719
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/smt/en-pt.zip
       source language:
-        size: 9657
+        size: 9892
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/raw/en.zip
       target language:
-        size: 10012
+        size: 10249
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/raw/pt.zip
       tokenized source language:
-        size: 23405
+        size: 24550
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/en.zip
       tokenized target language:
-        size: 23385
+        size: 24490
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/pt.zip
       word alignment dictionary:
         size: 4611
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/dic/en-pt.dic.gz
       word alignments:
-        size: 17967
+        size: 18201
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/smt/en-pt.alg.zip
     files: 2
     source language tokens: 3900
@@ -73,10 +73,10 @@ monolingual:
         size: 6947
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/mono/en.tok.gz
       tokenized xml:
-        size: 23405
+        size: 24550
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/en.zip
       xml:
-        size: 9657
+        size: 9892
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/raw/en.zip
     files: 2
     sentences: 149
@@ -93,14 +93,14 @@ monolingual:
         size: 80
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/mono/es.tok.gz
       tokenized xml:
-        size: 1956
+        size: 2432
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/es.zip
       xml:
-        size: 1917
+        size: 2149
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/raw/es.zip
     files: 1
-    sentences: 1
-    tokens: 9
+    sentences: 9
+    tokens: ~
   pt:
     downloads:
       frequency list:
@@ -113,10 +113,10 @@ monolingual:
         size: 7359
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 23385
+        size: 24490
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/xml/pt.zip
       xml:
-        size: 10012
+        size: 10249
         url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/raw/pt.zip
     files: 2
     sentences: 138
@@ -124,25 +124,25 @@ monolingual:
 moses:
   en-es:
     alignments: 2
-    download size: 1753
+    download size: 1986
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/moses/en-es.txt.zip
     source language tokens: 7
-    target language tokens: 7
+    target language tokens: ~
   en-pt:
     alignments: 116
-    download size: 16512
+    download size: 16748
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/moses/en-pt.txt.zip
     source language tokens: 3441
     target language tokens: 3487
 tmx:
   en-es:
-    download size: 326
+    download size: 327
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/tmx/en-es.tmx.gz
     source language tokens: 7
-    target language tokens: 7
+    target language tokens: ~
     translation units: 2
   en-pt:
-    download size: 15067
+    download size: 15068
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2536-Estatuto_da_Vtima/v1/tmx/en-pt.tmx.gz
     source language tokens: 3441
     target language tokens: 3487

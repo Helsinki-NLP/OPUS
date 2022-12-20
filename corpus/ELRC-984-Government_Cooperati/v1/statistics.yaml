@@ -7,16 +7,16 @@ bitexts:
         size: 13995
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/xml/en-hr.xml.gz
       source language:
-        size: 63128
+        size: 63523
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/raw/en.zip
       target language:
-        size: 65670
+        size: 66065
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/raw/hr.zip
       tokenized source language:
-        size: 179534
+        size: 183358
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/xml/en.zip
       tokenized target language:
-        size: 171134
+        size: 174941
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/xml/hr.zip
     files: 1
     source language tokens: 28738
@@ -34,10 +34,10 @@ monolingual:
         size: 57617
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/mono/en.tok.gz
       tokenized xml:
-        size: 179534
+        size: 183358
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/xml/en.zip
       xml:
-        size: 63128
+        size: 63523
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/raw/en.zip
     files: 1
     sentences: 1040
@@ -54,10 +54,10 @@ monolingual:
         size: 59863
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 171134
+        size: 174941
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/xml/hr.zip
       xml:
-        size: 65670
+        size: 66065
         url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/raw/hr.zip
     files: 1
     sentences: 1053
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 1026
-    download size: 123666
+    download size: 124061
     download url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/moses/en-hr.txt.zip
     source language tokens: 25312
     target language tokens: 29672
 tmx:
   en-hr:
-    download size: 132200
+    download size: 132197
     download url: https://object.pouta.csc.fi/OPUS-ELRC-984-Government_Cooperati/v1/tmx/en-hr.tmx.gz
     source language tokens: 25312
     target language tokens: 29672

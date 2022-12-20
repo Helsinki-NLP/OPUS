@@ -10,16 +10,16 @@ bitexts:
         size: 1299788
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/smt/en-pl.zip
       source language:
-        size: 273248
+        size: 273607
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/raw/en.zip
       target language:
-        size: 294016
+        size: 294376
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/raw/pl.zip
       tokenized source language:
-        size: 766323
+        size: 781154
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/en.zip
       tokenized target language:
-        size: 716768
+        size: 731433
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/pl.zip
       word alignment dictionary:
         size: 121174
@@ -43,10 +43,10 @@ monolingual:
         size: 254298
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/mono/en.tok.gz
       tokenized xml:
-        size: 766323
+        size: 781154
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/en.zip
       xml:
-        size: 273248
+        size: 273607
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/raw/en.zip
     files: 1
     sentences: 4466
@@ -63,10 +63,10 @@ monolingual:
         size: 274364
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 716768
+        size: 731433
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/xml/pl.zip
       xml:
-        size: 294016
+        size: 294376
         url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/raw/pl.zip
     files: 1
     sentences: 4478
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 4429
-    download size: 547866
+    download size: 548226
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/moses/en-pl.txt.zip
     source language tokens: 98522
     target language tokens: 121286
 tmx:
   en-pl:
-    download size: 617885
+    download size: 617889
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3502-Coronavirus_Law_Pola/v1/tmx/en-pl.tmx.gz
     source language tokens: 98522
     target language tokens: 121286

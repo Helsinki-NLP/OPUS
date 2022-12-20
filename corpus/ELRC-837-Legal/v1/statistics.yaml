@@ -7,16 +7,16 @@ bitexts:
         size: 8802
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/en-fr.xml.gz
       source language:
-        size: 119291
+        size: 119648
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/en.zip
       target language:
-        size: 156647
+        size: 157003
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/fr.zip
       tokenized source language:
-        size: 344633
+        size: 352606
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/en.zip
       tokenized target language:
-        size: 464504
+        size: 474266
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/fr.zip
     files: 1
     source language tokens: 31646
@@ -28,16 +28,16 @@ bitexts:
         size: 8476
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/en-it.xml.gz
       source language:
-        size: 119291
+        size: 119648
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/en.zip
       target language:
-        size: 154514
+        size: 154870
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/it.zip
       tokenized source language:
-        size: 344633
+        size: 352606
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/en.zip
       tokenized target language:
-        size: 444289
+        size: 453956
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/it.zip
     files: 1
     source language tokens: 31100
@@ -49,16 +49,16 @@ bitexts:
         size: 12865
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/fr-it.xml.gz
       source language:
-        size: 156647
+        size: 157003
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/fr.zip
       target language:
-        size: 154514
+        size: 154870
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/it.zip
       tokenized source language:
-        size: 464504
+        size: 474266
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/fr.zip
       tokenized target language:
-        size: 444289
+        size: 453956
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/it.zip
     files: 1
     source language tokens: 46823
@@ -76,10 +76,10 @@ monolingual:
         size: 106834
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/mono/en.tok.gz
       tokenized xml:
-        size: 344633
+        size: 352606
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/en.zip
       xml:
-        size: 119291
+        size: 119648
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/en.zip
     files: 2
     sentences: 2400
@@ -96,10 +96,10 @@ monolingual:
         size: 142068
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 464504
+        size: 474266
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/fr.zip
       xml:
-        size: 156647
+        size: 157003
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/fr.zip
     files: 2
     sentences: 2945
@@ -116,10 +116,10 @@ monolingual:
         size: 139362
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/mono/it.tok.gz
       tokenized xml:
-        size: 444289
+        size: 453956
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/xml/it.zip
       xml:
-        size: 154514
+        size: 154870
         url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/raw/it.zip
     files: 2
     sentences: 2947
@@ -127,31 +127,31 @@ monolingual:
 moses:
   en-fr:
     alignments: 997
-    download size: 119659
+    download size: 120015
     download url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/moses/en-fr.txt.zip
     source language tokens: 27982
     target language tokens: 29479
   en-it:
     alignments: 952
-    download size: 119626
+    download size: 119981
     download url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/moses/en-it.txt.zip
     source language tokens: 27403
     target language tokens: 28007
   fr-it:
     alignments: 1409
-    download size: 175049
+    download size: 175404
     download url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/moses/fr-it.txt.zip
     source language tokens: 39913
     target language tokens: 42092
 tmx:
   en-fr:
-    download size: 123899
+    download size: 123900
     download url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/tmx/en-fr.tmx.gz
     source language tokens: 27921
     target language tokens: 29420
     translation units: 985
   en-it:
-    download size: 124574
+    download size: 124570
     download url: https://object.pouta.csc.fi/OPUS-ELRC-837-Legal/v1/tmx/en-it.tmx.gz
     source language tokens: 27396
     target language tokens: 28000

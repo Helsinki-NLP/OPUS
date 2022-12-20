@@ -7,25 +7,25 @@ bitexts:
         size: 72770
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/xml/el-en.xml.gz
       smt phrase table:
-        size: 1709582
+        size: 1709819
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/smt/el-en.zip
       source language:
-        size: 316598
+        size: 316957
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/raw/el.zip
       target language:
-        size: 228810
+        size: 229169
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/raw/en.zip
       tokenized source language:
-        size: 738656
+        size: 755534
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/xml/el.zip
       tokenized target language:
-        size: 648626
+        size: 665501
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/xml/en.zip
       word alignment dictionary:
         size: 92232
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/dic/el-en.dic.gz
       word alignments:
-        size: 363505
+        size: 363742
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/smt/el-en.alg.zip
     files: 1
     source language tokens: 114373
@@ -43,10 +43,10 @@ monolingual:
         size: 297636
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/mono/el.tok.gz
       tokenized xml:
-        size: 738656
+        size: 755534
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/xml/el.zip
       xml:
-        size: 316598
+        size: 316957
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/raw/el.zip
     files: 1
     sentences: 5228
@@ -63,10 +63,10 @@ monolingual:
         size: 208169
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/mono/en.tok.gz
       tokenized xml:
-        size: 648626
+        size: 665501
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/xml/en.zip
       xml:
-        size: 228810
+        size: 229169
         url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/raw/en.zip
     files: 1
     sentences: 5216
@@ -74,13 +74,13 @@ monolingual:
 moses:
   el-en:
     alignments: 5163
-    download size: 529096
+    download size: 529454
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/moses/el-en.txt.zip
     source language tokens: 99500
     target language tokens: 100201
 tmx:
   el-en:
-    download size: 585132
+    download size: 585131
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1787-Press_Releases_PIO/v1/tmx/el-en.tmx.gz
     source language tokens: 99500
     target language tokens: 100201

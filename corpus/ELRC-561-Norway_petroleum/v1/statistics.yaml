@@ -7,16 +7,16 @@ bitexts:
         size: 14828
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/en-nb.xml.gz
       source language:
-        size: 61916
+        size: 62289
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/raw/en.zip
       target language:
-        size: 61230
+        size: 61602
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/raw/nb.zip
       tokenized source language:
-        size: 185475
+        size: 192065
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/en.zip
       tokenized target language:
-        size: 169282
+        size: 175768
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/nb.zip
     files: 1
     source language tokens: 29898
@@ -34,10 +34,10 @@ monolingual:
         size: 53118
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/mono/en.tok.gz
       tokenized xml:
-        size: 185475
+        size: 192065
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/en.zip
       xml:
-        size: 61916
+        size: 62289
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/raw/en.zip
     files: 1
     sentences: 2016
@@ -54,10 +54,10 @@ monolingual:
         size: 52508
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 169282
+        size: 175768
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/xml/nb.zip
       xml:
-        size: 61230
+        size: 61602
         url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/raw/nb.zip
     files: 1
     sentences: 2016
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 2017
-    download size: 116590
+    download size: 116964
     download url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/moses/en-nb.txt.zip
     source language tokens: 26075
     target language tokens: 30772
 tmx:
   en-nb:
-    download size: 115724
+    download size: 115725
     download url: https://object.pouta.csc.fi/OPUS-ELRC-561-Norway_petroleum/v1/tmx/en-nb.tmx.gz
     source language tokens: 23548
     target language tokens: 27767

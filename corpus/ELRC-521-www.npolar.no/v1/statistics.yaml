@@ -7,16 +7,16 @@ bitexts:
         size: 74057
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 295875
+        size: 296250
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/raw/en.zip
       target language:
-        size: 288818
+        size: 289194
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/raw/nb.zip
       tokenized source language:
-        size: 819240
+        size: 849922
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/xml/en.zip
       tokenized target language:
-        size: 756715
+        size: 787073
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/xml/nb.zip
     files: 1
     source language tokens: 128987
@@ -34,10 +34,10 @@ monolingual:
         size: 256451
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 819240
+        size: 849922
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/xml/en.zip
       xml:
-        size: 295875
+        size: 296250
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/raw/en.zip
     files: 1
     sentences: 9985
@@ -54,10 +54,10 @@ monolingual:
         size: 249686
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 756715
+        size: 787073
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/xml/nb.zip
       xml:
-        size: 288818
+        size: 289194
         url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/raw/nb.zip
     files: 1
     sentences: 9983
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 9984
-    download size: 557276
+    download size: 557654
     download url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/moses/en-nb.txt.zip
     source language tokens: 108856
     target language tokens: 126273
 tmx:
   en-nb:
-    download size: 524617
+    download size: 524616
     download url: https://object.pouta.csc.fi/OPUS-ELRC-521-www.npolar.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 100438
     target language tokens: 116668

@@ -10,22 +10,22 @@ bitexts:
         size: 738441
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/smt/de-es.zip
       source language:
-        size: 140798
+        size: 140799
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/raw/de.zip
       target language:
-        size: 130317
+        size: 130316
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/raw/es.zip
       tokenized source language:
-        size: 330810
+        size: 339123
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/xml/de.zip
       tokenized target language:
-        size: 330055
+        size: 337873
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/xml/es.zip
       word alignment dictionary:
         size: 38437
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/dic/de-es.dic.gz
       word alignments:
-        size: 199289
+        size: 199288
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/smt/de-es.alg.zip
     files: 1
     source language tokens: 52715
@@ -43,10 +43,10 @@ monolingual:
         size: 121971
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/mono/de.tok.gz
       tokenized xml:
-        size: 330810
+        size: 339123
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/xml/de.zip
       xml:
-        size: 140798
+        size: 140799
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/raw/de.zip
     files: 1
     sentences: 2626
@@ -63,10 +63,10 @@ monolingual:
         size: 112471
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/mono/es.tok.gz
       tokenized xml:
-        size: 330055
+        size: 337873
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/xml/es.zip
       xml:
-        size: 130317
+        size: 130316
         url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/raw/es.zip
     files: 1
     sentences: 2449
@@ -74,13 +74,13 @@ monolingual:
 moses:
   de-es:
     alignments: 2005
-    download size: 253864
+    download size: 253863
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/moses/de-es.txt.zip
     source language tokens: 46237
     target language tokens: 50352
 tmx:
   de-es:
-    download size: 261970
+    download size: 261969
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2544-TERMITUR/v1/tmx/de-es.tmx.gz
     source language tokens: 46237
     target language tokens: 50352

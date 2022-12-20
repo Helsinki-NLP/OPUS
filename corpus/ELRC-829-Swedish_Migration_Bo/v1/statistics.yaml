@@ -7,16 +7,16 @@ bitexts:
         size: 63561
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/xml/en-sv.xml.gz
       source language:
-        size: 267947
+        size: 268341
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/raw/en.zip
       target language:
-        size: 249625
+        size: 250019
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/raw/sv.zip
       tokenized source language:
-        size: 823318
+        size: 849971
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/xml/en.zip
       tokenized target language:
-        size: 713514
+        size: 739559
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/xml/sv.zip
     files: 1
     source language tokens: 134668
@@ -34,10 +34,10 @@ monolingual:
         size: 236361
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/mono/en.tok.gz
       tokenized xml:
-        size: 823318
+        size: 849971
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/xml/en.zip
       xml:
-        size: 267947
+        size: 268341
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/raw/en.zip
     files: 1
     sentences: 8400
@@ -54,10 +54,10 @@ monolingual:
         size: 217005
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 713514
+        size: 739559
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/xml/sv.zip
       xml:
-        size: 249625
+        size: 250019
         url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/raw/sv.zip
     files: 1
     sentences: 8401
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-sv:
     alignments: 8366
-    download size: 488108
+    download size: 488502
     download url: https://object.pouta.csc.fi/OPUS-ELRC-829-Swedish_Migration_Bo/v1/moses/en-sv.txt.zip
     source language tokens: 124398
     target language tokens: 144995

@@ -7,25 +7,25 @@ bitexts:
         size: 3803
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/xml/de-en.xml.gz
       smt phrase table:
-        size: 123329
+        size: 123566
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/smt/de-en.zip
       source language:
-        size: 26136
+        size: 26494
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/raw/de.zip
       target language:
-        size: 23154
+        size: 23513
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/raw/en.zip
       tokenized source language:
-        size: 57996
+        size: 60045
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/xml/de.zip
       tokenized target language:
-        size: 58992
+        size: 61037
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/xml/en.zip
       word alignment dictionary:
         size: 7549
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/dic/de-en.dic.gz
       word alignments:
-        size: 37809
+        size: 38048
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/smt/de-en.alg.zip
     files: 1
     source language tokens: 8998
@@ -43,10 +43,10 @@ monolingual:
         size: 22410
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/mono/de.tok.gz
       tokenized xml:
-        size: 57996
+        size: 60045
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/xml/de.zip
       xml:
-        size: 26136
+        size: 26494
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/raw/de.zip
     files: 1
     sentences: 511
@@ -63,10 +63,10 @@ monolingual:
         size: 19524
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/mono/en.tok.gz
       tokenized xml:
-        size: 58992
+        size: 61037
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/xml/en.zip
       xml:
-        size: 23154
+        size: 23513
         url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/raw/en.zip
     files: 1
     sentences: 501
@@ -74,13 +74,13 @@ monolingual:
 moses:
   de-en:
     alignments: 482
-    download size: 45903
+    download size: 46261
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/moses/de-en.txt.zip
     source language tokens: 7773
     target language tokens: 8908
 tmx:
   de-en:
-    download size: 45829
+    download size: 45834
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1238-Energy_Report_City/v1/tmx/de-en.tmx.gz
     source language tokens: 7773
     target language tokens: 8908

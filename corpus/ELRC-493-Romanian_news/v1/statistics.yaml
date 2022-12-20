@@ -7,16 +7,16 @@ bitexts:
         size: 750910
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/xml/en-ro.xml.gz
       source language:
-        size: 6182793
+        size: 6183155
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/raw/en.zip
       target language:
-        size: 6915605
+        size: 6915967
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/raw/ro.zip
       tokenized source language:
-        size: 16631348
+        size: 16935258
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/xml/en.zip
       tokenized target language:
-        size: 18191909
+        size: 18496557
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/xml/ro.zip
     files: 1
     source language tokens: 2791249
@@ -34,10 +34,10 @@ monolingual:
         size: 5798401
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/mono/en.tok.gz
       tokenized xml:
-        size: 16631348
+        size: 16935258
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/xml/en.zip
       xml:
-        size: 6182793
+        size: 6183155
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/raw/en.zip
     files: 1
     sentences: 98101
@@ -54,10 +54,10 @@ monolingual:
         size: 6531511
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 18191909
+        size: 18496557
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/xml/ro.zip
       xml:
-        size: 6915605
+        size: 6915967
         url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/raw/ro.zip
     files: 1
     sentences: 98104
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ro:
     alignments: 98099
-    download size: 12709773
+    download size: 12710134
     download url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/moses/en-ro.txt.zip
     source language tokens: 2396236
     target language tokens: 2595121
 tmx:
   en-ro:
-    download size: 13595927
+    download size: 13595924
     download url: https://object.pouta.csc.fi/OPUS-ELRC-493-Romanian_news/v1/tmx/en-ro.tmx.gz
     source language tokens: 2396236
     target language tokens: 2595121

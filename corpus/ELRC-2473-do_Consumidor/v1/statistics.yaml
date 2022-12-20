@@ -7,25 +7,25 @@ bitexts:
         size: 267
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/xml/en-pt.xml.gz
       smt phrase table:
-        size: 5539
+        size: 5763
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/smt/en-pt.zip
       source language:
-        size: 2352
+        size: 2576
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/raw/en.zip
       target language:
-        size: 2449
+        size: 2673
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/raw/pt.zip
       tokenized source language:
-        size: 2923
+        size: 3416
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/xml/en.zip
       tokenized target language:
-        size: 3099
+        size: 3591
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/xml/pt.zip
       word alignment dictionary:
         size: 152
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/dic/en-pt.dic.gz
       word alignments:
-        size: 3487
+        size: 3712
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/smt/en-pt.alg.zip
     files: 1
     source language tokens: 171
@@ -43,10 +43,10 @@ monolingual:
         size: 543
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2923
+        size: 3416
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/xml/en.zip
       xml:
-        size: 2352
+        size: 2576
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/raw/en.zip
     files: 1
     sentences: 9
@@ -63,10 +63,10 @@ monolingual:
         size: 629
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 3099
+        size: 3591
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/xml/pt.zip
       xml:
-        size: 2449
+        size: 2673
         url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/raw/pt.zip
     files: 1
     sentences: 9
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-pt:
     alignments: 10
-    download size: 2781
+    download size: 3008
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2473-do_Consumidor/v1/moses/en-pt.txt.zip
     source language tokens: 161
     target language tokens: 187

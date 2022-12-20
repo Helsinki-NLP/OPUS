@@ -7,25 +7,25 @@ bitexts:
         size: 347
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 11715
+        size: 11964
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/smt/en-ga.zip
       source language:
-        size: 3612
+        size: 3863
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/raw/en.zip
       target language:
-        size: 3889
+        size: 4138
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/raw/ga.zip
       tokenized source language:
-        size: 5489
+        size: 6051
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/xml/en.zip
       tokenized target language:
-        size: 6177
+        size: 6739
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/xml/ga.zip
       word alignment dictionary:
         size: 462
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 6100
+        size: 6350
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 576
@@ -43,10 +43,10 @@ monolingual:
         size: 1658
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/mono/en.tok.gz
       tokenized xml:
-        size: 5489
+        size: 6051
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/xml/en.zip
       xml:
-        size: 3612
+        size: 3863
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/raw/en.zip
     files: 1
     sentences: 20
@@ -63,10 +63,10 @@ monolingual:
         size: 1926
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 6177
+        size: 6739
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/xml/ga.zip
       xml:
-        size: 3889
+        size: 4138
         url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/raw/ga.zip
     files: 1
     sentences: 20
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 21
-    download size: 5317
+    download size: 5569
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2509-Comhdhil_Cumann_Idir/v1/moses/en-ga.txt.zip
     source language tokens: 487
     target language tokens: 599

@@ -7,16 +7,16 @@ bitexts:
         size: 9490
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 36860
+        size: 37242
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/raw/en.zip
       target language:
-        size: 36102
+        size: 36484
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/raw/nb.zip
       tokenized source language:
-        size: 113004
+        size: 117440
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/xml/en.zip
       tokenized target language:
-        size: 103769
+        size: 108140
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/xml/nb.zip
     files: 1
     source language tokens: 19609
@@ -34,10 +34,10 @@ monolingual:
         size: 30438
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 113004
+        size: 117440
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/xml/en.zip
       xml:
-        size: 36860
+        size: 37242
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/raw/en.zip
     files: 1
     sentences: 1318
@@ -54,10 +54,10 @@ monolingual:
         size: 29592
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 103769
+        size: 108140
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/xml/nb.zip
       xml:
-        size: 36102
+        size: 36484
         url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/raw/nb.zip
     files: 1
     sentences: 1317
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 1318
-    download size: 68058
+    download size: 68443
     download url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/moses/en-nb.txt.zip
     source language tokens: 17592
     target language tokens: 19527
 tmx:
   en-nb:
-    download size: 68379
+    download size: 68380
     download url: https://object.pouta.csc.fi/OPUS-ELRC-571-www.une.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 15679
     target language tokens: 17575

@@ -7,16 +7,16 @@ bitexts:
         size: 17561
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/xml/en-pl.xml.gz
       source language:
-        size: 50469
+        size: 50860
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/raw/en.zip
       target language:
-        size: 53205
+        size: 53599
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/raw/pl.zip
       tokenized source language:
-        size: 125763
+        size: 130413
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/xml/en.zip
       tokenized target language:
-        size: 122723
+        size: 127261
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/xml/pl.zip
     files: 1
     source language tokens: 19107
@@ -34,10 +34,10 @@ monolingual:
         size: 43774
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/mono/en.tok.gz
       tokenized xml:
-        size: 125763
+        size: 130413
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/xml/en.zip
       xml:
-        size: 50469
+        size: 50860
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/raw/en.zip
     files: 1
     sentences: 1375
@@ -54,10 +54,10 @@ monolingual:
         size: 46414
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 122723
+        size: 127261
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/xml/pl.zip
       xml:
-        size: 53205
+        size: 53599
         url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/raw/pl.zip
     files: 1
     sentences: 1354
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 1342
-    download size: 98076
+    download size: 98471
     download url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/moses/en-pl.txt.zip
     source language tokens: 15671
     target language tokens: 17600
 tmx:
   en-pl:
-    download size: 99112
+    download size: 99117
     download url: https://object.pouta.csc.fi/OPUS-ELRC-966-Institute_Mathematic/v1/tmx/en-pl.tmx.gz
     source language tokens: 15671
     target language tokens: 17600

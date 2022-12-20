@@ -7,16 +7,16 @@ bitexts:
         size: 8828
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/xml/da-en.xml.gz
       source language:
-        size: 47315
+        size: 47695
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/raw/da.zip
       target language:
-        size: 46213
+        size: 46594
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/raw/en.zip
       tokenized source language:
-        size: 126147
+        size: 130207
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/xml/da.zip
       tokenized target language:
-        size: 131674
+        size: 135820
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/xml/en.zip
     files: 1
     source language tokens: 22368
@@ -34,10 +34,10 @@ monolingual:
         size: 41463
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/mono/da.tok.gz
       tokenized xml:
-        size: 126147
+        size: 130207
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/xml/da.zip
       xml:
-        size: 47315
+        size: 47695
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/raw/da.zip
     files: 1
     sentences: 1169
@@ -54,10 +54,10 @@ monolingual:
         size: 40127
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/mono/en.tok.gz
       tokenized xml:
-        size: 131674
+        size: 135820
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/xml/en.zip
       xml:
-        size: 46213
+        size: 46594
         url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/raw/en.zip
     files: 1
     sentences: 1184
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 1138
-    download size: 88693
+    download size: 89075
     download url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/moses/da-en.txt.zip
     source language tokens: 19144
     target language tokens: 22141
 tmx:
   da-en:
-    download size: 92019
+    download size: 92023
     download url: https://object.pouta.csc.fi/OPUS-ELRC-900-Danish_Working_Envir/v1/tmx/da-en.tmx.gz
     source language tokens: 19144
     target language tokens: 22141

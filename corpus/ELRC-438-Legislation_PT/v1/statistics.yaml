@@ -7,16 +7,16 @@ bitexts:
         size: 18800
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/xml/en-pt.xml.gz
       source language:
-        size: 77636
+        size: 77991
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/raw/en.zip
       target language:
-        size: 76000
+        size: 76356
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/raw/pt.zip
       tokenized source language:
-        size: 261807
+        size: 269878
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/xml/en.zip
       tokenized target language:
-        size: 236341
+        size: 244294
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/xml/pt.zip
     files: 1
     source language tokens: 44604
@@ -34,10 +34,10 @@ monolingual:
         size: 67029
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/mono/en.tok.gz
       tokenized xml:
-        size: 261807
+        size: 269878
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/xml/en.zip
       xml:
-        size: 77636
+        size: 77991
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/raw/en.zip
     files: 1
     sentences: 2475
@@ -54,10 +54,10 @@ monolingual:
         size: 65267
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 236341
+        size: 244294
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/xml/pt.zip
       xml:
-        size: 76000
+        size: 76356
         url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/raw/pt.zip
     files: 1
     sentences: 2450
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pt:
     alignments: 2448
-    download size: 145708
+    download size: 146063
     download url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/moses/en-pt.txt.zip
     source language tokens: 39350
     target language tokens: 46610
 tmx:
   en-pt:
-    download size: 154697
+    download size: 154696
     download url: https://object.pouta.csc.fi/OPUS-ELRC-438-Legislation_PT/v1/tmx/en-pt.tmx.gz
     source language tokens: 39026
     target language tokens: 46280

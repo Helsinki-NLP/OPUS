@@ -7,16 +7,16 @@ bitexts:
         size: 6145
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/xml/en-pl.xml.gz
       source language:
-        size: 25865
+        size: 26260
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/raw/en.zip
       target language:
-        size: 28005
+        size: 28401
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/raw/pl.zip
       tokenized source language:
-        size: 70625
+        size: 72688
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/xml/en.zip
       tokenized target language:
-        size: 65837
+        size: 67893
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/xml/pl.zip
     files: 1
     source language tokens: 10038
@@ -34,10 +34,10 @@ monolingual:
         size: 22255
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/mono/en.tok.gz
       tokenized xml:
-        size: 70625
+        size: 72688
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/xml/en.zip
       xml:
-        size: 25865
+        size: 26260
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/raw/en.zip
     files: 1
     sentences: 486
@@ -54,10 +54,10 @@ monolingual:
         size: 24301
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 65837
+        size: 67893
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/xml/pl.zip
       xml:
-        size: 28005
+        size: 28401
         url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/raw/pl.zip
     files: 1
     sentences: 488
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 487
-    download size: 50446
+    download size: 50841
     download url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/moses/en-pl.txt.zip
     source language tokens: 8993
     target language tokens: 11473
 tmx:
   en-pl:
-    download size: 52752
+    download size: 52757
     download url: https://object.pouta.csc.fi/OPUS-ELRC-871-Agriculture_Rural_De/v1/tmx/en-pl.tmx.gz
     source language tokens: 8993
     target language tokens: 11473

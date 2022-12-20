@@ -7,16 +7,16 @@ bitexts:
         size: 10080
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/xml/en-pl.xml.gz
       source language:
-        size: 30559
+        size: 30956
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/raw/en.zip
       target language:
-        size: 33349
+        size: 33745
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/raw/pl.zip
       tokenized source language:
-        size: 81766
+        size: 84525
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/xml/en.zip
       tokenized target language:
-        size: 80142
+        size: 82908
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/xml/pl.zip
     files: 1
     source language tokens: 12557
@@ -34,10 +34,10 @@ monolingual:
         size: 26128
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/mono/en.tok.gz
       tokenized xml:
-        size: 81766
+        size: 84525
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/xml/en.zip
       xml:
-        size: 30559
+        size: 30956
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/raw/en.zip
     files: 1
     sentences: 740
@@ -54,10 +54,10 @@ monolingual:
         size: 28694
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 80142
+        size: 82908
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/xml/pl.zip
       xml:
-        size: 33349
+        size: 33745
         url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/raw/pl.zip
     files: 1
     sentences: 752
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 721
-    download size: 59501
+    download size: 59897
     download url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/moses/en-pl.txt.zip
     source language tokens: 10909
     target language tokens: 12890
 tmx:
   en-pl:
-    download size: 61524
+    download size: 61520
     download url: https://object.pouta.csc.fi/OPUS-ELRC-977-State_Marine_Acciden/v1/tmx/en-pl.tmx.gz
     source language tokens: 10909
     target language tokens: 12890

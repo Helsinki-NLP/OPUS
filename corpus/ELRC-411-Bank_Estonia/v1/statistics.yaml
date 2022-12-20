@@ -7,16 +7,16 @@ bitexts:
         size: 168259
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/en-et.xml.gz
       source language:
-        size: 697047
+        size: 697412
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/raw/en.zip
       target language:
-        size: 696997
+        size: 697362
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/raw/et.zip
       tokenized source language:
-        size: 2147866
+        size: 2212818
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/en.zip
       tokenized target language:
-        size: 1771448
+        size: 1834936
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/et.zip
     files: 1
     source language tokens: 280438
@@ -34,10 +34,10 @@ monolingual:
         size: 610648
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2147866
+        size: 2212818
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/en.zip
       xml:
-        size: 697047
+        size: 697412
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/raw/en.zip
     files: 1
     sentences: 22324
@@ -54,10 +54,10 @@ monolingual:
         size: 609441
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/mono/et.tok.gz
       tokenized xml:
-        size: 1771448
+        size: 1834936
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/xml/et.zip
       xml:
-        size: 696997
+        size: 697362
         url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/raw/et.zip
     files: 1
     sentences: 22325
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-et:
     alignments: 22308
-    download size: 1322614
+    download size: 1322978
     download url: https://object.pouta.csc.fi/OPUS-ELRC-411-Bank_Estonia/v1/moses/en-et.txt.zip
     source language tokens: 239403
     target language tokens: 347389

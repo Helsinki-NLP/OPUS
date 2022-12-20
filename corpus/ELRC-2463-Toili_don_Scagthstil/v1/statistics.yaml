@@ -7,25 +7,25 @@ bitexts:
         size: 391
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 6613
+        size: 6855
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/smt/en-ga.zip
       source language:
-        size: 3162
+        size: 3405
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/raw/en.zip
       target language:
-        size: 2756
+        size: 2998
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/raw/ga.zip
       tokenized source language:
-        size: 4914
+        size: 5512
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/en.zip
       tokenized target language:
-        size: 3895
+        size: 4469
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/ga.zip
       word alignment dictionary:
         size: 313
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 4037
+        size: 4280
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 332
@@ -43,10 +43,10 @@ monolingual:
         size: 1089
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/mono/en.tok.gz
       tokenized xml:
-        size: 4914
+        size: 5512
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/en.zip
       xml:
-        size: 3162
+        size: 3405
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/raw/en.zip
     files: 1
     sentences: 39
@@ -63,10 +63,10 @@ monolingual:
         size: 708
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 3895
+        size: 4469
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/xml/ga.zip
       xml:
-        size: 2756
+        size: 2998
         url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/raw/ga.zip
     files: 1
     sentences: 30
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 20
-    download size: 3607
+    download size: 3851
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/moses/en-ga.txt.zip
     source language tokens: 284
     target language tokens: 429
 tmx:
   en-ga:
-    download size: 2055
+    download size: 2056
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2463-Toili_don_Scagthstil/v1/tmx/en-ga.tmx.gz
     source language tokens: 284
     target language tokens: 429

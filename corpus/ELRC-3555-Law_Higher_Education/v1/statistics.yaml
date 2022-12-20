@@ -7,19 +7,19 @@ bitexts:
         size: 22843
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/en-pl.xml.gz
       smt phrase table:
-        size: 866635
+        size: 866636
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/smt/en-pl.zip
       source language:
-        size: 105492
+        size: 105859
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/raw/en.zip
       target language:
-        size: 104047
+        size: 104411
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/raw/pl.zip
       tokenized source language:
-        size: 350212
+        size: 360494
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/en.zip
       tokenized target language:
-        size: 289583
+        size: 298759
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/pl.zip
       word alignment dictionary:
         size: 80230
@@ -43,10 +43,10 @@ monolingual:
         size: 91173
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/mono/en.tok.gz
       tokenized xml:
-        size: 350212
+        size: 360494
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/en.zip
       xml:
-        size: 105492
+        size: 105859
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/raw/en.zip
     files: 1
     sentences: 3104
@@ -63,10 +63,10 @@ monolingual:
         size: 90919
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 289583
+        size: 298759
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/xml/pl.zip
       xml:
-        size: 104047
+        size: 104411
         url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/raw/pl.zip
     files: 1
     sentences: 2824
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 2680
-    download size: 198490
+    download size: 198852
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/moses/en-pl.txt.zip
     source language tokens: 41479
     target language tokens: 58965
 tmx:
   en-pl:
-    download size: 228531
+    download size: 228532
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3555-Law_Higher_Education/v1/tmx/en-pl.tmx.gz
     source language tokens: 41479
     target language tokens: 58965

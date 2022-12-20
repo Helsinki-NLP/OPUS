@@ -7,16 +7,16 @@ bitexts:
         size: 76590
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/xml/en-sl.xml.gz
       source language:
-        size: 230481
+        size: 230897
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/raw/en.zip
       target language:
-        size: 236436
+        size: 236852
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/raw/sl.zip
       tokenized source language:
-        size: 674800
+        size: 694312
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/xml/en.zip
       tokenized target language:
-        size: 638210
+        size: 657509
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/xml/sl.zip
     files: 1
     source language tokens: 110864
@@ -34,10 +34,10 @@ monolingual:
         size: 206317
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/mono/en.tok.gz
       tokenized xml:
-        size: 674800
+        size: 694312
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/xml/en.zip
       xml:
-        size: 230481
+        size: 230897
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/raw/en.zip
     files: 1
     sentences: 6071
@@ -54,10 +54,10 @@ monolingual:
         size: 212718
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/mono/sl.tok.gz
       tokenized xml:
-        size: 638210
+        size: 657509
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/xml/sl.zip
       xml:
-        size: 236436
+        size: 236852
         url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/raw/sl.zip
     files: 1
     sentences: 6035
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-sl:
     alignments: 5866
-    download size: 449306
+    download size: 449722
     download url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/moses/en-sl.txt.zip
     source language tokens: 90859
     target language tokens: 104096
 tmx:
   en-sl:
-    download size: 479749
+    download size: 479747
     download url: https://object.pouta.csc.fi/OPUS-ELRC-923-chapters_Youth_2010/v1/tmx/en-sl.tmx.gz
     source language tokens: 90859
     target language tokens: 104096

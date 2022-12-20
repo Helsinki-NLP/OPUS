@@ -7,16 +7,16 @@ bitexts:
         size: 453985
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/xml/en-sl.xml.gz
       source language:
-        size: 2573994
+        size: 2574372
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/raw/en.zip
       target language:
-        size: 2588313
+        size: 2588691
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/raw/sl.zip
       tokenized source language:
-        size: 8715425
+        size: 8900326
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/xml/en.zip
       tokenized target language:
-        size: 7784039
+        size: 7966626
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/xml/sl.zip
     files: 1
     source language tokens: 1416064
@@ -34,10 +34,10 @@ monolingual:
         size: 2368026
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 8715425
+        size: 8900326
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/xml/en.zip
       xml:
-        size: 2573994
+        size: 2574372
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/raw/en.zip
     files: 1
     sentences: 56300
@@ -54,10 +54,10 @@ monolingual:
         size: 2382834
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/mono/sl.tok.gz
       tokenized xml:
-        size: 7784039
+        size: 7966626
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/xml/sl.zip
       xml:
-        size: 2588313
+        size: 2588691
         url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/raw/sl.zip
     files: 1
     sentences: 56162
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-sl:
     alignments: 55185
-    download size: 4994460
+    download size: 4994837
     download url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/moses/en-sl.txt.zip
     source language tokens: 1208240
     target language tokens: 1500047
 tmx:
   en-sl:
-    download size: 5488277
+    download size: 5488278
     download url: https://object.pouta.csc.fi/OPUS-ELRC-489-Secretariat_General_/v1/tmx/en-sl.tmx.gz
     source language tokens: 1208240
     target language tokens: 1500047

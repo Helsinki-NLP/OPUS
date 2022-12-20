@@ -7,41 +7,41 @@ bitexts:
         size: 3600
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/en-ga.xml.gz
       source language:
-        size: 18972
+        size: 19217
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/raw/en.zip
       target language:
-        size: 21123
+        size: 21369
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/raw/ga.zip
       tokenized source language:
-        size: 51795
+        size: 53795
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/en.zip
       tokenized target language:
-        size: 57980
+        size: 60233
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/ga.zip
     files: 1
     source language tokens: 9279
     target language tokens: 10162
   fr-ga:
-    alignments: 1
+    alignments: 12
     downloads:
       alignments:
         size: 211
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/fr-ga.xml.gz
       source language:
-        size: 1909
+        size: 2153
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/raw/fr.zip
       target language:
-        size: 21123
+        size: 21369
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/raw/ga.zip
       tokenized source language:
-        size: 1961
+        size: 2452
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/fr.zip
       tokenized target language:
-        size: 57980
+        size: 60233
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/ga.zip
     files: 1
-    source language tokens: 12
-    target language tokens: 15
+    source language tokens: 15
+    target language tokens: ~
 monolingual:
   en:
     downloads:
@@ -55,10 +55,10 @@ monolingual:
         size: 14855
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/mono/en.tok.gz
       tokenized xml:
-        size: 51795
+        size: 53795
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/en.zip
       xml:
-        size: 18972
+        size: 19217
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/raw/en.zip
     files: 1
     sentences: 556
@@ -75,10 +75,10 @@ monolingual:
         size: 88
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 1961
+        size: 2452
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/fr.zip
       xml:
-        size: 1909
+        size: 2153
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/raw/fr.zip
     files: 1
     sentences: 2
@@ -95,10 +95,10 @@ monolingual:
         size: 16712
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 57980
+        size: 60233
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/xml/ga.zip
       xml:
-        size: 21123
+        size: 21369
         url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/raw/ga.zip
     files: 2
     sentences: 557
@@ -106,25 +106,25 @@ monolingual:
 moses:
   en-ga:
     alignments: 343
-    download size: 35542
+    download size: 35786
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/moses/en-ga.txt.zip
     source language tokens: 8199
     target language tokens: 9105
   fr-ga:
     alignments: 2
-    download size: 1793
+    download size: 2037
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/moses/fr-ga.txt.zip
     source language tokens: 9
     target language tokens: 12
 tmx:
   en-ga:
-    download size: 35760
+    download size: 35761
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/tmx/en-ga.tmx.gz
     source language tokens: 8199
     target language tokens: 9105
     translation units: 343
   fr-ga:
-    download size: 371
+    download size: 372
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5126-IRC_Early_Career/v1/tmx/fr-ga.tmx.gz
     source language tokens: 9
     target language tokens: 12

@@ -7,16 +7,16 @@ bitexts:
         size: 15565
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/en-sv.xml.gz
       source language:
-        size: 58455
+        size: 58838
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/raw/en.zip
       target language:
-        size: 58029
+        size: 58412
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/raw/sv.zip
       tokenized source language:
-        size: 167895
+        size: 174374
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/en.zip
       tokenized target language:
-        size: 150722
+        size: 157156
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/sv.zip
     files: 1
     source language tokens: 26548
@@ -34,10 +34,10 @@ monolingual:
         size: 49261
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/mono/en.tok.gz
       tokenized xml:
-        size: 167895
+        size: 174374
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/en.zip
       xml:
-        size: 58455
+        size: 58838
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/raw/en.zip
     files: 1
     sentences: 1999
@@ -54,10 +54,10 @@ monolingual:
         size: 48917
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 150722
+        size: 157156
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/xml/sv.zip
       xml:
-        size: 58029
+        size: 58412
         url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/raw/sv.zip
     files: 1
     sentences: 2000
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-sv:
     alignments: 1953
-    download size: 108878
+    download size: 109262
     download url: https://object.pouta.csc.fi/OPUS-ELRC-712-Social_Insurance_Frs/v1/moses/en-sv.txt.zip
     source language tokens: 24365
     target language tokens: 28357

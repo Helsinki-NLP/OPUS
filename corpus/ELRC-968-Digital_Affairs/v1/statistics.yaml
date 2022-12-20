@@ -7,16 +7,16 @@ bitexts:
         size: 12628
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/xml/en-pl.xml.gz
       source language:
-        size: 38780
+        size: 39166
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/raw/en.zip
       target language:
-        size: 43251
+        size: 43637
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/raw/pl.zip
       tokenized source language:
-        size: 105745
+        size: 109312
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/xml/en.zip
       tokenized target language:
-        size: 104612
+        size: 108124
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/xml/pl.zip
     files: 1
     source language tokens: 16784
@@ -34,10 +34,10 @@ monolingual:
         size: 33182
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/mono/en.tok.gz
       tokenized xml:
-        size: 105745
+        size: 109312
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/xml/en.zip
       xml:
-        size: 38780
+        size: 39166
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/raw/en.zip
     files: 1
     sentences: 1029
@@ -54,10 +54,10 @@ monolingual:
         size: 37724
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 104612
+        size: 108124
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/xml/pl.zip
       xml:
-        size: 43251
+        size: 43637
         url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/raw/pl.zip
     files: 1
     sentences: 1020
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 949
-    download size: 77374
+    download size: 77758
     download url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/moses/en-pl.txt.zip
     source language tokens: 14736
     target language tokens: 17069
 tmx:
   en-pl:
-    download size: 80960
+    download size: 80956
     download url: https://object.pouta.csc.fi/OPUS-ELRC-968-Digital_Affairs/v1/tmx/en-pl.tmx.gz
     source language tokens: 14736
     target language tokens: 17069

@@ -7,25 +7,25 @@ bitexts:
         size: 992872
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/en-nb.xml.gz
       smt phrase table:
-        size: 27245870
+        size: 27246104
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/smt/en-nb.zip
       source language:
-        size: 4652877
+        size: 4653234
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/raw/en.zip
       target language:
-        size: 4784174
+        size: 4784532
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/raw/nb.zip
       tokenized source language:
-        size: 12071734
+        size: 12483640
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/en.zip
       tokenized target language:
-        size: 9607532
+        size: 9944606
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/nb.zip
       word alignment dictionary:
         size: 893636
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/dic/en-nb.dic.gz
       word alignments:
-        size: 3741161
+        size: 3741396
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/smt/en-nb.alg.zip
     files: 1
     source language tokens: 1565653
@@ -43,10 +43,10 @@ monolingual:
         size: 4126323
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/mono/en.tok.gz
       tokenized xml:
-        size: 12071734
+        size: 12483640
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/en.zip
       xml:
-        size: 4652877
+        size: 4653234
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/raw/en.zip
     files: 1
     sentences: 130052
@@ -63,10 +63,10 @@ monolingual:
         size: 3460729
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 9607532
+        size: 9944606
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/xml/nb.zip
       xml:
-        size: 4784174
+        size: 4784532
         url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/raw/nb.zip
     files: 1
     sentences: 107103
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-nb:
     alignments: 129437
-    download size: 8941690
+    download size: 8942049
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1977-Standard_Norge/v1/moses/en-nb.txt.zip
     source language tokens: 1573665
     target language tokens: 1773505

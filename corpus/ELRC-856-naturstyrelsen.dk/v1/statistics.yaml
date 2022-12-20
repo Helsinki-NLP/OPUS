@@ -7,16 +7,16 @@ bitexts:
         size: 24665
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/da-en.xml.gz
       source language:
-        size: 130437
+        size: 130815
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/raw/da.zip
       target language:
-        size: 134372
+        size: 134749
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/raw/en.zip
       tokenized source language:
-        size: 318547
+        size: 328801
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/da.zip
       tokenized target language:
-        size: 350514
+        size: 360795
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/en.zip
     files: 1
     source language tokens: 54741
@@ -34,10 +34,10 @@ monolingual:
         size: 116714
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/mono/da.tok.gz
       tokenized xml:
-        size: 318547
+        size: 328801
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/da.zip
       xml:
-        size: 130437
+        size: 130815
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/raw/da.zip
     files: 1
     sentences: 3169
@@ -54,10 +54,10 @@ monolingual:
         size: 120505
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/mono/en.tok.gz
       tokenized xml:
-        size: 350514
+        size: 360795
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/xml/en.zip
       xml:
-        size: 134372
+        size: 134749
         url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/raw/en.zip
     files: 1
     sentences: 3174
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 3118
-    download size: 252951
+    download size: 253327
     download url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/moses/da-en.txt.zip
     source language tokens: 47649
     target language tokens: 55709
 tmx:
   da-en:
-    download size: 264555
+    download size: 264563
     download url: https://object.pouta.csc.fi/OPUS-ELRC-856-naturstyrelsen.dk/v1/tmx/da-en.tmx.gz
     source language tokens: 47649
     target language tokens: 55709

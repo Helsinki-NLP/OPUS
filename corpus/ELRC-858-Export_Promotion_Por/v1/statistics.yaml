@@ -7,16 +7,16 @@ bitexts:
         size: 55496
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/en-pl.xml.gz
       source language:
-        size: 171893
+        size: 172272
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/raw/en.zip
       target language:
-        size: 187066
+        size: 187446
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/raw/pl.zip
       tokenized source language:
-        size: 466057
+        size: 479995
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/en.zip
       tokenized target language:
-        size: 457200
+        size: 470877
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/pl.zip
     files: 1
     source language tokens: 70928
@@ -34,10 +34,10 @@ monolingual:
         size: 154181
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/mono/en.tok.gz
       tokenized xml:
-        size: 466057
+        size: 479995
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/en.zip
       xml:
-        size: 171893
+        size: 172272
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/raw/en.zip
     files: 1
     sentences: 4325
@@ -54,10 +54,10 @@ monolingual:
         size: 168846
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 457200
+        size: 470877
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/xml/pl.zip
       xml:
-        size: 187066
+        size: 187446
         url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/raw/pl.zip
     files: 1
     sentences: 4308
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-pl:
     alignments: 4242
-    download size: 345034
+    download size: 345414
     download url: https://object.pouta.csc.fi/OPUS-ELRC-858-Export_Promotion_Por/v1/moses/en-pl.txt.zip
     source language tokens: 61156
     target language tokens: 70793

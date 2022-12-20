@@ -10,22 +10,22 @@ bitexts:
         size: 294731
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/smt/en-hr.zip
       source language:
-        size: 42376
+        size: 42730
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/raw/en.zip
       target language:
-        size: 45139
+        size: 45494
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/raw/hr.zip
       tokenized source language:
-        size: 118685
+        size: 122521
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/xml/en.zip
       tokenized target language:
-        size: 118642
+        size: 122348
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/xml/hr.zip
       word alignment dictionary:
         size: 19991
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/dic/en-hr.dic.gz
       word alignments:
-        size: 65994
+        size: 65995
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/smt/en-hr.alg.zip
     files: 1
     source language tokens: 19916
@@ -43,10 +43,10 @@ monolingual:
         size: 36464
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/mono/en.tok.gz
       tokenized xml:
-        size: 118685
+        size: 122521
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/xml/en.zip
       xml:
-        size: 42376
+        size: 42730
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/raw/en.zip
     files: 1
     sentences: 1112
@@ -63,10 +63,10 @@ monolingual:
         size: 39393
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 118642
+        size: 122348
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/xml/hr.zip
       xml:
-        size: 45139
+        size: 45494
         url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/raw/hr.zip
     files: 1
     sentences: 1078
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 1070
-    download size: 82264
+    download size: 82619
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/moses/en-hr.txt.zip
     source language tokens: 17117
     target language tokens: 17970
 tmx:
   en-hr:
-    download size: 88985
+    download size: 88987
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3193-antibiotic/v1/tmx/en-hr.tmx.gz
     source language tokens: 17117
     target language tokens: 17970

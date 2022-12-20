@@ -7,25 +7,25 @@ bitexts:
         size: 5965873
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/xml/da-en.xml.gz
       smt phrase table:
-        size: 228313925
+        size: 228314205
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/smt/da-en.zip
       source language:
-        size: 30273468
+        size: 30273870
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/raw/da.zip
       target language:
-        size: 29213034
+        size: 29213435
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/raw/en.zip
       tokenized source language:
-        size: 90025336
+        size: 92542110
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/xml/da.zip
       tokenized target language:
-        size: 90345665
+        size: 92864602
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/xml/en.zip
       word alignment dictionary:
         size: 1792496
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/dic/da-en.dic.gz
       word alignments:
-        size: 40252435
+        size: 40252711
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/smt/da-en.alg.zip
     files: 1
     source language tokens: 15677888
@@ -43,10 +43,10 @@ monolingual:
         size: 27541942
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/mono/da.tok.gz
       tokenized xml:
-        size: 90025336
+        size: 92542110
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/xml/da.zip
       xml:
-        size: 30273468
+        size: 30273870
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/raw/da.zip
     files: 1
     sentences: 780711
@@ -63,10 +63,10 @@ monolingual:
         size: 26403784
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/mono/en.tok.gz
       tokenized xml:
-        size: 90345665
+        size: 92864602
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/xml/en.zip
       xml:
-        size: 29213034
+        size: 29213435
         url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/raw/en.zip
     files: 1
     sentences: 780581
@@ -74,13 +74,13 @@ monolingual:
 moses:
   da-en:
     alignments: 775676
-    download size: 57183888
+    download size: 57184290
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/moses/da-en.txt.zip
     source language tokens: 12556345
     target language tokens: 13649650
 tmx:
   da-en:
-    download size: 60743521
+    download size: 60743519
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2716-EMEA/v1/tmx/da-en.tmx.gz
     source language tokens: 12556345
     target language tokens: 13649650

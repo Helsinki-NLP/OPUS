@@ -7,16 +7,16 @@ bitexts:
         size: 133828
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/xml/cs-en.xml.gz
       source language:
-        size: 323609
+        size: 323997
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/raw/cs.zip
       target language:
-        size: 298799
+        size: 299186
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/raw/en.zip
       tokenized source language:
-        size: 856865
+        size: 907132
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/xml/cs.zip
       tokenized target language:
-        size: 862148
+        size: 910731
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/xml/en.zip
     files: 1
     source language tokens: 142459
@@ -34,10 +34,10 @@ monolingual:
         size: 246429
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/mono/cs.tok.gz
       tokenized xml:
-        size: 856865
+        size: 907132
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/xml/cs.zip
       xml:
-        size: 323609
+        size: 323997
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/raw/cs.zip
     files: 1
     sentences: 17825
@@ -54,10 +54,10 @@ monolingual:
         size: 223987
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 862148
+        size: 910731
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/xml/en.zip
       xml:
-        size: 298799
+        size: 299186
         url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/raw/en.zip
     files: 1
     sentences: 17523
@@ -65,13 +65,13 @@ monolingual:
 moses:
   cs-en:
     alignments: 17357
-    download size: 559419
+    download size: 559803
     download url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/moses/cs-en.txt.zip
     source language tokens: 117843
     target language tokens: 130574
 tmx:
   cs-en:
-    download size: 503965
+    download size: 503960
     download url: https://object.pouta.csc.fi/OPUS-ELRC-427-Electronic_Exchange_/v1/tmx/cs-en.tmx.gz
     source language tokens: 99651
     target language tokens: 111783

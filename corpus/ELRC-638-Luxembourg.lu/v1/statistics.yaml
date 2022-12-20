@@ -7,16 +7,16 @@ bitexts:
         size: 667618
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/de-en.xml.gz
       source language:
-        size: 2842042
+        size: 2842410
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/de.zip
       target language:
-        size: 2503435
+        size: 2503803
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/en.zip
       tokenized source language:
-        size: 9309630
+        size: 9598424
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/de.zip
       tokenized target language:
-        size: 8983889
+        size: 9263323
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/en.zip
     files: 1
     source language tokens: 1598447
@@ -28,16 +28,16 @@ bitexts:
         size: 686662
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/de-fr.xml.gz
       source language:
-        size: 2842042
+        size: 2842410
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/de.zip
       target language:
-        size: 2742852
+        size: 2743221
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/fr.zip
       tokenized source language:
-        size: 9309630
+        size: 9598424
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/de.zip
       tokenized target language:
-        size: 9955661
+        size: 10244379
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/fr.zip
     files: 1
     source language tokens: 1667973
@@ -49,16 +49,16 @@ bitexts:
         size: 666044
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/en-fr.xml.gz
       source language:
-        size: 2503435
+        size: 2503803
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/en.zip
       target language:
-        size: 2742852
+        size: 2743221
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/fr.zip
       tokenized source language:
-        size: 8983889
+        size: 9263323
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/en.zip
       tokenized target language:
-        size: 9955661
+        size: 10244379
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/fr.zip
     files: 1
     source language tokens: 1699262
@@ -76,10 +76,10 @@ monolingual:
         size: 2479920
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/mono/de.tok.gz
       tokenized xml:
-        size: 9309630
+        size: 9598424
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/de.zip
       xml:
-        size: 2842042
+        size: 2842410
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/de.zip
     files: 1
     sentences: 91584
@@ -96,10 +96,10 @@ monolingual:
         size: 2166976
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/mono/en.tok.gz
       tokenized xml:
-        size: 8983889
+        size: 9263323
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/en.zip
       xml:
-        size: 2503435
+        size: 2503803
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/en.zip
     files: 1
     sentences: 88236
@@ -116,10 +116,10 @@ monolingual:
         size: 2396764
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 9955661
+        size: 10244379
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/xml/fr.zip
       xml:
-        size: 2742852
+        size: 2743221
         url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/raw/fr.zip
     files: 1
     sentences: 90772
@@ -127,25 +127,25 @@ monolingual:
 moses:
   de-en:
     alignments: 86374
-    download size: 4851203
+    download size: 4851571
     download url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/moses/de-en.txt.zip
     source language tokens: 920828
     target language tokens: 998653
   de-fr:
     alignments: 89456
-    download size: 5167267
+    download size: 5167635
     download url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/moses/de-fr.txt.zip
     source language tokens: 956204
     target language tokens: 1057676
   en-fr:
     alignments: 87212
-    download size: 4777312
+    download size: 4777680
     download url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/moses/en-fr.txt.zip
     source language tokens: 1009427
     target language tokens: 1032041
 tmx:
   de-en:
-    download size: 2727341
+    download size: 2727346
     download url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/tmx/de-en.tmx.gz
     source language tokens: 460795
     target language tokens: 498804
@@ -157,7 +157,7 @@ tmx:
     target language tokens: 531464
     translation units: 37667
   en-fr:
-    download size: 2624228
+    download size: 2624231
     download url: https://object.pouta.csc.fi/OPUS-ELRC-638-Luxembourg.lu/v1/tmx/en-fr.tmx.gz
     source language tokens: 499353
     target language tokens: 510321

@@ -7,25 +7,25 @@ bitexts:
         size: 51432
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/xml/en-ro.xml.gz
       smt phrase table:
-        size: 1041725
+        size: 1041963
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/smt/en-ro.zip
       source language:
-        size: 233935
+        size: 234294
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/raw/en.zip
       target language:
-        size: 251560
+        size: 251919
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/raw/ro.zip
       tokenized source language:
-        size: 646230
+        size: 659188
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/xml/en.zip
       tokenized target language:
-        size: 646814
+        size: 659723
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/xml/ro.zip
       word alignment dictionary:
         size: 98681
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/dic/en-ro.dic.gz
       word alignments:
-        size: 352613
+        size: 352852
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/smt/en-ro.alg.zip
     files: 1
     source language tokens: 108723
@@ -43,10 +43,10 @@ monolingual:
         size: 218348
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/mono/en.tok.gz
       tokenized xml:
-        size: 646230
+        size: 659188
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/xml/en.zip
       xml:
-        size: 233935
+        size: 234294
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/raw/en.zip
     files: 1
     sentences: 3865
@@ -63,10 +63,10 @@ monolingual:
         size: 235601
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 646814
+        size: 659723
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/xml/ro.zip
       xml:
-        size: 251560
+        size: 251919
         url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/raw/ro.zip
     files: 1
     sentences: 3872
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ro:
     alignments: 3788
-    download size: 470951
+    download size: 471311
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/moses/en-ro.txt.zip
     source language tokens: 94918
     target language tokens: 101473
 tmx:
   en-ro:
-    download size: 494154
+    download size: 494151
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1815-EIR_Newsletter/v1/tmx/en-ro.tmx.gz
     source language tokens: 94918
     target language tokens: 101473

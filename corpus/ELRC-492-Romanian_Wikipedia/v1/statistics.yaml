@@ -7,16 +7,16 @@ bitexts:
         size: 1073405
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/xml/en-ro.xml.gz
       source language:
-        size: 7947617
+        size: 7947984
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/raw/en.zip
       target language:
-        size: 8572090
+        size: 8572456
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/raw/ro.zip
       tokenized source language:
-        size: 19545711
+        size: 19971673
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/xml/en.zip
       tokenized target language:
-        size: 20480384
+        size: 20928429
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/xml/ro.zip
     files: 1
     source language tokens: 3202447
@@ -34,10 +34,10 @@ monolingual:
         size: 7357713
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/mono/en.tok.gz
       tokenized xml:
-        size: 19545711
+        size: 19971673
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/xml/en.zip
       xml:
-        size: 7947617
+        size: 7947984
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/raw/en.zip
     files: 1
     sentences: 134201
@@ -54,10 +54,10 @@ monolingual:
         size: 7936749
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 20480384
+        size: 20928429
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/xml/ro.zip
       xml:
-        size: 8572090
+        size: 8572456
         url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/raw/ro.zip
     files: 1
     sentences: 140085
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ro:
     alignments: 132230
-    download size: 15947477
+    download size: 15947844
     download url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/moses/en-ro.txt.zip
     source language tokens: 3136727
     target language tokens: 3196991
 tmx:
   en-ro:
-    download size: 16019701
+    download size: 16019705
     download url: https://object.pouta.csc.fi/OPUS-ELRC-492-Romanian_Wikipedia/v1/tmx/en-ro.tmx.gz
     source language tokens: 3136615
     target language tokens: 3196875

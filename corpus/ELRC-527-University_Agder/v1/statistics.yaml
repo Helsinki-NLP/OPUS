@@ -7,16 +7,16 @@ bitexts:
         size: 7462
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/xml/en-nb.xml.gz
       source language:
-        size: 42768
+        size: 43144
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/raw/en.zip
       target language:
-        size: 43285
+        size: 43662
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/raw/nb.zip
       tokenized source language:
-        size: 110670
+        size: 114291
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/xml/en.zip
       tokenized target language:
-        size: 106204
+        size: 109843
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/xml/nb.zip
     files: 1
     source language tokens: 17793
@@ -34,10 +34,10 @@ monolingual:
         size: 37332
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/mono/en.tok.gz
       tokenized xml:
-        size: 110670
+        size: 114291
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/xml/en.zip
       xml:
-        size: 42768
+        size: 43144
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/raw/en.zip
     files: 1
     sentences: 1059
@@ -54,10 +54,10 @@ monolingual:
         size: 37961
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 106204
+        size: 109843
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/xml/nb.zip
       xml:
-        size: 43285
+        size: 43662
         url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/raw/nb.zip
     files: 1
     sentences: 1063
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 1059
-    download size: 81428
+    download size: 81807
     download url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/moses/en-nb.txt.zip
     source language tokens: 14504
     target language tokens: 16681
 tmx:
   en-nb:
-    download size: 80553
+    download size: 80555
     download url: https://object.pouta.csc.fi/OPUS-ELRC-527-University_Agder/v1/tmx/en-nb.tmx.gz
     source language tokens: 14504
     target language tokens: 16681

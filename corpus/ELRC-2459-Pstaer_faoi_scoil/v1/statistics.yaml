@@ -7,25 +7,25 @@ bitexts:
         size: 248
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 4006
+        size: 4235
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/smt/en-ga.zip
       source language:
-        size: 2097
+        size: 2327
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/raw/en.zip
       target language:
-        size: 2084
+        size: 2312
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/raw/ga.zip
       tokenized source language:
-        size: 2636
+        size: 3129
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/en.zip
       tokenized target language:
-        size: 2271
+        size: 2766
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/ga.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 3046
+        size: 3276
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 51
@@ -43,10 +43,10 @@ monolingual:
         size: 259
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2636
+        size: 3129
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/en.zip
       xml:
-        size: 2097
+        size: 2327
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/raw/en.zip
     files: 1
     sentences: 6
@@ -63,10 +63,10 @@ monolingual:
         size: 237
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 2271
+        size: 2766
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/xml/ga.zip
       xml:
-        size: 2084
+        size: 2312
         url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/raw/ga.zip
     files: 1
     sentences: 6
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 7
-    download size: 2129
+    download size: 2359
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2459-Pstaer_faoi_scoil/v1/moses/en-ga.txt.zip
     source language tokens: 46
     target language tokens: 131

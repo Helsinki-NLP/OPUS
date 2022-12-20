@@ -7,25 +7,25 @@ bitexts:
         size: 381926
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/xml/en-nb.xml.gz
       smt phrase table:
-        size: 14445568
+        size: 14445814
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/smt/en-nb.zip
       source language:
-        size: 1842272
+        size: 1842639
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/raw/en.zip
       target language:
-        size: 1880393
+        size: 1880761
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/raw/nb.zip
       tokenized source language:
-        size: 5234153
+        size: 5392333
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/xml/en.zip
       tokenized target language:
-        size: 5044378
+        size: 5206789
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/xml/nb.zip
       word alignment dictionary:
         size: 632997
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/dic/en-nb.dic.gz
       word alignments:
-        size: 2050153
+        size: 2050399
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/smt/en-nb.alg.zip
     files: 1
     source language tokens: 835833
@@ -43,10 +43,10 @@ monolingual:
         size: 1645549
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/mono/en.tok.gz
       tokenized xml:
-        size: 5234153
+        size: 5392333
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/xml/en.zip
       xml:
-        size: 1842272
+        size: 1842639
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/raw/en.zip
     files: 1
     sentences: 49461
@@ -63,10 +63,10 @@ monolingual:
         size: 1670972
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 5044378
+        size: 5206789
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/xml/nb.zip
       xml:
-        size: 1880393
+        size: 1880761
         url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/raw/nb.zip
     files: 1
     sentences: 51254
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 48995
-    download size: 3537631
+    download size: 3538002
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/moses/en-nb.txt.zip
     source language tokens: 699062
     target language tokens: 784125
 tmx:
   en-nb:
-    download size: 3839899
+    download size: 3839898
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1805-Norwegian_Bokml_Ames/v1/tmx/en-nb.tmx.gz
     source language tokens: 688808
     target language tokens: 772840

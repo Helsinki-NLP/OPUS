@@ -7,16 +7,16 @@ bitexts:
         size: 127909
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/en-et.xml.gz
       source language:
-        size: 805833
+        size: 806226
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/raw/en.zip
       target language:
-        size: 765731
+        size: 766122
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/raw/et.zip
       tokenized source language:
-        size: 2237350
+        size: 2291529
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/en.zip
       tokenized target language:
-        size: 1788712
+        size: 1841599
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/et.zip
     files: 1
     source language tokens: 286607
@@ -34,10 +34,10 @@ monolingual:
         size: 739170
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2237350
+        size: 2291529
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/en.zip
       xml:
-        size: 805833
+        size: 806226
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/raw/en.zip
     files: 1
     sentences: 16748
@@ -54,10 +54,10 @@ monolingual:
         size: 695948
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/mono/et.tok.gz
       tokenized xml:
-        size: 1788712
+        size: 1841599
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/xml/et.zip
       xml:
-        size: 765731
+        size: 766122
         url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/raw/et.zip
     files: 1
     sentences: 16779
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-et:
     alignments: 16715
-    download size: 1507915
+    download size: 1508311
     download url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/moses/en-et.txt.zip
     source language tokens: 248213
     target language tokens: 364175
 tmx:
   en-et:
-    download size: 1621235
+    download size: 1621234
     download url: https://object.pouta.csc.fi/OPUS-ELRC-937-vp1992_2001.presiden/v1/tmx/en-et.tmx.gz
     source language tokens: 248213
     target language tokens: 364175

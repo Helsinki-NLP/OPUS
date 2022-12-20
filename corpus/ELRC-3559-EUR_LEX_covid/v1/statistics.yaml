@@ -10,22 +10,22 @@ bitexts:
         size: 7368490
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/smt/en-fi.zip
       source language:
-        size: 1122583
+        size: 1122937
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/raw/en.zip
       target language:
-        size: 1207678
+        size: 1208035
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/raw/fi.zip
       tokenized source language:
-        size: 3682730
+        size: 3754376
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/xml/en.zip
       tokenized target language:
-        size: 3107124
+        size: 3176884
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/xml/fi.zip
       word alignment dictionary:
         size: 489661
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/dic/en-fi.dic.gz
       word alignments:
-        size: 1905252
+        size: 1905251
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/smt/en-fi.alg.zip
     files: 1
     source language tokens: 492612
@@ -43,10 +43,10 @@ monolingual:
         size: 1042985
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 3682730
+        size: 3754376
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/xml/en.zip
       xml:
-        size: 1122583
+        size: 1122937
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/raw/en.zip
     files: 1
     sentences: 21909
@@ -63,10 +63,10 @@ monolingual:
         size: 1128212
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/mono/fi.tok.gz
       tokenized xml:
-        size: 3107124
+        size: 3176884
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/xml/fi.zip
       xml:
-        size: 1207678
+        size: 1208035
         url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/raw/fi.zip
     files: 1
     sentences: 21747
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-fi:
     alignments: 21742
-    download size: 2271634
+    download size: 2271991
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/moses/en-fi.txt.zip
     source language tokens: 421145
     target language tokens: 600853
 tmx:
   en-fi:
-    download size: 2592143
+    download size: 2592140
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3559-EUR_LEX_covid/v1/tmx/en-fi.tmx.gz
     source language tokens: 421145
     target language tokens: 600853

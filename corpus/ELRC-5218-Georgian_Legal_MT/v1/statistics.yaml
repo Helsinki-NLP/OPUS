@@ -7,16 +7,16 @@ bitexts:
         size: 7553
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/en-ka.xml.gz
       source language:
-        size: 70689
+        size: 70815
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/raw/en.zip
       target language:
-        size: 92339
+        size: 92466
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/raw/ka.zip
       tokenized source language:
-        size: 166067
+        size: 169518
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/en.zip
       tokenized target language:
-        size: 166414
+        size: 169774
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/ka.zip
     files: 1
     source language tokens: 21545
@@ -34,10 +34,10 @@ monolingual:
         size: 64552
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/mono/en.tok.gz
       tokenized xml:
-        size: 166067
+        size: 169518
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/en.zip
       xml:
-        size: 70689
+        size: 70815
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/raw/en.zip
     files: 1
     sentences: 1022
@@ -54,10 +54,10 @@ monolingual:
         size: 86758
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/mono/ka.tok.gz
       tokenized xml:
-        size: 166414
+        size: 169774
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/xml/ka.zip
       xml:
-        size: 92339
+        size: 92466
         url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/raw/ka.zip
     files: 1
     sentences: 1010
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-ka:
     alignments: 1001
-    download size: 157505
+    download size: 157632
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5218-Georgian_Legal_MT/v1/moses/en-ka.txt.zip
     source language tokens: 16950
     target language tokens: 23061

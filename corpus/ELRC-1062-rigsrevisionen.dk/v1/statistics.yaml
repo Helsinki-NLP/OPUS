@@ -7,25 +7,25 @@ bitexts:
         size: 63275
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/xml/da-en.xml.gz
       smt phrase table:
-        size: 2089617
+        size: 2089872
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/smt/da-en.zip
       source language:
-        size: 356227
+        size: 356601
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/raw/da.zip
       target language:
-        size: 360111
+        size: 360485
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/raw/en.zip
       tokenized source language:
-        size: 961334
+        size: 987691
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/xml/da.zip
       tokenized target language:
-        size: 1047187
+        size: 1073882
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/xml/en.zip
       word alignment dictionary:
         size: 99378
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/dic/da-en.dic.gz
       word alignments:
-        size: 570200
+        size: 570455
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/smt/da-en.alg.zip
     files: 1
     source language tokens: 168742
@@ -43,10 +43,10 @@ monolingual:
         size: 323046
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/mono/da.tok.gz
       tokenized xml:
-        size: 961334
+        size: 987691
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/xml/da.zip
       xml:
-        size: 356227
+        size: 356601
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/raw/da.zip
     files: 1
     sentences: 8252
@@ -63,10 +63,10 @@ monolingual:
         size: 327098
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1047187
+        size: 1073882
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/xml/en.zip
       xml:
-        size: 360111
+        size: 360485
         url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/raw/en.zip
     files: 1
     sentences: 8325
@@ -74,13 +74,13 @@ monolingual:
 moses:
   da-en:
     alignments: 8234
-    download size: 685906
+    download size: 686281
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/moses/da-en.txt.zip
     source language tokens: 144719
     target language tokens: 173246
 tmx:
   da-en:
-    download size: 754240
+    download size: 754242
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1062-rigsrevisionen.dk/v1/tmx/da-en.tmx.gz
     source language tokens: 144719
     target language tokens: 173246

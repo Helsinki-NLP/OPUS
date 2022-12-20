@@ -7,25 +7,25 @@ bitexts:
         size: 786
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/xml/el-en.xml.gz
       smt phrase table:
-        size: 20058
+        size: 20305
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/smt/el-en.zip
       source language:
-        size: 5647
+        size: 6017
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/raw/el.zip
       target language:
-        size: 4681
+        size: 5050
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/raw/en.zip
       tokenized source language:
-        size: 8909
+        size: 9652
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/xml/el.zip
       tokenized target language:
-        size: 8341
+        size: 9087
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/xml/en.zip
       word alignment dictionary:
         size: 1068
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/dic/el-en.dic.gz
       word alignments:
-        size: 8334
+        size: 8581
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/smt/el-en.alg.zip
     files: 1
     source language tokens: 987
@@ -43,10 +43,10 @@ monolingual:
         size: 3488
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/mono/el.tok.gz
       tokenized xml:
-        size: 8909
+        size: 9652
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/xml/el.zip
       xml:
-        size: 5647
+        size: 6017
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/raw/el.zip
     files: 1
     sentences: 46
@@ -63,10 +63,10 @@ monolingual:
         size: 2557
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/mono/en.tok.gz
       tokenized xml:
-        size: 8341
+        size: 9087
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/xml/en.zip
       xml:
-        size: 4681
+        size: 5050
         url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/raw/en.zip
     files: 1
     sentences: 46
@@ -74,13 +74,13 @@ monolingual:
 moses:
   el-en:
     alignments: 38
-    download size: 7923
+    download size: 8293
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/moses/el-en.txt.zip
     source language tokens: 879
     target language tokens: 990
 tmx:
   el-en:
-    download size: 6796
+    download size: 6795
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1022-COMPULSORY_EXPROPRIA/v1/tmx/el-en.tmx.gz
     source language tokens: 879
     target language tokens: 990

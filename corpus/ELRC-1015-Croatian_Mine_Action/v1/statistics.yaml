@@ -7,25 +7,25 @@ bitexts:
         size: 264295
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/xml/en-hr.xml.gz
       smt phrase table:
-        size: 3962352
+        size: 3962597
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/smt/en-hr.zip
       source language:
-        size: 705137
+        size: 705503
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/raw/en.zip
       target language:
-        size: 749116
+        size: 749483
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/raw/hr.zip
       tokenized source language:
-        size: 1982038
+        size: 2038180
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/xml/en.zip
       tokenized target language:
-        size: 1965462
+        size: 2022748
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/xml/hr.zip
       word alignment dictionary:
         size: 221964
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/dic/en-hr.dic.gz
       word alignments:
-        size: 1087499
+        size: 1087745
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/smt/en-hr.alg.zip
     files: 1
     source language tokens: 319558
@@ -43,10 +43,10 @@ monolingual:
         size: 632224
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1982038
+        size: 2038180
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/xml/en.zip
       xml:
-        size: 705137
+        size: 705503
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/raw/en.zip
     files: 1
     sentences: 17931
@@ -63,10 +63,10 @@ monolingual:
         size: 671197
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 1965462
+        size: 2022748
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/xml/hr.zip
       xml:
-        size: 749116
+        size: 749483
         url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/raw/hr.zip
     files: 1
     sentences: 18366
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 17602
-    download size: 1386382
+    download size: 1386747
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/moses/en-hr.txt.zip
     source language tokens: 271980
     target language tokens: 310448
 tmx:
   en-hr:
-    download size: 1449306
+    download size: 1449305
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1015-Croatian_Mine_Action/v1/tmx/en-hr.tmx.gz
     source language tokens: 259778
     target language tokens: 297858

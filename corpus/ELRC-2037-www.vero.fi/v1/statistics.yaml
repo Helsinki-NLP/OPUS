@@ -7,25 +7,25 @@ bitexts:
         size: 169576
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/xml/en-sv.xml.gz
       smt phrase table:
-        size: 4816742
+        size: 4816995
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/smt/en-sv.zip
       source language:
-        size: 795284
+        size: 795657
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/raw/en.zip
       target language:
-        size: 795741
+        size: 796114
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/raw/sv.zip
       tokenized source language:
-        size: 2337007
+        size: 2407926
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/xml/en.zip
       tokenized target language:
-        size: 2030937
+        size: 2100829
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/xml/sv.zip
       word alignment dictionary:
         size: 210422
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/dic/en-sv.dic.gz
       word alignments:
-        size: 1212553
+        size: 1212806
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/smt/en-sv.alg.zip
     files: 1
     source language tokens: 345286
@@ -43,10 +43,10 @@ monolingual:
         size: 709387
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2337007
+        size: 2407926
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/xml/en.zip
       xml:
-        size: 795284
+        size: 795657
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/raw/en.zip
     files: 1
     sentences: 22374
@@ -63,10 +63,10 @@ monolingual:
         size: 711946
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 2030937
+        size: 2100829
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/xml/sv.zip
       xml:
-        size: 795741
+        size: 796114
         url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/raw/sv.zip
     files: 1
     sentences: 22402
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-sv:
     alignments: 22317
-    download size: 1520368
+    download size: 1520743
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2037-www.vero.fi/v1/moses/en-sv.txt.zip
     source language tokens: 314268
     target language tokens: 394628

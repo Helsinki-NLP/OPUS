@@ -7,16 +7,16 @@ bitexts:
         size: 29876
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/xml/en-pl.xml.gz
       source language:
-        size: 181639
+        size: 182018
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/raw/en.zip
       target language:
-        size: 198321
+        size: 198699
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/raw/pl.zip
       tokenized source language:
-        size: 552257
+        size: 564935
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/xml/en.zip
       tokenized target language:
-        size: 517985
+        size: 530579
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/xml/pl.zip
     files: 1
     source language tokens: 85411
@@ -34,10 +34,10 @@ monolingual:
         size: 165950
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 552257
+        size: 564935
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/xml/en.zip
       xml:
-        size: 181639
+        size: 182018
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/raw/en.zip
     files: 1
     sentences: 3820
@@ -54,10 +54,10 @@ monolingual:
         size: 181563
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 517985
+        size: 530579
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/xml/pl.zip
       xml:
-        size: 198321
+        size: 198699
         url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/raw/pl.zip
     files: 1
     sentences: 3857
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 3639
-    download size: 366311
+    download size: 366691
     download url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/moses/en-pl.txt.zip
     source language tokens: 75336
     target language tokens: 92500
 tmx:
   en-pl:
-    download size: 397991
+    download size: 397996
     download url: https://object.pouta.csc.fi/OPUS-ELRC-799-Financial_Stability_/v1/tmx/en-pl.tmx.gz
     source language tokens: 74516
     target language tokens: 91500

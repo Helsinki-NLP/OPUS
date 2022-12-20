@@ -7,16 +7,16 @@ bitexts:
         size: 15346
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/xml/en-pl.xml.gz
       source language:
-        size: 87642
+        size: 88004
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/raw/en.zip
       target language:
-        size: 96044
+        size: 96405
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/raw/pl.zip
       tokenized source language:
-        size: 300047
+        size: 306947
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/xml/en.zip
       tokenized target language:
-        size: 285647
+        size: 291927
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/xml/pl.zip
     files: 1
     source language tokens: 50447
@@ -34,10 +34,10 @@ monolingual:
         size: 78510
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/mono/en.tok.gz
       tokenized xml:
-        size: 300047
+        size: 306947
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/xml/en.zip
       xml:
-        size: 87642
+        size: 88004
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/raw/en.zip
     files: 1
     sentences: 2027
@@ -54,10 +54,10 @@ monolingual:
         size: 87632
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 285647
+        size: 291927
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/xml/pl.zip
       xml:
-        size: 96044
+        size: 96405
         url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/raw/pl.zip
     files: 1
     sentences: 1847
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-pl:
     alignments: 1579
-    download size: 177006
+    download size: 177367
     download url: https://object.pouta.csc.fi/OPUS-ELRC-486-Procurement_1/v1/moses/en-pl.txt.zip
     source language tokens: 43019
     target language tokens: 50611

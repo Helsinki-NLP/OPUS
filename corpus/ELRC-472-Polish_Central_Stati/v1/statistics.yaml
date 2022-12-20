@@ -7,16 +7,16 @@ bitexts:
         size: 14921
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/en-pl.xml.gz
       source language:
-        size: 107506
+        size: 107876
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/raw/en.zip
       target language:
-        size: 118547
+        size: 118917
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/raw/pl.zip
       tokenized source language:
-        size: 330170
+        size: 336619
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/en.zip
       tokenized target language:
-        size: 322352
+        size: 328980
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/pl.zip
     files: 1
     source language tokens: 55653
@@ -34,10 +34,10 @@ monolingual:
         size: 98661
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/mono/en.tok.gz
       tokenized xml:
-        size: 330170
+        size: 336619
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/en.zip
       xml:
-        size: 107506
+        size: 107876
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/raw/en.zip
     files: 1
     sentences: 1859
@@ -54,10 +54,10 @@ monolingual:
         size: 109145
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 322352
+        size: 328980
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/xml/pl.zip
       xml:
-        size: 118547
+        size: 118917
         url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/raw/pl.zip
     files: 1
     sentences: 1962
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 1533
-    download size: 217793
+    download size: 218163
     download url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/moses/en-pl.txt.zip
     source language tokens: 46823
     target language tokens: 54097
 tmx:
   en-pl:
-    download size: 227991
+    download size: 227997
     download url: https://object.pouta.csc.fi/OPUS-ELRC-472-Polish_Central_Stati/v1/tmx/en-pl.tmx.gz
     source language tokens: 46752
     target language tokens: 54018

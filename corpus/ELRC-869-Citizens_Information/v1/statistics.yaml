@@ -7,16 +7,16 @@ bitexts:
         size: 27147
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/xml/en-pl.xml.gz
       source language:
-        size: 75364
+        size: 75742
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/raw/en.zip
       target language:
-        size: 92693
+        size: 93072
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/raw/pl.zip
       tokenized source language:
-        size: 217025
+        size: 224044
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/xml/en.zip
       tokenized target language:
-        size: 231124
+        size: 238123
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/xml/pl.zip
     files: 1
     source language tokens: 37794
@@ -34,10 +34,10 @@ monolingual:
         size: 66167
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/mono/en.tok.gz
       tokenized xml:
-        size: 217025
+        size: 224044
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/xml/en.zip
       xml:
-        size: 75364
+        size: 75742
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/raw/en.zip
     files: 1
     sentences: 2113
@@ -54,10 +54,10 @@ monolingual:
         size: 83163
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 231124
+        size: 238123
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/xml/pl.zip
       xml:
-        size: 92693
+        size: 93072
         url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/raw/pl.zip
     files: 1
     sentences: 2113
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 2106
-    download size: 161161
+    download size: 161540
     download url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/moses/en-pl.txt.zip
     source language tokens: 33505
     target language tokens: 36637
 tmx:
   en-pl:
-    download size: 173590
+    download size: 173591
     download url: https://object.pouta.csc.fi/OPUS-ELRC-869-Citizens_Information/v1/tmx/en-pl.tmx.gz
     source language tokens: 33505
     target language tokens: 36637

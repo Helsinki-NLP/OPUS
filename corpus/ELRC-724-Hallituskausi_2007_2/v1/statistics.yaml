@@ -7,16 +7,16 @@ bitexts:
         size: 420685
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/en-fi.xml.gz
       source language:
-        size: 2524364
+        size: 2524737
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/raw/en.zip
       target language:
-        size: 2435254
+        size: 2435626
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/raw/fi.zip
       tokenized source language:
-        size: 6834031
+        size: 7011815
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/en.zip
       tokenized target language:
-        size: 5157240
+        size: 5328562
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/fi.zip
     files: 1
     source language tokens: 755652
@@ -34,10 +34,10 @@ monolingual:
         size: 2305086
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/mono/en.tok.gz
       tokenized xml:
-        size: 6834031
+        size: 7011815
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/en.zip
       xml:
-        size: 2524364
+        size: 2524737
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/raw/en.zip
     files: 1
     sentences: 55702
@@ -54,10 +54,10 @@ monolingual:
         size: 2205264
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/mono/fi.tok.gz
       tokenized xml:
-        size: 5157240
+        size: 5328562
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/xml/fi.zip
       xml:
-        size: 2435254
+        size: 2435626
         url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/raw/fi.zip
     files: 1
     sentences: 55450
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-fi:
     alignments: 53844
-    download size: 4768992
+    download size: 4769362
     download url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/moses/en-fi.txt.zip
     source language tokens: 665172
     target language tokens: 1084607
 tmx:
   en-fi:
-    download size: 5235566
+    download size: 5235563
     download url: https://object.pouta.csc.fi/OPUS-ELRC-724-Hallituskausi_2007_2/v1/tmx/en-fi.tmx.gz
     source language tokens: 665172
     target language tokens: 1084607

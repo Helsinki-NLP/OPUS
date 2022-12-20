@@ -7,25 +7,25 @@ bitexts:
         size: 5654
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/xml/en-lv.xml.gz
       smt phrase table:
-        size: 196990
+        size: 196989
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/smt/en-lv.zip
       source language:
-        size: 29967
+        size: 30325
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/raw/en.zip
       target language:
-        size: 30938
+        size: 31295
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/raw/lv.zip
       tokenized source language:
-        size: 82534
+        size: 85503
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/xml/en.zip
       tokenized target language:
-        size: 73232
+        size: 76153
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/xml/lv.zip
       word alignment dictionary:
         size: 18660
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/dic/en-lv.dic.gz
       word alignments:
-        size: 47733
+        size: 47734
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/smt/en-lv.alg.zip
     files: 1
     source language tokens: 11572
@@ -43,10 +43,10 @@ monolingual:
         size: 25552
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/mono/en.tok.gz
       tokenized xml:
-        size: 82534
+        size: 85503
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/xml/en.zip
       xml:
-        size: 29967
+        size: 30325
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/raw/en.zip
     files: 1
     sentences: 825
@@ -63,10 +63,10 @@ monolingual:
         size: 26394
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/mono/lv.tok.gz
       tokenized xml:
-        size: 73232
+        size: 76153
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/xml/lv.zip
       xml:
-        size: 30938
+        size: 31295
         url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/raw/lv.zip
     files: 1
     sentences: 837
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-lv:
     alignments: 826
-    download size: 57096
+    download size: 57455
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/moses/en-lv.txt.zip
     source language tokens: 9825
     target language tokens: 13060
 tmx:
   en-lv:
-    download size: 60264
+    download size: 60263
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3453-covid19.gov.lv/v1/tmx/en-lv.tmx.gz
     source language tokens: 9825
     target language tokens: 13060

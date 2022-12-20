@@ -7,16 +7,16 @@ bitexts:
         size: 3203
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/xml/de-pt.xml.gz
       source language:
-        size: 19478
+        size: 19863
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/raw/de.zip
       target language:
-        size: 19997
+        size: 20382
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/raw/pt.zip
       tokenized source language:
-        size: 40867
+        size: 42673
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/xml/de.zip
       tokenized target language:
-        size: 47312
+        size: 49144
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/xml/pt.zip
     files: 1
     source language tokens: 6198
@@ -34,10 +34,10 @@ monolingual:
         size: 15995
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/mono/de.tok.gz
       tokenized xml:
-        size: 40867
+        size: 42673
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/xml/de.zip
       xml:
-        size: 19478
+        size: 19863
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/raw/de.zip
     files: 1
     sentences: 419
@@ -54,10 +54,10 @@ monolingual:
         size: 16493
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 47312
+        size: 49144
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/xml/pt.zip
       xml:
-        size: 19997
+        size: 20382
         url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/raw/pt.zip
     files: 1
     sentences: 418
@@ -65,13 +65,13 @@ monolingual:
 moses:
   de-pt:
     alignments: 416
-    download size: 36076
+    download size: 36459
     download url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/moses/de-pt.txt.zip
     source language tokens: 5501
     target language tokens: 7133
 tmx:
   de-pt:
-    download size: 35917
+    download size: 35918
     download url: https://object.pouta.csc.fi/OPUS-ELRC-640-Federal_Foreign_Berl/v1/tmx/de-pt.tmx.gz
     source language tokens: 5501
     target language tokens: 7133

@@ -7,16 +7,16 @@ bitexts:
         size: 56905
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/xml/en-pl.xml.gz
       source language:
-        size: 364044
+        size: 364400
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/raw/en.zip
       target language:
-        size: 425610
+        size: 425966
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/raw/pl.zip
       tokenized source language:
-        size: 1051474
+        size: 1075298
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/xml/en.zip
       tokenized target language:
-        size: 1104571
+        size: 1128861
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/xml/pl.zip
     files: 1
     source language tokens: 178890
@@ -34,10 +34,10 @@ monolingual:
         size: 335556
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1051474
+        size: 1075298
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/xml/en.zip
       xml:
-        size: 364044
+        size: 364400
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/raw/en.zip
     files: 1
     sentences: 7330
@@ -54,10 +54,10 @@ monolingual:
         size: 394171
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 1104571
+        size: 1128861
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/xml/pl.zip
       xml:
-        size: 425610
+        size: 425966
         url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/raw/pl.zip
     files: 1
     sentences: 7500
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-pl:
     alignments: 7301
-    download size: 763322
+    download size: 763679
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3616-presscorner_covid/v1/moses/en-pl.txt.zip
     source language tokens: 160108
     target language tokens: 170196

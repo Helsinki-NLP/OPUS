@@ -7,16 +7,16 @@ bitexts:
         size: 179029
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/xml/bg-en.xml.gz
       source language:
-        size: 926418
+        size: 926857
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/raw/bg.zip
       target language:
-        size: 695941
+        size: 696378
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/raw/en.zip
       tokenized source language:
-        size: 2311006
+        size: 2358223
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/xml/bg.zip
       tokenized target language:
-        size: 1969038
+        size: 2016132
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/xml/en.zip
     files: 1
     source language tokens: 354698
@@ -34,10 +34,10 @@ monolingual:
         size: 877459
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 2311006
+        size: 2358223
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/xml/bg.zip
       xml:
-        size: 926418
+        size: 926857
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/raw/bg.zip
     files: 1
     sentences: 14470
@@ -54,10 +54,10 @@ monolingual:
         size: 642147
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1969038
+        size: 2016132
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/xml/en.zip
       xml:
-        size: 695941
+        size: 696378
         url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/raw/en.zip
     files: 1
     sentences: 14495
@@ -65,7 +65,7 @@ monolingual:
 moses:
   bg-en:
     alignments: 14196
-    download size: 1584506
+    download size: 1584945
     download url: https://object.pouta.csc.fi/OPUS-ELRC-913-2018_Proposal_a/v1/moses/bg-en.txt.zip
     source language tokens: 312337
     target language tokens: 324772

@@ -7,25 +7,25 @@ bitexts:
         size: 73532
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/xml/bg-en.xml.gz
       smt phrase table:
-        size: 1611384
+        size: 1611644
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/smt/bg-en.zip
       source language:
-        size: 222692
+        size: 223074
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/raw/bg.zip
       target language:
-        size: 185026
+        size: 185408
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/raw/en.zip
       tokenized source language:
-        size: 667751
+        size: 692430
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/xml/bg.zip
       tokenized target language:
-        size: 659354
+        size: 677726
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/xml/en.zip
       word alignment dictionary:
         size: 64942
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/dic/bg-en.dic.gz
       word alignments:
-        size: 356087
+        size: 356348
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/smt/bg-en.alg.zip
     files: 1
     source language tokens: 120890
@@ -43,10 +43,10 @@ monolingual:
         size: 188935
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 667751
+        size: 692430
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/xml/bg.zip
       xml:
-        size: 222692
+        size: 223074
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/raw/bg.zip
     files: 1
     sentences: 7981
@@ -63,10 +63,10 @@ monolingual:
         size: 161327
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/mono/en.tok.gz
       tokenized xml:
-        size: 659354
+        size: 677726
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/xml/en.zip
       xml:
-        size: 185026
+        size: 185408
         url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/raw/en.zip
     files: 1
     sentences: 5662
@@ -74,13 +74,13 @@ monolingual:
 moses:
   bg-en:
     alignments: 4610
-    download size: 384462
+    download size: 384842
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/moses/bg-en.txt.zip
     source language tokens: 96246
     target language tokens: 108852
 tmx:
   bg-en:
-    download size: 419439
+    download size: 419443
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1000-legislation_Bulgaria/v1/tmx/bg-en.tmx.gz
     source language tokens: 96246
     target language tokens: 108852

@@ -7,16 +7,16 @@ bitexts:
         size: 15122
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/da-en.xml.gz
       source language:
-        size: 104477
+        size: 104858
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/raw/da.zip
       target language:
-        size: 101943
+        size: 102322
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/raw/en.zip
       tokenized source language:
-        size: 259967
+        size: 266552
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/da.zip
       tokenized target language:
-        size: 265442
+        size: 272073
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/en.zip
     files: 1
     source language tokens: 43665
@@ -34,10 +34,10 @@ monolingual:
         size: 95749
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/mono/da.tok.gz
       tokenized xml:
-        size: 259967
+        size: 266552
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/da.zip
       xml:
-        size: 104477
+        size: 104858
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/raw/da.zip
     files: 1
     sentences: 1941
@@ -54,10 +54,10 @@ monolingual:
         size: 93207
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/mono/en.tok.gz
       tokenized xml:
-        size: 265442
+        size: 272073
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/xml/en.zip
       xml:
-        size: 101943
+        size: 102322
         url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/raw/en.zip
     files: 1
     sentences: 1945
@@ -65,7 +65,7 @@ monolingual:
 moses:
   da-en:
     alignments: 1940
-    download size: 199064
+    download size: 199445
     download url: https://object.pouta.csc.fi/OPUS-ELRC-897-Denmark_Space_Instit/v1/moses/da-en.txt.zip
     source language tokens: 37834
     target language tokens: 41090

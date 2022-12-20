@@ -7,16 +7,16 @@ bitexts:
         size: 50365
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 211226
+        size: 211598
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/raw/en.zip
       target language:
-        size: 215109
+        size: 215481
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/raw/nb.zip
       tokenized source language:
-        size: 628277
+        size: 649357
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/xml/en.zip
       tokenized target language:
-        size: 603483
+        size: 624441
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/xml/nb.zip
     files: 1
     source language tokens: 111460
@@ -34,10 +34,10 @@ monolingual:
         size: 186852
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 628277
+        size: 649357
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/xml/en.zip
       xml:
-        size: 211226
+        size: 211598
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/raw/en.zip
     files: 1
     sentences: 6653
@@ -54,10 +54,10 @@ monolingual:
         size: 190563
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 603483
+        size: 624441
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/xml/nb.zip
       xml:
-        size: 215109
+        size: 215481
         url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/raw/nb.zip
     files: 1
     sentences: 6659
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 6603
-    download size: 406440
+    download size: 406815
     download url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/moses/en-nb.txt.zip
     source language tokens: 86561
     target language tokens: 98703
 tmx:
   en-nb:
-    download size: 431791
+    download size: 431795
     download url: https://object.pouta.csc.fi/OPUS-ELRC-519-www.ssb.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 86561
     target language tokens: 98703

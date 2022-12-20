@@ -7,16 +7,16 @@ bitexts:
         size: 21618
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/xml/en-pl.xml.gz
       source language:
-        size: 121844
+        size: 122218
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/raw/en.zip
       target language:
-        size: 133292
+        size: 133667
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/raw/pl.zip
       tokenized source language:
-        size: 369826
+        size: 378756
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/xml/en.zip
       tokenized target language:
-        size: 348583
+        size: 357391
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/xml/pl.zip
     files: 1
     source language tokens: 57108
@@ -34,10 +34,10 @@ monolingual:
         size: 109615
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/mono/en.tok.gz
       tokenized xml:
-        size: 369826
+        size: 378756
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/xml/en.zip
       xml:
-        size: 121844
+        size: 122218
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/raw/en.zip
     files: 1
     sentences: 2722
@@ -54,10 +54,10 @@ monolingual:
         size: 119445
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 348583
+        size: 357391
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/xml/pl.zip
       xml:
-        size: 133292
+        size: 133667
         url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/raw/pl.zip
     files: 1
     sentences: 2726
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 2224
-    download size: 243419
+    download size: 243792
     download url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/moses/en-pl.txt.zip
     source language tokens: 49464
     target language tokens: 60245
 tmx:
   en-pl:
-    download size: 259127
+    download size: 259134
     download url: https://object.pouta.csc.fi/OPUS-ELRC-482-Polish_Foreign_Affai/v1/tmx/en-pl.tmx.gz
     source language tokens: 48745
     target language tokens: 59389

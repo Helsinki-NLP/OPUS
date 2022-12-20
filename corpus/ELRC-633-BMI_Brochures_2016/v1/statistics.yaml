@@ -7,16 +7,16 @@ bitexts:
         size: 8791
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/xml/de-en.xml.gz
       source language:
-        size: 52172
+        size: 52536
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/raw/de.zip
       target language:
-        size: 46698
+        size: 47061
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/raw/en.zip
       tokenized source language:
-        size: 120538
+        size: 124527
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/xml/de.zip
       tokenized target language:
-        size: 122738
+        size: 126861
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/xml/en.zip
     files: 1
     source language tokens: 19212
@@ -34,10 +34,10 @@ monolingual:
         size: 46017
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/mono/de.tok.gz
       tokenized xml:
-        size: 120538
+        size: 124527
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/xml/de.zip
       xml:
-        size: 52172
+        size: 52536
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/raw/de.zip
     files: 1
     sentences: 1169
@@ -54,10 +54,10 @@ monolingual:
         size: 40446
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/mono/en.tok.gz
       tokenized xml:
-        size: 122738
+        size: 126861
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/xml/en.zip
       xml:
-        size: 46698
+        size: 47061
         url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/raw/en.zip
     files: 1
     sentences: 1203
@@ -65,7 +65,7 @@ monolingual:
 moses:
   de-en:
     alignments: 1156
-    download size: 93565
+    download size: 93929
     download url: https://object.pouta.csc.fi/OPUS-ELRC-633-BMI_Brochures_2016/v1/moses/de-en.txt.zip
     source language tokens: 16994
     target language tokens: 19233

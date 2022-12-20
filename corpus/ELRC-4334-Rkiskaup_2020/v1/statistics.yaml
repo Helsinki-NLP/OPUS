@@ -7,16 +7,16 @@ bitexts:
         size: 77597
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/en-is.xml.gz
       source language:
-        size: 145263
+        size: 145635
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/raw/en.zip
       target language:
-        size: 163531
+        size: 163901
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/raw/is.zip
       tokenized source language:
-        size: 430326
+        size: 459240
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/en.zip
       tokenized target language:
-        size: 445186
+        size: 474018
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/is.zip
     files: 1
     source language tokens: 80431
@@ -34,10 +34,10 @@ monolingual:
         size: 109721
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/mono/en.tok.gz
       tokenized xml:
-        size: 430326
+        size: 459240
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/en.zip
       xml:
-        size: 145263
+        size: 145635
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/raw/en.zip
     files: 1
     sentences: 10275
@@ -54,10 +54,10 @@ monolingual:
         size: 126998
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/mono/is.tok.gz
       tokenized xml:
-        size: 445186
+        size: 474018
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/xml/is.zip
       xml:
-        size: 163531
+        size: 163901
         url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/raw/is.zip
     files: 1
     sentences: 10247
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-is:
     alignments: 10236
-    download size: 290793
+    download size: 291163
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4334-Rkiskaup_2020/v1/moses/en-is.txt.zip
     source language tokens: 69642
     target language tokens: 70638

@@ -7,16 +7,16 @@ bitexts:
         size: 958
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/xml/en-ga.xml.gz
       source language:
-        size: 8669
+        size: 8925
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/raw/en.zip
       target language:
-        size: 9644
+        size: 9903
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/raw/ga.zip
       tokenized source language:
-        size: 17716
+        size: 18533
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/xml/en.zip
       tokenized target language:
-        size: 21026
+        size: 21853
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/xml/ga.zip
     files: 1
     source language tokens: 2670
@@ -34,10 +34,10 @@ monolingual:
         size: 6193
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/mono/en.tok.gz
       tokenized xml:
-        size: 17716
+        size: 18533
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/xml/en.zip
       xml:
-        size: 8669
+        size: 8925
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/raw/en.zip
     files: 1
     sentences: 112
@@ -54,10 +54,10 @@ monolingual:
         size: 7165
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 21026
+        size: 21853
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/xml/ga.zip
       xml:
-        size: 9644
+        size: 9903
         url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/raw/ga.zip
     files: 1
     sentences: 114
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 107
-    download size: 15631
+    download size: 15892
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/moses/en-ga.txt.zip
     source language tokens: 2371
     target language tokens: 2974
 tmx:
   en-ga:
-    download size: 13912
+    download size: 13911
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5137-Preasritis__Choliste/v1/tmx/en-ga.tmx.gz
     source language tokens: 2371
     target language tokens: 2974

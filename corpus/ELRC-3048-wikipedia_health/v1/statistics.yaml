@@ -7,25 +7,25 @@ bitexts:
         size: 1887
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/xml/en-th.xml.gz
       smt phrase table:
-        size: 102533
+        size: 102534
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/smt/en-th.zip
       source language:
-        size: 18714
+        size: 19072
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/raw/en.zip
       target language:
-        size: 29662
+        size: 30020
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/raw/th.zip
       tokenized source language:
-        size: 43599
+        size: 44901
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/xml/en.zip
       tokenized target language:
-        size: 67793
+        size: 69113
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/xml/th.zip
       word alignment dictionary:
         size: 1738
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/dic/en-th.dic.gz
       word alignments:
-        size: 29533
+        size: 29534
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/smt/en-th.alg.zip
     files: 1
     source language tokens: 7034
@@ -43,10 +43,10 @@ monolingual:
         size: 16007
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/mono/en.tok.gz
       tokenized xml:
-        size: 43599
+        size: 44901
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/xml/en.zip
       xml:
-        size: 18714
+        size: 19072
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/raw/en.zip
     files: 1
     sentences: 237
@@ -63,10 +63,10 @@ monolingual:
         size: 27607
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/mono/th.tok.gz
       tokenized xml:
-        size: 67793
+        size: 69113
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/xml/th.zip
       xml:
-        size: 29662
+        size: 30020
         url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/raw/th.zip
     files: 1
     sentences: 237
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-th:
     alignments: 237
-    download size: 45620
+    download size: 45980
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/moses/en-th.txt.zip
     source language tokens: 2252
     target language tokens: 5913
 tmx:
   en-th:
-    download size: 46638
+    download size: 46642
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3048-wikipedia_health/v1/tmx/en-th.tmx.gz
     source language tokens: 2252
     target language tokens: 5913

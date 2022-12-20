@@ -7,16 +7,16 @@ bitexts:
         size: 7497
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/en-is.xml.gz
       source language:
-        size: 30077
+        size: 30447
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/raw/en.zip
       target language:
-        size: 31678
+        size: 32049
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/raw/is.zip
       tokenized source language:
-        size: 73072
+        size: 75421
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/en.zip
       tokenized target language:
-        size: 69760
+        size: 72008
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/is.zip
     files: 1
     source language tokens: 10842
@@ -34,10 +34,10 @@ monolingual:
         size: 26224
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/mono/en.tok.gz
       tokenized xml:
-        size: 73072
+        size: 75421
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/en.zip
       xml:
-        size: 30077
+        size: 30447
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/raw/en.zip
     files: 1
     sentences: 605
@@ -54,10 +54,10 @@ monolingual:
         size: 27960
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/mono/is.tok.gz
       tokenized xml:
-        size: 69760
+        size: 72008
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/xml/is.zip
       xml:
-        size: 31678
+        size: 32049
         url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/raw/is.zip
     files: 1
     sentences: 577
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-is:
     alignments: 577
-    download size: 58381
+    download size: 58751
     download url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/moses/en-is.txt.zip
     source language tokens: 9516
     target language tokens: 10837
 tmx:
   en-is:
-    download size: 58136
+    download size: 58134
     download url: https://object.pouta.csc.fi/OPUS-ELRC-509-Gallery_Iceland/v1/tmx/en-is.tmx.gz
     source language tokens: 9516
     target language tokens: 10837

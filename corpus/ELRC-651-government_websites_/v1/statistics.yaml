@@ -7,16 +7,16 @@ bitexts:
         size: 275199
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/xml/en-hr.xml.gz
       source language:
-        size: 981192
+        size: 981556
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/raw/en.zip
       target language:
-        size: 1031428
+        size: 1031791
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/raw/hr.zip
       tokenized source language:
-        size: 2759487
+        size: 2829189
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/xml/en.zip
       tokenized target language:
-        size: 2658223
+        size: 2727906
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/xml/hr.zip
     files: 1
     source language tokens: 445703
@@ -34,10 +34,10 @@ monolingual:
         size: 901762
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2759487
+        size: 2829189
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/xml/en.zip
       xml:
-        size: 981192
+        size: 981556
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/raw/en.zip
     files: 1
     sentences: 21614
@@ -54,10 +54,10 @@ monolingual:
         size: 948801
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 2658223
+        size: 2727906
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/xml/hr.zip
       xml:
-        size: 1031428
+        size: 1031791
         url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/raw/hr.zip
     files: 1
     sentences: 21819
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 21341
-    download size: 1946668
+    download size: 1947033
     download url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/moses/en-hr.txt.zip
     source language tokens: 380988
     target language tokens: 441059
 tmx:
   en-hr:
-    download size: 2072120
+    download size: 2072123
     download url: https://object.pouta.csc.fi/OPUS-ELRC-651-government_websites_/v1/tmx/en-hr.tmx.gz
     source language tokens: 380988
     target language tokens: 441059

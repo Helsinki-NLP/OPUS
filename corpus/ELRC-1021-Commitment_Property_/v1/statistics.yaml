@@ -7,25 +7,25 @@ bitexts:
         size: 610
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/xml/el-en.xml.gz
       smt phrase table:
-        size: 8884
+        size: 9122
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/smt/el-en.zip
       source language:
-        size: 3379
+        size: 3739
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/raw/el.zip
       target language:
-        size: 2771
+        size: 3132
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/raw/en.zip
       tokenized source language:
-        size: 4483
+        size: 5159
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/xml/el.zip
       tokenized target language:
-        size: 3671
+        size: 4343
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/xml/en.zip
       word alignment dictionary:
         size: 380
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/dic/el-en.dic.gz
       word alignments:
-        size: 4183
+        size: 4421
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/smt/el-en.alg.zip
     files: 1
     source language tokens: 269
@@ -43,10 +43,10 @@ monolingual:
         size: 1370
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/mono/el.tok.gz
       tokenized xml:
-        size: 4483
+        size: 5159
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/xml/el.zip
       xml:
-        size: 3379
+        size: 3739
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/raw/el.zip
     files: 1
     sentences: 22
@@ -63,10 +63,10 @@ monolingual:
         size: 777
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 3671
+        size: 4343
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/xml/en.zip
       xml:
-        size: 2771
+        size: 3132
         url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/raw/en.zip
     files: 1
     sentences: 22
@@ -74,13 +74,13 @@ monolingual:
 moses:
   el-en:
     alignments: 23
-    download size: 3925
+    download size: 4285
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/moses/el-en.txt.zip
     source language tokens: 238
     target language tokens: 298
 tmx:
   el-en:
-    download size: 2561
+    download size: 2562
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1021-Commitment_Property_/v1/tmx/el-en.tmx.gz
     source language tokens: 238
     target language tokens: 298

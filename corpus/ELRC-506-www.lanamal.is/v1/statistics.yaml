@@ -7,16 +7,16 @@ bitexts:
         size: 8688
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/xml/en-is.xml.gz
       source language:
-        size: 44544
+        size: 44935
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/raw/en.zip
       target language:
-        size: 45971
+        size: 46363
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/raw/is.zip
       tokenized source language:
-        size: 127997
+        size: 132047
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/xml/en.zip
       tokenized target language:
-        size: 116651
+        size: 120626
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/xml/is.zip
     files: 1
     source language tokens: 19584
@@ -34,10 +34,10 @@ monolingual:
         size: 38083
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/mono/en.tok.gz
       tokenized xml:
-        size: 127997
+        size: 132047
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/xml/en.zip
       xml:
-        size: 44544
+        size: 44935
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/raw/en.zip
     files: 1
     sentences: 1168
@@ -54,10 +54,10 @@ monolingual:
         size: 38439
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/mono/is.tok.gz
       tokenized xml:
-        size: 116651
+        size: 120626
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/xml/is.zip
       xml:
-        size: 45971
+        size: 46363
         url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/raw/is.zip
     files: 1
     sentences: 1158
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-is:
     alignments: 1140
-    download size: 83618
+    download size: 84011
     download url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/moses/en-is.txt.zip
     source language tokens: 17855
     target language tokens: 21009
 tmx:
   en-is:
-    download size: 93885
+    download size: 93887
     download url: https://object.pouta.csc.fi/OPUS-ELRC-506-www.lanamal.is/v1/tmx/en-is.tmx.gz
     source language tokens: 17855
     target language tokens: 21009

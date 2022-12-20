@@ -7,16 +7,16 @@ bitexts:
         size: 1455
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/xml/en-ga.xml.gz
       source language:
-        size: 8688
+        size: 8937
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/raw/en.zip
       target language:
-        size: 9483
+        size: 9732
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/raw/ga.zip
       tokenized source language:
-        size: 23090
+        size: 24111
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/xml/en.zip
       tokenized target language:
-        size: 24095
+        size: 25113
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/xml/ga.zip
     files: 1
     source language tokens: 4080
@@ -34,10 +34,10 @@ monolingual:
         size: 6135
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/mono/en.tok.gz
       tokenized xml:
-        size: 23090
+        size: 24111
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/xml/en.zip
       xml:
-        size: 8688
+        size: 8937
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/raw/en.zip
     files: 1
     sentences: 191
@@ -54,10 +54,10 @@ monolingual:
         size: 6873
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 24095
+        size: 25113
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/xml/ga.zip
       xml:
-        size: 9483
+        size: 9732
         url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/raw/ga.zip
     files: 1
     sentences: 192
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 160
-    download size: 15497
+    download size: 15746
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/moses/en-ga.txt.zip
     source language tokens: 3575
     target language tokens: 3579
 tmx:
   en-ga:
-    download size: 14330
+    download size: 14331
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5144-Iarracht_ar_Threoir/v1/tmx/en-ga.tmx.gz
     source language tokens: 3575
     target language tokens: 3579

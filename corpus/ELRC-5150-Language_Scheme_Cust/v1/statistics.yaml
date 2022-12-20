@@ -7,16 +7,16 @@ bitexts:
         size: 3618
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/xml/en-ga.xml.gz
       source language:
-        size: 16774
+        size: 17154
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/raw/en.zip
       target language:
-        size: 18247
+        size: 18628
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/raw/ga.zip
       tokenized source language:
-        size: 44715
+        size: 46758
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/xml/en.zip
       tokenized target language:
-        size: 49009
+        size: 51060
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/xml/ga.zip
     files: 1
     source language tokens: 7649
@@ -34,10 +34,10 @@ monolingual:
         size: 13093
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/mono/en.tok.gz
       tokenized xml:
-        size: 44715
+        size: 46758
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/xml/en.zip
       xml:
-        size: 16774
+        size: 17154
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/raw/en.zip
     files: 1
     sentences: 499
@@ -54,10 +54,10 @@ monolingual:
         size: 14588
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 49009
+        size: 51060
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/xml/ga.zip
       xml:
-        size: 18247
+        size: 18628
         url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/raw/ga.zip
     files: 1
     sentences: 499
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 500
-    download size: 31579
+    download size: 31961
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/moses/en-ga.txt.zip
     source language tokens: 6388
     target language tokens: 7119
 tmx:
   en-ga:
-    download size: 32679
+    download size: 32680
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5150-Language_Scheme_Cust/v1/tmx/en-ga.tmx.gz
     source language tokens: 6356
     target language tokens: 7089

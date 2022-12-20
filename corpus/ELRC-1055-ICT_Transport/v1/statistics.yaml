@@ -7,25 +7,25 @@ bitexts:
         size: 30170
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/xml/bg-en.xml.gz
       smt phrase table:
-        size: 659545
+        size: 659799
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/smt/bg-en.zip
       source language:
-        size: 136116
+        size: 136492
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/raw/bg.zip
       target language:
-        size: 108339
+        size: 108713
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/raw/en.zip
       tokenized source language:
-        size: 327085
+        size: 335199
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/xml/bg.zip
       tokenized target language:
-        size: 294347
+        size: 302319
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/xml/en.zip
       word alignment dictionary:
         size: 52591
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/dic/bg-en.dic.gz
       word alignments:
-        size: 151699
+        size: 151950
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/smt/bg-en.alg.zip
     files: 1
     source language tokens: 52564
@@ -43,10 +43,10 @@ monolingual:
         size: 126194
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 327085
+        size: 335199
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/xml/bg.zip
       xml:
-        size: 136116
+        size: 136492
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/raw/bg.zip
     files: 1
     sentences: 2426
@@ -63,10 +63,10 @@ monolingual:
         size: 98117
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/mono/en.tok.gz
       tokenized xml:
-        size: 294347
+        size: 302319
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/xml/en.zip
       xml:
-        size: 108339
+        size: 108713
         url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/raw/en.zip
     files: 1
     sentences: 2396
@@ -74,13 +74,13 @@ monolingual:
 moses:
   bg-en:
     alignments: 2377
-    download size: 236908
+    download size: 237283
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/moses/bg-en.txt.zip
     source language tokens: 45651
     target language tokens: 47045
 tmx:
   bg-en:
-    download size: 259892
+    download size: 259890
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1055-ICT_Transport/v1/tmx/bg-en.tmx.gz
     source language tokens: 45651
     target language tokens: 47045

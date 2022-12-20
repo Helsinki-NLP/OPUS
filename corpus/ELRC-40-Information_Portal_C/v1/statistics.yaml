@@ -7,16 +7,16 @@ bitexts:
         size: 24451
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/xml/cs-en.xml.gz
       source language:
-        size: 82196
+        size: 82566
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/raw/cs.zip
       target language:
-        size: 81712
+        size: 82083
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/raw/en.zip
       tokenized source language:
-        size: 188197
+        size: 194305
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/xml/cs.zip
       tokenized target language:
-        size: 217970
+        size: 224221
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/xml/en.zip
     files: 1
     source language tokens: 29288
@@ -34,10 +34,10 @@ monolingual:
         size: 73232
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/mono/cs.tok.gz
       tokenized xml:
-        size: 188197
+        size: 194305
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/xml/cs.zip
       xml:
-        size: 82196
+        size: 82566
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/raw/cs.zip
     files: 1
     sentences: 1865
@@ -54,10 +54,10 @@ monolingual:
         size: 73454
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/mono/en.tok.gz
       tokenized xml:
-        size: 217970
+        size: 224221
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/xml/en.zip
       xml:
-        size: 81712
+        size: 82083
         url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/raw/en.zip
     files: 1
     sentences: 1856
@@ -65,13 +65,13 @@ monolingual:
 moses:
   cs-en:
     alignments: 1828
-    download size: 157063
+    download size: 157433
     download url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/moses/cs-en.txt.zip
     source language tokens: 25214
     target language tokens: 34902
 tmx:
   cs-en:
-    download size: 165997
+    download size: 166001
     download url: https://object.pouta.csc.fi/OPUS-ELRC-40-Information_Portal_C/v1/tmx/cs-en.tmx.gz
     source language tokens: 25214
     target language tokens: 34902

@@ -7,16 +7,16 @@ bitexts:
         size: 36289
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/xml/en-sk.xml.gz
       source language:
-        size: 104918
+        size: 105307
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/raw/en.zip
       target language:
-        size: 113850
+        size: 114238
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/raw/sk.zip
       tokenized source language:
-        size: 349933
+        size: 359777
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/xml/en.zip
       tokenized target language:
-        size: 323881
+        size: 334200
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/xml/sk.zip
     files: 1
     source language tokens: 56570
@@ -34,10 +34,10 @@ monolingual:
         size: 92129
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/mono/en.tok.gz
       tokenized xml:
-        size: 349933
+        size: 359777
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/xml/en.zip
       xml:
-        size: 104918
+        size: 105307
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/raw/en.zip
     files: 1
     sentences: 3019
@@ -54,10 +54,10 @@ monolingual:
         size: 98869
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/mono/sk.tok.gz
       tokenized xml:
-        size: 323881
+        size: 334200
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/xml/sk.zip
       xml:
-        size: 113850
+        size: 114238
         url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/raw/sk.zip
     files: 1
     sentences: 3221
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-sk:
     alignments: 2610
-    download size: 207903
+    download size: 208292
     download url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/moses/en-sk.txt.zip
     source language tokens: 56452
     target language tokens: 68483
 tmx:
   en-sk:
-    download size: 218794
+    download size: 218793
     download url: https://object.pouta.csc.fi/OPUS-ELRC-487-Culture_Slovak/v1/tmx/en-sk.tmx.gz
     source language tokens: 55913
     target language tokens: 67845

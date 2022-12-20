@@ -7,16 +7,16 @@ bitexts:
         size: 9821
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/xml/en-ga.xml.gz
       source language:
-        size: 48625
+        size: 48873
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/raw/en.zip
       target language:
-        size: 52994
+        size: 53242
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/raw/ga.zip
       tokenized source language:
-        size: 133963
+        size: 138322
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/xml/en.zip
       tokenized target language:
-        size: 150442
+        size: 154887
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/xml/ga.zip
     files: 1
     source language tokens: 24323
@@ -34,10 +34,10 @@ monolingual:
         size: 41775
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/mono/en.tok.gz
       tokenized xml:
-        size: 133963
+        size: 138322
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/xml/en.zip
       xml:
-        size: 48625
+        size: 48873
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/raw/en.zip
     files: 1
     sentences: 1309
@@ -54,10 +54,10 @@ monolingual:
         size: 46061
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 150442
+        size: 154887
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/xml/ga.zip
       xml:
-        size: 52994
+        size: 53242
         url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/raw/ga.zip
     files: 1
     sentences: 1316
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 1136
-    download size: 95749
+    download size: 95997
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/moses/en-ga.txt.zip
     source language tokens: 21727
     target language tokens: 24270
 tmx:
   en-ga:
-    download size: 101834
+    download size: 101831
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5086-Intellectual_Propert/v1/tmx/en-ga.tmx.gz
     source language tokens: 21727
     target language tokens: 24270

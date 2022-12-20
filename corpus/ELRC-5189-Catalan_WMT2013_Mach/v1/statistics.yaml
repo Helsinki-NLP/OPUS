@@ -7,16 +7,16 @@ bitexts:
         size: 23356
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/ca-en.xml.gz
       source language:
-        size: 152187
+        size: 152315
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/raw/ca.zip
       target language:
-        size: 143897
+        size: 144024
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/raw/en.zip
       tokenized source language:
-        size: 397763
+        size: 407651
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/ca.zip
       tokenized target language:
-        size: 366728
+        size: 376500
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/en.zip
     files: 1
     source language tokens: 64808
@@ -34,10 +34,10 @@ monolingual:
         size: 138266
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/mono/ca.tok.gz
       tokenized xml:
-        size: 397763
+        size: 407651
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/ca.zip
       xml:
-        size: 152187
+        size: 152315
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/raw/ca.zip
     files: 1
     sentences: 3042
@@ -54,10 +54,10 @@ monolingual:
         size: 130367
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/mono/en.tok.gz
       tokenized xml:
-        size: 366728
+        size: 376500
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/xml/en.zip
       xml:
-        size: 143897
+        size: 144024
         url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/raw/en.zip
     files: 1
     sentences: 3027
@@ -65,7 +65,7 @@ monolingual:
 moses:
   ca-en:
     alignments: 3001
-    download size: 284381
+    download size: 284507
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5189-Catalan_WMT2013_Mach/v1/moses/ca-en.txt.zip
     source language tokens: 56089
     target language tokens: 59340

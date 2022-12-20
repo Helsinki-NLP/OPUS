@@ -7,16 +7,16 @@ bitexts:
         size: 8094
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/xml/da-en.xml.gz
       source language:
-        size: 34346
+        size: 34727
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/raw/da.zip
       target language:
-        size: 35194
+        size: 35574
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/raw/en.zip
       tokenized source language:
-        size: 102238
+        size: 106216
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/xml/da.zip
       tokenized target language:
-        size: 111073
+        size: 115079
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/xml/en.zip
     files: 1
     source language tokens: 19456
@@ -34,10 +34,10 @@ monolingual:
         size: 28616
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/mono/da.tok.gz
       tokenized xml:
-        size: 102238
+        size: 106216
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/xml/da.zip
       xml:
-        size: 34346
+        size: 34727
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/raw/da.zip
     files: 1
     sentences: 1162
@@ -54,10 +54,10 @@ monolingual:
         size: 29436
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 111073
+        size: 115079
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/xml/en.zip
       xml:
-        size: 35194
+        size: 35574
         url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/raw/en.zip
     files: 1
     sentences: 1164
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 1163
-    download size: 65287
+    download size: 65666
     download url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/moses/da-en.txt.zip
     source language tokens: 16867
     target language tokens: 19436
 tmx:
   da-en:
-    download size: 70294
+    download size: 70291
     download url: https://object.pouta.csc.fi/OPUS-ELRC-901-Denmark_Prosecution_/v1/tmx/da-en.tmx.gz
     source language tokens: 16867
     target language tokens: 19436

@@ -7,16 +7,16 @@ bitexts:
         size: 56939
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/en-ga.xml.gz
       source language:
-        size: 332512
+        size: 332767
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/raw/en.zip
       target language:
-        size: 373833
+        size: 374088
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/raw/ga.zip
       tokenized source language:
-        size: 902255
+        size: 926186
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/en.zip
       tokenized target language:
-        size: 1034315
+        size: 1058558
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/ga.zip
     files: 1
     source language tokens: 158304
@@ -34,10 +34,10 @@ monolingual:
         size: 299743
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/mono/en.tok.gz
       tokenized xml:
-        size: 902255
+        size: 926186
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/en.zip
       xml:
-        size: 332512
+        size: 332767
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/raw/en.zip
     files: 1
     sentences: 7469
@@ -54,10 +54,10 @@ monolingual:
         size: 341663
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 1034315
+        size: 1058558
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/xml/ga.zip
       xml:
-        size: 373833
+        size: 374088
         url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/raw/ga.zip
     files: 1
     sentences: 7502
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 6589
-    download size: 676855
+    download size: 677109
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/moses/en-ga.txt.zip
     source language tokens: 145682
     target language tokens: 166104
 tmx:
   en-ga:
-    download size: 747343
+    download size: 747339
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5060-A_mix_annual/v1/tmx/en-ga.tmx.gz
     source language tokens: 145682
     target language tokens: 166104

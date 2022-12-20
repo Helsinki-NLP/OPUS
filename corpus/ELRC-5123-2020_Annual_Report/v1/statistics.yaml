@@ -7,41 +7,41 @@ bitexts:
         size: 6377
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/en-ga.xml.gz
       source language:
-        size: 30895
+        size: 31151
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/raw/en.zip
       target language:
-        size: 33895
+        size: 34150
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/raw/ga.zip
       tokenized source language:
-        size: 77383
+        size: 80554
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/en.zip
       tokenized target language:
-        size: 84807
+        size: 88077
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/ga.zip
     files: 2
     source language tokens: 13218
     target language tokens: 14281
   fr-ga:
-    alignments: 1
+    alignments: 28
     downloads:
       alignments:
         size: 207
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/fr-ga.xml.gz
       source language:
-        size: 1999
+        size: 2253
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/raw/fr.zip
       target language:
-        size: 33895
+        size: 34150
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/raw/ga.zip
       tokenized source language:
-        size: 2083
+        size: 2586
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/fr.zip
       tokenized target language:
-        size: 84807
+        size: 88077
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/ga.zip
     files: 1
-    source language tokens: 28
-    target language tokens: 30
+    source language tokens: 30
+    target language tokens: ~
 monolingual:
   en:
     downloads:
@@ -55,10 +55,10 @@ monolingual:
         size: 25495
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/mono/en.tok.gz
       tokenized xml:
-        size: 77383
+        size: 80554
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/en.zip
       xml:
-        size: 30895
+        size: 31151
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/raw/en.zip
     files: 2
     sentences: 896
@@ -75,14 +75,14 @@ monolingual:
         size: 149
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 2083
+        size: 2586
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/fr.zip
       xml:
-        size: 1999
+        size: 2253
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/raw/fr.zip
     files: 1
-    sentences: 1
-    tokens: 28
+    sentences: 28
+    tokens: ~
   ga:
     downloads:
       frequency list:
@@ -95,10 +95,10 @@ monolingual:
         size: 28289
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 84807
+        size: 88077
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/xml/ga.zip
       xml:
-        size: 33895
+        size: 34150
         url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/raw/ga.zip
     files: 2
     sentences: 916
@@ -106,13 +106,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 767
-    download size: 59343
+    download size: 59597
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/moses/en-ga.txt.zip
     source language tokens: 11837
     target language tokens: 12803
   fr-ga:
     alignments: 2
-    download size: 1919
+    download size: 2173
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5123-2020_Annual_Report/v1/moses/fr-ga.txt.zip
     source language tokens: 28
     target language tokens: 30

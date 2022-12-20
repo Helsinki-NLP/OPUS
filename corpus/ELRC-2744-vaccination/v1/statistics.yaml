@@ -7,19 +7,19 @@ bitexts:
         size: 3684
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/xml/en-hu.xml.gz
       smt phrase table:
-        size: 135726
+        size: 135727
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/smt/en-hu.zip
       source language:
-        size: 19658
+        size: 20014
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/raw/en.zip
       target language:
-        size: 23631
+        size: 23988
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/raw/hu.zip
       tokenized source language:
-        size: 52285
+        size: 54361
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/xml/en.zip
       tokenized target language:
-        size: 57543
+        size: 59609
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/xml/hu.zip
       word alignment dictionary:
         size: 8738
@@ -43,10 +43,10 @@ monolingual:
         size: 16077
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/mono/en.tok.gz
       tokenized xml:
-        size: 52285
+        size: 54361
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/xml/en.zip
       xml:
-        size: 19658
+        size: 20014
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/raw/en.zip
     files: 1
     sentences: 518
@@ -63,10 +63,10 @@ monolingual:
         size: 19950
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/mono/hu.tok.gz
       tokenized xml:
-        size: 57543
+        size: 59609
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/xml/hu.zip
       xml:
-        size: 23631
+        size: 23988
         url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/raw/hu.zip
     files: 1
     sentences: 519
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-hu:
     alignments: 518
-    download size: 39983
+    download size: 40341
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2744-vaccination/v1/moses/en-hu.txt.zip
     source language tokens: 7479
     target language tokens: 7940

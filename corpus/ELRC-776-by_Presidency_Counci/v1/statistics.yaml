@@ -7,16 +7,16 @@ bitexts:
         size: 35918
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/xml/de-en.xml.gz
       source language:
-        size: 309493
+        size: 309879
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/raw/de.zip
       target language:
-        size: 260947
+        size: 261333
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/raw/en.zip
       tokenized source language:
-        size: 816104
+        size: 832050
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/xml/de.zip
       tokenized target language:
-        size: 759227
+        size: 774743
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/xml/en.zip
     files: 1
     source language tokens: 137896
@@ -34,10 +34,10 @@ monolingual:
         size: 289863
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/mono/de.tok.gz
       tokenized xml:
-        size: 816104
+        size: 832050
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/xml/de.zip
       xml:
-        size: 309493
+        size: 309879
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/raw/de.zip
     files: 1
     sentences: 4783
@@ -54,10 +54,10 @@ monolingual:
         size: 242220
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/mono/en.tok.gz
       tokenized xml:
-        size: 759227
+        size: 774743
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/xml/en.zip
       xml:
-        size: 260947
+        size: 261333
         url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/raw/en.zip
     files: 1
     sentences: 4637
@@ -65,13 +65,13 @@ monolingual:
 moses:
   de-en:
     alignments: 4550
-    download size: 553994
+    download size: 554381
     download url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/moses/de-en.txt.zip
     source language tokens: 118150
     target language tokens: 121154
 tmx:
   de-en:
-    download size: 598750
+    download size: 598747
     download url: https://object.pouta.csc.fi/OPUS-ELRC-776-by_Presidency_Counci/v1/tmx/de-en.tmx.gz
     source language tokens: 118083
     target language tokens: 121088

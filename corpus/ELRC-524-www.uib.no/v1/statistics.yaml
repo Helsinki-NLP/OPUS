@@ -7,16 +7,16 @@ bitexts:
         size: 19371
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 105454
+        size: 105834
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/raw/en.zip
       target language:
-        size: 107822
+        size: 108202
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/raw/nb.zip
       tokenized source language:
-        size: 257878
+        size: 266092
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/xml/en.zip
       tokenized target language:
-        size: 253350
+        size: 261504
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/xml/nb.zip
     files: 1
     source language tokens: 40575
@@ -34,10 +34,10 @@ monolingual:
         size: 94570
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 257878
+        size: 266092
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/xml/en.zip
       xml:
-        size: 105454
+        size: 105834
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/raw/en.zip
     files: 1
     sentences: 2534
@@ -54,10 +54,10 @@ monolingual:
         size: 96886
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 253350
+        size: 261504
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/xml/nb.zip
       xml:
-        size: 107822
+        size: 108202
         url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/raw/nb.zip
     files: 1
     sentences: 2536
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 2495
-    download size: 203609
+    download size: 203992
     download url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/moses/en-nb.txt.zip
     source language tokens: 33610
     target language tokens: 37125
 tmx:
   en-nb:
-    download size: 198543
+    download size: 198542
     download url: https://object.pouta.csc.fi/OPUS-ELRC-524-www.uib.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 33610
     target language tokens: 37125

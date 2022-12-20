@@ -7,16 +7,16 @@ bitexts:
         size: 6855
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/xml/en-pl.xml.gz
       source language:
-        size: 30305
+        size: 30689
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/raw/en.zip
       target language:
-        size: 33212
+        size: 33597
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/raw/pl.zip
       tokenized source language:
-        size: 77128
+        size: 79395
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/xml/en.zip
       tokenized target language:
-        size: 73587
+        size: 75809
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/xml/pl.zip
     files: 1
     source language tokens: 11231
@@ -34,10 +34,10 @@ monolingual:
         size: 26666
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/mono/en.tok.gz
       tokenized xml:
-        size: 77128
+        size: 79395
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/xml/en.zip
       xml:
-        size: 30305
+        size: 30689
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/raw/en.zip
     files: 1
     sentences: 559
@@ -54,10 +54,10 @@ monolingual:
         size: 29282
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 73587
+        size: 75809
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/xml/pl.zip
       xml:
-        size: 33212
+        size: 33597
         url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/raw/pl.zip
     files: 1
     sentences: 560
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 555
-    download size: 59914
+    download size: 60299
     download url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/moses/en-pl.txt.zip
     source language tokens: 9882
     target language tokens: 11993
 tmx:
   en-pl:
-    download size: 62271
+    download size: 62273
     download url: https://object.pouta.csc.fi/OPUS-ELRC-880-Foreign_Affairs/v1/tmx/en-pl.tmx.gz
     source language tokens: 9882
     target language tokens: 11993

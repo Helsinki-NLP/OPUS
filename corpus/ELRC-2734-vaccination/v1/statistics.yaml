@@ -7,25 +7,25 @@ bitexts:
         size: 3764
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/xml/en-pl.xml.gz
       smt phrase table:
-        size: 129258
+        size: 129259
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/smt/en-pl.zip
       source language:
-        size: 19805
+        size: 20163
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/raw/en.zip
       target language:
-        size: 22803
+        size: 23160
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/raw/pl.zip
       tokenized source language:
-        size: 51419
+        size: 53489
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/xml/en.zip
       tokenized target language:
-        size: 53605
+        size: 55644
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/xml/pl.zip
       word alignment dictionary:
         size: 10093
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/dic/en-pl.dic.gz
       word alignments:
-        size: 31053
+        size: 31054
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/smt/en-pl.alg.zip
     files: 1
     source language tokens: 8417
@@ -43,10 +43,10 @@ monolingual:
         size: 16074
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/mono/en.tok.gz
       tokenized xml:
-        size: 51419
+        size: 53489
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/xml/en.zip
       xml:
-        size: 19805
+        size: 20163
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/raw/en.zip
     files: 1
     sentences: 515
@@ -63,10 +63,10 @@ monolingual:
         size: 19163
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 53605
+        size: 55644
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/xml/pl.zip
       xml:
-        size: 22803
+        size: 23160
         url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/raw/pl.zip
     files: 1
     sentences: 516
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 515
-    download size: 38999
+    download size: 39359
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/moses/en-pl.txt.zip
     source language tokens: 7194
     target language tokens: 7776
 tmx:
   en-pl:
-    download size: 41627
+    download size: 41628
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2734-vaccination/v1/tmx/en-pl.tmx.gz
     source language tokens: 7194
     target language tokens: 7776

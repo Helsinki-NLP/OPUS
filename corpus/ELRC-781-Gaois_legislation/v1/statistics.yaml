@@ -7,16 +7,16 @@ bitexts:
         size: 631450
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/en-ga.xml.gz
       source language:
-        size: 1796841
+        size: 1797211
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/raw/en.zip
       target language:
-        size: 1961512
+        size: 1961883
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/raw/ga.zip
       tokenized source language:
-        size: 6477734
+        size: 6727761
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/en.zip
       tokenized target language:
-        size: 6832519
+        size: 7092259
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/ga.zip
     files: 1
     source language tokens: 1324063
@@ -34,10 +34,10 @@ monolingual:
         size: 1505182
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/mono/en.tok.gz
       tokenized xml:
-        size: 6477734
+        size: 6727761
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/en.zip
       xml:
-        size: 1796841
+        size: 1797211
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/raw/en.zip
     files: 1
     sentences: 81816
@@ -54,10 +54,10 @@ monolingual:
         size: 1645644
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 6832519
+        size: 7092259
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/xml/ga.zip
       xml:
-        size: 1961512
+        size: 1961883
         url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/raw/ga.zip
     files: 1
     sentences: 85144
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 81518
-    download size: 3561267
+    download size: 3561638
     download url: https://object.pouta.csc.fi/OPUS-ELRC-781-Gaois_legislation/v1/moses/en-ga.txt.zip
     source language tokens: 1323583
     target language tokens: 1351957

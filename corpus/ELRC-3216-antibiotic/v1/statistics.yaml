@@ -10,16 +10,16 @@ bitexts:
         size: 286691
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/smt/en-ro.zip
       source language:
-        size: 39204
+        size: 39559
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/raw/en.zip
       target language:
-        size: 46418
+        size: 46772
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/raw/ro.zip
       tokenized source language:
-        size: 111279
+        size: 114909
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/xml/en.zip
       tokenized target language:
-        size: 128074
+        size: 131719
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/xml/ro.zip
       word alignment dictionary:
         size: 18816
@@ -43,10 +43,10 @@ monolingual:
         size: 33809
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/mono/en.tok.gz
       tokenized xml:
-        size: 111279
+        size: 114909
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/xml/en.zip
       xml:
-        size: 39204
+        size: 39559
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/raw/en.zip
     files: 1
     sentences: 1050
@@ -63,10 +63,10 @@ monolingual:
         size: 40928
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 128074
+        size: 131719
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/xml/ro.zip
       xml:
-        size: 46418
+        size: 46772
         url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/raw/ro.zip
     files: 1
     sentences: 1039
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ro:
     alignments: 1035
-    download size: 80936
+    download size: 81291
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/moses/en-ro.txt.zip
     source language tokens: 16905
     target language tokens: 19334
 tmx:
   en-ro:
-    download size: 87237
+    download size: 87238
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3216-antibiotic/v1/tmx/en-ro.tmx.gz
     source language tokens: 16905
     target language tokens: 19334

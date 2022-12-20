@@ -7,25 +7,25 @@ bitexts:
         size: 489
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 15170
+        size: 15397
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/smt/en-ga.zip
       source language:
-        size: 4280
+        size: 4505
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/raw/en.zip
       target language:
-        size: 4393
+        size: 4618
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/raw/ga.zip
       tokenized source language:
-        size: 7308
+        size: 7893
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/en.zip
       tokenized target language:
-        size: 7538
+        size: 8125
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/ga.zip
       word alignment dictionary:
         size: 1046
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 7639
+        size: 7867
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 894
@@ -43,10 +43,10 @@ monolingual:
         size: 2129
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/mono/en.tok.gz
       tokenized xml:
-        size: 7308
+        size: 7893
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/en.zip
       xml:
-        size: 4280
+        size: 4505
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/raw/en.zip
     files: 1
     sentences: 43
@@ -63,10 +63,10 @@ monolingual:
         size: 2240
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 7538
+        size: 8125
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/xml/ga.zip
       xml:
-        size: 4393
+        size: 4618
         url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/raw/ga.zip
     files: 1
     sentences: 43
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 41
-    download size: 6309
+    download size: 6536
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2505-Preasriteas_M_Iil/v1/moses/en-ga.txt.zip
     source language tokens: 805
     target language tokens: 823

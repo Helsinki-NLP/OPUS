@@ -7,16 +7,16 @@ bitexts:
         size: 10260
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/en-pl.xml.gz
       source language:
-        size: 59655
+        size: 60024
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/raw/en.zip
       target language:
-        size: 58783
+        size: 59152
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/raw/pl.zip
       tokenized source language:
-        size: 176528
+        size: 181796
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/en.zip
       tokenized target language:
-        size: 153094
+        size: 157657
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/pl.zip
     files: 1
     source language tokens: 25307
@@ -28,16 +28,16 @@ bitexts:
         size: 949
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/en-ru.xml.gz
       source language:
-        size: 59655
+        size: 60024
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/raw/en.zip
       target language:
-        size: 6004
+        size: 6373
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/raw/ru.zip
       tokenized source language:
-        size: 176528
+        size: 181796
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/en.zip
       tokenized target language:
-        size: 10320
+        size: 11222
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/ru.zip
     files: 1
     source language tokens: 1247
@@ -55,10 +55,10 @@ monolingual:
         size: 51497
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/mono/en.tok.gz
       tokenized xml:
-        size: 176528
+        size: 181796
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/en.zip
       xml:
-        size: 59655
+        size: 60024
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/raw/en.zip
     files: 2
     sentences: 1477
@@ -75,10 +75,10 @@ monolingual:
         size: 50925
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 153094
+        size: 157657
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/pl.zip
       xml:
-        size: 58783
+        size: 59152
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/raw/pl.zip
     files: 1
     sentences: 1339
@@ -95,10 +95,10 @@ monolingual:
         size: 3730
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/mono/ru.tok.gz
       tokenized xml:
-        size: 10320
+        size: 11222
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/xml/ru.zip
       xml:
-        size: 6004
+        size: 6373
         url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/raw/ru.zip
     files: 1
     sentences: 111
@@ -123,7 +123,7 @@ moses:
     target language tokens: 1371
 tmx:
   en-pl:
-    download size: 113088
+    download size: 113090
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3855-SWPS_University_Soci/v1/tmx/en-pl.tmx.gz
     source language tokens: 21758
     target language tokens: 27311

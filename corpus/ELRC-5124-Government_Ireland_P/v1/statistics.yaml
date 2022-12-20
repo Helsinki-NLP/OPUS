@@ -7,16 +7,16 @@ bitexts:
         size: 4575
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/xml/en-ga.xml.gz
       source language:
-        size: 22722
+        size: 22969
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/raw/en.zip
       target language:
-        size: 25052
+        size: 25302
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/raw/ga.zip
       tokenized source language:
-        size: 57841
+        size: 60136
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/xml/en.zip
       tokenized target language:
-        size: 65575
+        size: 67881
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/xml/ga.zip
     files: 1
     source language tokens: 9989
@@ -34,10 +34,10 @@ monolingual:
         size: 18442
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/mono/en.tok.gz
       tokenized xml:
-        size: 57841
+        size: 60136
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/xml/en.zip
       xml:
-        size: 22722
+        size: 22969
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/raw/en.zip
     files: 1
     sentences: 641
@@ -54,10 +54,10 @@ monolingual:
         size: 20660
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 65575
+        size: 67881
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/xml/ga.zip
       xml:
-        size: 25052
+        size: 25302
         url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/raw/ga.zip
     files: 1
     sentences: 640
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 512
-    download size: 43544
+    download size: 43790
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/moses/en-ga.txt.zip
     source language tokens: 8717
     target language tokens: 9966
 tmx:
   en-ga:
-    download size: 43890
+    download size: 43891
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5124-Government_Ireland_P/v1/tmx/en-ga.tmx.gz
     source language tokens: 8717
     target language tokens: 9966

@@ -7,25 +7,25 @@ bitexts:
         size: 8183
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/fr-pt.xml.gz
       smt phrase table:
-        size: 343246
+        size: 343488
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/smt/fr-pt.zip
       source language:
-        size: 39953
+        size: 40318
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/raw/fr.zip
       target language:
-        size: 39901
+        size: 40266
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/raw/pt.zip
       tokenized source language:
-        size: 130614
+        size: 134598
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/fr.zip
       tokenized target language:
-        size: 122304
+        size: 126267
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/pt.zip
       word alignment dictionary:
         size: 19327
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/dic/fr-pt.dic.gz
       word alignments:
-        size: 73217
+        size: 73460
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/smt/fr-pt.alg.zip
     files: 1
     source language tokens: 22839
@@ -43,10 +43,10 @@ monolingual:
         size: 34122
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 130614
+        size: 134598
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/fr.zip
       xml:
-        size: 39953
+        size: 40318
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/raw/fr.zip
     files: 1
     sentences: 1151
@@ -63,10 +63,10 @@ monolingual:
         size: 33962
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 122304
+        size: 126267
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/xml/pt.zip
       xml:
-        size: 39901
+        size: 40266
         url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/raw/pt.zip
     files: 1
     sentences: 1150
@@ -74,13 +74,13 @@ monolingual:
 moses:
   fr-pt:
     alignments: 1151
-    download size: 75023
+    download size: 75387
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/moses/fr-pt.txt.zip
     source language tokens: 20282
     target language tokens: 20981
 tmx:
   fr-pt:
-    download size: 77208
+    download size: 77207
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1253-Portuguese_law_refer/v1/tmx/fr-pt.tmx.gz
     source language tokens: 20196
     target language tokens: 20892

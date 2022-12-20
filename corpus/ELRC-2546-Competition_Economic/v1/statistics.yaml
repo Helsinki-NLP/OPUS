@@ -7,25 +7,25 @@ bitexts:
         size: 571
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/xml/bg-en.xml.gz
       smt phrase table:
-        size: 14789
+        size: 15020
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/smt/bg-en.zip
       source language:
-        size: 4787
+        size: 5140
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/raw/bg.zip
       target language:
-        size: 4038
+        size: 4391
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/raw/en.zip
       tokenized source language:
-        size: 7541
+        size: 8227
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/xml/bg.zip
       tokenized target language:
-        size: 6621
+        size: 7305
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/xml/en.zip
       word alignment dictionary:
         size: 779
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/dic/bg-en.dic.gz
       word alignments:
-        size: 6640
+        size: 6871
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/smt/bg-en.alg.zip
     files: 1
     source language tokens: 784
@@ -43,10 +43,10 @@ monolingual:
         size: 2774
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 7541
+        size: 8227
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/xml/bg.zip
       xml:
-        size: 4787
+        size: 5140
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/raw/bg.zip
     files: 1
     sentences: 28
@@ -63,10 +63,10 @@ monolingual:
         size: 2035
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/mono/en.tok.gz
       tokenized xml:
-        size: 6621
+        size: 7305
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/xml/en.zip
       xml:
-        size: 4038
+        size: 4391
         url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/raw/en.zip
     files: 1
     sentences: 28
@@ -74,7 +74,7 @@ monolingual:
 moses:
   bg-en:
     alignments: 29
-    download size: 6588
+    download size: 6941
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2546-Competition_Economic/v1/moses/bg-en.txt.zip
     source language tokens: 695
     target language tokens: 725

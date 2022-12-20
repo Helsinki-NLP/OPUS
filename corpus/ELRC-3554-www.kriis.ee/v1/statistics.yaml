@@ -7,25 +7,25 @@ bitexts:
         size: 3079
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/xml/en-et.xml.gz
       smt phrase table:
-        size: 106822
+        size: 106824
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/smt/en-et.zip
       source language:
-        size: 20908
+        size: 21266
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/raw/en.zip
       target language:
-        size: 20668
+        size: 21025
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/raw/et.zip
       tokenized source language:
-        size: 53658
+        size: 55494
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/xml/en.zip
       tokenized target language:
-        size: 44243
+        size: 46030
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/xml/et.zip
       word alignment dictionary:
         size: 9726
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/dic/en-et.dic.gz
       word alignments:
-        size: 31031
+        size: 31032
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/smt/en-et.alg.zip
     files: 1
     source language tokens: 6617
@@ -43,10 +43,10 @@ monolingual:
         size: 17798
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/mono/en.tok.gz
       tokenized xml:
-        size: 53658
+        size: 55494
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/xml/en.zip
       xml:
-        size: 20908
+        size: 21266
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/raw/en.zip
     files: 1
     sentences: 434
@@ -63,10 +63,10 @@ monolingual:
         size: 17389
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/mono/et.tok.gz
       tokenized xml:
-        size: 44243
+        size: 46030
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/xml/et.zip
       xml:
-        size: 20668
+        size: 21025
         url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/raw/et.zip
     files: 1
     sentences: 434
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-et:
     alignments: 435
-    download size: 38741
+    download size: 39099
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3554-www.kriis.ee/v1/moses/en-et.txt.zip
     source language tokens: 5622
     target language tokens: 8296

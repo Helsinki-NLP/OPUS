@@ -7,16 +7,16 @@ bitexts:
         size: 8613
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/en-pl.xml.gz
       source language:
-        size: 26266
+        size: 26653
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/raw/en.zip
       target language:
-        size: 28389
+        size: 28776
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/raw/pl.zip
       tokenized source language:
-        size: 73724
+        size: 76235
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/en.zip
       tokenized target language:
-        size: 68109
+        size: 70573
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/pl.zip
     files: 1
     source language tokens: 10918
@@ -34,10 +34,10 @@ monolingual:
         size: 22152
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/mono/en.tok.gz
       tokenized xml:
-        size: 73724
+        size: 76235
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/en.zip
       xml:
-        size: 26266
+        size: 26653
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/raw/en.zip
     files: 1
     sentences: 647
@@ -54,10 +54,10 @@ monolingual:
         size: 24184
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 68109
+        size: 70573
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/xml/pl.zip
       xml:
-        size: 28389
+        size: 28776
         url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/raw/pl.zip
     files: 1
     sentences: 642
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 641
-    download size: 50958
+    download size: 51345
     download url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/moses/en-pl.txt.zip
     source language tokens: 9689
     target language tokens: 12047
 tmx:
   en-pl:
-    download size: 52054
+    download size: 52051
     download url: https://object.pouta.csc.fi/OPUS-ELRC-970-geoportal.gov.pl/v1/tmx/en-pl.tmx.gz
     source language tokens: 9689
     target language tokens: 12047

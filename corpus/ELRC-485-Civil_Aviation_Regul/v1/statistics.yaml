@@ -7,16 +7,16 @@ bitexts:
         size: 20710
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/xml/en-pl.xml.gz
       source language:
-        size: 112290
+        size: 112653
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/raw/en.zip
       target language:
-        size: 129110
+        size: 129472
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/raw/pl.zip
       tokenized source language:
-        size: 352052
+        size: 360893
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/xml/en.zip
       tokenized target language:
-        size: 357252
+        size: 366490
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/xml/pl.zip
     files: 1
     source language tokens: 61254
@@ -34,10 +34,10 @@ monolingual:
         size: 100751
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/mono/en.tok.gz
       tokenized xml:
-        size: 352052
+        size: 360893
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/xml/en.zip
       xml:
-        size: 112290
+        size: 112653
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/raw/en.zip
     files: 1
     sentences: 2672
@@ -54,10 +54,10 @@ monolingual:
         size: 116477
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 357252
+        size: 366490
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/xml/pl.zip
       xml:
-        size: 129110
+        size: 129472
         url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/raw/pl.zip
     files: 1
     sentences: 2826
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 2267
-    download size: 231294
+    download size: 231657
     download url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/moses/en-pl.txt.zip
     source language tokens: 52402
     target language tokens: 58437
 tmx:
   en-pl:
-    download size: 246266
+    download size: 246263
     download url: https://object.pouta.csc.fi/OPUS-ELRC-485-Civil_Aviation_Regul/v1/tmx/en-pl.tmx.gz
     source language tokens: 52402
     target language tokens: 58437

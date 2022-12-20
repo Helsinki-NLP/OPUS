@@ -7,19 +7,19 @@ bitexts:
         size: 1175269
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/en-es.xml.gz
       smt phrase table:
-        size: 32857162
+        size: 32857163
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/smt/en-es.zip
       source language:
-        size: 6406066
+        size: 6406067
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/raw/en.zip
       target language:
         size: 7433039
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/raw/es.zip
       tokenized source language:
-        size: 25646885
+        size: 26157237
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/en.zip
       tokenized target language:
-        size: 29978508
+        size: 30510205
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/es.zip
       word alignment dictionary:
         size: 410779
@@ -43,10 +43,10 @@ monolingual:
         size: 5797107
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/mono/en.tok.gz
       tokenized xml:
-        size: 25646885
+        size: 26157237
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/en.zip
       xml:
-        size: 6406066
+        size: 6406067
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/raw/en.zip
     files: 1
     sentences: 166163
@@ -63,7 +63,7 @@ monolingual:
         size: 6785002
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/mono/es.tok.gz
       tokenized xml:
-        size: 29978508
+        size: 30510205
         url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/xml/es.zip
       xml:
         size: 7433039
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-es:
     alignments: 101696
-    download size: 13328000
+    download size: 13328001
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/moses/en-es.txt.zip
     source language tokens: 4155527
     target language tokens: 4982680
 tmx:
   en-es:
-    download size: 11993241
+    download size: 11993243
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2503-Descripciones_vulner/v1/tmx/en-es.tmx.gz
     source language tokens: 3996419
     target language tokens: 4800746

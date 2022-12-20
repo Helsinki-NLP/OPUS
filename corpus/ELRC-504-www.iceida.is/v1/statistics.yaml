@@ -7,16 +7,16 @@ bitexts:
         size: 7039
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/xml/en-is.xml.gz
       source language:
-        size: 58245
+        size: 58632
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/raw/en.zip
       target language:
-        size: 61818
+        size: 62205
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/raw/is.zip
       tokenized source language:
-        size: 151745
+        size: 155472
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/xml/en.zip
       tokenized target language:
-        size: 143402
+        size: 147090
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/xml/is.zip
     files: 1
     source language tokens: 23158
@@ -34,10 +34,10 @@ monolingual:
         size: 52556
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/mono/en.tok.gz
       tokenized xml:
-        size: 151745
+        size: 155472
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/xml/en.zip
       xml:
-        size: 58245
+        size: 58632
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/raw/en.zip
     files: 1
     sentences: 1055
@@ -54,10 +54,10 @@ monolingual:
         size: 56139
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/mono/is.tok.gz
       tokenized xml:
-        size: 143402
+        size: 147090
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/xml/is.zip
       xml:
-        size: 61818
+        size: 62205
         url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/raw/is.zip
     files: 1
     sentences: 1057
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-is:
     alignments: 1055
-    download size: 114701
+    download size: 115088
     download url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/moses/en-is.txt.zip
     source language tokens: 21115
     target language tokens: 24097
 tmx:
   en-is:
-    download size: 124119
+    download size: 124115
     download url: https://object.pouta.csc.fi/OPUS-ELRC-504-www.iceida.is/v1/tmx/en-is.tmx.gz
     source language tokens: 21115
     target language tokens: 24097

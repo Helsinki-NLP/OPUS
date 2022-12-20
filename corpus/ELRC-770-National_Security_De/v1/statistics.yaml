@@ -7,16 +7,16 @@ bitexts:
         size: 5836
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/xml/en-et.xml.gz
       source language:
-        size: 38372
+        size: 38741
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/raw/en.zip
       target language:
-        size: 37548
+        size: 37917
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/raw/et.zip
       tokenized source language:
-        size: 103238
+        size: 106356
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/xml/en.zip
       tokenized target language:
-        size: 81233
+        size: 84246
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/xml/et.zip
     files: 1
     source language tokens: 12105
@@ -34,10 +34,10 @@ monolingual:
         size: 33227
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/mono/en.tok.gz
       tokenized xml:
-        size: 103238
+        size: 106356
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/xml/en.zip
       xml:
-        size: 38372
+        size: 38741
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/raw/en.zip
     files: 1
     sentences: 864
@@ -54,10 +54,10 @@ monolingual:
         size: 32604
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/mono/et.tok.gz
       tokenized xml:
-        size: 81233
+        size: 84246
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/xml/et.zip
       xml:
-        size: 37548
+        size: 37917
         url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/raw/et.zip
     files: 1
     sentences: 864
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-et:
     alignments: 865
-    download size: 71429
+    download size: 71800
     download url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/moses/en-et.txt.zip
     source language tokens: 10819
     target language tokens: 16725
 tmx:
   en-et:
-    download size: 77586
+    download size: 77590
     download url: https://object.pouta.csc.fi/OPUS-ELRC-770-National_Security_De/v1/tmx/en-et.tmx.gz
     source language tokens: 10819
     target language tokens: 16725

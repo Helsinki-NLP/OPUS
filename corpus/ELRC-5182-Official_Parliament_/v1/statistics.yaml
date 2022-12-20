@@ -7,16 +7,16 @@ bitexts:
         size: 66993
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/xml/en-uk.xml.gz
       source language:
-        size: 228398
+        size: 228769
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/raw/en.zip
       target language:
-        size: 245681
+        size: 246053
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/raw/uk.zip
       tokenized source language:
-        size: 1116575
+        size: 1144414
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/xml/en.zip
       tokenized target language:
-        size: 1034419
+        size: 1062404
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/xml/uk.zip
     files: 1
     source language tokens: 216499
@@ -34,10 +34,10 @@ monolingual:
         size: 197758
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1116575
+        size: 1144414
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/xml/en.zip
       xml:
-        size: 228398
+        size: 228769
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/raw/en.zip
     files: 1
     sentences: 8821
@@ -54,10 +54,10 @@ monolingual:
         size: 215503
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/mono/uk.tok.gz
       tokenized xml:
-        size: 1034419
+        size: 1062404
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/xml/uk.zip
       xml:
-        size: 245681
+        size: 246053
         url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/raw/uk.zip
     files: 1
     sentences: 8833
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-uk:
     alignments: 8800
-    download size: 449038
+    download size: 449411
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5182-Official_Parliament_/v1/moses/en-uk.txt.zip
     source language tokens: 176625
     target language tokens: 218087

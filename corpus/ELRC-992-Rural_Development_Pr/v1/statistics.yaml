@@ -7,16 +7,16 @@ bitexts:
         size: 61454
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/xml/en-hr.xml.gz
       source language:
-        size: 207321
+        size: 207727
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/raw/en.zip
       target language:
-        size: 222975
+        size: 223383
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/raw/hr.zip
       tokenized source language:
-        size: 646747
+        size: 663816
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/xml/en.zip
       tokenized target language:
-        size: 631752
+        size: 648752
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/xml/hr.zip
     files: 1
     source language tokens: 109898
@@ -34,10 +34,10 @@ monolingual:
         size: 187184
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/mono/en.tok.gz
       tokenized xml:
-        size: 646747
+        size: 663816
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/xml/en.zip
       xml:
-        size: 207321
+        size: 207727
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/raw/en.zip
     files: 1
     sentences: 5221
@@ -54,10 +54,10 @@ monolingual:
         size: 202393
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 631752
+        size: 648752
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/xml/hr.zip
       xml:
-        size: 222975
+        size: 223383
         url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/raw/hr.zip
     files: 1
     sentences: 5229
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 5202
-    download size: 412026
+    download size: 412432
     download url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/moses/en-hr.txt.zip
     source language tokens: 93563
     target language tokens: 105562
 tmx:
   en-hr:
-    download size: 452559
+    download size: 452558
     download url: https://object.pouta.csc.fi/OPUS-ELRC-992-Rural_Development_Pr/v1/tmx/en-hr.tmx.gz
     source language tokens: 93563
     target language tokens: 105562

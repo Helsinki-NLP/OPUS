@@ -7,19 +7,19 @@ bitexts:
         size: 4336
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/xml/da-en.xml.gz
       smt phrase table:
-        size: 201760
+        size: 201761
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/smt/da-en.zip
       source language:
-        size: 32435
+        size: 32796
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/raw/da.zip
       target language:
-        size: 32400
+        size: 32761
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/raw/en.zip
       tokenized source language:
-        size: 83708
+        size: 86154
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/xml/da.zip
       tokenized target language:
-        size: 84662
+        size: 87113
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/xml/en.zip
       word alignment dictionary:
         size: 13026
@@ -43,10 +43,10 @@ monolingual:
         size: 28087
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/mono/da.tok.gz
       tokenized xml:
-        size: 83708
+        size: 86154
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/xml/da.zip
       xml:
-        size: 32435
+        size: 32796
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/raw/da.zip
     files: 1
     sentences: 633
@@ -63,10 +63,10 @@ monolingual:
         size: 27910
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 84662
+        size: 87113
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/xml/en.zip
       xml:
-        size: 32400
+        size: 32761
         url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/raw/en.zip
     files: 1
     sentences: 635
@@ -74,7 +74,7 @@ monolingual:
 moses:
   da-en:
     alignments: 634
-    download size: 60180
+    download size: 60540
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3295-EUROPARL_covid/v1/moses/da-en.txt.zip
     source language tokens: 11723
     target language tokens: 13121

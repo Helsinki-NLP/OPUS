@@ -7,16 +7,16 @@ bitexts:
         size: 27668
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/xml/bg-en.xml.gz
       source language:
-        size: 165040
+        size: 165415
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/raw/bg.zip
       target language:
-        size: 127954
+        size: 128329
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/raw/en.zip
       tokenized source language:
-        size: 400493
+        size: 412129
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/xml/bg.zip
       tokenized target language:
-        size: 352658
+        size: 364184
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/xml/en.zip
     files: 1
     source language tokens: 62820
@@ -34,10 +34,10 @@ monolingual:
         size: 151145
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 400493
+        size: 412129
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/xml/bg.zip
       xml:
-        size: 165040
+        size: 165415
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/raw/bg.zip
     files: 1
     sentences: 3647
@@ -54,10 +54,10 @@ monolingual:
         size: 113280
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/mono/en.tok.gz
       tokenized xml:
-        size: 352658
+        size: 364184
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/xml/en.zip
       xml:
-        size: 127954
+        size: 128329
         url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/raw/en.zip
     files: 1
     sentences: 3633
@@ -65,13 +65,13 @@ monolingual:
 moses:
   bg-en:
     alignments: 3624
-    download size: 282890
+    download size: 283265
     download url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/moses/bg-en.txt.zip
     source language tokens: 55103
     target language tokens: 55318
 tmx:
   bg-en:
-    download size: 304498
+    download size: 304499
     download url: https://object.pouta.csc.fi/OPUS-ELRC-408-transport/v1/tmx/bg-en.tmx.gz
     source language tokens: 53963
     target language tokens: 54129

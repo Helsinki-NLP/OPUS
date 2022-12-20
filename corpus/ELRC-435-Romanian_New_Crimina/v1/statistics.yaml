@@ -7,16 +7,16 @@ bitexts:
         size: 59089
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/xml/en-ro.xml.gz
       source language:
-        size: 222789
+        size: 223156
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/raw/en.zip
       target language:
-        size: 223271
+        size: 223638
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/raw/ro.zip
       tokenized source language:
-        size: 803286
+        size: 828963
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/xml/en.zip
       tokenized target language:
-        size: 748258
+        size: 773008
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/xml/ro.zip
     files: 1
     source language tokens: 141175
@@ -34,10 +34,10 @@ monolingual:
         size: 188062
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/mono/en.tok.gz
       tokenized xml:
-        size: 803286
+        size: 828963
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/xml/en.zip
       xml:
-        size: 222789
+        size: 223156
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/raw/en.zip
     files: 1
     sentences: 8125
@@ -54,10 +54,10 @@ monolingual:
         size: 191040
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 748258
+        size: 773008
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/xml/ro.zip
       xml:
-        size: 223271
+        size: 223638
         url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/raw/ro.zip
     files: 1
     sentences: 7840
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ro:
     alignments: 6496
-    download size: 420100
+    download size: 420468
     download url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/moses/en-ro.txt.zip
     source language tokens: 119673
     target language tokens: 137409
 tmx:
   en-ro:
-    download size: 446477
+    download size: 446478
     download url: https://object.pouta.csc.fi/OPUS-ELRC-435-Romanian_New_Crimina/v1/tmx/en-ro.tmx.gz
     source language tokens: 118781
     target language tokens: 136428

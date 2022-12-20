@@ -7,25 +7,25 @@ bitexts:
         size: 27320
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/el-en.xml.gz
       smt phrase table:
-        size: 739738
+        size: 739983
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/smt/el-en.zip
       source language:
-        size: 123701
+        size: 124068
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/raw/el.zip
       target language:
-        size: 87338
+        size: 87704
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/raw/en.zip
       tokenized source language:
-        size: 311080
+        size: 319198
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/el.zip
       tokenized target language:
-        size: 269278
+        size: 277607
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/en.zip
       word alignment dictionary:
         size: 49675
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/dic/el-en.dic.gz
       word alignments:
-        size: 138365
+        size: 138609
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/smt/el-en.alg.zip
     files: 1
     source language tokens: 50345
@@ -43,10 +43,10 @@ monolingual:
         size: 111725
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/mono/el.tok.gz
       tokenized xml:
-        size: 311080
+        size: 319198
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/el.zip
       xml:
-        size: 123701
+        size: 124068
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/raw/el.zip
     files: 1
     sentences: 2485
@@ -63,10 +63,10 @@ monolingual:
         size: 75018
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/mono/en.tok.gz
       tokenized xml:
-        size: 269278
+        size: 277607
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/xml/en.zip
       xml:
-        size: 87338
+        size: 87704
         url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/raw/en.zip
     files: 1
     sentences: 2545
@@ -74,7 +74,7 @@ monolingual:
 moses:
   el-en:
     alignments: 1870
-    download size: 200052
+    download size: 200416
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1020-collection_about_Cyp/v1/moses/el-en.txt.zip
     source language tokens: 45652
     target language tokens: 45963

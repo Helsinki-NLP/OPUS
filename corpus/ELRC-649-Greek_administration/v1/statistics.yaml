@@ -7,16 +7,16 @@ bitexts:
         size: 163931
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/el-en.xml.gz
       source language:
-        size: 899980
+        size: 900355
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/raw/el.zip
       target language:
-        size: 645016
+        size: 645391
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/raw/en.zip
       tokenized source language:
-        size: 2021039
+        size: 2062051
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/el.zip
       tokenized target language:
-        size: 1804982
+        size: 1846287
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/en.zip
     files: 1
     source language tokens: 311779
@@ -34,10 +34,10 @@ monolingual:
         size: 853980
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/mono/el.tok.gz
       tokenized xml:
-        size: 2021039
+        size: 2062051
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/el.zip
       xml:
-        size: 899980
+        size: 900355
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/raw/el.zip
     files: 1
     sentences: 12631
@@ -54,10 +54,10 @@ monolingual:
         size: 596322
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1804982
+        size: 1846287
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/xml/en.zip
       xml:
-        size: 645016
+        size: 645391
         url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/raw/en.zip
     files: 1
     sentences: 12674
@@ -65,7 +65,7 @@ monolingual:
 moses:
   el-en:
     alignments: 12510
-    download size: 1505727
+    download size: 1506102
     download url: https://object.pouta.csc.fi/OPUS-ELRC-649-Greek_administration/v1/moses/el-en.txt.zip
     source language tokens: 277118
     target language tokens: 288378

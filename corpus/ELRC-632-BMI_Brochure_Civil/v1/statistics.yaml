@@ -7,16 +7,16 @@ bitexts:
         size: 1447
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/xml/de-en.xml.gz
       source language:
-        size: 9222
+        size: 9587
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/raw/de.zip
       target language:
-        size: 8325
+        size: 8690
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/raw/en.zip
       tokenized source language:
-        size: 17987
+        size: 19084
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/xml/de.zip
       tokenized target language:
-        size: 17819
+        size: 18913
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/xml/en.zip
     files: 1
     source language tokens: 2563
@@ -34,10 +34,10 @@ monolingual:
         size: 6724
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/mono/de.tok.gz
       tokenized xml:
-        size: 17987
+        size: 19084
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/xml/de.zip
       xml:
-        size: 9222
+        size: 9587
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/raw/de.zip
     files: 1
     sentences: 178
@@ -54,10 +54,10 @@ monolingual:
         size: 5852
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/mono/en.tok.gz
       tokenized xml:
-        size: 17819
+        size: 18913
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/xml/en.zip
       xml:
-        size: 8325
+        size: 8690
         url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/raw/en.zip
     files: 1
     sentences: 179
@@ -65,7 +65,7 @@ monolingual:
 moses:
   de-en:
     alignments: 176
-    download size: 15008
+    download size: 15374
     download url: https://object.pouta.csc.fi/OPUS-ELRC-632-BMI_Brochure_Civil/v1/moses/de-en.txt.zip
     source language tokens: 2240
     target language tokens: 2472

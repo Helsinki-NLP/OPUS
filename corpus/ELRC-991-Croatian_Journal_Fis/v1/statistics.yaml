@@ -7,16 +7,16 @@ bitexts:
         size: 31354
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/en-hr.xml.gz
       source language:
-        size: 131837
+        size: 132223
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/raw/en.zip
       target language:
-        size: 138294
+        size: 138679
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/raw/hr.zip
       tokenized source language:
-        size: 342375
+        size: 350539
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/en.zip
       tokenized target language:
-        size: 341702
+        size: 349822
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/hr.zip
     files: 1
     source language tokens: 54183
@@ -34,10 +34,10 @@ monolingual:
         size: 121135
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/mono/en.tok.gz
       tokenized xml:
-        size: 342375
+        size: 350539
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/en.zip
       xml:
-        size: 131837
+        size: 132223
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/raw/en.zip
     files: 1
     sentences: 2428
@@ -54,10 +54,10 @@ monolingual:
         size: 127094
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 341702
+        size: 349822
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/xml/hr.zip
       xml:
-        size: 138294
+        size: 138679
         url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/raw/hr.zip
     files: 1
     sentences: 2425
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 2408
-    download size: 260699
+    download size: 261082
     download url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/moses/en-hr.txt.zip
     source language tokens: 43206
     target language tokens: 48413
 tmx:
   en-hr:
-    download size: 265424
+    download size: 265418
     download url: https://object.pouta.csc.fi/OPUS-ELRC-991-Croatian_Journal_Fis/v1/tmx/en-hr.tmx.gz
     source language tokens: 43206
     target language tokens: 48413

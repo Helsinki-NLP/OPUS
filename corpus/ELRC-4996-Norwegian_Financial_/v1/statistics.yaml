@@ -7,16 +7,16 @@ bitexts:
         size: 14904
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/en-no.xml.gz
       source language:
-        size: 81159
+        size: 81286
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/raw/en.zip
       target language:
-        size: 79344
+        size: 79472
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/raw/no.zip
       tokenized source language:
-        size: 207142
+        size: 213652
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/en.zip
       tokenized target language:
-        size: 192076
+        size: 198495
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/no.zip
     files: 2
     source language tokens: 30978
@@ -34,10 +34,10 @@ monolingual:
         size: 69051
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 207142
+        size: 213652
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/en.zip
       xml:
-        size: 81159
+        size: 81286
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/raw/en.zip
     files: 2
     sentences: 2011
@@ -54,10 +54,10 @@ monolingual:
         size: 67486
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/mono/no.tok.gz
       tokenized xml:
-        size: 192076
+        size: 198495
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/xml/no.zip
       xml:
-        size: 79344
+        size: 79472
         url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/raw/no.zip
     files: 2
     sentences: 2010
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-no:
     alignments: 2003
-    download size: 143524
+    download size: 143652
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/moses/en-no.txt.zip
     source language tokens: 27200
     target language tokens: 31470
 tmx:
   en-no:
-    download size: 159696
+    download size: 159694
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4996-Norwegian_Financial_/v1/tmx/en-no.tmx.gz
     source language tokens: 27173
     target language tokens: 31436

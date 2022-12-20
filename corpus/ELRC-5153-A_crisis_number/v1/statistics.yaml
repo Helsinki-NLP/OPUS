@@ -7,16 +7,16 @@ bitexts:
         size: 377
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/xml/en-ga.xml.gz
       source language:
-        size: 3304
+        size: 3585
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/raw/en.zip
       target language:
-        size: 3369
+        size: 3649
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/raw/ga.zip
       tokenized source language:
-        size: 5042
+        size: 5638
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/xml/en.zip
       tokenized target language:
-        size: 5187
+        size: 5784
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/xml/ga.zip
     files: 1
     source language tokens: 515
@@ -34,10 +34,10 @@ monolingual:
         size: 1304
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/mono/en.tok.gz
       tokenized xml:
-        size: 5042
+        size: 5638
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/xml/en.zip
       xml:
-        size: 3304
+        size: 3585
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/raw/en.zip
     files: 1
     sentences: 26
@@ -54,10 +54,10 @@ monolingual:
         size: 1368
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 5187
+        size: 5784
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/xml/ga.zip
       xml:
-        size: 3369
+        size: 3649
         url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/raw/ga.zip
     files: 1
     sentences: 26
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 24
-    download size: 4453
+    download size: 4735
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/moses/en-ga.txt.zip
     source language tokens: 465
     target language tokens: 477
 tmx:
   en-ga:
-    download size: 2882
+    download size: 2883
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5153-A_crisis_number/v1/tmx/en-ga.tmx.gz
     source language tokens: 465
     target language tokens: 477

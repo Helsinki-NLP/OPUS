@@ -7,16 +7,16 @@ bitexts:
         size: 17661
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/xml/en-pl.xml.gz
       source language:
-        size: 104111
+        size: 104472
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/raw/en.zip
       target language:
-        size: 113254
+        size: 113615
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/raw/pl.zip
       tokenized source language:
-        size: 346165
+        size: 353583
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/xml/en.zip
       tokenized target language:
-        size: 325264
+        size: 332416
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/xml/pl.zip
     files: 1
     source language tokens: 56415
@@ -34,10 +34,10 @@ monolingual:
         size: 94751
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/mono/en.tok.gz
       tokenized xml:
-        size: 346165
+        size: 353583
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/xml/en.zip
       xml:
-        size: 104111
+        size: 104472
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/raw/en.zip
     files: 1
     sentences: 2178
@@ -54,10 +54,10 @@ monolingual:
         size: 103817
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 325264
+        size: 332416
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/xml/pl.zip
       xml:
-        size: 113254
+        size: 113615
         url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/raw/pl.zip
     files: 1
     sentences: 2117
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 1843
-    download size: 210234
+    download size: 210595
     download url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/moses/en-pl.txt.zip
     source language tokens: 48540
     target language tokens: 58764
 tmx:
   en-pl:
-    download size: 222232
+    download size: 222233
     download url: https://object.pouta.csc.fi/OPUS-ELRC-484-Procurement_2/v1/tmx/en-pl.tmx.gz
     source language tokens: 48488
     target language tokens: 58709

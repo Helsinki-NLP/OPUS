@@ -7,25 +7,25 @@ bitexts:
         size: 25053
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 895760
+        size: 896011
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/smt/en-ga.zip
       source language:
-        size: 143161
+        size: 143412
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/raw/en.zip
       target language:
-        size: 162476
+        size: 162728
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/raw/ga.zip
       tokenized source language:
-        size: 407256
+        size: 418219
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/xml/en.zip
       tokenized target language:
-        size: 466384
+        size: 477630
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/xml/ga.zip
       word alignment dictionary:
         size: 58902
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 241463
+        size: 241714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 72755
@@ -43,10 +43,10 @@ monolingual:
         size: 127834
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/mono/en.tok.gz
       tokenized xml:
-        size: 407256
+        size: 418219
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/xml/en.zip
       xml:
-        size: 143161
+        size: 143412
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/raw/en.zip
     files: 1
     sentences: 3380
@@ -63,10 +63,10 @@ monolingual:
         size: 146832
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 466384
+        size: 477630
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/xml/ga.zip
       xml:
-        size: 162476
+        size: 162728
         url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/raw/ga.zip
     files: 1
     sentences: 3422
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 2955
-    download size: 291464
+    download size: 291715
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/moses/en-ga.txt.zip
     source language tokens: 65832
     target language tokens: 74749
 tmx:
   en-ga:
-    download size: 321123
+    download size: 321125
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2414-Tuarasclaca_Bliantla/v1/tmx/en-ga.tmx.gz
     source language tokens: 65830
     target language tokens: 74747

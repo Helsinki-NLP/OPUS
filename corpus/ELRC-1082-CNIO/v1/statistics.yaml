@@ -7,25 +7,25 @@ bitexts:
         size: 64558
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/xml/en-es.xml.gz
       smt phrase table:
-        size: 2405229
+        size: 2405452
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/smt/en-es.zip
       source language:
-        size: 515567
+        size: 515912
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/raw/en.zip
       target language:
-        size: 532090
+        size: 532436
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/raw/es.zip
       tokenized source language:
-        size: 1430928
+        size: 1459436
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/xml/en.zip
       tokenized target language:
-        size: 1477909
+        size: 1506085
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/xml/es.zip
       word alignment dictionary:
         size: 112438
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/dic/en-es.dic.gz
       word alignments:
-        size: 746330
+        size: 746554
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/smt/en-es.alg.zip
     files: 1
     source language tokens: 242311
@@ -43,10 +43,10 @@ monolingual:
         size: 474212
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1430928
+        size: 1459436
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/xml/en.zip
       xml:
-        size: 515567
+        size: 515912
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/raw/en.zip
     files: 1
     sentences: 8736
@@ -63,10 +63,10 @@ monolingual:
         size: 492291
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/mono/es.tok.gz
       tokenized xml:
-        size: 1477909
+        size: 1506085
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/xml/es.zip
       xml:
-        size: 532090
+        size: 532436
         url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/raw/es.zip
     files: 1
     sentences: 8592
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-es:
     alignments: 7442
-    download size: 1009058
+    download size: 1009401
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/moses/en-es.txt.zip
     source language tokens: 212157
     target language tokens: 223158
 tmx:
   en-es:
-    download size: 1055242
+    download size: 1055245
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1082-CNIO/v1/tmx/en-es.tmx.gz
     source language tokens: 212157
     target language tokens: 223158

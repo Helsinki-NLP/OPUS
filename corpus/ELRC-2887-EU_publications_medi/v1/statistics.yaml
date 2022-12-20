@@ -10,16 +10,16 @@ bitexts:
         size: 4151221
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/smt/en-ro.zip
       source language:
-        size: 639040
+        size: 639416
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/raw/en.zip
       target language:
-        size: 730795
+        size: 731171
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/raw/ro.zip
       tokenized source language:
-        size: 1967447
+        size: 2010849
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/xml/en.zip
       tokenized target language:
-        size: 2203327
+        size: 2249349
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/xml/ro.zip
       word alignment dictionary:
         size: 205642
@@ -43,10 +43,10 @@ monolingual:
         size: 591316
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1967447
+        size: 2010849
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/xml/en.zip
       xml:
-        size: 639040
+        size: 639416
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/raw/en.zip
     files: 1
     sentences: 13322
@@ -63,10 +63,10 @@ monolingual:
         size: 678910
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 2203327
+        size: 2249349
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/xml/ro.zip
       xml:
-        size: 730795
+        size: 731171
         url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/raw/ro.zip
     files: 1
     sentences: 14082
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ro:
     alignments: 13164
-    download size: 1331806
+    download size: 1332184
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/moses/en-ro.txt.zip
     source language tokens: 310665
     target language tokens: 338893
 tmx:
   en-ro:
-    download size: 1429335
+    download size: 1429333
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2887-EU_publications_medi/v1/tmx/en-ro.tmx.gz
     source language tokens: 310665
     target language tokens: 338893

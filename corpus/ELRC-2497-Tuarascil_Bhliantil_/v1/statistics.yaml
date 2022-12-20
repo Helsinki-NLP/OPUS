@@ -7,25 +7,25 @@ bitexts:
         size: 21652
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 419860
+        size: 420100
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/smt/en-ga.zip
       source language:
-        size: 89794
+        size: 90034
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/raw/en.zip
       target language:
-        size: 96685
+        size: 96926
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/raw/ga.zip
       tokenized source language:
-        size: 225214
+        size: 233958
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/xml/en.zip
       tokenized target language:
-        size: 246407
+        size: 255162
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/xml/ga.zip
       word alignment dictionary:
         size: 37399
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 134363
+        size: 134603
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 38427
@@ -43,10 +43,10 @@ monolingual:
         size: 77585
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 225214
+        size: 233958
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/xml/en.zip
       xml:
-        size: 89794
+        size: 90034
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/raw/en.zip
     files: 1
     sentences: 2864
@@ -63,10 +63,10 @@ monolingual:
         size: 84354
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 246407
+        size: 255162
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/xml/ga.zip
       xml:
-        size: 96685
+        size: 96926
         url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/raw/ga.zip
     files: 1
     sentences: 2843
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 2646
-    download size: 177226
+    download size: 177467
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/moses/en-ga.txt.zip
     source language tokens: 34486
     target language tokens: 37794
 tmx:
   en-ga:
-    download size: 184019
+    download size: 184020
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2497-Tuarascil_Bhliantil_/v1/tmx/en-ga.tmx.gz
     source language tokens: 34486
     target language tokens: 37794

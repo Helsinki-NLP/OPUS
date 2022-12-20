@@ -7,29 +7,29 @@ bitexts:
         size: 215
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/en-es.xml.gz
       smt phrase table:
-        size: 3020
+        size: 3249
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/smt/en-es.zip
       source language:
-        size: 10381
+        size: 10610
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/en.zip
       target language:
-        size: 1891
+        size: 2121
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/es.zip
       tokenized source language:
-        size: 28696
+        size: 29888
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/en.zip
       tokenized target language:
-        size: 1974
+        size: 2440
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/es.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/dic/en-es.dic.gz
       word alignments:
-        size: 2622
+        size: 2851
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/smt/en-es.alg.zip
     files: 1
     source language tokens: 21
-    target language tokens: 21
+    target language tokens: ~
   en-pt:
     alignments: 136
     downloads:
@@ -37,59 +37,59 @@ bitexts:
         size: 1285
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/en-pt.xml.gz
       smt phrase table:
-        size: 47881
+        size: 48110
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/smt/en-pt.zip
       source language:
-        size: 10381
+        size: 10610
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/en.zip
       target language:
-        size: 8640
+        size: 8868
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/pt.zip
       tokenized source language:
-        size: 28696
+        size: 29888
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/en.zip
       tokenized target language:
-        size: 21028
+        size: 22142
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/pt.zip
       word alignment dictionary:
         size: 3832
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/dic/en-pt.dic.gz
       word alignments:
-        size: 17251
+        size: 17480
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/smt/en-pt.alg.zip
     files: 2
     source language tokens: 3509
     target language tokens: 5003
   pt-ro:
-    alignments: 1
+    alignments: 9
     downloads:
       alignments:
         size: 207
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/pt-ro.xml.gz
       smt phrase table:
-        size: 2940
+        size: 3168
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/smt/pt-ro.zip
       source language:
-        size: 8640
+        size: 8868
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/pt.zip
       target language:
-        size: 1840
+        size: 2069
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/ro.zip
       tokenized source language:
-        size: 21028
+        size: 22142
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/pt.zip
       tokenized target language:
-        size: 1879
+        size: 2340
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/ro.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/dic/pt-ro.dic.gz
       word alignments:
-        size: 2584
+        size: 2812
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/smt/pt-ro.alg.zip
     files: 1
-    source language tokens: 9
-    target language tokens: 13
+    source language tokens: 13
+    target language tokens: ~
 monolingual:
   en:
     downloads:
@@ -103,10 +103,10 @@ monolingual:
         size: 7655
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/mono/en.tok.gz
       tokenized xml:
-        size: 28696
+        size: 29888
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/en.zip
       xml:
-        size: 10381
+        size: 10610
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/en.zip
     files: 2
     sentences: 174
@@ -123,10 +123,10 @@ monolingual:
         size: 123
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/mono/es.tok.gz
       tokenized xml:
-        size: 1974
+        size: 2440
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/es.zip
       xml:
-        size: 1891
+        size: 2121
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/es.zip
     files: 1
     sentences: 2
@@ -143,10 +143,10 @@ monolingual:
         size: 5999
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 21028
+        size: 22142
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/pt.zip
       xml:
-        size: 8640
+        size: 8868
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/pt.zip
     files: 2
     sentences: 150
@@ -163,48 +163,48 @@ monolingual:
         size: 74
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 1879
+        size: 2340
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/xml/ro.zip
       xml:
-        size: 1840
+        size: 2069
         url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/raw/ro.zip
     files: 1
-    sentences: 1
-    tokens: 9
+    sentences: 9
+    tokens: ~
 moses:
   en-es:
     alignments: 3
-    download size: 1801
+    download size: 2029
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/moses/en-es.txt.zip
     source language tokens: 17
-    target language tokens: 17
+    target language tokens: ~
   en-pt:
     alignments: 137
-    download size: 15867
+    download size: 16096
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/moses/en-pt.txt.zip
     source language tokens: 3123
     target language tokens: 4286
   pt-ro:
     alignments: 2
-    download size: 1720
+    download size: 1948
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/moses/pt-ro.txt.zip
     source language tokens: 9
     target language tokens: 11
 tmx:
   en-es:
-    download size: 390
+    download size: 393
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/tmx/en-es.tmx.gz
     source language tokens: 17
-    target language tokens: 17
+    target language tokens: ~
     translation units: 3
   en-pt:
-    download size: 14773
+    download size: 14772
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/tmx/en-pt.tmx.gz
     source language tokens: 3123
     target language tokens: 4286
     translation units: 136
   pt-ro:
-    download size: 333
+    download size: 334
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2538-Lei_25_2009/v1/tmx/pt-ro.tmx.gz
     source language tokens: 9
     target language tokens: 11

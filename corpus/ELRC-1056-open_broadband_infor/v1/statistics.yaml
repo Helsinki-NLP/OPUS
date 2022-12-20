@@ -7,25 +7,25 @@ bitexts:
         size: 30469
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/xml/bg-en.xml.gz
       smt phrase table:
-        size: 665531
+        size: 665796
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/smt/bg-en.zip
       source language:
-        size: 125788
+        size: 126174
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/raw/bg.zip
       target language:
-        size: 100089
+        size: 100475
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/raw/en.zip
       tokenized source language:
-        size: 309584
+        size: 317933
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/xml/bg.zip
       tokenized target language:
-        size: 281204
+        size: 289317
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/xml/en.zip
       word alignment dictionary:
         size: 49146
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/dic/bg-en.dic.gz
       word alignments:
-        size: 145060
+        size: 145324
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/smt/bg-en.alg.zip
     files: 1
     source language tokens: 50772
@@ -43,10 +43,10 @@ monolingual:
         size: 115460
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 309584
+        size: 317933
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/xml/bg.zip
       xml:
-        size: 125788
+        size: 126174
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/raw/bg.zip
     files: 1
     sentences: 2512
@@ -63,10 +63,10 @@ monolingual:
         size: 89475
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/mono/en.tok.gz
       tokenized xml:
-        size: 281204
+        size: 289317
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/xml/en.zip
       xml:
-        size: 100089
+        size: 100475
         url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/raw/en.zip
     files: 1
     sentences: 2449
@@ -74,13 +74,13 @@ monolingual:
 moses:
   bg-en:
     alignments: 2390
-    download size: 217945
+    download size: 218329
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/moses/bg-en.txt.zip
     source language tokens: 43692
     target language tokens: 46032
 tmx:
   bg-en:
-    download size: 239715
+    download size: 239717
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1056-open_broadband_infor/v1/tmx/bg-en.tmx.gz
     source language tokens: 43692
     target language tokens: 46032

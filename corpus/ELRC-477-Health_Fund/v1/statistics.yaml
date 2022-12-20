@@ -7,16 +7,16 @@ bitexts:
         size: 47890
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/en-pl.xml.gz
       source language:
-        size: 289147
+        size: 289510
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/raw/en.zip
       target language:
-        size: 365161
+        size: 365523
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/raw/pl.zip
       tokenized source language:
-        size: 872595
+        size: 891623
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/en.zip
       tokenized target language:
-        size: 964152
+        size: 983429
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/pl.zip
     files: 1
     source language tokens: 159936
@@ -34,10 +34,10 @@ monolingual:
         size: 267329
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/mono/en.tok.gz
       tokenized xml:
-        size: 872595
+        size: 891623
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/en.zip
       xml:
-        size: 289147
+        size: 289510
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/raw/en.zip
     files: 1
     sentences: 5852
@@ -54,10 +54,10 @@ monolingual:
         size: 341366
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 964152
+        size: 983429
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/xml/pl.zip
       xml:
-        size: 365161
+        size: 365523
         url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/raw/pl.zip
     files: 1
     sentences: 5880
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 5803
-    download size: 633702
+    download size: 634064
     download url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/moses/en-pl.txt.zip
     source language tokens: 138635
     target language tokens: 140912
 tmx:
   en-pl:
-    download size: 695729
+    download size: 695728
     download url: https://object.pouta.csc.fi/OPUS-ELRC-477-Health_Fund/v1/tmx/en-pl.tmx.gz
     source language tokens: 138619
     target language tokens: 140896

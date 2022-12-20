@@ -7,16 +7,16 @@ bitexts:
         size: 8714
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 52522
+        size: 52905
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/raw/en.zip
       target language:
-        size: 50891
+        size: 51275
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/raw/nb.zip
       tokenized source language:
-        size: 138348
+        size: 142555
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/xml/en.zip
       tokenized target language:
-        size: 124959
+        size: 129135
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/xml/nb.zip
     files: 1
     source language tokens: 20818
@@ -34,10 +34,10 @@ monolingual:
         size: 46361
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 138348
+        size: 142555
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/xml/en.zip
       xml:
-        size: 52522
+        size: 52905
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/raw/en.zip
     files: 1
     sentences: 1235
@@ -54,10 +54,10 @@ monolingual:
         size: 44837
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 124959
+        size: 129135
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/xml/nb.zip
       xml:
-        size: 50891
+        size: 51275
         url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/raw/nb.zip
     files: 1
     sentences: 1235
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 1236
-    download size: 98473
+    download size: 98859
     download url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/moses/en-nb.txt.zip
     source language tokens: 18380
     target language tokens: 21700
 tmx:
   en-nb:
-    download size: 101240
+    download size: 101239
     download url: https://object.pouta.csc.fi/OPUS-ELRC-572-www.ptil.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 17773
     target language tokens: 21013

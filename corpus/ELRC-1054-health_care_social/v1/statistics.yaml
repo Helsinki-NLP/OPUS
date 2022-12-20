@@ -4,22 +4,22 @@ bitexts:
     alignments: 2096
     downloads:
       alignments:
-        size: 26574
+        size: 26593
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/bg-en.xml.gz
       smt phrase table:
         size: 675891
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/smt/bg-en.zip
       source language:
-        size: 128989
+        size: 129387
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/raw/bg.zip
       target language:
-        size: 100947
+        size: 101344
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/raw/en.zip
       tokenized source language:
-        size: 324906
+        size: 332288
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/bg.zip
       tokenized target language:
-        size: 292504
+        size: 299862
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/en.zip
       word alignment dictionary:
         size: 49627
@@ -43,10 +43,10 @@ monolingual:
         size: 119837
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 324906
+        size: 332288
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/bg.zip
       xml:
-        size: 128989
+        size: 129387
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/raw/bg.zip
     files: 1
     sentences: 2174
@@ -63,10 +63,10 @@ monolingual:
         size: 91774
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/mono/en.tok.gz
       tokenized xml:
-        size: 292504
+        size: 299862
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/xml/en.zip
       xml:
-        size: 100947
+        size: 101344
         url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/raw/en.zip
     files: 1
     sentences: 2159
@@ -74,13 +74,13 @@ monolingual:
 moses:
   bg-en:
     alignments: 2097
-    download size: 223158
+    download size: 223551
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/moses/bg-en.txt.zip
     source language tokens: 47389
     target language tokens: 49041
 tmx:
   bg-en:
-    download size: 248111
+    download size: 248109
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1054-health_care_social/v1/tmx/bg-en.tmx.gz
     source language tokens: 47389
     target language tokens: 49041

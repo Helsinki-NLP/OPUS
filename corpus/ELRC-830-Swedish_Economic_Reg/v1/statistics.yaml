@@ -7,16 +7,16 @@ bitexts:
         size: 7048
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/xml/en-sv.xml.gz
       source language:
-        size: 30483
+        size: 30882
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/raw/en.zip
       target language:
-        size: 28968
+        size: 29368
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/raw/sv.zip
       tokenized source language:
-        size: 82881
+        size: 86218
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/xml/en.zip
       tokenized target language:
-        size: 70355
+        size: 73647
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/xml/sv.zip
     files: 1
     source language tokens: 12199
@@ -34,10 +34,10 @@ monolingual:
         size: 25470
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/mono/en.tok.gz
       tokenized xml:
-        size: 82881
+        size: 86218
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/xml/en.zip
       xml:
-        size: 30483
+        size: 30882
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/raw/en.zip
     files: 1
     sentences: 949
@@ -54,10 +54,10 @@ monolingual:
         size: 24031
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 70355
+        size: 73647
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/xml/sv.zip
       xml:
-        size: 28968
+        size: 29368
         url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/raw/sv.zip
     files: 1
     sentences: 948
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-sv:
     alignments: 949
-    download size: 55636
+    download size: 56036
     download url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/moses/en-sv.txt.zip
     source language tokens: 11018
     target language tokens: 13713
 tmx:
   en-sv:
-    download size: 55387
+    download size: 55389
     download url: https://object.pouta.csc.fi/OPUS-ELRC-830-Swedish_Economic_Reg/v1/tmx/en-sv.tmx.gz
     source language tokens: 10851
     target language tokens: 13494

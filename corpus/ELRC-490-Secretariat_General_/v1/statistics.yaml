@@ -7,16 +7,16 @@ bitexts:
         size: 526081
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/en-sl.xml.gz
       source language:
-        size: 2884758
+        size: 2885137
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/raw/en.zip
       target language:
-        size: 2895090
+        size: 2895468
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/raw/sl.zip
       tokenized source language:
-        size: 9590726
+        size: 9804607
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/en.zip
       tokenized target language:
-        size: 8621409
+        size: 8829923
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/sl.zip
     files: 1
     source language tokens: 1562049
@@ -34,10 +34,10 @@ monolingual:
         size: 2647565
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 9590726
+        size: 9804607
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/en.zip
       xml:
-        size: 2884758
+        size: 2885137
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/raw/en.zip
     files: 1
     sentences: 65616
@@ -54,10 +54,10 @@ monolingual:
         size: 2659095
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/mono/sl.tok.gz
       tokenized xml:
-        size: 8621409
+        size: 8829923
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/xml/sl.zip
       xml:
-        size: 2895090
+        size: 2895468
         url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/raw/sl.zip
     files: 1
     sentences: 64526
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-sl:
     alignments: 63070
-    download size: 5593877
+    download size: 5594254
     download url: https://object.pouta.csc.fi/OPUS-ELRC-490-Secretariat_General_/v1/moses/en-sl.txt.zip
     source language tokens: 1335531
     target language tokens: 1637493

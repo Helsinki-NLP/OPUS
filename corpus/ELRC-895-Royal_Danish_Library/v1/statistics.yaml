@@ -7,16 +7,16 @@ bitexts:
         size: 11852
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/xml/da-en.xml.gz
       source language:
-        size: 66201
+        size: 66577
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/raw/da.zip
       target language:
-        size: 65399
+        size: 65775
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/raw/en.zip
       tokenized source language:
-        size: 159956
+        size: 165202
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/xml/da.zip
       tokenized target language:
-        size: 164187
+        size: 169467
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/xml/en.zip
     files: 1
     source language tokens: 26422
@@ -34,10 +34,10 @@ monolingual:
         size: 59019
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/mono/da.tok.gz
       tokenized xml:
-        size: 159956
+        size: 165202
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/xml/da.zip
       xml:
-        size: 66201
+        size: 66577
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/raw/da.zip
     files: 1
     sentences: 1552
@@ -54,10 +54,10 @@ monolingual:
         size: 58171
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/mono/en.tok.gz
       tokenized xml:
-        size: 164187
+        size: 169467
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/xml/en.zip
       xml:
-        size: 65399
+        size: 65775
         url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/raw/en.zip
     files: 1
     sentences: 1563
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 1547
-    download size: 125746
+    download size: 126121
     download url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/moses/da-en.txt.zip
     source language tokens: 21742
     target language tokens: 24037
 tmx:
   da-en:
-    download size: 123670
+    download size: 123672
     download url: https://object.pouta.csc.fi/OPUS-ELRC-895-Royal_Danish_Library/v1/tmx/da-en.tmx.gz
     source language tokens: 21742
     target language tokens: 24037

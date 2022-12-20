@@ -7,25 +7,25 @@ bitexts:
         size: 347690
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/xml/en-sv.xml.gz
       smt phrase table:
-        size: 12629548
+        size: 12629797
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/smt/en-sv.zip
       source language:
-        size: 1896435
+        size: 1896804
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/raw/en.zip
       target language:
-        size: 1947187
+        size: 1947559
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/raw/sv.zip
       tokenized source language:
-        size: 5645226
+        size: 5791735
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/xml/en.zip
       tokenized target language:
-        size: 5027506
+        size: 5172078
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/xml/sv.zip
       word alignment dictionary:
         size: 446762
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/dic/en-sv.dic.gz
       word alignments:
-        size: 2961059
+        size: 2961310
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/smt/en-sv.alg.zip
     files: 1
     source language tokens: 860991
@@ -43,10 +43,10 @@ monolingual:
         size: 1726136
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/mono/en.tok.gz
       tokenized xml:
-        size: 5645226
+        size: 5791735
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/xml/en.zip
       xml:
-        size: 1896435
+        size: 1896804
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/raw/en.zip
     files: 1
     sentences: 46530
@@ -63,10 +63,10 @@ monolingual:
         size: 1766066
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 5027506
+        size: 5172078
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/xml/sv.zip
       xml:
-        size: 1947187
+        size: 1947559
         url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/raw/sv.zip
     files: 1
     sentences: 46501
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-sv:
     alignments: 46501
-    download size: 3705861
+    download size: 3706233
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1133-www.vtv.fi/v1/moses/en-sv.txt.zip
     source language tokens: 792326
     target language tokens: 954568

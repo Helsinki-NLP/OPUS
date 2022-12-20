@@ -7,16 +7,16 @@ bitexts:
         size: 286816
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/da-en.xml.gz
       source language:
-        size: 1377170
+        size: 1377553
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/raw/da.zip
       target language:
-        size: 1348217
+        size: 1348600
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/raw/en.zip
       tokenized source language:
-        size: 3834473
+        size: 3952150
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/da.zip
       tokenized target language:
-        size: 3975947
+        size: 4097891
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/en.zip
     files: 1
     source language tokens: 681587
@@ -34,10 +34,10 @@ monolingual:
         size: 1249783
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/mono/da.tok.gz
       tokenized xml:
-        size: 3834473
+        size: 3952150
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/da.zip
       xml:
-        size: 1377170
+        size: 1377553
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/raw/da.zip
     files: 1
     sentences: 37103
@@ -54,10 +54,10 @@ monolingual:
         size: 1210179
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/mono/en.tok.gz
       tokenized xml:
-        size: 3975947
+        size: 4097891
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/xml/en.zip
       xml:
-        size: 1348217
+        size: 1348600
         url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/raw/en.zip
     files: 1
     sentences: 38403
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 36750
-    download size: 2631837
+    download size: 2632223
     download url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/moses/da-en.txt.zip
     source language tokens: 563148
     target language tokens: 639332
 tmx:
   da-en:
-    download size: 2728606
+    download size: 2728603
     download url: https://object.pouta.csc.fi/OPUS-ELRC-847-mst.dk/v1/tmx/da-en.tmx.gz
     source language tokens: 563148
     target language tokens: 639332

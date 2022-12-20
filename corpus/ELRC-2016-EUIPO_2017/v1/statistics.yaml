@@ -7,25 +7,25 @@ bitexts:
         size: 126078
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/xml/en-et.xml.gz
       smt phrase table:
-        size: 4679746
+        size: 4679989
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/smt/en-et.zip
       source language:
-        size: 815473
+        size: 815837
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/raw/en.zip
       target language:
-        size: 810534
+        size: 810900
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/raw/et.zip
       tokenized source language:
-        size: 2539691
+        size: 2594876
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/xml/en.zip
       tokenized target language:
-        size: 2130926
+        size: 2185044
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/xml/et.zip
       word alignment dictionary:
         size: 314386
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/dic/en-et.dic.gz
       word alignments:
-        size: 1310395
+        size: 1310640
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/smt/en-et.alg.zip
     files: 1
     source language tokens: 358791
@@ -43,10 +43,10 @@ monolingual:
         size: 751717
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2539691
+        size: 2594876
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/xml/en.zip
       xml:
-        size: 815473
+        size: 815837
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/raw/en.zip
     files: 1
     sentences: 16875
@@ -63,10 +63,10 @@ monolingual:
         size: 746409
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/mono/et.tok.gz
       tokenized xml:
-        size: 2130926
+        size: 2185044
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/xml/et.zip
       xml:
-        size: 810534
+        size: 810900
         url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/raw/et.zip
     files: 1
     sentences: 16864
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-et:
     alignments: 16864
-    download size: 1572909
+    download size: 1573274
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2016-EUIPO_2017/v1/moses/en-et.txt.zip
     source language tokens: 286895
     target language tokens: 399220

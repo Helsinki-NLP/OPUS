@@ -1,35 +1,35 @@
 ---
 bitexts:
   ca-fr:
-    alignments: 1
+    alignments: 26
     downloads:
       alignments:
         size: 206
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/ca-fr.xml.gz
       smt phrase table:
-        size: 3167
+        size: 3388
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/smt/ca-fr.zip
       source language:
-        size: 1859
+        size: 2081
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/raw/ca.zip
       target language:
-        size: 15780
+        size: 16002
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/raw/fr.zip
       tokenized source language:
-        size: 1946
+        size: 2402
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/ca.zip
       tokenized target language:
-        size: 37809
+        size: 39132
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/fr.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/dic/ca-fr.dic.gz
       word alignments:
-        size: 2689
+        size: 2911
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/smt/ca-fr.alg.zip
     files: 1
-    source language tokens: 26
-    target language tokens: 29
+    source language tokens: 29
+    target language tokens: ~
   fr-pt:
     alignments: 127
     downloads:
@@ -37,25 +37,25 @@ bitexts:
         size: 1438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/fr-pt.xml.gz
       smt phrase table:
-        size: 38835
+        size: 39056
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/smt/fr-pt.zip
       source language:
-        size: 15780
+        size: 16002
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/raw/fr.zip
       target language:
-        size: 16398
+        size: 16620
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/raw/pt.zip
       tokenized source language:
-        size: 37809
+        size: 39132
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/fr.zip
       tokenized target language:
-        size: 39298
+        size: 40547
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/pt.zip
       word alignment dictionary:
         size: 982
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/dic/fr-pt.dic.gz
       word alignments:
-        size: 18136
+        size: 18358
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/smt/fr-pt.alg.zip
     files: 2
     source language tokens: 6308
@@ -73,14 +73,14 @@ monolingual:
         size: 86
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/mono/ca.tok.gz
       tokenized xml:
-        size: 1946
+        size: 2402
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/ca.zip
       xml:
-        size: 1859
+        size: 2081
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/raw/ca.zip
     files: 1
-    sentences: 1
-    tokens: 26
+    sentences: 26
+    tokens: ~
   fr:
     downloads:
       frequency list:
@@ -93,10 +93,10 @@ monolingual:
         size: 12822
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 37809
+        size: 39132
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/fr.zip
       xml:
-        size: 15780
+        size: 16002
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/raw/fr.zip
     files: 2
     sentences: 218
@@ -113,10 +113,10 @@ monolingual:
         size: 13642
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 39298
+        size: 40547
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/xml/pt.zip
       xml:
-        size: 16398
+        size: 16620
         url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/raw/pt.zip
     files: 2
     sentences: 193
@@ -124,13 +124,13 @@ monolingual:
 moses:
   ca-fr:
     alignments: 2
-    download size: 1800
+    download size: 2022
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/moses/ca-fr.txt.zip
     source language tokens: 15
     target language tokens: 26
   fr-pt:
     alignments: 128
-    download size: 28839
+    download size: 29061
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/moses/fr-pt.txt.zip
     source language tokens: 5452
     target language tokens: 5875
@@ -142,7 +142,7 @@ tmx:
     target language tokens: 26
     translation units: 2
   fr-pt:
-    download size: 27874
+    download size: 27872
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2482-RELATRIO_GAM/v1/tmx/fr-pt.tmx.gz
     source language tokens: 5452
     target language tokens: 5875

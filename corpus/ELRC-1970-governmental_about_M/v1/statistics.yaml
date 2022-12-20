@@ -7,25 +7,25 @@ bitexts:
         size: 13092
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/el-en.xml.gz
       smt phrase table:
-        size: 558854
+        size: 559104
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/smt/el-en.zip
       source language:
-        size: 78457
+        size: 78830
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/raw/el.zip
       target language:
-        size: 59486
+        size: 59858
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/raw/en.zip
       tokenized source language:
-        size: 191354
+        size: 197107
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/el.zip
       tokenized target language:
-        size: 176120
+        size: 181931
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/en.zip
       word alignment dictionary:
         size: 31292
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/dic/el-en.dic.gz
       word alignments:
-        size: 98621
+        size: 98871
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/smt/el-en.alg.zip
     files: 1
     source language tokens: 30601
@@ -43,10 +43,10 @@ monolingual:
         size: 70133
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/mono/el.tok.gz
       tokenized xml:
-        size: 191354
+        size: 197107
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/el.zip
       xml:
-        size: 78457
+        size: 78830
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/raw/el.zip
     files: 1
     sentences: 1739
@@ -63,10 +63,10 @@ monolingual:
         size: 51132
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/mono/en.tok.gz
       tokenized xml:
-        size: 176120
+        size: 181931
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/xml/en.zip
       xml:
-        size: 59486
+        size: 59858
         url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/raw/en.zip
     files: 1
     sentences: 1754
@@ -74,13 +74,13 @@ monolingual:
 moses:
   el-en:
     alignments: 1435
-    download size: 130975
+    download size: 131349
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/moses/el-en.txt.zip
     source language tokens: 26550
     target language tokens: 28007
 tmx:
   el-en:
-    download size: 142273
+    download size: 142272
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1970-governmental_about_M/v1/tmx/el-en.tmx.gz
     source language tokens: 26548
     target language tokens: 28005

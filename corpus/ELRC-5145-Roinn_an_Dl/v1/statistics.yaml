@@ -7,16 +7,16 @@ bitexts:
         size: 3132
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/xml/en-ga.xml.gz
       source language:
-        size: 18103
+        size: 18345
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/raw/en.zip
       target language:
-        size: 20158
+        size: 20400
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/raw/ga.zip
       tokenized source language:
-        size: 47671
+        size: 49567
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/xml/en.zip
       tokenized target language:
-        size: 55517
+        size: 57430
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/xml/ga.zip
     files: 1
     source language tokens: 8400
@@ -34,10 +34,10 @@ monolingual:
         size: 14376
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/mono/en.tok.gz
       tokenized xml:
-        size: 47671
+        size: 49567
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/xml/en.zip
       xml:
-        size: 18103
+        size: 18345
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/raw/en.zip
     files: 1
     sentences: 515
@@ -54,10 +54,10 @@ monolingual:
         size: 16479
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 55517
+        size: 57430
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/xml/ga.zip
       xml:
-        size: 20158
+        size: 20400
         url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/raw/ga.zip
     files: 1
     sentences: 513
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 285
-    download size: 34526
+    download size: 34772
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/moses/en-ga.txt.zip
     source language tokens: 7521
     target language tokens: 8633
 tmx:
   en-ga:
-    download size: 34582
+    download size: 34584
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5145-Roinn_an_Dl/v1/tmx/en-ga.tmx.gz
     source language tokens: 7521
     target language tokens: 8633

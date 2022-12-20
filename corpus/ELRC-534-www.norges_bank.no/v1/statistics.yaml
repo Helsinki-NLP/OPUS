@@ -7,16 +7,16 @@ bitexts:
         size: 652757
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 2902919
+        size: 2903303
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/raw/en.zip
       target language:
-        size: 2876096
+        size: 2876479
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/raw/nb.zip
       tokenized source language:
-        size: 8645937
+        size: 8916230
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/xml/en.zip
       tokenized target language:
-        size: 7833756
+        size: 8101595
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/xml/nb.zip
     files: 1
     source language tokens: 1380562
@@ -34,10 +34,10 @@ monolingual:
         size: 2551868
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 8645937
+        size: 8916230
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/xml/en.zip
       xml:
-        size: 2902919
+        size: 2903303
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/raw/en.zip
     files: 1
     sentences: 86845
@@ -54,10 +54,10 @@ monolingual:
         size: 2527752
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 7833756
+        size: 8101595
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/xml/nb.zip
       xml:
-        size: 2876096
+        size: 2876479
         url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/raw/nb.zip
     files: 1
     sentences: 86741
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 86588
-    download size: 5479150
+    download size: 5479531
     download url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/moses/en-nb.txt.zip
     source language tokens: 1231542
     target language tokens: 1426573
 tmx:
   en-nb:
-    download size: 5422177
+    download size: 5422175
     download url: https://object.pouta.csc.fi/OPUS-ELRC-534-www.norges_bank.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 1089421
     target language tokens: 1259849

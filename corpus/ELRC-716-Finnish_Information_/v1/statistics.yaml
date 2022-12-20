@@ -7,16 +7,16 @@ bitexts:
         size: 75499
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/xml/en-fi.xml.gz
       source language:
-        size: 279594
+        size: 279963
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/raw/en.zip
       target language:
-        size: 259800
+        size: 260170
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/raw/fi.zip
       tokenized source language:
-        size: 788355
+        size: 819588
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/xml/en.zip
       tokenized target language:
-        size: 589802
+        size: 619086
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/xml/fi.zip
     files: 1
     source language tokens: 91720
@@ -34,10 +34,10 @@ monolingual:
         size: 239379
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 788355
+        size: 819588
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/xml/en.zip
       xml:
-        size: 279594
+        size: 279963
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/raw/en.zip
     files: 1
     sentences: 10120
@@ -54,10 +54,10 @@ monolingual:
         size: 221799
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/mono/fi.tok.gz
       tokenized xml:
-        size: 589802
+        size: 619086
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/xml/fi.zip
       xml:
-        size: 259800
+        size: 260170
         url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/raw/fi.zip
     files: 1
     sentences: 9945
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-fi:
     alignments: 9942
-    download size: 513827
+    download size: 514198
     download url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/moses/en-fi.txt.zip
     source language tokens: 76938
     target language tokens: 127638
 tmx:
   en-fi:
-    download size: 542610
+    download size: 542613
     download url: https://object.pouta.csc.fi/OPUS-ELRC-716-Finnish_Information_/v1/tmx/en-fi.tmx.gz
     source language tokens: 76938
     target language tokens: 127638

@@ -7,16 +7,16 @@ bitexts:
         size: 19451
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/xml/en-pl.xml.gz
       source language:
-        size: 64784
+        size: 65174
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/raw/en.zip
       target language:
-        size: 69913
+        size: 70303
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/raw/pl.zip
       tokenized source language:
-        size: 177321
+        size: 182509
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/xml/en.zip
       tokenized target language:
-        size: 170120
+        size: 175250
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/xml/pl.zip
     files: 1
     source language tokens: 27523
@@ -34,10 +34,10 @@ monolingual:
         size: 57302
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/mono/en.tok.gz
       tokenized xml:
-        size: 177321
+        size: 182509
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/xml/en.zip
       xml:
-        size: 64784
+        size: 65174
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/raw/en.zip
     files: 1
     sentences: 1509
@@ -54,10 +54,10 @@ monolingual:
         size: 62317
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 170120
+        size: 175250
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/xml/pl.zip
       xml:
-        size: 69913
+        size: 70303
         url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/raw/pl.zip
     files: 1
     sentences: 1513
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 1398
-    download size: 128332
+    download size: 128726
     download url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/moses/en-pl.txt.zip
     source language tokens: 23810
     target language tokens: 28620
 tmx:
   en-pl:
-    download size: 134887
+    download size: 134886
     download url: https://object.pouta.csc.fi/OPUS-ELRC-960-Commissioner_Human_R/v1/tmx/en-pl.tmx.gz
     source language tokens: 23810
     target language tokens: 28620

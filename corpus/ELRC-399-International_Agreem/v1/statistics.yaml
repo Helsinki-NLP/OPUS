@@ -7,16 +7,16 @@ bitexts:
         size: 314659
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/en-lv.xml.gz
       source language:
-        size: 1967660
+        size: 1968008
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/raw/en.zip
       target language:
-        size: 2112660
+        size: 2113008
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/raw/lv.zip
       tokenized source language:
-        size: 6069489
+        size: 6202673
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/en.zip
       tokenized target language:
-        size: 5505491
+        size: 5640521
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/lv.zip
     files: 1
     source language tokens: 925281
@@ -34,10 +34,10 @@ monolingual:
         size: 1815381
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/mono/en.tok.gz
       tokenized xml:
-        size: 6069489
+        size: 6202673
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/en.zip
       xml:
-        size: 1967660
+        size: 1968008
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/raw/en.zip
     files: 1
     sentences: 40948
@@ -54,10 +54,10 @@ monolingual:
         size: 1956537
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/mono/lv.tok.gz
       tokenized xml:
-        size: 5505491
+        size: 5640521
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/xml/lv.zip
       xml:
-        size: 2112660
+        size: 2113008
         url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/raw/lv.zip
     files: 1
     sentences: 42153
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-lv:
     alignments: 40897
-    download size: 3945323
+    download size: 3945671
     download url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/moses/en-lv.txt.zip
     source language tokens: 774222
     target language tokens: 1035542
 tmx:
   en-lv:
-    download size: 4355674
+    download size: 4355676
     download url: https://object.pouta.csc.fi/OPUS-ELRC-399-International_Agreem/v1/tmx/en-lv.tmx.gz
     source language tokens: 774222
     target language tokens: 1035542

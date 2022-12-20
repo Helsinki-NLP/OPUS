@@ -7,25 +7,25 @@ bitexts:
         size: 4137
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 145896
+        size: 146137
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/smt/en-ga.zip
       source language:
-        size: 14678
+        size: 14919
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/raw/en.zip
       target language:
-        size: 15760
+        size: 16001
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/raw/ga.zip
       tokenized source language:
-        size: 42653
+        size: 44727
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/en.zip
       tokenized target language:
-        size: 44272
+        size: 46368
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/ga.zip
       word alignment dictionary:
         size: 10409
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 26141
+        size: 26381
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 7175
@@ -43,10 +43,10 @@ monolingual:
         size: 10028
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/mono/en.tok.gz
       tokenized xml:
-        size: 42653
+        size: 44727
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/en.zip
       xml:
-        size: 14678
+        size: 14919
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/raw/en.zip
     files: 1
     sentences: 588
@@ -63,10 +63,10 @@ monolingual:
         size: 11002
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 44272
+        size: 46368
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/xml/ga.zip
       xml:
-        size: 15760
+        size: 16001
         url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/raw/ga.zip
     files: 1
     sentences: 591
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 488
-    download size: 25145
+    download size: 25387
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/moses/en-ga.txt.zip
     source language tokens: 6337
     target language tokens: 6579
 tmx:
   en-ga:
-    download size: 28750
+    download size: 28746
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2469-Ritis_Airgeadais_Oif/v1/tmx/en-ga.tmx.gz
     source language tokens: 6337
     target language tokens: 6579

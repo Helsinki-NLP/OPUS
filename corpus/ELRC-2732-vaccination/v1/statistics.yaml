@@ -10,16 +10,16 @@ bitexts:
         size: 130494
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/smt/en-fr.zip
       source language:
-        size: 19693
+        size: 20053
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/raw/en.zip
       target language:
-        size: 23074
+        size: 23432
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/raw/fr.zip
       tokenized source language:
-        size: 51446
+        size: 53495
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/xml/en.zip
       tokenized target language:
-        size: 63137
+        size: 65213
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/xml/fr.zip
       word alignment dictionary:
         size: 9422
@@ -43,10 +43,10 @@ monolingual:
         size: 16074
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/mono/en.tok.gz
       tokenized xml:
-        size: 51446
+        size: 53495
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/xml/en.zip
       xml:
-        size: 19693
+        size: 20053
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/raw/en.zip
     files: 1
     sentences: 513
@@ -63,10 +63,10 @@ monolingual:
         size: 19502
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 63137
+        size: 65213
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/xml/fr.zip
       xml:
-        size: 23074
+        size: 23432
         url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/raw/fr.zip
     files: 1
     sentences: 512
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-fr:
     alignments: 513
-    download size: 39413
+    download size: 39773
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/moses/en-fr.txt.zip
     source language tokens: 7844
     target language tokens: 9536
 tmx:
   en-fr:
-    download size: 41195
+    download size: 41198
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2732-vaccination/v1/tmx/en-fr.tmx.gz
     source language tokens: 7844
     target language tokens: 9536

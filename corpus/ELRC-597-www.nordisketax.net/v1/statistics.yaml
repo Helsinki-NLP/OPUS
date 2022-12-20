@@ -7,16 +7,16 @@ bitexts:
         size: 7875
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/xml/en-is.xml.gz
       source language:
-        size: 36735
+        size: 37106
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/raw/en.zip
       target language:
-        size: 39791
+        size: 40161
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/raw/is.zip
       tokenized source language:
-        size: 117113
+        size: 120878
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/xml/en.zip
       tokenized target language:
-        size: 109929
+        size: 113631
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/xml/is.zip
     files: 1
     source language tokens: 19471
@@ -34,10 +34,10 @@ monolingual:
         size: 30977
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/mono/en.tok.gz
       tokenized xml:
-        size: 117113
+        size: 120878
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/xml/en.zip
       xml:
-        size: 36735
+        size: 37106
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/raw/en.zip
     files: 1
     sentences: 1067
@@ -54,10 +54,10 @@ monolingual:
         size: 34126
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/mono/is.tok.gz
       tokenized xml:
-        size: 109929
+        size: 113631
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/xml/is.zip
       xml:
-        size: 39791
+        size: 40161
         url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/raw/is.zip
     files: 1
     sentences: 1065
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-is:
     alignments: 1065
-    download size: 71817
+    download size: 72185
     download url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/moses/en-is.txt.zip
     source language tokens: 17633
     target language tokens: 20738
 tmx:
   en-is:
-    download size: 78238
+    download size: 78239
     download url: https://object.pouta.csc.fi/OPUS-ELRC-597-www.nordisketax.net/v1/tmx/en-is.tmx.gz
     source language tokens: 17633
     target language tokens: 20738

@@ -1,7 +1,7 @@
 ---
 bitexts:
   af-pt:
-    alignments: 1
+    alignments: 25
     downloads:
       alignments:
         size: 207
@@ -16,10 +16,10 @@ bitexts:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 7771
+        size: 8023
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/af.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 20
@@ -28,28 +28,28 @@ bitexts:
         size: 2994
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/af-pt.alg.zip
     files: 1
-    source language tokens: 25
-    target language tokens: 50
+    source language tokens: 50
+    target language tokens: ~
   ca-de:
-    alignments: 1
+    alignments: 15
     downloads:
       alignments:
         size: 207
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca-de.xml.gz
       smt phrase table:
-        size: 3292
+        size: 3291
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/ca-de.zip
       source language:
-        size: 11196
+        size: 11195
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/ca.zip
       target language:
         size: 394413
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/de.zip
       tokenized source language:
-        size: 12164
+        size: 14711
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca.zip
       tokenized target language:
-        size: 932326
+        size: 954152
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/de.zip
       word alignment dictionary:
         size: 20
@@ -58,8 +58,8 @@ bitexts:
         size: 2869
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/ca-de.alg.zip
     files: 1
-    source language tokens: 15
-    target language tokens: 21
+    source language tokens: 21
+    target language tokens: ~
   ca-en:
     alignments: 5
     downloads:
@@ -67,19 +67,19 @@ bitexts:
         size: 255
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca-en.xml.gz
       smt phrase table:
-        size: 4467
+        size: 4468
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/ca-en.zip
       source language:
-        size: 11196
+        size: 11195
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/ca.zip
       target language:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
       tokenized source language:
-        size: 12164
+        size: 14711
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca.zip
       tokenized target language:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       word alignment dictionary:
         size: 77
@@ -97,16 +97,16 @@ bitexts:
         size: 247
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca-es.xml.gz
       source language:
-        size: 11196
+        size: 11195
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/ca.zip
       target language:
         size: 352513
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/es.zip
       tokenized source language:
-        size: 12164
+        size: 14711
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca.zip
       tokenized target language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
     files: 3
     source language tokens: 68
@@ -121,28 +121,28 @@ bitexts:
         size: 3784
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/ca-fr.zip
       source language:
-        size: 11196
+        size: 11195
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/ca.zip
       target language:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       tokenized source language:
-        size: 12164
+        size: 14711
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca.zip
       tokenized target language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/ca-fr.dic.gz
       word alignments:
-        size: 3155
+        size: 3154
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/ca-fr.alg.zip
     files: 2
     source language tokens: 55
     target language tokens: 65
   ca-pt:
-    alignments: 2
+    alignments: 34
     downloads:
       alignments:
         size: 222
@@ -151,16 +151,16 @@ bitexts:
         size: 3560
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/ca-pt.zip
       source language:
-        size: 11196
+        size: 11195
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/ca.zip
       target language:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 12164
+        size: 14711
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 20
@@ -169,16 +169,16 @@ bitexts:
         size: 2991
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/ca-pt.alg.zip
     files: 2
-    source language tokens: 34
-    target language tokens: 45
+    source language tokens: 45
+    target language tokens: ~
   da-fr:
-    alignments: 1
+    alignments: 21
     downloads:
       alignments:
         size: 208
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/da-fr.xml.gz
       smt phrase table:
-        size: 3358
+        size: 3357
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/da-fr.zip
       source language:
         size: 8077
@@ -187,28 +187,28 @@ bitexts:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       tokenized source language:
-        size: 8243
+        size: 8748
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/da.zip
       tokenized target language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/da-fr.dic.gz
       word alignments:
-        size: 2920
+        size: 2919
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/da-fr.alg.zip
     files: 1
-    source language tokens: 21
-    target language tokens: 21
+    source language tokens: ~
+    target language tokens: ~
   da-pt:
-    alignments: 1
+    alignments: 16
     downloads:
       alignments:
         size: 207
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/da-pt.xml.gz
       smt phrase table:
-        size: 3353
+        size: 3352
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/da-pt.zip
       source language:
         size: 8077
@@ -217,20 +217,20 @@ bitexts:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 8243
+        size: 8748
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/da.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/da-pt.dic.gz
       word alignments:
-        size: 2884
+        size: 2883
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/da-pt.alg.zip
     files: 1
-    source language tokens: 16
-    target language tokens: 21
+    source language tokens: 21
+    target language tokens: ~
   de-en:
     alignments: 1057
     downloads:
@@ -244,13 +244,13 @@ bitexts:
         size: 394413
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/de.zip
       target language:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
       tokenized source language:
-        size: 932326
+        size: 954152
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/de.zip
       tokenized target language:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       word alignment dictionary:
         size: 16492
@@ -277,10 +277,10 @@ bitexts:
         size: 352513
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/es.zip
       tokenized source language:
-        size: 932326
+        size: 954152
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/de.zip
       tokenized target language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       word alignment dictionary:
         size: 19654
@@ -307,16 +307,16 @@ bitexts:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       tokenized source language:
-        size: 932326
+        size: 954152
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/de.zip
       tokenized target language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       word alignment dictionary:
         size: 17940
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/de-fr.dic.gz
       word alignments:
-        size: 140061
+        size: 140062
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/de-fr.alg.zip
     files: 1
     source language tokens: 37459
@@ -337,16 +337,16 @@ bitexts:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 932326
+        size: 954152
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/de.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 20666
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/de-pt.dic.gz
       word alignments:
-        size: 142033
+        size: 142032
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/de-pt.alg.zip
     files: 4
     source language tokens: 36655
@@ -358,19 +358,19 @@ bitexts:
         size: 11107
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en-es.xml.gz
       smt phrase table:
-        size: 344930
+        size: 344931
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/en-es.zip
       source language:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
       target language:
         size: 352513
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/es.zip
       tokenized source language:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       tokenized target language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       word alignment dictionary:
         size: 24234
@@ -382,25 +382,25 @@ bitexts:
     source language tokens: 39442
     target language tokens: 40162
   en-eu:
-    alignments: 1
+    alignments: 11
     downloads:
       alignments:
         size: 207
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en-eu.xml.gz
       smt phrase table:
-        size: 3262
+        size: 3263
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/en-eu.zip
       source language:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
       target language:
-        size: 8662
+        size: 8661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/eu.zip
       tokenized source language:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       tokenized target language:
-        size: 8846
+        size: 9854
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/eu.zip
       word alignment dictionary:
         size: 20
@@ -409,8 +409,8 @@ bitexts:
         size: 2867
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/en-eu.alg.zip
     files: 1
-    source language tokens: 11
-    target language tokens: 25
+    source language tokens: 25
+    target language tokens: ~
   en-fr:
     alignments: 1230
     downloads:
@@ -418,16 +418,16 @@ bitexts:
         size: 11049
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en-fr.xml.gz
       source language:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
       target language:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       tokenized source language:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       tokenized target language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
     files: 2
     source language tokens: 40262
@@ -439,19 +439,19 @@ bitexts:
         size: 223
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en-nl.xml.gz
       smt phrase table:
-        size: 3676
+        size: 3675
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/en-nl.zip
       source language:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
       target language:
-        size: 9258
+        size: 9259
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/nl.zip
       tokenized source language:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       tokenized target language:
-        size: 9922
+        size: 10981
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/nl.zip
       word alignment dictionary:
         size: 20
@@ -463,7 +463,7 @@ bitexts:
     source language tokens: 39
     target language tokens: 55
   en-no:
-    alignments: 1
+    alignments: 12
     downloads:
       alignments:
         size: 208
@@ -472,16 +472,16 @@ bitexts:
         size: 3221
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/en-no.zip
       source language:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
       target language:
-        size: 8713
+        size: 8714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/no.zip
       tokenized source language:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       tokenized target language:
-        size: 8914
+        size: 9922
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/no.zip
       word alignment dictionary:
         size: 20
@@ -490,8 +490,8 @@ bitexts:
         size: 2841
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/en-no.alg.zip
     files: 1
-    source language tokens: 12
-    target language tokens: 14
+    source language tokens: 14
+    target language tokens: ~
   en-pt:
     alignments: 1250
     downloads:
@@ -499,31 +499,31 @@ bitexts:
         size: 11752
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en-pt.xml.gz
       smt phrase table:
-        size: 351412
+        size: 351411
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/en-pt.zip
       source language:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
       target language:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 26262
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/en-pt.dic.gz
       word alignments:
-        size: 124943
+        size: 124944
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/en-pt.alg.zip
     files: 6
     source language tokens: 37082
     target language tokens: 40792
   es-eu:
-    alignments: 1
+    alignments: 11
     downloads:
       alignments:
         size: 208
@@ -535,13 +535,13 @@ bitexts:
         size: 352513
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/es.zip
       target language:
-        size: 8662
+        size: 8661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/eu.zip
       tokenized source language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       tokenized target language:
-        size: 8846
+        size: 9854
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/eu.zip
       word alignment dictionary:
         size: 20
@@ -550,8 +550,8 @@ bitexts:
         size: 2881
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/es-eu.alg.zip
     files: 1
-    source language tokens: 11
-    target language tokens: 25
+    source language tokens: 25
+    target language tokens: ~
   es-fr:
     alignments: 1380
     downloads:
@@ -559,7 +559,7 @@ bitexts:
         size: 11004
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es-fr.xml.gz
       smt phrase table:
-        size: 383970
+        size: 383969
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/es-fr.zip
       source language:
         size: 352513
@@ -568,40 +568,40 @@ bitexts:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       tokenized source language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       tokenized target language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       word alignment dictionary:
         size: 30916
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/es-fr.dic.gz
       word alignments:
-        size: 98978
+        size: 98977
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/es-fr.alg.zip
     files: 4
     source language tokens: 39581
     target language tokens: 40495
   es-it:
-    alignments: 1
+    alignments: 18
     downloads:
       alignments:
         size: 209
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es-it.xml.gz
       smt phrase table:
-        size: 3289
+        size: 3288
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/es-it.zip
       source language:
         size: 352513
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/es.zip
       target language:
-        size: 8409
+        size: 8411
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/it.zip
       tokenized source language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       tokenized target language:
-        size: 8618
+        size: 9375
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/it.zip
       word alignment dictionary:
         size: 20
@@ -610,8 +610,8 @@ bitexts:
         size: 2892
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/es-it.alg.zip
     files: 1
-    source language tokens: 18
-    target language tokens: 24
+    source language tokens: 24
+    target language tokens: ~
   es-nl:
     alignments: 3
     downloads:
@@ -625,13 +625,13 @@ bitexts:
         size: 352513
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/es.zip
       target language:
-        size: 9258
+        size: 9259
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/nl.zip
       tokenized source language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       tokenized target language:
-        size: 9922
+        size: 10981
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/nl.zip
       word alignment dictionary:
         size: 20
@@ -643,7 +643,7 @@ bitexts:
     source language tokens: 52
     target language tokens: 55
   es-no:
-    alignments: 1
+    alignments: 10
     downloads:
       alignments:
         size: 208
@@ -655,13 +655,13 @@ bitexts:
         size: 352513
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/es.zip
       target language:
-        size: 8713
+        size: 8714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/no.zip
       tokenized source language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       tokenized target language:
-        size: 8914
+        size: 9922
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/no.zip
       word alignment dictionary:
         size: 20
@@ -670,8 +670,8 @@ bitexts:
         size: 2822
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/es-no.alg.zip
     files: 1
-    source language tokens: 10
-    target language tokens: 12
+    source language tokens: 12
+    target language tokens: ~
   es-pt:
     alignments: 1405
     downloads:
@@ -679,7 +679,7 @@ bitexts:
         size: 11649
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es-pt.xml.gz
       smt phrase table:
-        size: 357356
+        size: 357355
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/es-pt.zip
       source language:
         size: 352513
@@ -688,10 +688,10 @@ bitexts:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 32611
@@ -703,7 +703,7 @@ bitexts:
     source language tokens: 36845
     target language tokens: 39822
   eu-fr:
-    alignments: 1
+    alignments: 11
     downloads:
       alignments:
         size: 208
@@ -712,16 +712,16 @@ bitexts:
         size: 3306
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/eu-fr.zip
       source language:
-        size: 8662
+        size: 8661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/eu.zip
       target language:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       tokenized source language:
-        size: 8846
+        size: 9854
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/eu.zip
       tokenized target language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       word alignment dictionary:
         size: 20
@@ -730,10 +730,10 @@ bitexts:
         size: 2879
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/eu-fr.alg.zip
     files: 1
-    source language tokens: 11
-    target language tokens: 32
+    source language tokens: 32
+    target language tokens: ~
   eu-pt:
-    alignments: 1
+    alignments: 11
     downloads:
       alignments:
         size: 207
@@ -742,28 +742,28 @@ bitexts:
         size: 3266
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/eu-pt.zip
       source language:
-        size: 8662
+        size: 8661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/eu.zip
       target language:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 8846
+        size: 9854
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/eu.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/eu-pt.dic.gz
       word alignments:
-        size: 2871
+        size: 2872
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/eu-pt.alg.zip
     files: 1
-    source language tokens: 11
-    target language tokens: 25
+    source language tokens: 25
+    target language tokens: ~
   fr-it:
-    alignments: 1
+    alignments: 18
     downloads:
       alignments:
         size: 209
@@ -775,13 +775,13 @@ bitexts:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       target language:
-        size: 8409
+        size: 8411
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/it.zip
       tokenized source language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       tokenized target language:
-        size: 8618
+        size: 9375
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/it.zip
       word alignment dictionary:
         size: 20
@@ -790,8 +790,8 @@ bitexts:
         size: 2905
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/fr-it.alg.zip
     files: 1
-    source language tokens: 18
-    target language tokens: 24
+    source language tokens: 24
+    target language tokens: ~
   fr-nl:
     alignments: 4
     downloads:
@@ -805,13 +805,13 @@ bitexts:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       target language:
-        size: 9258
+        size: 9259
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/nl.zip
       tokenized source language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       tokenized target language:
-        size: 9922
+        size: 10981
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/nl.zip
       word alignment dictionary:
         size: 20
@@ -823,7 +823,7 @@ bitexts:
     source language tokens: 50
     target language tokens: 64
   fr-no:
-    alignments: 1
+    alignments: 11
     downloads:
       alignments:
         size: 208
@@ -835,13 +835,13 @@ bitexts:
         size: 359063
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/fr.zip
       target language:
-        size: 8713
+        size: 8714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/no.zip
       tokenized source language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       tokenized target language:
-        size: 8914
+        size: 9922
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/no.zip
       word alignment dictionary:
         size: 20
@@ -850,8 +850,8 @@ bitexts:
         size: 2826
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/fr-no.alg.zip
     files: 1
-    source language tokens: 11
-    target language tokens: 12
+    source language tokens: 12
+    target language tokens: ~
   fr-pt:
     alignments: 1411
     downloads:
@@ -859,7 +859,7 @@ bitexts:
         size: 11644
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr-pt.xml.gz
       smt phrase table:
-        size: 399373
+        size: 399374
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/fr-pt.zip
       source language:
         size: 359063
@@ -868,10 +868,10 @@ bitexts:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 35986
@@ -883,7 +883,7 @@ bitexts:
     source language tokens: 37421
     target language tokens: 41296
   it-pt:
-    alignments: 1
+    alignments: 18
     downloads:
       alignments:
         size: 206
@@ -892,16 +892,16 @@ bitexts:
         size: 3286
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/it-pt.zip
       source language:
-        size: 8409
+        size: 8411
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/it.zip
       target language:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 8618
+        size: 9375
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/it.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 20
@@ -910,8 +910,8 @@ bitexts:
         size: 2896
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/it-pt.alg.zip
     files: 1
-    source language tokens: 18
-    target language tokens: 23
+    source language tokens: 23
+    target language tokens: ~
   nl-pt:
     alignments: 3
     downloads:
@@ -922,46 +922,46 @@ bitexts:
         size: 3874
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/nl-pt.zip
       source language:
-        size: 9258
+        size: 9259
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/nl.zip
       target language:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 9922
+        size: 10981
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/nl.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 20
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/dic/nl-pt.dic.gz
       word alignments:
-        size: 3099
+        size: 3097
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/nl-pt.alg.zip
     files: 1
     source language tokens: 52
     target language tokens: 53
   no-pt:
-    alignments: 1
+    alignments: 10
     downloads:
       alignments:
         size: 207
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/no-pt.xml.gz
       smt phrase table:
-        size: 3175
+        size: 3174
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/no-pt.zip
       source language:
-        size: 8713
+        size: 8714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/no.zip
       target language:
         size: 349438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/pt.zip
       tokenized source language:
-        size: 8914
+        size: 9922
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/no.zip
       tokenized target language:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       word alignment dictionary:
         size: 20
@@ -970,8 +970,8 @@ bitexts:
         size: 2821
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/smt/no-pt.alg.zip
     files: 1
-    source language tokens: 10
-    target language tokens: 12
+    source language tokens: 12
+    target language tokens: ~
 monolingual:
   af:
     downloads:
@@ -985,14 +985,14 @@ monolingual:
         size: 117
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/af.tok.gz
       tokenized xml:
-        size: 7771
+        size: 8023
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/af.zip
       xml:
         size: 7685
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/af.zip
     files: 1
-    sentences: 1
-    tokens: 25
+    sentences: 25
+    tokens: ~
   ca:
     downloads:
       frequency list:
@@ -1005,10 +1005,10 @@ monolingual:
         size: 372
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/ca.tok.gz
       tokenized xml:
-        size: 12164
+        size: 14711
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/ca.zip
       xml:
-        size: 11196
+        size: 11195
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/ca.zip
     files: 10
     sentences: 15
@@ -1025,14 +1025,14 @@ monolingual:
         size: 136
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/da.tok.gz
       tokenized xml:
-        size: 8243
+        size: 8748
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/da.zip
       xml:
         size: 8077
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/da.zip
     files: 2
-    sentences: 2
-    tokens: 42
+    sentences: 42
+    tokens: ~
   de:
     downloads:
       frequency list:
@@ -1045,7 +1045,7 @@ monolingual:
         size: 350887
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/de.tok.gz
       tokenized xml:
-        size: 932326
+        size: 954152
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/de.zip
       xml:
         size: 394413
@@ -1065,10 +1065,10 @@ monolingual:
         size: 320110
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/en.tok.gz
       tokenized xml:
-        size: 931200
+        size: 952796
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/en.zip
       xml:
-        size: 361397
+        size: 361396
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/en.zip
     files: 11
     sentences: 6203
@@ -1085,7 +1085,7 @@ monolingual:
         size: 314127
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/es.tok.gz
       tokenized xml:
-        size: 908982
+        size: 929446
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/es.zip
       xml:
         size: 352513
@@ -1105,14 +1105,14 @@ monolingual:
         size: 78
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/eu.tok.gz
       tokenized xml:
-        size: 8846
+        size: 9854
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/eu.zip
       xml:
-        size: 8662
+        size: 8661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/eu.zip
     files: 4
-    sentences: 4
-    tokens: 44
+    sentences: 44
+    tokens: ~
   fr:
     downloads:
       frequency list:
@@ -1125,7 +1125,7 @@ monolingual:
         size: 320867
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 941005
+        size: 960714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/fr.zip
       xml:
         size: 359063
@@ -1145,14 +1145,14 @@ monolingual:
         size: 121
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/it.tok.gz
       tokenized xml:
-        size: 8618
+        size: 9375
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/it.zip
       xml:
-        size: 8409
+        size: 8411
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/it.zip
     files: 3
-    sentences: 3
-    tokens: 54
+    sentences: 54
+    tokens: ~
   nl:
     downloads:
       frequency list:
@@ -1165,10 +1165,10 @@ monolingual:
         size: 340
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/nl.tok.gz
       tokenized xml:
-        size: 9922
+        size: 10981
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/nl.zip
       xml:
-        size: 9258
+        size: 9259
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/nl.zip
     files: 4
     sentences: 15
@@ -1185,14 +1185,14 @@ monolingual:
         size: 104
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/no.tok.gz
       tokenized xml:
-        size: 8914
+        size: 9922
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/no.zip
       xml:
-        size: 8713
+        size: 8714
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/raw/no.zip
     files: 4
-    sentences: 4
-    tokens: 48
+    sentences: 48
+    tokens: ~
   pt:
     downloads:
       frequency list:
@@ -1205,7 +1205,7 @@ monolingual:
         size: 306521
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 875072
+        size: 896661
         url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/xml/pt.zip
       xml:
         size: 349438
@@ -1228,16 +1228,16 @@ moses:
     target language tokens: 18
   ca-en:
     alignments: 9
-    download size: 7967
+    download size: 7966
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/ca-en.txt.zip
     source language tokens: 68
     target language tokens: 75
   ca-es:
     alignments: 7
-    download size: 7909
+    download size: 7908
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/ca-es.txt.zip
     source language tokens: 56
-    target language tokens: 56
+    target language tokens: ~
   ca-fr:
     alignments: 5
     download size: 7831
@@ -1246,7 +1246,7 @@ moses:
     target language tokens: 49
   ca-pt:
     alignments: 4
-    download size: 7703
+    download size: 7702
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/ca-pt.txt.zip
     source language tokens: 29
     target language tokens: 31
@@ -1258,7 +1258,7 @@ moses:
     target language tokens: 17
   da-pt:
     alignments: 2
-    download size: 7579
+    download size: 7578
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/da-pt.txt.zip
     source language tokens: 13
     target language tokens: 16
@@ -1306,13 +1306,13 @@ moses:
     target language tokens: 35682
   en-nl:
     alignments: 4
-    download size: 7749
+    download size: 7748
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/en-nl.txt.zip
     source language tokens: 34
     target language tokens: 49
   en-no:
     alignments: 2
-    download size: 7538
+    download size: 7537
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/en-no.txt.zip
     source language tokens: 11
     target language tokens: 13
@@ -1324,7 +1324,7 @@ moses:
     target language tokens: 36151
   es-eu:
     alignments: 2
-    download size: 7532
+    download size: 7531
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/es-eu.txt.zip
     source language tokens: 10
     target language tokens: 22
@@ -1336,7 +1336,7 @@ moses:
     target language tokens: 35112
   es-it:
     alignments: 2
-    download size: 7572
+    download size: 7573
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/es-it.txt.zip
     source language tokens: 17
     target language tokens: 23
@@ -1360,13 +1360,13 @@ moses:
     target language tokens: 35313
   eu-fr:
     alignments: 2
-    download size: 7550
+    download size: 7551
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/eu-fr.txt.zip
     source language tokens: 10
     target language tokens: 29
   eu-pt:
     alignments: 2
-    download size: 7527
+    download size: 7528
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/eu-pt.txt.zip
     source language tokens: 10
     target language tokens: 22
@@ -1384,10 +1384,10 @@ moses:
     target language tokens: 57
   fr-no:
     alignments: 2
-    download size: 1818
+    download size: 7521
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/fr-no.txt.zip
     source language tokens: 11
-    target language tokens: 11
+    target language tokens: ~
   fr-pt:
     alignments: 1416
     download size: 175725
@@ -1396,7 +1396,7 @@ moses:
     target language tokens: 35087
   it-pt:
     alignments: 2
-    download size: 7574
+    download size: 7575
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/it-pt.txt.zip
     source language tokens: 17
     target language tokens: 22
@@ -1408,13 +1408,13 @@ moses:
     target language tokens: 50
   no-pt:
     alignments: 2
-    download size: 7518
+    download size: 7517
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/moses/no-pt.txt.zip
     source language tokens: 10
     target language tokens: 11
 tmx:
   af-pt:
-    download size: 442
+    download size: 441
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/af-pt.tmx.gz
     source language tokens: 22
     target language tokens: 44
@@ -1426,19 +1426,19 @@ tmx:
     target language tokens: 18
     translation units: 2
   ca-en:
-    download size: 723
+    download size: 722
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/ca-en.tmx.gz
     source language tokens: 68
     target language tokens: 75
     translation units: 6
   ca-es:
-    download size: 650
+    download size: 651
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/ca-es.tmx.gz
     source language tokens: 56
-    target language tokens: 56
+    target language tokens: ~
     translation units: 5
   ca-fr:
-    download size: 599
+    download size: 598
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/ca-fr.tmx.gz
     source language tokens: 42
     target language tokens: 49
@@ -1462,7 +1462,7 @@ tmx:
     target language tokens: 16
     translation units: 2
   de-en:
-    download size: 182639
+    download size: 182644
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/de-en.tmx.gz
     source language tokens: 32964
     target language tokens: 35320
@@ -1480,31 +1480,31 @@ tmx:
     target language tokens: 34018
     translation units: 1102
   de-pt:
-    download size: 183490
+    download size: 183495
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/de-pt.tmx.gz
     source language tokens: 32316
     target language tokens: 33360
     translation units: 1346
   en-es:
-    download size: 172306
+    download size: 172305
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/en-es.tmx.gz
     source language tokens: 34990
     target language tokens: 35599
     translation units: 1228
   en-eu:
-    download size: 358
+    download size: 359
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/en-eu.tmx.gz
     source language tokens: 10
     target language tokens: 22
     translation units: 2
   en-fr:
-    download size: 174892
+    download size: 174894
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/en-fr.tmx.gz
     source language tokens: 34399
     target language tokens: 35682
     translation units: 1231
   en-nl:
-    download size: 527
+    download size: 528
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/en-nl.tmx.gz
     source language tokens: 34
     target language tokens: 49
@@ -1516,7 +1516,7 @@ tmx:
     target language tokens: 13
     translation units: 2
   en-pt:
-    download size: 171921
+    download size: 171924
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/en-pt.tmx.gz
     source language tokens: 32714
     target language tokens: 36111
@@ -1528,7 +1528,7 @@ tmx:
     target language tokens: 22
     translation units: 2
   es-fr:
-    download size: 173767
+    download size: 173769
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/es-fr.tmx.gz
     source language tokens: 34374
     target language tokens: 35112
@@ -1540,7 +1540,7 @@ tmx:
     target language tokens: 23
     translation units: 2
   es-nl:
-    download size: 598
+    download size: 597
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/es-nl.tmx.gz
     source language tokens: 44
     target language tokens: 50
@@ -1552,7 +1552,7 @@ tmx:
     target language tokens: 11
     translation units: 2
   es-pt:
-    download size: 155430
+    download size: 155431
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/es-pt.tmx.gz
     source language tokens: 32530
     target language tokens: 35313
@@ -1570,7 +1570,7 @@ tmx:
     target language tokens: 22
     translation units: 2
   fr-it:
-    download size: 380
+    download size: 381
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/fr-it.tmx.gz
     source language tokens: 17
     target language tokens: 22
@@ -1585,10 +1585,10 @@ tmx:
     download size: 336
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/fr-no.tmx.gz
     source language tokens: 11
-    target language tokens: 11
+    target language tokens: ~
     translation units: 2
   fr-pt:
-    download size: 173650
+    download size: 173647
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2612-Artigos_visitportuga/v1/tmx/fr-pt.tmx.gz
     source language tokens: 33011
     target language tokens: 35043

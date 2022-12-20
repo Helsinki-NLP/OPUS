@@ -7,16 +7,16 @@ bitexts:
         size: 5980
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/en-pl.xml.gz
       source language:
-        size: 16030
+        size: 16401
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/raw/en.zip
       target language:
-        size: 16645
+        size: 17016
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/raw/pl.zip
       tokenized source language:
-        size: 39274
+        size: 41157
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/en.zip
       tokenized target language:
-        size: 36471
+        size: 38339
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/pl.zip
     files: 1
     source language tokens: 5504
@@ -34,10 +34,10 @@ monolingual:
         size: 12612
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/mono/en.tok.gz
       tokenized xml:
-        size: 39274
+        size: 41157
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/en.zip
       xml:
-        size: 16030
+        size: 16401
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/raw/en.zip
     files: 1
     sentences: 471
@@ -54,10 +54,10 @@ monolingual:
         size: 13180
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 36471
+        size: 38339
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/xml/pl.zip
       xml:
-        size: 16645
+        size: 17016
         url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/raw/pl.zip
     files: 1
     sentences: 465
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 463
-    download size: 29599
+    download size: 29968
     download url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/moses/en-pl.txt.zip
     source language tokens: 4840
     target language tokens: 5908
 tmx:
   en-pl:
-    download size: 28027
+    download size: 28026
     download url: https://object.pouta.csc.fi/OPUS-ELRC-785-Compendium_Social_In/v1/tmx/en-pl.tmx.gz
     source language tokens: 4683
     target language tokens: 5720

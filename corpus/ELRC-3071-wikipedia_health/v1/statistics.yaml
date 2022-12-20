@@ -7,19 +7,19 @@ bitexts:
         size: 4852
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/xml/en-no.xml.gz
       smt phrase table:
-        size: 179990
+        size: 179991
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/smt/en-no.zip
       source language:
-        size: 43325
+        size: 43681
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/raw/en.zip
       target language:
-        size: 40943
+        size: 41298
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/raw/no.zip
       tokenized source language:
-        size: 105076
+        size: 107713
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/xml/en.zip
       tokenized target language:
-        size: 96167
+        size: 98764
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/xml/no.zip
       word alignment dictionary:
         size: 11313
@@ -43,10 +43,10 @@ monolingual:
         size: 38920
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/mono/en.tok.gz
       tokenized xml:
-        size: 105076
+        size: 107713
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/xml/en.zip
       xml:
-        size: 43325
+        size: 43681
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/raw/en.zip
     files: 1
     sentences: 687
@@ -63,10 +63,10 @@ monolingual:
         size: 36603
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/mono/no.tok.gz
       tokenized xml:
-        size: 96167
+        size: 98764
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/xml/no.zip
       xml:
-        size: 40943
+        size: 41298
         url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/raw/no.zip
     files: 1
     sentences: 690
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-no:
     alignments: 686
-    download size: 79789
+    download size: 80144
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3071-wikipedia_health/v1/moses/en-no.txt.zip
     source language tokens: 12765
     target language tokens: 14669

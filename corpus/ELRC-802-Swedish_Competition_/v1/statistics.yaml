@@ -7,16 +7,16 @@ bitexts:
         size: 85935
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/xml/en-sv.xml.gz
       source language:
-        size: 320872
+        size: 321248
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/raw/en.zip
       target language:
-        size: 312875
+        size: 313251
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/raw/sv.zip
       tokenized source language:
-        size: 947152
+        size: 982137
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/xml/en.zip
       tokenized target language:
-        size: 808492
+        size: 842603
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/xml/sv.zip
     files: 1
     source language tokens: 137778
@@ -34,10 +34,10 @@ monolingual:
         size: 278955
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 947152
+        size: 982137
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/xml/en.zip
       xml:
-        size: 320872
+        size: 321248
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/raw/en.zip
     files: 1
     sentences: 11465
@@ -54,10 +54,10 @@ monolingual:
         size: 271656
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 808492
+        size: 842603
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/xml/sv.zip
       xml:
-        size: 312875
+        size: 313251
         url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/raw/sv.zip
     files: 1
     sentences: 11373
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-sv:
     alignments: 11374
-    download size: 610654
+    download size: 611032
     download url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/moses/en-sv.txt.zip
     source language tokens: 125003
     target language tokens: 155407
 tmx:
   en-sv:
-    download size: 614799
+    download size: 614800
     download url: https://object.pouta.csc.fi/OPUS-ELRC-802-Swedish_Competition_/v1/tmx/en-sv.tmx.gz
     source language tokens: 116989
     target language tokens: 145175

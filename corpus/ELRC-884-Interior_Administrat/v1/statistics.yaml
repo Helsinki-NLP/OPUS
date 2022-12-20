@@ -7,16 +7,16 @@ bitexts:
         size: 7994
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/en-pl.xml.gz
       source language:
-        size: 33478
+        size: 33864
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/raw/en.zip
       target language:
-        size: 36609
+        size: 36995
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/raw/pl.zip
       tokenized source language:
-        size: 86117
+        size: 88582
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/en.zip
       tokenized target language:
-        size: 82157
+        size: 84575
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/pl.zip
     files: 1
     source language tokens: 12585
@@ -34,10 +34,10 @@ monolingual:
         size: 29449
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/mono/en.tok.gz
       tokenized xml:
-        size: 86117
+        size: 88582
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/en.zip
       xml:
-        size: 33478
+        size: 33864
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/raw/en.zip
     files: 1
     sentences: 627
@@ -54,10 +54,10 @@ monolingual:
         size: 32396
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 82157
+        size: 84575
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/xml/pl.zip
       xml:
-        size: 36609
+        size: 36995
         url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/raw/pl.zip
     files: 1
     sentences: 622
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 611
-    download size: 66336
+    download size: 66721
     download url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/moses/en-pl.txt.zip
     source language tokens: 11110
     target language tokens: 13604
 tmx:
   en-pl:
-    download size: 68034
+    download size: 68036
     download url: https://object.pouta.csc.fi/OPUS-ELRC-884-Interior_Administrat/v1/tmx/en-pl.tmx.gz
     source language tokens: 11110
     target language tokens: 13604

@@ -7,16 +7,16 @@ bitexts:
         size: 42678
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/xml/en-ro.xml.gz
       source language:
-        size: 203333
+        size: 203696
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/raw/en.zip
       target language:
-        size: 223635
+        size: 223998
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/raw/ro.zip
       tokenized source language:
-        size: 546147
+        size: 563925
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/xml/en.zip
       tokenized target language:
-        size: 581036
+        size: 598379
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/xml/ro.zip
     files: 1
     source language tokens: 99841
@@ -34,10 +34,10 @@ monolingual:
         size: 178638
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/mono/en.tok.gz
       tokenized xml:
-        size: 546147
+        size: 563925
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/xml/en.zip
       xml:
-        size: 203333
+        size: 203696
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/raw/en.zip
     files: 1
     sentences: 5534
@@ -54,10 +54,10 @@ monolingual:
         size: 200030
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 581036
+        size: 598379
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/xml/ro.zip
       xml:
-        size: 223635
+        size: 223998
         url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/raw/ro.zip
     files: 1
     sentences: 5360
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ro:
     alignments: 5281
-    download size: 408942
+    download size: 409304
     download url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/moses/en-ro.txt.zip
     source language tokens: 93694
     target language tokens: 96976
 tmx:
   en-ro:
-    download size: 440893
+    download size: 440891
     download url: https://object.pouta.csc.fi/OPUS-ELRC-491-Romanian_literature/v1/tmx/en-ro.tmx.gz
     source language tokens: 93694
     target language tokens: 96976

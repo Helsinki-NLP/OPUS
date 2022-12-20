@@ -7,16 +7,16 @@ bitexts:
         size: 10116
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/en-ga.xml.gz
       source language:
-        size: 66711
+        size: 66977
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/raw/en.zip
       target language:
-        size: 76207
+        size: 76472
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/raw/ga.zip
       tokenized source language:
-        size: 166918
+        size: 171623
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/en.zip
       tokenized target language:
-        size: 200450
+        size: 205330
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/ga.zip
     files: 1
     source language tokens: 28274
@@ -34,10 +34,10 @@ monolingual:
         size: 59274
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/mono/en.tok.gz
       tokenized xml:
-        size: 166918
+        size: 171623
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/en.zip
       xml:
-        size: 66711
+        size: 66977
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/raw/en.zip
     files: 1
     sentences: 1434
@@ -54,10 +54,10 @@ monolingual:
         size: 68183
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 200450
+        size: 205330
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/xml/ga.zip
       xml:
-        size: 76207
+        size: 76472
         url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/raw/ga.zip
     files: 1
     sentences: 1472
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 1037
-    download size: 135751
+    download size: 136017
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5136-Tuarasclacha_Bliantl/v1/moses/en-ga.txt.zip
     source language tokens: 24504
     target language tokens: 30586

@@ -7,25 +7,25 @@ bitexts:
         size: 372228
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/xml/en-fi.xml.gz
       smt phrase table:
-        size: 8470297
+        size: 8470539
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/smt/en-fi.zip
       source language:
-        size: 2101877
+        size: 2102244
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/raw/en.zip
       target language:
-        size: 2102748
+        size: 2103115
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/raw/fi.zip
       tokenized source language:
-        size: 5654211
+        size: 5809624
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/xml/en.zip
       tokenized target language:
-        size: 4411318
+        size: 4561717
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/xml/fi.zip
       word alignment dictionary:
         size: 727771
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/dic/en-fi.dic.gz
       word alignments:
-        size: 2418472
+        size: 2418713
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/smt/en-fi.alg.zip
     files: 1
     source language tokens: 629475
@@ -43,10 +43,10 @@ monolingual:
         size: 1904236
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/mono/en.tok.gz
       tokenized xml:
-        size: 5654211
+        size: 5809624
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/xml/en.zip
       xml:
-        size: 2101877
+        size: 2102244
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/raw/en.zip
     files: 1
     sentences: 49408
@@ -63,10 +63,10 @@ monolingual:
         size: 1908005
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/mono/fi.tok.gz
       tokenized xml:
-        size: 4411318
+        size: 4561717
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/xml/fi.zip
       xml:
-        size: 2102748
+        size: 2103115
         url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/raw/fi.zip
     files: 1
     sentences: 49380
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-fi:
     alignments: 49317
-    download size: 4039488
+    download size: 4039854
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/moses/en-fi.txt.zip
     source language tokens: 549713
     target language tokens: 902864
 tmx:
   en-fi:
-    download size: 4389920
+    download size: 4389916
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1769-valtioneuvosto.fi/v1/tmx/en-fi.tmx.gz
     source language tokens: 549713
     target language tokens: 902864

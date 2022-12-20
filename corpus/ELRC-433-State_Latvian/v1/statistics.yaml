@@ -1,78 +1,78 @@
 ---
 bitexts:
   en-lv:
-    alignments: 1
+    alignments: 6861
     downloads:
       alignments:
         size: 53022
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/xml/en-lv.xml.gz
       source language:
-        size: 333500
+        size: 333623
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/raw/en.zip
       target language:
-        size: 339462
+        size: 339585
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/raw/lv.zip
       tokenized source language:
-        size: 1712
+        size: 907618
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/xml/en.zip
       tokenized target language:
-        size: 1713
+        size: 806541
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/xml/lv.zip
     files: 1
-    source language tokens: 6861
-    target language tokens: 6861
+    source language tokens: 120252
+    target language tokens: 155071
 monolingual:
   en:
     downloads:
       frequency list:
-        size: 20
+        size: 48538
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/freq/en.freq.gz
       plain text:
         size: 304002
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/mono/en.txt.gz
       tokenized text:
-        size: 20
+        size: 305411
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1712
+        size: 907618
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/xml/en.zip
       xml:
-        size: 333500
+        size: 333623
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/raw/en.zip
     files: 0
-    sentences: 0
-    tokens: 0
+    sentences: 1
+    tokens: 6897
   lv:
     downloads:
       frequency list:
-        size: 20
+        size: 88340
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/freq/lv.freq.gz
       plain text:
         size: 309717
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/mono/lv.txt.gz
       tokenized text:
-        size: 20
+        size: 311701
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/mono/lv.tok.gz
       tokenized xml:
-        size: 1713
+        size: 806541
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/xml/lv.zip
       xml:
-        size: 339462
+        size: 339585
         url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/raw/lv.zip
     files: 0
-    sentences: 0
-    tokens: 0
+    sentences: 1
+    tokens: 6902
 moses:
   en-lv:
     alignments: 6862
-    download size: 645306
+    download size: 645429
     download url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/moses/en-lv.txt.zip
-    source language tokens: 6862
-    target language tokens: 101593
+    source language tokens: 101593
+    target language tokens: 137946
 tmx:
   en-lv:
-    download size: 704890
+    download size: 704887
     download url: https://object.pouta.csc.fi/OPUS-ELRC-433-State_Latvian/v1/tmx/en-lv.tmx.gz
-    source language tokens: 6862
-    target language tokens: 101593
+    source language tokens: 101593
+    target language tokens: 137946
     translation units: 6862

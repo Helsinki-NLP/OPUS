@@ -7,16 +7,16 @@ bitexts:
         size: 18514
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/xml/en-is.xml.gz
       source language:
-        size: 89176
+        size: 89547
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/raw/en.zip
       target language:
-        size: 98956
+        size: 99328
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/raw/is.zip
       tokenized source language:
-        size: 246021
+        size: 253919
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/xml/en.zip
       tokenized target language:
-        size: 241599
+        size: 249319
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/xml/is.zip
     files: 1
     source language tokens: 39745
@@ -34,10 +34,10 @@ monolingual:
         size: 78042
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/mono/en.tok.gz
       tokenized xml:
-        size: 246021
+        size: 253919
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/xml/en.zip
       xml:
-        size: 89176
+        size: 89547
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/raw/en.zip
     files: 1
     sentences: 2433
@@ -54,10 +54,10 @@ monolingual:
         size: 88473
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/mono/is.tok.gz
       tokenized xml:
-        size: 241599
+        size: 249319
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/xml/is.zip
       xml:
-        size: 98956
+        size: 99328
         url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/raw/is.zip
     files: 1
     sentences: 2392
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-is:
     alignments: 2361
-    download size: 179315
+    download size: 179686
     download url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/moses/en-is.txt.zip
     source language tokens: 34992
     target language tokens: 39837
 tmx:
   en-is:
-    download size: 195077
+    download size: 195078
     download url: https://object.pouta.csc.fi/OPUS-ELRC-718-Statistics_Iceland/v1/tmx/en-is.tmx.gz
     source language tokens: 34992
     target language tokens: 39837

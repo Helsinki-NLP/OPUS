@@ -7,25 +7,25 @@ bitexts:
         size: 139043
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/de-it.xml.gz
       smt phrase table:
-        size: 6272919
+        size: 6273150
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/smt/de-it.zip
       source language:
-        size: 887703
+        size: 888053
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/raw/de.zip
       target language:
-        size: 860108
+        size: 860460
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/raw/it.zip
       tokenized source language:
-        size: 2525359
+        size: 2579655
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/de.zip
       tokenized target language:
-        size: 2763833
+        size: 2829592
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/it.zip
       word alignment dictionary:
         size: 187855
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/dic/de-it.dic.gz
       word alignments:
-        size: 1459882
+        size: 1460113
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/smt/de-it.alg.zip
     files: 1
     source language tokens: 436910
@@ -43,10 +43,10 @@ monolingual:
         size: 823084
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/mono/de.tok.gz
       tokenized xml:
-        size: 2525359
+        size: 2579655
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/de.zip
       xml:
-        size: 887703
+        size: 888053
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/raw/de.zip
     files: 1
     sentences: 16750
@@ -63,10 +63,10 @@ monolingual:
         size: 778473
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/mono/it.tok.gz
       tokenized xml:
-        size: 2763833
+        size: 2829592
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/xml/it.zip
       xml:
-        size: 860108
+        size: 860460
         url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/raw/it.zip
     files: 1
     sentences: 20230
@@ -74,13 +74,13 @@ monolingual:
 moses:
   de-it:
     alignments: 16008
-    download size: 1689698
+    download size: 1690049
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/moses/de-it.txt.zip
     source language tokens: 379382
     target language tokens: 421085
 tmx:
   de-it:
-    download size: 1764635
+    download size: 1764639
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1973-Italian_legal_termin/v1/tmx/de-it.tmx.gz
     source language tokens: 377985
     target language tokens: 419635

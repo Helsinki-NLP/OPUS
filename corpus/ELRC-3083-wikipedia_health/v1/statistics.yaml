@@ -7,19 +7,19 @@ bitexts:
         size: 115483
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/xml/ar-en.xml.gz
       smt phrase table:
-        size: 3464155
+        size: 3464154
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/smt/ar-en.zip
       source language:
-        size: 1054124
+        size: 1054482
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/raw/ar.zip
       target language:
-        size: 864884
+        size: 865241
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/raw/en.zip
       tokenized source language:
-        size: 2294772
+        size: 2343635
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/xml/ar.zip
       tokenized target language:
-        size: 2220165
+        size: 2269311
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/xml/en.zip
       word alignment dictionary:
         size: 214462
@@ -43,10 +43,10 @@ monolingual:
         size: 995364
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/mono/ar.tok.gz
       tokenized xml:
-        size: 2294772
+        size: 2343635
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/xml/ar.zip
       xml:
-        size: 1054124
+        size: 1054482
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/raw/ar.zip
     files: 1
     sentences: 15133
@@ -63,10 +63,10 @@ monolingual:
         size: 803699
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2220165
+        size: 2269311
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/xml/en.zip
       xml:
-        size: 864884
+        size: 865241
         url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/raw/en.zip
     files: 1
     sentences: 15203
@@ -74,13 +74,13 @@ monolingual:
 moses:
   ar-en:
     alignments: 15130
-    download size: 1864155
+    download size: 1864512
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/moses/ar-en.txt.zip
     source language tokens: 305994
     target language tokens: 324019
 tmx:
   ar-en:
-    download size: 2104283
+    download size: 2104286
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3083-wikipedia_health/v1/tmx/ar-en.tmx.gz
     source language tokens: 305954
     target language tokens: 323977

@@ -7,25 +7,25 @@ bitexts:
         size: 1536
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 43342
+        size: 43599
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/smt/en-ga.zip
       source language:
-        size: 8265
+        size: 8517
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/raw/en.zip
       target language:
-        size: 8977
+        size: 9233
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/raw/ga.zip
       tokenized source language:
-        size: 17639
+        size: 18664
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/xml/en.zip
       tokenized target language:
-        size: 20413
+        size: 21457
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/xml/ga.zip
       word alignment dictionary:
         size: 3530
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 14405
+        size: 14662
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 2787
@@ -43,10 +43,10 @@ monolingual:
         size: 5670
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/mono/en.tok.gz
       tokenized xml:
-        size: 17639
+        size: 18664
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/xml/en.zip
       xml:
-        size: 8265
+        size: 8517
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/raw/en.zip
     files: 1
     sentences: 195
@@ -63,10 +63,10 @@ monolingual:
         size: 6376
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 20413
+        size: 21457
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/xml/ga.zip
       xml:
-        size: 8977
+        size: 9233
         url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/raw/ga.zip
     files: 1
     sentences: 196
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 178
-    download size: 14583
+    download size: 14839
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/moses/en-ga.txt.zip
     source language tokens: 2441
     target language tokens: 2933
 tmx:
   en-ga:
-    download size: 13228
+    download size: 13229
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2440-Polsas_ar_Fheinilach/v1/tmx/en-ga.tmx.gz
     source language tokens: 2441
     target language tokens: 2933

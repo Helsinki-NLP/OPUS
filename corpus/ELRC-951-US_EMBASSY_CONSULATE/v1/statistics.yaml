@@ -7,16 +7,16 @@ bitexts:
         size: 47084
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/xml/en-pl.xml.gz
       source language:
-        size: 140291
+        size: 140692
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/raw/en.zip
       target language:
-        size: 159096
+        size: 159497
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/raw/pl.zip
       tokenized source language:
-        size: 370071
+        size: 381235
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/xml/en.zip
       tokenized target language:
-        size: 379439
+        size: 390574
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/xml/pl.zip
     files: 1
     source language tokens: 58988
@@ -34,10 +34,10 @@ monolingual:
         size: 126219
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/mono/en.tok.gz
       tokenized xml:
-        size: 370071
+        size: 381235
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/xml/en.zip
       xml:
-        size: 140291
+        size: 140692
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/raw/en.zip
     files: 1
     sentences: 3428
@@ -54,10 +54,10 @@ monolingual:
         size: 143711
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 379439
+        size: 390574
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/xml/pl.zip
       xml:
-        size: 159096
+        size: 159497
         url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/raw/pl.zip
     files: 1
     sentences: 3439
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 3335
-    download size: 287140
+    download size: 287541
     download url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/moses/en-pl.txt.zip
     source language tokens: 51232
     target language tokens: 56532
 tmx:
   en-pl:
-    download size: 305617
+    download size: 305618
     download url: https://object.pouta.csc.fi/OPUS-ELRC-951-US_EMBASSY_CONSULATE/v1/tmx/en-pl.tmx.gz
     source language tokens: 51232
     target language tokens: 56532

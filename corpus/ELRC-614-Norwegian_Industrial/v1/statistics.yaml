@@ -7,16 +7,16 @@ bitexts:
         size: 9544
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/xml/en-nn.xml.gz
       source language:
-        size: 37632
+        size: 38019
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/raw/en.zip
       target language:
-        size: 37127
+        size: 37514
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/raw/nn.zip
       tokenized source language:
-        size: 109433
+        size: 113950
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/xml/en.zip
       tokenized target language:
-        size: 99558
+        size: 104020
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/xml/nn.zip
     files: 1
     source language tokens: 17703
@@ -34,10 +34,10 @@ monolingual:
         size: 31157
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/mono/en.tok.gz
       tokenized xml:
-        size: 109433
+        size: 113950
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/xml/en.zip
       xml:
-        size: 37632
+        size: 38019
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/raw/en.zip
     files: 1
     sentences: 1333
@@ -54,10 +54,10 @@ monolingual:
         size: 30627
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/mono/nn.tok.gz
       tokenized xml:
-        size: 99558
+        size: 104020
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/xml/nn.zip
       xml:
-        size: 37127
+        size: 37514
         url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/raw/nn.zip
     files: 1
     sentences: 1330
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nn:
     alignments: 1331
-    download size: 69942
+    download size: 70331
     download url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/moses/en-nn.txt.zip
     source language tokens: 15691
     target language tokens: 18428
 tmx:
   en-nn:
-    download size: 73513
+    download size: 73511
     download url: https://object.pouta.csc.fi/OPUS-ELRC-614-Norwegian_Industrial/v1/tmx/en-nn.tmx.gz
     source language tokens: 15259
     target language tokens: 17909

@@ -7,16 +7,16 @@ bitexts:
         size: 2974
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/xml/en-ga.xml.gz
       source language:
-        size: 16375
+        size: 16621
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/raw/en.zip
       target language:
-        size: 17744
+        size: 17990
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/raw/ga.zip
       tokenized source language:
-        size: 42541
+        size: 44348
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/xml/en.zip
       tokenized target language:
-        size: 46969
+        size: 48790
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/xml/ga.zip
     files: 1
     source language tokens: 7451
@@ -34,10 +34,10 @@ monolingual:
         size: 12522
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/mono/en.tok.gz
       tokenized xml:
-        size: 42541
+        size: 44348
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/xml/en.zip
       xml:
-        size: 16375
+        size: 16621
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/raw/en.zip
     files: 1
     sentences: 490
@@ -54,10 +54,10 @@ monolingual:
         size: 13831
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 46969
+        size: 48790
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/xml/ga.zip
       xml:
-        size: 17744
+        size: 17990
         url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/raw/ga.zip
     files: 1
     sentences: 490
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 315
-    download size: 29891
+    download size: 30136
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/moses/en-ga.txt.zip
     source language tokens: 6586
     target language tokens: 7289
 tmx:
   en-ga:
-    download size: 29776
+    download size: 29777
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5125-IRC_Conditions_award/v1/tmx/en-ga.tmx.gz
     source language tokens: 6586
     target language tokens: 7289

@@ -10,16 +10,16 @@ bitexts:
         size: 145687
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/smt/en-ga.zip
       source language:
-        size: 18045
+        size: 18398
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/raw/en.zip
       target language:
-        size: 19757
+        size: 20111
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/raw/ga.zip
       tokenized source language:
-        size: 58558
+        size: 60395
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/xml/en.zip
       tokenized target language:
-        size: 60223
+        size: 62270
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/xml/ga.zip
       word alignment dictionary:
         size: 7286
@@ -43,10 +43,10 @@ monolingual:
         size: 14970
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 58558
+        size: 60395
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/xml/en.zip
       xml:
-        size: 18045
+        size: 18398
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/raw/en.zip
     files: 1
     sentences: 422
@@ -63,10 +63,10 @@ monolingual:
         size: 16285
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 60223
+        size: 62270
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/xml/ga.zip
       xml:
-        size: 19757
+        size: 20111
         url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/raw/ga.zip
     files: 1
     sentences: 509
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 399
-    download size: 34703
+    download size: 35057
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/moses/en-ga.txt.zip
     source language tokens: 8005
     target language tokens: 8083
 tmx:
   en-ga:
-    download size: 33575
+    download size: 33573
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3557-EUR_LEX_covid/v1/tmx/en-ga.tmx.gz
     source language tokens: 8005
     target language tokens: 8083

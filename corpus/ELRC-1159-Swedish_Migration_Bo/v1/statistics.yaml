@@ -7,25 +7,25 @@ bitexts:
         size: 14605
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/xml/en-hr.xml.gz
       smt phrase table:
-        size: 251277
+        size: 251535
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/smt/en-hr.zip
       source language:
-        size: 33899
+        size: 34278
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/raw/en.zip
       target language:
-        size: 37272
+        size: 37653
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/raw/hr.zip
       tokenized source language:
-        size: 102107
+        size: 105988
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/xml/en.zip
       tokenized target language:
-        size: 99520
+        size: 103317
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/xml/hr.zip
       word alignment dictionary:
         size: 20109
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/dic/en-hr.dic.gz
       word alignments:
-        size: 55155
+        size: 55413
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/smt/en-hr.alg.zip
     files: 1
     source language tokens: 17441
@@ -43,10 +43,10 @@ monolingual:
         size: 28242
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/mono/en.tok.gz
       tokenized xml:
-        size: 102107
+        size: 105988
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/xml/en.zip
       xml:
-        size: 33899
+        size: 34278
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/raw/en.zip
     files: 1
     sentences: 1116
@@ -63,10 +63,10 @@ monolingual:
         size: 31475
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 99520
+        size: 103317
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/xml/hr.zip
       xml:
-        size: 37272
+        size: 37653
         url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/raw/hr.zip
     files: 1
     sentences: 1115
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 1112
-    download size: 66867
+    download size: 67249
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/moses/en-hr.txt.zip
     source language tokens: 15777
     target language tokens: 17937
 tmx:
   en-hr:
-    download size: 70870
+    download size: 70864
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1159-Swedish_Migration_Bo/v1/tmx/en-hr.tmx.gz
     source language tokens: 15777
     target language tokens: 17937

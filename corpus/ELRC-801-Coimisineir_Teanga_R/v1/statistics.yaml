@@ -7,16 +7,16 @@ bitexts:
         size: 17905
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/en-ga.xml.gz
       source language:
-        size: 90636
+        size: 90637
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/raw/en.zip
       target language:
-        size: 98343
+        size: 98344
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/raw/ga.zip
       tokenized source language:
-        size: 274532
+        size: 282200
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/en.zip
       tokenized target language:
-        size: 294809
+        size: 302551
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/ga.zip
     files: 1
     source language tokens: 51591
@@ -39,10 +39,10 @@ monolingual:
         size: 80164
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/mono/en.tok.gz
       tokenized xml:
-        size: 274532
+        size: 282200
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/en.zip
       xml:
-        size: 90636
+        size: 90637
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/raw/en.zip
     files: 1
     sentences: 2329
@@ -59,10 +59,10 @@ monolingual:
         size: 87441
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 294809
+        size: 302551
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/xml/ga.zip
       xml:
-        size: 98343
+        size: 98344
         url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/raw/ga.zip
     files: 1
     sentences: 2340
@@ -76,7 +76,7 @@ moses:
     target language tokens: 49316
 tmx:
   en-ga:
-    download size: 184579
+    download size: 184581
     download url: https://object.pouta.csc.fi/OPUS-ELRC-801-Coimisineir_Teanga_R/v1/tmx/en-ga.tmx.gz
     source language tokens: 44791
     target language tokens: 46643

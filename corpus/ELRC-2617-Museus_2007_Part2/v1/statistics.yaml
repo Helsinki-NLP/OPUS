@@ -1,7 +1,7 @@
 ---
 bitexts:
   ca-es:
-    alignments: 2
+    alignments: 38
     downloads:
       alignments:
         size: 221
@@ -10,16 +10,16 @@ bitexts:
         size: 3282
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-es.zip
       source language:
-        size: 9470
+        size: 9469
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/ca.zip
       target language:
         size: 197035
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/es.zip
       tokenized source language:
-        size: 10199
+        size: 11464
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/ca.zip
       tokenized target language:
-        size: 515581
+        size: 526077
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/es.zip
       word alignment dictionary:
         size: 20
@@ -28,8 +28,8 @@ bitexts:
         size: 2935
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-es.alg.zip
     files: 2
-    source language tokens: 38
-    target language tokens: 40
+    source language tokens: 40
+    target language tokens: ~
   ca-fr:
     alignments: 4
     downloads:
@@ -37,25 +37,25 @@ bitexts:
         size: 239
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/ca-fr.xml.gz
       smt phrase table:
-        size: 3926
+        size: 3925
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-fr.zip
       source language:
-        size: 9470
+        size: 9469
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/ca.zip
       target language:
         size: 202065
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/fr.zip
       tokenized source language:
-        size: 10199
+        size: 11464
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/ca.zip
       tokenized target language:
-        size: 540239
+        size: 550702
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/fr.zip
       word alignment dictionary:
         size: 40
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/dic/ca-fr.dic.gz
       word alignments:
-        size: 3081
+        size: 3080
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-fr.alg.zip
     files: 2
     source language tokens: 65
@@ -70,16 +70,16 @@ bitexts:
         size: 3357
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-it.zip
       source language:
-        size: 9470
+        size: 9469
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/ca.zip
       target language:
         size: 192470
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/it.zip
       tokenized source language:
-        size: 10199
+        size: 11464
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/ca.zip
       tokenized target language:
-        size: 498135
+        size: 507908
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
       word alignment dictionary:
         size: 20
@@ -100,27 +100,28 @@ bitexts:
         size: 4072
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-pt.zip
       source language:
-        size: 9470
+        size: 9469
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/ca.zip
       target language:
-        size: 200858
+        size: 200857
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/pt.zip
       tokenized source language:
-        size: 10199
+        size: 11464
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/ca.zip
       tokenized target language:
-        size: 510518
+        size: 521999
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/pt.zip
       word alignment dictionary:
         size: 31
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/dic/ca-pt.dic.gz
       word alignments:
-        size: 3128
+        size: 3127
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-pt.alg.zip
     files: 2
     source language tokens: 82
     target language tokens: 90
   en-it:
+    alignments: 4
     downloads:
       alignments:
         size: 237
@@ -132,11 +133,14 @@ bitexts:
         size: 192470
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/it.zip
       tokenized source language:
-        size: 10937
+        size: 11715
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/en.zip
       tokenized target language:
-        size: 498135
+        size: 507908
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
+    files: 1
+    source language tokens: 132
+    target language tokens: 138
   en-pt:
     alignments: 6
     downloads:
@@ -144,25 +148,25 @@ bitexts:
         size: 265
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/en-pt.xml.gz
       smt phrase table:
-        size: 11239
+        size: 11238
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/en-pt.zip
       source language:
         size: 9558
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/en.zip
       target language:
-        size: 200858
+        size: 200857
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/pt.zip
       tokenized source language:
-        size: 10937
+        size: 11715
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/en.zip
       tokenized target language:
-        size: 510518
+        size: 521999
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/pt.zip
       word alignment dictionary:
         size: 786
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/dic/en-pt.dic.gz
       word alignments:
-        size: 4554
+        size: 4553
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/en-pt.alg.zip
     files: 2
     source language tokens: 275
@@ -174,7 +178,7 @@ bitexts:
         size: 6920
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/es-fr.xml.gz
       smt phrase table:
-        size: 275013
+        size: 275012
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/es-fr.zip
       source language:
         size: 197035
@@ -183,16 +187,16 @@ bitexts:
         size: 202065
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/fr.zip
       tokenized source language:
-        size: 515581
+        size: 526077
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/es.zip
       tokenized target language:
-        size: 540239
+        size: 550702
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/fr.zip
       word alignment dictionary:
         size: 20377
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/dic/es-fr.dic.gz
       word alignments:
-        size: 80528
+        size: 80527
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/es-fr.alg.zip
     files: 3
     source language tokens: 29547
@@ -210,10 +214,10 @@ bitexts:
         size: 192470
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/it.zip
       tokenized source language:
-        size: 515581
+        size: 526077
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/es.zip
       tokenized target language:
-        size: 498135
+        size: 507908
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
     files: 3
     source language tokens: 28170
@@ -225,25 +229,25 @@ bitexts:
         size: 7259
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/es-pt.xml.gz
       smt phrase table:
-        size: 276350
+        size: 276349
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/es-pt.zip
       source language:
         size: 197035
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/es.zip
       target language:
-        size: 200858
+        size: 200857
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/pt.zip
       tokenized source language:
-        size: 515581
+        size: 526077
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/es.zip
       tokenized target language:
-        size: 510518
+        size: 521999
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/pt.zip
       word alignment dictionary:
         size: 21937
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/dic/es-pt.dic.gz
       word alignments:
-        size: 61812
+        size: 61813
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/es-pt.alg.zip
     files: 4
     source language tokens: 28565
@@ -261,10 +265,10 @@ bitexts:
         size: 192470
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/it.zip
       tokenized source language:
-        size: 540239
+        size: 550702
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/fr.zip
       tokenized target language:
-        size: 498135
+        size: 507908
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
     files: 2
     source language tokens: 27939
@@ -276,25 +280,25 @@ bitexts:
         size: 7074
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/fr-pt.xml.gz
       smt phrase table:
-        size: 278909
+        size: 278908
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/fr-pt.zip
       source language:
         size: 202065
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/fr.zip
       target language:
-        size: 200858
+        size: 200857
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/pt.zip
       tokenized source language:
-        size: 540239
+        size: 550702
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/fr.zip
       tokenized target language:
-        size: 510518
+        size: 521999
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/pt.zip
       word alignment dictionary:
         size: 23648
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/dic/fr-pt.dic.gz
       word alignments:
-        size: 71895
+        size: 71896
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/fr-pt.alg.zip
     files: 3
     source language tokens: 28514
@@ -306,19 +310,19 @@ bitexts:
         size: 7020
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it-pt.xml.gz
       smt phrase table:
-        size: 278822
+        size: 278821
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/it-pt.zip
       source language:
         size: 192470
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/it.zip
       target language:
-        size: 200858
+        size: 200857
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/pt.zip
       tokenized source language:
-        size: 498135
+        size: 507908
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
       tokenized target language:
-        size: 510518
+        size: 521999
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/pt.zip
       word alignment dictionary:
         size: 21992
@@ -342,10 +346,10 @@ monolingual:
         size: 402
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/mono/ca.tok.gz
       tokenized xml:
-        size: 10199
+        size: 11464
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/ca.zip
       xml:
-        size: 9470
+        size: 9469
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/ca.zip
     files: 5
     sentences: 13
@@ -362,7 +366,7 @@ monolingual:
         size: 589
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/mono/en.tok.gz
       tokenized xml:
-        size: 10937
+        size: 11715
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/en.zip
       xml:
         size: 9558
@@ -382,7 +386,7 @@ monolingual:
         size: 172207
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/mono/es.tok.gz
       tokenized xml:
-        size: 515581
+        size: 526077
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/es.zip
       xml:
         size: 197035
@@ -402,7 +406,7 @@ monolingual:
         size: 177106
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 540239
+        size: 550702
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/fr.zip
       xml:
         size: 202065
@@ -422,7 +426,7 @@ monolingual:
         size: 168438
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/mono/it.tok.gz
       tokenized xml:
-        size: 498135
+        size: 507908
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/it.zip
       xml:
         size: 192470
@@ -442,10 +446,10 @@ monolingual:
         size: 172455
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 510518
+        size: 521999
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/xml/pt.zip
       xml:
-        size: 200858
+        size: 200857
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/raw/pt.zip
     files: 9
     sentences: 3092
@@ -456,13 +460,13 @@ moses:
     download size: 7590
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/ca-es.txt.zip
     source language tokens: 36
-    target language tokens: 36
+    target language tokens: ~
   ca-fr:
     alignments: 6
-    download size: 7864
+    download size: 7863
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/ca-fr.txt.zip
     source language tokens: 58
-    target language tokens: 58
+    target language tokens: ~
   ca-it:
     alignments: 3
     download size: 7592
@@ -471,19 +475,19 @@ moses:
     target language tokens: 25
   ca-pt:
     alignments: 7
-    download size: 7952
+    download size: 7951
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/ca-pt.txt.zip
     source language tokens: 63
     target language tokens: 72
   en-it:
     alignments: 5
-    download size: 2550
+    download size: 8252
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/en-it.txt.zip
     source language tokens: 112
-    target language tokens: 112
+    target language tokens: ~
   en-pt:
     alignments: 8
-    download size: 8518
+    download size: 8519
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/en-pt.txt.zip
     source language tokens: 227
     target language tokens: 250
@@ -495,7 +499,7 @@ moses:
     target language tokens: 26159
   es-it:
     alignments: 777
-    download size: 126547
+    download size: 126548
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/es-it.txt.zip
     source language tokens: 23870
     target language tokens: 25943
@@ -507,19 +511,19 @@ moses:
     target language tokens: 26531
   fr-it:
     alignments: 762
-    download size: 127447
+    download size: 127445
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/fr-it.txt.zip
     source language tokens: 23685
     target language tokens: 25881
   fr-pt:
     alignments: 775
-    download size: 130449
+    download size: 130448
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/fr-pt.txt.zip
     source language tokens: 24893
     target language tokens: 26384
   it-pt:
     alignments: 812
-    download size: 127037
+    download size: 127036
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/it-pt.txt.zip
     source language tokens: 24014
     target language tokens: 24679
@@ -528,16 +532,16 @@ tmx:
     download size: 382
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/ca-es.tmx.gz
     source language tokens: 36
-    target language tokens: 36
+    target language tokens: ~
     translation units: 3
   ca-fr:
-    download size: 636
+    download size: 637
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/ca-fr.tmx.gz
     source language tokens: 58
-    target language tokens: 58
+    target language tokens: ~
     translation units: 5
   ca-it:
-    download size: 419
+    download size: 418
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/ca-it.tmx.gz
     source language tokens: 19
     target language tokens: 25
@@ -549,49 +553,49 @@ tmx:
     target language tokens: 72
     translation units: 6
   en-it:
-    download size: 1055
+    download size: 1056
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/en-it.tmx.gz
     source language tokens: 112
-    target language tokens: 112
+    target language tokens: ~
     translation units: 5
   en-pt:
-    download size: 1282
+    download size: 1281
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/en-pt.tmx.gz
     source language tokens: 227
     target language tokens: 250
     translation units: 7
   es-fr:
-    download size: 126708
+    download size: 126707
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/es-fr.tmx.gz
     source language tokens: 26057
     target language tokens: 26159
     translation units: 791
   es-it:
-    download size: 121096
+    download size: 121091
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/es-it.tmx.gz
     source language tokens: 23870
     target language tokens: 25943
     translation units: 775
   es-pt:
-    download size: 115048
+    download size: 115044
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/es-pt.tmx.gz
     source language tokens: 24894
     target language tokens: 26492
     translation units: 864
   fr-it:
-    download size: 124272
+    download size: 124273
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/fr-it.tmx.gz
     source language tokens: 23685
     target language tokens: 25881
     translation units: 761
   fr-pt:
-    download size: 126448
+    download size: 126452
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/fr-pt.tmx.gz
     source language tokens: 24859
     target language tokens: 26348
     translation units: 770
   it-pt:
-    download size: 120611
+    download size: 120612
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/it-pt.tmx.gz
     source language tokens: 23978
     target language tokens: 24646

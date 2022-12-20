@@ -7,25 +7,25 @@ bitexts:
         size: 361
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 9116
+        size: 9351
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/smt/en-ga.zip
       source language:
-        size: 2881
+        size: 3119
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/raw/en.zip
       target language:
-        size: 3051
+        size: 3288
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/raw/ga.zip
       tokenized source language:
-        size: 4307
+        size: 4839
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/en.zip
       tokenized target language:
-        size: 4725
+        size: 5263
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/ga.zip
       word alignment dictionary:
         size: 449
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 5013
+        size: 5251
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 423
@@ -43,10 +43,10 @@ monolingual:
         size: 1015
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/mono/en.tok.gz
       tokenized xml:
-        size: 4307
+        size: 4839
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/en.zip
       xml:
-        size: 2881
+        size: 3119
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/raw/en.zip
     files: 1
     sentences: 22
@@ -63,10 +63,10 @@ monolingual:
         size: 1168
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 4725
+        size: 5263
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/xml/ga.zip
       xml:
-        size: 3051
+        size: 3288
         url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/raw/ga.zip
     files: 1
     sentences: 23
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 23
-    download size: 3863
+    download size: 4100
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2449-Litir__Oifig/v1/moses/en-ga.txt.zip
     source language tokens: 399
     target language tokens: 426

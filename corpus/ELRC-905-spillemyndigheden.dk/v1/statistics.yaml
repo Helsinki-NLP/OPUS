@@ -7,16 +7,16 @@ bitexts:
         size: 25855
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/da-en.xml.gz
       source language:
-        size: 107740
+        size: 108120
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/raw/da.zip
       target language:
-        size: 111387
+        size: 111766
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/raw/en.zip
       tokenized source language:
-        size: 291724
+        size: 302332
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/da.zip
       tokenized target language:
-        size: 319728
+        size: 330565
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/en.zip
     files: 1
     source language tokens: 52289
@@ -34,10 +34,10 @@ monolingual:
         size: 93789
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/mono/da.tok.gz
       tokenized xml:
-        size: 291724
+        size: 302332
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/da.zip
       xml:
-        size: 107740
+        size: 108120
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/raw/da.zip
     files: 1
     sentences: 3354
@@ -54,10 +54,10 @@ monolingual:
         size: 97440
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/mono/en.tok.gz
       tokenized xml:
-        size: 319728
+        size: 330565
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/xml/en.zip
       xml:
-        size: 111387
+        size: 111766
         url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/raw/en.zip
     files: 1
     sentences: 3381
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 3355
-    download size: 207967
+    download size: 208349
     download url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/moses/da-en.txt.zip
     source language tokens: 45031
     target language tokens: 53292
 tmx:
   da-en:
-    download size: 223301
+    download size: 223303
     download url: https://object.pouta.csc.fi/OPUS-ELRC-905-spillemyndigheden.dk/v1/tmx/da-en.tmx.gz
     source language tokens: 45031
     target language tokens: 53292

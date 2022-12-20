@@ -7,16 +7,16 @@ bitexts:
         size: 19232
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/xml/en-pl.xml.gz
       source language:
-        size: 62481
+        size: 62866
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/raw/en.zip
       target language:
-        size: 67207
+        size: 67592
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/raw/pl.zip
       tokenized source language:
-        size: 155942
+        size: 160722
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/xml/en.zip
       tokenized target language:
-        size: 149897
+        size: 154521
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/xml/pl.zip
     files: 1
     source language tokens: 22536
@@ -34,10 +34,10 @@ monolingual:
         size: 55169
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/mono/en.tok.gz
       tokenized xml:
-        size: 155942
+        size: 160722
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/xml/en.zip
       xml:
-        size: 62481
+        size: 62866
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/raw/en.zip
     files: 1
     sentences: 1418
@@ -54,10 +54,10 @@ monolingual:
         size: 60014
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 149897
+        size: 154521
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/xml/pl.zip
       xml:
-        size: 67207
+        size: 67592
         url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/raw/pl.zip
     files: 1
     sentences: 1374
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 1367
-    download size: 123232
+    download size: 123616
     download url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/moses/en-pl.txt.zip
     source language tokens: 19085
     target language tokens: 22462
 tmx:
   en-pl:
-    download size: 127698
+    download size: 127695
     download url: https://object.pouta.csc.fi/OPUS-ELRC-906-ING_Polish_Art/v1/tmx/en-pl.tmx.gz
     source language tokens: 19085
     target language tokens: 22462

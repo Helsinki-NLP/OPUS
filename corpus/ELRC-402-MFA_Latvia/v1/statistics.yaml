@@ -7,16 +7,16 @@ bitexts:
         size: 54748
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/xml/en-lv.xml.gz
       source language:
-        size: 472634
+        size: 473010
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/raw/en.zip
       target language:
-        size: 482300
+        size: 482676
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/raw/lv.zip
       tokenized source language:
-        size: 1296914
+        size: 1320154
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/xml/en.zip
       tokenized target language:
-        size: 1174602
+        size: 1197736
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/xml/lv.zip
     files: 1
     source language tokens: 183379
@@ -34,10 +34,10 @@ monolingual:
         size: 443817
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1296914
+        size: 1320154
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/xml/en.zip
       xml:
-        size: 472634
+        size: 473010
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/raw/en.zip
     files: 1
     sentences: 7208
@@ -54,10 +54,10 @@ monolingual:
         size: 453207
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/mono/lv.tok.gz
       tokenized xml:
-        size: 1174602
+        size: 1197736
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/xml/lv.zip
       xml:
-        size: 482300
+        size: 482676
         url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/raw/lv.zip
     files: 1
     sentences: 7228
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-lv:
     alignments: 7195
-    download size: 925606
+    download size: 925981
     download url: https://object.pouta.csc.fi/OPUS-ELRC-402-MFA_Latvia/v1/moses/en-lv.txt.zip
     source language tokens: 160131
     target language tokens: 203892

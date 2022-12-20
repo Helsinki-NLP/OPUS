@@ -7,16 +7,16 @@ bitexts:
         size: 22509
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/xml/en-pl.xml.gz
       source language:
-        size: 151079
+        size: 151448
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/raw/en.zip
       target language:
-        size: 181306
+        size: 181673
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/raw/pl.zip
       tokenized source language:
-        size: 452089
+        size: 461637
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/xml/en.zip
       tokenized target language:
-        size: 485305
+        size: 494814
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/xml/pl.zip
     files: 1
     source language tokens: 81220
@@ -34,10 +34,10 @@ monolingual:
         size: 138716
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/mono/en.tok.gz
       tokenized xml:
-        size: 452089
+        size: 461637
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/xml/en.zip
       xml:
-        size: 151079
+        size: 151448
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/raw/en.zip
     files: 1
     sentences: 2851
@@ -54,10 +54,10 @@ monolingual:
         size: 168542
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 485305
+        size: 494814
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/xml/pl.zip
       xml:
-        size: 181306
+        size: 181673
         url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/raw/pl.zip
     files: 1
     sentences: 2880
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 2719
-    download size: 321372
+    download size: 321739
     download url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/moses/en-pl.txt.zip
     source language tokens: 70950
     target language tokens: 74813
 tmx:
   en-pl:
-    download size: 352811
+    download size: 352815
     download url: https://object.pouta.csc.fi/OPUS-ELRC-841-Employment_Poland_20/v1/tmx/en-pl.tmx.gz
     source language tokens: 70945
     target language tokens: 74808

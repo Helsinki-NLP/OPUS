@@ -10,22 +10,22 @@ bitexts:
         size: 44436
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/smt/en-te.zip
       source language:
-        size: 10069
+        size: 10425
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/raw/en.zip
       target language:
-        size: 12053
+        size: 12409
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/raw/te.zip
       tokenized source language:
-        size: 20675
+        size: 21688
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/xml/en.zip
       tokenized target language:
-        size: 22393
+        size: 23390
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/xml/te.zip
       word alignment dictionary:
         size: 450
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/dic/en-te.dic.gz
       word alignments:
-        size: 15359
+        size: 15358
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/smt/en-te.alg.zip
     files: 1
     source language tokens: 3100
@@ -43,10 +43,10 @@ monolingual:
         size: 7709
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/mono/en.tok.gz
       tokenized xml:
-        size: 20675
+        size: 21688
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/xml/en.zip
       xml:
-        size: 10069
+        size: 10425
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/raw/en.zip
     files: 1
     sentences: 145
@@ -63,10 +63,10 @@ monolingual:
         size: 9214
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/mono/te.tok.gz
       tokenized xml:
-        size: 22393
+        size: 23390
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/xml/te.zip
       xml:
-        size: 12053
+        size: 12409
         url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/raw/te.zip
     files: 1
     sentences: 143
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-te:
     alignments: 144
-    download size: 19617
+    download size: 19972
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3051-wikipedia_health/v1/moses/en-te.txt.zip
     source language tokens: 1837
     target language tokens: 2582

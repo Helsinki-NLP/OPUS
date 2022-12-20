@@ -7,16 +7,16 @@ bitexts:
         size: 52797
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/xml/en-et.xml.gz
       source language:
-        size: 314334
+        size: 314732
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/raw/en.zip
       target language:
-        size: 307539
+        size: 307939
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/raw/et.zip
       tokenized source language:
-        size: 864177
+        size: 886527
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/xml/en.zip
       tokenized target language:
-        size: 726528
+        size: 748505
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/xml/et.zip
     files: 1
     source language tokens: 118063
@@ -34,10 +34,10 @@ monolingual:
         size: 286159
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/mono/en.tok.gz
       tokenized xml:
-        size: 864177
+        size: 886527
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/xml/en.zip
       xml:
-        size: 314334
+        size: 314732
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/raw/en.zip
     files: 1
     sentences: 6981
@@ -54,10 +54,10 @@ monolingual:
         size: 277978
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/mono/et.tok.gz
       tokenized xml:
-        size: 726528
+        size: 748505
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/xml/et.zip
       xml:
-        size: 307539
+        size: 307939
         url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/raw/et.zip
     files: 1
     sentences: 6979
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-et:
     alignments: 6938
-    download size: 599455
+    download size: 599856
     download url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/moses/en-et.txt.zip
     source language tokens: 101746
     target language tokens: 140521
 tmx:
   en-et:
-    download size: 643341
+    download size: 643342
     download url: https://object.pouta.csc.fi/OPUS-ELRC-940-president.ee/v1/tmx/en-et.tmx.gz
     source language tokens: 101746
     target language tokens: 140521

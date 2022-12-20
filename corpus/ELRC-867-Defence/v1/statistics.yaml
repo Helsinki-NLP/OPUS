@@ -7,16 +7,16 @@ bitexts:
         size: 31832
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/xml/en-pl.xml.gz
       source language:
-        size: 113391
+        size: 113775
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/raw/en.zip
       target language:
-        size: 130470
+        size: 130854
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/raw/pl.zip
       tokenized source language:
-        size: 303219
+        size: 311429
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/xml/en.zip
       tokenized target language:
-        size: 309703
+        size: 317750
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/xml/pl.zip
     files: 1
     source language tokens: 47411
@@ -34,10 +34,10 @@ monolingual:
         size: 102413
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/mono/en.tok.gz
       tokenized xml:
-        size: 303219
+        size: 311429
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/xml/en.zip
       xml:
-        size: 113391
+        size: 113775
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/raw/en.zip
     files: 1
     sentences: 2467
@@ -54,10 +54,10 @@ monolingual:
         size: 118896
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 309703
+        size: 317750
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/xml/pl.zip
       xml:
-        size: 130470
+        size: 130854
         url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/raw/pl.zip
     files: 1
     sentences: 2460
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 2448
-    download size: 234524
+    download size: 234908
     download url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/moses/en-pl.txt.zip
     source language tokens: 41834
     target language tokens: 47975
 tmx:
   en-pl:
-    download size: 254697
+    download size: 254696
     download url: https://object.pouta.csc.fi/OPUS-ELRC-867-Defence/v1/tmx/en-pl.tmx.gz
     source language tokens: 41834
     target language tokens: 47975

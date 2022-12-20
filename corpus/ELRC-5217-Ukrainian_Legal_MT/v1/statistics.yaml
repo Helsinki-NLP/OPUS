@@ -7,16 +7,16 @@ bitexts:
         size: 7449
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/xml/en-uk.xml.gz
       source language:
-        size: 39045
+        size: 39173
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/raw/en.zip
       target language:
-        size: 47632
+        size: 47760
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/raw/uk.zip
       tokenized source language:
-        size: 139266
+        size: 142682
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/xml/en.zip
       tokenized target language:
-        size: 125013
+        size: 128374
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/xml/uk.zip
     files: 1
     source language tokens: 20639
@@ -34,10 +34,10 @@ monolingual:
         size: 33679
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/mono/en.tok.gz
       tokenized xml:
-        size: 139266
+        size: 142682
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/xml/en.zip
       xml:
-        size: 39045
+        size: 39173
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/raw/en.zip
     files: 1
     sentences: 1000
@@ -54,10 +54,10 @@ monolingual:
         size: 41814
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/mono/uk.tok.gz
       tokenized xml:
-        size: 125013
+        size: 128374
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/xml/uk.zip
       xml:
-        size: 47632
+        size: 47760
         url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/raw/uk.zip
     files: 1
     sentences: 1007
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-uk:
     alignments: 997
-    download size: 81812
+    download size: 81939
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/moses/en-uk.txt.zip
     source language tokens: 17431
     target language tokens: 24590
 tmx:
   en-uk:
-    download size: 89725
+    download size: 89723
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5217-Ukrainian_Legal_MT/v1/tmx/en-uk.tmx.gz
     source language tokens: 17234
     target language tokens: 24322

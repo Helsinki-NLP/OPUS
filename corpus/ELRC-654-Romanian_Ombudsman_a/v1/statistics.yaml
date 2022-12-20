@@ -7,16 +7,16 @@ bitexts:
         size: 57698
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/xml/en-ro.xml.gz
       source language:
-        size: 208588
+        size: 208947
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/raw/en.zip
       target language:
-        size: 230947
+        size: 231304
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/raw/ro.zip
       tokenized source language:
-        size: 634205
+        size: 649063
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/xml/en.zip
       tokenized target language:
-        size: 644900
+        size: 660985
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/xml/ro.zip
     files: 1
     source language tokens: 112786
@@ -34,10 +34,10 @@ monolingual:
         size: 190111
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/mono/en.tok.gz
       tokenized xml:
-        size: 634205
+        size: 649063
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/xml/en.zip
       xml:
-        size: 208588
+        size: 208947
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/raw/en.zip
     files: 1
     sentences: 4497
@@ -54,10 +54,10 @@ monolingual:
         size: 209364
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/mono/ro.tok.gz
       tokenized xml:
-        size: 644900
+        size: 660985
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/xml/ro.zip
       xml:
-        size: 230947
+        size: 231304
         url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/raw/ro.zip
     files: 1
     sentences: 4951
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-ro:
     alignments: 4148
-    download size: 422512
+    download size: 422871
     download url: https://object.pouta.csc.fi/OPUS-ELRC-654-Romanian_Ombudsman_a/v1/moses/en-ro.txt.zip
     source language tokens: 97875
     target language tokens: 102536

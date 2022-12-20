@@ -7,16 +7,16 @@ bitexts:
         size: 8029
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/xml/en-pl.xml.gz
       source language:
-        size: 34848
+        size: 35242
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/raw/en.zip
       target language:
-        size: 38528
+        size: 38922
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/raw/pl.zip
       tokenized source language:
-        size: 89946
+        size: 92492
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/xml/en.zip
       tokenized target language:
-        size: 86318
+        size: 88845
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/xml/pl.zip
     files: 1
     source language tokens: 13041
@@ -34,10 +34,10 @@ monolingual:
         size: 30893
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/mono/en.tok.gz
       tokenized xml:
-        size: 89946
+        size: 92492
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/xml/en.zip
       xml:
-        size: 34848
+        size: 35242
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/raw/en.zip
     files: 1
     sentences: 649
@@ -54,10 +54,10 @@ monolingual:
         size: 34397
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 86318
+        size: 88845
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/xml/pl.zip
       xml:
-        size: 38528
+        size: 38922
         url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/raw/pl.zip
     files: 1
     sentences: 653
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 650
-    download size: 69388
+    download size: 69781
     download url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/moses/en-pl.txt.zip
     source language tokens: 11284
     target language tokens: 13896
 tmx:
   en-pl:
-    download size: 70891
+    download size: 70888
     download url: https://object.pouta.csc.fi/OPUS-ELRC-882-Culture_Heritage/v1/tmx/en-pl.tmx.gz
     source language tokens: 11284
     target language tokens: 13896

@@ -7,16 +7,16 @@ bitexts:
         size: 244122
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/xml/en-fi.xml.gz
       source language:
-        size: 1270882
+        size: 1271250
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/raw/en.zip
       target language:
-        size: 1262592
+        size: 1262960
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/raw/fi.zip
       tokenized source language:
-        size: 3675351
+        size: 3778610
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/xml/en.zip
       tokenized target language:
-        size: 2758163
+        size: 2856345
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/xml/fi.zip
     files: 1
     source language tokens: 413233
@@ -34,10 +34,10 @@ monolingual:
         size: 1147257
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/mono/en.tok.gz
       tokenized xml:
-        size: 3675351
+        size: 3778610
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/xml/en.zip
       xml:
-        size: 1270882
+        size: 1271250
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/raw/en.zip
     files: 1
     sentences: 32493
@@ -54,10 +54,10 @@ monolingual:
         size: 1140018
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/mono/fi.tok.gz
       tokenized xml:
-        size: 2758163
+        size: 2856345
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/xml/fi.zip
       xml:
-        size: 1262592
+        size: 1262960
         url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/raw/fi.zip
     files: 1
     sentences: 31923
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-fi:
     alignments: 31476
-    download size: 2444203
+    download size: 2444569
     download url: https://object.pouta.csc.fi/OPUS-ELRC-725-Hallituskausi_2011_2/v1/moses/en-fi.txt.zip
     source language tokens: 361421
     target language tokens: 600591

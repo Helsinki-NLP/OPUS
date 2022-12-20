@@ -7,25 +7,25 @@ bitexts:
         size: 136664
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/xml/en-es.xml.gz
       smt phrase table:
-        size: 5541513
+        size: 5541736
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/smt/en-es.zip
       source language:
-        size: 990337
+        size: 990681
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/raw/en.zip
       target language:
-        size: 1066376
+        size: 1066721
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/raw/es.zip
       tokenized source language:
-        size: 2720944
+        size: 2780730
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/xml/en.zip
       tokenized target language:
-        size: 2888215
+        size: 2947689
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/xml/es.zip
       word alignment dictionary:
         size: 192278
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/dic/en-es.dic.gz
       word alignments:
-        size: 1575050
+        size: 1575272
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/smt/en-es.alg.zip
     files: 1
     source language tokens: 467421
@@ -43,10 +43,10 @@ monolingual:
         size: 913585
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/mono/en.tok.gz
       tokenized xml:
-        size: 2720944
+        size: 2780730
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/xml/en.zip
       xml:
-        size: 990337
+        size: 990681
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/raw/en.zip
     files: 1
     sentences: 18156
@@ -63,10 +63,10 @@ monolingual:
         size: 988805
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/mono/es.tok.gz
       tokenized xml:
-        size: 2888215
+        size: 2947689
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/xml/es.zip
       xml:
-        size: 1066376
+        size: 1066721
         url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/raw/es.zip
     files: 1
     sentences: 17999
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-es:
     alignments: 16271
-    download size: 1990700
+    download size: 1991045
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/moses/en-es.txt.zip
     source language tokens: 414792
     target language tokens: 438677
 tmx:
   en-es:
-    download size: 2124773
+    download size: 2124770
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1084-Agencia_Tributaria/v1/tmx/en-es.tmx.gz
     source language tokens: 414792
     target language tokens: 438677

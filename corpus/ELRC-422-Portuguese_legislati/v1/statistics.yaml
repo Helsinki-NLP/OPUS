@@ -7,16 +7,16 @@ bitexts:
         size: 20519
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/xml/en-fr.xml.gz
       source language:
-        size: 79683
+        size: 80051
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/raw/en.zip
       target language:
-        size: 78986
+        size: 79354
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/raw/fr.zip
       tokenized source language:
-        size: 267315
+        size: 276108
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/xml/en.zip
       tokenized target language:
-        size: 260483
+        size: 269185
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/xml/fr.zip
     files: 1
     source language tokens: 50139
@@ -34,10 +34,10 @@ monolingual:
         size: 68085
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/mono/en.tok.gz
       tokenized xml:
-        size: 267315
+        size: 276108
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/xml/en.zip
       xml:
-        size: 79683
+        size: 80051
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/raw/en.zip
     files: 1
     sentences: 2707
@@ -54,10 +54,10 @@ monolingual:
         size: 67879
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 260483
+        size: 269185
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/xml/fr.zip
       xml:
-        size: 78986
+        size: 79354
         url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/raw/fr.zip
     files: 1
     sentences: 2688
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-fr:
     alignments: 2689
-    download size: 150342
+    download size: 150708
     download url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/moses/en-fr.txt.zip
     source language tokens: 41168
     target language tokens: 47391
 tmx:
   en-fr:
-    download size: 157551
+    download size: 157549
     download url: https://object.pouta.csc.fi/OPUS-ELRC-422-Portuguese_legislati/v1/tmx/en-fr.tmx.gz
     source language tokens: 40664
     target language tokens: 46863

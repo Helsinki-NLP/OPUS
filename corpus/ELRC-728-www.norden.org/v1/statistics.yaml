@@ -7,16 +7,16 @@ bitexts:
         size: 311453
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/en-is.xml.gz
       source language:
-        size: 1774803
+        size: 1775181
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/raw/en.zip
       target language:
-        size: 1892662
+        size: 1893040
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/raw/is.zip
       tokenized source language:
-        size: 4730476
+        size: 4861131
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/en.zip
       tokenized target language:
-        size: 4437993
+        size: 4567735
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/is.zip
     files: 1
     source language tokens: 699153
@@ -34,10 +34,10 @@ monolingual:
         size: 1609665
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/mono/en.tok.gz
       tokenized xml:
-        size: 4730476
+        size: 4861131
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/en.zip
       xml:
-        size: 1774803
+        size: 1775181
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/raw/en.zip
     files: 1
     sentences: 41219
@@ -54,10 +54,10 @@ monolingual:
         size: 1730181
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/mono/is.tok.gz
       tokenized xml:
-        size: 4437993
+        size: 4567735
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/xml/is.zip
       xml:
-        size: 1892662
+        size: 1893040
         url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/raw/is.zip
     files: 1
     sentences: 41320
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-is:
     alignments: 41073
-    download size: 3518524
+    download size: 3518904
     download url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/moses/en-is.txt.zip
     source language tokens: 629357
     target language tokens: 744304
 tmx:
   en-is:
-    download size: 3801537
+    download size: 3801544
     download url: https://object.pouta.csc.fi/OPUS-ELRC-728-www.norden.org/v1/tmx/en-is.tmx.gz
     source language tokens: 629357
     target language tokens: 744304

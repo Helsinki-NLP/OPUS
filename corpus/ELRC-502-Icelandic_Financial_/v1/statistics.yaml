@@ -7,16 +7,16 @@ bitexts:
         size: 11923
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/en-is.xml.gz
       source language:
-        size: 60866
+        size: 61244
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/raw/en.zip
       target language:
-        size: 62877
+        size: 63255
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/raw/is.zip
       tokenized source language:
-        size: 172937
+        size: 178188
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/en.zip
       tokenized target language:
-        size: 156782
+        size: 161919
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/is.zip
     files: 1
     source language tokens: 26277
@@ -34,10 +34,10 @@ monolingual:
         size: 53397
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 172937
+        size: 178188
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/en.zip
       xml:
-        size: 60866
+        size: 61244
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/raw/en.zip
     files: 1
     sentences: 1561
@@ -54,10 +54,10 @@ monolingual:
         size: 55418
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/mono/is.tok.gz
       tokenized xml:
-        size: 156782
+        size: 161919
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/xml/is.zip
       xml:
-        size: 62877
+        size: 63255
         url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/raw/is.zip
     files: 1
     sentences: 1545
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-is:
     alignments: 1525
-    download size: 117578
+    download size: 117956
     download url: https://object.pouta.csc.fi/OPUS-ELRC-502-Icelandic_Financial_/v1/moses/en-is.txt.zip
     source language tokens: 23699
     target language tokens: 28234

@@ -7,16 +7,16 @@ bitexts:
         size: 84210
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/xml/en-fr.xml.gz
       source language:
-        size: 554794
+        size: 554793
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/raw/en.zip
       target language:
         size: 589815
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/raw/fr.zip
       tokenized source language:
-        size: 1450416
+        size: 1484652
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/xml/en.zip
       tokenized target language:
-        size: 1604817
+        size: 1639222
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/xml/fr.zip
     files: 1
     source language tokens: 250246
@@ -39,10 +39,10 @@ monolingual:
         size: 511793
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1450416
+        size: 1484652
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/xml/en.zip
       xml:
-        size: 554794
+        size: 554793
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/raw/en.zip
     files: 1
     sentences: 11078
@@ -59,7 +59,7 @@ monolingual:
         size: 548194
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/mono/fr.tok.gz
       tokenized xml:
-        size: 1604817
+        size: 1639222
         url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/xml/fr.zip
       xml:
         size: 589815
@@ -76,7 +76,7 @@ moses:
     target language tokens: 233098
 tmx:
   en-fr:
-    download size: 1148770
+    download size: 1148767
     download url: https://object.pouta.csc.fi/OPUS-ELRC-816-ANR_containing_major/v1/tmx/en-fr.tmx.gz
     source language tokens: 217726
     target language tokens: 231028

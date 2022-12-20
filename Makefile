@@ -3,9 +3,11 @@
 URLBASE = https://github.com/Helsinki-NLP/OPUS/blob/main/corpus
 
 all: RELEASES.md RELEASES-without-ELRC.md
+	${MAKE} commit
+	${MAKE} cleanup-dry-run > untracked-files.txt
 
 
-RELEASES.md:
+RELEASES.md: corpus
 	echo "# List of corpus releases" >$@
 	echo "" >> $@
 	echo "* [list of releases without ELRC](RELEASES-without-ELRC.md)" >> $@
@@ -14,7 +16,7 @@ RELEASES.md:
 	echo "|--------|----------| " >> $@
 	for c in `find corpus -maxdepth 1 -mindepth 1 -type d -printf "%f\n" | sort`; do \
 	  if [ -e corpus/$$c/info.yaml ]; then \
-	    w=`grep website corpus/$$c/info.yaml | cut -f2 -d' '`; \
+	    w=`grep '^website:' corpus/$$c/info.yaml | cut -f2 -d' '`; \
 	    echo -n "| [$$c]($$w) | " >> $@; \
 	  else \
 	    echo -n "| $$c | " >> $@; \
@@ -26,7 +28,7 @@ RELEASES.md:
 	done
 
 
-RELEASES-without-ELRC.md:
+RELEASES-without-ELRC.md: corpus
 	echo "# List of corpus releases (without ELRC)" >$@
 	echo "" >> $@
 	echo "* [complete list of releases](RELEASES.md)" >> $@
@@ -35,7 +37,7 @@ RELEASES-without-ELRC.md:
 	echo "|--------|----------| " >> $@
 	for c in `find corpus -maxdepth 1 -mindepth 1 -type d -printf "%f\n" | grep -v ELRC | grep -v ELRA | sort`; do \
 	  if [ -e corpus/$$c/info.yaml ]; then \
-	    w=`grep website corpus/$$c/info.yaml | cut -f2 -d' '`; \
+	    w=`grep '^website:' corpus/$$c/info.yaml | cut -f2 -d' '`; \
 	    echo -n "| [$$c]($$w) | " >> $@; \
 	  else \
 	    echo -n "| $$c | " >> $@; \
@@ -65,6 +67,18 @@ commit:
 	git add corpus/*/.uploaded*
 	git add *.md
 	git commit -am 'corpus update'
+
+
+## remove untracked files
+## (all released data that we don't store in the repository)
+
+cleanup-dry-run:
+	${MAKE} commit
+	git clean -d -n
+
+cleanup:
+	${MAKE} commit
+	git clean -d
 
 
 RELEASED_VERSIONS = $(shell find corpus -maxdepth 2 -mindepth 2 -type d)

@@ -7,16 +7,16 @@ bitexts:
         size: 1412
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/xml/en-ga.xml.gz
       source language:
-        size: 11496
+        size: 11741
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/raw/en.zip
       target language:
-        size: 12723
+        size: 12969
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/raw/ga.zip
       tokenized source language:
-        size: 25483
+        size: 26496
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/xml/en.zip
       tokenized target language:
-        size: 29802
+        size: 30829
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/xml/ga.zip
     files: 1
     source language tokens: 4086
@@ -34,10 +34,10 @@ monolingual:
         size: 8743
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/mono/en.tok.gz
       tokenized xml:
-        size: 25483
+        size: 26496
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/xml/en.zip
       xml:
-        size: 11496
+        size: 11741
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/raw/en.zip
     files: 1
     sentences: 184
@@ -54,10 +54,10 @@ monolingual:
         size: 9955
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 29802
+        size: 30829
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/xml/ga.zip
       xml:
-        size: 12723
+        size: 12969
         url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/raw/ga.zip
     files: 1
     sentences: 188
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 144
-    download size: 21350
+    download size: 21597
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5135-Preasritis__Choliste/v1/moses/en-ga.txt.zip
     source language tokens: 3650
     target language tokens: 4412

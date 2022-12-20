@@ -10,22 +10,22 @@ bitexts:
         size: 861243
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/smt/en-sk.zip
       source language:
-        size: 110072
+        size: 110432
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/raw/en.zip
       target language:
-        size: 123362
+        size: 123722
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/raw/sk.zip
       tokenized source language:
-        size: 320989
+        size: 329088
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/xml/en.zip
       tokenized target language:
-        size: 323475
+        size: 331579
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/xml/sk.zip
       word alignment dictionary:
         size: 60759
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/dic/en-sk.dic.gz
       word alignments:
-        size: 173364
+        size: 173363
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/smt/en-sk.alg.zip
     files: 1
     source language tokens: 51985
@@ -43,10 +43,10 @@ monolingual:
         size: 99313
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 320989
+        size: 329088
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/xml/en.zip
       xml:
-        size: 110072
+        size: 110432
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/raw/en.zip
     files: 1
     sentences: 2428
@@ -63,10 +63,10 @@ monolingual:
         size: 112292
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/mono/sk.tok.gz
       tokenized xml:
-        size: 323475
+        size: 331579
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/xml/sk.zip
       xml:
-        size: 123362
+        size: 123722
         url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/raw/sk.zip
     files: 1
     sentences: 2458
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-sk:
     alignments: 2409
-    download size: 224403
+    download size: 224763
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/moses/en-sk.txt.zip
     source language tokens: 46368
     target language tokens: 51669
 tmx:
   en-sk:
-    download size: 247284
+    download size: 247285
     download url: https://object.pouta.csc.fi/OPUS-ELRC-3469-EC_EUROPA_covid/v1/tmx/en-sk.tmx.gz
     source language tokens: 46368
     target language tokens: 51669

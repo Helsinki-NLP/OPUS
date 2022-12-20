@@ -7,16 +7,16 @@ bitexts:
         size: 21662
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/xml/de-en.xml.gz
       source language:
-        size: 109720
+        size: 110072
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/raw/de.zip
       target language:
-        size: 103929
+        size: 104281
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/raw/en.zip
       tokenized source language:
-        size: 262136
+        size: 270914
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/xml/de.zip
       tokenized target language:
-        size: 290382
+        size: 299553
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/xml/en.zip
     files: 1
     source language tokens: 42382
@@ -34,10 +34,10 @@ monolingual:
         size: 97971
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/mono/de.tok.gz
       tokenized xml:
-        size: 262136
+        size: 270914
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/xml/de.zip
       xml:
-        size: 109720
+        size: 110072
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/raw/de.zip
     files: 1
     sentences: 2736
@@ -54,10 +54,10 @@ monolingual:
         size: 92022
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/mono/en.tok.gz
       tokenized xml:
-        size: 290382
+        size: 299553
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/xml/en.zip
       xml:
-        size: 103929
+        size: 104281
         url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/raw/en.zip
     files: 1
     sentences: 2799
@@ -65,13 +65,13 @@ monolingual:
 moses:
   de-en:
     alignments: 2719
-    download size: 204173
+    download size: 204526
     download url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/moses/de-en.txt.zip
     source language tokens: 36911
     target language tokens: 46207
 tmx:
   de-en:
-    download size: 215956
+    download size: 215953
     download url: https://object.pouta.csc.fi/OPUS-ELRC-631-BMVI_Website/v1/tmx/de-en.tmx.gz
     source language tokens: 36911
     target language tokens: 46207

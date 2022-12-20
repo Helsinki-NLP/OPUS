@@ -7,25 +7,25 @@ bitexts:
         size: 16222
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/xml/en-sv.xml.gz
       smt phrase table:
-        size: 371599
+        size: 371597
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/smt/en-sv.zip
       source language:
-        size: 88123
+        size: 88503
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/raw/en.zip
       target language:
-        size: 83768
+        size: 84146
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/raw/sv.zip
       tokenized source language:
-        size: 227077
+        size: 234254
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/xml/en.zip
       tokenized target language:
-        size: 202350
+        size: 209440
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/xml/sv.zip
       word alignment dictionary:
         size: 30644
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/dic/en-sv.dic.gz
       word alignments:
-        size: 108936
+        size: 108933
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/smt/en-sv.alg.zip
     files: 1
     source language tokens: 34807
@@ -43,10 +43,10 @@ monolingual:
         size: 77636
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/mono/en.tok.gz
       tokenized xml:
-        size: 227077
+        size: 234254
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/xml/en.zip
       xml:
-        size: 88123
+        size: 88503
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/raw/en.zip
     files: 1
     sentences: 2199
@@ -63,10 +63,10 @@ monolingual:
         size: 73462
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 202350
+        size: 209440
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/xml/sv.zip
       xml:
-        size: 83768
+        size: 84146
         url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/raw/sv.zip
     files: 1
     sentences: 2199
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-sv:
     alignments: 2200
-    download size: 163250
+    download size: 163630
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/moses/en-sv.txt.zip
     source language tokens: 31162
     target language tokens: 35294
 tmx:
   en-sv:
-    download size: 173460
+    download size: 173461
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1013-Sweden_a_Pocket/v1/tmx/en-sv.tmx.gz
     source language tokens: 31162
     target language tokens: 35294

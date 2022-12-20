@@ -7,16 +7,16 @@ bitexts:
         size: 16452
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/en-pl.xml.gz
       source language:
-        size: 120721
+        size: 121086
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/raw/en.zip
       target language:
-        size: 131608
+        size: 131972
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/raw/pl.zip
       tokenized source language:
-        size: 375365
+        size: 382483
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/en.zip
       tokenized target language:
-        size: 339415
+        size: 346489
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/pl.zip
     files: 1
     source language tokens: 56522
@@ -34,10 +34,10 @@ monolingual:
         size: 111804
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/mono/en.tok.gz
       tokenized xml:
-        size: 375365
+        size: 382483
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/en.zip
       xml:
-        size: 120721
+        size: 121086
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/raw/en.zip
     files: 1
     sentences: 2056
@@ -54,10 +54,10 @@ monolingual:
         size: 122013
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 339415
+        size: 346489
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/xml/pl.zip
       xml:
-        size: 131608
+        size: 131972
         url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/raw/pl.zip
     files: 1
     sentences: 2101
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 2022
-    download size: 244678
+    download size: 245043
     download url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/moses/en-pl.txt.zip
     source language tokens: 48574
     target language tokens: 63083
 tmx:
   en-pl:
-    download size: 263226
+    download size: 263222
     download url: https://object.pouta.csc.fi/OPUS-ELRC-474-Natolin_Centre/v1/tmx/en-pl.tmx.gz
     source language tokens: 48574
     target language tokens: 63083

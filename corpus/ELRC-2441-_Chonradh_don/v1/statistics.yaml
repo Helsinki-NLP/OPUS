@@ -7,25 +7,25 @@ bitexts:
         size: 18211
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/en-ga.xml.gz
       smt phrase table:
-        size: 556114
+        size: 556375
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/smt/en-ga.zip
       source language:
-        size: 61072
+        size: 61335
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/raw/en.zip
       target language:
-        size: 67632
+        size: 67894
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/raw/ga.zip
       tokenized source language:
-        size: 193202
+        size: 200431
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/en.zip
       tokenized target language:
-        size: 217557
+        size: 224965
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/ga.zip
       word alignment dictionary:
         size: 32727
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/dic/en-ga.dic.gz
       word alignments:
-        size: 115668
+        size: 115929
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/smt/en-ga.alg.zip
     files: 1
     source language tokens: 36465
@@ -43,10 +43,10 @@ monolingual:
         size: 51164
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/mono/en.tok.gz
       tokenized xml:
-        size: 193202
+        size: 200431
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/en.zip
       xml:
-        size: 61072
+        size: 61335
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/raw/en.zip
     files: 1
     sentences: 2363
@@ -63,10 +63,10 @@ monolingual:
         size: 57483
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 217557
+        size: 224965
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/xml/ga.zip
       xml:
-        size: 67632
+        size: 67894
         url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/raw/ga.zip
     files: 1
     sentences: 2384
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-ga:
     alignments: 2283
-    download size: 121023
+    download size: 121285
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/moses/en-ga.txt.zip
     source language tokens: 27683
     target language tokens: 31619
 tmx:
   en-ga:
-    download size: 120931
+    download size: 120930
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2441-_Chonradh_don/v1/tmx/en-ga.tmx.gz
     source language tokens: 25877
     target language tokens: 29494

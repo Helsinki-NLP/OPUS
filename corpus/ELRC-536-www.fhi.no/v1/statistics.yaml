@@ -7,16 +7,16 @@ bitexts:
         size: 18678
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 100276
+        size: 100658
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/raw/en.zip
       target language:
-        size: 105267
+        size: 105649
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/raw/nb.zip
       tokenized source language:
-        size: 268338
+        size: 276324
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/xml/en.zip
       tokenized target language:
-        size: 268116
+        size: 276144
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/xml/nb.zip
     files: 1
     source language tokens: 45807
@@ -34,10 +34,10 @@ monolingual:
         size: 89909
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 268338
+        size: 276324
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/xml/en.zip
       xml:
-        size: 100276
+        size: 100658
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/raw/en.zip
     files: 1
     sentences: 2434
@@ -54,10 +54,10 @@ monolingual:
         size: 94756
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 268116
+        size: 276144
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/xml/nb.zip
       xml:
-        size: 105267
+        size: 105649
         url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/raw/nb.zip
     files: 1
     sentences: 2444
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 2397
-    download size: 196734
+    download size: 197115
     download url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/moses/en-nb.txt.zip
     source language tokens: 38275
     target language tokens: 41767
 tmx:
   en-nb:
-    download size: 201357
+    download size: 201356
     download url: https://object.pouta.csc.fi/OPUS-ELRC-536-www.fhi.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 38275
     target language tokens: 41767

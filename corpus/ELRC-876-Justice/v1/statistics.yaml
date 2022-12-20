@@ -7,16 +7,16 @@ bitexts:
         size: 3073
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/en-pl.xml.gz
       source language:
-        size: 12601
+        size: 12982
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/raw/en.zip
       target language:
-        size: 13734
+        size: 14116
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/raw/pl.zip
       tokenized source language:
-        size: 32217
+        size: 33498
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/en.zip
       tokenized target language:
-        size: 30945
+        size: 32206
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/pl.zip
     files: 1
     source language tokens: 4651
@@ -34,10 +34,10 @@ monolingual:
         size: 10007
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/mono/en.tok.gz
       tokenized xml:
-        size: 32217
+        size: 33498
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/en.zip
       xml:
-        size: 12601
+        size: 12982
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/raw/en.zip
     files: 1
     sentences: 234
@@ -54,10 +54,10 @@ monolingual:
         size: 11123
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 30945
+        size: 32206
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/xml/pl.zip
       xml:
-        size: 13734
+        size: 14116
         url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/raw/pl.zip
     files: 1
     sentences: 230
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 225
-    download size: 23762
+    download size: 24145
     download url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/moses/en-pl.txt.zip
     source language tokens: 4119
     target language tokens: 4968
 tmx:
   en-pl:
-    download size: 22847
+    download size: 22853
     download url: https://object.pouta.csc.fi/OPUS-ELRC-876-Justice/v1/tmx/en-pl.tmx.gz
     source language tokens: 4119
     target language tokens: 4968

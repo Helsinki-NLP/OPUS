@@ -7,16 +7,16 @@ bitexts:
         size: 51376119
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/xml/et-nl.xml.gz
       source language:
-        size: 286869878
+        size: 286870009
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/raw/et.zip
       target language:
-        size: 307500729
+        size: 307500859
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/raw/nl.zip
       tokenized source language:
-        size: 794493595
+        size: 815890380
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/xml/et.zip
       tokenized target language:
-        size: 973269399
+        size: 995325966
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/xml/nl.zip
     files: 2
     source language tokens: 134011493
@@ -34,10 +34,10 @@ monolingual:
         size: 261735531
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/mono/et.tok.gz
       tokenized xml:
-        size: 794493595
+        size: 815890380
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/xml/et.zip
       xml:
-        size: 286869878
+        size: 286870009
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/raw/et.zip
     files: 2
     sentences: 6706005
@@ -54,10 +54,10 @@ monolingual:
         size: 281958439
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/mono/nl.tok.gz
       tokenized xml:
-        size: 973269399
+        size: 995325966
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/xml/nl.zip
       xml:
-        size: 307500729
+        size: 307500859
         url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/raw/nl.zip
     files: 2
     sentences: 6782456
@@ -65,11 +65,14 @@ monolingual:
 moses:
   et-nl:
     alignments: 6536875
-    download size: 572711888
+    download size: 572712019
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/moses/et-nl.txt.zip
     source language tokens: 110792993
     target language tokens: 157296648
 tmx:
   et-nl:
-    download size: 620968359
+    download size: 620968363
     download url: https://object.pouta.csc.fi/OPUS-ELRC-4199-NTEU_TierA/v1/tmx/et-nl.tmx.gz
+    source language tokens: 110621992
+    target language tokens: 157042470
+    translation units: 6522292

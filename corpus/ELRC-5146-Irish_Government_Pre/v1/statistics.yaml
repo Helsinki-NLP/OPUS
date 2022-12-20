@@ -7,16 +7,16 @@ bitexts:
         size: 1066
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/en-ga.xml.gz
       source language:
-        size: 9048
+        size: 9293
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/raw/en.zip
       target language:
-        size: 9952
+        size: 10195
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/raw/ga.zip
       tokenized source language:
-        size: 19782
+        size: 20638
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/en.zip
       tokenized target language:
-        size: 22108
+        size: 22976
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/ga.zip
     files: 1
     source language tokens: 3170
@@ -34,10 +34,10 @@ monolingual:
         size: 6708
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/mono/en.tok.gz
       tokenized xml:
-        size: 19782
+        size: 20638
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/en.zip
       xml:
-        size: 9048
+        size: 9293
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/raw/en.zip
     files: 1
     sentences: 129
@@ -54,10 +54,10 @@ monolingual:
         size: 7570
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 22108
+        size: 22976
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/xml/ga.zip
       xml:
-        size: 9952
+        size: 10195
         url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/raw/ga.zip
     files: 1
     sentences: 132
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 115
-    download size: 16468
+    download size: 16712
     download url: https://object.pouta.csc.fi/OPUS-ELRC-5146-Irish_Government_Pre/v1/moses/en-ga.txt.zip
     source language tokens: 2881
     target language tokens: 3215

@@ -7,25 +7,25 @@ bitexts:
         size: 150148
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/xml/bg-en.xml.gz
       smt phrase table:
-        size: 1964874
+        size: 1965126
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/smt/bg-en.zip
       source language:
-        size: 449867
+        size: 450242
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/raw/bg.zip
       target language:
-        size: 384543
+        size: 384918
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/raw/en.zip
       tokenized source language:
-        size: 1046083
+        size: 1079764
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/xml/bg.zip
       tokenized target language:
-        size: 1057847
+        size: 1091721
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/xml/en.zip
       word alignment dictionary:
         size: 111277
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/dic/bg-en.dic.gz
       word alignments:
-        size: 521341
+        size: 521592
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/smt/bg-en.alg.zip
     files: 1
     source language tokens: 166962
@@ -43,10 +43,10 @@ monolingual:
         size: 410172
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 1046083
+        size: 1079764
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/xml/bg.zip
       xml:
-        size: 449867
+        size: 450242
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/raw/bg.zip
     files: 1
     sentences: 10713
@@ -63,10 +63,10 @@ monolingual:
         size: 342960
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1057847
+        size: 1091721
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/xml/en.zip
       xml:
-        size: 384543
+        size: 384918
         url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/raw/en.zip
     files: 1
     sentences: 10706
@@ -74,7 +74,7 @@ monolingual:
 moses:
   bg-en:
     alignments: 10617
-    download size: 805155
+    download size: 805529
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1158-Official_Tourism_Por/v1/moses/bg-en.txt.zip
     source language tokens: 139026
     target language tokens: 167858

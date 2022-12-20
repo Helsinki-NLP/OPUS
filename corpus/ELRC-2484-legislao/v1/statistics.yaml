@@ -7,25 +7,25 @@ bitexts:
         size: 1653
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/xml/en-pt.xml.gz
       smt phrase table:
-        size: 37395
+        size: 37615
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/smt/en-pt.zip
       source language:
-        size: 8390
+        size: 8612
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/raw/en.zip
       target language:
-        size: 8739
+        size: 8960
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/raw/pt.zip
       tokenized source language:
-        size: 18085
+        size: 19120
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/xml/en.zip
       tokenized target language:
-        size: 18977
+        size: 19998
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/xml/pt.zip
       word alignment dictionary:
         size: 3353
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/dic/en-pt.dic.gz
       word alignments:
-        size: 12983
+        size: 13204
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/smt/en-pt.alg.zip
     files: 1
     source language tokens: 2860
@@ -43,10 +43,10 @@ monolingual:
         size: 5821
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/mono/en.tok.gz
       tokenized xml:
-        size: 18085
+        size: 19120
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/xml/en.zip
       xml:
-        size: 8390
+        size: 8612
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/raw/en.zip
     files: 1
     sentences: 216
@@ -63,10 +63,10 @@ monolingual:
         size: 6223
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 18977
+        size: 19998
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/xml/pt.zip
       xml:
-        size: 8739
+        size: 8960
         url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/raw/pt.zip
     files: 1
     sentences: 208
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-pt:
     alignments: 190
-    download size: 14550
+    download size: 14773
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/moses/en-pt.txt.zip
     source language tokens: 2508
     target language tokens: 2694
 tmx:
   en-pt:
-    download size: 12932
+    download size: 12931
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2484-legislao/v1/tmx/en-pt.tmx.gz
     source language tokens: 2508
     target language tokens: 2694

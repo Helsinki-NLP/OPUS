@@ -7,16 +7,16 @@ bitexts:
         size: 15636
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/xml/da-en.xml.gz
       source language:
-        size: 78867
+        size: 79241
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/raw/da.zip
       target language:
-        size: 76694
+        size: 77067
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/raw/en.zip
       tokenized source language:
-        size: 206066
+        size: 212696
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/xml/da.zip
       tokenized target language:
-        size: 215508
+        size: 222230
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/xml/en.zip
     files: 1
     source language tokens: 34987
@@ -34,10 +34,10 @@ monolingual:
         size: 69701
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/mono/da.tok.gz
       tokenized xml:
-        size: 206066
+        size: 212696
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/xml/da.zip
       xml:
-        size: 78867
+        size: 79241
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/raw/da.zip
     files: 1
     sentences: 2026
@@ -54,10 +54,10 @@ monolingual:
         size: 66843
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/mono/en.tok.gz
       tokenized xml:
-        size: 215508
+        size: 222230
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/xml/en.zip
       xml:
-        size: 76694
+        size: 77067
         url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/raw/en.zip
     files: 1
     sentences: 2051
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 1931
-    download size: 147058
+    download size: 147433
     download url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/moses/da-en.txt.zip
     source language tokens: 29587
     target language tokens: 34647
 tmx:
   da-en:
-    download size: 156556
+    download size: 156558
     download url: https://object.pouta.csc.fi/OPUS-ELRC-899-Danish_FSA/v1/tmx/da-en.tmx.gz
     source language tokens: 29587
     target language tokens: 34647

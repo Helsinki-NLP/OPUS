@@ -7,16 +7,16 @@ bitexts:
         size: 14713
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/xml/da-en.xml.gz
       source language:
-        size: 77234
+        size: 77607
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/raw/da.zip
       target language:
-        size: 72658
+        size: 73035
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/raw/en.zip
       tokenized source language:
-        size: 210174
+        size: 216423
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/xml/da.zip
       tokenized target language:
-        size: 211769
+        size: 218095
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/xml/en.zip
     files: 1
     source language tokens: 36967
@@ -34,10 +34,10 @@ monolingual:
         size: 68376
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/mono/da.tok.gz
       tokenized xml:
-        size: 210174
+        size: 216423
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/xml/da.zip
       xml:
-        size: 77234
+        size: 77607
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/raw/da.zip
     files: 1
     sentences: 1901
@@ -54,10 +54,10 @@ monolingual:
         size: 63823
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/mono/en.tok.gz
       tokenized xml:
-        size: 211769
+        size: 218095
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/xml/en.zip
       xml:
-        size: 72658
+        size: 73035
         url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/raw/en.zip
     files: 1
     sentences: 1900
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 1886
-    download size: 142800
+    download size: 143173
     download url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/moses/da-en.txt.zip
     source language tokens: 32247
     target language tokens: 35454
 tmx:
   da-en:
-    download size: 148651
+    download size: 148652
     download url: https://object.pouta.csc.fi/OPUS-ELRC-426-Danish_Higher_Educat/v1/tmx/da-en.tmx.gz
     source language tokens: 30442
     target language tokens: 33506

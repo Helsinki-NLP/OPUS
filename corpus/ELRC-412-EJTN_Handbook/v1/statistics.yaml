@@ -7,16 +7,16 @@ bitexts:
         size: 15112
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/xml/bg-en.xml.gz
       source language:
-        size: 89512
+        size: 89864
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/raw/bg.zip
       target language:
-        size: 69631
+        size: 69984
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/raw/en.zip
       tokenized source language:
-        size: 101194
+        size: 104261
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/xml/bg.zip
       tokenized target language:
-        size: 182040
+        size: 188469
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/xml/en.zip
     files: 1
     source language tokens: 18607
@@ -34,10 +34,10 @@ monolingual:
         size: 35340
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/mono/bg.tok.gz
       tokenized xml:
-        size: 101194
+        size: 104261
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/xml/bg.zip
       xml:
-        size: 89512
+        size: 89864
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/raw/bg.zip
     files: 1
     sentences: 862
@@ -54,10 +54,10 @@ monolingual:
         size: 60671
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/mono/en.tok.gz
       tokenized xml:
-        size: 182040
+        size: 188469
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/xml/en.zip
       xml:
-        size: 69631
+        size: 69984
         url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/raw/en.zip
     files: 1
     sentences: 1964
@@ -65,13 +65,13 @@ monolingual:
 moses:
   bg-en:
     alignments: 1944
-    download size: 152191
+    download size: 152545
     download url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/moses/bg-en.txt.zip
     source language tokens: 28106
     target language tokens: 28973
 tmx:
   bg-en:
-    download size: 167758
+    download size: 167756
     download url: https://object.pouta.csc.fi/OPUS-ELRC-412-EJTN_Handbook/v1/tmx/bg-en.tmx.gz
     source language tokens: 27883
     target language tokens: 28771

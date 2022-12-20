@@ -7,25 +7,25 @@ bitexts:
         size: 29998
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/xml/en-hr.xml.gz
       smt phrase table:
-        size: 918863
+        size: 919127
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/smt/en-hr.zip
       source language:
-        size: 118878
+        size: 119264
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/raw/en.zip
       target language:
-        size: 118907
+        size: 119293
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/raw/hr.zip
       tokenized source language:
-        size: 399104
+        size: 407378
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/xml/en.zip
       tokenized target language:
-        size: 352014
+        size: 360208
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/xml/hr.zip
       word alignment dictionary:
         size: 79607
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/dic/en-hr.dic.gz
       word alignments:
-        size: 200802
+        size: 201065
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/smt/en-hr.alg.zip
     files: 1
     source language tokens: 63842
@@ -43,10 +43,10 @@ monolingual:
         size: 108525
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/mono/en.tok.gz
       tokenized xml:
-        size: 399104
+        size: 407378
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/xml/en.zip
       xml:
-        size: 118878
+        size: 119264
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/raw/en.zip
     files: 1
     sentences: 2413
@@ -63,10 +63,10 @@ monolingual:
         size: 107979
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 352014
+        size: 360208
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/xml/hr.zip
       xml:
-        size: 118907
+        size: 119293
         url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/raw/hr.zip
     files: 1
     sentences: 2449
@@ -74,13 +74,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 2329
-    download size: 228878
+    download size: 229264
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/moses/en-hr.txt.zip
     source language tokens: 55455
     target language tokens: 69877
 tmx:
   en-hr:
-    download size: 247824
+    download size: 247827
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1080-Acts_Biological_Land/v1/tmx/en-hr.tmx.gz
     source language tokens: 55455
     target language tokens: 69877

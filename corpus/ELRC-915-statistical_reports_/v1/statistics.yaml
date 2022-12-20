@@ -7,16 +7,16 @@ bitexts:
         size: 149626
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/xml/en-hr.xml.gz
       source language:
-        size: 598401
+        size: 598797
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/raw/en.zip
       target language:
-        size: 615100
+        size: 615496
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/raw/hr.zip
       tokenized source language:
-        size: 1920280
+        size: 1958962
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/xml/en.zip
       tokenized target language:
-        size: 1792290
+        size: 1830678
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/xml/hr.zip
     files: 1
     source language tokens: 320802
@@ -34,10 +34,10 @@ monolingual:
         size: 556987
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1920280
+        size: 1958962
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/xml/en.zip
       xml:
-        size: 598401
+        size: 598797
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/raw/en.zip
     files: 1
     sentences: 11855
@@ -54,10 +54,10 @@ monolingual:
         size: 572299
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 1792290
+        size: 1830678
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/xml/hr.zip
       xml:
-        size: 615100
+        size: 615496
         url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/raw/hr.zip
     files: 1
     sentences: 11844
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-hr:
     alignments: 11738
-    download size: 1182461
+    download size: 1182858
     download url: https://object.pouta.csc.fi/OPUS-ELRC-915-statistical_reports_/v1/moses/en-hr.txt.zip
     source language tokens: 269322
     target language tokens: 320691

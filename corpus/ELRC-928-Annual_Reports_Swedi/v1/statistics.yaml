@@ -7,16 +7,16 @@ bitexts:
         size: 76628
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/en-sv.xml.gz
       source language:
-        size: 335332
+        size: 335720
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/raw/en.zip
       target language:
-        size: 324376
+        size: 324764
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/raw/sv.zip
       tokenized source language:
-        size: 1058443
+        size: 1090994
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/en.zip
       tokenized target language:
-        size: 879504
+        size: 911157
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/sv.zip
     files: 1
     source language tokens: 155664
@@ -34,10 +34,10 @@ monolingual:
         size: 296427
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1058443
+        size: 1090994
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/en.zip
       xml:
-        size: 335332
+        size: 335720
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/raw/en.zip
     files: 1
     sentences: 10266
@@ -54,10 +54,10 @@ monolingual:
         size: 287499
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 879504
+        size: 911157
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/xml/sv.zip
       xml:
-        size: 324376
+        size: 324764
         url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/raw/sv.zip
     files: 1
     sentences: 10226
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-sv:
     alignments: 10227
-    download size: 637026
+    download size: 637415
     download url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/moses/en-sv.txt.zip
     source language tokens: 140313
     target language tokens: 184446
 tmx:
   en-sv:
-    download size: 682817
+    download size: 682813
     download url: https://object.pouta.csc.fi/OPUS-ELRC-928-Annual_Reports_Swedi/v1/tmx/en-sv.tmx.gz
     source language tokens: 140313
     target language tokens: 184446

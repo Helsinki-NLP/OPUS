@@ -7,16 +7,16 @@ bitexts:
         size: 59584
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/xml/en-pl.xml.gz
       source language:
-        size: 230503
+        size: 230890
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/raw/en.zip
       target language:
-        size: 256004
+        size: 256390
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/raw/pl.zip
       tokenized source language:
-        size: 630431
+        size: 645538
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/xml/en.zip
       tokenized target language:
-        size: 622750
+        size: 637826
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/xml/pl.zip
     files: 1
     source language tokens: 96915
@@ -34,10 +34,10 @@ monolingual:
         size: 212096
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/mono/en.tok.gz
       tokenized xml:
-        size: 630431
+        size: 645538
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/xml/en.zip
       xml:
-        size: 230503
+        size: 230890
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/raw/en.zip
     files: 1
     sentences: 4603
@@ -54,10 +54,10 @@ monolingual:
         size: 236278
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/mono/pl.tok.gz
       tokenized xml:
-        size: 622750
+        size: 637826
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/xml/pl.zip
       xml:
-        size: 256004
+        size: 256390
         url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/raw/pl.zip
     files: 1
     sentences: 4641
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pl:
     alignments: 4568
-    download size: 469639
+    download size: 470024
     download url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/moses/en-pl.txt.zip
     source language tokens: 85644
     target language tokens: 99060
 tmx:
   en-pl:
-    download size: 510037
+    download size: 510035
     download url: https://object.pouta.csc.fi/OPUS-ELRC-947-Polish_Aid/v1/tmx/en-pl.tmx.gz
     source language tokens: 85644
     target language tokens: 99060

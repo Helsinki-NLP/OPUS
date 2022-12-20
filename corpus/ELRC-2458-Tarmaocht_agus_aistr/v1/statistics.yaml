@@ -10,16 +10,16 @@ bitexts:
         size: 59630
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/smt/en-ga.zip
       source language:
-        size: 20240
+        size: 20241
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/raw/en.zip
       target language:
-        size: 21933
+        size: 21934
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/raw/ga.zip
       tokenized source language:
-        size: 40501
+        size: 41626
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/en.zip
       tokenized target language:
-        size: 46423
+        size: 47614
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/ga.zip
       word alignment dictionary:
         size: 4003
@@ -43,10 +43,10 @@ monolingual:
         size: 11645
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/mono/en.tok.gz
       tokenized xml:
-        size: 40501
+        size: 41626
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/en.zip
       xml:
-        size: 20240
+        size: 20241
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/raw/en.zip
     files: 1
     sentences: 311
@@ -63,10 +63,10 @@ monolingual:
         size: 13252
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/mono/ga.tok.gz
       tokenized xml:
-        size: 46423
+        size: 47614
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/xml/ga.zip
       xml:
-        size: 21933
+        size: 21934
         url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/raw/ga.zip
     files: 1
     sentences: 330
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-ga:
     alignments: 189
-    download size: 33349
+    download size: 33350
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2458-Tarmaocht_agus_aistr/v1/moses/en-ga.txt.zip
     source language tokens: 4901
     target language tokens: 5889

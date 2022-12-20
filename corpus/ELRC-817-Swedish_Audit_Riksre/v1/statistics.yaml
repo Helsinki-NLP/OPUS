@@ -7,16 +7,16 @@ bitexts:
         size: 231959
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/en-sv.xml.gz
       source language:
-        size: 1158697
+        size: 1159077
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/raw/en.zip
       target language:
-        size: 1154318
+        size: 1154698
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/raw/sv.zip
       tokenized source language:
-        size: 3428280
+        size: 3525209
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/en.zip
       tokenized target language:
-        size: 2966650
+        size: 3061535
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/sv.zip
     files: 1
     source language tokens: 512333
@@ -34,10 +34,10 @@ monolingual:
         size: 1040434
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/mono/en.tok.gz
       tokenized xml:
-        size: 3428280
+        size: 3525209
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/en.zip
       xml:
-        size: 1158697
+        size: 1159077
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/raw/en.zip
     files: 1
     sentences: 30831
@@ -54,10 +54,10 @@ monolingual:
         size: 1033053
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 2966650
+        size: 3061535
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/xml/sv.zip
       xml:
-        size: 1154318
+        size: 1154698
         url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/raw/sv.zip
     files: 1
     sentences: 30608
@@ -65,7 +65,7 @@ monolingual:
 moses:
   en-sv:
     alignments: 30352
-    download size: 2218351
+    download size: 2218733
     download url: https://object.pouta.csc.fi/OPUS-ELRC-817-Swedish_Audit_Riksre/v1/moses/en-sv.txt.zip
     source language tokens: 467175
     target language tokens: 580068

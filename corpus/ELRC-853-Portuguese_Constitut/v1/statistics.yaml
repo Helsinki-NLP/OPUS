@@ -7,16 +7,16 @@ bitexts:
         size: 14332
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/xml/en-pt.xml.gz
       source language:
-        size: 66804
+        size: 67179
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/raw/en.zip
       target language:
-        size: 66271
+        size: 66647
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/raw/pt.zip
       tokenized source language:
-        size: 204460
+        size: 211626
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/xml/en.zip
       tokenized target language:
-        size: 193646
+        size: 200765
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/xml/pt.zip
     files: 1
     source language tokens: 35642
@@ -34,10 +34,10 @@ monolingual:
         size: 55714
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/mono/en.tok.gz
       tokenized xml:
-        size: 204460
+        size: 211626
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/xml/en.zip
       xml:
-        size: 66804
+        size: 67179
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/raw/en.zip
     files: 1
     sentences: 2202
@@ -54,10 +54,10 @@ monolingual:
         size: 54932
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/mono/pt.tok.gz
       tokenized xml:
-        size: 193646
+        size: 200765
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/xml/pt.zip
       xml:
-        size: 66271
+        size: 66647
         url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/raw/pt.zip
     files: 1
     sentences: 2197
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-pt:
     alignments: 1492
-    download size: 121456
+    download size: 121832
     download url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/moses/en-pt.txt.zip
     source language tokens: 30125
     target language tokens: 33417
 tmx:
   en-pt:
-    download size: 127120
+    download size: 127119
     download url: https://object.pouta.csc.fi/OPUS-ELRC-853-Portuguese_Constitut/v1/tmx/en-pt.tmx.gz
     source language tokens: 30101
     target language tokens: 33391

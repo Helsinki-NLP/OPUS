@@ -7,25 +7,25 @@ bitexts:
         size: 73258
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/xml/en-sv.xml.gz
       smt phrase table:
-        size: 1530769
+        size: 1531021
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/smt/en-sv.zip
       source language:
-        size: 352351
+        size: 352724
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/raw/en.zip
       target language:
-        size: 339651
+        size: 340025
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/raw/sv.zip
       tokenized source language:
-        size: 885203
+        size: 915690
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/xml/en.zip
       tokenized target language:
-        size: 772477
+        size: 802239
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/xml/sv.zip
       word alignment dictionary:
         size: 113868
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/dic/en-sv.dic.gz
       word alignments:
-        size: 406942
+        size: 407194
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/smt/en-sv.alg.zip
     files: 1
     source language tokens: 120977
@@ -43,10 +43,10 @@ monolingual:
         size: 313358
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/mono/en.tok.gz
       tokenized xml:
-        size: 885203
+        size: 915690
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/xml/en.zip
       xml:
-        size: 352351
+        size: 352724
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/raw/en.zip
     files: 1
     sentences: 9738
@@ -63,10 +63,10 @@ monolingual:
         size: 299815
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/mono/sv.tok.gz
       tokenized xml:
-        size: 772477
+        size: 802239
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/xml/sv.zip
       xml:
-        size: 339651
+        size: 340025
         url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/raw/sv.zip
     files: 1
     sentences: 9707
@@ -74,7 +74,7 @@ monolingual:
 moses:
   en-sv:
     alignments: 9706
-    download size: 663634
+    download size: 664009
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2033-www.turku.fi/v1/moses/en-sv.txt.zip
     source language tokens: 107773
     target language tokens: 131974

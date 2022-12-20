@@ -7,16 +7,16 @@ bitexts:
         size: 147181
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/xml/en-hr.xml.gz
       source language:
-        size: 674014
+        size: 674426
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/raw/en.zip
       target language:
-        size: 687867
+        size: 688279
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/raw/hr.zip
       tokenized source language:
-        size: 1947226
+        size: 1985960
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/xml/en.zip
       tokenized target language:
-        size: 1799505
+        size: 1838083
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/xml/hr.zip
     files: 1
     source language tokens: 303102
@@ -34,10 +34,10 @@ monolingual:
         size: 629813
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/mono/en.tok.gz
       tokenized xml:
-        size: 1947226
+        size: 1985960
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/xml/en.zip
       xml:
-        size: 674014
+        size: 674426
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/raw/en.zip
     files: 1
     sentences: 11818
@@ -54,10 +54,10 @@ monolingual:
         size: 641880
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/mono/hr.tok.gz
       tokenized xml:
-        size: 1799505
+        size: 1838083
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/xml/hr.zip
       xml:
-        size: 687867
+        size: 688279
         url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/raw/hr.zip
     files: 1
     sentences: 11880
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-hr:
     alignments: 11781
-    download size: 1323082
+    download size: 1323498
     download url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/moses/en-hr.txt.zip
     source language tokens: 261601
     target language tokens: 317596
 tmx:
   en-hr:
-    download size: 1442801
+    download size: 1442802
     download url: https://object.pouta.csc.fi/OPUS-ELRC-921-studies_challenges_C/v1/tmx/en-hr.tmx.gz
     source language tokens: 261601
     target language tokens: 317596

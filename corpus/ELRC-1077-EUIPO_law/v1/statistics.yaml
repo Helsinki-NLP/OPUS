@@ -7,25 +7,25 @@ bitexts:
         size: 2844024
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/xml/de-en.xml.gz
       smt phrase table:
-        size: 74455952
+        size: 74456186
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/smt/de-en.zip
       source language:
-        size: 17381942
+        size: 17382300
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/raw/de.zip
       target language:
-        size: 15953091
+        size: 15953449
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/raw/en.zip
       tokenized source language:
-        size: 48050071
+        size: 49252852
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/xml/de.zip
       tokenized target language:
-        size: 51243793
+        size: 52450986
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/xml/en.zip
       word alignment dictionary:
         size: 967154
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/dic/de-en.dic.gz
       word alignments:
-        size: 25287594
+        size: 25287829
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/smt/de-en.alg.zip
     files: 1
     source language tokens: 8149994
@@ -43,10 +43,10 @@ monolingual:
         size: 15878823
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/mono/de.tok.gz
       tokenized xml:
-        size: 48050071
+        size: 49252852
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/xml/de.zip
       xml:
-        size: 17381942
+        size: 17382300
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/raw/de.zip
     files: 1
     sentences: 375214
@@ -63,10 +63,10 @@ monolingual:
         size: 14466817
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/mono/en.tok.gz
       tokenized xml:
-        size: 51243793
+        size: 52450986
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/xml/en.zip
       xml:
-        size: 15953091
+        size: 15953449
         url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/raw/en.zip
     files: 1
     sentences: 373017
@@ -74,13 +74,13 @@ monolingual:
 moses:
   de-en:
     alignments: 340052
-    download size: 32000082
+    download size: 32000438
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/moses/de-en.txt.zip
     source language tokens: 6675637
     target language tokens: 7859614
 tmx:
   de-en:
-    download size: 30475922
+    download size: 30475926
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1077-EUIPO_law/v1/tmx/de-en.tmx.gz
     source language tokens: 6009789
     target language tokens: 7098737

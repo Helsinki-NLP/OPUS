@@ -7,16 +7,16 @@ bitexts:
         size: 21172
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/xml/en-nb.xml.gz
       source language:
-        size: 64688
+        size: 65067
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/raw/en.zip
       target language:
-        size: 62032
+        size: 62411
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/raw/nb.zip
       tokenized source language:
-        size: 229079
+        size: 238139
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/xml/en.zip
       tokenized target language:
-        size: 201481
+        size: 210434
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/xml/nb.zip
     files: 1
     source language tokens: 39378
@@ -34,10 +34,10 @@ monolingual:
         size: 52785
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/mono/en.tok.gz
       tokenized xml:
-        size: 229079
+        size: 238139
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/xml/en.zip
       xml:
-        size: 64688
+        size: 65067
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/raw/en.zip
     files: 1
     sentences: 2853
@@ -54,10 +54,10 @@ monolingual:
         size: 50134
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/mono/nb.tok.gz
       tokenized xml:
-        size: 201481
+        size: 210434
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/xml/nb.zip
       xml:
-        size: 62032
+        size: 62411
         url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/raw/nb.zip
     files: 1
     sentences: 2853
@@ -65,13 +65,13 @@ monolingual:
 moses:
   en-nb:
     alignments: 2854
-    download size: 118205
+    download size: 118586
     download url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/moses/en-nb.txt.zip
     source language tokens: 34988
     target language tokens: 41249
 tmx:
   en-nb:
-    download size: 115338
+    download size: 115337
     download url: https://object.pouta.csc.fi/OPUS-ELRC-609-www.udi.no/v1/tmx/en-nb.tmx.gz
     source language tokens: 27605
     target language tokens: 32528

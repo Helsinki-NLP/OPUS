@@ -7,25 +7,25 @@ bitexts:
         size: 16899
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/xml/el-en.xml.gz
       smt phrase table:
-        size: 421080
+        size: 421359
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/smt/el-en.zip
       source language:
-        size: 106593
+        size: 106992
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/raw/el.zip
       target language:
-        size: 75081
+        size: 75481
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/raw/en.zip
       tokenized source language:
-        size: 231737
+        size: 236435
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/xml/el.zip
       tokenized target language:
-        size: 195216
+        size: 199985
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/xml/en.zip
       word alignment dictionary:
         size: 36008
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/dic/el-en.dic.gz
       word alignments:
-        size: 101210
+        size: 101489
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/smt/el-en.alg.zip
     files: 1
     source language tokens: 34685
@@ -43,10 +43,10 @@ monolingual:
         size: 100238
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/mono/el.tok.gz
       tokenized xml:
-        size: 231737
+        size: 236435
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/xml/el.zip
       xml:
-        size: 106593
+        size: 106992
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/raw/el.zip
     files: 1
     sentences: 1342
@@ -63,10 +63,10 @@ monolingual:
         size: 68170
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/mono/en.tok.gz
       tokenized xml:
-        size: 195216
+        size: 199985
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/xml/en.zip
       xml:
-        size: 75081
+        size: 75481
         url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/raw/en.zip
     files: 1
     sentences: 1355
@@ -74,13 +74,13 @@ monolingual:
 moses:
   el-en:
     alignments: 1321
-    download size: 175945
+    download size: 176341
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/moses/el-en.txt.zip
     source language tokens: 30988
     target language tokens: 31501
 tmx:
   el-en:
-    download size: 192204
+    download size: 192199
     download url: https://object.pouta.csc.fi/OPUS-ELRC-1065-PIO_Publication_Cypr/v1/tmx/el-en.tmx.gz
     source language tokens: 30988
     target language tokens: 31501

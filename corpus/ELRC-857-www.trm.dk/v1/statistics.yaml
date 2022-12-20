@@ -7,16 +7,16 @@ bitexts:
         size: 23959
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/xml/da-en.xml.gz
       source language:
-        size: 116469
+        size: 116857
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/raw/da.zip
       target language:
-        size: 114020
+        size: 114408
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/raw/en.zip
       tokenized source language:
-        size: 317275
+        size: 327208
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/xml/da.zip
       tokenized target language:
-        size: 330518
+        size: 340526
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/xml/en.zip
     files: 1
     source language tokens: 55944
@@ -34,10 +34,10 @@ monolingual:
         size: 103890
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/mono/da.tok.gz
       tokenized xml:
-        size: 317275
+        size: 327208
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/xml/da.zip
       xml:
-        size: 116469
+        size: 116857
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/raw/da.zip
     files: 1
     sentences: 3059
@@ -54,10 +54,10 @@ monolingual:
         size: 101126
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/mono/en.tok.gz
       tokenized xml:
-        size: 330518
+        size: 340526
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/xml/en.zip
       xml:
-        size: 114020
+        size: 114408
         url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/raw/en.zip
     files: 1
     sentences: 3080
@@ -65,13 +65,13 @@ monolingual:
 moses:
   da-en:
     alignments: 3015
-    download size: 220451
+    download size: 220839
     download url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/moses/da-en.txt.zip
     source language tokens: 48242
     target language tokens: 55164
 tmx:
   da-en:
-    download size: 234885
+    download size: 234883
     download url: https://object.pouta.csc.fi/OPUS-ELRC-857-www.trm.dk/v1/tmx/da-en.tmx.gz
     source language tokens: 48242
     target language tokens: 55164
