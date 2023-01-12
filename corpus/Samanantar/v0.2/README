@@ -1,0 +1,204 @@
+ Corpus Name: Samanantar
+     Website: http://opus.nlpl.eu/Samanantar-v0.2.php
+     Release: v0.2
+Release date: Thu Dec 22 21:06:19 EET 2022
+     License: CC0
+   Copyright: Samanantar is released under this licensing scheme: <ul><li>We do not own any of the text from which this data has been extracted.</li> <li>We license the actual packaging of this data under the Creative Commons CC0 license (“no rights reserved”).</li> <li>To the extent possible under law, AI4Bharat has waived all copyright and related or neighboring rights to Samanantar</li> <li>This work is published from: India.</li></ul>
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+If you are using any of the resources, please cite the following article: <blockquote><pre> @misc{ramesh2021samanantar,<br/> title={Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages}, <br/> author={Gowtham Ramesh and Sumanth Doddapaneni and Aravinth Bheemaraj and Mayank Jobanputra and Raghavan AK and Ajitesh Sharma and Sujit Sahoo and Harshita Diddee and Mahalakshmi J and Divyanshu Kakwani and Navneet Kumar and Aswin Pradeep and Srihari Nagaraj and Kumar Deepak and Vivek Raghavan and Anoop Kunchukuttan and Pratyush Kumar and Mitesh Shantadevi Khapra},<br/> year={2021},<br/> eprint={2104.05596},<br/> archivePrefix={arXiv},<br/> primaryClass={cs.CL}<br/> }<br/> </pre></blockquote>
+
+Samanantar is the largest publicly available parallel corpora collection for Indic languages: Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu. The corpus has 49.6M sentence pairs between English to Indian Languages. The data is distributed by AI4BHARAT
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+Samanantar/v0.2/freq/as.freq.gz
+Samanantar/v0.2/freq/bn.freq.gz
+Samanantar/v0.2/freq/en.freq.gz
+Samanantar/v0.2/freq/gu.freq.gz
+Samanantar/v0.2/freq/hi.freq.gz
+Samanantar/v0.2/freq/kn.freq.gz
+Samanantar/v0.2/freq/ml.freq.gz
+Samanantar/v0.2/freq/mr.freq.gz
+Samanantar/v0.2/freq/or.freq.gz
+Samanantar/v0.2/freq/pa.freq.gz
+Samanantar/v0.2/freq/ta.freq.gz
+Samanantar/v0.2/freq/te.freq.gz
+Samanantar/v0.2/mono/as.tok.gz
+Samanantar/v0.2/mono/as.txt.gz
+Samanantar/v0.2/mono/bn.tok.gz
+Samanantar/v0.2/mono/bn.txt.gz
+Samanantar/v0.2/mono/en.tok.gz
+Samanantar/v0.2/mono/en.txt.gz
+Samanantar/v0.2/mono/gu.tok.gz
+Samanantar/v0.2/mono/gu.txt.gz
+Samanantar/v0.2/mono/hi.tok.gz
+Samanantar/v0.2/mono/hi.txt.gz
+Samanantar/v0.2/mono/kn.tok.gz
+Samanantar/v0.2/mono/kn.txt.gz
+Samanantar/v0.2/mono/ml.tok.gz
+Samanantar/v0.2/mono/ml.txt.gz
+Samanantar/v0.2/mono/mr.tok.gz
+Samanantar/v0.2/mono/mr.txt.gz
+Samanantar/v0.2/mono/or.tok.gz
+Samanantar/v0.2/mono/or.txt.gz
+Samanantar/v0.2/mono/pa.tok.gz
+Samanantar/v0.2/mono/pa.txt.gz
+Samanantar/v0.2/mono/ta.tok.gz
+Samanantar/v0.2/mono/ta.txt.gz
+Samanantar/v0.2/mono/te.tok.gz
+Samanantar/v0.2/mono/te.txt.gz
+Samanantar/v0.2/moses/en-as.txt.zip
+Samanantar/v0.2/moses/en-bn.txt.zip
+Samanantar/v0.2/moses/en-gu.txt.zip
+Samanantar/v0.2/moses/en-hi.txt.zip
+Samanantar/v0.2/moses/en-kn.txt.zip
+Samanantar/v0.2/moses/en-ml.txt.zip
+Samanantar/v0.2/moses/en-mr.txt.zip
+Samanantar/v0.2/moses/en-or.txt.zip
+Samanantar/v0.2/moses/en-pa.txt.zip
+Samanantar/v0.2/moses/en-ta.txt.zip
+Samanantar/v0.2/moses/en-te.txt.zip
+Samanantar/v0.2/raw/as.zip
+Samanantar/v0.2/raw/bn.zip
+Samanantar/v0.2/raw/en.zip
+Samanantar/v0.2/raw/gu.zip
+Samanantar/v0.2/raw/hi.zip
+Samanantar/v0.2/raw/kn.zip
+Samanantar/v0.2/raw/ml.zip
+Samanantar/v0.2/raw/mr.zip
+Samanantar/v0.2/raw/or.zip
+Samanantar/v0.2/raw/pa.zip
+Samanantar/v0.2/raw/ta.zip
+Samanantar/v0.2/raw/te.zip
+Samanantar/v0.2/tmx/en-as.tmx.gz
+Samanantar/v0.2/tmx/en-bn.tmx.gz
+Samanantar/v0.2/tmx/en-gu.tmx.gz
+Samanantar/v0.2/tmx/en-hi.tmx.gz
+Samanantar/v0.2/tmx/en-kn.tmx.gz
+Samanantar/v0.2/tmx/en-ml.tmx.gz
+Samanantar/v0.2/tmx/en-mr.tmx.gz
+Samanantar/v0.2/tmx/en-or.tmx.gz
+Samanantar/v0.2/tmx/en-pa.tmx.gz
+Samanantar/v0.2/tmx/en-ta.tmx.gz
+Samanantar/v0.2/tmx/en-te.tmx.gz
+Samanantar/v0.2/xml/as.zip
+Samanantar/v0.2/xml/bn.zip
+Samanantar/v0.2/xml/en.zip
+Samanantar/v0.2/xml/gu.zip
+Samanantar/v0.2/xml/hi.zip
+Samanantar/v0.2/xml/kn.zip
+Samanantar/v0.2/xml/ml.zip
+Samanantar/v0.2/xml/mr.zip
+Samanantar/v0.2/xml/or.zip
+Samanantar/v0.2/xml/pa.zip
+Samanantar/v0.2/xml/ta.zip
+Samanantar/v0.2/xml/te.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+Samanantar/v0.2/freq/as.freq.gz
+Samanantar/v0.2/freq/bn.freq.gz
+Samanantar/v0.2/freq/en.freq.gz
+Samanantar/v0.2/freq/gu.freq.gz
+Samanantar/v0.2/freq/hi.freq.gz
+Samanantar/v0.2/freq/kn.freq.gz
+Samanantar/v0.2/freq/ml.freq.gz
+Samanantar/v0.2/freq/mr.freq.gz
+Samanantar/v0.2/freq/or.freq.gz
+Samanantar/v0.2/freq/pa.freq.gz
+Samanantar/v0.2/freq/ta.freq.gz
+Samanantar/v0.2/freq/te.freq.gz
+Samanantar/v0.2/mono/as.tok.gz
+Samanantar/v0.2/mono/as.txt.gz
+Samanantar/v0.2/mono/bn.tok.gz
+Samanantar/v0.2/mono/bn.txt.gz
+Samanantar/v0.2/mono/en.tok.gz
+Samanantar/v0.2/mono/en.txt.gz
+Samanantar/v0.2/mono/gu.tok.gz
+Samanantar/v0.2/mono/gu.txt.gz
+Samanantar/v0.2/mono/hi.tok.gz
+Samanantar/v0.2/mono/hi.txt.gz
+Samanantar/v0.2/mono/kn.tok.gz
+Samanantar/v0.2/mono/kn.txt.gz
+Samanantar/v0.2/mono/ml.tok.gz
+Samanantar/v0.2/mono/ml.txt.gz
+Samanantar/v0.2/mono/mr.tok.gz
+Samanantar/v0.2/mono/mr.txt.gz
+Samanantar/v0.2/mono/or.tok.gz
+Samanantar/v0.2/mono/or.txt.gz
+Samanantar/v0.2/mono/pa.tok.gz
+Samanantar/v0.2/mono/pa.txt.gz
+Samanantar/v0.2/mono/ta.tok.gz
+Samanantar/v0.2/mono/ta.txt.gz
+Samanantar/v0.2/mono/te.tok.gz
+Samanantar/v0.2/mono/te.txt.gz
+Samanantar/v0.2/moses/en-as.txt.zip
+Samanantar/v0.2/moses/en-bn.txt.zip
+Samanantar/v0.2/moses/en-gu.txt.zip
+Samanantar/v0.2/moses/en-hi.txt.zip
+Samanantar/v0.2/moses/en-kn.txt.zip
+Samanantar/v0.2/moses/en-ml.txt.zip
+Samanantar/v0.2/moses/en-mr.txt.zip
+Samanantar/v0.2/moses/en-or.txt.zip
+Samanantar/v0.2/moses/en-pa.txt.zip
+Samanantar/v0.2/moses/en-ta.txt.zip
+Samanantar/v0.2/moses/en-te.txt.zip
+Samanantar/v0.2/raw/as.zip
+Samanantar/v0.2/raw/bn.zip
+Samanantar/v0.2/raw/en.zip
+Samanantar/v0.2/raw/gu.zip
+Samanantar/v0.2/raw/hi.zip
+Samanantar/v0.2/raw/kn.zip
+Samanantar/v0.2/raw/ml.zip
+Samanantar/v0.2/raw/mr.zip
+Samanantar/v0.2/raw/or.zip
+Samanantar/v0.2/raw/pa.zip
+Samanantar/v0.2/raw/ta.zip
+Samanantar/v0.2/raw/te.zip
+Samanantar/v0.2/tmx/en-as.tmx.gz
+Samanantar/v0.2/tmx/en-bn.tmx.gz
+Samanantar/v0.2/tmx/en-gu.tmx.gz
+Samanantar/v0.2/tmx/en-hi.tmx.gz
+Samanantar/v0.2/tmx/en-kn.tmx.gz
+Samanantar/v0.2/tmx/en-ml.tmx.gz
+Samanantar/v0.2/tmx/en-mr.tmx.gz
+Samanantar/v0.2/tmx/en-or.tmx.gz
+Samanantar/v0.2/tmx/en-pa.tmx.gz
+Samanantar/v0.2/tmx/en-ta.tmx.gz
+Samanantar/v0.2/tmx/en-te.tmx.gz
+Samanantar/v0.2/xml/as.zip
+Samanantar/v0.2/xml/bn.zip
+Samanantar/v0.2/xml/en.zip
+Samanantar/v0.2/xml/gu.zip
+Samanantar/v0.2/xml/hi.zip
+Samanantar/v0.2/xml/kn.zip
+Samanantar/v0.2/xml/ml.zip
+Samanantar/v0.2/xml/mr.zip
+Samanantar/v0.2/xml/or.zip
+Samanantar/v0.2/xml/pa.zip
+Samanantar/v0.2/xml/ta.zip
+Samanantar/v0.2/xml/te.zip
