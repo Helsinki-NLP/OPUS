@@ -1,0 +1,64 @@
+ Corpus Name: FFR
+     Website: http://opus.nlpl.eu/FFR-v2.php
+     Release: v2
+Release date: Fri Jan 13 14:36:38 EET 2023
+     License: CC-BY-NC-SA-4.0
+     Contact: Bonaventure DOSSOU, Chris EMEZUE
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please <a href="http://opus.lingfil.uu.se/LREC2012.txt">cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)<br/>
+
+FFR Dataset is an ongoing project to collect, clean and store corpora of Fon and French sentences for machine translation from Fon-French. Fon (also called Fongbe) is an African-indigenous language spoken mostly in Benin, by about 1.7 million people. As training data is crucial to the high performance of a machine learning model, the aim of this project is to compile the largest set of training corpora for the research and design of translation and NLP models involving Fon.
+The FFR project is hosted at GitHUb
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+FFR/v2/freq/fon.freq.gz
+FFR/v2/freq/fr.freq.gz
+FFR/v2/mono/fon.tok.gz
+FFR/v2/mono/fon.txt.gz
+FFR/v2/mono/fr.tok.gz
+FFR/v2/mono/fr.txt.gz
+FFR/v2/moses/fon-fr.txt.zip
+FFR/v2/raw/fon.zip
+FFR/v2/raw/fr.zip
+FFR/v2/tmx/fon-fr.tmx.gz
+FFR/v2/xml/fon.zip
+FFR/v2/xml/fr.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+FFR/v2/freq/fon.freq.gz
+FFR/v2/freq/fr.freq.gz
+FFR/v2/mono/fon.tok.gz
+FFR/v2/mono/fon.txt.gz
+FFR/v2/mono/fr.tok.gz
+FFR/v2/mono/fr.txt.gz
+FFR/v2/moses/fon-fr.txt.zip
+FFR/v2/raw/fon.zip
+FFR/v2/raw/fr.zip
+FFR/v2/tmx/fon-fr.tmx.gz
+FFR/v2/xml/fon.zip
+FFR/v2/xml/fr.zip

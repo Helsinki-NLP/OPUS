@@ -1,0 +1,78 @@
+---
+bitexts:
+  fon-fr:
+    alignments: 82132
+    downloads:
+      alignments:
+        size: 618336
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/xml/fon-fr.xml.gz
+      source language:
+        size: 1316768
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/raw/fon.zip
+      target language:
+        size: 1251045
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/raw/fr.zip
+      tokenized source language:
+        size: 3447428
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/xml/fon.zip
+      tokenized target language:
+        size: 2877183
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/xml/fr.zip
+    files: 3
+    source language tokens: 472084
+    target language tokens: 650087
+monolingual:
+  fon:
+    downloads:
+      frequency list:
+        size: 84072
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/freq/fon.freq.gz
+      plain text:
+        size: 1025257
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/mono/fon.txt.gz
+      tokenized text:
+        size: 1025283
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/mono/fon.tok.gz
+      tokenized xml:
+        size: 3447428
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/xml/fon.zip
+      xml:
+        size: 1316768
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/raw/fon.zip
+    files: 3
+    sentences: 82134
+    tokens: 650095
+  fr:
+    downloads:
+      frequency list:
+        size: 100293
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/freq/fr.freq.gz
+      plain text:
+        size: 945983
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/mono/fr.txt.gz
+      tokenized text:
+        size: 946745
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/mono/fr.tok.gz
+      tokenized xml:
+        size: 2877183
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/xml/fr.zip
+      xml:
+        size: 1251045
+        url: https://object.pouta.csc.fi/OPUS-FFR/v2/raw/fr.zip
+    files: 3
+    sentences: 82134
+    tokens: 472086
+moses:
+  fon-fr:
+    alignments: 82135
+    download size: 2382973
+    download url: https://object.pouta.csc.fi/OPUS-FFR/v2/moses/fon-fr.txt.zip
+    source language tokens: 462929
+    target language tokens: 649934
+tmx:
+  fon-fr:
+    download size: 2429323
+    download url: https://object.pouta.csc.fi/OPUS-FFR/v2/tmx/fon-fr.tmx.gz
+    source language tokens: 447545
+    target language tokens: 633358
+    translation units: 77978
