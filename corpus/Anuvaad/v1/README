@@ -1,0 +1,430 @@
+ Corpus Name: Anuvaad
+     Website: http://opus.nlpl.eu/Anuvaad-v1.php
+     Release: v1
+Release date: Fri Jan 13 13:18:50 EET 2023
+     License: CC-BY-4.0
+     Contact: nlp-nmt@tarento.com
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please <a href="http://opus.lingfil.uu.se/LREC2012.txt">cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)<br/>
+
+This repository contains parallel language corpus links for popular Indian languages developed as part of the Anuvaad project. The Anuvaad Parallel Corpus is available from https://github.com/project-anuvaad/anuvaad-parallel-corpus.
+Please reach out to nlp-nmt@tarento.com for any clarification/interpretation/usage of the linked datasets.
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+Anuvaad/v1/freq/as.freq.gz
+Anuvaad/v1/freq/bn.freq.gz
+Anuvaad/v1/freq/en.freq.gz
+Anuvaad/v1/freq/gu.freq.gz
+Anuvaad/v1/freq/hi.freq.gz
+Anuvaad/v1/freq/kn.freq.gz
+Anuvaad/v1/freq/ml.freq.gz
+Anuvaad/v1/freq/mr.freq.gz
+Anuvaad/v1/freq/or.freq.gz
+Anuvaad/v1/freq/pa.freq.gz
+Anuvaad/v1/freq/ta.freq.gz
+Anuvaad/v1/freq/te.freq.gz
+Anuvaad/v1/freq/ur.freq.gz
+Anuvaad/v1/mono/as.tok.gz
+Anuvaad/v1/mono/as.txt.gz
+Anuvaad/v1/mono/bn.tok.gz
+Anuvaad/v1/mono/bn.txt.gz
+Anuvaad/v1/mono/en.tok.gz
+Anuvaad/v1/mono/en.txt.gz
+Anuvaad/v1/mono/gu.tok.gz
+Anuvaad/v1/mono/gu.txt.gz
+Anuvaad/v1/mono/hi.tok.gz
+Anuvaad/v1/mono/hi.txt.gz
+Anuvaad/v1/mono/kn.tok.gz
+Anuvaad/v1/mono/kn.txt.gz
+Anuvaad/v1/mono/ml.tok.gz
+Anuvaad/v1/mono/ml.txt.gz
+Anuvaad/v1/mono/mr.tok.gz
+Anuvaad/v1/mono/mr.txt.gz
+Anuvaad/v1/mono/or.tok.gz
+Anuvaad/v1/mono/or.txt.gz
+Anuvaad/v1/mono/pa.tok.gz
+Anuvaad/v1/mono/pa.txt.gz
+Anuvaad/v1/mono/ta.tok.gz
+Anuvaad/v1/mono/ta.txt.gz
+Anuvaad/v1/mono/te.tok.gz
+Anuvaad/v1/mono/te.txt.gz
+Anuvaad/v1/mono/ur.tok.gz
+Anuvaad/v1/mono/ur.txt.gz
+Anuvaad/v1/moses/as-en.txt.zip
+Anuvaad/v1/moses/bn-en.txt.zip
+Anuvaad/v1/moses/en-gu.txt.zip
+Anuvaad/v1/moses/en-hi.txt.zip
+Anuvaad/v1/moses/en-kn.txt.zip
+Anuvaad/v1/moses/en-ml.txt.zip
+Anuvaad/v1/moses/en-mr.txt.zip
+Anuvaad/v1/moses/en-or.txt.zip
+Anuvaad/v1/moses/en-pa.txt.zip
+Anuvaad/v1/moses/en-ta.txt.zip
+Anuvaad/v1/moses/en-te.txt.zip
+Anuvaad/v1/moses/en-txt.txt.zip
+Anuvaad/v1/moses/en-ur.txt.zip
+Anuvaad/v1/raw/as.zip
+Anuvaad/v1/raw/bn.zip
+Anuvaad/v1/raw/en.zip
+Anuvaad/v1/raw/gu.zip
+Anuvaad/v1/raw/hi.zip
+Anuvaad/v1/raw/kn.zip
+Anuvaad/v1/raw/ml.zip
+Anuvaad/v1/raw/mr.zip
+Anuvaad/v1/raw/or.zip
+Anuvaad/v1/raw/pa.zip
+Anuvaad/v1/raw/ta.zip
+Anuvaad/v1/raw/te.zip
+Anuvaad/v1/raw/ur.zip
+Anuvaad/v1/tmx/as-en.tmx.gz
+Anuvaad/v1/tmx/bn-en.tmx.gz
+Anuvaad/v1/tmx/en-gu.tmx.gz
+Anuvaad/v1/tmx/en-hi.tmx.gz
+Anuvaad/v1/tmx/en-kn.tmx.gz
+Anuvaad/v1/tmx/en-ml.tmx.gz
+Anuvaad/v1/tmx/en-mr.tmx.gz
+Anuvaad/v1/tmx/en-or.tmx.gz
+Anuvaad/v1/tmx/en-pa.tmx.gz
+Anuvaad/v1/tmx/en-ta.tmx.gz
+Anuvaad/v1/tmx/en-te.tmx.gz
+Anuvaad/v1/tmx/en-txt.tmx.gz
+Anuvaad/v1/tmx/en-ur.tmx.gz
+Anuvaad/v1/xml/as.zip
+Anuvaad/v1/xml/bn.zip
+Anuvaad/v1/xml/en.zip
+Anuvaad/v1/xml/gu.zip
+Anuvaad/v1/xml/hi.zip
+Anuvaad/v1/xml/kn.zip
+Anuvaad/v1/xml/ml.zip
+Anuvaad/v1/xml/mr.zip
+Anuvaad/v1/xml/or.zip
+Anuvaad/v1/xml/pa.zip
+Anuvaad/v1/xml/ta.zip
+Anuvaad/v1/xml/te.zip
+Anuvaad/v1/xml/ur.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+Anuvaad/v1/freq/as.freq.gz
+Anuvaad/v1/freq/bn.freq.gz
+Anuvaad/v1/freq/en.freq.gz
+Anuvaad/v1/freq/gu.freq.gz
+Anuvaad/v1/freq/hi.freq.gz
+Anuvaad/v1/freq/kn.freq.gz
+Anuvaad/v1/freq/ml.freq.gz
+Anuvaad/v1/freq/mr.freq.gz
+Anuvaad/v1/freq/or.freq.gz
+Anuvaad/v1/freq/pa.freq.gz
+Anuvaad/v1/freq/ta.freq.gz
+Anuvaad/v1/freq/te.freq.gz
+Anuvaad/v1/freq/ur.freq.gz
+Anuvaad/v1/mono/as.tok.gz
+Anuvaad/v1/mono/as.txt.gz
+Anuvaad/v1/mono/bn.tok.gz
+Anuvaad/v1/mono/bn.txt.gz
+Anuvaad/v1/mono/en.tok.gz
+Anuvaad/v1/mono/en.txt.gz
+Anuvaad/v1/mono/gu.tok.gz
+Anuvaad/v1/mono/gu.txt.gz
+Anuvaad/v1/mono/hi.tok.gz
+Anuvaad/v1/mono/hi.txt.gz
+Anuvaad/v1/mono/kn.tok.gz
+Anuvaad/v1/mono/kn.txt.gz
+Anuvaad/v1/mono/ml.tok.gz
+Anuvaad/v1/mono/ml.txt.gz
+Anuvaad/v1/mono/mr.tok.gz
+Anuvaad/v1/mono/mr.txt.gz
+Anuvaad/v1/mono/or.tok.gz
+Anuvaad/v1/mono/or.txt.gz
+Anuvaad/v1/mono/pa.tok.gz
+Anuvaad/v1/mono/pa.txt.gz
+Anuvaad/v1/mono/ta.tok.gz
+Anuvaad/v1/mono/ta.txt.gz
+Anuvaad/v1/mono/te.tok.gz
+Anuvaad/v1/mono/te.txt.gz
+Anuvaad/v1/mono/ur.tok.gz
+Anuvaad/v1/mono/ur.txt.gz
+Anuvaad/v1/moses/as-en.txt.zip
+Anuvaad/v1/moses/bn-en.txt.zip
+Anuvaad/v1/moses/en-gu.txt.zip
+Anuvaad/v1/moses/en-hi.txt.zip
+Anuvaad/v1/moses/en-kn.txt.zip
+Anuvaad/v1/moses/en-ml.txt.zip
+Anuvaad/v1/moses/en-mr.txt.zip
+Anuvaad/v1/moses/en-or.txt.zip
+Anuvaad/v1/moses/en-pa.txt.zip
+Anuvaad/v1/moses/en-ta.txt.zip
+Anuvaad/v1/moses/en-te.txt.zip
+Anuvaad/v1/moses/en-txt.txt.zip
+Anuvaad/v1/moses/en-ur.txt.zip
+Anuvaad/v1/raw/as.zip
+Anuvaad/v1/raw/bn.zip
+Anuvaad/v1/raw/en.zip
+Anuvaad/v1/raw/gu.zip
+Anuvaad/v1/raw/hi.zip
+Anuvaad/v1/raw/kn.zip
+Anuvaad/v1/raw/ml.zip
+Anuvaad/v1/raw/mr.zip
+Anuvaad/v1/raw/or.zip
+Anuvaad/v1/raw/pa.zip
+Anuvaad/v1/raw/ta.zip
+Anuvaad/v1/raw/te.zip
+Anuvaad/v1/raw/ur.zip
+Anuvaad/v1/tmx/as-en.tmx.gz
+Anuvaad/v1/tmx/bn-en.tmx.gz
+Anuvaad/v1/tmx/en-gu.tmx.gz
+Anuvaad/v1/tmx/en-hi.tmx.gz
+Anuvaad/v1/tmx/en-kn.tmx.gz
+Anuvaad/v1/tmx/en-ml.tmx.gz
+Anuvaad/v1/tmx/en-mr.tmx.gz
+Anuvaad/v1/tmx/en-or.tmx.gz
+Anuvaad/v1/tmx/en-pa.tmx.gz
+Anuvaad/v1/tmx/en-ta.tmx.gz
+Anuvaad/v1/tmx/en-te.tmx.gz
+Anuvaad/v1/tmx/en-txt.tmx.gz
+Anuvaad/v1/tmx/en-ur.tmx.gz
+Anuvaad/v1/xml/as.zip
+Anuvaad/v1/xml/bn.zip
+Anuvaad/v1/xml/en.zip
+Anuvaad/v1/xml/gu.zip
+Anuvaad/v1/xml/hi.zip
+Anuvaad/v1/xml/kn.zip
+Anuvaad/v1/xml/ml.zip
+Anuvaad/v1/xml/mr.zip
+Anuvaad/v1/xml/or.zip
+Anuvaad/v1/xml/pa.zip
+Anuvaad/v1/xml/ta.zip
+Anuvaad/v1/xml/te.zip
+Anuvaad/v1/xml/ur.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+Anuvaad/v1/freq/as.freq.gz
+Anuvaad/v1/freq/bn.freq.gz
+Anuvaad/v1/freq/en.freq.gz
+Anuvaad/v1/freq/gu.freq.gz
+Anuvaad/v1/freq/hi.freq.gz
+Anuvaad/v1/freq/kn.freq.gz
+Anuvaad/v1/freq/ml.freq.gz
+Anuvaad/v1/freq/mr.freq.gz
+Anuvaad/v1/freq/or.freq.gz
+Anuvaad/v1/freq/pa.freq.gz
+Anuvaad/v1/freq/ta.freq.gz
+Anuvaad/v1/freq/te.freq.gz
+Anuvaad/v1/freq/ur.freq.gz
+Anuvaad/v1/mono/as.tok.gz
+Anuvaad/v1/mono/as.txt.gz
+Anuvaad/v1/mono/bn.tok.gz
+Anuvaad/v1/mono/bn.txt.gz
+Anuvaad/v1/mono/en.tok.gz
+Anuvaad/v1/mono/en.txt.gz
+Anuvaad/v1/mono/gu.tok.gz
+Anuvaad/v1/mono/gu.txt.gz
+Anuvaad/v1/mono/hi.tok.gz
+Anuvaad/v1/mono/hi.txt.gz
+Anuvaad/v1/mono/kn.tok.gz
+Anuvaad/v1/mono/kn.txt.gz
+Anuvaad/v1/mono/ml.tok.gz
+Anuvaad/v1/mono/ml.txt.gz
+Anuvaad/v1/mono/mr.tok.gz
+Anuvaad/v1/mono/mr.txt.gz
+Anuvaad/v1/mono/or.tok.gz
+Anuvaad/v1/mono/or.txt.gz
+Anuvaad/v1/mono/pa.tok.gz
+Anuvaad/v1/mono/pa.txt.gz
+Anuvaad/v1/mono/ta.tok.gz
+Anuvaad/v1/mono/ta.txt.gz
+Anuvaad/v1/mono/te.tok.gz
+Anuvaad/v1/mono/te.txt.gz
+Anuvaad/v1/mono/ur.tok.gz
+Anuvaad/v1/mono/ur.txt.gz
+Anuvaad/v1/moses/as-en.txt.zip
+Anuvaad/v1/moses/bn-en.txt.zip
+Anuvaad/v1/moses/en-gu.txt.zip
+Anuvaad/v1/moses/en-hi.txt.zip
+Anuvaad/v1/moses/en-kn.txt.zip
+Anuvaad/v1/moses/en-ml.txt.zip
+Anuvaad/v1/moses/en-mr.txt.zip
+Anuvaad/v1/moses/en-or.txt.zip
+Anuvaad/v1/moses/en-pa.txt.zip
+Anuvaad/v1/moses/en-ta.txt.zip
+Anuvaad/v1/moses/en-te.txt.zip
+Anuvaad/v1/moses/en-txt.txt.zip
+Anuvaad/v1/moses/en-ur.txt.zip
+Anuvaad/v1/raw/as.zip
+Anuvaad/v1/raw/bn.zip
+Anuvaad/v1/raw/en.zip
+Anuvaad/v1/raw/gu.zip
+Anuvaad/v1/raw/hi.zip
+Anuvaad/v1/raw/kn.zip
+Anuvaad/v1/raw/ml.zip
+Anuvaad/v1/raw/mr.zip
+Anuvaad/v1/raw/or.zip
+Anuvaad/v1/raw/pa.zip
+Anuvaad/v1/raw/ta.zip
+Anuvaad/v1/raw/te.zip
+Anuvaad/v1/raw/ur.zip
+Anuvaad/v1/tmx/as-en.tmx.gz
+Anuvaad/v1/tmx/bn-en.tmx.gz
+Anuvaad/v1/tmx/en-gu.tmx.gz
+Anuvaad/v1/tmx/en-hi.tmx.gz
+Anuvaad/v1/tmx/en-kn.tmx.gz
+Anuvaad/v1/tmx/en-ml.tmx.gz
+Anuvaad/v1/tmx/en-mr.tmx.gz
+Anuvaad/v1/tmx/en-or.tmx.gz
+Anuvaad/v1/tmx/en-pa.tmx.gz
+Anuvaad/v1/tmx/en-ta.tmx.gz
+Anuvaad/v1/tmx/en-te.tmx.gz
+Anuvaad/v1/tmx/en-txt.tmx.gz
+Anuvaad/v1/tmx/en-ur.tmx.gz
+Anuvaad/v1/xml/as.zip
+Anuvaad/v1/xml/bn.zip
+Anuvaad/v1/xml/en.zip
+Anuvaad/v1/xml/gu.zip
+Anuvaad/v1/xml/hi.zip
+Anuvaad/v1/xml/kn.zip
+Anuvaad/v1/xml/ml.zip
+Anuvaad/v1/xml/mr.zip
+Anuvaad/v1/xml/or.zip
+Anuvaad/v1/xml/pa.zip
+Anuvaad/v1/xml/ta.zip
+Anuvaad/v1/xml/te.zip
+Anuvaad/v1/xml/ur.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+Anuvaad/v1/freq/as.freq.gz
+Anuvaad/v1/freq/bn.freq.gz
+Anuvaad/v1/freq/en.freq.gz
+Anuvaad/v1/freq/gu.freq.gz
+Anuvaad/v1/freq/hi.freq.gz
+Anuvaad/v1/freq/kn.freq.gz
+Anuvaad/v1/freq/ml.freq.gz
+Anuvaad/v1/freq/mr.freq.gz
+Anuvaad/v1/freq/or.freq.gz
+Anuvaad/v1/freq/pa.freq.gz
+Anuvaad/v1/freq/ta.freq.gz
+Anuvaad/v1/freq/te.freq.gz
+Anuvaad/v1/freq/ur.freq.gz
+Anuvaad/v1/mono/as.tok.gz
+Anuvaad/v1/mono/as.txt.gz
+Anuvaad/v1/mono/bn.tok.gz
+Anuvaad/v1/mono/bn.txt.gz
+Anuvaad/v1/mono/en.tok.gz
+Anuvaad/v1/mono/en.txt.gz
+Anuvaad/v1/mono/gu.tok.gz
+Anuvaad/v1/mono/gu.txt.gz
+Anuvaad/v1/mono/hi.tok.gz
+Anuvaad/v1/mono/hi.txt.gz
+Anuvaad/v1/mono/kn.tok.gz
+Anuvaad/v1/mono/kn.txt.gz
+Anuvaad/v1/mono/ml.tok.gz
+Anuvaad/v1/mono/ml.txt.gz
+Anuvaad/v1/mono/mr.tok.gz
+Anuvaad/v1/mono/mr.txt.gz
+Anuvaad/v1/mono/or.tok.gz
+Anuvaad/v1/mono/or.txt.gz
+Anuvaad/v1/mono/pa.tok.gz
+Anuvaad/v1/mono/pa.txt.gz
+Anuvaad/v1/mono/ta.tok.gz
+Anuvaad/v1/mono/ta.txt.gz
+Anuvaad/v1/mono/te.tok.gz
+Anuvaad/v1/mono/te.txt.gz
+Anuvaad/v1/mono/ur.tok.gz
+Anuvaad/v1/mono/ur.txt.gz
+Anuvaad/v1/moses/as-en.txt.zip
+Anuvaad/v1/moses/bn-en.txt.zip
+Anuvaad/v1/moses/en-gu.txt.zip
+Anuvaad/v1/moses/en-hi.txt.zip
+Anuvaad/v1/moses/en-kn.txt.zip
+Anuvaad/v1/moses/en-ml.txt.zip
+Anuvaad/v1/moses/en-mr.txt.zip
+Anuvaad/v1/moses/en-or.txt.zip
+Anuvaad/v1/moses/en-pa.txt.zip
+Anuvaad/v1/moses/en-ta.txt.zip
+Anuvaad/v1/moses/en-te.txt.zip
+Anuvaad/v1/moses/en-txt.txt.zip
+Anuvaad/v1/moses/en-ur.txt.zip
+Anuvaad/v1/raw/as.zip
+Anuvaad/v1/raw/bn.zip
+Anuvaad/v1/raw/en.zip
+Anuvaad/v1/raw/gu.zip
+Anuvaad/v1/raw/hi.zip
+Anuvaad/v1/raw/kn.zip
+Anuvaad/v1/raw/ml.zip
+Anuvaad/v1/raw/mr.zip
+Anuvaad/v1/raw/or.zip
+Anuvaad/v1/raw/pa.zip
+Anuvaad/v1/raw/ta.zip
+Anuvaad/v1/raw/te.zip
+Anuvaad/v1/raw/ur.zip
+Anuvaad/v1/tmx/as-en.tmx.gz
+Anuvaad/v1/tmx/bn-en.tmx.gz
+Anuvaad/v1/tmx/en-gu.tmx.gz
+Anuvaad/v1/tmx/en-hi.tmx.gz
+Anuvaad/v1/tmx/en-kn.tmx.gz
+Anuvaad/v1/tmx/en-ml.tmx.gz
+Anuvaad/v1/tmx/en-mr.tmx.gz
+Anuvaad/v1/tmx/en-or.tmx.gz
+Anuvaad/v1/tmx/en-pa.tmx.gz
+Anuvaad/v1/tmx/en-ta.tmx.gz
+Anuvaad/v1/tmx/en-te.tmx.gz
+Anuvaad/v1/tmx/en-txt.tmx.gz
+Anuvaad/v1/tmx/en-ur.tmx.gz
+Anuvaad/v1/xml/as.zip
+Anuvaad/v1/xml/bn.zip
+Anuvaad/v1/xml/en.zip
+Anuvaad/v1/xml/gu.zip
+Anuvaad/v1/xml/hi.zip
+Anuvaad/v1/xml/kn.zip
+Anuvaad/v1/xml/ml.zip
+Anuvaad/v1/xml/mr.zip
+Anuvaad/v1/xml/or.zip
+Anuvaad/v1/xml/pa.zip
+Anuvaad/v1/xml/ta.zip
+Anuvaad/v1/xml/te.zip
+Anuvaad/v1/xml/ur.zip
