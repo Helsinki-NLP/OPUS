@@ -1,0 +1,74 @@
+---
+bitexts:
+  en-iu:
+    alignments: 1312791
+    downloads:
+      alignments:
+        size: 10426892
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/en-iu.xml.gz
+      source language:
+        size: 42016916
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/raw/en.zip
+      target language:
+        size: ~
+        url: ~
+      tokenized source language:
+        size: 116446657
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/en.zip
+      tokenized target language:
+        size: 85090085
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/iu.zip
+    files: 1
+    source language tokens: 11107442
+    target language tokens: 20775717
+monolingual:
+  en:
+    downloads:
+      tokenized xml:
+        size: 116446657
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/en.zip
+      xml:
+        size: 42016916
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/raw/en.zip
+    files: 1
+    sentences: 1435997
+    tokens: 20775717
+  id:
+    downloads:
+      tokenized xml:
+        size: 7727
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/id.zip
+  iu:
+    downloads:
+      tokenized xml:
+        size: 85090085
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/iu.zip
+      xml: {}
+    files: 1
+    sentences: 1303664
+    tokens: 11107442
+  pl:
+    downloads:
+      tokenized xml:
+        size: 7727
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/pl.zip
+  py:
+    downloads:
+      tokenized xml:
+        size: 7727
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/py.zip
+  sh:
+    downloads:
+      tokenized xml:
+        size: 7727
+        url: https://object.pouta.csc.fi/OPUS-Nunavut_Hansard/v3.0.1/xml/sh.zip
+moses:
+  en-iu:
+    alignments: 1293075
+    source language tokens: 7933438
+    target language tokens: 17048937
+tmx:
+  en-iu:
+    source language tokens: 6513129
+    target language tokens: 14966321
+    translation units: 771115
