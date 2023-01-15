@@ -5,6 +5,7 @@
 | corpus | releases | 
 |--------|----------| 
 | [ada83](http://opus.nlpl.eu/ada83.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ada83/v1)  |
+| [Anuvaad](http://opus.nlpl.eu/Anuvaad.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Anuvaad/v1)  |
 | [Bianet](http://opus.nlpl.eu/Bianet.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Bianet/v1)  |
 | [bible-uedin](http://opus.nlpl.eu/bible-uedin.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/bible-uedin/v1)  |
 | [Books](http://opus.nlpl.eu/Books-2018-03.php) | [2018-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Books/2018-03-03) [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Books/v1)  |
@@ -15,6 +16,7 @@
 | [DGT](http://opus.nlpl.eu/DGT.php) | [v2019](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DGT/v2019) [v4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DGT/v4)  |
 | [DOGC](http://opus.nlpl.eu/DOGC.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DOGC/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DOGC/v3)  |
 | [ECB](http://opus.nlpl.eu/ECB.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ECB/v1)  |
+| [ECDC](http://opus.nlpl.eu/ECDC-v2016-03.php) | [v2016-03-16](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ECDC/v2016-03-16)  |
 | [EhuHac](http://opus.nlpl.eu/EhuHac.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EhuHac/v1)  |
 | [EiTB-ParCC](http://opus.nlpl.eu/EiTB-ParCC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EiTB-ParCC/v1)  |
 | [Elhuyar](http://opus.nlpl.eu/Elhuyar.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Elhuyar/v1)  |
@@ -1139,6 +1141,7 @@
 | [EUconst](http://opus.nlpl.eu/EUconst.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EUconst/v1)  |
 | [Europarl](http://opus.nlpl.eu/Europarl.php) | [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v3) [v7](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v7) [v8](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v8)  |
 | [EuroPat](http://opus.nlpl.eu/EuroPat.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EuroPat/v1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EuroPat/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EuroPat/v3)  |
+| [FFR](http://opus.nlpl.eu/FFR.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/FFR/v2)  |
 | [Finlex](http://opus.nlpl.eu/Finlex.php) | [v2018](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Finlex/v2018)  |
 | [fiskmo](http://opus.nlpl.eu/fiskmo.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/fiskmo/v2)  |
 | [giga-fren](http://opus.nlpl.eu/giga-fren.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/giga-fren/v2)  |
@@ -1154,6 +1157,7 @@
 | [KDE4](http://opus.nlpl.eu/KDE4.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KDE4/v2)  |
 | [KDEdoc](http://opus.nlpl.eu/KDEdoc.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KDEdoc/v1)  |
 | [komi](http://opus.nlpl.eu/komi.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/komi/v1)  |
+| [LinguaTools-WikiTitles](http://opus.nlpl.eu/LinguaTools-WikiTitles.php) | [v2014](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/LinguaTools-WikiTitles/v2014)  |
 | [liv4ever](http://opus.nlpl.eu/liv4ever.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/liv4ever/v1)  |
 | [MBS](http://opus.nlpl.eu/MBS.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MBS/v1)  |
 | [memat](http://opus.nlpl.eu/memat.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/memat/v1)  |
@@ -1165,6 +1169,7 @@
 | [MultiParaCrawl](http://opus.nlpl.eu/MultiParaCrawl.php) | [v5](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v5) [v7.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v7.1) [v8](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v8) [v9](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v9) [v9b](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v9b)  |
 | [MultiUN](http://opus.nlpl.eu/MultiUN.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiUN/v1)  |
 | [News-Commentary](http://opus.nlpl.eu/News-Commentary.php) | [v11](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v11) [v14](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v14) [v16](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v16) [v9.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v9.0) [v9.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v9.1)  |
+| [Nunavut_Hansard](http://opus.nlpl.eu/Nunavut_Hansard.php) | [v3.0.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Nunavut_Hansard/v3.0.1)  |
 | [OfisPublik](http://opus.nlpl.eu/OfisPublik.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OfisPublik/v1)  |
 | [OpenOffice](http://opus.nlpl.eu/OpenOffice.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenOffice/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenOffice/v3)  |
 | [OpenSubtitles](http://opus.nlpl.eu/OpenSubtitles.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v1) [v2011](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2011) [v2012](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2012) [v2013](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2013) [v2016](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2016) [v2018](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenSubtitles/v2018)  |
@@ -1174,6 +1179,7 @@
 | [QED](http://opus.nlpl.eu/QED.php) | [v2.0a](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/QED/v2.0a)  |
 | [RF](http://opus.nlpl.eu/RF.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/RF/v1)  |
 | [Salome](http://opus.nlpl.eu/Salome.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Salome/v1)  |
+| [Samanantar](http://opus.nlpl.eu/Samanantar.php) | [v0.2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Samanantar/v0.2)  |
 | [sardware](http://opus.nlpl.eu/sardware.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/sardware/v1)  |
 | [SciELO](http://opus.nlpl.eu/SciELO.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SciELO/v1)  |
 | [SETIMES](http://opus.nlpl.eu/SETIMES.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SETIMES/v1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SETIMES/v2)  |
