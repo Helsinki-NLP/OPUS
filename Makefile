@@ -73,7 +73,7 @@ commit:
 ## (all released data that we don't store in the repository)
 
 cleanup-dry-run:
-	${MAKE} commit
+	echo "${MAKE} commit"
 	git clean -d -n
 
 cleanup:
