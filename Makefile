@@ -63,12 +63,12 @@ info/RELEASES.tsv: corpus
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
 	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
 	paste $@.2 $@.3 | sort -k1,1 -u > $@.languagepairs
-	join -t'	' -a1 -a2 $@.releases $@.license > $@.1
-	join -t'	' -a1 -a2 $@.1 $@.alignments > $@.2
-	join -t'	' -a1 -a2 $@.2 $@.sentences > $@.3
-	join -t'	' -a1 -a2 $@.3 $@.tokens > $@.4
-	join -t'	' -a1 -a2 $@.4 $@.languages > $@.5
-	join -t'	' -a1 -a2 $@.5 $@.languagepairs > $@.6
+	join -t'	' -e unknown -a1 -a2 -o 0,1.2,2.2 $@.releases $@.license > $@.1
+	join -t'	' -e unknown -a1 -a2 -o 0,1.2,1.3,2.2 $@.1 $@.alignments > $@.2
+	join -t'	' -e unknown -a1 -a2 -o 0,1.2,1.3,1.4,2.2 $@.2 $@.sentences > $@.3
+	join -t'	' -e unknown -a1 -a2 -o 0,1.2,1.3,1.4,1.5,2.2 $@.3 $@.tokens > $@.4
+	join -t'	' -e unknown -a1 -a2 -o 0,1.2,1.3,1.4,1.5,1.6,2.2 $@.4 $@.languages > $@.5
+	join -t'	' -e unknown -a1 -a2 -o 0,1.2,1.3,1.4,1.5,1.6,1.7,2.2 $@.5 $@.languagepairs > $@.6
 	echo 'name	release	release date	license	alignments	sentences	tokens	languages	language pairs' > $@
 	sed 's#\([^/]*\)/#\1	#' < $@.6 >> $@
 	rm -f $@.*
