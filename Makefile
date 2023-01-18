@@ -14,6 +14,7 @@ all:  ${MD_FILES} ${TSV_FILES}
 	${MAKE} commit
 	${MAKE} cleanup-dry-run > untracked-files.txt
 
+info:  ${MD_FILES} ${TSV_FILES}
 
 ## remove untracked files
 ## (all released data that we don't store in the repository)
@@ -40,7 +41,7 @@ info/RELEASES.tsv: corpus
 	paste $@.corpus $@.date | sort -k1,1 -u > $@.releases
 	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'license:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
-	cut -f3- -d: $@.1 | sed 's/^ *//' > $@.3
+	cut -f3- -d: $@.1 | sed 's/^ *//' | tr "\t" ' ' > $@.3
 	paste $@.2 $@.3 | sort -k1,1 -u > $@.license
 	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'alignments:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
@@ -69,24 +70,24 @@ info/RELEASES.tsv: corpus
 	join -t'	' -a1 -a2 $@.4 $@.languages > $@.5
 	join -t'	' -a1 -a2 $@.5 $@.languagepairs > $@.6
 	echo 'name	release	release date	license	alignments	sentences	tokens	languages	language pairs' > $@
-	tr '/' "\t" < $@.6 >> $@
+	sed 's#\([^/]*\)/#\1	#' < $@.6 >> $@
 	rm -f $@.*
 
 info/RELEASE_LICENSES.tsv: info/RELEASES.tsv
 	head -1 $< > $@
-	tail -n +2 $< | sort -k4,4 >> $@
+	tail -n +2 $< | sort -t'	' -k4,4 >> $@
 
 info/RELEASE_HISTORY.tsv: info/RELEASES.tsv
 	head -1 $< > $@
-	tail -n +2 $< | sort -k3,3r >> $@
+	tail -n +2 $< | sort -t'	' -k3,3r >> $@
 
 info/RELEASE_SIZE.tsv: info/RELEASES.tsv
 	head -1 $< > $@
-	tail -n +2 $< | sort -k5,5nr -k6,6nr -k7,7nr >> $@
+	tail -n +2 $< | sort -t'	' -k5,5nr -k6,6nr -k7,7nr >> $@
 
 info/RELEASE_NR_OF_LANGUAGES.tsv: info/RELEASES.tsv
 	head -1 $< > $@
-	tail -n +2 $< | sort -k8,8nr -k9,9nr >> $@
+	tail -n +2 $< | sort -t'	' -k8,8nr -k9,9nr >> $@
 
 
 info/RELEASES.md: corpus
