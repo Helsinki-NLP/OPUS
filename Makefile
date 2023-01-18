@@ -2,12 +2,94 @@
 
 URLBASE = https://github.com/Helsinki-NLP/OPUS/blob/main/corpus
 
-all: RELEASES.md RELEASES-without-ELRC.md
+TSV_FILES = info/RELEASES.tsv \
+	info/RELEASE_LICENSES.tsv \
+	info/RELEASE_HISTORY.tsv \
+	info/RELEASE_SIZE.tsv \
+	info/RELEASE_NR_OF_LANGUAGES.tsv
+
+MD_FILES = info/RELEASES.md info/RELEASES-without-ELRC.md
+
+all:  ${MD_FILES} ${TSV_FILES}
 	${MAKE} commit
 	${MAKE} cleanup-dry-run > untracked-files.txt
 
 
-RELEASES.md: corpus
+## remove untracked files
+## (all released data that we don't store in the repository)
+
+cleanup-dry-run:
+	echo "${MAKE} commit"
+	git clean -d -n
+
+cleanup:
+	${MAKE} commit
+	git clean -d
+
+
+# create a TSV file with essential release information
+
+info/RELEASES.tsv: corpus
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'release date:' > $@.1
+	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.corpus
+	cut -f3- -d: $@.1 | cut -f3 -d/ | \
+		sed 's/unknown/1900-01-01/' |\
+		sed 's/^ /date +%F --date="/;s/$$/"/' > $@.date.sh
+	chmod +x $@.date.sh
+	./$@.date.sh | sed 's/1900-01-01/unknown/' > $@.date
+	paste $@.corpus $@.date | sort -k1,1 -u > $@.releases
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'license:' > $@.1
+	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
+	cut -f3- -d: $@.1 | sed 's/^ *//' > $@.3
+	paste $@.2 $@.3 | sort -k1,1 -u > $@.license
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'alignments:' > $@.1
+	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
+	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
+	paste $@.2 $@.3 | sort -k1,1 -u > $@.alignments
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'sentences:' > $@.1
+	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
+	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
+	paste $@.2 $@.3 | sort -k1,1 -u > $@.sentences
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'tokens:' > $@.1
+	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
+	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
+	paste $@.2 $@.3 | sort -k1,1 -u > $@.tokens
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'number of languages:' > $@.1
+	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
+	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
+	paste $@.2 $@.3 | sort -k1,1 -u > $@.languages
+	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'number of language pairs:' > $@.1
+	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
+	cut -f3 -d: $@.1 | sed 's/^ *//' > $@.3
+	paste $@.2 $@.3 | sort -k1,1 -u > $@.languagepairs
+	join -t'	' -a1 -a2 $@.releases $@.license > $@.1
+	join -t'	' -a1 -a2 $@.1 $@.alignments > $@.2
+	join -t'	' -a1 -a2 $@.2 $@.sentences > $@.3
+	join -t'	' -a1 -a2 $@.3 $@.tokens > $@.4
+	join -t'	' -a1 -a2 $@.4 $@.languages > $@.5
+	join -t'	' -a1 -a2 $@.5 $@.languagepairs > $@.6
+	echo 'name	release	release date	license	alignments	sentences	tokens	languages	language pairs' > $@
+	tr '/' "\t" < $@.6 >> $@
+	rm -f $@.*
+
+info/RELEASE_LICENSES.tsv: info/RELEASES.tsv
+	head -1 $< > $@
+	tail -n +2 $< | sort -k4,4 >> $@
+
+info/RELEASE_HISTORY.tsv: info/RELEASES.tsv
+	head -1 $< > $@
+	tail -n +2 $< | sort -k3,3r >> $@
+
+info/RELEASE_SIZE.tsv: info/RELEASES.tsv
+	head -1 $< > $@
+	tail -n +2 $< | sort -k5,5nr -k6,6nr -k7,7nr >> $@
+
+info/RELEASE_NR_OF_LANGUAGES.tsv: info/RELEASES.tsv
+	head -1 $< > $@
+	tail -n +2 $< | sort -k8,8nr -k9,9nr >> $@
+
+
+info/RELEASES.md: corpus
 	echo "# List of corpus releases" >$@
 	echo "" >> $@
 	echo "* [list of releases without ELRC](RELEASES-without-ELRC.md)" >> $@
@@ -28,7 +110,7 @@ RELEASES.md: corpus
 	done
 
 
-RELEASES-without-ELRC.md: corpus
+info/RELEASES-without-ELRC.md: corpus
 	echo "# List of corpus releases (without ELRC)" >$@
 	echo "" >> $@
 	echo "* [complete list of releases](RELEASES.md)" >> $@
@@ -69,16 +151,6 @@ commit:
 	git commit -am 'corpus update'
 
 
-## remove untracked files
-## (all released data that we don't store in the repository)
-
-cleanup-dry-run:
-	echo "${MAKE} commit"
-	git clean -d -n
-
-cleanup:
-	${MAKE} commit
-	git clean -d
 
 
 RELEASED_VERSIONS = $(shell find corpus -maxdepth 2 -mindepth 2 -type d)
