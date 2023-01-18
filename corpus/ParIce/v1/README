@@ -1,7 +1,7 @@
  Corpus Name: ParIce
      Website: http://opus.nlpl.eu/ParIce-v1.php
      Release: v1
-Release date: Tue Jan 17 14:05:43 EET 2023
+Release date: Wed Jan 18 13:55:42 EET 2023
      License: CC-BY-4.0
 
 This package is part of OPUS - the open collection of parallel corpora
@@ -30,31 +30,10 @@ ParIce/v1/mono/en.tok.gz
 ParIce/v1/mono/en.txt.gz
 ParIce/v1/mono/is.tok.gz
 ParIce/v1/mono/is.txt.gz
+ParIce/v1/moses/en-is.txt.zip
 ParIce/v1/raw/en.zip
 ParIce/v1/raw/is.zip
-ParIce/v1/xml/en.zip
-ParIce/v1/xml/is.zip
------------------------------
-xml ....... tokenized corpus and sentence alignments
-raw ....... untokenized corpus in XML
-parsed .... parsed corpus in XML
-mono ...... monolingual text files
-moses ..... aligned plain text files
-tmx ....... bitexts in TMX format
-freq ...... token frequencies
-smt ....... word alignments and phrase translation tables
-dic ....... bilingual dictionaries extracted from word alignments
------------------------------
-Files in this release
------------------------------
-ParIce/v1/freq/en.freq.gz
-ParIce/v1/freq/is.freq.gz
-ParIce/v1/mono/en.tok.gz
-ParIce/v1/mono/en.txt.gz
-ParIce/v1/mono/is.tok.gz
-ParIce/v1/mono/is.txt.gz
-ParIce/v1/raw/en.zip
-ParIce/v1/raw/is.zip
+ParIce/v1/tmx/en-is.tmx.gz
 ParIce/v1/xml/en.zip
 ParIce/v1/xml/is.zip
 -----------------------------

@@ -1,5 +1,26 @@
 ---
-bitexts: {}
+bitexts:
+  en-is:
+    alignments: 2097020
+    downloads:
+      alignments:
+        size: 16293805
+        url: https://object.pouta.csc.fi/OPUS-ParIce/v1/xml/en-is.xml.gz
+      source language:
+        size: 67800643
+        url: https://object.pouta.csc.fi/OPUS-ParIce/v1/raw/en.zip
+      target language:
+        size: 73976158
+        url: https://object.pouta.csc.fi/OPUS-ParIce/v1/raw/is.zip
+      tokenized source language:
+        size: 214115107
+        url: https://object.pouta.csc.fi/OPUS-ParIce/v1/xml/en.zip
+      tokenized target language:
+        size: 212933221
+        url: https://object.pouta.csc.fi/OPUS-ParIce/v1/xml/is.zip
+    files: 2
+    source language tokens: 35561290
+    target language tokens: 38082349
 monolingual:
   en:
     downloads:
@@ -13,7 +34,7 @@ monolingual:
         size: 48860320
         url: https://object.pouta.csc.fi/OPUS-ParIce/v1/mono/en.tok.gz
       tokenized xml:
-        size: 207363323
+        size: 214115107
         url: https://object.pouta.csc.fi/OPUS-ParIce/v1/xml/en.zip
       xml:
         size: 67800643
@@ -33,7 +54,7 @@ monolingual:
         size: 54780200
         url: https://object.pouta.csc.fi/OPUS-ParIce/v1/mono/is.tok.gz
       tokenized xml:
-        size: 206164019
+        size: 212933221
         url: https://object.pouta.csc.fi/OPUS-ParIce/v1/xml/is.zip
       xml:
         size: 73976158
@@ -41,3 +62,17 @@ monolingual:
     files: 2
     sentences: 2176344
     tokens: 35561290
+moses:
+  en-is:
+    alignments: 2097022
+    download size: 113549643
+    download url: https://object.pouta.csc.fi/OPUS-ParIce/v1/moses/en-is.txt.zip
+    source language tokens: 30178577
+    target language tokens: 32882922
+tmx:
+  en-is:
+    download size: 110531467
+    download url: https://object.pouta.csc.fi/OPUS-ParIce/v1/tmx/en-is.tmx.gz
+    source language tokens: 26778062
+    target language tokens: 29066327
+    translation units: 1496644
