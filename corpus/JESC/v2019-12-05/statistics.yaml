@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ja:
+    alignments: 2797388
+    downloads:
+      alignments:
+        size: 20926214
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/xml/en-ja.xml.gz
+      source language:
+        size: 53673752
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/raw/en.zip
+      target language:
+        size: 61173139
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/raw/ja.zip
+      tokenized source language:
+        size: 136037113
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/xml/en.zip
+      tokenized target language:
+        size: 153474058
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/xml/ja.zip
+    files: 1
+    source language tokens: 23901324
+    target language tokens: 24265229
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 692070
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/freq/en.freq.gz
+      plain text:
+        size: 42065583
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/mono/en.txt.gz
+      tokenized text:
+        size: 42556828
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/mono/en.tok.gz
+      tokenized xml:
+        size: 136037113
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/xml/en.zip
+      xml:
+        size: 53673752
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/raw/en.zip
+    files: 1
+    sentences: 2799355
+    tokens: 23901324
+  ja:
+    downloads:
+      frequency list:
+        size: 551231
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/freq/ja.freq.gz
+      plain text:
+        size: 49305225
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/mono/ja.txt.gz
+      tokenized text:
+        size: 52262730
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/mono/ja.tok.gz
+      tokenized xml:
+        size: 153474058
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/xml/ja.zip
+      xml:
+        size: 61173139
+        url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/raw/ja.zip
+    files: 1
+    sentences: 2799098
+    tokens: 24265229
+moses:
+  en-ja:
+    alignments: 2797389
+    download size: 104872265
+    download url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/moses/en-ja.txt.zip
+    source language tokens: 4849038
+    target language tokens: 19339040
+tmx:
+  en-ja:
+    download size: 119885980
+    download url: https://object.pouta.csc.fi/OPUS-JESC/v2019-12-05/tmx/en-ja.tmx.gz
+    source language tokens: 19339040
+    target language tokens: ~
+    translation units: 2797389

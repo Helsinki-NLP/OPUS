@@ -37,6 +37,7 @@
 | [hrenWaC](http://opus.nlpl.eu/hrenWaC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/hrenWaC/v1)  |
 | [IITB](http://opus.nlpl.eu/IITB.php) | [v2.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/IITB/v2.0)  |
 | [infopankki](http://opus.nlpl.eu/infopankki.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/infopankki/v1)  |
+| [JESC](http://opus.nlpl.eu/JESC-v2019-12.php) | [v2019-12-05](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/JESC/v2019-12-05)  |
 | [Joshua-IPC](http://opus.nlpl.eu/Joshua-IPC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Joshua-IPC/v1)  |
 | [JParaCrawl](http://opus.nlpl.eu/JParaCrawl.php) | [v3.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/JParaCrawl/v3.0)  |
 | [JRC-Acquis](http://opus.nlpl.eu/JRC-Acquis.php) | [v3.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/JRC-Acquis/v3.0)  |
