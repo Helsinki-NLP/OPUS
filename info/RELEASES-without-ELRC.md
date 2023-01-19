@@ -74,6 +74,7 @@
 | [SciELO](http://opus.nlpl.eu/SciELO.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SciELO/v1)  |
 | [SETIMES](http://opus.nlpl.eu/SETIMES.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SETIMES/v1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SETIMES/v2)  |
 | [SPC](http://opus.nlpl.eu/SPC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SPC/v1)  |
+| [StanfordNLP-NMT](http://opus.nlpl.eu/StanfordNLP-NMT.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/StanfordNLP-NMT/v1.0)  |
 | [SUMMA](http://opus.nlpl.eu/SUMMA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SUMMA/v1)  |
 | [Tanzil](http://opus.nlpl.eu/Tanzil.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tanzil/v1)  |
 | [Tatoeba](http://opus.nlpl.eu/Tatoeba-v2020-05.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2) [v20190709](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v20190709) [v2020-05-31](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-05-31) [v2020-11-09](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-11-09) [v2021-03-10](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-03-10) [v2021-07-22](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-07-22) [v2022-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2022-03-03)  |

@@ -1,0 +1,92 @@
+ Corpus Name: StanfordNLP-NMT
+     Website: http://opus.nlpl.eu/StanfordNLP-NMT-v1.0.php
+     Release: v1.0
+Release date: Thu Jan 19 13:55:20 EET 2023
+     License: see WMT and IWSLT
+   Copyright: The data sets are distributed as part of international shared translation tasks at WMT and IWSLT. Check their websites for further information on copyrights and license agreements.
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please <a href="http://opus.lingfil.uu.se/LREC2012.txt">cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)<br/>
+
+The data sets are distributed as part of the research on neural machine translation at StanfordNLP.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+StanfordNLP-NMT/v1.0/freq/cs.freq.gz
+StanfordNLP-NMT/v1.0/freq/de.freq.gz
+StanfordNLP-NMT/v1.0/freq/en.freq.gz
+StanfordNLP-NMT/v1.0/freq/vi.freq.gz
+StanfordNLP-NMT/v1.0/mono/cs.tok.gz
+StanfordNLP-NMT/v1.0/mono/cs.txt.gz
+StanfordNLP-NMT/v1.0/mono/de.tok.gz
+StanfordNLP-NMT/v1.0/mono/de.txt.gz
+StanfordNLP-NMT/v1.0/mono/en.tok.gz
+StanfordNLP-NMT/v1.0/mono/en.txt.gz
+StanfordNLP-NMT/v1.0/mono/vi.tok.gz
+StanfordNLP-NMT/v1.0/mono/vi.txt.gz
+StanfordNLP-NMT/v1.0/moses/cs-en.txt.zip
+StanfordNLP-NMT/v1.0/moses/en-de.txt.zip
+StanfordNLP-NMT/v1.0/moses/en-vi.txt.zip
+StanfordNLP-NMT/v1.0/raw/cs.zip
+StanfordNLP-NMT/v1.0/raw/de.zip
+StanfordNLP-NMT/v1.0/raw/en.zip
+StanfordNLP-NMT/v1.0/raw/vi.zip
+StanfordNLP-NMT/v1.0/tmx/cs-en.tmx.gz
+StanfordNLP-NMT/v1.0/tmx/en-de.tmx.gz
+StanfordNLP-NMT/v1.0/tmx/en-vi.tmx.gz
+StanfordNLP-NMT/v1.0/xml/cs.zip
+StanfordNLP-NMT/v1.0/xml/de.zip
+StanfordNLP-NMT/v1.0/xml/en.zip
+StanfordNLP-NMT/v1.0/xml/vi.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+StanfordNLP-NMT/v1.0/freq/cs.freq.gz
+StanfordNLP-NMT/v1.0/freq/de.freq.gz
+StanfordNLP-NMT/v1.0/freq/en.freq.gz
+StanfordNLP-NMT/v1.0/freq/vi.freq.gz
+StanfordNLP-NMT/v1.0/mono/cs.tok.gz
+StanfordNLP-NMT/v1.0/mono/cs.txt.gz
+StanfordNLP-NMT/v1.0/mono/de.tok.gz
+StanfordNLP-NMT/v1.0/mono/de.txt.gz
+StanfordNLP-NMT/v1.0/mono/en.tok.gz
+StanfordNLP-NMT/v1.0/mono/en.txt.gz
+StanfordNLP-NMT/v1.0/mono/vi.tok.gz
+StanfordNLP-NMT/v1.0/mono/vi.txt.gz
+StanfordNLP-NMT/v1.0/moses/cs-en.txt.zip
+StanfordNLP-NMT/v1.0/moses/en-de.txt.zip
+StanfordNLP-NMT/v1.0/moses/en-vi.txt.zip
+StanfordNLP-NMT/v1.0/raw/cs.zip
+StanfordNLP-NMT/v1.0/raw/de.zip
+StanfordNLP-NMT/v1.0/raw/en.zip
+StanfordNLP-NMT/v1.0/raw/vi.zip
+StanfordNLP-NMT/v1.0/tmx/cs-en.tmx.gz
+StanfordNLP-NMT/v1.0/tmx/en-de.tmx.gz
+StanfordNLP-NMT/v1.0/tmx/en-vi.tmx.gz
+StanfordNLP-NMT/v1.0/xml/cs.zip
+StanfordNLP-NMT/v1.0/xml/de.zip
+StanfordNLP-NMT/v1.0/xml/en.zip
+StanfordNLP-NMT/v1.0/xml/vi.zip
