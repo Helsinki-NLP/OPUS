@@ -1,0 +1,78 @@
+---
+bitexts:
+  en-ja:
+    alignments: 440288
+    downloads:
+      alignments:
+        size: 3334073
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/xml/en-ja.xml.gz
+      source language:
+        size: 22020961
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/raw/en.zip
+      target language:
+        size: 19741241
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/raw/ja.zip
+      tokenized source language:
+        size: 1443
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/xml/en.zip
+      tokenized target language:
+        size: 1444
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/xml/ja.zip
+    files: 1
+    source language tokens: 11057668
+    target language tokens: 11543497
+monolingual:
+  en:
+    downloads:
+      frequency list:
+        size: 878391
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/freq/en.freq.gz
+      plain text:
+        size: 20206741
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/mono/en.txt.gz
+      tokenized text:
+        size: 20343418
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/mono/en.tok.gz
+      tokenized xml:
+        size: 1443
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/xml/en.zip
+      xml:
+        size: 22020961
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/raw/en.zip
+    files: 1
+    sentences: 448044
+    tokens: 11543497
+  ja:
+    downloads:
+      frequency list:
+        size: 460680
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/freq/ja.freq.gz
+      plain text:
+        size: 18049704
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/mono/ja.txt.gz
+      tokenized text:
+        size: 19420478
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/mono/ja.tok.gz
+      tokenized xml:
+        size: 1444
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/xml/ja.zip
+      xml:
+        size: 19741241
+        url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/raw/ja.zip
+    files: 1
+    sentences: 440287
+    tokens: 11057668
+moses:
+  en-ja:
+    alignments: 440286
+    download size: 40370899
+    download url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/moses/en-ja.txt.zip
+    source language tokens: 449994
+    target language tokens: 9737722
+tmx:
+  en-ja:
+    download size: 45224185
+    download url: https://object.pouta.csc.fi/OPUS-KFTT/v1.0/tmx/en-ja.tmx.gz
+    source language tokens: 438567
+    target language tokens: 9695001
+    translation units: 428915

@@ -1,0 +1,64 @@
+ Corpus Name: KFTT
+     Website: http://opus.nlpl.eu/KFTT-v1.0.php
+     Release: v1.0
+Release date: Thu Jan 19 09:39:09 EET 2023
+     License: CC-BY-SA-3.0
+     Contact: Graham Neubig, <a href="http://www.phontron.com/kftt/">http://www.phontron.com/kftt/</a> and <a href="http://www.cs.cmu.edu/~neulab/">http://www.cs.cmu.edu/~neulab/</a>
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, acknowledge the source and cite the work as specified on <a href="http://www.phontron.com/kftt/">http://www.phontron.com/kftt/</a> and also acknowledge the distribution of the package via OPUS.
+
+The data set is part of the Kyoto Free Translation Task (KFTT). The KFTT is a task for the evaluation and development of Japanese-English machine translation systems. More information can be found on http://www.phontron.com/kftt/
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+KFTT/v1.0/freq/en.freq.gz
+KFTT/v1.0/freq/ja.freq.gz
+KFTT/v1.0/mono/en.tok.gz
+KFTT/v1.0/mono/en.txt.gz
+KFTT/v1.0/mono/ja.tok.gz
+KFTT/v1.0/mono/ja.txt.gz
+KFTT/v1.0/moses/en-ja.txt.zip
+KFTT/v1.0/raw/en.zip
+KFTT/v1.0/raw/ja.zip
+KFTT/v1.0/tmx/en-ja.tmx.gz
+KFTT/v1.0/xml/en.zip
+KFTT/v1.0/xml/ja.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+KFTT/v1.0/freq/en.freq.gz
+KFTT/v1.0/freq/ja.freq.gz
+KFTT/v1.0/mono/en.tok.gz
+KFTT/v1.0/mono/en.txt.gz
+KFTT/v1.0/mono/ja.tok.gz
+KFTT/v1.0/mono/ja.txt.gz
+KFTT/v1.0/moses/en-ja.txt.zip
+KFTT/v1.0/raw/en.zip
+KFTT/v1.0/raw/ja.zip
+KFTT/v1.0/tmx/en-ja.tmx.gz
+KFTT/v1.0/xml/en.zip
+KFTT/v1.0/xml/ja.zip

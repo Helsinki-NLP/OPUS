@@ -41,6 +41,7 @@
 | [JRC-Acquis](http://opus.nlpl.eu/JRC-Acquis.php) | [v3.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/JRC-Acquis/v3.0)  |
 | [KDE4](http://opus.nlpl.eu/KDE4.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KDE4/v2)  |
 | [KDEdoc](http://opus.nlpl.eu/KDEdoc.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KDEdoc/v1)  |
+| [KFTT](http://opus.nlpl.eu/KFTT.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/KFTT/v1.0)  |
 | [komi](http://opus.nlpl.eu/komi.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/komi/v1)  |
 | [LinguaTools-WikiTitles](http://opus.nlpl.eu/LinguaTools-WikiTitles.php) | [v2014](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/LinguaTools-WikiTitles/v2014)  |
 | [liv4ever](http://opus.nlpl.eu/liv4ever.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/liv4ever/v1)  |
