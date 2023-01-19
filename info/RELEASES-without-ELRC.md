@@ -5,6 +5,7 @@
 | corpus | releases | 
 |--------|----------| 
 | [ada83](http://opus.nlpl.eu/ada83.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ada83/v1)  |
+| [ALT](http://opus.nlpl.eu/ALT.php) | [v2019](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ALT/v2019)  |
 | [Anuvaad](http://opus.nlpl.eu/Anuvaad.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Anuvaad/v1)  |
 | [Bianet](http://opus.nlpl.eu/Bianet.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Bianet/v1)  |
 | [bible-uedin](http://opus.nlpl.eu/bible-uedin.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/bible-uedin/v1)  |
