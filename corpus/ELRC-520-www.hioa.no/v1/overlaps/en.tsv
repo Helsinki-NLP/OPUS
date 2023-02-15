@@ -2,6 +2,7 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-520-www.hioa.no	v1	ParaCrawl	v9	4607	877766608	271	5.88	0
 ELRC-520-www.hioa.no	v1	CCAligned	v1	4607	405094222	205	4.44	0
 ELRC-520-www.hioa.no	v1	CCMatrix	v1	4607	1341614085	106	2.30	0
+ELRC-520-www.hioa.no	v1	StanfordNLP-NMT	v1.0	4607	14386355	90	1.95	0
 ELRC-520-www.hioa.no	v1	TildeMODEL	v2018	4607	5686357	88	1.91	0
 ELRC-520-www.hioa.no	v1	ELRC-4248-NTEU_TierA	v1	4607	12854274	86	1.86	0
 ELRC-520-www.hioa.no	v1	ELRC-4239-NTEU_TierA	v1	4607	11906559	86	1.86	0
@@ -12,17 +13,21 @@ ELRC-520-www.hioa.no	v1	OpenSubtitles	v2018	4607	102548132	77	1.67	0
 ELRC-520-www.hioa.no	v1	EUbookshop	v2	4607	46038769	77	1.67	0
 ELRC-520-www.hioa.no	v1	UNPC	v1.0	4607	23776005	77	1.67	0
 ELRC-520-www.hioa.no	v1	giga-fren	v2	4607	20786998	75	1.62	0
+ELRC-520-www.hioa.no	v1	LinguaTools-WikiTitles	v2014	4607	8265652	75	1.62	0
 ELRC-520-www.hioa.no	v1	ELRC-4271-NTEU_TierA	v1	4607	7211577	75	1.62	0
 ELRC-520-www.hioa.no	v1	ELRC-4154-NTEU_TierA	v1	4607	7119873	74	1.60	0
 ELRC-520-www.hioa.no	v1	wikimedia	v20210402	4607	11389460	73	1.58	0
 ELRC-520-www.hioa.no	v1	XLEnt	v1.1	4607	53628082	70	1.51	0
+ELRC-520-www.hioa.no	v1	XLEnt	v1.2	4607	53628082	70	1.51	0
 ELRC-520-www.hioa.no	v1	XLEnt	v1	4607	53628082	70	1.51	0
 ELRC-520-www.hioa.no	v1	ELRC-4142-NTEU_TierA	v1	4607	2152367	68	1.47	0
 ELRC-520-www.hioa.no	v1	IITB	v2.0	4607	1105433	62	1.34	0
 ELRC-520-www.hioa.no	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	4607	279832	59	1.28	.02
+ELRC-520-www.hioa.no	v1	Samanantar	v0.2	4607	16891660	57	1.23	0
 ELRC-520-www.hioa.no	v1	WikiTitles	v3	4607	2348300	54	1.17	0
 ELRC-520-www.hioa.no	v1	JRC-Acquis	v3.0	4607	1923776	53	1.15	0
 ELRC-520-www.hioa.no	v1	ELRC-396-Foreign_Affairs_Norw	v1	4607	669717	53	1.15	0
+ELRC-520-www.hioa.no	v1	ParIce	v1	4607	1364589	52	1.12	0
 ELRC-520-www.hioa.no	v1	WikiMatrix	v1	4607	47707259	51	1.10	0
 ELRC-520-www.hioa.no	v1	ELRC-2410-Portal_oficial_turis	v1	4607	185841	47	1.02	.02
 ELRC-520-www.hioa.no	v1	QED	v2.0a	4607	7299297	45	.97	0
@@ -64,6 +69,7 @@ ELRC-520-www.hioa.no	v1	ELRC-2707-EMEA	v1	4607	685365	31	.67	0
 ELRC-520-www.hioa.no	v1	memat	v1	4607	145098	31	.67	.02
 ELRC-520-www.hioa.no	v1	EuroPat	v3	4607	79873063	30	.65	0
 ELRC-520-www.hioa.no	v1	EuroPat	v2	4607	70531170	30	.65	0
+ELRC-520-www.hioa.no	v1	KFTT	v1.0	4607	433311	30	.65	0
 ELRC-520-www.hioa.no	v1	EMEA	v3	4607	316149	30	.65	0
 ELRC-520-www.hioa.no	v1	ELRC-1805-Norwegian_Bokml_Ames	v1	4607	47595	30	.65	.06
 ELRC-520-www.hioa.no	v1	ELRC-government_websites	v1	4607	43383	29	.62	.06
@@ -74,6 +80,7 @@ ELRC-520-www.hioa.no	v1	ELRC-2542-Agriculture	v1	4607	66597	28	.60	.04
 ELRC-520-www.hioa.no	v1	ELRC-863-government_websites_	v1	4607	20646	28	.60	.13
 ELRC-520-www.hioa.no	v1	ELRC-vnk.fi	v1	4607	45736	27	.58	.05
 ELRC-520-www.hioa.no	v1	ELRC-563-Statoil_energy_compa	v1	4607	54342	26	.56	.04
+ELRC-520-www.hioa.no	v1	JParaCrawl	v3.0	4607	22179932	25	.54	0
 ELRC-520-www.hioa.no	v1	ELRC-1772-vnk.fi	v1	4607	33681	25	.54	.07
 ELRC-520-www.hioa.no	v1	ELRC-1771-vnk.fi	v1	4607	31558	25	.54	.07
 ELRC-520-www.hioa.no	v1	ELRC-www.norden.org	v1	4607	73026	24	.52	.03
@@ -85,6 +92,7 @@ ELRC-520-www.hioa.no	v1	ELRC-842-Quarterly_Reports_Pa	v1	4607	12537	23	.49	.18
 ELRC-520-www.hioa.no	v1	ELRC-valtioneuvosto.fi	v1	4607	64351	22	.47	.03
 ELRC-520-www.hioa.no	v1	ELRC-4334-Rkiskaup_2020	v1	4607	9805	22	.47	.22
 ELRC-520-www.hioa.no	v1	GoURMET	v1	4607	1541708	21	.45	0
+ELRC-520-www.hioa.no	v1	Nunavut_Hansard	v3.0.1	4607	744551	21	.45	0
 ELRC-520-www.hioa.no	v1	Bianet	v1	4607	43553	21	.45	.04
 ELRC-520-www.hioa.no	v1	ELRC-735-www.norden.org	v1	4607	42816	21	.45	.04
 ELRC-520-www.hioa.no	v1	ELRC-EUIPO_2017	v1	4607	31587	21	.45	.06
@@ -109,6 +117,7 @@ ELRC-520-www.hioa.no	v1	ELRC-2885-EU_publications_medi	v1	4607	12742	19	.41	.14
 ELRC-520-www.hioa.no	v1	ELRC-Regional_Development	v1	4607	9296	19	.41	.20
 ELRC-520-www.hioa.no	v1	EuroPat	v1	4607	22132306	18	.39	0
 ELRC-520-www.hioa.no	v1	Wikipedia	v1.0	4607	7646905	18	.39	0
+ELRC-520-www.hioa.no	v1	Anuvaad	v1	4607	1950854	18	.39	0
 ELRC-520-www.hioa.no	v1	MIZAN	v1	4607	1016854	18	.39	0
 ELRC-520-www.hioa.no	v1	ELRC-5214-A_Lexicon_Named	v1	4607	488887	18	.39	0
 ELRC-520-www.hioa.no	v1	ELRC-1770-valtioneuvosto.fi	v1	4607	49206	18	.39	.03
@@ -255,6 +264,7 @@ ELRC-520-www.hioa.no	v1	ELRC-412-EJTN_Handbook	v1	4607	1818	11	.23	.60
 ELRC-520-www.hioa.no	v1	ELRC-486-Procurement_1	v1	4607	1818	11	.23	.60
 ELRC-520-www.hioa.no	v1	ELRC-837-Legal	v1	4607	1291	11	.23	.85
 ELRC-520-www.hioa.no	v1	ELRC-5139-Bileog_do_Phlean	v1	4607	36	11	.23	30.55
+ELRC-520-www.hioa.no	v1	JESC	v2019-12-05	4607	2377332	10	.21	0
 ELRC-520-www.hioa.no	v1	SETIMES	v2	4607	242565	10	.21	0
 ELRC-520-www.hioa.no	v1	hrenWaC	v1	4607	96103	10	.21	.01
 ELRC-520-www.hioa.no	v1	ELRC-4327-Government_Offices_I	v1	4607	37820	10	.21	.02
@@ -591,6 +601,7 @@ ELRC-520-www.hioa.no	v1	ELRC_2923	v1	4607	984	3	.06	.30
 ELRC-520-www.hioa.no	v1	ELRC-2560-government_websites_	v1	4607	832	3	.06	.36
 ELRC-520-www.hioa.no	v1	ELRC-1173-PIO_Publication_CYPR	v1	4607	588	3	.06	.51
 ELRC-520-www.hioa.no	v1	TEP	v1	4607	521471	2	.04	0
+ELRC-520-www.hioa.no	v1	ALT	v2019	4607	18162	2	.04	.01
 ELRC-520-www.hioa.no	v1	ELRC-2461-press_releases_Forei	v1	4607	15895	2	.04	.01
 ELRC-520-www.hioa.no	v1	ELRC-1128-www.visitestonia.com	v1	4607	14527	2	.04	.01
 ELRC-520-www.hioa.no	v1	ELRC-1131-www.visitestonia.com	v1	4607	14240	2	.04	.01
@@ -630,6 +641,7 @@ ELRC-520-www.hioa.no	v1	ELRC-3605-presscorner_covid	v1	4607	6184	2	.04	.03
 ELRC-520-www.hioa.no	v1	ELRC-522-KORO_Art_Norway	v1	4607	4658	2	.04	.04
 ELRC-520-www.hioa.no	v1	ELRC-775-by_Presidency_Counci	v1	4607	4536	2	.04	.04
 ELRC-520-www.hioa.no	v1	ELRC-3502-Coronavirus_Law_Pola	v1	4607	4465	2	.04	.04
+ELRC-520-www.hioa.no	v1	ECDC	v2016-03-16	4607	3012	2	.04	.06
 ELRC-520-www.hioa.no	v1	ELRC-573-www.responsiblebusin	v1	4607	3000	2	.04	.06
 ELRC-520-www.hioa.no	v1	ELRA-W0189	v1	4607	2719	2	.04	.07
 ELRC-520-www.hioa.no	v1	ELRC-488-Justice_Slovak	v1	4607	2719	2	.04	.07
@@ -723,6 +735,7 @@ ELRC-520-www.hioa.no	v1	ELRC-5153-A_crisis_number	v1	4607	26	1	.02	3.84
 ELRC-520-www.hioa.no	v1	ELRC-5128-Celebrating_Our_Livi	v1	4607	18	1	.02	5.55
 ELRC-520-www.hioa.no	v1	MultiUN	v1	4607	12514685	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-CORDIS_Results	v1	4607	288453	0	0	0
+ELRC-520-www.hioa.no	v1	NeuLab-TedTalks	v1	4607	279535	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-1122-CORDIS_Results_Brief	v1	4607	259759	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-1123-CORDIS_Results_Brief	v1	4607	252934	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-1126-CORDIS_Results_Brief	v1	4607	242571	0	0	0
@@ -769,6 +782,7 @@ ELRC-520-www.hioa.no	v1	ELRC-992-Rural_Development_Pr	v1	4607	4940	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-3074-wikipedia_health	v1	4607	4356	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-3086-wikipedia_health	v1	4607	4262	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-3075-wikipedia_health	v1	4607	4090	0	0	0
+ELRC-520-www.hioa.no	v1	ELRC-5219-COVID_19_Parallel	v1	4607	4040	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-893-natmus.dk	v1	4607	3972	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-562-www.petoro.no	v1	4607	3884	0	0	0
 ELRC-520-www.hioa.no	v1	ada83	v1	4607	3874	0	0	0
@@ -970,6 +984,7 @@ ELRC-520-www.hioa.no	v1	ELRA-W0253	v1	4607	79	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-873-Development	v1	4607	79	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-2623-Patrimnio_Aores_2006	v1	4607	65	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-Patrimnio_Aores	v1	4607	65	0	0	0
+ELRC-520-www.hioa.no	v1	ELRC-5220-Information_crime_vi	v1	4607	53	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-5141-Preasritis__Choliste	v1	4607	50	0	0	0
 ELRC-520-www.hioa.no	v1	ELRC-2537-Lei_20_2008	v1	4607	49	0	0	0
 ELRC-520-www.hioa.no	v1	ELRA-W0208	v1	4607	44	0	0	0

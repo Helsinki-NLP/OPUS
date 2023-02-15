@@ -7,6 +7,7 @@ EUconst	v1	ELRC-4248-NTEU_TierA	v1	6683	12854274	3439	51.45	.02
 EUconst	v1	ELRC-4239-NTEU_TierA	v1	6683	11906559	3438	51.44	.02
 EUconst	v1	ELRC-4268-NTEU_TierA	v1	6683	11782507	3435	51.39	.02
 EUconst	v1	ParaCrawl	v9	6683	877766608	2591	38.77	0
+EUconst	v1	StanfordNLP-NMT	v1.0	6683	14386355	2400	35.91	.01
 EUconst	v1	EUbookshop	v2	6683	46038769	2206	33.00	0
 EUconst	v1	ELRA-W0190	v1	6683	55912	1666	24.92	2.97
 EUconst	v1	ELRC-489-Secretariat_General_	v1	6683	55912	1666	24.92	2.97
@@ -18,12 +19,16 @@ EUconst	v1	CCAligned	v1	6683	405094222	751	11.23	0
 EUconst	v1	SPC	v1	6683	59926	642	9.60	1.07
 EUconst	v1	JRC-Acquis	v3.0	6683	1923776	577	8.63	.02
 EUconst	v1	ELRC-4142-NTEU_TierA	v1	6683	2152367	555	8.30	.02
+EUconst	v1	ParIce	v1	6683	1364589	392	5.86	.02
 EUconst	v1	UNPC	v1.0	6683	23776005	371	5.55	0
+EUconst	v1	LinguaTools-WikiTitles	v2014	6683	8265652	316	4.72	0
 EUconst	v1	XLEnt	v1.1	6683	53628082	304	4.54	0
+EUconst	v1	XLEnt	v1.2	6683	53628082	304	4.54	0
 EUconst	v1	XLEnt	v1	6683	53628082	304	4.54	0
 EUconst	v1	OpenSubtitles	v2018	6683	102548132	265	3.96	0
 EUconst	v1	IITB	v2.0	6683	1105433	253	3.78	.02
 EUconst	v1	wikimedia	v20210402	6683	11389460	248	3.71	0
+EUconst	v1	Samanantar	v0.2	6683	16891660	241	3.60	0
 EUconst	v1	ELRC-425-Lithuanian_legislati	v1	6683	126666	218	3.26	.17
 EUconst	v1	WikiTitles	v3	6683	2348300	212	3.17	0
 EUconst	v1	memat	v1	6683	145098	204	3.05	.14
@@ -38,6 +43,7 @@ EUconst	v1	EuroPat	v2	6683	70531170	155	2.31	0
 EUconst	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	6683	279832	152	2.27	.05
 EUconst	v1	ELRA-W0243	v1	6683	12537	147	2.19	1.17
 EUconst	v1	ELRC-842-Quarterly_Reports_Pa	v1	6683	12537	147	2.19	1.17
+EUconst	v1	Nunavut_Hansard	v3.0.1	6683	744551	146	2.18	.01
 EUconst	v1	EhuHac	v1	6683	596213	141	2.10	.02
 EUconst	v1	ELRC-5179-acts_Ukrainian	v1	6683	125843	133	1.99	.10
 EUconst	v1	ELRC-1805-Norwegian_Bokml_Ames	v1	6683	47595	131	1.96	.27
@@ -46,6 +52,7 @@ EUconst	v1	ELRC-427-Electronic_Exchange_	v1	6683	9513	122	1.82	1.28
 EUconst	v1	ELRC-EMEA	v1	6683	806234	119	1.78	.01
 EUconst	v1	ELRA-W0170	v1	6683	6563	118	1.76	1.79
 EUconst	v1	ELRC-435-Romanian_New_Crimina	v1	6683	6563	118	1.76	1.79
+EUconst	v1	JParaCrawl	v3.0	6683	22179932	115	1.72	0
 EUconst	v1	KDE4	v2	6683	190475	115	1.72	.06
 EUconst	v1	EuroPat	v1	6683	22132306	114	1.70	0
 EUconst	v1	ELRC-4327-Government_Offices_I	v1	6683	37820	114	1.70	.30
@@ -59,6 +66,7 @@ EUconst	v1	GlobalVoices	v2018q4	6683	1154583	105	1.57	0
 EUconst	v1	ELRC-816-ANR_containing_major	v1	6683	10302	105	1.57	1.01
 EUconst	v1	wikimedia	v20190628	6683	352711	103	1.54	.02
 EUconst	v1	ELRC-904-uk.fm.dk	v1	6683	6700	102	1.52	1.52
+EUconst	v1	KFTT	v1.0	6683	433311	101	1.51	.02
 EUconst	v1	ELRC-2721-EMEA	v1	6683	693450	98	1.46	.01
 EUconst	v1	ELRC-2712-EMEA	v1	6683	679015	98	1.46	.01
 EUconst	v1	Mozilla-I10n	v1	6683	66158	98	1.46	.14
@@ -107,6 +115,7 @@ EUconst	v1	ELRC-1986-Constitution_Greece	v1	6683	1030	80	1.19	7.76
 EUconst	v1	ELRC-2410-Portal_oficial_turis	v1	6683	185841	79	1.18	.04
 EUconst	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	6683	41525	79	1.18	.19
 EUconst	v1	ELRC-1077-EUIPO_law	v1	6683	249932	78	1.16	.03
+EUconst	v1	Anuvaad	v1	6683	1950854	77	1.15	0
 EUconst	v1	ELRC-1076-EUIPO_law	v1	6683	114632	76	1.13	.06
 EUconst	v1	ELRA-W0234	v1	6683	7172	75	1.12	1.04
 EUconst	v1	GoURMET	v1	6683	1541708	74	1.10	0
@@ -127,6 +136,7 @@ EUconst	v1	ELRC-408-transport	v1	6683	3230	64	.95	1.98
 EUconst	v1	ELRC-2885-EU_publications_medi	v1	6683	12742	63	.94	.49
 EUconst	v1	ELRA-W0226	v1	6683	11061	63	.94	.56
 EUconst	v1	ELRC-788-Croatian_Bank	v1	6683	11061	63	.94	.56
+EUconst	v1	JESC	v2019-12-05	6683	2377332	62	.92	0
 EUconst	v1	SUMMA	v1	6683	89864	62	.92	.06
 EUconst	v1	ELRC-2719-EMEA	v1	6683	516124	61	.91	.01
 EUconst	v1	ELRA-W0189	v1	6683	2719	61	.91	2.24
@@ -624,7 +634,9 @@ EUconst	v1	ELRC-1070-Press_Information_Cy	v1	6683	1853	3	.04	.16
 EUconst	v1	ELRC-3473-EC_EUROPA_covid	v1	6683	1837	3	.04	.16
 EUconst	v1	ELRC-1173-PIO_Publication_CYPR	v1	6683	588	3	.04	.51
 EUconst	v1	ELRC-2440-Polsas_ar_Fheinilach	v1	6683	193	3	.04	1.55
+EUconst	v1	ELRC-5220-Information_crime_vi	v1	6683	53	3	.04	5.66
 EUconst	v1	ELRC-2537-Lei_20_2008	v1	6683	49	3	.04	6.12
+EUconst	v1	NeuLab-TedTalks	v1	6683	279535	2	.02	0
 EUconst	v1	ELRC-1117-CORDIS_News	v1	6683	110915	2	.02	0
 EUconst	v1	MontenegrinSubs	v1	6683	59363	2	.02	0
 EUconst	v1	ELRA-W0147	v1	6683	32179	2	.02	0
@@ -635,6 +647,7 @@ EUconst	v1	ELRA-W0143	v1	6683	30485	2	.02	0
 EUconst	v1	ELRC-1092-EUIPO_list	v1	6683	30485	2	.02	0
 EUconst	v1	ELRA-W0168	v1	6683	26230	2	.02	0
 EUconst	v1	ELRC-431-Estonian_Foreign_Aff	v1	6683	26230	2	.02	0
+EUconst	v1	ALT	v2019	6683	18162	2	.02	.01
 EUconst	v1	ELRC-Finnish_Information	v1	6683	12252	2	.02	.01
 EUconst	v1	ELRA-W0266	v1	6683	11797	2	.02	.01
 EUconst	v1	ELRC-921-studies_challenges_C	v1	6683	11797	2	.02	.01
@@ -658,6 +671,7 @@ EUconst	v1	ELRC-3609-presscorner_covid	v1	6683	6420	2	.02	.03
 EUconst	v1	ELRC-3614-presscorner_covid	v1	6683	6265	2	.02	.03
 EUconst	v1	ELRC-3608-presscorner_covid	v1	6683	6228	2	.02	.03
 EUconst	v1	ELRC-3605-presscorner_covid	v1	6683	6184	2	.02	.03
+EUconst	v1	ELRC-5219-COVID_19_Parallel	v1	6683	4040	2	.02	.04
 EUconst	v1	ELRC-631-BMVI_Website	v1	6683	2779	2	.02	.07
 EUconst	v1	ELRC-564-www.aibn.no	v1	6683	2764	2	.02	.07
 EUconst	v1	ELRC-538-www.ngu.no	v1	6683	1899	2	.02	.10
@@ -695,6 +709,7 @@ EUconst	v1	ELRC-775-by_Presidency_Counci	v1	6683	4536	1	.01	.02
 EUconst	v1	ELRC-3074-wikipedia_health	v1	6683	4356	1	.01	.02
 EUconst	v1	ELRC-3075-wikipedia_health	v1	6683	4090	1	.01	.02
 EUconst	v1	ELRC-2443-LithrenGrasinOG	v1	6683	3704	1	.01	.02
+EUconst	v1	ECDC	v2016-03-16	6683	3012	1	.01	.03
 EUconst	v1	ELRC-3043-wikipedia_health	v1	6683	2737	1	.01	.03
 EUconst	v1	ELRC-3049-wikipedia_health	v1	6683	2689	1	.01	.03
 EUconst	v1	ELRC-1067-PIO_Publication_Wind	v1	6683	2633	1	.01	.03

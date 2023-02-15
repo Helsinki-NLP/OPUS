@@ -1,15 +1,19 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-4295-www.malfong.is	v1	ParaCrawl	v9	12374	877766608	9150	73.94	0
 ELRC-4295-www.malfong.is	v1	CCMatrix	v1	12374	1341614085	8886	71.81	0
+ELRC-4295-www.malfong.is	v1	JParaCrawl	v3.0	12374	22179932	233	1.88	0
 ELRC-4295-www.malfong.is	v1	CCAligned	v1	12374	405094222	131	1.05	0
 ELRC-4295-www.malfong.is	v1	XLEnt	v1.1	12374	53628082	24	.19	0
 ELRC-4295-www.malfong.is	v1	XLEnt	v1	12374	53628082	24	.19	0
+ELRC-4295-www.malfong.is	v1	XLEnt	v1.2	12374	53628082	24	.19	0
 ELRC-4295-www.malfong.is	v1	WikiMatrix	v1	12374	47707259	22	.17	0
+ELRC-4295-www.malfong.is	v1	Samanantar	v0.2	12374	16891660	15	.12	0
 ELRC-4295-www.malfong.is	v1	wikimedia	v20210402	12374	11389460	15	.12	0
 ELRC-4295-www.malfong.is	v1	OpenSubtitles	v2018	12374	102548132	12	.09	0
 ELRC-4295-www.malfong.is	v1	EUbookshop	v2	12374	46038769	9	.07	0
 ELRC-4295-www.malfong.is	v1	Wikipedia	v1.0	12374	7646905	9	.07	0
 ELRC-4295-www.malfong.is	v1	giga-fren	v2	12374	20786998	8	.06	0
+ELRC-4295-www.malfong.is	v1	StanfordNLP-NMT	v1.0	12374	14386355	8	.06	0
 ELRC-4295-www.malfong.is	v1	QED	v2.0a	12374	7299297	8	.06	0
 ELRC-4295-www.malfong.is	v1	ELRC-4268-NTEU_TierA	v1	12374	11782507	7	.05	0
 ELRC-4295-www.malfong.is	v1	EuroPat	v3	12374	79873063	5	.04	0
@@ -28,6 +32,7 @@ ELRC-4295-www.malfong.is	v1	GlobalVoices	v2017q3	12374	1091521	5	.04	0
 ELRC-4295-www.malfong.is	v1	GlobalVoices	v2015	12374	954153	5	.04	0
 ELRC-4295-www.malfong.is	v1	ELRC-CORDIS_News	v1	12374	149280	5	.04	0
 ELRC-4295-www.malfong.is	v1	EuroPat	v1	12374	22132306	4	.03	0
+ELRC-4295-www.malfong.is	v1	LinguaTools-WikiTitles	v2014	12374	8265652	4	.03	0
 ELRC-4295-www.malfong.is	v1	ELRC-4269-NTEU_TierA	v1	12374	7234848	4	.03	0
 ELRC-4295-www.malfong.is	v1	GoURMET	v1	12374	1541708	4	.03	0
 ELRC-4295-www.malfong.is	v1	TED2020	v1	12374	436417	4	.03	0
@@ -44,9 +49,11 @@ ELRC-4295-www.malfong.is	v1	WikiTitles	v3	12374	2348300	3	.02	0
 ELRC-4295-www.malfong.is	v1	ELRC-4142-NTEU_TierA	v1	12374	2152367	3	.02	0
 ELRC-4295-www.malfong.is	v1	JRC-Acquis	v3.0	12374	1923776	3	.02	0
 ELRC-4295-www.malfong.is	v1	OpenSubtitles	v1	12374	1598451	3	.02	0
+ELRC-4295-www.malfong.is	v1	ParIce	v1	12374	1364589	3	.02	0
 ELRC-4295-www.malfong.is	v1	MIZAN	v1	12374	1016854	3	.02	0
 ELRC-4295-www.malfong.is	v1	ELRC-EMEA	v1	12374	806234	3	.02	0
 ELRC-4295-www.malfong.is	v1	ELRC_2682	v1	12374	779183	3	.02	0
+ELRC-4295-www.malfong.is	v1	Nunavut_Hansard	v3.0.1	12374	744551	3	.02	0
 ELRC-4295-www.malfong.is	v1	ELRC-2722-EMEA	v1	12374	701635	3	.02	0
 ELRC-4295-www.malfong.is	v1	ELRC-2710-EMEA	v1	12374	699854	3	.02	0
 ELRC-4295-www.malfong.is	v1	ELRC-2724-EMEA	v1	12374	698758	3	.02	0
@@ -86,9 +93,11 @@ ELRC-4295-www.malfong.is	v1	ELRA-W0201	v1	12374	35003	3	.02	0
 ELRC-4295-www.malfong.is	v1	ELRC-638-Luxembourg.lu	v1	12374	35003	3	.02	0
 ELRC-4295-www.malfong.is	v1	ELRC-1081-Forbruker_Europa	v1	12374	3606	3	.02	.08
 ELRC-4295-www.malfong.is	v1	ELRC-5067-SciPar	v1	12374	9198848	2	.01	0
+ELRC-4295-www.malfong.is	v1	Anuvaad	v1	12374	1950854	2	.01	0
 ELRC-4295-www.malfong.is	v1	EhuHac	v1	12374	596213	2	.01	0
 ELRC-4295-www.malfong.is	v1	ELRC-2706-EMEA	v1	12374	577401	2	.01	0
 ELRC-4295-www.malfong.is	v1	ELRC-5214-A_Lexicon_Named	v1	12374	488887	2	.01	0
+ELRC-4295-www.malfong.is	v1	KFTT	v1.0	12374	433311	2	.01	0
 ELRC-4295-www.malfong.is	v1	News-Commentary	v9.0	12374	328698	2	.01	0
 ELRC-4295-www.malfong.is	v1	News-Commentary	v9.1	12374	328698	2	.01	0
 ELRC-4295-www.malfong.is	v1	ChuBiCo	v1	12374	199932	2	.01	0
@@ -152,6 +161,7 @@ ELRC-4295-www.malfong.is	v1	ELRA-W0185	v1	12374	1990	2	.01	.10
 ELRC-4295-www.malfong.is	v1	ELRC-484-Procurement_2	v1	12374	1990	2	.01	.10
 ELRC-4295-www.malfong.is	v1	ELRC-412-EJTN_Handbook	v1	12374	1818	2	.01	.11
 ELRC-4295-www.malfong.is	v1	MultiUN	v1	12374	12514685	0	0	0
+ELRC-4295-www.malfong.is	v1	JESC	v2019-12-05	12374	2377332	1	0	0
 ELRC-4295-www.malfong.is	v1	Tatoeba	v2022-03-03	12374	1605560	1	0	0
 ELRC-4295-www.malfong.is	v1	Tatoeba	v2021-07-22	12374	1497594	1	0	0
 ELRC-4295-www.malfong.is	v1	Tatoeba	v2021-03-10	12374	1470935	1	0	0
@@ -165,6 +175,7 @@ ELRC-4295-www.malfong.is	v1	Tatoeba	v2	12374	407821	1	0	0
 ELRC-4295-www.malfong.is	v1	ECB	v1	12374	376581	1	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-5183-SciPar_Ukraine	v1	12374	320840	1	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-CORDIS_Results	v1	12374	288453	1	0	0
+ELRC-4295-www.malfong.is	v1	NeuLab-TedTalks	v1	12374	279535	1	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-1122-CORDIS_Results_Brief	v1	12374	259759	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-1123-CORDIS_Results_Brief	v1	12374	252934	1	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-1077-EUIPO_law	v1	12374	249932	1	0	0
@@ -283,6 +294,7 @@ ELRC-4295-www.malfong.is	v1	ELRC-www.turku.fi	v1	12374	20217	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-1176-EUIPO_2017	v1	12374	19714	1	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-4324-Government_Offices_I	v1	12374	18627	1	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-559-www.npd.no	v1	12374	18283	1	0	0
+ELRC-4295-www.malfong.is	v1	ALT	v2019	12374	18162	1	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-1084-Agencia_Tributaria	v1	12374	17477	1	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-2018-EUIPO_2017	v1	12374	17452	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-2023-EUIPO_2017	v1	12374	17331	1	0	0
@@ -482,6 +494,7 @@ ELRC-4295-www.malfong.is	v1	ELRA-W0206	v1	12374	4123	1	0	.02
 ELRC-4295-www.malfong.is	v1	ELRC-654-Romanian_Ombudsman_a	v1	12374	4123	1	0	.02
 ELRC-4295-www.malfong.is	v1	ELRC-621-Federal_Constitution	v1	12374	4109	1	0	.02
 ELRC-4295-www.malfong.is	v1	ELRC-3075-wikipedia_health	v1	12374	4090	0	0	0
+ELRC-4295-www.malfong.is	v1	ELRC-5219-COVID_19_Parallel	v1	12374	4040	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-535-www.nbim.no	v1	12374	4006	1	0	.02
 ELRC-4295-www.malfong.is	v1	ELRC-893-natmus.dk	v1	12374	3972	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRA-W0247	v1	12374	3929	1	0	.02
@@ -531,6 +544,7 @@ ELRC-4295-www.malfong.is	v1	ELRA-W0177	v1	12374	3026	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-475-Polish_Food	v1	12374	3026	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-2638-monumentos_2007	v1	12374	3025	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	12374	3022	0	0	0
+ELRC-4295-www.malfong.is	v1	ECDC	v2016-03-16	12374	3012	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-857-www.trm.dk	v1	12374	3011	1	0	.03
 ELRC-4295-www.malfong.is	v1	WMT-News	v2019	12374	3004	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-573-www.responsiblebusin	v1	12374	3000	1	0	.03
@@ -978,6 +992,7 @@ ELRC-4295-www.malfong.is	v1	ELRA-W0253	v1	12374	79	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-873-Development	v1	12374	79	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-2623-Patrimnio_Aores_2006	v1	12374	65	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-Patrimnio_Aores	v1	12374	65	0	0	0
+ELRC-4295-www.malfong.is	v1	ELRC-5220-Information_crime_vi	v1	12374	53	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-3456-EC_EUROPA_covid	v1	12374	50	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-5141-Preasritis__Choliste	v1	12374	50	0	0	0
 ELRC-4295-www.malfong.is	v1	ELRC-2537-Lei_20_2008	v1	12374	49	0	0	0

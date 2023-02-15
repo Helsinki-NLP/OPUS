@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 OpenSubtitles	v1	OpenSubtitles	v2018	343652	33781924	139091	40.47	.41
+OpenSubtitles	v1	StanfordNLP-NMT	v1.0	343652	11065607	70578	20.53	.63
 OpenSubtitles	v1	QED	v2.0a	343652	422723	3265	.95	.77
 OpenSubtitles	v1	ParaCrawl	v9	343652	50632491	1071	.31	0
 OpenSubtitles	v1	CCAligned	v1	343652	12660340	390	.11	0
@@ -10,6 +11,7 @@ OpenSubtitles	v1	Tatoeba	v2021-03-10	343652	28263	267	.07	.94
 OpenSubtitles	v1	Tatoeba	v2020-11-09	343652	26186	266	.07	1.01
 OpenSubtitles	v1	Tatoeba	v2020-05-31	343652	23217	263	.07	1.13
 OpenSubtitles	v1	Tatoeba	v20190709	343652	17891	255	.07	1.42
+OpenSubtitles	v1	NeuLab-TedTalks	v1	343652	108494	229	.06	.21
 OpenSubtitles	v1	Europarl	v8	343652	628484	181	.05	.02
 OpenSubtitles	v1	CCMatrix	v1	343652	55956324	113	.03	0
 OpenSubtitles	v1	News-Commentary	v14	343652	212212	71	.02	.03
@@ -18,7 +20,9 @@ OpenSubtitles	v1	News-Commentary	v11	343652	177020	66	.01	.03
 OpenSubtitles	v1	News-Commentary	v9.0	343652	145950	60	.01	.04
 OpenSubtitles	v1	News-Commentary	v9.1	343652	145950	60	.01	.04
 OpenSubtitles	v1	Tatoeba	v2	343652	1456	44	.01	3.02
+OpenSubtitles	v1	LinguaTools-WikiTitles	v2014	343652	4637372	19	0	0
 OpenSubtitles	v1	XLEnt	v1.1	343652	3667457	16	0	0
+OpenSubtitles	v1	XLEnt	v1.2	343652	3667457	16	0	0
 OpenSubtitles	v1	XLEnt	v1	343652	3667457	16	0	0
 OpenSubtitles	v1	DGT	v2019	343652	3659771	28	0	0
 OpenSubtitles	v1	ELRC-5067-SciPar	v1	343652	1064385	4	0	0
@@ -58,6 +62,7 @@ OpenSubtitles	v1	ELRC-2406-Czech_Supreme_Audit	v1	343652	4771	0	0	0
 OpenSubtitles	v1	ELRC_3382	v1	343652	3720	2	0	.05
 OpenSubtitles	v1	TildeMODEL	v2018	343652	3100	0	0	0
 OpenSubtitles	v1	ELRC-2405-Czech_Supreme_Audit	v1	343652	2868	0	0	0
+OpenSubtitles	v1	ECDC	v2016-03-16	343652	2475	1	0	.04
 OpenSubtitles	v1	ELRC-3463-EC_EUROPA_covid	v1	343652	2386	2	0	.08
 OpenSubtitles	v1	ELRC-EC_EUROPA	v1	343652	2386	2	0	.08
 OpenSubtitles	v1	ELRC-40-Information_Portal_C	v1	343652	1828	0	0	0

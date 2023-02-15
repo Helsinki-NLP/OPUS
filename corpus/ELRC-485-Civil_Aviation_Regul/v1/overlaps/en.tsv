@@ -2,6 +2,7 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0186	v1	2403	2462	1470	61.17	59.70
 ELRC-485-Civil_Aviation_Regul	v1	CCAligned	v1	2403	405094222	100	4.16	0
 ELRC-485-Civil_Aviation_Regul	v1	ParaCrawl	v9	2403	877766608	97	4.03	0
+ELRC-485-Civil_Aviation_Regul	v1	StanfordNLP-NMT	v1.0	2403	14386355	70	2.91	0
 ELRC-485-Civil_Aviation_Regul	v1	JRC-Acquis	v3.0	2403	1923776	69	2.87	0
 ELRC-485-Civil_Aviation_Regul	v1	giga-fren	v2	2403	20786998	66	2.74	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-4268-NTEU_TierA	v1	2403	11782507	61	2.53	0
@@ -14,11 +15,14 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRC-4239-NTEU_TierA	v1	2403	11906559	56	2.33	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-4270-NTEU_TierA	v1	2403	7252413	56	2.33	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-4269-NTEU_TierA	v1	2403	7234848	56	2.33	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-4154-NTEU_TierA	v1	2403	7119873	56	2.33	0
+ELRC-485-Civil_Aviation_Regul	v1	ParIce	v1	2403	1364589	53	2.20	0
 ELRC-485-Civil_Aviation_Regul	v1	EuroPat	v2	2403	70531170	50	2.08	0
 ELRC-485-Civil_Aviation_Regul	v1	EuroPat	v1	2403	22132306	50	2.08	0
 ELRC-485-Civil_Aviation_Regul	v1	wikimedia	v20210402	2403	11389460	50	2.08	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-4142-NTEU_TierA	v1	2403	2152367	50	2.08	0
+ELRC-485-Civil_Aviation_Regul	v1	Samanantar	v0.2	2403	16891660	48	1.99	0
 ELRC-485-Civil_Aviation_Regul	v1	OpenSubtitles	v2018	2403	102548132	45	1.87	0
+ELRC-485-Civil_Aviation_Regul	v1	JParaCrawl	v3.0	2403	22179932	45	1.87	0
 ELRC-485-Civil_Aviation_Regul	v1	SciELO	v1	2403	3061142	43	1.78	0
 ELRC-485-Civil_Aviation_Regul	v1	Wikipedia	v1.0	2403	7646905	42	1.74	0
 ELRC-485-Civil_Aviation_Regul	v1	QED	v2.0a	2403	7299297	41	1.70	0
@@ -30,6 +34,7 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRC-1077-EUIPO_law	v1	2403	249932	40	1.66	.01
 ELRC-485-Civil_Aviation_Regul	v1	memat	v1	2403	145098	40	1.66	.02
 ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0191	v1	2403	61046	40	1.66	.06
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-490-Secretariat_General_	v1	2403	61046	40	1.66	.06
+ELRC-485-Civil_Aviation_Regul	v1	LinguaTools-WikiTitles	v2014	2403	8265652	39	1.62	0
 ELRC-485-Civil_Aviation_Regul	v1	IITB	v2.0	2403	1105433	39	1.62	0
 ELRC-485-Civil_Aviation_Regul	v1	MIZAN	v1	2403	1016854	39	1.62	0
 ELRC-485-Civil_Aviation_Regul	v1	wikimedia	v20190628	2403	352711	39	1.62	.01
@@ -39,13 +44,16 @@ ELRC-485-Civil_Aviation_Regul	v1	SPC	v1	2403	59926	39	1.62	.06
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	2403	41525	39	1.62	.09
 ELRC-485-Civil_Aviation_Regul	v1	ELITR-ECA	v1	2403	11446	39	1.62	.34
 ELRC-485-Civil_Aviation_Regul	v1	Europarl	v8	2403	2375417	38	1.58	0
+ELRC-485-Civil_Aviation_Regul	v1	Anuvaad	v1	2403	1950854	38	1.58	0
 ELRC-485-Civil_Aviation_Regul	v1	GlobalVoices	v2018q4	2403	1154583	38	1.58	0
 ELRC-485-Civil_Aviation_Regul	v1	GlobalVoices	v2017q3	2403	1091521	38	1.58	0
+ELRC-485-Civil_Aviation_Regul	v1	KFTT	v1.0	2403	433311	38	1.58	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-2542-Agriculture	v1	2403	66597	38	1.58	.05
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1084-Agencia_Tributaria	v1	2403	17477	38	1.58	.21
 ELRC-485-Civil_Aviation_Regul	v1	EUconst	v1	2403	6683	38	1.58	.56
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1000-legislation_Bulgaria	v1	2403	5183	38	1.58	.73
 ELRC-485-Civil_Aviation_Regul	v1	OpenSubtitles	v1	2403	1598451	37	1.53	0
+ELRC-485-Civil_Aviation_Regul	v1	Nunavut_Hansard	v3.0.1	2403	744551	37	1.53	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1076-EUIPO_law	v1	2403	114632	37	1.53	.03
 ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0138	v1	2403	90058	37	1.53	.04
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1075-EUIPO_law	v1	2403	90058	37	1.53	.04
@@ -60,6 +68,7 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRC-837-Legal	v1	2403	1291	37	1.53	2.86
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-5145-Roinn_an_Dl	v1	2403	494	37	1.53	7.48
 ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0142	v1	2403	2394	36	1.49	1.50
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1080-Acts_Biological_Land	v1	2403	2394	36	1.49	1.50
+ELRC-485-Civil_Aviation_Regul	v1	JESC	v2019-12-05	2403	2377332	35	1.45	0
 ELRC-485-Civil_Aviation_Regul	v1	GlobalVoices	v2015	2403	954153	35	1.45	0
 ELRC-485-Civil_Aviation_Regul	v1	EMEA	v3	2403	316149	35	1.45	.01
 ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0244	v1	2403	14622	35	1.45	.23
@@ -449,6 +458,7 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRC-2549-Report_Best_practice	v1	2403	205	5	.2
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-5135-Preasritis__Choliste	v1	2403	182	5	.20	2.74
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1022-COMPULSORY_EXPROPRIA	v1	2403	42	5	.20	11.90
 ELRC-485-Civil_Aviation_Regul	v1	XLEnt	v1.1	2403	53628082	4	.16	0
+ELRC-485-Civil_Aviation_Regul	v1	XLEnt	v1.2	2403	53628082	4	.16	0
 ELRC-485-Civil_Aviation_Regul	v1	XLEnt	v1	2403	53628082	4	.16	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-CORDIS_News	v1	2403	149280	4	.16	0
 ELRC-485-Civil_Aviation_Regul	v1	TedTalks	v1	2403	81979	4	.16	0
@@ -498,6 +508,7 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRC-1070-Press_Information_Cy	v1	2403	1853	3	.
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1173-PIO_Publication_CYPR	v1	2403	588	3	.12	.51
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-656-Macroeconomic_Develo	v1	2403	158	3	.12	1.89
 ELRC-485-Civil_Aviation_Regul	v1	ECB	v1	2403	376581	2	.08	0
+ELRC-485-Civil_Aviation_Regul	v1	NeuLab-TedTalks	v1	2403	279535	2	.08	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1977-Standard_Norge	v1	2403	120068	2	.08	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1117-CORDIS_News	v1	2403	110915	2	.08	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-5181-Official_Parliament_	v1	2403	60789	2	.08	0
@@ -509,6 +520,7 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRC-3564-EUR_LEX_covid	v1	2403	22215	2	.08	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-3574-EUR_LEX_covid	v1	2403	22077	2	.08	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1090-German_Foreign_Offic	v1	2403	21092	2	.08	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-3567-EUR_LEX_covid	v1	2403	20985	2	.08	0
+ELRC-485-Civil_Aviation_Regul	v1	ALT	v2019	2403	18162	2	.08	.01
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-774-Presidency	v1	2403	16365	2	.08	.01
 ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0263	v1	2403	13790	2	.08	.01
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-913-2018_Proposal_a	v1	2403	13790	2	.08	.01
@@ -597,6 +609,7 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRC-3605-presscorner_covid	v1	2403	6184	1	.04	
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-775-by_Presidency_Counci	v1	2403	4536	1	.04	.02
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-3560-EUR_LEX_covid	v1	2403	4508	1	.04	.02
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-3502-Coronavirus_Law_Pola	v1	2403	4465	1	.04	.02
+ELRC-485-Civil_Aviation_Regul	v1	ELRC-5219-COVID_19_Parallel	v1	2403	4040	1	.04	.02
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-2443-LithrenGrasinOG	v1	2403	3704	1	.04	.02
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-574-www.barentswatch.no	v1	2403	3351	1	.04	.02
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-564-www.aibn.no	v1	2403	2764	1	.04	.03
@@ -732,6 +745,7 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0177	v1	2403	3026	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-475-Polish_Food	v1	2403	3026	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-2638-monumentos_2007	v1	2403	3025	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	2403	3022	0	0	0
+ELRC-485-Civil_Aviation_Regul	v1	ECDC	v2016-03-16	2403	3012	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	WMT-News	v2019	2403	3004	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-1240-Austrian_Research_Te	v1	2403	2996	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0180	v1	2403	2961	0	0	0
@@ -966,6 +980,7 @@ ELRC-485-Civil_Aviation_Regul	v1	ELRA-W0253	v1	2403	79	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-873-Development	v1	2403	79	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-2623-Patrimnio_Aores_2006	v1	2403	65	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-Patrimnio_Aores	v1	2403	65	0	0	0
+ELRC-485-Civil_Aviation_Regul	v1	ELRC-5220-Information_crime_vi	v1	2403	53	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-3456-EC_EUROPA_covid	v1	2403	50	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-5141-Preasritis__Choliste	v1	2403	50	0	0	0
 ELRC-485-Civil_Aviation_Regul	v1	ELRC-2537-Lei_20_2008	v1	2403	49	0	0	0

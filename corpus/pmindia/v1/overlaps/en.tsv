@@ -1,12 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+pmindia	v1	Samanantar	v0.2	80655	16891660	50791	62.97	.30
+pmindia	v1	Anuvaad	v1	80655	1950854	27209	33.73	1.39
 pmindia	v1	CCMatrix	v1	80655	1341614085	15250	18.90	0
 pmindia	v1	CCAligned	v1	80655	405094222	4683	5.80	0
 pmindia	v1	ParaCrawl	v9	80655	877766608	1570	1.94	0
 pmindia	v1	OpenSubtitles	v2018	80655	102548132	441	.54	0
+pmindia	v1	StanfordNLP-NMT	v1.0	80655	14386355	299	.37	0
 pmindia	v1	QED	v2.0a	80655	7299297	291	.36	0
 pmindia	v1	ELRC-4239-NTEU_TierA	v1	80655	11906559	264	.32	0
 pmindia	v1	ELRC-4248-NTEU_TierA	v1	80655	12854274	258	.31	0
 pmindia	v1	ELRC-4268-NTEU_TierA	v1	80655	11782507	257	.31	0
+pmindia	v1	JParaCrawl	v3.0	80655	22179932	240	.29	0
 pmindia	v1	IITB	v2.0	80655	1105433	241	.29	.02
 pmindia	v1	giga-fren	v2	80655	20786998	232	.28	0
 pmindia	v1	ELRC-4271-NTEU_TierA	v1	80655	7211577	227	.28	0
@@ -30,6 +34,7 @@ pmindia	v1	OpenSubtitles	v1	80655	1598451	134	.16	0
 pmindia	v1	GlobalVoices	v2018q4	80655	1154583	130	.16	.01
 pmindia	v1	ELRC-396-Foreign_Affairs_Norw	v1	80655	669717	130	.16	.01
 pmindia	v1	EhuHac	v1	80655	596213	137	.16	.02
+pmindia	v1	LinguaTools-WikiTitles	v2014	80655	8265652	119	.14	0
 pmindia	v1	GoURMET	v1	80655	1541708	113	.14	0
 pmindia	v1	ELRC-EUIPO_law	v1	80655	485617	113	.14	.02
 pmindia	v1	Joshua-IPC	v1	80655	198174	114	.14	.05
@@ -40,6 +45,7 @@ pmindia	v1	ELRC-1077-EUIPO_law	v1	80655	249932	112	.13	.04
 pmindia	v1	SPC	v1	80655	59926	111	.13	.18
 pmindia	v1	XhosaNavy	v1	80655	49263	105	.13	.21
 pmindia	v1	Tatoeba	v2022-03-03	80655	1605560	97	.12	0
+pmindia	v1	ParIce	v1	80655	1364589	102	.12	0
 pmindia	v1	GlobalVoices	v2017q3	80655	1091521	104	.12	0
 pmindia	v1	ELRC-768-corpora_State_Admini	v1	80655	49864	100	.12	.20
 pmindia	v1	Bianet	v1	80655	43553	104	.12	.23
@@ -53,8 +59,10 @@ pmindia	v1	Tatoeba	v2020-11-09	80655	1406533	93	.11	0
 pmindia	v1	Tatoeba	v2020-05-31	80655	1346260	92	.11	0
 pmindia	v1	Tatoeba	v20190709	80655	1212697	91	.11	0
 pmindia	v1	GlobalVoices	v2015	80655	954153	94	.11	0
+pmindia	v1	Nunavut_Hansard	v3.0.1	80655	744551	94	.11	.01
 pmindia	v1	ELITR-ECA	v1	80655	11446	91	.11	.79
 pmindia	v1	XLEnt	v1.1	80655	53628082	85	.10	0
+pmindia	v1	XLEnt	v1.2	80655	53628082	85	.10	0
 pmindia	v1	XLEnt	v1	80655	53628082	85	.10	0
 pmindia	v1	ELRC-837-Legal	v1	80655	1291	85	.10	6.58
 pmindia	v1	ELRC-845-Corpora_legal_text	v1	80655	924	82	.10	8.87
@@ -64,6 +72,8 @@ pmindia	v1	ELRA-W0138	v1	80655	90058	69	.08	.07
 pmindia	v1	ELRC-1075-EUIPO_law	v1	80655	90058	69	.08	.07
 pmindia	v1	ELRC-1084-Agencia_Tributaria	v1	80655	17477	66	.08	.37
 pmindia	v1	ELRC-84-Dutch_Government	v1	80655	6506	67	.08	1.02
+pmindia	v1	JESC	v2019-12-05	80655	2377332	62	.07	0
+pmindia	v1	KFTT	v1.0	80655	433311	57	.07	.01
 pmindia	v1	Tatoeba	v2	80655	407821	59	.07	.01
 pmindia	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	80655	279832	59	.07	.02
 pmindia	v1	ELRC-425-Lithuanian_legislati	v1	80655	126666	58	.07	.04
@@ -148,6 +158,7 @@ pmindia	v1	ELRC-2726-EMEA	v1	80655	672813	31	.03	0
 pmindia	v1	ELRC-2706-EMEA	v1	80655	577401	31	.03	0
 pmindia	v1	ELRC-2719-EMEA	v1	80655	516124	28	.03	0
 pmindia	v1	ELRC-2718-EMEA	v1	80655	484237	29	.03	0
+pmindia	v1	NeuLab-TedTalks	v1	80655	279535	26	.03	0
 pmindia	v1	SETIMES	v2	80655	242565	25	.03	.01
 pmindia	v1	ELRC-www.norden.org	v1	80655	73026	25	.03	.03
 pmindia	v1	ELRA-W0202	v1	80655	64241	26	.03	.04
@@ -463,6 +474,7 @@ pmindia	v1	ELRC-www.visitestonia.com	v1	80655	21337	0	0	0
 pmindia	v1	ELRC-1090-German_Foreign_Offic	v1	80655	21092	4	0	.01
 pmindia	v1	ELRC-www.turku.fi	v1	80655	20217	0	0	0
 pmindia	v1	ELRC-559-www.npd.no	v1	80655	18283	6	0	.03
+pmindia	v1	ALT	v2019	80655	18162	2	0	.01
 pmindia	v1	ELRC-2018-EUIPO_2017	v1	80655	17452	1	0	0
 pmindia	v1	ELRC-2023-EUIPO_2017	v1	80655	17331	1	0	0
 pmindia	v1	ELRC-2032-www.turku.fi	v1	80655	17326	0	0	0
@@ -588,6 +600,7 @@ pmindia	v1	ELRC-3074-wikipedia_health	v1	80655	4356	1	0	.02
 pmindia	v1	ELRC-3086-wikipedia_health	v1	80655	4262	1	0	.02
 pmindia	v1	ELRC-621-Federal_Constitution	v1	80655	4109	7	0	.17
 pmindia	v1	ELRC-3075-wikipedia_health	v1	80655	4090	2	0	.04
+pmindia	v1	ELRC-5219-COVID_19_Parallel	v1	80655	4040	3	0	.07
 pmindia	v1	ELRC-535-www.nbim.no	v1	80655	4006	5	0	.12
 pmindia	v1	ELRC-893-natmus.dk	v1	80655	3972	0	0	0
 pmindia	v1	ELRA-W0247	v1	80655	3929	7	0	.17
@@ -622,6 +635,7 @@ pmindia	v1	ELRA-W0177	v1	80655	3026	2	0	.06
 pmindia	v1	ELRC-475-Polish_Food	v1	80655	3026	2	0	.06
 pmindia	v1	ELRC-2638-monumentos_2007	v1	80655	3025	0	0	0
 pmindia	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	80655	3022	0	0	0
+pmindia	v1	ECDC	v2016-03-16	80655	3012	2	0	.06
 pmindia	v1	WMT-News	v2019	80655	3004	0	0	0
 pmindia	v1	ELRC-573-www.responsiblebusin	v1	80655	3000	5	0	.16
 pmindia	v1	ELRC-1240-Austrian_Research_Te	v1	80655	2996	0	0	0
@@ -979,6 +993,7 @@ pmindia	v1	ELRA-W0253	v1	80655	79	0	0	0
 pmindia	v1	ELRC-873-Development	v1	80655	79	0	0	0
 pmindia	v1	ELRC-2623-Patrimnio_Aores_2006	v1	80655	65	0	0	0
 pmindia	v1	ELRC-Patrimnio_Aores	v1	80655	65	0	0	0
+pmindia	v1	ELRC-5220-Information_crime_vi	v1	80655	53	0	0	0
 pmindia	v1	ELRC-3456-EC_EUROPA_covid	v1	80655	50	1	0	2.00
 pmindia	v1	ELRC-5141-Preasritis__Choliste	v1	80655	50	0	0	0
 pmindia	v1	ELRC-2537-Lei_20_2008	v1	80655	49	0	0	0

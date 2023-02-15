@@ -1,6 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3068-wikipedia_health	v1	ELRC_2922	v1	217	37769	217	100.00	.57
 ELRC-3068-wikipedia_health	v1	ELRC-wikipedia_health	v1	217	37707	217	100.00	.57
+ELRC-3068-wikipedia_health	v1	Samanantar	v0.2	217	16891660	148	68.20	0
 ELRC-3068-wikipedia_health	v1	ELRC-3083-wikipedia_health	v1	217	15108	93	42.85	.61
 ELRC-3068-wikipedia_health	v1	WikiMatrix	v1	217	47707259	70	32.25	0
 ELRC-3068-wikipedia_health	v1	ELRC-3080-wikipedia_health	v1	217	7324	70	32.25	.95
@@ -67,6 +68,7 @@ ELRC-3068-wikipedia_health	v1	EuroPat	v2	217	70531170	1	.46	0
 ELRC-3068-wikipedia_health	v1	EUbookshop	v2	217	46038769	1	.46	0
 ELRC-3068-wikipedia_health	v1	UNPC	v1.0	217	23776005	1	.46	0
 ELRC-3068-wikipedia_health	v1	EuroPat	v1	217	22132306	1	.46	0
+ELRC-3068-wikipedia_health	v1	StanfordNLP-NMT	v1.0	217	14386355	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC-4248-NTEU_TierA	v1	217	12854274	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC-4239-NTEU_TierA	v1	217	11906559	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC-4268-NTEU_TierA	v1	217	11782507	1	.46	0
@@ -80,10 +82,13 @@ ELRC-3068-wikipedia_health	v1	TildeMODEL	v2018	217	5686357	1	.46	0
 ELRC-3068-wikipedia_health	v1	SciELO	v1	217	3061142	1	.46	0
 ELRC-3068-wikipedia_health	v1	Europarl	v8	217	2375417	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC-4142-NTEU_TierA	v1	217	2152367	1	.46	0
+ELRC-3068-wikipedia_health	v1	Anuvaad	v1	217	1950854	1	.46	0
 ELRC-3068-wikipedia_health	v1	JRC-Acquis	v3.0	217	1923776	1	.46	0
+ELRC-3068-wikipedia_health	v1	ParIce	v1	217	1364589	1	.46	0
 ELRC-3068-wikipedia_health	v1	IITB	v2.0	217	1105433	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC-EMEA	v1	217	806234	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC_2682	v1	217	779183	1	.46	0
+ELRC-3068-wikipedia_health	v1	Nunavut_Hansard	v3.0.1	217	744551	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC-2722-EMEA	v1	217	701635	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC-2710-EMEA	v1	217	699854	1	.46	0
 ELRC-3068-wikipedia_health	v1	ELRC-2724-EMEA	v1	217	698758	1	.46	0
@@ -220,7 +225,11 @@ ELRC-3068-wikipedia_health	v1	ELRC-3194-antibiotic	v1	217	166	1	.46	.60
 ELRC-3068-wikipedia_health	v1	OpenSubtitles	v2018	217	102548132	0	0	0
 ELRC-3068-wikipedia_health	v1	XLEnt	v1.1	217	53628082	0	0	0
 ELRC-3068-wikipedia_health	v1	XLEnt	v1	217	53628082	0	0	0
+ELRC-3068-wikipedia_health	v1	XLEnt	v1.2	217	53628082	0	0	0
+ELRC-3068-wikipedia_health	v1	JParaCrawl	v3.0	217	22179932	0	0	0
 ELRC-3068-wikipedia_health	v1	MultiUN	v1	217	12514685	0	0	0
+ELRC-3068-wikipedia_health	v1	LinguaTools-WikiTitles	v2014	217	8265652	0	0	0
+ELRC-3068-wikipedia_health	v1	JESC	v2019-12-05	217	2377332	0	0	0
 ELRC-3068-wikipedia_health	v1	WikiTitles	v3	217	2348300	0	0	0
 ELRC-3068-wikipedia_health	v1	Tatoeba	v2022-03-03	217	1605560	0	0	0
 ELRC-3068-wikipedia_health	v1	OpenSubtitles	v1	217	1598451	0	0	0
@@ -239,11 +248,13 @@ ELRC-3068-wikipedia_health	v1	EhuHac	v1	217	596213	0	0	0
 ELRC-3068-wikipedia_health	v1	TEP	v1	217	521471	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-5214-A_Lexicon_Named	v1	217	488887	0	0	0
 ELRC-3068-wikipedia_health	v1	TED2020	v1	217	436417	0	0	0
+ELRC-3068-wikipedia_health	v1	KFTT	v1.0	217	433311	0	0	0
 ELRC-3068-wikipedia_health	v1	Tatoeba	v2	217	407821	0	0	0
 ELRC-3068-wikipedia_health	v1	ECB	v1	217	376581	0	0	0
 ELRC-3068-wikipedia_health	v1	News-Commentary	v11	217	362778	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-5183-SciPar_Ukraine	v1	217	320840	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-CORDIS_Results	v1	217	288453	0	0	0
+ELRC-3068-wikipedia_health	v1	NeuLab-TedTalks	v1	217	279535	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-1122-CORDIS_Results_Brief	v1	217	259759	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-1123-CORDIS_Results_Brief	v1	217	252934	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-1126-CORDIS_Results_Brief	v1	217	242571	0	0	0
@@ -383,6 +394,7 @@ ELRC-3068-wikipedia_health	v1	ELRC-4324-Government_Offices_I	v1	217	18627	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRA-W0273	v1	217	18450	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-943-Journal_Croatian_Ass	v1	217	18450	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-559-www.npd.no	v1	217	18283	0	0	0
+ELRC-3068-wikipedia_health	v1	ALT	v2019	217	18162	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-1178-EUIPO_2017	v1	217	17582	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-1084-Agencia_Tributaria	v1	217	17477	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-2018-EUIPO_2017	v1	217	17452	0	0	0
@@ -569,6 +581,7 @@ ELRC-3068-wikipedia_health	v1	ELRC-1992-Rural_Development_Pr	v1	217	4274	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRA-W0206	v1	217	4123	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-654-Romanian_Ombudsman_a	v1	217	4123	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-621-Federal_Constitution	v1	217	4109	0	0	0
+ELRC-3068-wikipedia_health	v1	ELRC-5219-COVID_19_Parallel	v1	217	4040	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-535-www.nbim.no	v1	217	4006	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-893-natmus.dk	v1	217	3972	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRA-W0247	v1	217	3929	0	0	0
@@ -618,6 +631,7 @@ ELRC-3068-wikipedia_health	v1	ELRA-W0177	v1	217	3026	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-475-Polish_Food	v1	217	3026	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-2638-monumentos_2007	v1	217	3025	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	217	3022	0	0	0
+ELRC-3068-wikipedia_health	v1	ECDC	v2016-03-16	217	3012	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-857-www.trm.dk	v1	217	3011	0	0	0
 ELRC-3068-wikipedia_health	v1	WMT-News	v2019	217	3004	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-573-www.responsiblebusin	v1	217	3000	0	0	0
@@ -978,6 +992,7 @@ ELRC-3068-wikipedia_health	v1	ELRA-W0253	v1	217	79	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-873-Development	v1	217	79	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-2623-Patrimnio_Aores_2006	v1	217	65	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-Patrimnio_Aores	v1	217	65	0	0	0
+ELRC-3068-wikipedia_health	v1	ELRC-5220-Information_crime_vi	v1	217	53	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-3456-EC_EUROPA_covid	v1	217	50	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-5141-Preasritis__Choliste	v1	217	50	0	0	0
 ELRC-3068-wikipedia_health	v1	ELRC-2537-Lei_20_2008	v1	217	49	0	0	0

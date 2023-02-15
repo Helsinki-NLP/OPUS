@@ -2,7 +2,9 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MontenegrinSubs	v1	OpenSubtitles	v2018	59363	102548132	56959	95.95	.05
 MontenegrinSubs	v1	ParaCrawl	v9	59363	877766608	8949	15.07	0
 MontenegrinSubs	v1	QED	v2.0a	59363	7299297	8530	14.36	.11
+MontenegrinSubs	v1	StanfordNLP-NMT	v1.0	59363	14386355	8455	14.24	.05
 MontenegrinSubs	v1	CCAligned	v1	59363	405094222	7185	12.10	0
+MontenegrinSubs	v1	Samanantar	v0.2	59363	16891660	6178	10.40	.03
 MontenegrinSubs	v1	OpenSubtitles	v1	59363	1598451	6088	10.25	.38
 MontenegrinSubs	v1	Tatoeba	v2022-03-03	59363	1605560	4408	7.42	.27
 MontenegrinSubs	v1	Tatoeba	v2021-03-10	59363	1470935	4299	7.24	.29
@@ -14,10 +16,12 @@ MontenegrinSubs	v1	Tatoeba	v20190709	59363	1212697	4021	6.77	.33
 MontenegrinSubs	v1	Tatoeba	v2	59363	407821	2869	4.83	.70
 MontenegrinSubs	v1	MIZAN	v1	59363	1016854	2442	4.11	.24
 MontenegrinSubs	v1	WikiMatrix	v1	59363	47707259	1910	3.21	0
+MontenegrinSubs	v1	JParaCrawl	v3.0	59363	22179932	1838	3.09	0
 MontenegrinSubs	v1	TED2020	v1	59363	436417	1205	2.02	.27
 MontenegrinSubs	v1	GlobalVoices	v2018q4	59363	1154583	1024	1.72	.08
 MontenegrinSubs	v1	GlobalVoices	v2017q3	59363	1091521	1010	1.70	.09
 MontenegrinSubs	v1	EhuHac	v1	59363	596213	990	1.66	.16
+MontenegrinSubs	v1	NeuLab-TedTalks	v1	59363	279535	991	1.66	.35
 MontenegrinSubs	v1	EUbookshop	v2	59363	46038769	951	1.60	0
 MontenegrinSubs	v1	GlobalVoices	v2015	59363	954153	934	1.57	.09
 MontenegrinSubs	v1	IITB	v2.0	59363	1105433	720	1.21	.06
@@ -30,6 +34,7 @@ MontenegrinSubs	v1	wikimedia	v20210402	59363	11389460	582	.98	0
 MontenegrinSubs	v1	Europarl	v8	59363	2375417	505	.85	.02
 MontenegrinSubs	v1	GoURMET	v1	59363	1541708	505	.85	.03
 MontenegrinSubs	v1	ChuBiCo	v1	59363	199932	418	.70	.20
+MontenegrinSubs	v1	Nunavut_Hansard	v3.0.1	59363	744551	411	.69	.05
 MontenegrinSubs	v1	ELRC-4271-NTEU_TierA	v1	59363	7211577	391	.65	0
 MontenegrinSubs	v1	TED2013	v1.1	59363	192310	381	.64	.19
 MontenegrinSubs	v1	TedTalks	v1	59363	81979	381	.64	.46
@@ -41,7 +46,9 @@ MontenegrinSubs	v1	ELRC-4154-NTEU_TierA	v1	59363	7119873	311	.52	0
 MontenegrinSubs	v1	Books	v1	59363	235021	286	.48	.12
 MontenegrinSubs	v1	ELRA-W0214	v1	59363	15469	252	.42	1.62
 MontenegrinSubs	v1	TildeMODEL	v2018	59363	5686357	225	.37	0
+MontenegrinSubs	v1	LinguaTools-WikiTitles	v2014	59363	8265652	208	.35	0
 MontenegrinSubs	v1	News-Commentary	v16	59363	633326	157	.26	.02
+MontenegrinSubs	v1	Anuvaad	v1	59363	1950854	153	.25	0
 MontenegrinSubs	v1	News-Commentary	v14	59363	530397	149	.25	.02
 MontenegrinSubs	v1	ELRA-W0202	v1	59363	64241	137	.23	.21
 MontenegrinSubs	v1	News-Commentary	v11	59363	362778	126	.21	.03
@@ -59,6 +66,7 @@ MontenegrinSubs	v1	Mozilla-I10n	v1	59363	66158	89	.14	.13
 MontenegrinSubs	v1	ELRC-2410-Portal_oficial_turis	v1	59363	185841	78	.13	.04
 MontenegrinSubs	v1	EuroPat	v2	59363	70531170	77	.12	0
 MontenegrinSubs	v1	wikimedia	v20190628	59363	352711	72	.12	.02
+MontenegrinSubs	v1	JESC	v2019-12-05	59363	2377332	62	.10	0
 MontenegrinSubs	v1	ELRC-518-www.regjeringen.no	v1	59363	142770	62	.10	.04
 MontenegrinSubs	v1	JRC-Acquis	v3.0	59363	1923776	38	.06	0
 MontenegrinSubs	v1	KDE4	v2	59363	190475	36	.06	.01
@@ -69,8 +77,10 @@ MontenegrinSubs	v1	Joshua-IPC	v1	59363	198174	33	.05	.01
 MontenegrinSubs	v1	hrenWaC	v1	59363	96103	33	.05	.03
 MontenegrinSubs	v1	SUMMA	v1	59363	89864	34	.05	.03
 MontenegrinSubs	v1	Bianet	v1	59363	43553	31	.05	.07
+MontenegrinSubs	v1	ParIce	v1	59363	1364589	29	.04	0
 MontenegrinSubs	v1	bible-uedin	v1	59363	74178	28	.04	.03
 MontenegrinSubs	v1	XLEnt	v1.1	59363	53628082	18	.03	0
+MontenegrinSubs	v1	XLEnt	v1.2	59363	53628082	18	.03	0
 MontenegrinSubs	v1	XLEnt	v1	59363	53628082	18	.03	0
 MontenegrinSubs	v1	ELRC-EMEA	v1	59363	806234	22	.03	0
 MontenegrinSubs	v1	ELRC_2682	v1	59363	779183	21	.03	0
@@ -82,6 +92,7 @@ MontenegrinSubs	v1	ELRC-2712-EMEA	v1	59363	679015	20	.03	0
 MontenegrinSubs	v1	ELRC-2717-EMEA	v1	59363	670422	18	.03	0
 MontenegrinSubs	v1	ELRC-396-Foreign_Affairs_Norw	v1	59363	669717	23	.03	0
 MontenegrinSubs	v1	ELRC-5214-A_Lexicon_Named	v1	59363	488887	18	.03	0
+MontenegrinSubs	v1	KFTT	v1.0	59363	433311	21	.03	0
 MontenegrinSubs	v1	SETIMES	v2	59363	242565	23	.03	0
 MontenegrinSubs	v1	ELRC-CORDIS_News	v1	59363	149280	20	.03	.01
 MontenegrinSubs	v1	XhosaNavy	v1	59363	49263	21	.03	.04
@@ -155,6 +166,7 @@ MontenegrinSubs	v1	sardware	v1	59363	6144	7	.01	.11
 MontenegrinSubs	v1	ELRC-923-chapters_Youth_2010	v1	59363	5730	6	.01	.10
 MontenegrinSubs	v1	ELRA-W0272	v1	59363	5355	9	.01	.16
 MontenegrinSubs	v1	ELRC-936-Prime_Minister_Helle	v1	59363	5355	9	.01	.16
+MontenegrinSubs	v1	ELRC-5219-COVID_19_Parallel	v1	59363	4040	7	.01	.17
 MontenegrinSubs	v1	ELRC-2502-TERMITUR	v1	59363	3312	6	.01	.18
 MontenegrinSubs	v1	ELRC-TERMITUR	v1	59363	3312	6	.01	.18
 MontenegrinSubs	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	59363	3022	8	.01	.26
@@ -276,6 +288,7 @@ MontenegrinSubs	v1	ELRC-4324-Government_Offices_I	v1	59363	18627	1	0	0
 MontenegrinSubs	v1	ELRA-W0273	v1	59363	18450	1	0	0
 MontenegrinSubs	v1	ELRC-943-Journal_Croatian_Ass	v1	59363	18450	1	0	0
 MontenegrinSubs	v1	ELRC-559-www.npd.no	v1	59363	18283	2	0	.01
+MontenegrinSubs	v1	ALT	v2019	59363	18162	1	0	0
 MontenegrinSubs	v1	ELRC-1178-EUIPO_2017	v1	59363	17582	1	0	0
 MontenegrinSubs	v1	ELRC-2018-EUIPO_2017	v1	59363	17452	0	0	0
 MontenegrinSubs	v1	ELRC-2023-EUIPO_2017	v1	59363	17331	1	0	0
@@ -518,6 +531,7 @@ MontenegrinSubs	v1	ELRC-2870-EU_publications_medi	v1	59363	3045	1	0	.03
 MontenegrinSubs	v1	ELRA-W0177	v1	59363	3026	3	0	.09
 MontenegrinSubs	v1	ELRC-475-Polish_Food	v1	59363	3026	3	0	.09
 MontenegrinSubs	v1	ELRC-2638-monumentos_2007	v1	59363	3025	0	0	0
+MontenegrinSubs	v1	ECDC	v2016-03-16	59363	3012	0	0	0
 MontenegrinSubs	v1	ELRC-857-www.trm.dk	v1	59363	3011	0	0	0
 MontenegrinSubs	v1	WMT-News	v2019	59363	3004	4	0	.13
 MontenegrinSubs	v1	ELRC-573-www.responsiblebusin	v1	59363	3000	0	0	0
@@ -963,6 +977,7 @@ MontenegrinSubs	v1	ELRA-W0253	v1	59363	79	0	0	0
 MontenegrinSubs	v1	ELRC-873-Development	v1	59363	79	0	0	0
 MontenegrinSubs	v1	ELRC-2623-Patrimnio_Aores_2006	v1	59363	65	0	0	0
 MontenegrinSubs	v1	ELRC-Patrimnio_Aores	v1	59363	65	0	0	0
+MontenegrinSubs	v1	ELRC-5220-Information_crime_vi	v1	59363	53	0	0	0
 MontenegrinSubs	v1	ELRC-3456-EC_EUROPA_covid	v1	59363	50	0	0	0
 MontenegrinSubs	v1	ELRC-5141-Preasritis__Choliste	v1	59363	50	0	0	0
 MontenegrinSubs	v1	ELRC-2537-Lei_20_2008	v1	59363	49	0	0	0

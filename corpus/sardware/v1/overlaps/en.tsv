@@ -1,7 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 sardware	v1	CCAligned	v1	6144	405094222	1907	31.03	0
 sardware	v1	ParaCrawl	v9	6144	877766608	1713	27.88	0
+sardware	v1	StanfordNLP-NMT	v1.0	6144	14386355	1062	17.28	0
 sardware	v1	XLEnt	v1.1	6144	53628082	983	15.99	0
+sardware	v1	XLEnt	v1.2	6144	53628082	983	15.99	0
 sardware	v1	XLEnt	v1	6144	53628082	983	15.99	0
 sardware	v1	ELRC-4271-NTEU_TierA	v1	6144	7211577	836	13.60	.01
 sardware	v1	ELRC-4239-NTEU_TierA	v1	6144	11906559	827	13.46	0
@@ -11,6 +13,7 @@ sardware	v1	ELRC-4270-NTEU_TierA	v1	6144	7252413	778	12.66	.01
 sardware	v1	ELRC-4269-NTEU_TierA	v1	6144	7234848	771	12.54	.01
 sardware	v1	KDE4	v2	6144	190475	713	11.60	.37
 sardware	v1	Mozilla-I10n	v1	6144	66158	701	11.40	1.05
+sardware	v1	LinguaTools-WikiTitles	v2014	6144	8265652	693	11.27	0
 sardware	v1	ELRC-4248-NTEU_TierA	v1	6144	12854274	634	10.31	0
 sardware	v1	ELRC-4142-NTEU_TierA	v1	6144	2152367	623	10.13	.02
 sardware	v1	OpenSubtitles	v2018	6144	102548132	584	9.50	0
@@ -19,6 +22,7 @@ sardware	v1	UNPC	v1.0	6144	23776005	544	8.85	0
 sardware	v1	WikiTitles	v3	6144	2348300	518	8.43	.02
 sardware	v1	SPC	v1	6144	59926	470	7.64	.78
 sardware	v1	ELRC-4154-NTEU_TierA	v1	6144	7119873	445	7.24	0
+sardware	v1	Samanantar	v0.2	6144	16891660	444	7.22	0
 sardware	v1	wikimedia	v20210402	6144	11389460	423	6.88	0
 sardware	v1	TildeMODEL	v2018	6144	5686357	371	6.03	0
 sardware	v1	giga-fren	v2	6144	20786998	329	5.35	0
@@ -26,6 +30,7 @@ sardware	v1	QED	v2.0a	6144	7299297	289	4.70	0
 sardware	v1	ELRC-2410-Portal_oficial_turis	v1	6144	185841	283	4.60	.15
 sardware	v1	ELRC-396-Foreign_Affairs_Norw	v1	6144	669717	257	4.18	.03
 sardware	v1	OpenOffice	v2	6144	36009	236	3.84	.65
+sardware	v1	ParIce	v1	6144	1364589	227	3.69	.01
 sardware	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	6144	279832	226	3.67	.08
 sardware	v1	WikiMatrix	v1	6144	47707259	211	3.43	0
 sardware	v1	CCMatrix	v1	6144	1341614085	202	3.28	0
@@ -38,6 +43,7 @@ sardware	v1	EuroPat	v3	6144	79873063	127	2.06	0
 sardware	v1	ELRC-EMEA	v1	6144	806234	117	1.90	.01
 sardware	v1	EuroPat	v2	6144	70531170	114	1.85	0
 sardware	v1	ELRC_2682	v1	6144	779183	114	1.85	.01
+sardware	v1	KFTT	v1.0	6144	433311	108	1.75	.02
 sardware	v1	ELRC-2722-EMEA	v1	6144	701635	104	1.69	.01
 sardware	v1	ELRC-5214-A_Lexicon_Named	v1	6144	488887	103	1.67	.02
 sardware	v1	GNOME	v1	6144	5352	102	1.66	1.90
@@ -47,6 +53,7 @@ sardware	v1	OpenSubtitles	v1	6144	1598451	99	1.61	0
 sardware	v1	ELRC-2710-EMEA	v1	6144	699854	99	1.61	.01
 sardware	v1	ELRC-2721-EMEA	v1	6144	693450	99	1.61	.01
 sardware	v1	ELRC-2729-EMEA	v1	6144	688511	99	1.61	.01
+sardware	v1	JParaCrawl	v3.0	6144	22179932	98	1.59	0
 sardware	v1	ELRC-2724-EMEA	v1	6144	698758	97	1.57	.01
 sardware	v1	ELRC-2723-EMEA	v1	6144	684988	97	1.57	.01
 sardware	v1	ELRC-2712-EMEA	v1	6144	679015	95	1.54	.01
@@ -64,6 +71,7 @@ sardware	v1	ELRC-2727-EMEA	v1	6144	680290	84	1.36	.01
 sardware	v1	ECB	v1	6144	376581	84	1.36	.02
 sardware	v1	ELRC-2728-EMEA	v1	6144	680926	83	1.35	.01
 sardware	v1	wikimedia	v20190628	6144	352711	83	1.35	.02
+sardware	v1	Anuvaad	v1	6144	1950854	82	1.33	0
 sardware	v1	GlobalVoices	v2018q4	6144	1154583	82	1.33	0
 sardware	v1	ELRC-2709-EMEA	v1	6144	360888	82	1.33	.02
 sardware	v1	EMEA	v3	6144	316149	82	1.33	.02
@@ -104,6 +112,7 @@ sardware	v1	ELRC-728-www.norden.org	v1	6144	41141	30	.48	.07
 sardware	v1	ELRC-563-Statoil_energy_compa	v1	6144	54342	29	.47	.05
 sardware	v1	ELRC-4324-Government_Offices_I	v1	6144	18627	29	.47	.15
 sardware	v1	ELRC-1127-www.vtv.fi	v1	6144	41560	28	.45	.06
+sardware	v1	Nunavut_Hansard	v3.0.1	6144	744551	27	.43	0
 sardware	v1	ELRC-2032-www.turku.fi	v1	6144	17326	27	.43	.15
 sardware	v1	ELRC-Press_Releases	v1	6144	6300	27	.43	.42
 sardware	v1	ELRC-1787-Press_Releases_PIO	v1	6144	4953	27	.43	.54
@@ -135,6 +144,7 @@ sardware	v1	ELRC-2025-EUIPO_2017	v1	6144	17119	22	.35	.12
 sardware	v1	ELRC-2019-EUIPO_2017	v1	6144	17045	22	.35	.12
 sardware	v1	ELRC-2016-EUIPO_2017	v1	6144	16875	22	.35	.13
 sardware	v1	ELRC-2015-EUIPO_2017	v1	6144	16447	22	.35	.13
+sardware	v1	ECDC	v2016-03-16	6144	3012	22	.35	.73
 sardware	v1	Bianet	v1	6144	43553	21	.34	.04
 sardware	v1	ELRA-W0167	v1	6144	42999	21	.34	.04
 sardware	v1	ELRC-429-Legal_Estonian_Justi	v1	6144	42999	21	.34	.04
@@ -143,6 +153,7 @@ sardware	v1	ELRC-2013-EUIPO_2017	v1	6144	17260	21	.34	.12
 sardware	v1	ELRC-2024-EUIPO_2017	v1	6144	17249	21	.34	.12
 sardware	v1	ELRC-2014-EUIPO_2017	v1	6144	17046	21	.34	.12
 sardware	v1	ELRC-923-chapters_Youth_2010	v1	6144	5730	21	.34	.36
+sardware	v1	JESC	v2019-12-05	6144	2377332	20	.32	0
 sardware	v1	ELRA-W0220	v1	6144	55527	20	.32	.03
 sardware	v1	ELRC-724-Hallituskausi_2007_2	v1	6144	55527	20	.32	.03
 sardware	v1	ELRC-annual_reports	v1	6144	18771	20	.32	.10
@@ -240,6 +251,7 @@ sardware	v1	ELRA-W0274	v1	6144	5470	7	.11	.12
 sardware	v1	ELRC-945-Business_Poland	v1	6144	5470	7	.11	.12
 sardware	v1	ELRC-520-www.hioa.no	v1	6144	4607	7	.11	.15
 sardware	v1	Europarl	v8	6144	2375417	6	.09	0
+sardware	v1	NeuLab-TedTalks	v1	6144	279535	6	.09	0
 sardware	v1	UN	v20090831	6144	56434	6	.09	.01
 sardware	v1	ELRA-W0190	v1	6144	55912	6	.09	.01
 sardware	v1	ELRC-489-Secretariat_General_	v1	6144	55912	6	.09	.01
@@ -611,6 +623,7 @@ sardware	v1	ELRC-651-government_websites_	v1	6144	21255	0	0	0
 sardware	v1	ELRC-3568-EUR_LEX_covid	v1	6144	21161	0	0	0
 sardware	v1	ELRC-3567-EUR_LEX_covid	v1	6144	20985	0	0	0
 sardware	v1	ELRC-3573-EUR_LEX_covid	v1	6144	20671	0	0	0
+sardware	v1	ALT	v2019	6144	18162	0	0	0
 sardware	v1	ELRC-937-vp1992_2001.presiden	v1	6144	16548	0	0	0
 sardware	v1	ELRC-3083-wikipedia_health	v1	6144	15108	0	0	0
 sardware	v1	ELRA-W0212	v1	6144	14642	0	0	0
@@ -685,6 +698,7 @@ sardware	v1	ELRC-3074-wikipedia_health	v1	6144	4356	0	0	0
 sardware	v1	ELRC-1992-Rural_Development_Pr	v1	6144	4274	0	0	0
 sardware	v1	ELRC-3086-wikipedia_health	v1	6144	4262	0	0	0
 sardware	v1	ELRC-3075-wikipedia_health	v1	6144	4090	0	0	0
+sardware	v1	ELRC-5219-COVID_19_Parallel	v1	6144	4040	0	0	0
 sardware	v1	ELRA-W0247	v1	6144	3929	0	0	0
 sardware	v1	ELRC-858-Export_Promotion_Por	v1	6144	3929	0	0	0
 sardware	v1	ELRC-562-www.petoro.no	v1	6144	3884	0	0	0
@@ -981,6 +995,7 @@ sardware	v1	ELRA-W0253	v1	6144	79	0	0	0
 sardware	v1	ELRC-873-Development	v1	6144	79	0	0	0
 sardware	v1	ELRC-2623-Patrimnio_Aores_2006	v1	6144	65	0	0	0
 sardware	v1	ELRC-Patrimnio_Aores	v1	6144	65	0	0	0
+sardware	v1	ELRC-5220-Information_crime_vi	v1	6144	53	0	0	0
 sardware	v1	ELRC-5141-Preasritis__Choliste	v1	6144	50	0	0	0
 sardware	v1	ELRC-2537-Lei_20_2008	v1	6144	49	0	0	0
 sardware	v1	ELRC-Preasriteas_faoi	v1	6144	48	0	0	0

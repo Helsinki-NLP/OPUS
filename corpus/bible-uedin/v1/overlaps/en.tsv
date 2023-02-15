@@ -1,9 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 bible-uedin	v1	ParaCrawl	v9	74178	877766608	67641	91.18	0
+bible-uedin	v1	Samanantar	v0.2	74178	16891660	46926	63.26	.27
 bible-uedin	v1	memat	v1	74178	145098	41367	55.76	28.50
 bible-uedin	v1	CCAligned	v1	74178	405094222	31682	42.71	0
 bible-uedin	v1	WikiSource	v1	74178	33858	31145	41.98	91.98
 bible-uedin	v1	CCMatrix	v1	74178	1341614085	30086	40.55	0
+bible-uedin	v1	JParaCrawl	v3.0	74178	22179932	2198	2.96	0
 bible-uedin	v1	WikiMatrix	v1	74178	47707259	1218	1.64	0
 bible-uedin	v1	GoURMET	v1	74178	1541708	1221	1.64	.07
 bible-uedin	v1	EhuHac	v1	74178	596213	957	1.29	.16
@@ -16,6 +18,7 @@ bible-uedin	v1	QED	v2.0a	74178	7299297	303	.40	0
 bible-uedin	v1	Tatoeba	v2020-11-09	74178	1406533	299	.40	.02
 bible-uedin	v1	Tatoeba	v2020-05-31	74178	1346260	297	.40	.02
 bible-uedin	v1	Tatoeba	v20190709	74178	1212697	277	.37	.02
+bible-uedin	v1	StanfordNLP-NMT	v1.0	74178	14386355	236	.31	0
 bible-uedin	v1	Tatoeba	v2	74178	407821	130	.17	.03
 bible-uedin	v1	OpenSubtitles	v1	74178	1598451	84	.11	0
 bible-uedin	v1	MIZAN	v1	74178	1016854	72	.09	0
@@ -37,6 +40,9 @@ bible-uedin	v1	ELRC-4268-NTEU_TierA	v1	74178	11782507	20	.02	0
 bible-uedin	v1	ELRC-4270-NTEU_TierA	v1	74178	7252413	15	.02	0
 bible-uedin	v1	ELRC-4269-NTEU_TierA	v1	74178	7234848	15	.02	0
 bible-uedin	v1	Europarl	v8	74178	2375417	21	.02	0
+bible-uedin	v1	Anuvaad	v1	74178	1950854	15	.02	0
+bible-uedin	v1	NeuLab-TedTalks	v1	74178	279535	15	.02	0
+bible-uedin	v1	LinguaTools-WikiTitles	v2014	74178	8265652	12	.01	0
 bible-uedin	v1	ELRC-4271-NTEU_TierA	v1	74178	7211577	14	.01	0
 bible-uedin	v1	ELRC-4154-NTEU_TierA	v1	74178	7119873	14	.01	0
 bible-uedin	v1	SciELO	v1	74178	3061142	11	.01	0
@@ -52,16 +58,20 @@ bible-uedin	v1	ELRA-W0214	v1	74178	15469	9	.01	.05
 bible-uedin	v1	EuroPat	v3	74178	79873063	2	0	0
 bible-uedin	v1	EuroPat	v2	74178	70531170	1	0	0
 bible-uedin	v1	XLEnt	v1.1	74178	53628082	4	0	0
+bible-uedin	v1	XLEnt	v1.2	74178	53628082	4	0	0
 bible-uedin	v1	XLEnt	v1	74178	53628082	4	0	0
 bible-uedin	v1	EuroPat	v1	74178	22132306	1	0	0
 bible-uedin	v1	MultiUN	v1	74178	12514685	0	0	0
 bible-uedin	v1	ELRC-5067-SciPar	v1	74178	9198848	5	0	0
 bible-uedin	v1	TildeMODEL	v2018	74178	5686357	7	0	0
+bible-uedin	v1	JESC	v2019-12-05	74178	2377332	0	0	0
 bible-uedin	v1	ELRC-4142-NTEU_TierA	v1	74178	2152367	3	0	0
 bible-uedin	v1	JRC-Acquis	v3.0	74178	1923776	2	0	0
+bible-uedin	v1	ParIce	v1	74178	1364589	1	0	0
 bible-uedin	v1	CAPES	v1	74178	1158123	0	0	0
 bible-uedin	v1	ELRC-EMEA	v1	74178	806234	1	0	0
 bible-uedin	v1	ELRC_2682	v1	74178	779183	1	0	0
+bible-uedin	v1	Nunavut_Hansard	v3.0.1	74178	744551	6	0	0
 bible-uedin	v1	ELRC-2722-EMEA	v1	74178	701635	1	0	0
 bible-uedin	v1	ELRC-2710-EMEA	v1	74178	699854	1	0	0
 bible-uedin	v1	ELRC-2724-EMEA	v1	74178	698758	1	0	0
@@ -89,6 +99,7 @@ bible-uedin	v1	ELRC-2719-EMEA	v1	74178	516124	1	0	0
 bible-uedin	v1	ELRC-5214-A_Lexicon_Named	v1	74178	488887	6	0	0
 bible-uedin	v1	ELRC-EUIPO_law	v1	74178	485617	1	0	0
 bible-uedin	v1	ELRC-2718-EMEA	v1	74178	484237	0	0	0
+bible-uedin	v1	KFTT	v1.0	74178	433311	1	0	0
 bible-uedin	v1	ECB	v1	74178	376581	1	0	0
 bible-uedin	v1	ELRC-2709-EMEA	v1	74178	360888	1	0	0
 bible-uedin	v1	wikimedia	v20190628	74178	352711	3	0	0
@@ -246,6 +257,7 @@ bible-uedin	v1	ELRC-4324-Government_Offices_I	v1	74178	18627	0	0	0
 bible-uedin	v1	ELRA-W0273	v1	74178	18450	0	0	0
 bible-uedin	v1	ELRC-943-Journal_Croatian_Ass	v1	74178	18450	0	0	0
 bible-uedin	v1	ELRC-559-www.npd.no	v1	74178	18283	0	0	0
+bible-uedin	v1	ALT	v2019	74178	18162	0	0	0
 bible-uedin	v1	ELRC-1178-EUIPO_2017	v1	74178	17582	0	0	0
 bible-uedin	v1	ELRC-1084-Agencia_Tributaria	v1	74178	17477	0	0	0
 bible-uedin	v1	ELRC-2018-EUIPO_2017	v1	74178	17452	0	0	0
@@ -461,6 +473,7 @@ bible-uedin	v1	ELRA-W0206	v1	74178	4123	0	0	0
 bible-uedin	v1	ELRC-654-Romanian_Ombudsman_a	v1	74178	4123	0	0	0
 bible-uedin	v1	ELRC-621-Federal_Constitution	v1	74178	4109	0	0	0
 bible-uedin	v1	ELRC-3075-wikipedia_health	v1	74178	4090	0	0	0
+bible-uedin	v1	ELRC-5219-COVID_19_Parallel	v1	74178	4040	1	0	.02
 bible-uedin	v1	ELRC-535-www.nbim.no	v1	74178	4006	0	0	0
 bible-uedin	v1	ELRC-893-natmus.dk	v1	74178	3972	0	0	0
 bible-uedin	v1	ELRA-W0247	v1	74178	3929	0	0	0
@@ -513,6 +526,7 @@ bible-uedin	v1	ELRA-W0177	v1	74178	3026	0	0	0
 bible-uedin	v1	ELRC-475-Polish_Food	v1	74178	3026	0	0	0
 bible-uedin	v1	ELRC-2638-monumentos_2007	v1	74178	3025	1	0	.03
 bible-uedin	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	74178	3022	1	0	.03
+bible-uedin	v1	ECDC	v2016-03-16	74178	3012	0	0	0
 bible-uedin	v1	ELRC-857-www.trm.dk	v1	74178	3011	0	0	0
 bible-uedin	v1	WMT-News	v2019	74178	3004	0	0	0
 bible-uedin	v1	ELRC-573-www.responsiblebusin	v1	74178	3000	0	0	0
@@ -963,6 +977,7 @@ bible-uedin	v1	ELRA-W0253	v1	74178	79	0	0	0
 bible-uedin	v1	ELRC-873-Development	v1	74178	79	0	0	0
 bible-uedin	v1	ELRC-2623-Patrimnio_Aores_2006	v1	74178	65	0	0	0
 bible-uedin	v1	ELRC-Patrimnio_Aores	v1	74178	65	0	0	0
+bible-uedin	v1	ELRC-5220-Information_crime_vi	v1	74178	53	0	0	0
 bible-uedin	v1	ELRC-3456-EC_EUROPA_covid	v1	74178	50	0	0	0
 bible-uedin	v1	ELRC-5141-Preasritis__Choliste	v1	74178	50	0	0	0
 bible-uedin	v1	ELRC-2537-Lei_20_2008	v1	74178	49	0	0	0

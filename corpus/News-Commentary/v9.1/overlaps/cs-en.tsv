@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v9.1	News-Commentary	v9.0	145950	145950	145950	100.00	100.00
+News-Commentary	v9.1	StanfordNLP-NMT	v1.0	145950	11065607	142274	97.48	1.28
 News-Commentary	v9.1	News-Commentary	v14	145950	212212	128273	87.88	60.44
 News-Commentary	v9.1	News-Commentary	v16	145950	212206	120048	82.25	56.57
 News-Commentary	v9.1	News-Commentary	v11	145950	177020	102745	70.39	58.04
@@ -15,9 +16,12 @@ News-Commentary	v9.1	EMEA	v3	145950	331060	41	.02	.01
 News-Commentary	v9.1	ELITR-ECA	v1	145950	255266	33	.02	.01
 News-Commentary	v9.1	TED2020	v1	145950	166657	35	.02	.02
 News-Commentary	v9.1	EUconst	v1	145950	6711	35	.02	.52
+News-Commentary	v9.1	LinguaTools-WikiTitles	v2014	145950	4637372	19	.01	0
 News-Commentary	v9.1	XLEnt	v1.1	145950	3667457	26	.01	0
 News-Commentary	v9.1	XLEnt	v1	145950	3667457	26	.01	0
+News-Commentary	v9.1	XLEnt	v1.2	145950	3667457	26	.01	0
 News-Commentary	v9.1	WikiTitles	v3	145950	382830	17	.01	0
+News-Commentary	v9.1	NeuLab-TedTalks	v1	145950	108494	24	.01	.02
 News-Commentary	v9.1	Wikipedia	v1.0	145950	25363	23	.01	.09
 News-Commentary	v9.1	GlobalVoices	v2018q4	145950	18085	15	.01	.08
 News-Commentary	v9.1	GlobalVoices	v2017q3	145950	16647	15	.01	.09
@@ -57,6 +61,7 @@ News-Commentary	v9.1	ELRC-2406-Czech_Supreme_Audit	v1	145950	4771	0	0	0
 News-Commentary	v9.1	ELRC_3382	v1	145950	3720	2	0	.05
 News-Commentary	v9.1	TildeMODEL	v2018	145950	3100	1	0	.03
 News-Commentary	v9.1	ELRC-2405-Czech_Supreme_Audit	v1	145950	2868	0	0	0
+News-Commentary	v9.1	ECDC	v2016-03-16	145950	2475	0	0	0
 News-Commentary	v9.1	ELRC-3463-EC_EUROPA_covid	v1	145950	2386	3	0	.12
 News-Commentary	v9.1	ELRC-EC_EUROPA	v1	145950	2386	3	0	.12
 News-Commentary	v9.1	ELRC-40-Information_Portal_C	v1	145950	1828	0	0	0

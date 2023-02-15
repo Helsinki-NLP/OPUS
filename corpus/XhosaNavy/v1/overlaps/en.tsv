@@ -4,8 +4,11 @@ XhosaNavy	v1	CCAligned	v1	49263	405094222	2184	4.43	0
 XhosaNavy	v1	ParaCrawl	v9	49263	877766608	1949	3.95	0
 XhosaNavy	v1	OpenSubtitles	v2018	49263	102548132	1231	2.49	0
 XhosaNavy	v1	XLEnt	v1.1	49263	53628082	1138	2.31	0
+XhosaNavy	v1	XLEnt	v1.2	49263	53628082	1138	2.31	0
 XhosaNavy	v1	XLEnt	v1	49263	53628082	1138	2.31	0
+XhosaNavy	v1	LinguaTools-WikiTitles	v2014	49263	8265652	1107	2.24	.01
 XhosaNavy	v1	EUbookshop	v2	49263	46038769	856	1.73	0
+XhosaNavy	v1	StanfordNLP-NMT	v1.0	49263	14386355	816	1.65	0
 XhosaNavy	v1	ELRC-4239-NTEU_TierA	v1	49263	11906559	730	1.48	0
 XhosaNavy	v1	ELRC-4268-NTEU_TierA	v1	49263	11782507	666	1.35	0
 XhosaNavy	v1	wikimedia	v20210402	49263	11389460	647	1.31	0
@@ -21,17 +24,21 @@ XhosaNavy	v1	UNPC	v1.0	49263	23776005	482	.97	0
 XhosaNavy	v1	WikiMatrix	v1	49263	47707259	444	.90	0
 XhosaNavy	v1	ELRC-4142-NTEU_TierA	v1	49263	2152367	425	.86	.01
 XhosaNavy	v1	TildeMODEL	v2018	49263	5686357	409	.83	0
+XhosaNavy	v1	Samanantar	v0.2	49263	16891660	399	.80	0
 XhosaNavy	v1	giga-fren	v2	49263	20786998	384	.77	0
 XhosaNavy	v1	CCMatrix	v1	49263	1341614085	365	.74	0
 XhosaNavy	v1	EuroPat	v3	49263	79873063	368	.74	0
 XhosaNavy	v1	EuroPat	v2	49263	70531170	346	.70	0
+XhosaNavy	v1	JParaCrawl	v3.0	49263	22179932	305	.61	0
 XhosaNavy	v1	ELRC-396-Foreign_Affairs_Norw	v1	49263	669717	302	.61	.04
 XhosaNavy	v1	JRC-Acquis	v3.0	49263	1923776	276	.56	.01
 XhosaNavy	v1	OpenSubtitles	v1	49263	1598451	261	.52	.01
 XhosaNavy	v1	Wikipedia	v1.0	49263	7646905	238	.48	0
 XhosaNavy	v1	SciELO	v1	49263	3061142	220	.44	0
 XhosaNavy	v1	wikimedia	v20190628	49263	352711	211	.42	.05
+XhosaNavy	v1	ParIce	v1	49263	1364589	206	.41	.01
 XhosaNavy	v1	EuroPat	v1	49263	22132306	201	.40	0
+XhosaNavy	v1	Anuvaad	v1	49263	1950854	197	.39	.01
 XhosaNavy	v1	SPC	v1	49263	59926	196	.39	.32
 XhosaNavy	v1	EhuHac	v1	49263	596213	180	.36	.03
 XhosaNavy	v1	Joshua-IPC	v1	49263	198174	174	.35	.08
@@ -61,6 +68,9 @@ XhosaNavy	v1	Europarl	v8	49263	2375417	77	.15	0
 XhosaNavy	v1	GlobalVoices	v2017q3	49263	1091521	75	.15	0
 XhosaNavy	v1	ELRC-EMEA	v1	49263	806234	75	.15	0
 XhosaNavy	v1	ELRC_2682	v1	49263	779183	75	.15	0
+XhosaNavy	v1	Nunavut_Hansard	v3.0.1	49263	744551	76	.15	.01
+XhosaNavy	v1	KFTT	v1.0	49263	433311	78	.15	.01
+XhosaNavy	v1	JESC	v2019-12-05	49263	2377332	70	.14	0
 XhosaNavy	v1	ELRC-1084-Agencia_Tributaria	v1	49263	17477	71	.14	.40
 XhosaNavy	v1	ELRC-2712-EMEA	v1	49263	679015	66	.13	0
 XhosaNavy	v1	ELRC-425-Lithuanian_legislati	v1	49263	126666	66	.13	.05
@@ -172,6 +182,7 @@ XhosaNavy	v1	ELRC-1981-EQF_Referencing_Repo	v1	49263	2088	26	.05	1.24
 XhosaNavy	v1	ELRA-W0174	v1	49263	1565	25	.05	1.59
 XhosaNavy	v1	ELRC-472-Polish_Central_Stati	v1	49263	1565	25	.05	1.59
 XhosaNavy	v1	ELRC-3217-antibiotic	v1	49263	783	29	.05	3.70
+XhosaNavy	v1	NeuLab-TedTalks	v1	49263	279535	21	.04	0
 XhosaNavy	v1	hrenWaC	v1	49263	96103	21	.04	.02
 XhosaNavy	v1	ELRC-www.norden.org	v1	49263	73026	21	.04	.02
 XhosaNavy	v1	ELRA-W0202	v1	49263	64241	23	.04	.03
@@ -581,6 +592,7 @@ XhosaNavy	v1	ELRC-3568-EUR_LEX_covid	v1	49263	21161	3	0	.01
 XhosaNavy	v1	ELRC-1090-German_Foreign_Offic	v1	49263	21092	1	0	0
 XhosaNavy	v1	ELRC-3567-EUR_LEX_covid	v1	49263	20985	3	0	.01
 XhosaNavy	v1	ELRC-3573-EUR_LEX_covid	v1	49263	20671	2	0	0
+XhosaNavy	v1	ALT	v2019	49263	18162	2	0	.01
 XhosaNavy	v1	ELRC-2018-EUIPO_2017	v1	49263	17452	4	0	.02
 XhosaNavy	v1	ELRC-2032-www.turku.fi	v1	49263	17326	4	0	.02
 XhosaNavy	v1	ELRC-2461-press_releases_Forei	v1	49263	15895	0	0	0
@@ -660,6 +672,7 @@ XhosaNavy	v1	ELRC-3502-Coronavirus_Law_Pola	v1	49263	4465	2	0	.04
 XhosaNavy	v1	ELRC-3074-wikipedia_health	v1	49263	4356	2	0	.04
 XhosaNavy	v1	ELRC-3086-wikipedia_health	v1	49263	4262	0	0	0
 XhosaNavy	v1	ELRC-3075-wikipedia_health	v1	49263	4090	1	0	.02
+XhosaNavy	v1	ELRC-5219-COVID_19_Parallel	v1	49263	4040	2	0	.04
 XhosaNavy	v1	ELRC-535-www.nbim.no	v1	49263	4006	3	0	.07
 XhosaNavy	v1	ELRC-893-natmus.dk	v1	49263	3972	1	0	.02
 XhosaNavy	v1	ELRC-562-www.petoro.no	v1	49263	3884	0	0	0
@@ -681,6 +694,7 @@ XhosaNavy	v1	ELRA-W0177	v1	49263	3026	0	0	0
 XhosaNavy	v1	ELRC-475-Polish_Food	v1	49263	3026	0	0	0
 XhosaNavy	v1	ELRC-2638-monumentos_2007	v1	49263	3025	0	0	0
 XhosaNavy	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	49263	3022	0	0	0
+XhosaNavy	v1	ECDC	v2016-03-16	49263	3012	4	0	.13
 XhosaNavy	v1	WMT-News	v2019	49263	3004	0	0	0
 XhosaNavy	v1	ELRC-1240-Austrian_Research_Te	v1	49263	2996	1	0	.03
 XhosaNavy	v1	ELRA-W0180	v1	49263	2961	0	0	0
@@ -981,6 +995,7 @@ XhosaNavy	v1	ELRA-W0253	v1	49263	79	0	0	0
 XhosaNavy	v1	ELRC-873-Development	v1	49263	79	0	0	0
 XhosaNavy	v1	ELRC-2623-Patrimnio_Aores_2006	v1	49263	65	0	0	0
 XhosaNavy	v1	ELRC-Patrimnio_Aores	v1	49263	65	0	0	0
+XhosaNavy	v1	ELRC-5220-Information_crime_vi	v1	49263	53	0	0	0
 XhosaNavy	v1	ELRC-3456-EC_EUROPA_covid	v1	49263	50	0	0	0
 XhosaNavy	v1	ELRC-5141-Preasritis__Choliste	v1	49263	50	0	0	0
 XhosaNavy	v1	ELRC-2537-Lei_20_2008	v1	49263	49	0	0	0

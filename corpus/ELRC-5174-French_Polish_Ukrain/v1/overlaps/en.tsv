@@ -2,11 +2,13 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-5174-French_Polish_Ukrain	v1	ParaCrawl	v9	37533	877766608	12864	34.27	0
 ELRC-5174-French_Polish_Ukrain	v1	CCMatrix	v1	37533	1341614085	11873	31.63	0
 ELRC-5174-French_Polish_Ukrain	v1	Books	v1	37533	235021	7929	21.12	3.37
+ELRC-5174-French_Polish_Ukrain	v1	StanfordNLP-NMT	v1.0	37533	14386355	7213	19.21	.05
 ELRC-5174-French_Polish_Ukrain	v1	MIZAN	v1	37533	1016854	4115	10.96	.40
 ELRC-5174-French_Polish_Ukrain	v1	CCAligned	v1	37533	405094222	2049	5.45	0
 ELRC-5174-French_Polish_Ukrain	v1	EhuHac	v1	37533	596213	1701	4.53	.28
 ELRC-5174-French_Polish_Ukrain	v1	QED	v2.0a	37533	7299297	1502	4.00	.02
 ELRC-5174-French_Polish_Ukrain	v1	OpenSubtitles	v2018	37533	102548132	1301	3.46	0
+ELRC-5174-French_Polish_Ukrain	v1	Samanantar	v0.2	37533	16891660	1270	3.38	0
 ELRC-5174-French_Polish_Ukrain	v1	ChuBiCo	v1	37533	199932	770	2.05	.38
 ELRC-5174-French_Polish_Ukrain	v1	Tatoeba	v2022-03-03	37533	1605560	461	1.22	.02
 ELRC-5174-French_Polish_Ukrain	v1	Tatoeba	v2021-07-22	37533	1497594	446	1.18	.02
@@ -15,6 +17,7 @@ ELRC-5174-French_Polish_Ukrain	v1	Tatoeba	v2020-11-09	37533	1406533	434	1.15	.03
 ELRC-5174-French_Polish_Ukrain	v1	Tatoeba	v2020-05-31	37533	1346260	421	1.12	.03
 ELRC-5174-French_Polish_Ukrain	v1	Tatoeba	v20190709	37533	1212697	391	1.04	.03
 ELRC-5174-French_Polish_Ukrain	v1	OpenSubtitles	v1	37533	1598451	329	.87	.02
+ELRC-5174-French_Polish_Ukrain	v1	JParaCrawl	v3.0	37533	22179932	324	.86	0
 ELRC-5174-French_Polish_Ukrain	v1	WikiMatrix	v1	37533	47707259	312	.83	0
 ELRC-5174-French_Polish_Ukrain	v1	Tatoeba	v2	37533	407821	232	.61	.05
 ELRC-5174-French_Polish_Ukrain	v1	GlobalVoices	v2018q4	37533	1154583	150	.39	.01
@@ -26,14 +29,17 @@ ELRC-5174-French_Polish_Ukrain	v1	GlobalVoices	v2015	37533	954153	135	.35	.01
 ELRC-5174-French_Polish_Ukrain	v1	wikimedia	v20210402	37533	11389460	116	.30	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-4248-NTEU_TierA	v1	37533	12854274	104	.27	0
 ELRC-5174-French_Polish_Ukrain	v1	Wikipedia	v1.0	37533	7646905	102	.27	0
+ELRC-5174-French_Polish_Ukrain	v1	NeuLab-TedTalks	v1	37533	279535	104	.27	.03
 ELRC-5174-French_Polish_Ukrain	v1	GoURMET	v1	37533	1541708	95	.25	0
 ELRC-5174-French_Polish_Ukrain	v1	MontenegrinSubs	v1	37533	59363	91	.24	.15
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-4239-NTEU_TierA	v1	37533	11906559	84	.22	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-4268-NTEU_TierA	v1	37533	11782507	83	.22	0
 ELRC-5174-French_Polish_Ukrain	v1	giga-fren	v2	37533	20786998	78	.20	0
 ELRC-5174-French_Polish_Ukrain	v1	Europarl	v8	37533	2375417	72	.19	0
+ELRC-5174-French_Polish_Ukrain	v1	LinguaTools-WikiTitles	v2014	37533	8265652	60	.15	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-4271-NTEU_TierA	v1	37533	7211577	57	.15	0
 ELRC-5174-French_Polish_Ukrain	v1	SciELO	v1	37533	3061142	60	.15	0
+ELRC-5174-French_Polish_Ukrain	v1	Nunavut_Hansard	v3.0.1	37533	744551	57	.15	0
 ELRC-5174-French_Polish_Ukrain	v1	UNPC	v1.0	37533	23776005	56	.14	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-4270-NTEU_TierA	v1	37533	7252413	54	.14	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-4269-NTEU_TierA	v1	37533	7234848	55	.14	0
@@ -45,6 +51,7 @@ ELRC-5174-French_Polish_Ukrain	v1	TildeMODEL	v2018	37533	5686357	44	.11	0
 ELRC-5174-French_Polish_Ukrain	v1	WikiTitles	v3	37533	2348300	43	.11	0
 ELRC-5174-French_Polish_Ukrain	v1	TED2013	v1.1	37533	192310	41	.10	.02
 ELRC-5174-French_Polish_Ukrain	v1	News-Commentary	v11	37533	362778	36	.09	0
+ELRC-5174-French_Polish_Ukrain	v1	Anuvaad	v1	37533	1950854	31	.08	0
 ELRC-5174-French_Polish_Ukrain	v1	News-Commentary	v9.0	37533	328698	32	.08	0
 ELRC-5174-French_Polish_Ukrain	v1	News-Commentary	v9.1	37533	328698	32	.08	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRA-W0202	v1	37533	64241	28	.07	.04
@@ -52,6 +59,7 @@ ELRC-5174-French_Polish_Ukrain	v1	ELRA-W0214	v1	37533	15469	30	.07	.19
 ELRC-5174-French_Polish_Ukrain	v1	Mozilla-I10n	v1	37533	66158	24	.06	.03
 ELRC-5174-French_Polish_Ukrain	v1	EuroPat	v3	37533	79873063	19	.05	0
 ELRC-5174-French_Polish_Ukrain	v1	XLEnt	v1.1	37533	53628082	22	.05	0
+ELRC-5174-French_Polish_Ukrain	v1	XLEnt	v1.2	37533	53628082	22	.05	0
 ELRC-5174-French_Polish_Ukrain	v1	XLEnt	v1	37533	53628082	22	.05	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-5067-SciPar	v1	37533	9198848	21	.05	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-4142-NTEU_TierA	v1	37533	2152367	22	.05	0
@@ -62,8 +70,11 @@ ELRC-5174-French_Polish_Ukrain	v1	memat	v1	37533	145098	22	.05	.01
 ELRC-5174-French_Polish_Ukrain	v1	Tanzil	v1	37533	137432	20	.05	.01
 ELRC-5174-French_Polish_Ukrain	v1	ELRA-W0241	v1	37533	58524	19	.05	.03
 ELRC-5174-French_Polish_Ukrain	v1	EuroPat	v2	37533	70531170	17	.04	0
+ELRC-5174-French_Polish_Ukrain	v1	JESC	v2019-12-05	37533	2377332	16	.04	0
 ELRC-5174-French_Polish_Ukrain	v1	EuroPat	v1	37533	22132306	12	.03	0
 ELRC-5174-French_Polish_Ukrain	v1	JRC-Acquis	v3.0	37533	1923776	14	.03	0
+ELRC-5174-French_Polish_Ukrain	v1	ParIce	v1	37533	1364589	15	.03	0
+ELRC-5174-French_Polish_Ukrain	v1	KFTT	v1.0	37533	433311	13	.03	0
 ELRC-5174-French_Polish_Ukrain	v1	SETIMES	v2	37533	242565	12	.03	0
 ELRC-5174-French_Polish_Ukrain	v1	Joshua-IPC	v1	37533	198174	13	.03	0
 ELRC-5174-French_Polish_Ukrain	v1	KDE4	v2	37533	190475	13	.03	0
@@ -299,6 +310,7 @@ ELRC-5174-French_Polish_Ukrain	v1	ELRC-1992-Rural_Development_Pr	v1	37533	4274	7
 ELRC-5174-French_Polish_Ukrain	v1	ELRA-W0206	v1	37533	4123	7	.01	.16
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-654-Romanian_Ombudsman_a	v1	37533	4123	7	.01	.16
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-621-Federal_Constitution	v1	37533	4109	4	.01	.09
+ELRC-5174-French_Polish_Ukrain	v1	ELRC-5219-COVID_19_Parallel	v1	37533	4040	5	.01	.12
 ELRC-5174-French_Polish_Ukrain	v1	ELRA-W0247	v1	37533	3929	7	.01	.17
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-858-Export_Promotion_Por	v1	37533	3929	7	.01	.17
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-1815-EIR_Newsletter	v1	37533	3807	6	.01	.15
@@ -545,6 +557,7 @@ ELRC-5174-French_Polish_Ukrain	v1	ELRC-1090-German_Foreign_Offic	v1	37533	21092	
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-3567-EUR_LEX_covid	v1	37533	20985	1	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-3573-EUR_LEX_covid	v1	37533	20671	1	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-www.turku.fi	v1	37533	20217	3	0	.01
+ELRC-5174-French_Polish_Ukrain	v1	ALT	v2019	37533	18162	2	0	.01
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-2018-EUIPO_2017	v1	37533	17452	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-2023-EUIPO_2017	v1	37533	17331	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-2032-www.turku.fi	v1	37533	17326	3	0	.01
@@ -665,6 +678,7 @@ ELRC-5174-French_Polish_Ukrain	v1	ELRA-W0177	v1	37533	3026	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-475-Polish_Food	v1	37533	3026	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-2638-monumentos_2007	v1	37533	3025	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	37533	3022	1	0	.03
+ELRC-5174-French_Polish_Ukrain	v1	ECDC	v2016-03-16	37533	3012	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	WMT-News	v2019	37533	3004	2	0	.06
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-573-www.responsiblebusin	v1	37533	3000	2	0	.06
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-1240-Austrian_Research_Te	v1	37533	2996	0	0	0
@@ -966,6 +980,7 @@ ELRC-5174-French_Polish_Ukrain	v1	ELRA-W0253	v1	37533	79	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-873-Development	v1	37533	79	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-2623-Patrimnio_Aores_2006	v1	37533	65	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-Patrimnio_Aores	v1	37533	65	0	0	0
+ELRC-5174-French_Polish_Ukrain	v1	ELRC-5220-Information_crime_vi	v1	37533	53	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-3456-EC_EUROPA_covid	v1	37533	50	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-5141-Preasritis__Choliste	v1	37533	50	0	0	0
 ELRC-5174-French_Polish_Ukrain	v1	ELRC-2537-Lei_20_2008	v1	37533	49	0	0	0

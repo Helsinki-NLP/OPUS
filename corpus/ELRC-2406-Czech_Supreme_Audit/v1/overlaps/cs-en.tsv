@@ -1,10 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2406-Czech_Supreme_Audit	v1	ParaCrawl	v9	4771	50632491	2393	50.15	0
 ELRC-2406-Czech_Supreme_Audit	v1	CCMatrix	v1	4771	55956324	131	2.74	0
+ELRC-2406-Czech_Supreme_Audit	v1	LinguaTools-WikiTitles	v2014	4771	4637372	2	.04	0
 ELRC-2406-Czech_Supreme_Audit	v1	XLEnt	v1.1	4771	3667457	2	.04	0
+ELRC-2406-Czech_Supreme_Audit	v1	XLEnt	v1.2	4771	3667457	2	.04	0
 ELRC-2406-Czech_Supreme_Audit	v1	XLEnt	v1	4771	3667457	2	.04	0
 ELRC-2406-Czech_Supreme_Audit	v1	WikiTitles	v3	4771	382830	2	.04	0
 ELRC-2406-Czech_Supreme_Audit	v1	CCAligned	v1	4771	12660340	1	.02	0
+ELRC-2406-Czech_Supreme_Audit	v1	StanfordNLP-NMT	v1.0	4771	11065607	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-5067-SciPar	v1	4771	1064385	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-2713-EMEA	v1	4771	771908	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-EMEA	v1	4771	771908	1	.02	0
@@ -13,6 +16,7 @@ ELRC-2406-Czech_Supreme_Audit	v1	ELITR-ECA	v1	4771	255266	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	News-Commentary	v14	4771	212212	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	News-Commentary	v16	4771	212206	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	TED2020	v1	4771	166657	1	.02	0
+ELRC-2406-Czech_Supreme_Audit	v1	NeuLab-TedTalks	v1	4771	108494	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	wikimedia	v20210402	4771	96741	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	Tatoeba	v2022-03-03	4771	31506	1	.02	0
 ELRC-2406-Czech_Supreme_Audit	v1	Tatoeba	v2021-07-22	4771	30011	1	.02	0
@@ -29,6 +33,7 @@ ELRC-2406-Czech_Supreme_Audit	v1	ELRC-427-Electronic_Exchange_	v1	4771	10075	1	.
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-3605-presscorner_covid	v1	4771	6225	1	.02	.01
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-presscorner_covid	v1	4771	6225	1	.02	.01
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-2405-Czech_Supreme_Audit	v1	4771	2868	1	.02	.03
+ELRC-2406-Czech_Supreme_Audit	v1	ECDC	v2016-03-16	4771	2475	1	.02	.04
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-3463-EC_EUROPA_covid	v1	4771	2386	1	.02	.04
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-EC_EUROPA	v1	4771	2386	1	.02	.04
 ELRC-2406-Czech_Supreme_Audit	v1	ELRC-40-Information_Portal_C	v1	4771	1828	1	.02	.05

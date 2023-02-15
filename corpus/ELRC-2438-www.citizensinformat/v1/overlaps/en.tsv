@@ -1,6 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2438-www.citizensinformat	v1	CCAligned	v1	6605	405094222	241	3.64	0
 ELRC-2438-www.citizensinformat	v1	ParaCrawl	v9	6605	877766608	186	2.81	0
+ELRC-2438-www.citizensinformat	v1	LinguaTools-WikiTitles	v2014	6605	8265652	124	1.87	0
 ELRC-2438-www.citizensinformat	v1	ELRC-4248-NTEU_TierA	v1	6605	12854274	120	1.81	0
 ELRC-2438-www.citizensinformat	v1	ELRC-4239-NTEU_TierA	v1	6605	11906559	119	1.80	0
 ELRC-2438-www.citizensinformat	v1	ELRC-4268-NTEU_TierA	v1	6605	11782507	119	1.80	0
@@ -10,20 +11,24 @@ ELRC-2438-www.citizensinformat	v1	ELRC-4271-NTEU_TierA	v1	6605	7211577	96	1.45	0
 ELRC-2438-www.citizensinformat	v1	ELRC-4269-NTEU_TierA	v1	6605	7234848	94	1.42	0
 ELRC-2438-www.citizensinformat	v1	ELRC-4154-NTEU_TierA	v1	6605	7119873	87	1.31	0
 ELRC-2438-www.citizensinformat	v1	XLEnt	v1.1	6605	53628082	84	1.27	0
+ELRC-2438-www.citizensinformat	v1	XLEnt	v1.2	6605	53628082	84	1.27	0
 ELRC-2438-www.citizensinformat	v1	XLEnt	v1	6605	53628082	84	1.27	0
 ELRC-2438-www.citizensinformat	v1	IITB	v2.0	6605	1105433	76	1.15	0
 ELRC-2438-www.citizensinformat	v1	ELRC-4142-NTEU_TierA	v1	6605	2152367	71	1.07	0
 ELRC-2438-www.citizensinformat	v1	EUbookshop	v2	6605	46038769	69	1.04	0
 ELRC-2438-www.citizensinformat	v1	TildeMODEL	v2018	6605	5686357	65	.98	0
+ELRC-2438-www.citizensinformat	v1	StanfordNLP-NMT	v1.0	6605	14386355	64	.96	0
 ELRC-2438-www.citizensinformat	v1	WikiTitles	v3	6605	2348300	47	.71	0
 ELRC-2438-www.citizensinformat	v1	ELRC-396-Foreign_Affairs_Norw	v1	6605	669717	43	.65	0
 ELRC-2438-www.citizensinformat	v1	OpenSubtitles	v2018	6605	102548132	42	.63	0
+ELRC-2438-www.citizensinformat	v1	ParIce	v1	6605	1364589	38	.57	0
 ELRC-2438-www.citizensinformat	v1	CCMatrix	v1	6605	1341614085	36	.54	0
 ELRC-2438-www.citizensinformat	v1	wikimedia	v20210402	6605	11389460	36	.54	0
 ELRC-2438-www.citizensinformat	v1	KDE4	v2	6605	190475	35	.52	.01
 ELRC-2438-www.citizensinformat	v1	giga-fren	v2	6605	20786998	34	.51	0
 ELRC-2438-www.citizensinformat	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	6605	279832	34	.51	.01
 ELRC-2438-www.citizensinformat	v1	JRC-Acquis	v3.0	6605	1923776	33	.49	0
+ELRC-2438-www.citizensinformat	v1	Samanantar	v0.2	6605	16891660	24	.36	0
 ELRC-2438-www.citizensinformat	v1	EMEA	v3	6605	316149	24	.36	0
 ELRC-2438-www.citizensinformat	v1	ELRC-1977-Standard_Norge	v1	6605	120068	24	.36	.01
 ELRC-2438-www.citizensinformat	v1	memat	v1	6605	145098	22	.33	.01
@@ -83,6 +88,8 @@ ELRC-2438-www.citizensinformat	v1	ELRC-5179-acts_Ukrainian	v1	6605	125843	7	.10	
 ELRC-2438-www.citizensinformat	v1	ELRA-W0251	v1	6605	2079	7	.10	.33
 ELRC-2438-www.citizensinformat	v1	ELRC-869-Citizens_Information	v1	6605	2079	7	.10	.33
 ELRC-2438-www.citizensinformat	v1	EuroPat	v1	6605	22132306	6	.09	0
+ELRC-2438-www.citizensinformat	v1	JESC	v2019-12-05	6605	2377332	6	.09	0
+ELRC-2438-www.citizensinformat	v1	Anuvaad	v1	6605	1950854	6	.09	0
 ELRC-2438-www.citizensinformat	v1	GlobalVoices	v2015	6605	954153	6	.09	0
 ELRC-2438-www.citizensinformat	v1	ELRC-government_websites	v1	6605	43383	6	.09	.01
 ELRC-2438-www.citizensinformat	v1	ELRC-www.turku.fi	v1	6605	20217	6	.09	.02
@@ -136,6 +143,7 @@ ELRC-2438-www.citizensinformat	v1	ELRC-784-Coimisineir_Teanga_R	v1	6605	1104	5	.
 ELRC-2438-www.citizensinformat	v1	Europarl	v8	6605	2375417	4	.06	0
 ELRC-2438-www.citizensinformat	v1	OpenSubtitles	v1	6605	1598451	4	.06	0
 ELRC-2438-www.citizensinformat	v1	MIZAN	v1	6605	1016854	4	.06	0
+ELRC-2438-www.citizensinformat	v1	KFTT	v1.0	6605	433311	4	.06	0
 ELRC-2438-www.citizensinformat	v1	ELRC-563-Statoil_energy_compa	v1	6605	54342	4	.06	0
 ELRC-2438-www.citizensinformat	v1	ELRC-vnk.fi	v1	6605	45736	4	.06	0
 ELRC-2438-www.citizensinformat	v1	ELRC-EUIPO_2017	v1	6605	31587	4	.06	.01
@@ -223,6 +231,7 @@ ELRC-2438-www.citizensinformat	v1	ELRC-1787-Press_Releases_PIO	v1	6605	4953	2	.0
 ELRC-2438-www.citizensinformat	v1	ELRC-520-www.hioa.no	v1	6605	4607	2	.03	.04
 ELRC-2438-www.citizensinformat	v1	ELRC-535-www.nbim.no	v1	6605	4006	2	.03	.04
 ELRC-2438-www.citizensinformat	v1	ELRC-1081-Forbruker_Europa	v1	6605	3606	2	.03	.05
+ELRC-2438-www.citizensinformat	v1	ECDC	v2016-03-16	6605	3012	2	.03	.06
 ELRC-2438-www.citizensinformat	v1	ELRA-W0278	v1	6605	2720	2	.03	.07
 ELRC-2438-www.citizensinformat	v1	ELRC-953-Centre_Nuclear_Resea	v1	6605	2720	2	.03	.07
 ELRC-2438-www.citizensinformat	v1	ELRC-609-www.udi.no	v1	6605	2162	2	.03	.09
@@ -233,7 +242,9 @@ ELRC-2438-www.citizensinformat	v1	ELRC-416-Swedish_Social_Secur	v1	6605	963	2	.0
 ELRC-2438-www.citizensinformat	v1	ELRC_416	v1	6605	963	2	.03	.20
 ELRC-2438-www.citizensinformat	v1	ELRA-W0225	v1	6605	431	2	.03	.46
 ELRC-2438-www.citizensinformat	v1	ELRC-785-Compendium_Social_In	v1	6605	431	2	.03	.46
+ELRC-2438-www.citizensinformat	v1	JParaCrawl	v3.0	6605	22179932	1	.01	0
 ELRC-2438-www.citizensinformat	v1	Wikipedia	v1.0	6605	7646905	1	.01	0
+ELRC-2438-www.citizensinformat	v1	Nunavut_Hansard	v3.0.1	6605	744551	1	.01	0
 ELRC-2438-www.citizensinformat	v1	News-Commentary	v16	6605	633326	1	.01	0
 ELRC-2438-www.citizensinformat	v1	EhuHac	v1	6605	596213	1	.01	0
 ELRC-2438-www.citizensinformat	v1	News-Commentary	v14	6605	530397	1	.01	0
@@ -356,6 +367,7 @@ ELRC-2438-www.citizensinformat	v1	TED2020	v1	6605	436417	0	0	0
 ELRC-2438-www.citizensinformat	v1	Tatoeba	v2	6605	407821	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-5183-SciPar_Ukraine	v1	6605	320840	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-CORDIS_Results	v1	6605	288453	0	0	0
+ELRC-2438-www.citizensinformat	v1	NeuLab-TedTalks	v1	6605	279535	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-1122-CORDIS_Results_Brief	v1	6605	259759	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-1123-CORDIS_Results_Brief	v1	6605	252934	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-1126-CORDIS_Results_Brief	v1	6605	242571	0	0	0
@@ -432,6 +444,7 @@ ELRC-2438-www.citizensinformat	v1	ELRC-651-government_websites_	v1	6605	21255	0	
 ELRC-2438-www.citizensinformat	v1	ELRC-3568-EUR_LEX_covid	v1	6605	21161	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-3567-EUR_LEX_covid	v1	6605	20985	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-3573-EUR_LEX_covid	v1	6605	20671	0	0	0
+ELRC-2438-www.citizensinformat	v1	ALT	v2019	6605	18162	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-937-vp1992_2001.presiden	v1	6605	16548	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-411-Bank_Estonia	v1	6605	16387	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-2543-Inteliterm	v1	6605	15569	0	0	0
@@ -543,6 +556,7 @@ ELRC-2438-www.citizensinformat	v1	ELRC-949-Polish_Tourism_Organ	v1	6605	4354	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-1992-Rural_Development_Pr	v1	6605	4274	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-3086-wikipedia_health	v1	6605	4262	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-3075-wikipedia_health	v1	6605	4090	0	0	0
+ELRC-2438-www.citizensinformat	v1	ELRC-5219-COVID_19_Parallel	v1	6605	4040	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-893-natmus.dk	v1	6605	3972	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRA-W0247	v1	6605	3929	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-858-Export_Promotion_Por	v1	6605	3929	0	0	0
@@ -978,6 +992,7 @@ ELRC-2438-www.citizensinformat	v1	ELRA-W0253	v1	6605	79	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-873-Development	v1	6605	79	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-2623-Patrimnio_Aores_2006	v1	6605	65	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-Patrimnio_Aores	v1	6605	65	0	0	0
+ELRC-2438-www.citizensinformat	v1	ELRC-5220-Information_crime_vi	v1	6605	53	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-3456-EC_EUROPA_covid	v1	6605	50	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-5141-Preasritis__Choliste	v1	6605	50	0	0	0
 ELRC-2438-www.citizensinformat	v1	ELRC-2537-Lei_20_2008	v1	6605	49	0	0	0

@@ -10,6 +10,7 @@ ELRC-3073-wikipedia_health	v1	ELRC-3080-wikipedia_health	v1	613	7324	339	55.30	4
 ELRC-3073-wikipedia_health	v1	ELRC-3083-wikipedia_health	v1	613	15108	338	55.13	2.23
 ELRC-3073-wikipedia_health	v1	ELRC-3054-wikipedia_health	v1	613	3206	315	51.38	9.82
 ELRC-3073-wikipedia_health	v1	ELRC-3058-wikipedia_health	v1	613	1878	310	50.57	16.50
+ELRC-3073-wikipedia_health	v1	Samanantar	v0.2	613	16891660	287	46.81	0
 ELRC-3073-wikipedia_health	v1	Wikipedia	v1.0	613	7646905	217	35.39	0
 ELRC-3073-wikipedia_health	v1	ELRC-3041-wikipedia_health	v1	613	745	198	32.30	26.57
 ELRC-3073-wikipedia_health	v1	ELRC-3053-wikipedia_health	v1	613	961	186	30.34	19.35
@@ -56,6 +57,7 @@ ELRC-3073-wikipedia_health	v1	ELRC-3051-wikipedia_health	v1	613	145	4	.65	2.75
 ELRC-3073-wikipedia_health	v1	ELRC-3056-wikipedia_health	v1	613	145	4	.65	2.75
 ELRC-3073-wikipedia_health	v1	EuroPat	v2	613	70531170	3	.48	0
 ELRC-3073-wikipedia_health	v1	giga-fren	v2	613	20786998	3	.48	0
+ELRC-3073-wikipedia_health	v1	StanfordNLP-NMT	v1.0	613	14386355	3	.48	0
 ELRC-3073-wikipedia_health	v1	ELRC-3039-wikipedia_health	v1	613	406	3	.48	.73
 ELRC-3073-wikipedia_health	v1	ELRC-3052-wikipedia_health	v1	613	386	3	.48	.77
 ELRC-3073-wikipedia_health	v1	ELRC-3046-wikipedia_health	v1	613	202	3	.48	1.48
@@ -78,10 +80,13 @@ ELRC-3073-wikipedia_health	v1	TildeMODEL	v2018	613	5686357	1	.16	0
 ELRC-3073-wikipedia_health	v1	SciELO	v1	613	3061142	1	.16	0
 ELRC-3073-wikipedia_health	v1	Europarl	v8	613	2375417	1	.16	0
 ELRC-3073-wikipedia_health	v1	ELRC-4142-NTEU_TierA	v1	613	2152367	1	.16	0
+ELRC-3073-wikipedia_health	v1	Anuvaad	v1	613	1950854	1	.16	0
 ELRC-3073-wikipedia_health	v1	JRC-Acquis	v3.0	613	1923776	1	.16	0
+ELRC-3073-wikipedia_health	v1	ParIce	v1	613	1364589	1	.16	0
 ELRC-3073-wikipedia_health	v1	IITB	v2.0	613	1105433	1	.16	0
 ELRC-3073-wikipedia_health	v1	ELRC-EMEA	v1	613	806234	1	.16	0
 ELRC-3073-wikipedia_health	v1	ELRC_2682	v1	613	779183	1	.16	0
+ELRC-3073-wikipedia_health	v1	Nunavut_Hansard	v3.0.1	613	744551	1	.16	0
 ELRC-3073-wikipedia_health	v1	ELRC-2722-EMEA	v1	613	701635	1	.16	0
 ELRC-3073-wikipedia_health	v1	ELRC-2710-EMEA	v1	613	699854	1	.16	0
 ELRC-3073-wikipedia_health	v1	ELRC-2724-EMEA	v1	613	698758	1	.16	0
@@ -216,8 +221,12 @@ ELRC-3073-wikipedia_health	v1	ELRC-2746-vaccination	v1	613	409	1	.16	.24
 ELRC-3073-wikipedia_health	v1	ELRC-2748-vaccination	v1	613	279	1	.16	.35
 ELRC-3073-wikipedia_health	v1	ELRC-3194-antibiotic	v1	613	166	1	.16	.60
 ELRC-3073-wikipedia_health	v1	XLEnt	v1.1	613	53628082	0	0	0
+ELRC-3073-wikipedia_health	v1	XLEnt	v1.2	613	53628082	0	0	0
 ELRC-3073-wikipedia_health	v1	XLEnt	v1	613	53628082	0	0	0
+ELRC-3073-wikipedia_health	v1	JParaCrawl	v3.0	613	22179932	0	0	0
 ELRC-3073-wikipedia_health	v1	MultiUN	v1	613	12514685	0	0	0
+ELRC-3073-wikipedia_health	v1	LinguaTools-WikiTitles	v2014	613	8265652	0	0	0
+ELRC-3073-wikipedia_health	v1	JESC	v2019-12-05	613	2377332	0	0	0
 ELRC-3073-wikipedia_health	v1	WikiTitles	v3	613	2348300	0	0	0
 ELRC-3073-wikipedia_health	v1	Tatoeba	v2022-03-03	613	1605560	0	0	0
 ELRC-3073-wikipedia_health	v1	OpenSubtitles	v1	613	1598451	0	0	0
@@ -236,11 +245,13 @@ ELRC-3073-wikipedia_health	v1	EhuHac	v1	613	596213	0	0	0
 ELRC-3073-wikipedia_health	v1	TEP	v1	613	521471	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-5214-A_Lexicon_Named	v1	613	488887	0	0	0
 ELRC-3073-wikipedia_health	v1	TED2020	v1	613	436417	0	0	0
+ELRC-3073-wikipedia_health	v1	KFTT	v1.0	613	433311	0	0	0
 ELRC-3073-wikipedia_health	v1	Tatoeba	v2	613	407821	0	0	0
 ELRC-3073-wikipedia_health	v1	ECB	v1	613	376581	0	0	0
 ELRC-3073-wikipedia_health	v1	News-Commentary	v11	613	362778	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-5183-SciPar_Ukraine	v1	613	320840	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-CORDIS_Results	v1	613	288453	0	0	0
+ELRC-3073-wikipedia_health	v1	NeuLab-TedTalks	v1	613	279535	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-1122-CORDIS_Results_Brief	v1	613	259759	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-1123-CORDIS_Results_Brief	v1	613	252934	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-1126-CORDIS_Results_Brief	v1	613	242571	0	0	0
@@ -377,6 +388,7 @@ ELRC-3073-wikipedia_health	v1	ELRC-4324-Government_Offices_I	v1	613	18627	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRA-W0273	v1	613	18450	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-943-Journal_Croatian_Ass	v1	613	18450	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-559-www.npd.no	v1	613	18283	0	0	0
+ELRC-3073-wikipedia_health	v1	ALT	v2019	613	18162	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-1178-EUIPO_2017	v1	613	17582	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-1084-Agencia_Tributaria	v1	613	17477	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-2018-EUIPO_2017	v1	613	17452	0	0	0
@@ -556,6 +568,7 @@ ELRC-3073-wikipedia_health	v1	ELRC-1992-Rural_Development_Pr	v1	613	4274	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRA-W0206	v1	613	4123	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-654-Romanian_Ombudsman_a	v1	613	4123	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-621-Federal_Constitution	v1	613	4109	0	0	0
+ELRC-3073-wikipedia_health	v1	ELRC-5219-COVID_19_Parallel	v1	613	4040	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-535-www.nbim.no	v1	613	4006	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-893-natmus.dk	v1	613	3972	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRA-W0247	v1	613	3929	0	0	0
@@ -606,6 +619,7 @@ ELRC-3073-wikipedia_health	v1	ELRA-W0177	v1	613	3026	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-475-Polish_Food	v1	613	3026	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-2638-monumentos_2007	v1	613	3025	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	613	3022	0	0	0
+ELRC-3073-wikipedia_health	v1	ECDC	v2016-03-16	613	3012	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-857-www.trm.dk	v1	613	3011	0	0	0
 ELRC-3073-wikipedia_health	v1	WMT-News	v2019	613	3004	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-573-www.responsiblebusin	v1	613	3000	0	0	0
@@ -963,6 +977,7 @@ ELRC-3073-wikipedia_health	v1	ELRA-W0253	v1	613	79	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-873-Development	v1	613	79	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-2623-Patrimnio_Aores_2006	v1	613	65	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-Patrimnio_Aores	v1	613	65	0	0	0
+ELRC-3073-wikipedia_health	v1	ELRC-5220-Information_crime_vi	v1	613	53	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-3456-EC_EUROPA_covid	v1	613	50	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-5141-Preasritis__Choliste	v1	613	50	0	0	0
 ELRC-3073-wikipedia_health	v1	ELRC-2537-Lei_20_2008	v1	613	49	0	0	0

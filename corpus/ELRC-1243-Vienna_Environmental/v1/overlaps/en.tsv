@@ -2,9 +2,11 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1243-Vienna_Environmental	v1	CCAligned	v1	2257	405094222	42	1.86	0
 ELRC-1243-Vienna_Environmental	v1	ParaCrawl	v9	2257	877766608	32	1.41	0
 ELRC-1243-Vienna_Environmental	v1	XLEnt	v1.1	2257	53628082	30	1.32	0
+ELRC-1243-Vienna_Environmental	v1	XLEnt	v1.2	2257	53628082	30	1.32	0
 ELRC-1243-Vienna_Environmental	v1	XLEnt	v1	2257	53628082	30	1.32	0
 ELRC-1243-Vienna_Environmental	v1	EUbookshop	v2	2257	46038769	21	.93	0
 ELRC-1243-Vienna_Environmental	v1	UNPC	v1.0	2257	23776005	15	.66	0
+ELRC-1243-Vienna_Environmental	v1	LinguaTools-WikiTitles	v2014	2257	8265652	15	.66	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-4239-NTEU_TierA	v1	2257	11906559	12	.53	0
 ELRC-1243-Vienna_Environmental	v1	giga-fren	v2	2257	20786998	11	.48	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-4268-NTEU_TierA	v1	2257	11782507	11	.48	0
@@ -15,16 +17,19 @@ ELRC-1243-Vienna_Environmental	v1	ELRC-4269-NTEU_TierA	v1	2257	7234848	9	.39	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-4271-NTEU_TierA	v1	2257	7211577	9	.39	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-4248-NTEU_TierA	v1	2257	12854274	8	.35	0
 ELRC-1243-Vienna_Environmental	v1	wikimedia	v20210402	2257	11389460	8	.35	0
+ELRC-1243-Vienna_Environmental	v1	Samanantar	v0.2	2257	16891660	7	.31	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-4142-NTEU_TierA	v1	2257	2152367	7	.31	0
 ELRC-1243-Vienna_Environmental	v1	IITB	v2.0	2257	1105433	7	.31	0
 ELRC-1243-Vienna_Environmental	v1	CCMatrix	v1	2257	1341614085	6	.26	0
 ELRC-1243-Vienna_Environmental	v1	WikiTitles	v3	2257	2348300	6	.26	0
 ELRC-1243-Vienna_Environmental	v1	OpenSubtitles	v2018	2257	102548132	5	.22	0
+ELRC-1243-Vienna_Environmental	v1	StanfordNLP-NMT	v1.0	2257	14386355	5	.22	0
 ELRC-1243-Vienna_Environmental	v1	SciELO	v1	2257	3061142	5	.22	0
 ELRC-1243-Vienna_Environmental	v1	JRC-Acquis	v3.0	2257	1923776	5	.22	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-396-Foreign_Affairs_Norw	v1	2257	669717	5	.22	0
 ELRC-1243-Vienna_Environmental	v1	WikiMatrix	v1	2257	47707259	4	.17	0
 ELRC-1243-Vienna_Environmental	v1	QED	v2.0a	2257	7299297	4	.17	0
+ELRC-1243-Vienna_Environmental	v1	ParIce	v1	2257	1364589	4	.17	0
 ELRC-1243-Vienna_Environmental	v1	wikimedia	v20190628	2257	352711	4	.17	0
 ELRC-1243-Vienna_Environmental	v1	Joshua-IPC	v1	2257	198174	4	.17	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-2410-Portal_oficial_turis	v1	2257	185841	4	.17	0
@@ -32,12 +37,15 @@ ELRC-1243-Vienna_Environmental	v1	ELRC-1977-Standard_Norge	v1	2257	120068	4	.17	
 ELRC-1243-Vienna_Environmental	v1	EuroPat	v3	2257	79873063	3	.13	0
 ELRC-1243-Vienna_Environmental	v1	EuroPat	v2	2257	70531170	3	.13	0
 ELRC-1243-Vienna_Environmental	v1	EuroPat	v1	2257	22132306	3	.13	0
+ELRC-1243-Vienna_Environmental	v1	Nunavut_Hansard	v3.0.1	2257	744551	3	.13	0
+ELRC-1243-Vienna_Environmental	v1	KFTT	v1.0	2257	433311	3	.13	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	2257	279832	3	.13	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-518-www.regjeringen.no	v1	2257	142770	3	.13	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-2542-Agriculture	v1	2257	66597	3	.13	0
 ELRC-1243-Vienna_Environmental	v1	Mozilla-I10n	v1	2257	66158	3	.13	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-1805-Norwegian_Bokml_Ames	v1	2257	47595	3	.13	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-725-Hallituskausi_2011_2	v1	2257	31822	3	.13	0
+ELRC-1243-Vienna_Environmental	v1	JParaCrawl	v3.0	2257	22179932	2	.08	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-5067-SciPar	v1	2257	9198848	2	.08	0
 ELRC-1243-Vienna_Environmental	v1	GlobalVoices	v2018q4	2257	1154583	2	.08	0
 ELRC-1243-Vienna_Environmental	v1	GlobalVoices	v2017q3	2257	1091521	2	.08	0
@@ -302,6 +310,8 @@ ELRC-1243-Vienna_Environmental	v1	ELRC-3194-antibiotic	v1	2257	166	1	.04	.60
 ELRC-1243-Vienna_Environmental	v1	ELRC-2474-Marketing_Influncia	v1	2257	113	1	.04	.88
 ELRC-1243-Vienna_Environmental	v1	MultiUN	v1	2257	12514685	0	0	0
 ELRC-1243-Vienna_Environmental	v1	Wikipedia	v1.0	2257	7646905	0	0	0
+ELRC-1243-Vienna_Environmental	v1	JESC	v2019-12-05	2257	2377332	0	0	0
+ELRC-1243-Vienna_Environmental	v1	Anuvaad	v1	2257	1950854	0	0	0
 ELRC-1243-Vienna_Environmental	v1	Tatoeba	v2022-03-03	2257	1605560	0	0	0
 ELRC-1243-Vienna_Environmental	v1	Tatoeba	v2021-07-22	2257	1497594	0	0	0
 ELRC-1243-Vienna_Environmental	v1	Tatoeba	v2021-03-10	2257	1470935	0	0	0
@@ -315,6 +325,7 @@ ELRC-1243-Vienna_Environmental	v1	TED2020	v1	2257	436417	0	0	0
 ELRC-1243-Vienna_Environmental	v1	Tatoeba	v2	2257	407821	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-5183-SciPar_Ukraine	v1	2257	320840	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-CORDIS_Results	v1	2257	288453	0	0	0
+ELRC-1243-Vienna_Environmental	v1	NeuLab-TedTalks	v1	2257	279535	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-1122-CORDIS_Results_Brief	v1	2257	259759	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-1123-CORDIS_Results_Brief	v1	2257	252934	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-1077-EUIPO_law	v1	2257	249932	0	0	0
@@ -404,6 +415,7 @@ ELRC-1243-Vienna_Environmental	v1	ELRC-www.turku.fi	v1	2257	20217	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRA-W0273	v1	2257	18450	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-943-Journal_Croatian_Ass	v1	2257	18450	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-559-www.npd.no	v1	2257	18283	0	0	0
+ELRC-1243-Vienna_Environmental	v1	ALT	v2019	2257	18162	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-2032-www.turku.fi	v1	2257	17326	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-937-vp1992_2001.presiden	v1	2257	16548	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-2461-press_releases_Forei	v1	2257	15895	0	0	0
@@ -555,6 +567,7 @@ ELRC-1243-Vienna_Environmental	v1	ELRC-1992-Rural_Development_Pr	v1	2257	4274	0	
 ELRC-1243-Vienna_Environmental	v1	ELRC-3086-wikipedia_health	v1	2257	4262	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-621-Federal_Constitution	v1	2257	4109	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-3075-wikipedia_health	v1	2257	4090	0	0	0
+ELRC-1243-Vienna_Environmental	v1	ELRC-5219-COVID_19_Parallel	v1	2257	4040	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-535-www.nbim.no	v1	2257	4006	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-893-natmus.dk	v1	2257	3972	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRA-W0247	v1	2257	3929	0	0	0
@@ -598,6 +611,7 @@ ELRC-1243-Vienna_Environmental	v1	ELRA-W0177	v1	2257	3026	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-475-Polish_Food	v1	2257	3026	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-2638-monumentos_2007	v1	2257	3025	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	2257	3022	0	0	0
+ELRC-1243-Vienna_Environmental	v1	ECDC	v2016-03-16	2257	3012	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-857-www.trm.dk	v1	2257	3011	0	0	0
 ELRC-1243-Vienna_Environmental	v1	WMT-News	v2019	2257	3004	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-573-www.responsiblebusin	v1	2257	3000	0	0	0
@@ -978,6 +992,7 @@ ELRC-1243-Vienna_Environmental	v1	ELRA-W0253	v1	2257	79	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-873-Development	v1	2257	79	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-2623-Patrimnio_Aores_2006	v1	2257	65	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-Patrimnio_Aores	v1	2257	65	0	0	0
+ELRC-1243-Vienna_Environmental	v1	ELRC-5220-Information_crime_vi	v1	2257	53	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-3456-EC_EUROPA_covid	v1	2257	50	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-5141-Preasritis__Choliste	v1	2257	50	0	0	0
 ELRC-1243-Vienna_Environmental	v1	ELRC-2537-Lei_20_2008	v1	2257	49	0	0	0

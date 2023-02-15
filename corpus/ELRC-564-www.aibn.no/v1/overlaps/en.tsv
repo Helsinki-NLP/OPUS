@@ -2,7 +2,9 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-564-www.aibn.no	v1	CCMatrix	v1	2764	1341614085	416	15.05	0
 ELRC-564-www.aibn.no	v1	ParaCrawl	v9	2764	877766608	385	13.92	0
 ELRC-564-www.aibn.no	v1	CCAligned	v1	2764	405094222	297	10.74	0
+ELRC-564-www.aibn.no	v1	LinguaTools-WikiTitles	v2014	2764	8265652	158	5.71	0
 ELRC-564-www.aibn.no	v1	XLEnt	v1.1	2764	53628082	150	5.42	0
+ELRC-564-www.aibn.no	v1	XLEnt	v1.2	2764	53628082	150	5.42	0
 ELRC-564-www.aibn.no	v1	XLEnt	v1	2764	53628082	150	5.42	0
 ELRC-564-www.aibn.no	v1	WikiTitles	v3	2764	2348300	93	3.36	0
 ELRC-564-www.aibn.no	v1	ELRC-4239-NTEU_TierA	v1	2764	11906559	83	3.00	0
@@ -14,6 +16,7 @@ ELRC-564-www.aibn.no	v1	UNPC	v1.0	2764	23776005	63	2.27	0
 ELRC-564-www.aibn.no	v1	ELRC-4268-NTEU_TierA	v1	2764	11782507	60	2.17	0
 ELRC-564-www.aibn.no	v1	wikimedia	v20210402	2764	11389460	60	2.17	0
 ELRC-564-www.aibn.no	v1	ELRC-4154-NTEU_TierA	v1	2764	7119873	60	2.17	0
+ELRC-564-www.aibn.no	v1	StanfordNLP-NMT	v1.0	2764	14386355	59	2.13	0
 ELRC-564-www.aibn.no	v1	ELRC-4248-NTEU_TierA	v1	2764	12854274	59	2.13	0
 ELRC-564-www.aibn.no	v1	EUbookshop	v2	2764	46038769	57	2.06	0
 ELRC-564-www.aibn.no	v1	OpenSubtitles	v2018	2764	102548132	46	1.66	0
@@ -29,6 +32,9 @@ ELRC-564-www.aibn.no	v1	WikiMatrix	v1	2764	47707259	28	1.01	0
 ELRC-564-www.aibn.no	v1	JRC-Acquis	v3.0	2764	1923776	27	.97	0
 ELRC-564-www.aibn.no	v1	giga-fren	v2	2764	20786998	25	.90	0
 ELRC-564-www.aibn.no	v1	ELRC-563-Statoil_energy_compa	v1	2764	54342	23	.83	.04
+ELRC-564-www.aibn.no	v1	Samanantar	v0.2	2764	16891660	22	.79	0
+ELRC-564-www.aibn.no	v1	ParIce	v1	2764	1364589	20	.72	0
+ELRC-564-www.aibn.no	v1	Anuvaad	v1	2764	1950854	18	.65	0
 ELRC-564-www.aibn.no	v1	QED	v2.0a	2764	7299297	17	.61	0
 ELRC-564-www.aibn.no	v1	ELRC-2410-Portal_oficial_turis	v1	2764	185841	17	.61	0
 ELRC-564-www.aibn.no	v1	wikimedia	v20190628	2764	352711	13	.47	0
@@ -39,14 +45,17 @@ ELRC-564-www.aibn.no	v1	SPC	v1	2764	59926	11	.39	.01
 ELRC-564-www.aibn.no	v1	Joshua-IPC	v1	2764	198174	10	.36	0
 ELRC-564-www.aibn.no	v1	Mozilla-I10n	v1	2764	66158	10	.36	.01
 ELRC-564-www.aibn.no	v1	ELRC-1061-www.riksrevisjonen.n	v1	2764	52137	10	.36	.01
+ELRC-564-www.aibn.no	v1	KFTT	v1.0	2764	433311	9	.32	0
 ELRC-564-www.aibn.no	v1	ELRC-1805-Norwegian_Bokml_Ames	v1	2764	47595	9	.32	.01
 ELRC-564-www.aibn.no	v1	ELRC-522-KORO_Art_Norway	v1	2764	4658	9	.32	.19
 ELRC-564-www.aibn.no	v1	EuroPat	v3	2764	79873063	8	.28	0
 ELRC-564-www.aibn.no	v1	EuroPat	v2	2764	70531170	8	.28	0
+ELRC-564-www.aibn.no	v1	Nunavut_Hansard	v3.0.1	2764	744551	8	.28	0
 ELRC-564-www.aibn.no	v1	ELRC-518-www.regjeringen.no	v1	2764	142770	8	.28	0
 ELRC-564-www.aibn.no	v1	ELRC-1977-Standard_Norge	v1	2764	120068	8	.28	0
 ELRC-564-www.aibn.no	v1	ELRC-2542-Agriculture	v1	2764	66597	8	.28	.01
 ELRC-564-www.aibn.no	v1	OpenOffice	v2	2764	36009	8	.28	.02
+ELRC-564-www.aibn.no	v1	JParaCrawl	v3.0	2764	22179932	7	.25	0
 ELRC-564-www.aibn.no	v1	SciELO	v1	2764	3061142	7	.25	0
 ELRC-564-www.aibn.no	v1	GlobalVoices	v2018q4	2764	1154583	7	.25	0
 ELRC-564-www.aibn.no	v1	GlobalVoices	v2017q3	2764	1091521	7	.25	0
@@ -113,6 +122,7 @@ ELRC-564-www.aibn.no	v1	ELRC-417-Swedish_Work_Environ	v1	2764	7028	4	.14	.05
 ELRC-564-www.aibn.no	v1	sardware	v1	2764	6144	4	.14	.06
 ELRC-564-www.aibn.no	v1	ELRC-1083-AECOSAN	v1	2764	5917	4	.14	.06
 ELRC-564-www.aibn.no	v1	GNOME	v1	2764	5352	4	.14	.07
+ELRC-564-www.aibn.no	v1	ECDC	v2016-03-16	2764	3012	4	.14	.13
 ELRC-564-www.aibn.no	v1	OpenSubtitles	v1	2764	1598451	3	.10	0
 ELRC-564-www.aibn.no	v1	GoURMET	v1	2764	1541708	3	.10	0
 ELRC-564-www.aibn.no	v1	ELRC-2710-EMEA	v1	2764	699854	3	.10	0
@@ -207,6 +217,7 @@ ELRC-564-www.aibn.no	v1	ELRC-956-Central_Statistical	v1	2764	2649	2	.07	.07
 ELRC-564-www.aibn.no	v1	ELRC-437-Bulgarian_strategic_	v1	2764	2587	2	.07	.07
 ELRC-564-www.aibn.no	v1	ELRC-1981-EQF_Referencing_Repo	v1	2764	2088	2	.07	.09
 ELRC-564-www.aibn.no	v1	ELRC-531-www.usn.no	v1	2764	2041	2	.07	.09
+ELRC-564-www.aibn.no	v1	JESC	v2019-12-05	2764	2377332	1	.03	0
 ELRC-564-www.aibn.no	v1	Tatoeba	v2022-03-03	2764	1605560	1	.03	0
 ELRC-564-www.aibn.no	v1	Tatoeba	v2021-07-22	2764	1497594	1	.03	0
 ELRC-564-www.aibn.no	v1	Tatoeba	v2021-03-10	2764	1470935	1	.03	0
@@ -352,6 +363,7 @@ ELRC-564-www.aibn.no	v1	TED2020	v1	2764	436417	0	0	0
 ELRC-564-www.aibn.no	v1	Tatoeba	v2	2764	407821	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-5183-SciPar_Ukraine	v1	2764	320840	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-CORDIS_Results	v1	2764	288453	0	0	0
+ELRC-564-www.aibn.no	v1	NeuLab-TedTalks	v1	2764	279535	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-1122-CORDIS_Results_Brief	v1	2764	259759	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-1123-CORDIS_Results_Brief	v1	2764	252934	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-1126-CORDIS_Results_Brief	v1	2764	242571	0	0	0
@@ -417,6 +429,7 @@ ELRC-564-www.aibn.no	v1	ELRC-1177-EUIPO_2017	v1	2764	20399	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-1175-EUIPO_2017	v1	2764	20173	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-1180-EUIPO_2017	v1	2764	19862	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-1176-EUIPO_2017	v1	2764	19714	0	0	0
+ELRC-564-www.aibn.no	v1	ALT	v2019	2764	18162	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-1178-EUIPO_2017	v1	2764	17582	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-1174-EUIPO_2017	v1	2764	17211	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-937-vp1992_2001.presiden	v1	2764	16548	0	0	0
@@ -553,6 +566,7 @@ ELRC-564-www.aibn.no	v1	ELRA-W0206	v1	2764	4123	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-654-Romanian_Ombudsman_a	v1	2764	4123	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-621-Federal_Constitution	v1	2764	4109	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-3075-wikipedia_health	v1	2764	4090	0	0	0
+ELRC-564-www.aibn.no	v1	ELRC-5219-COVID_19_Parallel	v1	2764	4040	0	0	0
 ELRC-564-www.aibn.no	v1	ELRA-W0247	v1	2764	3929	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-858-Export_Promotion_Por	v1	2764	3929	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-562-www.petoro.no	v1	2764	3884	0	0	0
@@ -978,6 +992,7 @@ ELRC-564-www.aibn.no	v1	ELRA-W0253	v1	2764	79	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-873-Development	v1	2764	79	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-2623-Patrimnio_Aores_2006	v1	2764	65	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-Patrimnio_Aores	v1	2764	65	0	0	0
+ELRC-564-www.aibn.no	v1	ELRC-5220-Information_crime_vi	v1	2764	53	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-3456-EC_EUROPA_covid	v1	2764	50	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-5141-Preasritis__Choliste	v1	2764	50	0	0	0
 ELRC-564-www.aibn.no	v1	ELRC-2537-Lei_20_2008	v1	2764	49	0	0	0

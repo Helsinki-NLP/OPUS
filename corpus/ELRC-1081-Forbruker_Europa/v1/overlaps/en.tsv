@@ -2,6 +2,7 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1081-Forbruker_Europa	v1	ParaCrawl	v9	3606	877766608	421	11.67	0
 ELRC-1081-Forbruker_Europa	v1	CCAligned	v1	3606	405094222	384	10.64	0
 ELRC-1081-Forbruker_Europa	v1	CCMatrix	v1	3606	1341614085	159	4.40	0
+ELRC-1081-Forbruker_Europa	v1	StanfordNLP-NMT	v1.0	3606	14386355	158	4.38	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-4239-NTEU_TierA	v1	3606	11906559	150	4.15	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-4248-NTEU_TierA	v1	3606	12854274	144	3.99	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-4271-NTEU_TierA	v1	3606	7211577	138	3.82	0
@@ -13,14 +14,17 @@ ELRC-1081-Forbruker_Europa	v1	UNPC	v1.0	3606	23776005	115	3.18	0
 ELRC-1081-Forbruker_Europa	v1	EUbookshop	v2	3606	46038769	113	3.13	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-4154-NTEU_TierA	v1	3606	7119873	111	3.07	0
 ELRC-1081-Forbruker_Europa	v1	XLEnt	v1.1	3606	53628082	105	2.91	0
+ELRC-1081-Forbruker_Europa	v1	XLEnt	v1.2	3606	53628082	105	2.91	0
 ELRC-1081-Forbruker_Europa	v1	XLEnt	v1	3606	53628082	105	2.91	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-4142-NTEU_TierA	v1	3606	2152367	104	2.88	0
 ELRC-1081-Forbruker_Europa	v1	IITB	v2.0	3606	1105433	101	2.80	0
+ELRC-1081-Forbruker_Europa	v1	LinguaTools-WikiTitles	v2014	3606	8265652	100	2.77	0
 ELRC-1081-Forbruker_Europa	v1	Mozilla-I10n	v1	3606	66158	98	2.71	.14
 ELRC-1081-Forbruker_Europa	v1	giga-fren	v2	3606	20786998	94	2.60	0
 ELRC-1081-Forbruker_Europa	v1	TildeMODEL	v2018	3606	5686357	94	2.60	0
 ELRC-1081-Forbruker_Europa	v1	KDE4	v2	3606	190475	88	2.44	.04
 ELRC-1081-Forbruker_Europa	v1	WikiTitles	v3	3606	2348300	78	2.16	0
+ELRC-1081-Forbruker_Europa	v1	Samanantar	v0.2	3606	16891660	74	2.05	0
 ELRC-1081-Forbruker_Europa	v1	wikimedia	v20210402	3606	11389460	70	1.94	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-396-Foreign_Affairs_Norw	v1	3606	669717	66	1.83	0
 ELRC-1081-Forbruker_Europa	v1	SPC	v1	3606	59926	66	1.83	.11
@@ -29,7 +33,9 @@ ELRC-1081-Forbruker_Europa	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	3606	279832	64	1
 ELRC-1081-Forbruker_Europa	v1	QED	v2.0a	3606	7299297	62	1.71	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-1805-Norwegian_Bokml_Ames	v1	3606	47595	57	1.58	.11
 ELRC-1081-Forbruker_Europa	v1	JRC-Acquis	v3.0	3606	1923776	54	1.49	0
+ELRC-1081-Forbruker_Europa	v1	ParIce	v1	3606	1364589	53	1.46	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-4334-Rkiskaup_2020	v1	3606	9805	52	1.44	.53
+ELRC-1081-Forbruker_Europa	v1	JParaCrawl	v3.0	3606	22179932	50	1.38	0
 ELRC-1081-Forbruker_Europa	v1	OpenOffice	v2	3606	36009	42	1.16	.11
 ELRC-1081-Forbruker_Europa	v1	sardware	v1	3606	6144	42	1.16	.68
 ELRC-1081-Forbruker_Europa	v1	EuroPat	v3	3606	79873063	33	.91	0
@@ -72,6 +78,7 @@ ELRC-1081-Forbruker_Europa	v1	ELRC-2709-EMEA	v1	3606	360888	23	.63	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-863-government_websites_	v1	3606	20646	23	.63	.11
 ELRC-1081-Forbruker_Europa	v1	ELRC-1977-Standard_Norge	v1	3606	120068	22	.61	.01
 ELRC-1081-Forbruker_Europa	v1	GNOME	v1	3606	5352	22	.61	.41
+ELRC-1081-Forbruker_Europa	v1	Anuvaad	v1	3606	1950854	21	.58	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-2719-EMEA	v1	3606	516124	21	.58	0
 ELRC-1081-Forbruker_Europa	v1	wikimedia	v20190628	3606	352711	21	.58	0
 ELRC-1081-Forbruker_Europa	v1	GoURMET	v1	3606	1541708	20	.55	0
@@ -80,6 +87,7 @@ ELRC-1081-Forbruker_Europa	v1	GlobalVoices	v2017q3	3606	1091521	18	.49	0
 ELRC-1081-Forbruker_Europa	v1	GlobalVoices	v2015	3606	954153	18	.49	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-534-www.norges_bank.no	v1	3606	71682	18	.49	.02
 ELRC-1081-Forbruker_Europa	v1	MIZAN	v1	3606	1016854	17	.47	0
+ELRC-1081-Forbruker_Europa	v1	KFTT	v1.0	3606	433311	17	.47	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-518-www.regjeringen.no	v1	3606	142770	17	.47	.01
 ELRC-1081-Forbruker_Europa	v1	ELRC-425-Lithuanian_legislati	v1	3606	126666	17	.47	.01
 ELRC-1081-Forbruker_Europa	v1	ELRC-5214-A_Lexicon_Named	v1	3606	488887	16	.44	0
@@ -93,6 +101,7 @@ ELRC-1081-Forbruker_Europa	v1	ELRC-EUIPO_2017	v1	3606	31587	14	.38	.04
 ELRC-1081-Forbruker_Europa	v1	ELRC-annual_reports	v1	3606	18771	14	.38	.07
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0226	v1	3606	11061	14	.38	.12
 ELRC-1081-Forbruker_Europa	v1	ELRC-788-Croatian_Bank	v1	3606	11061	14	.38	.12
+ELRC-1081-Forbruker_Europa	v1	Nunavut_Hansard	v3.0.1	3606	744551	13	.36	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-vnk.fi	v1	3606	45736	13	.36	.02
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0201	v1	3606	35003	13	.36	.03
 ELRC-1081-Forbruker_Europa	v1	ELRC-638-Luxembourg.lu	v1	3606	35003	13	.36	.03
@@ -224,6 +233,7 @@ ELRC-1081-Forbruker_Europa	v1	ELRA-W0137	v1	3606	6024	6	.16	.09
 ELRC-1081-Forbruker_Europa	v1	ELRC-1073-annual_reports_Slova	v1	3606	6024	6	.16	.09
 ELRC-1081-Forbruker_Europa	v1	ELRC-923-chapters_Youth_2010	v1	3606	5730	6	.16	.10
 ELRC-1081-Forbruker_Europa	v1	ELRC-1984-Hellenic_Gaming_Comm	v1	3606	3603	6	.16	.16
+ELRC-1081-Forbruker_Europa	v1	ECDC	v2016-03-16	3606	3012	6	.16	.19
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0259	v1	3606	2824	6	.16	.21
 ELRC-1081-Forbruker_Europa	v1	ELRC-888-Employment_Services_	v1	3606	2824	6	.16	.21
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0279	v1	3606	2649	6	.16	.22
@@ -236,6 +246,7 @@ ELRC-1081-Forbruker_Europa	v1	ELRC-910-Security_Bureau	v1	3606	1285	6	.16	.46
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0284	v1	3606	956	6	.16	.62
 ELRC-1081-Forbruker_Europa	v1	ELRC-968-Digital_Affairs	v1	3606	956	6	.16	.62
 ELRC-1081-Forbruker_Europa	v1	ELRC-EUIPO_law	v1	3606	485617	5	.13	0
+ELRC-1081-Forbruker_Europa	v1	NeuLab-TedTalks	v1	3606	279535	5	.13	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-1077-EUIPO_law	v1	3606	249932	5	.13	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-1076-EUIPO_law	v1	3606	114632	5	.13	0
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0138	v1	3606	90058	5	.13	0
@@ -288,6 +299,7 @@ ELRC-1081-Forbruker_Europa	v1	ELRC-3217-antibiotic	v1	3606	783	5	.13	.63
 ELRC-1081-Forbruker_Europa	v1	ELRC-3203-antibiotic	v1	3606	654	5	.13	.76
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0307	v1	3606	243	5	.13	2.05
 ELRC-1081-Forbruker_Europa	v1	ELRC-646-International_Judici	v1	3606	243	5	.13	2.05
+ELRC-1081-Forbruker_Europa	v1	JESC	v2019-12-05	3606	2377332	4	.11	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-5183-SciPar_Ukraine	v1	3606	320840	4	.11	0
 ELRC-1081-Forbruker_Europa	v1	TED2013	v1.1	3606	192310	4	.11	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-CORDIS_News	v1	3606	149280	4	.11	0
@@ -566,6 +578,7 @@ ELRC-1081-Forbruker_Europa	v1	ELRC_2922	v1	3606	37769	2	.05	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-wikipedia_health	v1	3606	37707	2	.05	0
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0168	v1	3606	26230	2	.05	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-431-Estonian_Foreign_Aff	v1	3606	26230	2	.05	0
+ELRC-1081-Forbruker_Europa	v1	ALT	v2019	3606	18162	2	.05	.01
 ELRC-1081-Forbruker_Europa	v1	ELRA-W0263	v1	3606	13790	2	.05	.01
 ELRC-1081-Forbruker_Europa	v1	ELRC-913-2018_Proposal_a	v1	3606	13790	2	.05	.01
 ELRC-1081-Forbruker_Europa	v1	ELRC-2878-EU_publications_medi	v1	3606	12485	2	.05	.01
@@ -797,6 +810,7 @@ ELRC-1081-Forbruker_Europa	v1	ELRC-3560-EUR_LEX_covid	v1	3606	4508	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-3074-wikipedia_health	v1	3606	4356	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-3086-wikipedia_health	v1	3606	4262	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-3075-wikipedia_health	v1	3606	4090	0	0	0
+ELRC-1081-Forbruker_Europa	v1	ELRC-5219-COVID_19_Parallel	v1	3606	4040	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-893-natmus.dk	v1	3606	3972	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-562-www.petoro.no	v1	3606	3884	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ada83	v1	3606	3874	0	0	0
@@ -983,6 +997,7 @@ ELRC-1081-Forbruker_Europa	v1	ELRA-W0253	v1	3606	79	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-873-Development	v1	3606	79	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-2623-Patrimnio_Aores_2006	v1	3606	65	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-Patrimnio_Aores	v1	3606	65	0	0	0
+ELRC-1081-Forbruker_Europa	v1	ELRC-5220-Information_crime_vi	v1	3606	53	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-3456-EC_EUROPA_covid	v1	3606	50	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-5141-Preasritis__Choliste	v1	3606	50	0	0	0
 ELRC-1081-Forbruker_Europa	v1	ELRC-2537-Lei_20_2008	v1	3606	49	0	0	0

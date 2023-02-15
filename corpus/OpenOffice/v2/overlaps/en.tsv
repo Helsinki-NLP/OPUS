@@ -1,8 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 OpenOffice	v2	ParaCrawl	v9	36009	877766608	3888	10.79	0
 OpenOffice	v2	CCAligned	v1	36009	405094222	3147	8.73	0
+OpenOffice	v2	StanfordNLP-NMT	v1.0	36009	14386355	2377	6.60	.01
 OpenOffice	v2	ELRC-4239-NTEU_TierA	v1	36009	11906559	1843	5.11	.01
 OpenOffice	v2	XLEnt	v1.1	36009	53628082	1824	5.06	0
+OpenOffice	v2	XLEnt	v1.2	36009	53628082	1824	5.06	0
 OpenOffice	v2	XLEnt	v1	36009	53628082	1824	5.06	0
 OpenOffice	v2	ELRC-4271-NTEU_TierA	v1	36009	7211577	1782	4.94	.02
 OpenOffice	v2	ELRC-4268-NTEU_TierA	v1	36009	11782507	1714	4.75	.01
@@ -10,6 +12,7 @@ OpenOffice	v2	ELRC-4270-NTEU_TierA	v1	36009	7252413	1570	4.36	.02
 OpenOffice	v2	IITB	v2.0	36009	1105433	1573	4.36	.14
 OpenOffice	v2	ELRC-4269-NTEU_TierA	v1	36009	7234848	1568	4.35	.02
 OpenOffice	v2	KDE4	v2	36009	190475	1561	4.33	.81
+OpenOffice	v2	LinguaTools-WikiTitles	v2014	36009	8265652	1424	3.95	.01
 OpenOffice	v2	ELRC-4248-NTEU_TierA	v1	36009	12854274	1365	3.79	.01
 OpenOffice	v2	ELRC-4142-NTEU_TierA	v1	36009	2152367	1366	3.79	.06
 OpenOffice	v2	EUbookshop	v2	36009	46038769	1113	3.09	0
@@ -22,8 +25,10 @@ OpenOffice	v2	Mozilla-I10n	v1	36009	66158	782	2.17	1.18
 OpenOffice	v2	wikimedia	v20210402	36009	11389460	781	2.16	0
 OpenOffice	v2	CCMatrix	v1	36009	1341614085	745	2.06	0
 OpenOffice	v2	TildeMODEL	v2018	36009	5686357	698	1.93	.01
+OpenOffice	v2	Samanantar	v0.2	36009	16891660	687	1.90	0
 OpenOffice	v2	giga-fren	v2	36009	20786998	652	1.81	0
 OpenOffice	v2	ELRC-396-Foreign_Affairs_Norw	v1	36009	669717	527	1.46	.07
+OpenOffice	v2	ParIce	v1	36009	1364589	486	1.34	.03
 OpenOffice	v2	QED	v2.0a	36009	7299297	476	1.32	0
 OpenOffice	v2	JRC-Acquis	v3.0	36009	1923776	465	1.29	.02
 OpenOffice	v2	EuroPat	v3	36009	79873063	441	1.22	0
@@ -63,7 +68,9 @@ OpenOffice	v2	ELRC-2707-EMEA	v1	36009	685365	178	.49	.02
 OpenOffice	v2	ELRC-2727-EMEA	v1	36009	680290	180	.49	.02
 OpenOffice	v2	ELRC-2726-EMEA	v1	36009	672813	178	.49	.02
 OpenOffice	v2	ELRC-2706-EMEA	v1	36009	577401	180	.49	.03
+OpenOffice	v2	KFTT	v1.0	36009	433311	178	.49	.04
 OpenOffice	v2	ELRC-2709-EMEA	v1	36009	360888	175	.48	.04
+OpenOffice	v2	JParaCrawl	v3.0	36009	22179932	171	.47	0
 OpenOffice	v2	ELRC-2719-EMEA	v1	36009	516124	171	.47	.03
 OpenOffice	v2	ELRC-5214-A_Lexicon_Named	v1	36009	488887	166	.46	.03
 OpenOffice	v2	ELRC-2718-EMEA	v1	36009	484237	164	.45	.03
@@ -76,6 +83,7 @@ OpenOffice	v2	ELRA-W0243	v1	36009	12537	132	.36	1.05
 OpenOffice	v2	ELRC-842-Quarterly_Reports_Pa	v1	36009	12537	132	.36	1.05
 OpenOffice	v2	ECB	v1	36009	376581	120	.33	.03
 OpenOffice	v2	ELRC-534-www.norges_bank.no	v1	36009	71682	120	.33	.16
+OpenOffice	v2	Anuvaad	v1	36009	1950854	118	.32	0
 OpenOffice	v2	GlobalVoices	v2018q4	36009	1154583	118	.32	.01
 OpenOffice	v2	GlobalVoices	v2017q3	36009	1091521	114	.31	.01
 OpenOffice	v2	ELRC-427-Electronic_Exchange_	v1	36009	9513	114	.31	1.19
@@ -88,6 +96,7 @@ OpenOffice	v2	ELRC-government_websites	v1	36009	43383	87	.24	.20
 OpenOffice	v2	ELRA-W0273	v1	36009	18450	87	.24	.47
 OpenOffice	v2	ELRC-943-Journal_Croatian_Ass	v1	36009	18450	87	.24	.47
 OpenOffice	v2	MIZAN	v1	36009	1016854	84	.23	0
+OpenOffice	v2	Nunavut_Hansard	v3.0.1	36009	744551	86	.23	.01
 OpenOffice	v2	ELRC-Government_Offices	v1	36009	56387	83	.23	.14
 OpenOffice	v2	ELRC-863-government_websites_	v1	36009	20646	84	.23	.40
 OpenOffice	v2	ELRA-W0170	v1	36009	6563	82	.22	1.24
@@ -148,6 +157,7 @@ OpenOffice	v2	ELRC-405-President_Lithuania	v1	36009	9174	41	.11	.44
 OpenOffice	v2	ELRC-1081-Forbruker_Europa	v1	36009	3606	42	.11	1.16
 OpenOffice	v2	ELRC-Ritis_Airgeadais	v1	36009	1256	41	.11	3.26
 OpenOffice	v2	ELRC-2439-Ritis_Airgeadais_Oll	v1	36009	741	41	.11	5.53
+OpenOffice	v2	JESC	v2019-12-05	36009	2377332	37	.10	0
 OpenOffice	v2	ELRC-1077-EUIPO_law	v1	36009	249932	37	.10	.01
 OpenOffice	v2	ELRC-1076-EUIPO_law	v1	36009	114632	39	.10	.03
 OpenOffice	v2	ELRC-1127-www.vtv.fi	v1	36009	41560	37	.10	.08
@@ -195,6 +205,7 @@ OpenOffice	v2	ELRC-www.turku.fi	v1	36009	20217	26	.07	.12
 OpenOffice	v2	ELRC-559-www.npd.no	v1	36009	18283	27	.07	.14
 OpenOffice	v2	ELRC-1984-Hellenic_Gaming_Comm	v1	36009	3603	26	.07	.72
 OpenOffice	v2	ELRC-1060-Information_society	v1	36009	3257	28	.07	.85
+OpenOffice	v2	ECDC	v2016-03-16	36009	3012	26	.07	.86
 OpenOffice	v2	ELRC-386-Statens_Vegvesen	v1	36009	1637	26	.07	1.58
 OpenOffice	v2	ELRC-2498-Plan_Nacional_e	v1	36009	1427	27	.07	1.89
 OpenOffice	v2	ELRC-416-Swedish_Social_Secur	v1	36009	963	26	.07	2.69
@@ -643,6 +654,7 @@ OpenOffice	v2	ELRC-1022-COMPULSORY_EXPROPRIA	v1	36009	42	5	.01	11.90
 OpenOffice	v2	ELRC-2465-Faisnis_faoi_IDS	v1	36009	30	6	.01	20.00
 OpenOffice	v2	MultiUN	v1	36009	12514685	0	0	0
 OpenOffice	v2	ELRC-CORDIS_Results	v1	36009	288453	0	0	0
+OpenOffice	v2	NeuLab-TedTalks	v1	36009	279535	3	0	0
 OpenOffice	v2	ELRC-1122-CORDIS_Results_Brief	v1	36009	259759	0	0	0
 OpenOffice	v2	ELRC-1123-CORDIS_Results_Brief	v1	36009	252934	0	0	0
 OpenOffice	v2	ELRC-1126-CORDIS_Results_Brief	v1	36009	242571	0	0	0
@@ -683,6 +695,7 @@ OpenOffice	v2	ELRC-3559-EUR_LEX_covid	v1	36009	21588	2	0	0
 OpenOffice	v2	ELRC-3568-EUR_LEX_covid	v1	36009	21161	2	0	0
 OpenOffice	v2	ELRC-3567-EUR_LEX_covid	v1	36009	20985	1	0	0
 OpenOffice	v2	ELRC-3573-EUR_LEX_covid	v1	36009	20671	3	0	.01
+OpenOffice	v2	ALT	v2019	36009	18162	2	0	.01
 OpenOffice	v2	ELRC-2461-press_releases_Forei	v1	36009	15895	0	0	0
 OpenOffice	v2	ELRA-W0214	v1	36009	15469	2	0	.01
 OpenOffice	v2	ELRC-3083-wikipedia_health	v1	36009	15108	3	0	.01
@@ -734,6 +747,7 @@ OpenOffice	v2	ELRC-3560-EUR_LEX_covid	v1	36009	4508	1	0	.02
 OpenOffice	v2	ELRC-3074-wikipedia_health	v1	36009	4356	1	0	.02
 OpenOffice	v2	ELRC-3086-wikipedia_health	v1	36009	4262	1	0	.02
 OpenOffice	v2	ELRC-3075-wikipedia_health	v1	36009	4090	1	0	.02
+OpenOffice	v2	ELRC-5219-COVID_19_Parallel	v1	36009	4040	0	0	0
 OpenOffice	v2	ELRC-893-natmus.dk	v1	36009	3972	2	0	.05
 OpenOffice	v2	ELRC-562-www.petoro.no	v1	36009	3884	0	0	0
 OpenOffice	v2	ada83	v1	36009	3874	2	0	.05
@@ -981,6 +995,7 @@ OpenOffice	v2	ELRA-W0253	v1	36009	79	0	0	0
 OpenOffice	v2	ELRC-873-Development	v1	36009	79	0	0	0
 OpenOffice	v2	ELRC-2623-Patrimnio_Aores_2006	v1	36009	65	0	0	0
 OpenOffice	v2	ELRC-Patrimnio_Aores	v1	36009	65	0	0	0
+OpenOffice	v2	ELRC-5220-Information_crime_vi	v1	36009	53	1	0	1.88
 OpenOffice	v2	ELRC-3456-EC_EUROPA_covid	v1	36009	50	2	0	4.00
 OpenOffice	v2	ELRC-5141-Preasritis__Choliste	v1	36009	50	0	0	0
 OpenOffice	v2	ELRC-2537-Lei_20_2008	v1	36009	49	0	0	0

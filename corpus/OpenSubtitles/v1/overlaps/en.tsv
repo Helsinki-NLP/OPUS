@@ -1,8 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 OpenSubtitles	v1	OpenSubtitles	v2018	1598451	102548132	923358	57.76	.90
+OpenSubtitles	v1	StanfordNLP-NMT	v1.0	1598451	14386355	284420	17.79	1.97
 OpenSubtitles	v1	QED	v2.0a	1598451	7299297	105671	6.61	1.44
 OpenSubtitles	v1	ParaCrawl	v9	1598451	877766608	100022	6.25	.01
 OpenSubtitles	v1	CCMatrix	v1	1598451	1341614085	83684	5.23	0
+OpenSubtitles	v1	Samanantar	v0.2	1598451	16891660	76319	4.77	.45
 OpenSubtitles	v1	CCAligned	v1	1598451	405094222	74840	4.68	.01
 OpenSubtitles	v1	Tatoeba	v2022-03-03	1598451	1605560	24222	1.51	1.50
 OpenSubtitles	v1	Tatoeba	v2021-03-10	1598451	1470935	23263	1.45	1.58
@@ -13,6 +15,7 @@ OpenSubtitles	v1	Tatoeba	v20190709	1598451	1212697	20978	1.31	1.72
 OpenSubtitles	v1	Tatoeba	v2	1598451	407821	12406	.77	3.04
 OpenSubtitles	v1	WikiMatrix	v1	1598451	47707259	11083	.69	.02
 OpenSubtitles	v1	MIZAN	v1	1598451	1016854	10633	.66	1.04
+OpenSubtitles	v1	JParaCrawl	v3.0	1598451	22179932	9951	.62	.04
 OpenSubtitles	v1	EUbookshop	v2	1598451	46038769	6338	.39	.01
 OpenSubtitles	v1	MontenegrinSubs	v1	1598451	59363	6088	.38	10.25
 OpenSubtitles	v1	ELRC-4248-NTEU_TierA	v1	1598451	12854274	4099	.25	.03
@@ -26,7 +29,9 @@ OpenSubtitles	v1	EhuHac	v1	1598451	596213	3685	.23	.61
 OpenSubtitles	v1	ELRC-4268-NTEU_TierA	v1	1598451	11782507	3612	.22	.03
 OpenSubtitles	v1	GlobalVoices	v2015	1598451	954153	3428	.21	.35
 OpenSubtitles	v1	giga-fren	v2	1598451	20786998	3164	.19	.01
+OpenSubtitles	v1	LinguaTools-WikiTitles	v2014	1598451	8265652	2929	.18	.03
 OpenSubtitles	v1	Wikipedia	v1.0	1598451	7646905	3014	.18	.03
+OpenSubtitles	v1	NeuLab-TedTalks	v1	1598451	279535	3018	.18	1.07
 OpenSubtitles	v1	UNPC	v1.0	1598451	23776005	2526	.15	.01
 OpenSubtitles	v1	ELRC-4271-NTEU_TierA	v1	1598451	7211577	2464	.15	.03
 OpenSubtitles	v1	Europarl	v8	1598451	2375417	2276	.14	.09
@@ -35,9 +40,11 @@ OpenSubtitles	v1	ELRC-4269-NTEU_TierA	v1	1598451	7234848	2213	.13	.03
 OpenSubtitles	v1	ELRC-4154-NTEU_TierA	v1	1598451	7119873	1920	.12	.02
 OpenSubtitles	v1	XLEnt	v1.1	1598451	53628082	1904	.11	0
 OpenSubtitles	v1	XLEnt	v1	1598451	53628082	1904	.11	0
+OpenSubtitles	v1	XLEnt	v1.2	1598451	53628082	1904	.11	0
 OpenSubtitles	v1	GoURMET	v1	1598451	1541708	1874	.11	.12
 OpenSubtitles	v1	TildeMODEL	v2018	1598451	5686357	1607	.10	.02
 OpenSubtitles	v1	WikiTitles	v3	1598451	2348300	1522	.09	.06
+OpenSubtitles	v1	Nunavut_Hansard	v3.0.1	1598451	744551	1458	.09	.19
 OpenSubtitles	v1	SciELO	v1	1598451	3061142	1302	.08	.04
 OpenSubtitles	v1	ChuBiCo	v1	1598451	199932	1353	.08	.67
 OpenSubtitles	v1	EuroPat	v3	1598451	79873063	1039	.06	0
@@ -45,7 +52,9 @@ OpenSubtitles	v1	EuroPat	v2	1598451	70531170	970	.06	0
 OpenSubtitles	v1	TED2013	v1.1	1598451	192310	992	.06	.51
 OpenSubtitles	v1	TedTalks	v1	1598451	81979	1049	.06	1.27
 OpenSubtitles	v1	ELRA-W0214	v1	1598451	15469	966	.06	6.24
+OpenSubtitles	v1	JESC	v2019-12-05	1598451	2377332	958	.05	.04
 OpenSubtitles	v1	ELRC-4142-NTEU_TierA	v1	1598451	2152367	903	.05	.04
+OpenSubtitles	v1	Anuvaad	v1	1598451	1950854	929	.05	.04
 OpenSubtitles	v1	Books	v1	1598451	235021	921	.05	.39
 OpenSubtitles	v1	News-Commentary	v16	1598451	633326	705	.04	.11
 OpenSubtitles	v1	News-Commentary	v14	1598451	530397	657	.04	.12
@@ -59,6 +68,7 @@ OpenSubtitles	v1	ELRC-2410-Portal_oficial_turis	v1	1598451	185841	632	.03	.34
 OpenSubtitles	v1	memat	v1	1598451	145098	635	.03	.43
 OpenSubtitles	v1	Mozilla-I10n	v1	1598451	66158	558	.03	.84
 OpenSubtitles	v1	EuroPat	v1	1598451	22132306	455	.02	0
+OpenSubtitles	v1	ParIce	v1	1598451	1364589	430	.02	.03
 OpenSubtitles	v1	ELRC-396-Foreign_Affairs_Norw	v1	1598451	669717	400	.02	.05
 OpenSubtitles	v1	ELRC-5214-A_Lexicon_Named	v1	1598451	488887	398	.02	.08
 OpenSubtitles	v1	News-Commentary	v9.0	1598451	328698	443	.02	.13
@@ -94,6 +104,7 @@ OpenSubtitles	v1	ELRC-2717-EMEA	v1	1598451	670422	217	.01	.03
 OpenSubtitles	v1	ELRC-2706-EMEA	v1	1598451	577401	188	.01	.03
 OpenSubtitles	v1	TEP	v1	1598451	521471	272	.01	.05
 OpenSubtitles	v1	ELRC-2718-EMEA	v1	1598451	484237	172	.01	.03
+OpenSubtitles	v1	KFTT	v1.0	1598451	433311	240	.01	.05
 OpenSubtitles	v1	ELRC-2709-EMEA	v1	1598451	360888	176	.01	.04
 OpenSubtitles	v1	EMEA	v3	1598451	316149	247	.01	.07
 OpenSubtitles	v1	XhosaNavy	v1	1598451	49263	261	.01	.52
@@ -250,6 +261,7 @@ OpenSubtitles	v1	ELRC-4324-Government_Offices_I	v1	1598451	18627	38	0	.20
 OpenSubtitles	v1	ELRA-W0273	v1	1598451	18450	31	0	.16
 OpenSubtitles	v1	ELRC-943-Journal_Croatian_Ass	v1	1598451	18450	31	0	.16
 OpenSubtitles	v1	ELRC-559-www.npd.no	v1	1598451	18283	16	0	.08
+OpenSubtitles	v1	ALT	v2019	1598451	18162	6	0	.03
 OpenSubtitles	v1	ELRC-1178-EUIPO_2017	v1	1598451	17582	13	0	.07
 OpenSubtitles	v1	ELRC-1084-Agencia_Tributaria	v1	1598451	17477	72	0	.41
 OpenSubtitles	v1	ELRC-2018-EUIPO_2017	v1	1598451	17452	6	0	.03
@@ -473,6 +485,7 @@ OpenSubtitles	v1	ELRA-W0206	v1	1598451	4123	31	0	.75
 OpenSubtitles	v1	ELRC-654-Romanian_Ombudsman_a	v1	1598451	4123	31	0	.75
 OpenSubtitles	v1	ELRC-621-Federal_Constitution	v1	1598451	4109	9	0	.21
 OpenSubtitles	v1	ELRC-3075-wikipedia_health	v1	1598451	4090	3	0	.07
+OpenSubtitles	v1	ELRC-5219-COVID_19_Parallel	v1	1598451	4040	27	0	.66
 OpenSubtitles	v1	ELRC-535-www.nbim.no	v1	1598451	4006	13	0	.32
 OpenSubtitles	v1	ELRC-893-natmus.dk	v1	1598451	3972	5	0	.12
 OpenSubtitles	v1	ELRA-W0247	v1	1598451	3929	7	0	.17
@@ -525,6 +538,7 @@ OpenSubtitles	v1	ELRA-W0177	v1	1598451	3026	8	0	.26
 OpenSubtitles	v1	ELRC-475-Polish_Food	v1	1598451	3026	8	0	.26
 OpenSubtitles	v1	ELRC-2638-monumentos_2007	v1	1598451	3025	1	0	.03
 OpenSubtitles	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	1598451	3022	18	0	.59
+OpenSubtitles	v1	ECDC	v2016-03-16	1598451	3012	7	0	.23
 OpenSubtitles	v1	ELRC-857-www.trm.dk	v1	1598451	3011	17	0	.56
 OpenSubtitles	v1	WMT-News	v2019	1598451	3004	6	0	.19
 OpenSubtitles	v1	ELRC-573-www.responsiblebusin	v1	1598451	3000	6	0	.20
@@ -978,6 +992,7 @@ OpenSubtitles	v1	ELRA-W0253	v1	1598451	79	0	0	0
 OpenSubtitles	v1	ELRC-873-Development	v1	1598451	79	0	0	0
 OpenSubtitles	v1	ELRC-2623-Patrimnio_Aores_2006	v1	1598451	65	0	0	0
 OpenSubtitles	v1	ELRC-Patrimnio_Aores	v1	1598451	65	0	0	0
+OpenSubtitles	v1	ELRC-5220-Information_crime_vi	v1	1598451	53	1	0	1.88
 OpenSubtitles	v1	ELRC-3456-EC_EUROPA_covid	v1	1598451	50	0	0	0
 OpenSubtitles	v1	ELRC-5141-Preasritis__Choliste	v1	1598451	50	0	0	0
 OpenSubtitles	v1	ELRC-2537-Lei_20_2008	v1	1598451	49	0	0	0

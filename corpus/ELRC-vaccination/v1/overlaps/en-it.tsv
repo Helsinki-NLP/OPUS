@@ -2,11 +2,13 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-vaccination	v1	ELRC-2743-vaccination	v1	494	494	494	100.00	100.00
 ELRC-vaccination	v1	ParaCrawl	v9	494	96975992	4	.80	0
 ELRC-vaccination	v1	CCAligned	v1	494	14341296	3	.60	0
+ELRC-vaccination	v1	LinguaTools-WikiTitles	v2014	494	11048442	3	.60	0
 ELRC-vaccination	v1	TildeMODEL	v2018	494	3693634	3	.60	0
 ELRC-vaccination	v1	ELRC-2710-EMEA	v1	494	771346	3	.60	0
 ELRC-vaccination	v1	ELRC-EMEA	v1	494	771346	3	.60	0
 ELRC-vaccination	v1	CCMatrix	v1	494	145080018	2	.40	0
 ELRC-vaccination	v1	XLEnt	v1.1	494	5645064	2	.40	0
+ELRC-vaccination	v1	XLEnt	v1.2	494	5645064	2	.40	0
 ELRC-vaccination	v1	XLEnt	v1	494	5645064	2	.40	0
 ELRC-vaccination	v1	DGT	v2019	494	3638405	2	.40	0
 ELRC-vaccination	v1	EUbookshop	v2	494	5801342	1	.20	0
@@ -20,6 +22,7 @@ ELRC-vaccination	v1	EMEA	v3	494	352671	1	.20	0
 ELRC-vaccination	v1	wikimedia	v20210402	494	331197	1	.20	0
 ELRC-vaccination	v1	ELRC-1123-CORDIS_Results_Brief	v1	494	252920	1	.20	0
 ELRC-vaccination	v1	ELRC-CORDIS_Results	v1	494	252920	1	.20	0
+ELRC-vaccination	v1	NeuLab-TedTalks	v1	494	212659	1	.20	0
 ELRC-vaccination	v1	GlobalVoices	v2018q4	494	123507	1	.20	0
 ELRC-vaccination	v1	ELRC-1119-CORDIS_News	v1	494	123346	1	.20	0
 ELRC-vaccination	v1	ELRC-CORDIS_News	v1	494	123346	1	.20	0
@@ -39,10 +42,12 @@ ELRC-vaccination	v1	ELRC-2871-EU_publications_medi	v1	494	13048	1	.20	0
 ELRC-vaccination	v1	ELRC-EU_publications	v1	494	13048	1	.20	0
 ELRC-vaccination	v1	ELRC-3602-presscorner_covid	v1	494	6714	1	.20	.01
 ELRC-vaccination	v1	ELRC-presscorner_covid	v1	494	6714	1	.20	.01
+ELRC-vaccination	v1	ELRC-5219-COVID_19_Parallel	v1	494	4056	1	.20	.02
 ELRC-vaccination	v1	ELRC-3054-wikipedia_health	v1	494	3189	1	.20	.03
 ELRC-vaccination	v1	ELRC-wikipedia_health	v1	494	3189	1	.20	.03
 ELRC-vaccination	v1	ELRC-3460-EC_EUROPA_covid	v1	494	2841	1	.20	.03
 ELRC-vaccination	v1	ELRC-EC_EUROPA	v1	494	2841	1	.20	.03
+ELRC-vaccination	v1	ECDC	v2016-03-16	494	2441	1	.20	.04
 ELRC-vaccination	v1	ELRC-3198-antibiotic	v1	494	976	1	.20	.10
 ELRC-vaccination	v1	ELRC-antibiotic	v1	494	976	1	.20	.10
 ELRC-vaccination	v1	ELRC-837-Legal	v1	494	950	1	.20	.10
@@ -54,6 +59,7 @@ ELRC-vaccination	v1	ELRC-844-PAeSI__Administratio	v1	494	279	1	.20	.35
 ELRC-vaccination	v1	ELRC-832-CHARTER_VALUES_CITIZ	v1	494	62	1	.20	1.61
 ELRC-vaccination	v1	ELRC-416-Swedish_Social_Secur	v1	494	56	1	.20	1.78
 ELRC-vaccination	v1	ELRC-403-Rights_Arrested	v1	494	24	1	.20	4.16
+ELRC-vaccination	v1	ELRC-5220-Information_crime_vi	v1	494	16	1	.20	6.25
 ELRC-vaccination	v1	ELRC-Museus_2007	v1	494	9	1	.20	11.11
 ELRC-vaccination	v1	ELRC-2616-Museus_2007	v1	494	5	1	.20	20.00
 ELRC-vaccination	v1	ELRC-2617-Museus_2007_Part2	v1	494	5	1	.20	20.00

@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v16	News-Commentary	v14	212206	212212	201985	95.18	95.18
+News-Commentary	v16	StanfordNLP-NMT	v1.0	212206	11065607	123343	58.12	1.11
 News-Commentary	v16	News-Commentary	v9.0	212206	145950	120048	56.57	82.25
 News-Commentary	v16	News-Commentary	v9.1	212206	145950	120048	56.57	82.25
 News-Commentary	v16	News-Commentary	v11	212206	177020	116307	54.80	65.70
@@ -14,10 +15,13 @@ News-Commentary	v16	JRC-Acquis	v3.0	212206	816159	33	.01	0
 News-Commentary	v16	EMEA	v3	212206	331060	34	.01	.01
 News-Commentary	v16	ELITR-ECA	v1	212206	255266	34	.01	.01
 News-Commentary	v16	TED2020	v1	212206	166657	41	.01	.02
+News-Commentary	v16	NeuLab-TedTalks	v1	212206	108494	27	.01	.02
 News-Commentary	v16	ELRC-427-Electronic_Exchange_	v1	212206	10075	22	.01	.21
 News-Commentary	v16	EUconst	v1	212206	6711	31	.01	.46
+News-Commentary	v16	LinguaTools-WikiTitles	v2014	212206	4637372	9	0	0
 News-Commentary	v16	XLEnt	v1.1	212206	3667457	20	0	0
 News-Commentary	v16	XLEnt	v1	212206	3667457	20	0	0
+News-Commentary	v16	XLEnt	v1.2	212206	3667457	20	0	0
 News-Commentary	v16	DGT	v2019	212206	3659771	9	0	0
 News-Commentary	v16	ELRC-5067-SciPar	v1	212206	1064385	2	0	0
 News-Commentary	v16	ELRC-2713-EMEA	v1	212206	771908	6	0	0
@@ -57,6 +61,7 @@ News-Commentary	v16	ELRC-2406-Czech_Supreme_Audit	v1	212206	4771	1	0	.02
 News-Commentary	v16	ELRC_3382	v1	212206	3720	2	0	.05
 News-Commentary	v16	TildeMODEL	v2018	212206	3100	0	0	0
 News-Commentary	v16	ELRC-2405-Czech_Supreme_Audit	v1	212206	2868	1	0	.03
+News-Commentary	v16	ECDC	v2016-03-16	212206	2475	1	0	.04
 News-Commentary	v16	ELRC-3463-EC_EUROPA_covid	v1	212206	2386	4	0	.16
 News-Commentary	v16	ELRC-EC_EUROPA	v1	212206	2386	4	0	.16
 News-Commentary	v16	ELRC-40-Information_Portal_C	v1	212206	1828	1	0	.05

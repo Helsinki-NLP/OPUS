@@ -2,6 +2,7 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-527-University_Agder	v1	ParaCrawl	v9	1052	877766608	36	3.42	0
 ELRC-527-University_Agder	v1	CCMatrix	v1	1052	1341614085	33	3.13	0
 ELRC-527-University_Agder	v1	CCAligned	v1	1052	405094222	13	1.23	0
+ELRC-527-University_Agder	v1	Samanantar	v0.2	1052	16891660	5	.47	0
 ELRC-527-University_Agder	v1	OpenSubtitles	v2018	1052	102548132	4	.38	0
 ELRC-527-University_Agder	v1	wikimedia	v20210402	1052	11389460	3	.28	0
 ELRC-527-University_Agder	v1	Wikipedia	v1.0	1052	7646905	3	.28	0
@@ -12,17 +13,22 @@ ELRC-527-University_Agder	v1	Tatoeba	v2020-11-09	1052	1406533	3	.28	0
 ELRC-527-University_Agder	v1	Tatoeba	v2020-05-31	1052	1346260	3	.28	0
 ELRC-527-University_Agder	v1	Tatoeba	v20190709	1052	1212697	3	.28	0
 ELRC-527-University_Agder	v1	Tatoeba	v2	1052	407821	3	.28	0
+ELRC-527-University_Agder	v1	StanfordNLP-NMT	v1.0	1052	14386355	2	.19	0
+ELRC-527-University_Agder	v1	KFTT	v1.0	1052	433311	2	.19	0
 ELRC-527-University_Agder	v1	EuroPat	v3	1052	79873063	1	.09	0
 ELRC-527-University_Agder	v1	EuroPat	v2	1052	70531170	1	.09	0
 ELRC-527-University_Agder	v1	XLEnt	v1	1052	53628082	1	.09	0
 ELRC-527-University_Agder	v1	XLEnt	v1.1	1052	53628082	1	.09	0
+ELRC-527-University_Agder	v1	XLEnt	v1.2	1052	53628082	1	.09	0
 ELRC-527-University_Agder	v1	WikiMatrix	v1	1052	47707259	1	.09	0
+ELRC-527-University_Agder	v1	JParaCrawl	v3.0	1052	22179932	1	.09	0
 ELRC-527-University_Agder	v1	EuroPat	v1	1052	22132306	1	.09	0
 ELRC-527-University_Agder	v1	giga-fren	v2	1052	20786998	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-4248-NTEU_TierA	v1	1052	12854274	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-4239-NTEU_TierA	v1	1052	11906559	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-4268-NTEU_TierA	v1	1052	11782507	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-5067-SciPar	v1	1052	9198848	1	.09	0
+ELRC-527-University_Agder	v1	LinguaTools-WikiTitles	v2014	1052	8265652	1	.09	0
 ELRC-527-University_Agder	v1	QED	v2.0a	1052	7299297	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-4270-NTEU_TierA	v1	1052	7252413	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-4269-NTEU_TierA	v1	1052	7234848	1	.09	0
@@ -30,12 +36,15 @@ ELRC-527-University_Agder	v1	ELRC-4271-NTEU_TierA	v1	1052	7211577	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-4154-NTEU_TierA	v1	1052	7119873	1	.09	0
 ELRC-527-University_Agder	v1	TildeMODEL	v2018	1052	5686357	1	.09	0
 ELRC-527-University_Agder	v1	SciELO	v1	1052	3061142	1	.09	0
+ELRC-527-University_Agder	v1	JESC	v2019-12-05	1052	2377332	1	.09	0
 ELRC-527-University_Agder	v1	Europarl	v8	1052	2375417	1	.09	0
 ELRC-527-University_Agder	v1	WikiTitles	v3	1052	2348300	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-4142-NTEU_TierA	v1	1052	2152367	1	.09	0
+ELRC-527-University_Agder	v1	Anuvaad	v1	1052	1950854	1	.09	0
 ELRC-527-University_Agder	v1	JRC-Acquis	v3.0	1052	1923776	1	.09	0
 ELRC-527-University_Agder	v1	OpenSubtitles	v1	1052	1598451	1	.09	0
 ELRC-527-University_Agder	v1	GoURMET	v1	1052	1541708	1	.09	0
+ELRC-527-University_Agder	v1	ParIce	v1	1052	1364589	1	.09	0
 ELRC-527-University_Agder	v1	CAPES	v1	1052	1158123	1	.09	0
 ELRC-527-University_Agder	v1	GlobalVoices	v2018q4	1052	1154583	1	.09	0
 ELRC-527-University_Agder	v1	IITB	v2.0	1052	1105433	1	.09	0
@@ -44,6 +53,7 @@ ELRC-527-University_Agder	v1	MIZAN	v1	1052	1016854	1	.09	0
 ELRC-527-University_Agder	v1	GlobalVoices	v2015	1052	954153	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-EMEA	v1	1052	806234	1	.09	0
 ELRC-527-University_Agder	v1	ELRC_2682	v1	1052	779183	1	.09	0
+ELRC-527-University_Agder	v1	Nunavut_Hansard	v3.0.1	1052	744551	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-2722-EMEA	v1	1052	701635	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-2710-EMEA	v1	1052	699854	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-2724-EMEA	v1	1052	698758	1	.09	0
@@ -197,6 +207,7 @@ ELRC-527-University_Agder	v1	ELRC-4324-Government_Offices_I	v1	1052	18627	1	.09	
 ELRC-527-University_Agder	v1	ELRA-W0273	v1	1052	18450	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-943-Journal_Croatian_Ass	v1	1052	18450	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-559-www.npd.no	v1	1052	18283	1	.09	0
+ELRC-527-University_Agder	v1	ALT	v2019	1052	18162	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-1178-EUIPO_2017	v1	1052	17582	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-1084-Agencia_Tributaria	v1	1052	17477	1	.09	0
 ELRC-527-University_Agder	v1	ELRC-1174-EUIPO_2017	v1	1052	17211	1	.09	0
@@ -514,6 +525,7 @@ ELRC-527-University_Agder	v1	MultiUN	v1	1052	12514685	0	0	0
 ELRC-527-University_Agder	v1	TEP	v1	1052	521471	0	0	0
 ELRC-527-University_Agder	v1	ECB	v1	1052	376581	0	0	0
 ELRC-527-University_Agder	v1	ELRC-CORDIS_Results	v1	1052	288453	0	0	0
+ELRC-527-University_Agder	v1	NeuLab-TedTalks	v1	1052	279535	0	0	0
 ELRC-527-University_Agder	v1	ELRC-1122-CORDIS_Results_Brief	v1	1052	259759	0	0	0
 ELRC-527-University_Agder	v1	ELRC-1123-CORDIS_Results_Brief	v1	1052	252934	0	0	0
 ELRC-527-University_Agder	v1	ELRC-1126-CORDIS_Results_Brief	v1	1052	242571	0	0	0
@@ -671,6 +683,7 @@ ELRC-527-University_Agder	v1	ELRC-3502-Coronavirus_Law_Pola	v1	1052	4465	0	0	0
 ELRC-527-University_Agder	v1	ELRC-3074-wikipedia_health	v1	1052	4356	0	0	0
 ELRC-527-University_Agder	v1	ELRC-3086-wikipedia_health	v1	1052	4262	0	0	0
 ELRC-527-University_Agder	v1	ELRC-3075-wikipedia_health	v1	1052	4090	0	0	0
+ELRC-527-University_Agder	v1	ELRC-5219-COVID_19_Parallel	v1	1052	4040	0	0	0
 ELRC-527-University_Agder	v1	ELRC-893-natmus.dk	v1	1052	3972	0	0	0
 ELRC-527-University_Agder	v1	ELRC-562-www.petoro.no	v1	1052	3884	0	0	0
 ELRC-527-University_Agder	v1	ada83	v1	1052	3874	0	0	0
@@ -690,6 +703,7 @@ ELRC-527-University_Agder	v1	ELRA-W0177	v1	1052	3026	0	0	0
 ELRC-527-University_Agder	v1	ELRC-475-Polish_Food	v1	1052	3026	0	0	0
 ELRC-527-University_Agder	v1	ELRC-2638-monumentos_2007	v1	1052	3025	0	0	0
 ELRC-527-University_Agder	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	1052	3022	0	0	0
+ELRC-527-University_Agder	v1	ECDC	v2016-03-16	1052	3012	0	0	0
 ELRC-527-University_Agder	v1	WMT-News	v2019	1052	3004	0	0	0
 ELRC-527-University_Agder	v1	ELRC-573-www.responsiblebusin	v1	1052	3000	0	0	0
 ELRC-527-University_Agder	v1	ELRC-1240-Austrian_Research_Te	v1	1052	2996	0	0	0
@@ -981,6 +995,7 @@ ELRC-527-University_Agder	v1	ELRA-W0253	v1	1052	79	0	0	0
 ELRC-527-University_Agder	v1	ELRC-873-Development	v1	1052	79	0	0	0
 ELRC-527-University_Agder	v1	ELRC-2623-Patrimnio_Aores_2006	v1	1052	65	0	0	0
 ELRC-527-University_Agder	v1	ELRC-Patrimnio_Aores	v1	1052	65	0	0	0
+ELRC-527-University_Agder	v1	ELRC-5220-Information_crime_vi	v1	1052	53	0	0	0
 ELRC-527-University_Agder	v1	ELRC-3456-EC_EUROPA_covid	v1	1052	50	0	0	0
 ELRC-527-University_Agder	v1	ELRC-5141-Preasritis__Choliste	v1	1052	50	0	0	0
 ELRC-527-University_Agder	v1	ELRC-2537-Lei_20_2008	v1	1052	49	0	0	0

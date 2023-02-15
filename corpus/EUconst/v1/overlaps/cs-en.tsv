@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+EUconst	v1	StanfordNLP-NMT	v1.0	6711	11065607	1527	22.75	.01
 EUconst	v1	EUbookshop	v2	6711	381430	1236	18.41	.32
 EUconst	v1	DGT	v2019	6711	3659771	413	6.15	.01
 EUconst	v1	ParaCrawl	v9	6711	50632491	332	4.94	0
@@ -6,9 +7,11 @@ EUconst	v1	JRC-Acquis	v3.0	6711	816159	323	4.81	.03
 EUconst	v1	CCMatrix	v1	6711	55956324	290	4.32	0
 EUconst	v1	ECB	v1	6711	63677	217	3.23	.34
 EUconst	v1	EMEA	v3	6711	331060	186	2.77	.05
+EUconst	v1	LinguaTools-WikiTitles	v2014	6711	4637372	182	2.71	0
 EUconst	v1	CCAligned	v1	6711	12660340	177	2.63	0
 EUconst	v1	WikiTitles	v3	6711	382830	168	2.50	.04
 EUconst	v1	XLEnt	v1.1	6711	3667457	165	2.45	0
+EUconst	v1	XLEnt	v1.2	6711	3667457	165	2.45	0
 EUconst	v1	XLEnt	v1	6711	3667457	165	2.45	0
 EUconst	v1	ELRC-427-Electronic_Exchange_	v1	6711	10075	106	1.57	1.05
 EUconst	v1	KDE4	v2	6711	112389	96	1.43	.08
@@ -47,6 +50,7 @@ EUconst	v1	ELRC-40-Information_Portal_C	v1	6711	1828	1	.01	.05
 EUconst	v1	ELRC-Information_Portal	v1	6711	1828	1	.01	.05
 EUconst	v1	Tanzil	v1	6711	228637	0	0	0
 EUconst	v1	TED2020	v1	6711	166657	0	0	0
+EUconst	v1	NeuLab-TedTalks	v1	6711	108494	0	0	0
 EUconst	v1	bible-uedin	v1	6711	61625	0	0	0
 EUconst	v1	Tatoeba	v2022-03-03	6711	31506	0	0	0
 EUconst	v1	Tatoeba	v2021-07-22	6711	30011	0	0	0
@@ -59,6 +63,7 @@ EUconst	v1	ELRC-presscorner_covid	v1	6711	6225	0	0	0
 EUconst	v1	ELRC-2406-Czech_Supreme_Audit	v1	6711	4771	0	0	0
 EUconst	v1	ELRC_3382	v1	6711	3720	0	0	0
 EUconst	v1	ELRC-2405-Czech_Supreme_Audit	v1	6711	2868	0	0	0
+EUconst	v1	ECDC	v2016-03-16	6711	2475	0	0	0
 EUconst	v1	ELRC-3463-EC_EUROPA_covid	v1	6711	2386	0	0	0
 EUconst	v1	ELRC-EC_EUROPA	v1	6711	2386	0	0	0
 EUconst	v1	Tatoeba	v2	6711	1456	0	0	0

@@ -2,9 +2,12 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 hrenWaC	v1	ParaCrawl	v9	96103	877766608	8858	9.21	0
 hrenWaC	v1	CCAligned	v1	96103	405094222	6057	6.30	0
 hrenWaC	v1	CCMatrix	v1	96103	1341614085	4943	5.14	0
+hrenWaC	v1	StanfordNLP-NMT	v1.0	96103	14386355	1154	1.20	0
 hrenWaC	v1	GoURMET	v1	96103	1541708	532	.55	.03
 hrenWaC	v1	OpenSubtitles	v2018	96103	102548132	352	.36	0
+hrenWaC	v1	JParaCrawl	v3.0	96103	22179932	273	.28	0
 hrenWaC	v1	WikiMatrix	v1	96103	47707259	229	.23	0
+hrenWaC	v1	Samanantar	v0.2	96103	16891660	214	.22	0
 hrenWaC	v1	QED	v2.0a	96103	7299297	199	.20	0
 hrenWaC	v1	EUbookshop	v2	96103	46038769	139	.14	0
 hrenWaC	v1	giga-fren	v2	96103	20786998	125	.13	0
@@ -44,11 +47,16 @@ hrenWaC	v1	Tatoeba	v2	96103	407821	57	.05	.01
 hrenWaC	v1	ELRC-2410-Portal_oficial_turis	v1	96103	185841	51	.05	.02
 hrenWaC	v1	ELRA-W0204	v1	96103	21255	56	.05	.26
 hrenWaC	v1	ELRC-651-government_websites_	v1	96103	21255	56	.05	.26
+hrenWaC	v1	LinguaTools-WikiTitles	v2014	96103	8265652	42	.04	0
+hrenWaC	v1	Nunavut_Hansard	v3.0.1	96103	744551	41	.04	0
 hrenWaC	v1	News-Commentary	v16	96103	633326	42	.04	0
 hrenWaC	v1	News-Commentary	v14	96103	530397	41	.04	0
 hrenWaC	v1	wikimedia	v20190628	96103	352711	42	.04	.01
+hrenWaC	v1	NeuLab-TedTalks	v1	96103	279535	42	.04	.01
 hrenWaC	v1	EuroPat	v1	96103	22132306	35	.03	0
+hrenWaC	v1	Anuvaad	v1	96103	1950854	37	.03	0
 hrenWaC	v1	JRC-Acquis	v3.0	96103	1923776	38	.03	0
+hrenWaC	v1	ParIce	v1	96103	1364589	31	.03	0
 hrenWaC	v1	News-Commentary	v11	96103	362778	38	.03	.01
 hrenWaC	v1	News-Commentary	v9.0	96103	328698	37	.03	.01
 hrenWaC	v1	News-Commentary	v9.1	96103	328698	37	.03	.01
@@ -64,8 +72,10 @@ hrenWaC	v1	ELRA-W0201	v1	96103	35003	29	.03	.08
 hrenWaC	v1	ELRC-638-Luxembourg.lu	v1	96103	35003	29	.03	.08
 hrenWaC	v1	ELRA-W0131	v1	96103	13492	29	.03	.21
 hrenWaC	v1	ELRC-1015-Croatian_Mine_Action	v1	96103	13492	29	.03	.21
+hrenWaC	v1	JESC	v2019-12-05	96103	2377332	21	.02	0
 hrenWaC	v1	ELRC-396-Foreign_Affairs_Norw	v1	96103	669717	25	.02	0
 hrenWaC	v1	ELRC-EUIPO_law	v1	96103	485617	21	.02	0
+hrenWaC	v1	KFTT	v1.0	96103	433311	28	.02	0
 hrenWaC	v1	EMEA	v3	96103	316149	20	.02	0
 hrenWaC	v1	ELRC-1077-EUIPO_law	v1	96103	249932	20	.02	0
 hrenWaC	v1	SETIMES	v2	96103	242565	24	.02	0
@@ -303,6 +313,7 @@ hrenWaC	v1	ELRC-5125-IRC_Conditions_award	v1	96103	456	18	.01	3.94
 hrenWaC	v1	ELRA-W0307	v1	96103	243	11	.01	4.52
 hrenWaC	v1	ELRC-646-International_Judici	v1	96103	243	11	.01	4.52
 hrenWaC	v1	XLEnt	v1.1	96103	53628082	0	0	0
+hrenWaC	v1	XLEnt	v1.2	96103	53628082	0	0	0
 hrenWaC	v1	XLEnt	v1	96103	53628082	0	0	0
 hrenWaC	v1	MultiUN	v1	96103	12514685	0	0	0
 hrenWaC	v1	CAPES	v1	96103	1158123	8	0	0
@@ -395,6 +406,7 @@ hrenWaC	v1	ELRC-1180-EUIPO_2017	v1	96103	19862	8	0	.04
 hrenWaC	v1	ELRC-1176-EUIPO_2017	v1	96103	19714	8	0	.04
 hrenWaC	v1	ELRC-4324-Government_Offices_I	v1	96103	18627	7	0	.03
 hrenWaC	v1	ELRC-559-www.npd.no	v1	96103	18283	7	0	.03
+hrenWaC	v1	ALT	v2019	96103	18162	3	0	.01
 hrenWaC	v1	ELRC-1178-EUIPO_2017	v1	96103	17582	8	0	.04
 hrenWaC	v1	ELRC-2018-EUIPO_2017	v1	96103	17452	0	0	0
 hrenWaC	v1	ELRC-2023-EUIPO_2017	v1	96103	17331	0	0	0
@@ -547,6 +559,7 @@ hrenWaC	v1	ELRC-3074-wikipedia_health	v1	96103	4356	0	0	0
 hrenWaC	v1	ELRC-3086-wikipedia_health	v1	96103	4262	0	0	0
 hrenWaC	v1	ELRC-621-Federal_Constitution	v1	96103	4109	4	0	.09
 hrenWaC	v1	ELRC-3075-wikipedia_health	v1	96103	4090	0	0	0
+hrenWaC	v1	ELRC-5219-COVID_19_Parallel	v1	96103	4040	2	0	.04
 hrenWaC	v1	ELRC-535-www.nbim.no	v1	96103	4006	3	0	.07
 hrenWaC	v1	ELRC-893-natmus.dk	v1	96103	3972	0	0	0
 hrenWaC	v1	ELRA-W0247	v1	96103	3929	7	0	.17
@@ -583,6 +596,7 @@ hrenWaC	v1	ELRA-W0177	v1	96103	3026	2	0	.06
 hrenWaC	v1	ELRC-475-Polish_Food	v1	96103	3026	2	0	.06
 hrenWaC	v1	ELRC-2638-monumentos_2007	v1	96103	3025	0	0	0
 hrenWaC	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	96103	3022	1	0	.03
+hrenWaC	v1	ECDC	v2016-03-16	96103	3012	0	0	0
 hrenWaC	v1	WMT-News	v2019	96103	3004	0	0	0
 hrenWaC	v1	ELRC-573-www.responsiblebusin	v1	96103	3000	2	0	.06
 hrenWaC	v1	ELRC-1240-Austrian_Research_Te	v1	96103	2996	0	0	0
@@ -963,6 +977,7 @@ hrenWaC	v1	ELRA-W0253	v1	96103	79	0	0	0
 hrenWaC	v1	ELRC-873-Development	v1	96103	79	0	0	0
 hrenWaC	v1	ELRC-2623-Patrimnio_Aores_2006	v1	96103	65	0	0	0
 hrenWaC	v1	ELRC-Patrimnio_Aores	v1	96103	65	0	0	0
+hrenWaC	v1	ELRC-5220-Information_crime_vi	v1	96103	53	0	0	0
 hrenWaC	v1	ELRC-3456-EC_EUROPA_covid	v1	96103	50	0	0	0
 hrenWaC	v1	ELRC-5141-Preasritis__Choliste	v1	96103	50	0	0	0
 hrenWaC	v1	ELRC-2537-Lei_20_2008	v1	96103	49	0	0	0

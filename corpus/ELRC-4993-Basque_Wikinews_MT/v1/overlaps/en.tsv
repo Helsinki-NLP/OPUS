@@ -2,12 +2,18 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-4993-Basque_Wikinews_MT	v1	CCMatrix	v1	1784	1341614085	267	14.96	0
 ELRC-4993-Basque_Wikinews_MT	v1	CCAligned	v1	1784	405094222	118	6.61	0
 ELRC-4993-Basque_Wikinews_MT	v1	ParaCrawl	v9	1784	877766608	112	6.27	0
+ELRC-4993-Basque_Wikinews_MT	v1	ALT	v2019	1784	18162	83	4.65	.45
+ELRC-4993-Basque_Wikinews_MT	v1	Samanantar	v0.2	1784	16891660	76	4.26	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-Official_Parliament	v1	1784	180093	11	.61	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-5181-Official_Parliament_	v1	1784	60789	11	.61	.01
+ELRC-4993-Basque_Wikinews_MT	v1	StanfordNLP-NMT	v1.0	1784	14386355	9	.50	0
 ELRC-4993-Basque_Wikinews_MT	v1	UNPC	v1.0	1784	23776005	7	.39	0
 ELRC-4993-Basque_Wikinews_MT	v1	OpenSubtitles	v2018	1784	102548132	6	.33	0
 ELRC-4993-Basque_Wikinews_MT	v1	WikiMatrix	v1	1784	47707259	5	.28	0
 ELRC-4993-Basque_Wikinews_MT	v1	giga-fren	v2	1784	20786998	5	.28	0
+ELRC-4993-Basque_Wikinews_MT	v1	LinguaTools-WikiTitles	v2014	1784	8265652	4	.22	0
+ELRC-4993-Basque_Wikinews_MT	v1	Nunavut_Hansard	v3.0.1	1784	744551	4	.22	0
+ELRC-4993-Basque_Wikinews_MT	v1	JParaCrawl	v3.0	1784	22179932	3	.16	0
 ELRC-4993-Basque_Wikinews_MT	v1	wikimedia	v20210402	1784	11389460	3	.16	0
 ELRC-4993-Basque_Wikinews_MT	v1	Tatoeba	v2022-03-03	1784	1605560	3	.16	0
 ELRC-4993-Basque_Wikinews_MT	v1	Tatoeba	v2021-07-22	1784	1497594	3	.16	0
@@ -33,6 +39,8 @@ ELRC-4993-Basque_Wikinews_MT	v1	IITB	v2.0	1784	1105433	2	.11	0
 ELRC-4993-Basque_Wikinews_MT	v1	MIZAN	v1	1784	1016854	2	.11	0
 ELRC-4993-Basque_Wikinews_MT	v1	EhuHac	v1	1784	596213	2	.11	0
 ELRC-4993-Basque_Wikinews_MT	v1	TED2020	v1	1784	436417	2	.11	0
+ELRC-4993-Basque_Wikinews_MT	v1	KFTT	v1.0	1784	433311	2	.11	0
+ELRC-4993-Basque_Wikinews_MT	v1	NeuLab-TedTalks	v1	1784	279535	2	.11	0
 ELRC-4993-Basque_Wikinews_MT	v1	TedTalks	v1	1784	81979	2	.11	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRA-W0202	v1	1784	64241	2	.11	0
 ELRC-4993-Basque_Wikinews_MT	v1	MontenegrinSubs	v1	1784	59363	2	.11	0
@@ -63,10 +71,14 @@ ELRC-4993-Basque_Wikinews_MT	v1	EuroPat	v3	1784	79873063	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	EuroPat	v2	1784	70531170	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	XLEnt	v1.1	1784	53628082	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	XLEnt	v1	1784	53628082	0	0	0
+ELRC-4993-Basque_Wikinews_MT	v1	XLEnt	v1.2	1784	53628082	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	EuroPat	v1	1784	22132306	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	MultiUN	v1	1784	12514685	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-5067-SciPar	v1	1784	9198848	0	0	0
+ELRC-4993-Basque_Wikinews_MT	v1	JESC	v2019-12-05	1784	2377332	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-4142-NTEU_TierA	v1	1784	2152367	0	0	0
+ELRC-4993-Basque_Wikinews_MT	v1	Anuvaad	v1	1784	1950854	0	0	0
+ELRC-4993-Basque_Wikinews_MT	v1	ParIce	v1	1784	1364589	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	CAPES	v1	1784	1158123	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-EMEA	v1	1784	806234	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC_2682	v1	1784	779183	0	0	0
@@ -475,6 +487,7 @@ ELRC-4993-Basque_Wikinews_MT	v1	ELRA-W0206	v1	1784	4123	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-654-Romanian_Ombudsman_a	v1	1784	4123	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-621-Federal_Constitution	v1	1784	4109	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-3075-wikipedia_health	v1	1784	4090	0	0	0
+ELRC-4993-Basque_Wikinews_MT	v1	ELRC-5219-COVID_19_Parallel	v1	1784	4040	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-535-www.nbim.no	v1	1784	4006	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-893-natmus.dk	v1	1784	3972	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRA-W0247	v1	1784	3929	0	0	0
@@ -527,6 +540,7 @@ ELRC-4993-Basque_Wikinews_MT	v1	ELRA-W0177	v1	1784	3026	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-475-Polish_Food	v1	1784	3026	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-2638-monumentos_2007	v1	1784	3025	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	1784	3022	0	0	0
+ELRC-4993-Basque_Wikinews_MT	v1	ECDC	v2016-03-16	1784	3012	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-857-www.trm.dk	v1	1784	3011	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	WMT-News	v2019	1784	3004	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-573-www.responsiblebusin	v1	1784	3000	0	0	0
@@ -978,6 +992,7 @@ ELRC-4993-Basque_Wikinews_MT	v1	ELRA-W0253	v1	1784	79	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-873-Development	v1	1784	79	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-2623-Patrimnio_Aores_2006	v1	1784	65	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-Patrimnio_Aores	v1	1784	65	0	0	0
+ELRC-4993-Basque_Wikinews_MT	v1	ELRC-5220-Information_crime_vi	v1	1784	53	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-3456-EC_EUROPA_covid	v1	1784	50	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-5141-Preasritis__Choliste	v1	1784	50	0	0	0
 ELRC-4993-Basque_Wikinews_MT	v1	ELRC-2537-Lei_20_2008	v1	1784	49	0	0	0

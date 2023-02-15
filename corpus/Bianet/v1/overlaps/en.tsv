@@ -2,7 +2,9 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Bianet	v1	ParaCrawl	v9	43553	877766608	1890	4.33	0
 Bianet	v1	CCAligned	v1	43553	405094222	1761	4.04	0
 Bianet	v1	XLEnt	v1.1	43553	53628082	1628	3.73	0
+Bianet	v1	XLEnt	v1.2	43553	53628082	1628	3.73	0
 Bianet	v1	XLEnt	v1	43553	53628082	1628	3.73	0
+Bianet	v1	LinguaTools-WikiTitles	v2014	43553	8265652	1561	3.58	.01
 Bianet	v1	WikiTitles	v3	43553	2348300	1247	2.86	.05
 Bianet	v1	OpenSubtitles	v2018	43553	102548132	938	2.15	0
 Bianet	v1	ELRC-4239-NTEU_TierA	v1	43553	11906559	917	2.10	0
@@ -15,6 +17,8 @@ Bianet	v1	ELRC-4154-NTEU_TierA	v1	43553	7119873	767	1.76	.01
 Bianet	v1	wikimedia	v20210402	43553	11389460	748	1.71	0
 Bianet	v1	TildeMODEL	v2018	43553	5686357	744	1.70	.01
 Bianet	v1	CCMatrix	v1	43553	1341614085	721	1.65	0
+Bianet	v1	StanfordNLP-NMT	v1.0	43553	14386355	673	1.54	0
+Bianet	v1	Samanantar	v0.2	43553	16891660	598	1.37	0
 Bianet	v1	ELRC-4142-NTEU_TierA	v1	43553	2152367	597	1.37	.02
 Bianet	v1	JRC-Acquis	v3.0	43553	1923776	601	1.37	.03
 Bianet	v1	memat	v1	43553	145098	592	1.35	.40
@@ -35,13 +39,17 @@ Bianet	v1	ELRC-563-Statoil_energy_compa	v1	43553	54342	330	.75	.60
 Bianet	v1	EuroPat	v3	43553	79873063	300	.68	0
 Bianet	v1	EuroPat	v2	43553	70531170	288	.66	0
 Bianet	v1	ELRC-396-Foreign_Affairs_Norw	v1	43553	669717	263	.60	.03
+Bianet	v1	Nunavut_Hansard	v3.0.1	43553	744551	250	.57	.03
+Bianet	v1	ParIce	v1	43553	1364589	241	.55	.01
 Bianet	v1	KDE4	v2	43553	190475	242	.55	.12
 Bianet	v1	SPC	v1	43553	59926	231	.53	.38
 Bianet	v1	ELRC-427-Electronic_Exchange_	v1	43553	9513	232	.53	2.43
 Bianet	v1	wikimedia	v20190628	43553	352711	221	.50	.06
+Bianet	v1	JParaCrawl	v3.0	43553	22179932	215	.49	0
 Bianet	v1	GlobalVoices	v2018q4	43553	1154583	211	.48	.01
 Bianet	v1	Wikipedia	v1.0	43553	7646905	208	.47	0
 Bianet	v1	OpenSubtitles	v1	43553	1598451	205	.47	.01
+Bianet	v1	Anuvaad	v1	43553	1950854	192	.44	0
 Bianet	v1	GoURMET	v1	43553	1541708	192	.44	.01
 Bianet	v1	Joshua-IPC	v1	43553	198174	189	.43	.09
 Bianet	v1	EhuHac	v1	43553	596213	184	.42	.03
@@ -56,6 +64,7 @@ Bianet	v1	ELRC-534-www.norges_bank.no	v1	43553	71682	159	.36	.22
 Bianet	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	43553	279832	155	.35	.05
 Bianet	v1	ELRC-904-uk.fm.dk	v1	43553	6700	147	.33	2.19
 Bianet	v1	ELRC-EUIPO_law	v1	43553	485617	138	.31	.02
+Bianet	v1	KFTT	v1.0	43553	433311	139	.31	.03
 Bianet	v1	Mozilla-I10n	v1	43553	66158	135	.30	.20
 Bianet	v1	ELRC-5123-2020_Annual_Report	v1	43553	894	133	.30	14.87
 Bianet	v1	ELRC-5067-SciPar	v1	43553	9198848	127	.29	0
@@ -111,6 +120,7 @@ Bianet	v1	ELRA-W0201	v1	43553	35003	86	.19	.24
 Bianet	v1	ELRC-638-Luxembourg.lu	v1	43553	35003	86	.19	.24
 Bianet	v1	ELRC-4324-Government_Offices_I	v1	43553	18627	83	.19	.44
 Bianet	v1	ELRC-837-Legal	v1	43553	1291	86	.19	6.66
+Bianet	v1	JESC	v2019-12-05	43553	2377332	81	.18	0
 Bianet	v1	Tatoeba	v2021-07-22	43553	1497594	80	.18	0
 Bianet	v1	ELRC-2726-EMEA	v1	43553	672813	82	.18	.01
 Bianet	v1	ELRC-Norwegian_Directorat	v1	43553	2832	82	.18	2.89
@@ -220,6 +230,7 @@ Bianet	v1	ELRA-W0282	v1	43553	1354	32	.07	2.36
 Bianet	v1	ELRC-962-Regional_Development	v1	43553	1354	32	.07	2.36
 Bianet	v1	ELRC-5126-IRC_Early_Career	v1	43553	552	31	.07	5.61
 Bianet	v1	ELRC-5125-IRC_Conditions_award	v1	43553	456	31	.07	6.79
+Bianet	v1	NeuLab-TedTalks	v1	43553	279535	29	.06	.01
 Bianet	v1	ChuBiCo	v1	43553	199932	28	.06	.01
 Bianet	v1	ELRC-www.norden.org	v1	43553	73026	28	.06	.03
 Bianet	v1	ELRC-1772-vnk.fi	v1	43553	33681	27	.06	.08
@@ -643,6 +654,7 @@ Bianet	v1	ELRC-www.visitestonia.com	v1	43553	21337	2	0	0
 Bianet	v1	ELRC-3568-EUR_LEX_covid	v1	43553	21161	4	0	.01
 Bianet	v1	ELRC-3567-EUR_LEX_covid	v1	43553	20985	4	0	.01
 Bianet	v1	ELRC-3573-EUR_LEX_covid	v1	43553	20671	3	0	.01
+Bianet	v1	ALT	v2019	43553	18162	2	0	.01
 Bianet	v1	ELRC-2461-press_releases_Forei	v1	43553	15895	1	0	0
 Bianet	v1	ELRC-3083-wikipedia_health	v1	43553	15108	2	0	.01
 Bianet	v1	ELRA-W0212	v1	43553	14642	4	0	.02
@@ -703,6 +715,7 @@ Bianet	v1	ELRC-3560-EUR_LEX_covid	v1	43553	4508	2	0	.04
 Bianet	v1	ELRC-3074-wikipedia_health	v1	43553	4356	0	0	0
 Bianet	v1	ELRC-3086-wikipedia_health	v1	43553	4262	0	0	0
 Bianet	v1	ELRC-3075-wikipedia_health	v1	43553	4090	1	0	.02
+Bianet	v1	ELRC-5219-COVID_19_Parallel	v1	43553	4040	3	0	.07
 Bianet	v1	ELRC-893-natmus.dk	v1	43553	3972	1	0	.02
 Bianet	v1	ELRC-562-www.petoro.no	v1	43553	3884	0	0	0
 Bianet	v1	ada83	v1	43553	3874	0	0	0
@@ -719,6 +732,7 @@ Bianet	v1	ELRA-W0177	v1	43553	3026	0	0	0
 Bianet	v1	ELRC-475-Polish_Food	v1	43553	3026	0	0	0
 Bianet	v1	ELRC-2638-monumentos_2007	v1	43553	3025	0	0	0
 Bianet	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	43553	3022	2	0	.06
+Bianet	v1	ECDC	v2016-03-16	43553	3012	4	0	.13
 Bianet	v1	WMT-News	v2019	43553	3004	1	0	.03
 Bianet	v1	ELRA-W0180	v1	43553	2961	2	0	.06
 Bianet	v1	ELRC-479-Polish_Food_2	v1	43553	2961	2	0	.06
@@ -981,6 +995,7 @@ Bianet	v1	ELRA-W0253	v1	43553	79	1	0	1.26
 Bianet	v1	ELRC-873-Development	v1	43553	79	1	0	1.26
 Bianet	v1	ELRC-2623-Patrimnio_Aores_2006	v1	43553	65	0	0	0
 Bianet	v1	ELRC-Patrimnio_Aores	v1	43553	65	0	0	0
+Bianet	v1	ELRC-5220-Information_crime_vi	v1	43553	53	1	0	1.88
 Bianet	v1	ELRC-3456-EC_EUROPA_covid	v1	43553	50	0	0	0
 Bianet	v1	ELRC-5141-Preasritis__Choliste	v1	43553	50	0	0	0
 Bianet	v1	ELRC-2537-Lei_20_2008	v1	43553	49	2	0	4.08

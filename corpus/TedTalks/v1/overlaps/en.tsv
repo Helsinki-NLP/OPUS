@@ -2,11 +2,15 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 TedTalks	v1	TED2020	v1	81979	436417	73299	89.41	16.79
 TedTalks	v1	TED2013	v1.1	81979	192310	65785	80.24	34.20
 TedTalks	v1	QED	v2.0a	81979	7299297	65381	79.75	.89
+TedTalks	v1	NeuLab-TedTalks	v1	81979	279535	60540	73.84	21.65
 TedTalks	v1	CCMatrix	v1	81979	1341614085	39307	47.94	0
 TedTalks	v1	ParaCrawl	v9	81979	877766608	32157	39.22	0
+TedTalks	v1	Samanantar	v0.2	81979	16891660	18458	22.51	.10
+TedTalks	v1	StanfordNLP-NMT	v1.0	81979	14386355	16723	20.39	.11
 TedTalks	v1	CCAligned	v1	81979	405094222	5406	6.59	0
 TedTalks	v1	OpenSubtitles	v2018	81979	102548132	3976	4.85	0
 TedTalks	v1	IITB	v2.0	81979	1105433	3754	4.57	.33
+TedTalks	v1	JParaCrawl	v3.0	81979	22179932	2237	2.72	.01
 TedTalks	v1	Tatoeba	v2022-03-03	81979	1605560	1205	1.46	.07
 TedTalks	v1	Tatoeba	v2021-03-10	81979	1470935	1170	1.42	.07
 TedTalks	v1	Tatoeba	v2021-07-22	81979	1497594	1160	1.41	.07
@@ -31,6 +35,7 @@ TedTalks	v1	EhuHac	v1	81979	596213	339	.41	.05
 TedTalks	v1	Europarl	v8	81979	2375417	325	.39	.01
 TedTalks	v1	wikimedia	v20210402	81979	11389460	279	.34	0
 TedTalks	v1	Wikipedia	v1.0	81979	7646905	272	.33	0
+TedTalks	v1	Nunavut_Hansard	v3.0.1	81979	744551	230	.28	.03
 TedTalks	v1	ELRC-4271-NTEU_TierA	v1	81979	7211577	228	.27	0
 TedTalks	v1	UNPC	v1.0	81979	23776005	214	.26	0
 TedTalks	v1	ELRC-4269-NTEU_TierA	v1	81979	7234848	218	.26	0
@@ -41,6 +46,7 @@ TedTalks	v1	TildeMODEL	v2018	81979	5686357	153	.18	0
 TedTalks	v1	ChuBiCo	v1	81979	199932	141	.17	.07
 TedTalks	v1	News-Commentary	v16	81979	633326	136	.16	.02
 TedTalks	v1	News-Commentary	v14	81979	530397	127	.15	.02
+TedTalks	v1	Anuvaad	v1	81979	1950854	109	.13	0
 TedTalks	v1	News-Commentary	v11	81979	362778	114	.13	.03
 TedTalks	v1	Books	v1	81979	235021	103	.12	.04
 TedTalks	v1	News-Commentary	v9.0	81979	328698	96	.11	.02
@@ -48,9 +54,11 @@ TedTalks	v1	News-Commentary	v9.1	81979	328698	96	.11	.02
 TedTalks	v1	ELRA-W0202	v1	81979	64241	76	.09	.11
 TedTalks	v1	ELRA-W0241	v1	81979	58524	77	.09	.13
 TedTalks	v1	ELRC-5067-SciPar	v1	81979	9198848	71	.08	0
+TedTalks	v1	JESC	v2019-12-05	81979	2377332	69	.08	0
 TedTalks	v1	ELRA-W0214	v1	81979	15469	73	.08	.47
 TedTalks	v1	ELRC-4142-NTEU_TierA	v1	81979	2152367	62	.07	0
 TedTalks	v1	ELRC-518-www.regjeringen.no	v1	81979	142770	62	.07	.04
+TedTalks	v1	LinguaTools-WikiTitles	v2014	81979	8265652	53	.06	0
 TedTalks	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	81979	279832	55	.06	.01
 TedTalks	v1	Mozilla-I10n	v1	81979	66158	52	.06	.07
 TedTalks	v1	EuroPat	v3	81979	79873063	48	.05	0
@@ -69,6 +77,7 @@ TedTalks	v1	JRC-Acquis	v3.0	81979	1923776	18	.02	0
 TedTalks	v1	SETIMES	v2	81979	242565	22	.02	0
 TedTalks	v1	pmindia	v1	81979	80655	18	.02	.02
 TedTalks	v1	Bianet	v1	81979	43553	23	.02	.05
+TedTalks	v1	ParIce	v1	81979	1364589	14	.01	0
 TedTalks	v1	ELRC-EMEA	v1	81979	806234	13	.01	0
 TedTalks	v1	ELRC_2682	v1	81979	779183	12	.01	0
 TedTalks	v1	ELRC-2722-EMEA	v1	81979	701635	10	.01	0
@@ -90,6 +99,7 @@ TedTalks	v1	ELRC-2717-EMEA	v1	81979	670422	11	.01	0
 TedTalks	v1	ELRC-396-Foreign_Affairs_Norw	v1	81979	669717	12	.01	0
 TedTalks	v1	ELRC-2706-EMEA	v1	81979	577401	10	.01	0
 TedTalks	v1	ELRC-EUIPO_law	v1	81979	485617	10	.01	0
+TedTalks	v1	KFTT	v1.0	81979	433311	13	.01	0
 TedTalks	v1	EMEA	v3	81979	316149	9	.01	0
 TedTalks	v1	ELRC-CORDIS_News	v1	81979	149280	16	.01	.01
 TedTalks	v1	Tanzil	v1	81979	137432	10	.01	0
@@ -126,6 +136,7 @@ TedTalks	v1	ELRC-491-Romanian_literature	v1	81979	5525	10	.01	.18
 TedTalks	v1	ELRA-W0272	v1	81979	5355	10	.01	.18
 TedTalks	v1	ELRC-936-Prime_Minister_Helle	v1	81979	5355	10	.01	.18
 TedTalks	v1	XLEnt	v1.1	81979	53628082	0	0	0
+TedTalks	v1	XLEnt	v1.2	81979	53628082	0	0	0
 TedTalks	v1	XLEnt	v1	81979	53628082	0	0	0
 TedTalks	v1	MultiUN	v1	81979	12514685	0	0	0
 TedTalks	v1	CAPES	v1	81979	1158123	3	0	0
@@ -265,6 +276,7 @@ TedTalks	v1	ELRC-4324-Government_Offices_I	v1	81979	18627	1	0	0
 TedTalks	v1	ELRA-W0273	v1	81979	18450	4	0	.02
 TedTalks	v1	ELRC-943-Journal_Croatian_Ass	v1	81979	18450	4	0	.02
 TedTalks	v1	ELRC-559-www.npd.no	v1	81979	18283	0	0	0
+TedTalks	v1	ALT	v2019	81979	18162	0	0	0
 TedTalks	v1	ELRC-1178-EUIPO_2017	v1	81979	17582	0	0	0
 TedTalks	v1	ELRC-1084-Agencia_Tributaria	v1	81979	17477	6	0	.03
 TedTalks	v1	ELRC-2018-EUIPO_2017	v1	81979	17452	0	0	0
@@ -473,6 +485,7 @@ TedTalks	v1	ELRA-W0206	v1	81979	4123	5	0	.12
 TedTalks	v1	ELRC-654-Romanian_Ombudsman_a	v1	81979	4123	5	0	.12
 TedTalks	v1	ELRC-621-Federal_Constitution	v1	81979	4109	0	0	0
 TedTalks	v1	ELRC-3075-wikipedia_health	v1	81979	4090	0	0	0
+TedTalks	v1	ELRC-5219-COVID_19_Parallel	v1	81979	4040	7	0	.17
 TedTalks	v1	ELRC-535-www.nbim.no	v1	81979	4006	0	0	0
 TedTalks	v1	ELRC-893-natmus.dk	v1	81979	3972	0	0	0
 TedTalks	v1	ELRA-W0247	v1	81979	3929	0	0	0
@@ -525,6 +538,7 @@ TedTalks	v1	ELRA-W0177	v1	81979	3026	1	0	.03
 TedTalks	v1	ELRC-475-Polish_Food	v1	81979	3026	1	0	.03
 TedTalks	v1	ELRC-2638-monumentos_2007	v1	81979	3025	0	0	0
 TedTalks	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	81979	3022	5	0	.16
+TedTalks	v1	ECDC	v2016-03-16	81979	3012	0	0	0
 TedTalks	v1	ELRC-857-www.trm.dk	v1	81979	3011	4	0	.13
 TedTalks	v1	WMT-News	v2019	81979	3004	4	0	.13
 TedTalks	v1	ELRC-573-www.responsiblebusin	v1	81979	3000	0	0	0
@@ -978,6 +992,7 @@ TedTalks	v1	ELRA-W0253	v1	81979	79	0	0	0
 TedTalks	v1	ELRC-873-Development	v1	81979	79	0	0	0
 TedTalks	v1	ELRC-2623-Patrimnio_Aores_2006	v1	81979	65	0	0	0
 TedTalks	v1	ELRC-Patrimnio_Aores	v1	81979	65	0	0	0
+TedTalks	v1	ELRC-5220-Information_crime_vi	v1	81979	53	0	0	0
 TedTalks	v1	ELRC-3456-EC_EUROPA_covid	v1	81979	50	0	0	0
 TedTalks	v1	ELRC-5141-Preasritis__Choliste	v1	81979	50	0	0	0
 TedTalks	v1	ELRC-2537-Lei_20_2008	v1	81979	49	0	0	0

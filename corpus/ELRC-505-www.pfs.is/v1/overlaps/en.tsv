@@ -2,12 +2,14 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-505-www.pfs.is	v1	ParaCrawl	v9	2908	877766608	27	.92	0
 ELRC-505-www.pfs.is	v1	CCAligned	v1	2908	405094222	20	.68	0
 ELRC-505-www.pfs.is	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	2908	279832	10	.34	0
+ELRC-505-www.pfs.is	v1	Samanantar	v0.2	2908	16891660	9	.30	0
 ELRC-505-www.pfs.is	v1	ELRC-4248-NTEU_TierA	v1	2908	12854274	9	.30	0
 ELRC-505-www.pfs.is	v1	ELRC-4239-NTEU_TierA	v1	2908	11906559	9	.30	0
 ELRC-505-www.pfs.is	v1	ELRC-4268-NTEU_TierA	v1	2908	11782507	9	.30	0
 ELRC-505-www.pfs.is	v1	ELRC-Government_Offices	v1	2908	56387	9	.30	.01
 ELRC-505-www.pfs.is	v1	OpenSubtitles	v2018	2908	102548132	8	.27	0
 ELRC-505-www.pfs.is	v1	EuroPat	v1	2908	22132306	8	.27	0
+ELRC-505-www.pfs.is	v1	LinguaTools-WikiTitles	v2014	2908	8265652	8	.27	0
 ELRC-505-www.pfs.is	v1	QED	v2.0a	2908	7299297	8	.27	0
 ELRC-505-www.pfs.is	v1	ELRC-4269-NTEU_TierA	v1	2908	7234848	8	.27	0
 ELRC-505-www.pfs.is	v1	ELRC-4271-NTEU_TierA	v1	2908	7211577	8	.27	0
@@ -18,13 +20,16 @@ ELRC-505-www.pfs.is	v1	JRC-Acquis	v3.0	2908	1923776	8	.27	0
 ELRC-505-www.pfs.is	v1	IITB	v2.0	2908	1105433	8	.27	0
 ELRC-505-www.pfs.is	v1	EuroPat	v3	2908	79873063	7	.24	0
 ELRC-505-www.pfs.is	v1	EuroPat	v2	2908	70531170	7	.24	0
+ELRC-505-www.pfs.is	v1	JParaCrawl	v3.0	2908	22179932	7	.24	0
 ELRC-505-www.pfs.is	v1	giga-fren	v2	2908	20786998	7	.24	0
+ELRC-505-www.pfs.is	v1	StanfordNLP-NMT	v1.0	2908	14386355	7	.24	0
 ELRC-505-www.pfs.is	v1	wikimedia	v20210402	2908	11389460	7	.24	0
 ELRC-505-www.pfs.is	v1	ELRC-5067-SciPar	v1	2908	9198848	7	.24	0
 ELRC-505-www.pfs.is	v1	Wikipedia	v1.0	2908	7646905	7	.24	0
 ELRC-505-www.pfs.is	v1	ELRC-4270-NTEU_TierA	v1	2908	7252413	7	.24	0
 ELRC-505-www.pfs.is	v1	SciELO	v1	2908	3061142	7	.24	0
 ELRC-505-www.pfs.is	v1	GoURMET	v1	2908	1541708	7	.24	0
+ELRC-505-www.pfs.is	v1	ParIce	v1	2908	1364589	7	.24	0
 ELRC-505-www.pfs.is	v1	GlobalVoices	v2018q4	2908	1154583	7	.24	0
 ELRC-505-www.pfs.is	v1	GlobalVoices	v2017q3	2908	1091521	7	.24	0
 ELRC-505-www.pfs.is	v1	GlobalVoices	v2015	2908	954153	7	.24	0
@@ -70,8 +75,11 @@ ELRC-505-www.pfs.is	v1	ELRC-537-www.sjofartsdir.no	v1	2908	2278	7	.24	.30
 ELRC-505-www.pfs.is	v1	ELRC-1020-collection_about_Cyp	v1	2908	1893	7	.24	.36
 ELRC-505-www.pfs.is	v1	ELRA-W0282	v1	2908	1354	7	.24	.51
 ELRC-505-www.pfs.is	v1	ELRC-962-Regional_Development	v1	2908	1354	7	.24	.51
+ELRC-505-www.pfs.is	v1	JESC	v2019-12-05	2908	2377332	6	.20	0
 ELRC-505-www.pfs.is	v1	Europarl	v8	2908	2375417	6	.20	0
+ELRC-505-www.pfs.is	v1	Anuvaad	v1	2908	1950854	6	.20	0
 ELRC-505-www.pfs.is	v1	MIZAN	v1	2908	1016854	6	.20	0
+ELRC-505-www.pfs.is	v1	Nunavut_Hansard	v3.0.1	2908	744551	6	.20	0
 ELRC-505-www.pfs.is	v1	ELRC-2722-EMEA	v1	2908	701635	6	.20	0
 ELRC-505-www.pfs.is	v1	ELRC-2720-EMEA	v1	2908	696997	6	.20	0
 ELRC-505-www.pfs.is	v1	ELRC-2721-EMEA	v1	2908	693450	6	.20	0
@@ -182,6 +190,7 @@ ELRC-505-www.pfs.is	v1	News-Commentary	v16	2908	633326	5	.17	0
 ELRC-505-www.pfs.is	v1	ELRC-2706-EMEA	v1	2908	577401	5	.17	0
 ELRC-505-www.pfs.is	v1	News-Commentary	v14	2908	530397	5	.17	0
 ELRC-505-www.pfs.is	v1	TED2020	v1	2908	436417	5	.17	0
+ELRC-505-www.pfs.is	v1	KFTT	v1.0	2908	433311	5	.17	0
 ELRC-505-www.pfs.is	v1	Tatoeba	v2	2908	407821	5	.17	0
 ELRC-505-www.pfs.is	v1	News-Commentary	v11	2908	362778	5	.17	0
 ELRC-505-www.pfs.is	v1	News-Commentary	v9.0	2908	328698	5	.17	0
@@ -514,6 +523,7 @@ ELRC-505-www.pfs.is	v1	ELRC-3572-EUR_LEX_covid	v1	2908	21682	2	.06	0
 ELRC-505-www.pfs.is	v1	ELRC-3559-EUR_LEX_covid	v1	2908	21588	2	.06	0
 ELRC-505-www.pfs.is	v1	ELRC-3567-EUR_LEX_covid	v1	2908	20985	2	.06	0
 ELRC-505-www.pfs.is	v1	ELRC-3573-EUR_LEX_covid	v1	2908	20671	2	.06	0
+ELRC-505-www.pfs.is	v1	ALT	v2019	2908	18162	2	.06	.01
 ELRC-505-www.pfs.is	v1	ELRA-W0263	v1	2908	13790	2	.06	.01
 ELRC-505-www.pfs.is	v1	ELRC-913-2018_Proposal_a	v1	2908	13790	2	.06	.01
 ELRC-505-www.pfs.is	v1	ELRC-presscorner_covid	v1	2908	11739	2	.06	.01
@@ -616,9 +626,11 @@ ELRC-505-www.pfs.is	v1	ELRC-973-Science_Higher_Educa	v1	2908	777	1	.03	.12
 ELRC-505-www.pfs.is	v1	ELRC-3291-EUROPARL_covid	v1	2908	709	1	.03	.14
 ELRC-505-www.pfs.is	v1	ELRC-3298-EUROPARL_covid	v1	2908	642	1	.03	.15
 ELRC-505-www.pfs.is	v1	XLEnt	v1.1	2908	53628082	0	0	0
+ELRC-505-www.pfs.is	v1	XLEnt	v1.2	2908	53628082	0	0	0
 ELRC-505-www.pfs.is	v1	XLEnt	v1	2908	53628082	0	0	0
 ELRC-505-www.pfs.is	v1	MultiUN	v1	2908	12514685	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-CORDIS_Results	v1	2908	288453	0	0	0
+ELRC-505-www.pfs.is	v1	NeuLab-TedTalks	v1	2908	279535	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-1122-CORDIS_Results_Brief	v1	2908	259759	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-1123-CORDIS_Results_Brief	v1	2908	252934	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-1126-CORDIS_Results_Brief	v1	2908	242571	0	0	0
@@ -717,6 +729,7 @@ ELRC-505-www.pfs.is	v1	ELRC-522-KORO_Art_Norway	v1	2908	4658	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-3074-wikipedia_health	v1	2908	4356	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-3086-wikipedia_health	v1	2908	4262	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-3075-wikipedia_health	v1	2908	4090	0	0	0
+ELRC-505-www.pfs.is	v1	ELRC-5219-COVID_19_Parallel	v1	2908	4040	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-893-natmus.dk	v1	2908	3972	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-562-www.petoro.no	v1	2908	3884	0	0	0
 ELRC-505-www.pfs.is	v1	ada83	v1	2908	3874	0	0	0
@@ -732,6 +745,7 @@ ELRC-505-www.pfs.is	v1	ELRA-W0177	v1	2908	3026	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-475-Polish_Food	v1	2908	3026	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-2638-monumentos_2007	v1	2908	3025	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	2908	3022	0	0	0
+ELRC-505-www.pfs.is	v1	ECDC	v2016-03-16	2908	3012	0	0	0
 ELRC-505-www.pfs.is	v1	WMT-News	v2019	2908	3004	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-1240-Austrian_Research_Te	v1	2908	2996	0	0	0
 ELRC-505-www.pfs.is	v1	ELRA-W0180	v1	2908	2961	0	0	0
@@ -981,6 +995,7 @@ ELRC-505-www.pfs.is	v1	ELRA-W0253	v1	2908	79	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-873-Development	v1	2908	79	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-2623-Patrimnio_Aores_2006	v1	2908	65	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-Patrimnio_Aores	v1	2908	65	0	0	0
+ELRC-505-www.pfs.is	v1	ELRC-5220-Information_crime_vi	v1	2908	53	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-3456-EC_EUROPA_covid	v1	2908	50	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-5141-Preasritis__Choliste	v1	2908	50	0	0	0
 ELRC-505-www.pfs.is	v1	ELRC-2537-Lei_20_2008	v1	2908	49	0	0	0

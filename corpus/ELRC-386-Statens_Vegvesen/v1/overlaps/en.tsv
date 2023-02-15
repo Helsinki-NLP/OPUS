@@ -1,11 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-386-Statens_Vegvesen	v1	ParaCrawl	v9	1637	877766608	340	20.76	0
 ELRC-386-Statens_Vegvesen	v1	CCAligned	v1	1637	405094222	226	13.80	0
+ELRC-386-Statens_Vegvesen	v1	LinguaTools-WikiTitles	v2014	1637	8265652	148	9.04	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-4239-NTEU_TierA	v1	1637	11906559	139	8.49	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-4268-NTEU_TierA	v1	1637	11782507	136	8.30	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-4270-NTEU_TierA	v1	1637	7252413	133	8.12	0
 ELRC-386-Statens_Vegvesen	v1	XLEnt	v1.1	1637	53628082	132	8.06	0
 ELRC-386-Statens_Vegvesen	v1	XLEnt	v1	1637	53628082	132	8.06	0
+ELRC-386-Statens_Vegvesen	v1	XLEnt	v1.2	1637	53628082	132	8.06	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-4248-NTEU_TierA	v1	1637	12854274	131	8.00	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-4269-NTEU_TierA	v1	1637	7234848	131	8.00	0
 ELRC-386-Statens_Vegvesen	v1	TildeMODEL	v2018	1637	5686357	128	7.81	0
@@ -14,6 +16,7 @@ ELRC-386-Statens_Vegvesen	v1	ELRC-4154-NTEU_TierA	v1	1637	7119873	124	7.57	0
 ELRC-386-Statens_Vegvesen	v1	CCMatrix	v1	1637	1341614085	121	7.39	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-4142-NTEU_TierA	v1	1637	2152367	104	6.35	0
 ELRC-386-Statens_Vegvesen	v1	UNPC	v1.0	1637	23776005	102	6.23	0
+ELRC-386-Statens_Vegvesen	v1	StanfordNLP-NMT	v1.0	1637	14386355	99	6.04	0
 ELRC-386-Statens_Vegvesen	v1	WikiTitles	v3	1637	2348300	95	5.80	0
 ELRC-386-Statens_Vegvesen	v1	OpenSubtitles	v2018	1637	102548132	93	5.68	0
 ELRC-386-Statens_Vegvesen	v1	wikimedia	v20210402	1637	11389460	89	5.43	0
@@ -23,6 +26,7 @@ ELRC-386-Statens_Vegvesen	v1	JRC-Acquis	v3.0	1637	1923776	75	4.58	0
 ELRC-386-Statens_Vegvesen	v1	giga-fren	v2	1637	20786998	74	4.52	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	1637	279832	68	4.15	.02
 ELRC-386-Statens_Vegvesen	v1	KDE4	v2	1637	190475	68	4.15	.03
+ELRC-386-Statens_Vegvesen	v1	Samanantar	v0.2	1637	16891660	66	4.03	0
 ELRC-386-Statens_Vegvesen	v1	memat	v1	1637	145098	65	3.97	.04
 ELRC-386-Statens_Vegvesen	v1	ELRC-396-Foreign_Affairs_Norw	v1	1637	669717	60	3.66	0
 ELRC-386-Statens_Vegvesen	v1	EMEA	v3	1637	316149	55	3.35	.01
@@ -33,7 +37,9 @@ ELRC-386-Statens_Vegvesen	v1	ELRA-W0243	v1	1637	12537	47	2.87	.37
 ELRC-386-Statens_Vegvesen	v1	ELRC-842-Quarterly_Reports_Pa	v1	1637	12537	47	2.87	.37
 ELRC-386-Statens_Vegvesen	v1	EuroPat	v2	1637	70531170	46	2.81	0
 ELRC-386-Statens_Vegvesen	v1	SPC	v1	1637	59926	46	2.81	.07
+ELRC-386-Statens_Vegvesen	v1	ParIce	v1	1637	1364589	45	2.74	0
 ELRC-386-Statens_Vegvesen	v1	Mozilla-I10n	v1	1637	66158	44	2.68	.06
+ELRC-386-Statens_Vegvesen	v1	Nunavut_Hansard	v3.0.1	1637	744551	43	2.62	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-904-uk.fm.dk	v1	1637	6700	43	2.62	.64
 ELRC-386-Statens_Vegvesen	v1	Bianet	v1	1637	43553	40	2.44	.09
 ELRC-386-Statens_Vegvesen	v1	wikimedia	v20190628	1637	352711	39	2.38	.01
@@ -49,6 +55,7 @@ ELRC-386-Statens_Vegvesen	v1	EuroPat	v1	1637	22132306	33	2.01	0
 ELRC-386-Statens_Vegvesen	v1	GlobalVoices	v2015	1637	954153	33	2.01	0
 ELRC-386-Statens_Vegvesen	v1	ELRC_2682	v1	1637	779183	32	1.95	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-Government_Offices	v1	1637	56387	31	1.89	.05
+ELRC-386-Statens_Vegvesen	v1	KFTT	v1.0	1637	433311	30	1.83	0
 ELRC-386-Statens_Vegvesen	v1	News-Commentary	v11	1637	362778	30	1.83	0
 ELRC-386-Statens_Vegvesen	v1	Joshua-IPC	v1	1637	198174	30	1.83	.01
 ELRC-386-Statens_Vegvesen	v1	ELRC-425-Lithuanian_legislati	v1	1637	126666	30	1.83	.02
@@ -77,6 +84,7 @@ ELRC-386-Statens_Vegvesen	v1	ELRC-435-Romanian_New_Crimina	v1	1637	6563	26	1.58	
 ELRC-386-Statens_Vegvesen	v1	ELRC-2725-EMEA	v1	1637	691471	25	1.52	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-2729-EMEA	v1	1637	688511	25	1.52	0
 ELRC-386-Statens_Vegvesen	v1	EUconst	v1	1637	6683	25	1.52	.37
+ELRC-386-Statens_Vegvesen	v1	JParaCrawl	v3.0	1637	22179932	24	1.46	0
 ELRC-386-Statens_Vegvesen	v1	Wikipedia	v1.0	1637	7646905	24	1.46	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-2716-EMEA	v1	1637	690532	24	1.46	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-2707-EMEA	v1	1637	685365	24	1.46	0
@@ -92,6 +100,7 @@ ELRC-386-Statens_Vegvesen	v1	ELRC-4327-Government_Offices_I	v1	1637	37820	22	1.3
 ELRC-386-Statens_Vegvesen	v1	ELRC-2710-EMEA	v1	1637	699854	21	1.28	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-2724-EMEA	v1	1637	698758	21	1.28	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-www.vtv.fi	v1	1637	53418	21	1.28	.03
+ELRC-386-Statens_Vegvesen	v1	Anuvaad	v1	1637	1950854	20	1.22	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-2720-EMEA	v1	1637	696997	20	1.22	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-2706-EMEA	v1	1637	577401	20	1.22	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-2718-EMEA	v1	1637	484237	20	1.22	0
@@ -127,6 +136,7 @@ ELRC-386-Statens_Vegvesen	v1	ELRC-5067-SciPar	v1	1637	9198848	14	.85	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-Norwegian_Directorat	v1	1637	2832	14	.85	.49
 ELRC-386-Statens_Vegvesen	v1	ELRC-Ritis_Airgeadais	v1	1637	1256	14	.85	1.11
 ELRC-386-Statens_Vegvesen	v1	ELRC-2439-Ritis_Airgeadais_Oll	v1	1637	741	14	.85	1.88
+ELRC-386-Statens_Vegvesen	v1	JESC	v2019-12-05	1637	2377332	13	.79	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-1077-EUIPO_law	v1	1637	249932	13	.79	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-1076-EUIPO_law	v1	1637	114632	13	.79	.01
 ELRC-386-Statens_Vegvesen	v1	ELRC-www.norden.org	v1	1637	73026	13	.79	.01
@@ -500,6 +510,7 @@ ELRC-386-Statens_Vegvesen	v1	ELRC-947-Polish_Aid	v1	1637	4581	4	.24	.08
 ELRC-386-Statens_Vegvesen	v1	ELRA-W0182	v1	1637	3651	4	.24	.10
 ELRC-386-Statens_Vegvesen	v1	ELRC-481-Polish_Foreign_Affai	v1	1637	3651	4	.24	.10
 ELRC-386-Statens_Vegvesen	v1	ELRC-565-avinor.no	v1	1637	3565	4	.24	.11
+ELRC-386-Statens_Vegvesen	v1	ECDC	v2016-03-16	1637	3012	4	.24	.13
 ELRC-386-Statens_Vegvesen	v1	ELRC-Swedish_Labour	v1	1637	2553	4	.24	.15
 ELRC-386-Statens_Vegvesen	v1	ELRC-536-www.fhi.no	v1	1637	2414	4	.24	.16
 ELRC-386-Statens_Vegvesen	v1	ELRA-W0260	v1	1637	2265	4	.24	.17
@@ -555,6 +566,7 @@ ELRC-386-Statens_Vegvesen	v1	ELRC-1096-EUIPO_list	v1	1637	32179	2	.12	0
 ELRC-386-Statens_Vegvesen	v1	ELRA-W0149	v1	1637	31626	2	.12	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-1100-EUIPO_list	v1	1637	31626	2	.12	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-1089-German_Foreign_Offic	v1	1637	25618	2	.12	0
+ELRC-386-Statens_Vegvesen	v1	ALT	v2019	1637	18162	2	.12	.01
 ELRC-386-Statens_Vegvesen	v1	ELRC-2018-EUIPO_2017	v1	1637	17452	2	.12	.01
 ELRC-386-Statens_Vegvesen	v1	ELRC-2022-EUIPO_2017	v1	1637	17267	2	.12	.01
 ELRC-386-Statens_Vegvesen	v1	ELRC-2013-EUIPO_2017	v1	1637	17260	2	.12	.01
@@ -705,8 +717,10 @@ ELRC-386-Statens_Vegvesen	v1	ELRC-3298-EUROPARL_covid	v1	1637	642	1	.06	.15
 ELRC-386-Statens_Vegvesen	v1	ELRC-656-Macroeconomic_Develo	v1	1637	158	1	.06	.63
 ELRC-386-Statens_Vegvesen	v1	ELRC-2467-Preasritis_Oifig_an	v1	1637	116	1	.06	.86
 ELRC-386-Statens_Vegvesen	v1	ELRC-2474-Marketing_Influncia	v1	1637	113	1	.06	.88
+ELRC-386-Statens_Vegvesen	v1	ELRC-5220-Information_crime_vi	v1	1637	53	1	.06	1.88
 ELRC-386-Statens_Vegvesen	v1	MultiUN	v1	1637	12514685	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-CORDIS_Results	v1	1637	288453	0	0	0
+ELRC-386-Statens_Vegvesen	v1	NeuLab-TedTalks	v1	1637	279535	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-1122-CORDIS_Results_Brief	v1	1637	259759	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-1123-CORDIS_Results_Brief	v1	1637	252934	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-1126-CORDIS_Results_Brief	v1	1637	242571	0	0	0
@@ -748,6 +762,7 @@ ELRC-386-Statens_Vegvesen	v1	ELRC-3560-EUR_LEX_covid	v1	1637	4508	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-3074-wikipedia_health	v1	1637	4356	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-3086-wikipedia_health	v1	1637	4262	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-3075-wikipedia_health	v1	1637	4090	0	0	0
+ELRC-386-Statens_Vegvesen	v1	ELRC-5219-COVID_19_Parallel	v1	1637	4040	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-893-natmus.dk	v1	1637	3972	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ELRC-562-www.petoro.no	v1	1637	3884	0	0	0
 ELRC-386-Statens_Vegvesen	v1	ada83	v1	1637	3874	0	0	0

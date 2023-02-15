@@ -2,7 +2,9 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiSource	v1	ParaCrawl	v9	33858	877766608	33026	97.54	0
 WikiSource	v1	bible-uedin	v1	33858	74178	31145	91.98	41.98
 WikiSource	v1	CCAligned	v1	33858	405094222	29964	88.49	0
+WikiSource	v1	Samanantar	v0.2	33858	16891660	22651	66.89	.13
 WikiSource	v1	CCMatrix	v1	33858	1341614085	11849	34.99	0
+WikiSource	v1	JParaCrawl	v3.0	33858	22179932	1221	3.60	0
 WikiSource	v1	GoURMET	v1	33858	1541708	1202	3.55	.07
 WikiSource	v1	WikiMatrix	v1	33858	47707259	858	2.53	0
 WikiSource	v1	memat	v1	33858	145098	445	1.31	.30
@@ -10,14 +12,17 @@ WikiSource	v1	EhuHac	v1	33858	596213	375	1.10	.06
 WikiSource	v1	wikimedia	v20210402	33858	11389460	301	.88	0
 WikiSource	v1	OpenSubtitles	v2018	33858	102548132	230	.67	0
 WikiSource	v1	XLEnt	v1.1	33858	53628082	195	.57	0
+WikiSource	v1	XLEnt	v1.2	33858	53628082	195	.57	0
 WikiSource	v1	XLEnt	v1	33858	53628082	195	.57	0
 WikiSource	v1	QED	v2.0a	33858	7299297	178	.52	0
 WikiSource	v1	WikiTitles	v3	33858	2348300	157	.46	0
+WikiSource	v1	LinguaTools-WikiTitles	v2014	33858	8265652	146	.43	0
 WikiSource	v1	Tatoeba	v2022-03-03	33858	1605560	147	.43	0
 WikiSource	v1	Tatoeba	v2021-07-22	33858	1497594	146	.43	0
 WikiSource	v1	Tatoeba	v2021-03-10	33858	1470935	143	.42	0
 WikiSource	v1	Tatoeba	v2020-11-09	33858	1406533	138	.40	0
 WikiSource	v1	Tatoeba	v2020-05-31	33858	1346260	138	.40	.01
+WikiSource	v1	StanfordNLP-NMT	v1.0	33858	14386355	128	.37	0
 WikiSource	v1	Tatoeba	v20190709	33858	1212697	127	.37	.01
 WikiSource	v1	EUbookshop	v2	33858	46038769	72	.21	0
 WikiSource	v1	ELRC-4248-NTEU_TierA	v1	33858	12854274	72	.21	0
@@ -42,6 +47,7 @@ WikiSource	v1	OpenSubtitles	v1	33858	1598451	14	.04	0
 WikiSource	v1	ECB	v1	33858	376581	11	.03	0
 WikiSource	v1	ELRA-W0266	v1	33858	11797	13	.03	.11
 WikiSource	v1	ELRC-921-studies_challenges_C	v1	33858	11797	13	.03	.11
+WikiSource	v1	Anuvaad	v1	33858	1950854	8	.02	0
 WikiSource	v1	GlobalVoices	v2018q4	33858	1154583	9	.02	0
 WikiSource	v1	GlobalVoices	v2017q3	33858	1091521	9	.02	0
 WikiSource	v1	GlobalVoices	v2015	33858	954153	9	.02	0
@@ -64,9 +70,12 @@ WikiSource	v1	EuroPat	v1	33858	22132306	0	0	0
 WikiSource	v1	MultiUN	v1	33858	12514685	0	0	0
 WikiSource	v1	ELRC-5067-SciPar	v1	33858	9198848	0	0	0
 WikiSource	v1	SciELO	v1	33858	3061142	3	0	0
+WikiSource	v1	JESC	v2019-12-05	33858	2377332	0	0	0
+WikiSource	v1	ParIce	v1	33858	1364589	2	0	0
 WikiSource	v1	CAPES	v1	33858	1158123	0	0	0
 WikiSource	v1	ELRC-EMEA	v1	33858	806234	0	0	0
 WikiSource	v1	ELRC_2682	v1	33858	779183	0	0	0
+WikiSource	v1	Nunavut_Hansard	v3.0.1	33858	744551	1	0	0
 WikiSource	v1	ELRC-2722-EMEA	v1	33858	701635	0	0	0
 WikiSource	v1	ELRC-2710-EMEA	v1	33858	699854	0	0	0
 WikiSource	v1	ELRC-2724-EMEA	v1	33858	698758	0	0	0
@@ -96,6 +105,7 @@ WikiSource	v1	ELRC-2719-EMEA	v1	33858	516124	0	0	0
 WikiSource	v1	ELRC-EUIPO_law	v1	33858	485617	1	0	0
 WikiSource	v1	ELRC-2718-EMEA	v1	33858	484237	0	0	0
 WikiSource	v1	TED2020	v1	33858	436417	2	0	0
+WikiSource	v1	KFTT	v1.0	33858	433311	0	0	0
 WikiSource	v1	News-Commentary	v11	33858	362778	3	0	0
 WikiSource	v1	ELRC-2709-EMEA	v1	33858	360888	0	0	0
 WikiSource	v1	wikimedia	v20190628	33858	352711	0	0	0
@@ -105,6 +115,7 @@ WikiSource	v1	ELRC-5183-SciPar_Ukraine	v1	33858	320840	0	0	0
 WikiSource	v1	EMEA	v3	33858	316149	1	0	0
 WikiSource	v1	ELRC-CORDIS_Results	v1	33858	288453	0	0	0
 WikiSource	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	33858	279832	2	0	0
+WikiSource	v1	NeuLab-TedTalks	v1	33858	279535	2	0	0
 WikiSource	v1	ELRC-1122-CORDIS_Results_Brief	v1	33858	259759	0	0	0
 WikiSource	v1	ELRC-1123-CORDIS_Results_Brief	v1	33858	252934	0	0	0
 WikiSource	v1	ELRC-1077-EUIPO_law	v1	33858	249932	1	0	0
@@ -258,6 +269,7 @@ WikiSource	v1	ELRC-4324-Government_Offices_I	v1	33858	18627	0	0	0
 WikiSource	v1	ELRA-W0273	v1	33858	18450	0	0	0
 WikiSource	v1	ELRC-943-Journal_Croatian_Ass	v1	33858	18450	0	0	0
 WikiSource	v1	ELRC-559-www.npd.no	v1	33858	18283	0	0	0
+WikiSource	v1	ALT	v2019	33858	18162	0	0	0
 WikiSource	v1	ELRC-1178-EUIPO_2017	v1	33858	17582	0	0	0
 WikiSource	v1	ELRC-1084-Agencia_Tributaria	v1	33858	17477	0	0	0
 WikiSource	v1	ELRC-2018-EUIPO_2017	v1	33858	17452	0	0	0
@@ -477,6 +489,7 @@ WikiSource	v1	ELRA-W0206	v1	33858	4123	0	0	0
 WikiSource	v1	ELRC-654-Romanian_Ombudsman_a	v1	33858	4123	0	0	0
 WikiSource	v1	ELRC-621-Federal_Constitution	v1	33858	4109	0	0	0
 WikiSource	v1	ELRC-3075-wikipedia_health	v1	33858	4090	0	0	0
+WikiSource	v1	ELRC-5219-COVID_19_Parallel	v1	33858	4040	0	0	0
 WikiSource	v1	ELRC-535-www.nbim.no	v1	33858	4006	0	0	0
 WikiSource	v1	ELRC-893-natmus.dk	v1	33858	3972	0	0	0
 WikiSource	v1	ELRA-W0247	v1	33858	3929	0	0	0
@@ -529,6 +542,7 @@ WikiSource	v1	ELRA-W0177	v1	33858	3026	0	0	0
 WikiSource	v1	ELRC-475-Polish_Food	v1	33858	3026	0	0	0
 WikiSource	v1	ELRC-2638-monumentos_2007	v1	33858	3025	0	0	0
 WikiSource	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	33858	3022	0	0	0
+WikiSource	v1	ECDC	v2016-03-16	33858	3012	0	0	0
 WikiSource	v1	ELRC-857-www.trm.dk	v1	33858	3011	0	0	0
 WikiSource	v1	WMT-News	v2019	33858	3004	0	0	0
 WikiSource	v1	ELRC-573-www.responsiblebusin	v1	33858	3000	0	0	0
@@ -978,6 +992,7 @@ WikiSource	v1	ELRA-W0253	v1	33858	79	0	0	0
 WikiSource	v1	ELRC-873-Development	v1	33858	79	0	0	0
 WikiSource	v1	ELRC-2623-Patrimnio_Aores_2006	v1	33858	65	0	0	0
 WikiSource	v1	ELRC-Patrimnio_Aores	v1	33858	65	0	0	0
+WikiSource	v1	ELRC-5220-Information_crime_vi	v1	33858	53	0	0	0
 WikiSource	v1	ELRC-3456-EC_EUROPA_covid	v1	33858	50	0	0	0
 WikiSource	v1	ELRC-5141-Preasritis__Choliste	v1	33858	50	0	0	0
 WikiSource	v1	ELRC-2537-Lei_20_2008	v1	33858	49	0	0	0

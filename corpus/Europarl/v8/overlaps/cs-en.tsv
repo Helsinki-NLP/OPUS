@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	StanfordNLP-NMT	v1.0	628484	11065607	627199	99.79	5.66
 Europarl	v8	ParaCrawl	v9	628484	50632491	11241	1.78	.02
 Europarl	v8	CCMatrix	v1	628484	55956324	7455	1.18	.01
 Europarl	v8	OpenSubtitles	v2018	628484	33781924	1266	.20	0
@@ -12,7 +13,10 @@ Europarl	v8	News-Commentary	v11	628484	177020	110	.01	.06
 Europarl	v8	TED2020	v1	628484	166657	102	.01	.06
 Europarl	v8	News-Commentary	v9.0	628484	145950	100	.01	.06
 Europarl	v8	News-Commentary	v9.1	628484	145950	100	.01	.06
+Europarl	v8	NeuLab-TedTalks	v1	628484	108494	79	.01	.07
+Europarl	v8	LinguaTools-WikiTitles	v2014	628484	4637372	29	0	0
 Europarl	v8	XLEnt	v1.1	628484	3667457	22	0	0
+Europarl	v8	XLEnt	v1.2	628484	3667457	22	0	0
 Europarl	v8	XLEnt	v1	628484	3667457	22	0	0
 Europarl	v8	DGT	v2019	628484	3659771	49	0	0
 Europarl	v8	ELRC-5067-SciPar	v1	628484	1064385	4	0	0
@@ -57,6 +61,7 @@ Europarl	v8	ELRC-2406-Czech_Supreme_Audit	v1	628484	4771	0	0	0
 Europarl	v8	ELRC_3382	v1	628484	3720	2	0	.05
 Europarl	v8	TildeMODEL	v2018	628484	3100	0	0	0
 Europarl	v8	ELRC-2405-Czech_Supreme_Audit	v1	628484	2868	0	0	0
+Europarl	v8	ECDC	v2016-03-16	628484	2475	1	0	.04
 Europarl	v8	ELRC-3463-EC_EUROPA_covid	v1	628484	2386	4	0	.16
 Europarl	v8	ELRC-EC_EUROPA	v1	628484	2386	4	0	.16
 Europarl	v8	ELRC-40-Information_Portal_C	v1	628484	1828	1	0	.05

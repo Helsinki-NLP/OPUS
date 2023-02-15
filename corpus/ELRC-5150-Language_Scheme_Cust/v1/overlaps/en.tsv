@@ -2,6 +2,7 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-5150-Language_Scheme_Cust	v1	ParaCrawl	v9	490	877766608	51	10.40	0
 ELRC-5150-Language_Scheme_Cust	v1	CCAligned	v1	490	405094222	46	9.38	0
 ELRC-5150-Language_Scheme_Cust	v1	XLEnt	v1.1	490	53628082	30	6.12	0
+ELRC-5150-Language_Scheme_Cust	v1	XLEnt	v1.2	490	53628082	30	6.12	0
 ELRC-5150-Language_Scheme_Cust	v1	XLEnt	v1	490	53628082	30	6.12	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-4248-NTEU_TierA	v1	490	12854274	25	5.10	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-4239-NTEU_TierA	v1	490	11906559	25	5.10	0
@@ -13,11 +14,14 @@ ELRC-5150-Language_Scheme_Cust	v1	ELRC-4271-NTEU_TierA	v1	490	7211577	22	4.48	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-4154-NTEU_TierA	v1	490	7119873	22	4.48	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-4142-NTEU_TierA	v1	490	2152367	22	4.48	0
 ELRC-5150-Language_Scheme_Cust	v1	JRC-Acquis	v3.0	490	1923776	21	4.28	0
+ELRC-5150-Language_Scheme_Cust	v1	LinguaTools-WikiTitles	v2014	490	8265652	20	4.08	0
 ELRC-5150-Language_Scheme_Cust	v1	UNPC	v1.0	490	23776005	19	3.87	0
+ELRC-5150-Language_Scheme_Cust	v1	StanfordNLP-NMT	v1.0	490	14386355	19	3.87	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-396-Foreign_Affairs_Norw	v1	490	669717	18	3.67	0
 ELRC-5150-Language_Scheme_Cust	v1	EUbookshop	v2	490	46038769	16	3.26	0
 ELRC-5150-Language_Scheme_Cust	v1	giga-fren	v2	490	20786998	15	3.06	0
 ELRC-5150-Language_Scheme_Cust	v1	memat	v1	490	145098	15	3.06	.01
+ELRC-5150-Language_Scheme_Cust	v1	ParIce	v1	490	1364589	14	2.85	0
 ELRC-5150-Language_Scheme_Cust	v1	KDE4	v2	490	190475	14	2.85	0
 ELRC-5150-Language_Scheme_Cust	v1	OpenSubtitles	v2018	490	102548132	13	2.65	0
 ELRC-5150-Language_Scheme_Cust	v1	wikimedia	v20210402	490	11389460	12	2.44	0
@@ -30,6 +34,7 @@ ELRC-5150-Language_Scheme_Cust	v1	IITB	v2.0	490	1105433	10	2.04	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-www.vtv.fi	v1	490	53418	10	2.04	.01
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-1127-www.vtv.fi	v1	490	41560	10	2.04	.02
 ELRC-5150-Language_Scheme_Cust	v1	EuroPat	v2	490	70531170	9	1.83	0
+ELRC-5150-Language_Scheme_Cust	v1	Samanantar	v0.2	490	16891660	9	1.83	0
 ELRC-5150-Language_Scheme_Cust	v1	WikiTitles	v3	490	2348300	9	1.83	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-850-www.dst.dk	v1	490	22760	9	1.83	.03
 ELRC-5150-Language_Scheme_Cust	v1	ELRA-W0243	v1	490	12537	9	1.83	.07
@@ -48,7 +53,9 @@ ELRC-5150-Language_Scheme_Cust	v1	News-Commentary	v9.1	490	328698	7	1.42	0
 ELRC-5150-Language_Scheme_Cust	v1	Joshua-IPC	v1	490	198174	7	1.42	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-559-www.npd.no	v1	490	18283	7	1.42	.03
 ELRC-5150-Language_Scheme_Cust	v1	CCMatrix	v1	490	1341614085	6	1.22	0
+ELRC-5150-Language_Scheme_Cust	v1	JParaCrawl	v3.0	490	22179932	6	1.22	0
 ELRC-5150-Language_Scheme_Cust	v1	EuroPat	v1	490	22132306	6	1.22	0
+ELRC-5150-Language_Scheme_Cust	v1	Anuvaad	v1	490	1950854	6	1.22	0
 ELRC-5150-Language_Scheme_Cust	v1	ECB	v1	490	376581	6	1.22	0
 ELRC-5150-Language_Scheme_Cust	v1	Mozilla-I10n	v1	490	66158	6	1.22	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-563-Statoil_energy_compa	v1	490	54342	6	1.22	.01
@@ -56,6 +63,7 @@ ELRC-5150-Language_Scheme_Cust	v1	OpenOffice	v2	490	36009	6	1.22	.01
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-816-ANR_containing_major	v1	490	10302	6	1.22	.05
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-439-Danish_Higher_Educat	v1	490	3646	6	1.22	.16
 ELRC-5150-Language_Scheme_Cust	v1	WikiMatrix	v1	490	47707259	5	1.02	0
+ELRC-5150-Language_Scheme_Cust	v1	KFTT	v1.0	490	433311	5	1.02	0
 ELRC-5150-Language_Scheme_Cust	v1	wikimedia	v20190628	490	352711	5	1.02	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-534-www.norges_bank.no	v1	490	71682	5	1.02	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-725-Hallituskausi_2011_2	v1	490	31822	5	1.02	.01
@@ -64,6 +72,7 @@ ELRC-5150-Language_Scheme_Cust	v1	ELRC-1084-Agencia_Tributaria	v1	490	17477	5	1.
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-Regional_Development	v1	490	9296	5	1.02	.05
 ELRC-5150-Language_Scheme_Cust	v1	SciELO	v1	490	3061142	4	.81	0
 ELRC-5150-Language_Scheme_Cust	v1	MIZAN	v1	490	1016854	4	.81	0
+ELRC-5150-Language_Scheme_Cust	v1	Nunavut_Hansard	v3.0.1	490	744551	4	.81	0
 ELRC-5150-Language_Scheme_Cust	v1	EhuHac	v1	490	596213	4	.81	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-2410-Portal_oficial_turis	v1	490	185841	4	.81	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-5179-acts_Ukrainian	v1	490	125843	4	.81	0
@@ -268,6 +277,7 @@ ELRC-5150-Language_Scheme_Cust	v1	ELRC_416	v1	490	963	2	.40	.20
 ELRC-5150-Language_Scheme_Cust	v1	ELRA-W0284	v1	490	956	2	.40	.20
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-968-Digital_Affairs	v1	490	956	2	.40	.20
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-2468-Oifig_Ombudsman_irin	v1	490	275	2	.40	.72
+ELRC-5150-Language_Scheme_Cust	v1	JESC	v2019-12-05	490	2377332	1	.20	0
 ELRC-5150-Language_Scheme_Cust	v1	Tatoeba	v2022-03-03	490	1605560	1	.20	0
 ELRC-5150-Language_Scheme_Cust	v1	Tatoeba	v2021-07-22	490	1497594	1	.20	0
 ELRC-5150-Language_Scheme_Cust	v1	Tatoeba	v2021-03-10	490	1470935	1	.20	0
@@ -434,6 +444,7 @@ ELRC-5150-Language_Scheme_Cust	v1	ELRC-5214-A_Lexicon_Named	v1	490	488887	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	TED2020	v1	490	436417	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	Tatoeba	v2	490	407821	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-CORDIS_Results	v1	490	288453	0	0	0
+ELRC-5150-Language_Scheme_Cust	v1	NeuLab-TedTalks	v1	490	279535	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-1122-CORDIS_Results_Brief	v1	490	259759	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-1123-CORDIS_Results_Brief	v1	490	252934	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-1126-CORDIS_Results_Brief	v1	490	242571	0	0	0
@@ -507,6 +518,7 @@ ELRC-5150-Language_Scheme_Cust	v1	ELRC-www.visitestonia.com	v1	490	21337	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-3568-EUR_LEX_covid	v1	490	21161	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-3567-EUR_LEX_covid	v1	490	20985	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-3573-EUR_LEX_covid	v1	490	20671	0	0	0
+ELRC-5150-Language_Scheme_Cust	v1	ALT	v2019	490	18162	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-937-vp1992_2001.presiden	v1	490	16548	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-2461-press_releases_Forei	v1	490	15895	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRA-W0214	v1	490	15469	0	0	0
@@ -600,6 +612,7 @@ ELRC-5150-Language_Scheme_Cust	v1	ELRC-3074-wikipedia_health	v1	490	4356	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-3086-wikipedia_health	v1	490	4262	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-621-Federal_Constitution	v1	490	4109	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-3075-wikipedia_health	v1	490	4090	0	0	0
+ELRC-5150-Language_Scheme_Cust	v1	ELRC-5219-COVID_19_Parallel	v1	490	4040	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-893-natmus.dk	v1	490	3972	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRA-W0247	v1	490	3929	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-858-Export_Promotion_Por	v1	490	3929	0	0	0
@@ -630,6 +643,7 @@ ELRC-5150-Language_Scheme_Cust	v1	ELRA-W0177	v1	490	3026	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-475-Polish_Food	v1	490	3026	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-2638-monumentos_2007	v1	490	3025	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	490	3022	0	0	0
+ELRC-5150-Language_Scheme_Cust	v1	ECDC	v2016-03-16	490	3012	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	WMT-News	v2019	490	3004	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-573-www.responsiblebusin	v1	490	3000	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-1240-Austrian_Research_Te	v1	490	2996	0	0	0
@@ -964,6 +978,7 @@ ELRC-5150-Language_Scheme_Cust	v1	ELRA-W0253	v1	490	79	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-873-Development	v1	490	79	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-2623-Patrimnio_Aores_2006	v1	490	65	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-Patrimnio_Aores	v1	490	65	0	0	0
+ELRC-5150-Language_Scheme_Cust	v1	ELRC-5220-Information_crime_vi	v1	490	53	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-3456-EC_EUROPA_covid	v1	490	50	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-5141-Preasritis__Choliste	v1	490	50	0	0	0
 ELRC-5150-Language_Scheme_Cust	v1	ELRC-2537-Lei_20_2008	v1	490	49	0	0	0

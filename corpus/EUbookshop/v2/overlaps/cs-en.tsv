@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+EUbookshop	v2	StanfordNLP-NMT	v1.0	381430	11065607	15529	4.07	.14
 EUbookshop	v2	CCMatrix	v1	381430	55956324	8284	2.17	.01
 EUbookshop	v2	DGT	v2019	381430	3659771	8186	2.14	.22
 EUbookshop	v2	ParaCrawl	v9	381430	50632491	7583	1.98	.01
@@ -7,7 +8,9 @@ EUbookshop	v2	ECB	v1	381430	63677	3166	.83	4.97
 EUbookshop	v2	JRC-Acquis	v3.0	381430	816159	2865	.75	.35
 EUbookshop	v2	CCAligned	v1	381430	12660340	1453	.38	.01
 EUbookshop	v2	EUconst	v1	381430	6711	1236	.32	18.41
+EUbookshop	v2	LinguaTools-WikiTitles	v2014	381430	4637372	407	.10	0
 EUbookshop	v2	XLEnt	v1.1	381430	3667457	351	.09	0
+EUbookshop	v2	XLEnt	v1.2	381430	3667457	351	.09	0
 EUbookshop	v2	XLEnt	v1	381430	3667457	351	.09	0
 EUbookshop	v2	WikiTitles	v3	381430	382830	220	.05	.05
 EUbookshop	v2	ELRC-2713-EMEA	v1	381430	771908	177	.04	.02
@@ -34,6 +37,7 @@ EUbookshop	v2	News-Commentary	v11	381430	177020	5	0	0
 EUbookshop	v2	TED2020	v1	381430	166657	8	0	0
 EUbookshop	v2	News-Commentary	v9.0	381430	145950	6	0	0
 EUbookshop	v2	News-Commentary	v9.1	381430	145950	6	0	0
+EUbookshop	v2	NeuLab-TedTalks	v1	381430	108494	5	0	0
 EUbookshop	v2	bible-uedin	v1	381430	61625	0	0	0
 EUbookshop	v2	WMT-News	v2019	381430	33161	2	0	0
 EUbookshop	v2	Tatoeba	v2022-03-03	381430	31506	5	0	.01
@@ -57,6 +61,7 @@ EUbookshop	v2	ELRC-2406-Czech_Supreme_Audit	v1	381430	4771	0	0	0
 EUbookshop	v2	ELRC_3382	v1	381430	3720	0	0	0
 EUbookshop	v2	TildeMODEL	v2018	381430	3100	18	0	.58
 EUbookshop	v2	ELRC-2405-Czech_Supreme_Audit	v1	381430	2868	1	0	.03
+EUbookshop	v2	ECDC	v2016-03-16	381430	2475	14	0	.56
 EUbookshop	v2	ELRC-3463-EC_EUROPA_covid	v1	381430	2386	5	0	.20
 EUbookshop	v2	ELRC-EC_EUROPA	v1	381430	2386	5	0	.20
 EUbookshop	v2	ELRC-40-Information_Portal_C	v1	381430	1828	3	0	.16

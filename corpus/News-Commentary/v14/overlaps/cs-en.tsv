@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v14	News-Commentary	v16	212212	212206	201985	95.18	95.18
+News-Commentary	v14	StanfordNLP-NMT	v1.0	212212	11065607	131300	61.87	1.18
 News-Commentary	v14	News-Commentary	v9.0	212212	145950	128273	60.44	87.88
 News-Commentary	v14	News-Commentary	v9.1	212212	145950	128273	60.44	87.88
 News-Commentary	v14	News-Commentary	v11	212212	177020	120585	56.82	68.11
@@ -14,10 +15,13 @@ News-Commentary	v14	CCAligned	v1	212212	12660340	41	.01	0
 News-Commentary	v14	JRC-Acquis	v3.0	212212	816159	33	.01	0
 News-Commentary	v14	EMEA	v3	212212	331060	34	.01	.01
 News-Commentary	v14	ELITR-ECA	v1	212212	255266	34	.01	.01
+News-Commentary	v14	NeuLab-TedTalks	v1	212212	108494	29	.01	.02
 News-Commentary	v14	ELRC-427-Electronic_Exchange_	v1	212212	10075	22	.01	.21
 News-Commentary	v14	EUconst	v1	212212	6711	31	.01	.46
+News-Commentary	v14	LinguaTools-WikiTitles	v2014	212212	4637372	9	0	0
 News-Commentary	v14	XLEnt	v1.1	212212	3667457	20	0	0
 News-Commentary	v14	XLEnt	v1	212212	3667457	20	0	0
+News-Commentary	v14	XLEnt	v1.2	212212	3667457	20	0	0
 News-Commentary	v14	DGT	v2019	212212	3659771	9	0	0
 News-Commentary	v14	ELRC-5067-SciPar	v1	212212	1064385	2	0	0
 News-Commentary	v14	ELRC-2713-EMEA	v1	212212	771908	6	0	0
@@ -57,6 +61,7 @@ News-Commentary	v14	ELRC-2406-Czech_Supreme_Audit	v1	212212	4771	1	0	.02
 News-Commentary	v14	ELRC_3382	v1	212212	3720	2	0	.05
 News-Commentary	v14	TildeMODEL	v2018	212212	3100	0	0	0
 News-Commentary	v14	ELRC-2405-Czech_Supreme_Audit	v1	212212	2868	1	0	.03
+News-Commentary	v14	ECDC	v2016-03-16	212212	2475	1	0	.04
 News-Commentary	v14	ELRC-3463-EC_EUROPA_covid	v1	212212	2386	4	0	.16
 News-Commentary	v14	ELRC-EC_EUROPA	v1	212212	2386	4	0	.16
 News-Commentary	v14	ELRC-40-Information_Portal_C	v1	212212	1828	1	0	.05

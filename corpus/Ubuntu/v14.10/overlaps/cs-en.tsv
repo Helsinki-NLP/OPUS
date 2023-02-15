@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Ubuntu	v14.10	StanfordNLP-NMT	v1.0	6474	11065607	605	9.34	0
 Ubuntu	v14.10	XLEnt	v1.1	6474	3667457	441	6.81	.01
+Ubuntu	v14.10	XLEnt	v1.2	6474	3667457	441	6.81	.01
 Ubuntu	v14.10	XLEnt	v1	6474	3667457	441	6.81	.01
 Ubuntu	v14.10	WikiTitles	v3	6474	382830	280	4.32	.07
 Ubuntu	v14.10	KDE4	v2	6474	112389	276	4.26	.24
+Ubuntu	v14.10	LinguaTools-WikiTitles	v2014	6474	4637372	266	4.10	0
 Ubuntu	v14.10	CCAligned	v1	6474	12660340	126	1.94	0
 Ubuntu	v14.10	DGT	v2019	6474	3659771	33	.50	0
 Ubuntu	v14.10	OpenSubtitles	v2018	6474	33781924	25	.38	0
@@ -15,6 +18,7 @@ Ubuntu	v14.10	ELRC-2713-EMEA	v1	6474	771908	4	.06	0
 Ubuntu	v14.10	ELRC-EMEA	v1	6474	771908	4	.06	0
 Ubuntu	v14.10	ELRC_2682	v1	6474	771907	4	.06	0
 Ubuntu	v14.10	EMEA	v3	6474	331060	4	.06	0
+Ubuntu	v14.10	ECDC	v2016-03-16	6474	2475	4	.06	.16
 Ubuntu	v14.10	ECB	v1	6474	63677	3	.04	0
 Ubuntu	v14.10	OpenSubtitles	v1	6474	343652	2	.03	0
 Ubuntu	v14.10	Wikipedia	v1.0	6474	25363	2	.03	0
@@ -38,6 +42,7 @@ Ubuntu	v14.10	News-Commentary	v11	6474	177020	0	0	0
 Ubuntu	v14.10	TED2020	v1	6474	166657	0	0	0
 Ubuntu	v14.10	News-Commentary	v9.0	6474	145950	0	0	0
 Ubuntu	v14.10	News-Commentary	v9.1	6474	145950	0	0	0
+Ubuntu	v14.10	NeuLab-TedTalks	v1	6474	108494	0	0	0
 Ubuntu	v14.10	bible-uedin	v1	6474	61625	0	0	0
 Ubuntu	v14.10	WMT-News	v2019	6474	33161	0	0	0
 Ubuntu	v14.10	Tatoeba	v2022-03-03	6474	31506	0	0	0

@@ -2,6 +2,7 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-565-avinor.no	v1	ParaCrawl	v9	3565	877766608	244	6.84	0
 ELRC-565-avinor.no	v1	CCMatrix	v1	3565	1341614085	102	2.86	0
 ELRC-565-avinor.no	v1	CCAligned	v1	3565	405094222	95	2.66	0
+ELRC-565-avinor.no	v1	StanfordNLP-NMT	v1.0	3565	14386355	34	.95	0
 ELRC-565-avinor.no	v1	ELRC-4239-NTEU_TierA	v1	3565	11906559	34	.95	0
 ELRC-565-avinor.no	v1	ELRC-4268-NTEU_TierA	v1	3565	11782507	32	.89	0
 ELRC-565-avinor.no	v1	EUbookshop	v2	3565	46038769	29	.81	0
@@ -15,14 +16,18 @@ ELRC-565-avinor.no	v1	giga-fren	v2	3565	20786998	21	.58	0
 ELRC-565-avinor.no	v1	ELRC-4142-NTEU_TierA	v1	3565	2152367	19	.53	0
 ELRC-565-avinor.no	v1	JRC-Acquis	v3.0	3565	1923776	19	.53	0
 ELRC-565-avinor.no	v1	GoURMET	v1	3565	1541708	19	.53	0
+ELRC-565-avinor.no	v1	JParaCrawl	v3.0	3565	22179932	18	.50	0
+ELRC-565-avinor.no	v1	Samanantar	v0.2	3565	16891660	16	.44	0
 ELRC-565-avinor.no	v1	ELRC-583-www.hafslund.no	v1	3565	3459	16	.44	.46
 ELRC-565-avinor.no	v1	ELRC-396-Foreign_Affairs_Norw	v1	3565	669717	15	.42	0
 ELRC-565-avinor.no	v1	TildeMODEL	v2018	3565	5686357	13	.36	0
+ELRC-565-avinor.no	v1	ParIce	v1	3565	1364589	11	.30	0
 ELRC-565-avinor.no	v1	memat	v1	3565	145098	11	.30	0
 ELRC-565-avinor.no	v1	ELRA-W0244	v1	3565	14622	11	.30	.07
 ELRC-565-avinor.no	v1	ELRC-843-collection_reports_G	v1	3565	14622	11	.30	.07
 ELRC-565-avinor.no	v1	OpenSubtitles	v2018	3565	102548132	10	.28	0
 ELRC-565-avinor.no	v1	wikimedia	v20210402	3565	11389460	8	.22	0
+ELRC-565-avinor.no	v1	LinguaTools-WikiTitles	v2014	3565	8265652	8	.22	0
 ELRC-565-avinor.no	v1	ELRC-EMEA	v1	3565	806234	8	.22	0
 ELRC-565-avinor.no	v1	ELRC_2682	v1	3565	779183	8	.22	0
 ELRC-565-avinor.no	v1	ELRC-2710-EMEA	v1	3565	699854	8	.22	0
@@ -73,13 +78,17 @@ ELRC-565-avinor.no	v1	ELRC-2037-www.vero.fi	v1	3565	22339	7	.19	.03
 ELRC-565-avinor.no	v1	ELRA-W0204	v1	3565	21255	7	.19	.03
 ELRC-565-avinor.no	v1	ELRC-651-government_websites_	v1	3565	21255	7	.19	.03
 ELRC-565-avinor.no	v1	SciELO	v1	3565	3061142	6	.16	0
+ELRC-565-avinor.no	v1	JESC	v2019-12-05	3565	2377332	6	.16	0
+ELRC-565-avinor.no	v1	Anuvaad	v1	3565	1950854	6	.16	0
 ELRC-565-avinor.no	v1	Tatoeba	v2022-03-03	3565	1605560	6	.16	0
 ELRC-565-avinor.no	v1	OpenSubtitles	v1	3565	1598451	6	.16	0
 ELRC-565-avinor.no	v1	Tatoeba	v2021-07-22	3565	1497594	6	.16	0
 ELRC-565-avinor.no	v1	MIZAN	v1	3565	1016854	6	.16	0
+ELRC-565-avinor.no	v1	Nunavut_Hansard	v3.0.1	3565	744551	6	.16	0
 ELRC-565-avinor.no	v1	News-Commentary	v16	3565	633326	6	.16	0
 ELRC-565-avinor.no	v1	ELRC-2706-EMEA	v1	3565	577401	6	.16	0
 ELRC-565-avinor.no	v1	News-Commentary	v14	3565	530397	6	.16	0
+ELRC-565-avinor.no	v1	KFTT	v1.0	3565	433311	6	.16	0
 ELRC-565-avinor.no	v1	News-Commentary	v11	3565	362778	6	.16	0
 ELRC-565-avinor.no	v1	News-Commentary	v9.0	3565	328698	6	.16	0
 ELRC-565-avinor.no	v1	News-Commentary	v9.1	3565	328698	6	.16	0
@@ -398,6 +407,7 @@ ELRC-565-avinor.no	v1	ELRC-496-Convention_transfer_	v1	3565	116	4	.11	3.44
 ELRC-565-avinor.no	v1	ELRA-W0209	v1	3565	91	4	.11	4.39
 ELRC-565-avinor.no	v1	ELRC-662-Expression_interest	v1	3565	91	4	.11	4.39
 ELRC-565-avinor.no	v1	XLEnt	v1.1	3565	53628082	3	.08	0
+ELRC-565-avinor.no	v1	XLEnt	v1.2	3565	53628082	3	.08	0
 ELRC-565-avinor.no	v1	XLEnt	v1	3565	53628082	3	.08	0
 ELRC-565-avinor.no	v1	Tatoeba	v2	3565	407821	3	.08	0
 ELRC-565-avinor.no	v1	ELRC-5183-SciPar_Ukraine	v1	3565	320840	3	.08	0
@@ -496,6 +506,7 @@ ELRC-565-avinor.no	v1	ELRC-CORDIS_News	v1	3565	149280	1	.02	0
 ELRC-565-avinor.no	v1	ELRC-1117-CORDIS_News	v1	3565	110915	1	.02	0
 ELRC-565-avinor.no	v1	ELRC-939-vp2006_2016.presiden	v1	3565	28998	1	.02	0
 ELRC-565-avinor.no	v1	infopankki	v1	3565	21778	1	.02	0
+ELRC-565-avinor.no	v1	ALT	v2019	3565	18162	1	.02	0
 ELRC-565-avinor.no	v1	ELRA-W0263	v1	3565	13790	1	.02	0
 ELRC-565-avinor.no	v1	ELRC-913-2018_Proposal_a	v1	3565	13790	1	.02	0
 ELRC-565-avinor.no	v1	ELRC-4295-www.malfong.is	v1	3565	12374	1	.02	0
@@ -550,6 +561,7 @@ ELRC-565-avinor.no	v1	ELRC-2538-Lei_25_2009	v1	3565	171	1	.02	.58
 ELRC-565-avinor.no	v1	ELRC-656-Macroeconomic_Develo	v1	3565	158	1	.02	.63
 ELRC-565-avinor.no	v1	MultiUN	v1	3565	12514685	0	0	0
 ELRC-565-avinor.no	v1	ELRC-CORDIS_Results	v1	3565	288453	0	0	0
+ELRC-565-avinor.no	v1	NeuLab-TedTalks	v1	3565	279535	0	0	0
 ELRC-565-avinor.no	v1	ELRC-1122-CORDIS_Results_Brief	v1	3565	259759	0	0	0
 ELRC-565-avinor.no	v1	ELRC-1123-CORDIS_Results_Brief	v1	3565	252934	0	0	0
 ELRC-565-avinor.no	v1	ELRC-1126-CORDIS_Results_Brief	v1	3565	242571	0	0	0
@@ -709,6 +721,7 @@ ELRC-565-avinor.no	v1	ELRC-3560-EUR_LEX_covid	v1	3565	4508	0	0	0
 ELRC-565-avinor.no	v1	ELRC-3074-wikipedia_health	v1	3565	4356	0	0	0
 ELRC-565-avinor.no	v1	ELRC-3086-wikipedia_health	v1	3565	4262	0	0	0
 ELRC-565-avinor.no	v1	ELRC-3075-wikipedia_health	v1	3565	4090	0	0	0
+ELRC-565-avinor.no	v1	ELRC-5219-COVID_19_Parallel	v1	3565	4040	0	0	0
 ELRC-565-avinor.no	v1	ELRC-893-natmus.dk	v1	3565	3972	0	0	0
 ELRC-565-avinor.no	v1	ELRC-562-www.petoro.no	v1	3565	3884	0	0	0
 ELRC-565-avinor.no	v1	ada83	v1	3565	3874	0	0	0
@@ -726,6 +739,7 @@ ELRC-565-avinor.no	v1	ELRA-W0177	v1	3565	3026	0	0	0
 ELRC-565-avinor.no	v1	ELRC-475-Polish_Food	v1	3565	3026	0	0	0
 ELRC-565-avinor.no	v1	ELRC-2638-monumentos_2007	v1	3565	3025	0	0	0
 ELRC-565-avinor.no	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	3565	3022	0	0	0
+ELRC-565-avinor.no	v1	ECDC	v2016-03-16	3565	3012	0	0	0
 ELRC-565-avinor.no	v1	WMT-News	v2019	3565	3004	0	0	0
 ELRC-565-avinor.no	v1	ELRC-1240-Austrian_Research_Te	v1	3565	2996	0	0	0
 ELRC-565-avinor.no	v1	ELRA-W0180	v1	3565	2961	0	0	0
@@ -981,6 +995,7 @@ ELRC-565-avinor.no	v1	ELRA-W0253	v1	3565	79	0	0	0
 ELRC-565-avinor.no	v1	ELRC-873-Development	v1	3565	79	0	0	0
 ELRC-565-avinor.no	v1	ELRC-2623-Patrimnio_Aores_2006	v1	3565	65	0	0	0
 ELRC-565-avinor.no	v1	ELRC-Patrimnio_Aores	v1	3565	65	0	0	0
+ELRC-565-avinor.no	v1	ELRC-5220-Information_crime_vi	v1	3565	53	0	0	0
 ELRC-565-avinor.no	v1	ELRC-3456-EC_EUROPA_covid	v1	3565	50	0	0	0
 ELRC-565-avinor.no	v1	ELRC-5141-Preasritis__Choliste	v1	3565	50	0	0	0
 ELRC-565-avinor.no	v1	ELRC-2537-Lei_20_2008	v1	3565	49	0	0	0
