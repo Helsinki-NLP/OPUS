@@ -63,3 +63,28 @@ ALT/v2019/raw/my.zip
 ALT/v2019/tmx/en-ja.tmx.gz
 ALT/v2019/xml/en.zip
 ALT/v2019/xml/my.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ALT/v2019/freq/en.freq.gz
+ALT/v2019/freq/my.freq.gz
+ALT/v2019/mono/en.tok.gz
+ALT/v2019/mono/en.txt.gz
+ALT/v2019/mono/my.tok.gz
+ALT/v2019/mono/my.txt.gz
+ALT/v2019/moses/en-ja.txt.zip
+ALT/v2019/raw/en.zip
+ALT/v2019/raw/my.zip
+ALT/v2019/tmx/en-ja.tmx.gz
+ALT/v2019/xml/en.zip
+ALT/v2019/xml/my.zip
