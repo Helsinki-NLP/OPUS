@@ -1,7 +1,7 @@
  Corpus Name: ALT
      Website: http://opus.nlpl.eu/ALT-v2019.php
      Release: v2019
-Release date: Thu Jan 19 10:10:23 EET 2023
+Release date: Thu Feb 16 08:55:49 EET 2023
      License: CC-BY 4.0
    Copyright: For more information about the source, see <a href="https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/">https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/</a>
      Contact: For questions, comments, etc. please email to "wat-organizer -at- googlegroups -dot- com". 
@@ -33,9 +33,11 @@ ALT/v2019/mono/en.txt.gz
 ALT/v2019/mono/my.tok.gz
 ALT/v2019/mono/my.txt.gz
 ALT/v2019/moses/en-ja.txt.zip
+ALT/v2019/moses/en-my.txt.zip
 ALT/v2019/raw/en.zip
 ALT/v2019/raw/my.zip
 ALT/v2019/tmx/en-ja.tmx.gz
+ALT/v2019/tmx/en-my.tmx.gz
 ALT/v2019/xml/en.zip
 ALT/v2019/xml/my.zip
 -----------------------------
@@ -58,33 +60,10 @@ ALT/v2019/mono/en.txt.gz
 ALT/v2019/mono/my.tok.gz
 ALT/v2019/mono/my.txt.gz
 ALT/v2019/moses/en-ja.txt.zip
+ALT/v2019/moses/en-my.txt.zip
 ALT/v2019/raw/en.zip
 ALT/v2019/raw/my.zip
 ALT/v2019/tmx/en-ja.tmx.gz
-ALT/v2019/xml/en.zip
-ALT/v2019/xml/my.zip
------------------------------
-xml ....... tokenized corpus and sentence alignments
-raw ....... untokenized corpus in XML
-parsed .... parsed corpus in XML
-mono ...... monolingual text files
-moses ..... aligned plain text files
-tmx ....... bitexts in TMX format
-freq ...... token frequencies
-smt ....... word alignments and phrase translation tables
-dic ....... bilingual dictionaries extracted from word alignments
------------------------------
-Files in this release
------------------------------
-ALT/v2019/freq/en.freq.gz
-ALT/v2019/freq/my.freq.gz
-ALT/v2019/mono/en.tok.gz
-ALT/v2019/mono/en.txt.gz
-ALT/v2019/mono/my.tok.gz
-ALT/v2019/mono/my.txt.gz
-ALT/v2019/moses/en-ja.txt.zip
-ALT/v2019/raw/en.zip
-ALT/v2019/raw/my.zip
-ALT/v2019/tmx/en-ja.tmx.gz
+ALT/v2019/tmx/en-my.tmx.gz
 ALT/v2019/xml/en.zip
 ALT/v2019/xml/my.zip

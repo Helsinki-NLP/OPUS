@@ -1,7 +1,6 @@
 ---
 bitexts:
   en-ja:
-    alignments: 18088
     downloads:
       alignments:
         size: 137336
@@ -10,8 +9,26 @@ bitexts:
         size: 1063331
         url: https://object.pouta.csc.fi/OPUS-ALT/v2019/raw/en.zip
       tokenized source language:
-        size: 2717624
+        size: 2775031
         url: https://object.pouta.csc.fi/OPUS-ALT/v2019/xml/en.zip
+  en-my:
+    alignments: 18088
+    downloads:
+      alignments:
+        size: 137336
+        url: https://object.pouta.csc.fi/OPUS-ALT/v2019/xml/en-my.xml.gz
+      source language:
+        size: 1063331
+        url: https://object.pouta.csc.fi/OPUS-ALT/v2019/raw/en.zip
+      target language:
+        size: 1797019
+        url: https://object.pouta.csc.fi/OPUS-ALT/v2019/raw/my.zip
+      tokenized source language:
+        size: 2775031
+        url: https://object.pouta.csc.fi/OPUS-ALT/v2019/xml/en.zip
+      tokenized target language:
+        size: 4632110
+        url: https://object.pouta.csc.fi/OPUS-ALT/v2019/xml/my.zip
     files: 1
     source language tokens: 471544
     target language tokens: 805032
@@ -28,7 +45,7 @@ monolingual:
         size: 992717
         url: https://object.pouta.csc.fi/OPUS-ALT/v2019/mono/en.tok.gz
       tokenized xml:
-        size: 2717624
+        size: 2775031
         url: https://object.pouta.csc.fi/OPUS-ALT/v2019/xml/en.zip
       xml:
         size: 1063331
@@ -48,25 +65,31 @@ monolingual:
         size: 1738537
         url: https://object.pouta.csc.fi/OPUS-ALT/v2019/mono/my.tok.gz
       tokenized xml:
-        size: 4572927
+        size: 4632110
         url: https://object.pouta.csc.fi/OPUS-ALT/v2019/xml/my.zip
       xml:
-        size: 1797018
+        size: 1797019
         url: https://object.pouta.csc.fi/OPUS-ALT/v2019/raw/my.zip
     files: 1
     sentences: 18089
     tokens: 805032
 moses:
   en-ja:
-    alignments: 18089
     download size: 2810710
     download url: https://object.pouta.csc.fi/OPUS-ALT/v2019/moses/en-ja.txt.zip
+  en-my:
+    alignments: 18089
+    download size: 2810711
+    download url: https://object.pouta.csc.fi/OPUS-ALT/v2019/moses/en-my.txt.zip
     source language tokens: 413000
     target language tokens: 662790
 tmx:
   en-ja:
     download size: 3162163
     download url: https://object.pouta.csc.fi/OPUS-ALT/v2019/tmx/en-ja.tmx.gz
+  en-my:
+    download size: 3162173
+    download url: https://object.pouta.csc.fi/OPUS-ALT/v2019/tmx/en-my.tmx.gz
     source language tokens: 412957
     target language tokens: 662732
     translation units: 18086
