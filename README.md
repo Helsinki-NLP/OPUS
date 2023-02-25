@@ -41,7 +41,7 @@ Machine translation with OPUS-MT:
 * [OPUS-MT-train](https://github.com/Helsinki-NLP/OPUS-MT-train) - scripts and recipes for training OPUS-MT models
 * [OPUS-translator](https://github.com/Helsinki-NLP/OPUS-translator) - OPUS-MT web interface [[live demo](https://translate.ling.helsinki.fi/)]
 * [OPUS-MT-testsets](https://github.com/Helsinki-NLP/OPUS-MT-testsets) - a collection of MT benchmarks
-* [OPUS-MT-leaderboard](https://github.com/Helsinki-NLP/OPUS-MT-leaderboard) - OPUS-MT evaluation scores and leaderboards [[live demo](https://opus.nlpl.eu/leaderboard/)]
+* [OPUS-MT-leaderboard](https://github.com/Helsinki-NLP/OPUS-MT-leaderboard) - OPUS-MT evaluation scores and leaderboards [[live demo](https://opus.nlpl.eu/dashboard/)]
 * [OPUS-MT-map](https://github.com/Helsinki-NLP/OPUS-MT-map) - interactive map of OPUS-MT language coverage [[live demo](https://opus.nlpl.eu/NMT-map/Tatoeba-all/src2trg/index.html)]
 * [OPUS-MT-app](https://github.com/Helsinki-NLP/OPUS-MT-app) - desktop app for local translation with OPUS-MT (fork of [translateLocally](https://github.com/XapaJIaMnu/translateLocally))
 * [OPUS-CAT](https://github.com/Helsinki-NLP/OPUS-CAT) - OPUS-MT integration in CAT tools
