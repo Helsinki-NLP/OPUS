@@ -1,0 +1,234 @@
+ Corpus Name: GoURMET
+     Website: http://opus.nlpl.eu/GoURMET-v2.php
+     Release: v2
+Release date: Fri Mar 10 00:50:54 EET 2023
+     License: <a href=https://creativecommons.org/share-your-work/public-domain/cc0/>Creative Commons CC0 license</a>
+   Copyright: All content is made publicly available through a Creative Commons CC0 license.
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, acknowledge the gourmet project at <a href="https://gourmet-project.eu">https://gourmet-project.eu</a>. This version is derived from the original release at their website adjusted for redistribution via the OPUS corpus collection. Please, acknowledge OPUS as well for this service.
+
+Parallel corpora from Web Crawls collected in the gourmet project and further processed for making it a multi-parallel corpus by pivoting via English.
+The data is released under the Creative Commons CC0 license ("no rights reserved")
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+GoURMET/v2/freq/am.freq.gz
+GoURMET/v2/freq/en.freq.gz
+GoURMET/v2/freq/ha.freq.gz
+GoURMET/v2/freq/hbs.freq.gz
+GoURMET/v2/freq/ig.freq.gz
+GoURMET/v2/freq/ky.freq.gz
+GoURMET/v2/freq/mk.freq.gz
+GoURMET/v2/freq/my.freq.gz
+GoURMET/v2/freq/ps.freq.gz
+GoURMET/v2/freq/ru.freq.gz
+GoURMET/v2/freq/sr.freq.gz
+GoURMET/v2/freq/sw.freq.gz
+GoURMET/v2/freq/tr.freq.gz
+GoURMET/v2/freq/yo.freq.gz
+GoURMET/v2/mono/am.tok.gz
+GoURMET/v2/mono/am.txt.gz
+GoURMET/v2/mono/en.tok.gz
+GoURMET/v2/mono/en.txt.gz
+GoURMET/v2/mono/ha.tok.gz
+GoURMET/v2/mono/ha.txt.gz
+GoURMET/v2/mono/hbs.tok.gz
+GoURMET/v2/mono/hbs.txt.gz
+GoURMET/v2/mono/ig.tok.gz
+GoURMET/v2/mono/ig.txt.gz
+GoURMET/v2/mono/ky.tok.gz
+GoURMET/v2/mono/ky.txt.gz
+GoURMET/v2/mono/mk.tok.gz
+GoURMET/v2/mono/mk.txt.gz
+GoURMET/v2/mono/my.tok.gz
+GoURMET/v2/mono/my.txt.gz
+GoURMET/v2/mono/ps.tok.gz
+GoURMET/v2/mono/ps.txt.gz
+GoURMET/v2/mono/ru.tok.gz
+GoURMET/v2/mono/ru.txt.gz
+GoURMET/v2/mono/sr.tok.gz
+GoURMET/v2/mono/sr.txt.gz
+GoURMET/v2/mono/sw.tok.gz
+GoURMET/v2/mono/sw.txt.gz
+GoURMET/v2/mono/tr.tok.gz
+GoURMET/v2/mono/tr.txt.gz
+GoURMET/v2/mono/yo.tok.gz
+GoURMET/v2/mono/yo.txt.gz
+GoURMET/v2/moses/am-en.txt.zip
+GoURMET/v2/moses/en-ha.txt.zip
+GoURMET/v2/moses/en-hbs.txt.zip
+GoURMET/v2/moses/en-ig.txt.zip
+GoURMET/v2/moses/en-ky.txt.zip
+GoURMET/v2/moses/en-mk.txt.zip
+GoURMET/v2/moses/en-my.txt.zip
+GoURMET/v2/moses/en-ps.txt.zip
+GoURMET/v2/moses/en-sr.txt.zip
+GoURMET/v2/moses/en-sw.txt.zip
+GoURMET/v2/moses/en-tr.txt.zip
+GoURMET/v2/moses/en-yo.txt.zip
+GoURMET/v2/moses/ky-ru.txt.zip
+GoURMET/v2/raw/am.zip
+GoURMET/v2/raw/en.zip
+GoURMET/v2/raw/ha.zip
+GoURMET/v2/raw/hbs.zip
+GoURMET/v2/raw/ig.zip
+GoURMET/v2/raw/ky.zip
+GoURMET/v2/raw/mk.zip
+GoURMET/v2/raw/my.zip
+GoURMET/v2/raw/ps.zip
+GoURMET/v2/raw/ru.zip
+GoURMET/v2/raw/sr.zip
+GoURMET/v2/raw/sw.zip
+GoURMET/v2/raw/tr.zip
+GoURMET/v2/raw/yo.zip
+GoURMET/v2/tmx/am-en.tmx.gz
+GoURMET/v2/tmx/en-ha.tmx.gz
+GoURMET/v2/tmx/en-hbs.tmx.gz
+GoURMET/v2/tmx/en-ig.tmx.gz
+GoURMET/v2/tmx/en-ky.tmx.gz
+GoURMET/v2/tmx/en-mk.tmx.gz
+GoURMET/v2/tmx/en-my.tmx.gz
+GoURMET/v2/tmx/en-ps.tmx.gz
+GoURMET/v2/tmx/en-sr.tmx.gz
+GoURMET/v2/tmx/en-sw.tmx.gz
+GoURMET/v2/tmx/en-tr.tmx.gz
+GoURMET/v2/tmx/en-yo.tmx.gz
+GoURMET/v2/tmx/ky-ru.tmx.gz
+GoURMET/v2/xml/am.zip
+GoURMET/v2/xml/bg.zip
+GoURMET/v2/xml/en.zip
+GoURMET/v2/xml/ha.zip
+GoURMET/v2/xml/hbs.zip
+GoURMET/v2/xml/ig.zip
+GoURMET/v2/xml/ky.zip
+GoURMET/v2/xml/mk.zip
+GoURMET/v2/xml/my.zip
+GoURMET/v2/xml/ps.zip
+GoURMET/v2/xml/ru.zip
+GoURMET/v2/xml/sr.zip
+GoURMET/v2/xml/sw.zip
+GoURMET/v2/xml/tr.zip
+GoURMET/v2/xml/yo.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+GoURMET/v2/freq/am.freq.gz
+GoURMET/v2/freq/en.freq.gz
+GoURMET/v2/freq/ha.freq.gz
+GoURMET/v2/freq/hbs.freq.gz
+GoURMET/v2/freq/ig.freq.gz
+GoURMET/v2/freq/ky.freq.gz
+GoURMET/v2/freq/mk.freq.gz
+GoURMET/v2/freq/my.freq.gz
+GoURMET/v2/freq/ps.freq.gz
+GoURMET/v2/freq/ru.freq.gz
+GoURMET/v2/freq/sr.freq.gz
+GoURMET/v2/freq/sw.freq.gz
+GoURMET/v2/freq/tr.freq.gz
+GoURMET/v2/freq/yo.freq.gz
+GoURMET/v2/mono/am.tok.gz
+GoURMET/v2/mono/am.txt.gz
+GoURMET/v2/mono/en.tok.gz
+GoURMET/v2/mono/en.txt.gz
+GoURMET/v2/mono/ha.tok.gz
+GoURMET/v2/mono/ha.txt.gz
+GoURMET/v2/mono/hbs.tok.gz
+GoURMET/v2/mono/hbs.txt.gz
+GoURMET/v2/mono/ig.tok.gz
+GoURMET/v2/mono/ig.txt.gz
+GoURMET/v2/mono/ky.tok.gz
+GoURMET/v2/mono/ky.txt.gz
+GoURMET/v2/mono/mk.tok.gz
+GoURMET/v2/mono/mk.txt.gz
+GoURMET/v2/mono/my.tok.gz
+GoURMET/v2/mono/my.txt.gz
+GoURMET/v2/mono/ps.tok.gz
+GoURMET/v2/mono/ps.txt.gz
+GoURMET/v2/mono/ru.tok.gz
+GoURMET/v2/mono/ru.txt.gz
+GoURMET/v2/mono/sr.tok.gz
+GoURMET/v2/mono/sr.txt.gz
+GoURMET/v2/mono/sw.tok.gz
+GoURMET/v2/mono/sw.txt.gz
+GoURMET/v2/mono/tr.tok.gz
+GoURMET/v2/mono/tr.txt.gz
+GoURMET/v2/mono/yo.tok.gz
+GoURMET/v2/mono/yo.txt.gz
+GoURMET/v2/moses/am-en.txt.zip
+GoURMET/v2/moses/en-ha.txt.zip
+GoURMET/v2/moses/en-hbs.txt.zip
+GoURMET/v2/moses/en-ig.txt.zip
+GoURMET/v2/moses/en-ky.txt.zip
+GoURMET/v2/moses/en-mk.txt.zip
+GoURMET/v2/moses/en-my.txt.zip
+GoURMET/v2/moses/en-ps.txt.zip
+GoURMET/v2/moses/en-sr.txt.zip
+GoURMET/v2/moses/en-sw.txt.zip
+GoURMET/v2/moses/en-tr.txt.zip
+GoURMET/v2/moses/en-yo.txt.zip
+GoURMET/v2/moses/ky-ru.txt.zip
+GoURMET/v2/raw/am.zip
+GoURMET/v2/raw/en.zip
+GoURMET/v2/raw/ha.zip
+GoURMET/v2/raw/hbs.zip
+GoURMET/v2/raw/ig.zip
+GoURMET/v2/raw/ky.zip
+GoURMET/v2/raw/mk.zip
+GoURMET/v2/raw/my.zip
+GoURMET/v2/raw/ps.zip
+GoURMET/v2/raw/ru.zip
+GoURMET/v2/raw/sr.zip
+GoURMET/v2/raw/sw.zip
+GoURMET/v2/raw/tr.zip
+GoURMET/v2/raw/yo.zip
+GoURMET/v2/tmx/am-en.tmx.gz
+GoURMET/v2/tmx/en-ha.tmx.gz
+GoURMET/v2/tmx/en-hbs.tmx.gz
+GoURMET/v2/tmx/en-ig.tmx.gz
+GoURMET/v2/tmx/en-ky.tmx.gz
+GoURMET/v2/tmx/en-mk.tmx.gz
+GoURMET/v2/tmx/en-my.tmx.gz
+GoURMET/v2/tmx/en-ps.tmx.gz
+GoURMET/v2/tmx/en-sr.tmx.gz
+GoURMET/v2/tmx/en-sw.tmx.gz
+GoURMET/v2/tmx/en-tr.tmx.gz
+GoURMET/v2/tmx/en-yo.tmx.gz
+GoURMET/v2/tmx/ky-ru.tmx.gz
+GoURMET/v2/xml/am.zip
+GoURMET/v2/xml/bg.zip
+GoURMET/v2/xml/en.zip
+GoURMET/v2/xml/ha.zip
+GoURMET/v2/xml/hbs.zip
+GoURMET/v2/xml/ig.zip
+GoURMET/v2/xml/ky.zip
+GoURMET/v2/xml/mk.zip
+GoURMET/v2/xml/my.zip
+GoURMET/v2/xml/ps.zip
+GoURMET/v2/xml/ru.zip
+GoURMET/v2/xml/sr.zip
+GoURMET/v2/xml/sw.zip
+GoURMET/v2/xml/tr.zip
+GoURMET/v2/xml/yo.zip
