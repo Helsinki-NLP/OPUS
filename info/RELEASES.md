@@ -1192,7 +1192,7 @@
 | [StanfordNLP-NMT](http://opus.nlpl.eu/StanfordNLP-NMT.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/StanfordNLP-NMT/v1.0)  |
 | [SUMMA](http://opus.nlpl.eu/SUMMA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SUMMA/v1)  |
 | [Tanzil](http://opus.nlpl.eu/Tanzil.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tanzil/v1)  |
-| [Tatoeba](http://opus.nlpl.eu/Tatoeba-v2020-05.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2) [v20190709](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v20190709) [v2020-05-31](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-05-31) [v2020-11-09](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-11-09) [v2021-03-10](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-03-10) [v2021-07-22](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-07-22) [v2022-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2022-03-03)  |
+| [Tatoeba](http://opus.nlpl.eu/Tatoeba-v2020-05.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2) [v20190709](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v20190709) [v2020-05-31](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-05-31) [v2020-11-09](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-11-09) [v2021-03-10](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-03-10) [v2021-07-22](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-07-22) [v2022-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2022-03-03) [v2023-04-12](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2023-04-12)  |
 | [TED2013](http://opus.nlpl.eu/TED2013.php) | [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TED2013/v1.1)  |
 | [TED2020](http://opus.nlpl.eu/TED2020.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TED2020/v1)  |
 | [TedTalks](http://opus.nlpl.eu/TedTalks.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TedTalks/v1)  |
@@ -1203,7 +1203,7 @@
 | [UN](http://opus.nlpl.eu/UN.php) | [v20090831](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/UN/v20090831)  |
 | [UNPC](http://opus.nlpl.eu/UNPC.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/UNPC/v1.0)  |
 | [WikiMatrix](http://opus.nlpl.eu/WikiMatrix.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WikiMatrix/v1)  |
-| [wikimedia](http://opus.nlpl.eu/wikimedia.php) | [v20190628](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/wikimedia/v20190628) [v20210402](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/wikimedia/v20210402)  |
+| [wikimedia](http://opus.nlpl.eu/wikimedia.php) | [v20190628](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/wikimedia/v20190628) [v20210402](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/wikimedia/v20210402) [v20230407](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/wikimedia/v20230407)  |
 | [Wikipedia](http://opus.nlpl.eu/Wikipedia.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Wikipedia/v1.0)  |
 | [WikiSource](http://opus.nlpl.eu/WikiSource.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WikiSource/v1)  |
 | [WikiTitles](http://opus.nlpl.eu/WikiTitles.php) | [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/WikiTitles/v3)  |

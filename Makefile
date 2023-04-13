@@ -25,7 +25,7 @@ cleanup-dry-run:
 
 cleanup:
 	${MAKE} commit
-	git clean -d
+	git clean -d -f
 
 
 # create a TSV file with essential release information
