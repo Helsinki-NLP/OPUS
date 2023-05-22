@@ -1,6 +1,19 @@
----
-latest release: v1
+contact: empty
+copyright: empty
+latest_release: v1
+license: CC-BY-SA-4.0
 name: Bianet
 releases:
   v1: Sun Feb  3 00:39:37 EET 2019
 website: http://opus.nlpl.eu/Bianet.php
+description: >
+  A parallel news corpus in Turkish, Kurdish and English; Source: https://d-ataman.github.io/bianet/
+  Bianet collects 3,214 Turkish articles with their sentence-aligned Kurdish or English translations from the <a href="https://bianet.org/" target="_blank">Bianet online newspaper</a>. This corpus is distributed under the CC-BY-SA-4.0 open license.
+bibtex: empty
+cite: >
+  If you use Bianet, please cite: Ataman, D. (2018) Bianet: <a href="http://lrec-conf.org/workshops/lrec2018/W19/pdf/6_W19.pdf" target="_blank">A Parallel News Corpus in Turkish, Kurdish and English.</a> In Proceedings of the LREC 2018 Workshop MLP-Moment. pp. 14-17.
+number_of_languages: 3
+bitexts: 3
+number_of_files: 6
+total_number_of_tokens: 2.25M
+total_sentence_fragments: 0.14M

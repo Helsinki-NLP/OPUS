@@ -1,6 +1,24 @@
----
-latest release: v1
+contact: empty
+copyright: empty
+latest_release: v1
+license: empty
 name: CCAligned
 releases:
   v1: Fri Jan 29 22:27:39 EET 2021
-website: http://opus.nlpl.eu/CCAligned.php
+website: https://opus.nlpl.eu/CCAligned.php
+description: >
+  This corpus was created from 68 Commoncrawl Snapshots (up until March 2020). The documents are split into sentences based on punctuations and deduplication is performed. No claims of intellectual property are made on the work of preparation of the corpus. The original distribution is available from http://www.statmt.org/cc-aligned/ <br/>
+
+  CCAligned consists of parallel or comparable web-document pairs in 137 languages aligned with English. These web-document pairs were constructed by performing language identification on raw web-documents, and ensuring corresponding language codes were corresponding in the URLs of web documents. This pattern matching approach yielded more than 100 million aligned documents paired with English. Recognizing that each English document was often aligned to mulitple documents in different target language, we can join on English documents to obtain aligned documents that directly pair two non-English documents (e.g., Arabic-French). <br/>
+
+  Sentence pairs were extracted using similarity scores of LASER embeddings from the document pairs (minimum similarity 1.04, sorted based on decreasing similarity score). It misses some languages not covered by LASER.
+bibtex: >
+  IEBpbnByb2NlZWRpbmdze2Vsa2lzaGt5X2NjYWxpZ25lZF8yMDIwLAogYXV0aG9yID0ge0VsLUtpc2hreSwgQWhtZWQgYW5kIENoYXVkaGFyeSwgVmlzaHJhdiBhbmQgR3V6bcOhbiwgRnJhbmNpc2NvIGFuZCBLb2VobiwgUGhpbGlwcH0sCiBib29rdGl0bGUgPSB7UHJvY2VlZGluZ3Mgb2YgdGhlIDIwMjAgQ29uZmVyZW5jZSBvbiBFbXBpcmljYWwgTWV0aG9kcyBpbiBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3NpbmcgKEVNTkxQIDIwMjApfSwKIG1vbnRoID0ge05vdmVtYmVyfSwKIHRpdGxlID0ge3tDQ0FsaWduZWR9OiBBIE1hc3NpdmUgQ29sbGVjdGlvbiBvZiBDcm9zcy1saW5ndWFsIFdlYi1Eb2N1bWVudCBQYWlyc30sCiB5ZWFyID0gezIwMjB9CiBhZGRyZXNzID0gIk9ubGluZSIsCiBwdWJsaXNoZXIgPSAiQXNzb2NpYXRpb24gZm9yIENvbXB1dGF0aW9uYWwgTGluZ3Vpc3RpY3MiLAogdXJsID0gImh0dHBzOi8vd3d3LmFjbHdlYi5vcmcvYW50aG9sb2d5LzIwMjAuZW1ubHAtbWFpbi40ODAiLAogZG9pID0gIjEwLjE4NjUzL3YxLzIwMjAuZW1ubHAtbWFpbi40ODAiLAogcGFnZXMgPSAiNTk2MC0tNTk2OSIKIH0=
+cite: >
+  If you use the dataset or code, please cite <a href="https://aclanthology.org/2020.emnlp-main.480.pdf" targer="_blank">(pdf)</a>  <br/>
+  Please, acknowledge <a href="https://aclanthology.org/L12-1246/" target="_blank">OPUS</a> (<a href="https://www.aclweb.org/anthology/L12-1246.bib" target="_blank">bib</a>, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="_blank">pdf</a>) as well for this service. For more information on the sentence pair mining method, see <a href="https://aclanthology.org/W19-5435/" target="_blank">Chaudhary et al., WMT 2019</a> (<a href="https://www.aclweb.org/anthology/W19-5435.bib" target="_blank">bib</a>, <a href="https://aclanthology.org/W19-5435.pdf" target="_blank">pdf</a>).
+number_of_languages: 113
+bitexts: 112
+number_of_files: 36185
+total_number_of_tokens: 26.39G
+total_sentence_fragments: 2.25G

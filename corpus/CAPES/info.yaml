@@ -1,7 +1,24 @@
----
-latest release: v1
+contact: empty
+copyright: empty
+latest_release: v1
 license: CC-BY 4.0
 name: CAPES
 releases:
   v1: Mon Jun 17 05:44:31 EEST 2019
 website: http://opus.nlpl.eu/CAPES.php
+description: >
+  Parallel corpus of theses and dissertation abstracts in Portuguese and English from CAPES
+  source: https://sites.google.com/view/felipe-soares/datasets
+  A parallel corpus of theses and dissertations abstracts in English and Portuguese were collected from the CAPES website (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) - Brazil. The corpus is sentence aligned for all language pairs. Approximately 240,000 documents were collected and aligned using the Hunalign algorithm.
+  DOI: https://doi.org/10.6084/m9.figshare.5995519.v2
+  If you use this corpus, please cite the following work:
+bibtex: >
+  QGlucHJvY2VlZGluZ3N7c29hcmVzMjAxOHBhcmFsbGVsLAp0aXRsZT17QSBQYXJhbGxlbCBDb3JwdXMgb2YgVGhlc2VzIGFuZCBEaXNzZXJ0YXRpb25zIEFic3RyYWN0c30sCmF1dGhvcj17U29hcmVzLCBGZWxpcGUgYW5kIFlhbWFzaGl0YSwgR2FicmllbGxpIEhhcnVtaSBhbmQgQW56YW5lbGxvLCBNaWNoZWwgSm9zZX0sCmJvb2t0aXRsZT17SW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIENvbXB1dGF0aW9uYWwgUHJvY2Vzc2luZyBvZiB0aGUgUG9ydHVndWVzZSBMYW5ndWFnZX0sCnBhZ2VzPXszNDUtLTM1Mn0sCnllYXI9ezIwMTh9LApvcmdhbml6YXRpb249e1NwcmluZ2VyfQp9
+cite: >
+  Please cite the <a> href="https://opus.nlpl.eu/LREC2012.txt">following article</a> if you use any part of the corpus in your own work:
+  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf">Parallel Data, Tools and Interfaces in OPUS.</a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: 2
+bitexts: empty
+number_of_files: 2
+total_number_of_tokens: 77.56M
+total_sentence_fragments: 2.32M

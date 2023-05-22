@@ -1,8 +1,20 @@
 ---
 contact: nlp-nmt@tarento.com
-latest release: v1
+copyright: empty
+latest_release: v1
 license: CC-BY-4.0
 name: Anuvaad
 releases:
   v1: Fri Jan 13 17:26:46 EET 2023
 website: http://opus.nlpl.eu/Anuvaad.php
+description: >
+  This repository contains parallel language corpus links for popular Indian languages developed as part of the <a href="https://anuvaad.org/" target="_blank">Anuvaad project</a>. The Anuvaad Parallel Corpus is available from https://github.com/project-anuvaad/anuvaad-parallel-corpus.
+bibtex: empty
+cite: >
+  Please cite the <a href="https://opus.nlpl.eu/LREC2012.txt" target="_blank">following article</a> if you use the OPUS packages and downloads in your own work:
+  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf">Parallel Data, Tools and Interfaces in OPUS.</a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: 13
+bitexts: 12
+number_of_files: 387
+total_number_of_tokens: 1.07G
+total_sentence_fragments: 37.02M

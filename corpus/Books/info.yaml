@@ -1,6 +1,21 @@
----
-latest release: v1
+contact: empty
+copyright: empty
+latest_release: v1
+license: empty
 name: Books
 releases:
   v1: Sat Mar  3 21:08:25 EET 2018
 website: http://opus.nlpl.eu/Books-2018-03.php
+description: >
+  This is a collection of copyright free books aligned by <a href="https://farkastranslations.com/" target="_blank">Andras Farkas</a>, which are available from http://www.farkastranslations.com/bilingual_books.php </br>
+  Note that the texts are rather dated due to copyright issues and that some of them are manually reviewed (check the meta-data at the top of the corpus files in XML). The source is multilingually aligned, which is available from http://www.farkastranslations.com/bilingual_books.php. In OPUS, the alignment is formally bilingual but the multilingual alignment can be recovered from the XCES sentence alignment files. Note also that the alignment units from the original source may include multi-sentence paragraphs, which are split and sentence-aligned in OPUS.</br>
+  All texts are freely available for personal, educational and research use. Commercial use (e.g. reselling as parallel books) and mass redistribution without explicit permission are not granted. Please acknowledge the source when using the data!
+bibtex: empty
+cite: >
+  Please cite the <a href="https://opus.nlpl.eu/LREC2012.txt" target="_blank">following article</a> if you use any part of the corpus in your own work:
+  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf">Parallel Data, Tools and Interfaces in OPUS.</a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: 16
+bitexts: 64
+number_of_files: 158
+total_number_of_tokens: 19.50M
+total_sentence_fragments: 0.91M
