@@ -1,6 +1,21 @@
----
-latest release: v3.0
+contact: empty
+copyright: empty
+latest_release: v3.0
+license: empty
 name: JRC-Acquis
 releases:
   v3.0: Sun Dec 23 13:21:13 EET 2018
 website: http://opus.nlpl.eu/JRC-Acquis.php
+description: >
+  JRC-Acquis is a collection of legislative text of the European Union and currently comprises selected texts written between the 1950s and now.
+  Source: https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis</br>
+  The version at OPUS is based on the paragraph-aligned corpus provided by JRC (aligned using hunalign) but adds also sentence boundary markup and sentence alignment for all sentence pairs. The format is also converted to be compatible with OPUS but contains the same information otherwise (content and metadata).
+bibtex: empty
+cite: >
+  For licensing issues please check cite the <a href="https://joint-research-centre.ec.europa.eu/language-technology-resources/jrc-acquis_en" target="_blank">following article</a> if you use any part of the corpus in your own work:
+  Jörg Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="_blank">Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: empty
+bitexts: empty
+number_of_files: empty
+total_number_of_tokens: empty
+total_sentence_fragments: empty

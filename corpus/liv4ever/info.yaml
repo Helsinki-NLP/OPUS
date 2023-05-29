@@ -1,7 +1,54 @@
----
-latest release: v1
-license: CC BY-SA
+contact: empty
+copyright: empty
+latest_release: v1
+license: CC-BY-SA
 name: liv4ever
 releases:
   v1: Fri Nov 26 20:21:44 EET 2021
 website: http://opus.nlpl.eu/liv4ever.php
+description: >
+  This is the Livonian 4-lingual parallel corpus. Livonian is a Uralic / Finnic language with just about 20 fluent speakers and no native speakers (as of 2021). The texts and translations in this corpus were collected from all the digital text resources that could be found by the authors; scanned and printed materials are left for future work.</br>
+  The corpus includes parallel data for Livonian-Latvian, Livonian-Estonian and Livonian-English; the data has been collected in 2021. After retrieval it was normalized in terms of different orthographies of Livonian and manually sentence-aligned where needed. It was collected from the following sources, with sentence counts per language pair:
+  <ul>
+  <li><b>Dictionary</b> - example sentences from the Livonian-Latvian-Estonian dictionary;
+  liv-lv: 10'388, liv-et: 10'378</li>
+  <li><b>Stalte</b> - the alphabet book by Kōrli Stalte, translated into Estonian and Latvian;
+  liv-lv: 842, liv-et: 685</li>
+  <li><b>Poetry</b> - the poetry collection book "Ma võtan su õnge, tursk / Ma akūb sīnda vizzõ, tūrska", with Estonian translations;
+  liv-et: 770</li>
+  <li><b>Vääri</b> - the book by Eduard Vääri about Livonian language and culture;
+  liv-et: 592</li>
+  <li><b>Satversme</b> - translations of the Latvian Constitution into Livonian, Estonian and English;
+  liv-en: 380, liv-lv: 414, liv-et: 413</li>
+  <li><b>Facebook</b> - social media posts by the Livonian Institute and Livonian Days with original translations;
+  liv-en: 123, liv-lv: 124, liv-et: 7</>
+  <li><b>JEFUL</b> - article abstracts from the Journal of Estonian and Finno-Ugric Linguistics, special issues dedicated to Livonian studies, translated into Estonian and English;
+  liv-en: 36, liv-et: 49</li>
+  <li><b>Trilium</b> - the book with a collection of Livonian poetry, foreword and afterword translated into Estonian and Latvian;
+  liv-lv: 51, liv-et: 53</li>
+  <li><b>Songs</b> - material crawled off lyricstranslate.com;
+  liv-en: 54, liv-lv: 54, liv-fr: 31</li>
+  </ul></br>
+  A small part of the corpus is held out in order to be used as a translation benchmark (dev and test set, see below for download). Its material was manually translated in order to have each sentence translated in all four languages (Livonian-English-Latvian-Estonian). The material sources and resulting sentence counts:
+  <ul>
+  <li><b>Livones.net </b>- web crawl of the Livonian culture, language and history web portal;
+  163 sentences</li>
+  <li><b>Stalte</b> - 310 sentences</li>
+  <li><b>Dictionar</b> - 298 sentences</li>
+  <li><b>Facebook</b> - 189 sentences</li>
+  <li><b>Satversme</b> - 188 sentences</li>
+  <li><b>Trilium</b> - 172 sentences</li>
+  <li><b>JEFUL</b> - 120 sentences</li>
+  </ul>
+  Other Download Packages
+  <ul><li>Independent development set: liv4ever-dev.tgz</li>
+  <li>Independent test set: liv4ever-test.tgz</li>
+  <li>Original training set: liv4ever-train.tgz</li></ul>
+bibtex: empty
+cite: >
+  Please cite the <a href="https://aclanthology.org/2022.acl-short.55/" target="_blank">following article</a> if you use any part of the corpus in your own work: Matīss Rikters, Marili Tomingas, Tuuli Tuisk, Valts Ernštreits, Mark Fishel: Machine Translation for Livonian: Catering to 20 Speakers. In Proceedings of ACL2022. and also acknowledge OPUS by citing J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="_blank">Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: 5
+bitexts: 4
+number_of_files: 38
+total_number_of_tokens: 0.40M
+total_sentence_fragments: 54.74k

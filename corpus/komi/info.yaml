@@ -1,6 +1,18 @@
----
-latest release: v1
+contact: Graham Neubig, http://www.phontron.com/kftt/ and >http://www.cs.cmu.edu/~neulab/
+copyright: CC-BY-SA-3.0
+latest_release: v1
+license: CC-BY-SA-3.0
 name: komi
 releases:
   v1: Fri Oct 11 12:31:30 EEST 2019
 website: http://opus.nlpl.eu/komi.php
+description: >
+  The data set is part of the Kyoto Free Translation Task (KFTT). The KFTT is a task for the evaluation and development of Japanese-English machine translation systems. More information can be found on http://www.phontron.com/kftt/
+bibtex: empty
+cite: >
+  Please, acknowledge the source and cite the work as specified on http://www.phontron.com/kftt/ and also acknowledge the distribution of the package via OPUS.
+number_of_languages: 2
+bitexts: empty
+number_of_files: 2
+total_number_of_tokens: 22.60M
+total_sentence_fragments: 0.89M
