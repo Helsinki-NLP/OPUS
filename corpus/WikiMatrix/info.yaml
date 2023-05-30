@@ -1,7 +1,18 @@
----
-latest release: v1
-license: '<a href=https://creativecommons.org/licenses/by-sa/4.0/legalcode>CC-BY-SA 4.0</a>'
+contact: empty
+copyright: The data is released under the <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike</a>
+latest_release: v1
+license: <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">CC-BY-SA 4.0</a>
 name: WikiMatrix
 releases:
   v1: Tue Nov  3 20:10:25 EET 2020
 website: http://opus.nlpl.eu/WikiMatrix.php
+description: >
+  Parallel corpora from Wikimedia compiled by <a href="https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix" target="_blank">Facebook Research</a>
+bibtex: empty
+cite: >
+  Please, cite the following paper when downloading or using the data: Holger Schwenk, Vishrav Chaudhary, Shuo Sun, Hongyu Gong and Paco Guzman, <a href="https://arxiv.org/abs/1907.05791" target="_blank">WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia, arXiv, July 11 2019.</a>
+number_of_languages: 86
+bitexts: 1,620
+number_of_files: 86
+total_number_of_tokens: 6.06G
+total_sentence_fragments: 300.27M

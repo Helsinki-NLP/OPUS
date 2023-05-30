@@ -1,9 +1,22 @@
----
-latest release: v20230407
-license: '<a href=https://creativecommons.org/licenses/by-sa/4.0/>CCâBY-SA 4.0</a></p>'
+contact: empty
+copyright: empty
+latest_release: v20230407
+license: <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode" target="_blank">CC-BY-SA 4.0</a>
 name: wikimedia
 releases:
   v20190628: Mon Jul  1 22:58:39 EEST 2019
   v20210402: Sat Apr 10 12:52:39 EEST 2021
   v20230407: Thu Apr 13 10:49:12 EEST 2023
 website: http://opus.nlpl.eu/wikimedia.php
+description: >
+  Wikipedia translations published by the wikimedia foundation and their article translation system. The parallel data sets are published at https://dumps.wikimedia.org/other/contenttranslation/</br>
+  NEW: additional sentence alignment to avoid long segments in translation units
+bibtex: empty
+cite: >
+  Please cite the <a href="https://opus.nlpl.eu/LREC2012.txt" target="_blank">following article</a> if you use any part of the corpus in your own work:
+  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="blank"> Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: 322
+bitexts: 3656
+number_of_files: 322
+total_number_of_tokens: 1.48G
+total_sentence_fragments: 53.03M

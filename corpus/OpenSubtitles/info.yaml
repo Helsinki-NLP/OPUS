@@ -1,5 +1,7 @@
----
-latest release: v2018
+contact: empty
+copyright: empty
+latest_release: v2018
+license: empty
 name: OpenSubtitles
 releases:
   v1: unknown
@@ -9,3 +11,20 @@ releases:
   v2016: unknown
   v2018: Tue Apr 10 00:04:37 EEST 2018
 website: http://opus.nlpl.eu/OpenSubtitles.php
+description: >
+  This is a new collection of translated movie subtitles from http://www.opensubtitles.org/. </br>
+  This is a slightly cleaner version of the subtitle collection using improved sentence alignment and better language checking. </br>
+bibtex: empty
+cite: >
+  IMPORTANT: If you use the OpenSubtitle corpus: Please, add a link to http://www.opensubtitles.org/ to your website and to your reports and publications produced with the data! I promised this when I got the data from the providers of that website!</br>
+  Please cite the following article if you use any part of the corpus in your own work:
+  P. Lison and J. Tiedemann, 2016, <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/947_Paper.pdf" target="_blank">OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles</a>. In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016)</br>
+  For more information, please look at
+  J. Tiedemann, 2016, <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/62_Paper.pdf" target="_blank">Finding Alternative Translations in a Large Corpus of Movie Subtitles.</a>
+  In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016)
+  (and, please, cite the paper as well).
+number_of_languages: 62
+bitexts: 1782
+number_of_files: 3,735,070
+total_number_of_tokens: 22.10G
+total_sentence_fragments: 3.35G
