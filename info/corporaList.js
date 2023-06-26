@@ -1,4 +1,4 @@
-const corporaListHardCoded = [
+ [
     {
       corpus: "ALT",
       desc: "20k Myanmar-English parallel sentences",
