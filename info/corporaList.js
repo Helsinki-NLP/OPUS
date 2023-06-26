@@ -1,5 +1,5 @@
-{
-    {
+{ corporaList:
+    [{
       corpus: "ALT",
       desc: "20k Myanmar-English parallel sentences",
     },
@@ -346,5 +346,5 @@
     {
       corpus: "tico-19",
       desc: "Translation Initiative for COVID-19",
-    },
+    }]
        };
