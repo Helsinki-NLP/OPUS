@@ -22,7 +22,7 @@ bitexts:
     source language tokens: 82016
     target language tokens: 90773
   en-pl:
-    alignments: 554
+    alignments: 11231
     downloads:
       alignments:
         size: 6906
@@ -40,8 +40,8 @@ bitexts:
         size: 73604
         url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/xml/pl.zip
     files: 1
-    source language tokens: 11231
-    target language tokens: 13430
+    source language tokens: 13430
+    target language tokens: 554
   en_gb-hr:
     alignments: 3172
     downloads:
@@ -64,7 +64,7 @@ bitexts:
     source language tokens: 76657
     target language tokens: 84647
   en_gb-nb_no:
-    alignments: 732629
+    alignments: 13690629
     downloads:
       alignments:
         size: 5995625
@@ -83,9 +83,9 @@ bitexts:
         url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/xml/nb_no.zip
     files: 1
     source language tokens: 3326875
-    target language tokens: 13690629
+    target language tokens: 732629
   en_gb-pl:
-    alignments: 727
+    alignments: 15239
     downloads:
       alignments:
         size: 9907
@@ -103,8 +103,8 @@ bitexts:
         size: 73604
         url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/xml/pl.zip
     files: 1
-    source language tokens: 15239
-    target language tokens: 20087
+    source language tokens: 20087
+    target language tokens: 727
   hr-nb_no:
     alignments: 2884
     downloads:
@@ -127,7 +127,7 @@ bitexts:
     source language tokens: 70299
     target language tokens: 76553
   nb_no-pl:
-    alignments: 727
+    alignments: 15239
     downloads:
       alignments:
         size: 9907
@@ -145,8 +145,8 @@ bitexts:
         size: 73604
         url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/xml/pl.zip
     files: 1
-    source language tokens: 15239
-    target language tokens: 19833
+    source language tokens: 19833
+    target language tokens: 727
 monolingual:
   en:
     downloads:
@@ -256,11 +256,11 @@ moses:
     source language tokens: 70545
     target language tokens: 81601
   en-pl:
-    alignments: 555
+    alignments: 11993
     download size: 60203
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/moses/en-pl.txt.zip
-    source language tokens: 9882
-    target language tokens: 11993
+    source language tokens: 555
+    target language tokens: 9882
   en_gb-hr:
     alignments: 3165
     download size: 275022
@@ -268,17 +268,17 @@ moses:
     source language tokens: 69030
     target language tokens: 72505
   en_gb-nb_no:
-    alignments: 732622
+    alignments: 12584799
     download size: 48215251
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/moses/en_gb-nb_no.txt.zip
-    source language tokens: 12584799
-    target language tokens: 13839984
+    source language tokens: 13839984
+    target language tokens: 732622
   en_gb-pl:
-    alignments: 720
+    alignments: 13461
     download size: 59959
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/moses/en_gb-pl.txt.zip
-    source language tokens: 13461
-    target language tokens: 17963
+    source language tokens: 17963
+    target language tokens: 720
   hr-nb_no:
     alignments: 2885
     download size: 271620
@@ -286,11 +286,11 @@ moses:
     source language tokens: 62067
     target language tokens: 65775
   nb_no-pl:
-    alignments: 720
+    alignments: 13461
     download size: 60580
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/moses/nb_no-pl.txt.zip
-    source language tokens: 13461
-    target language tokens: 17141
+    source language tokens: 17141
+    target language tokens: 720
 tmx:
   en-hr:
     download size: 329480
@@ -301,9 +301,9 @@ tmx:
   en-pl:
     download size: 62272
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/tmx/en-pl.tmx.gz
-    source language tokens: 9882
-    target language tokens: 11993
-    translation units: 555
+    source language tokens: 555
+    target language tokens: 9882
+    translation units: 11993
   en_gb-hr:
     download size: 299339
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/tmx/en_gb-hr.tmx.gz
@@ -313,15 +313,15 @@ tmx:
   en_gb-nb_no:
     download size: 50790703
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/tmx/en_gb-nb_no.tmx.gz
-    source language tokens: 11395754
-    target language tokens: 13073550
-    translation units: 666878
+    source language tokens: 13073550
+    target language tokens: 666878
+    translation units: 11395754
   en_gb-pl:
     download size: 61192
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/tmx/en_gb-pl.tmx.gz
-    source language tokens: 9424
-    target language tokens: 14818
-    translation units: 510
+    source language tokens: 510
+    target language tokens: 9424
+    translation units: 14818
   hr-nb_no:
     download size: 299713
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/tmx/hr-nb_no.tmx.gz
@@ -331,6 +331,6 @@ tmx:
   nb_no-pl:
     download size: 61589
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Foreign_Affairs/v1/tmx/nb_no-pl.tmx.gz
-    source language tokens: 9436
-    target language tokens: 12916
-    translation units: 511
+    source language tokens: 511
+    target language tokens: 9436
+    translation units: 12916

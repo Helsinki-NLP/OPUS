@@ -1,7 +1,6 @@
 ---
 bitexts:
   ca-es:
-    alignments: 38
     downloads:
       alignments:
         size: 221
@@ -27,9 +26,6 @@ bitexts:
       word alignments:
         size: 2935
         url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/smt/ca-es.alg.zip
-    files: 2
-    source language tokens: 40
-    target language tokens: ~
   ca-fr:
     alignments: 4
     downloads:
@@ -456,17 +452,11 @@ monolingual:
     tokens: 85705
 moses:
   ca-es:
-    alignments: 4
     download size: 7590
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/ca-es.txt.zip
-    source language tokens: 36
-    target language tokens: ~
   ca-fr:
-    alignments: 6
     download size: 7863
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/ca-fr.txt.zip
-    source language tokens: 58
-    target language tokens: ~
   ca-it:
     alignments: 3
     download size: 7592
@@ -480,11 +470,8 @@ moses:
     source language tokens: 63
     target language tokens: 72
   en-it:
-    alignments: 5
     download size: 8252
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/moses/en-it.txt.zip
-    source language tokens: 112
-    target language tokens: ~
   en-pt:
     alignments: 8
     download size: 8519
@@ -531,15 +518,9 @@ tmx:
   ca-es:
     download size: 382
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/ca-es.tmx.gz
-    source language tokens: 36
-    target language tokens: ~
-    translation units: 3
   ca-fr:
     download size: 637
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/ca-fr.tmx.gz
-    source language tokens: 58
-    target language tokens: ~
-    translation units: 5
   ca-it:
     download size: 418
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/ca-it.tmx.gz
@@ -555,9 +536,6 @@ tmx:
   en-it:
     download size: 1056
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/en-it.tmx.gz
-    source language tokens: 112
-    target language tokens: ~
-    translation units: 5
   en-pt:
     download size: 1281
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2617-Museus_2007_Part2/v1/tmx/en-pt.tmx.gz

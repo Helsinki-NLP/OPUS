@@ -1,7 +1,7 @@
 ---
 bitexts:
   en-hr:
-    alignments: 5201
+    alignments: 109898
     downloads:
       alignments:
         size: 61582
@@ -19,8 +19,8 @@ bitexts:
         size: 616581
         url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/xml/hr.zip
     files: 1
-    source language tokens: 109898
-    target language tokens: 120572
+    source language tokens: 120572
+    target language tokens: 5201
   en-ro:
     alignments: 4185
     downloads:
@@ -126,11 +126,11 @@ monolingual:
     tokens: 89719
 moses:
   en-hr:
-    alignments: 5202
+    alignments: 105562
     download size: 416101
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/moses/en-hr.txt.zip
-    source language tokens: 93563
-    target language tokens: 105562
+    source language tokens: 5202
+    target language tokens: 93563
   en-ro:
     alignments: 4186
     download size: 368016
@@ -147,9 +147,9 @@ tmx:
   en-hr:
     download size: 452559
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/tmx/en-hr.tmx.gz
-    source language tokens: 93563
-    target language tokens: 105562
-    translation units: 5202
+    source language tokens: 5202
+    target language tokens: 93563
+    translation units: 105562
   en-ro:
     download size: 412268
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Rural_Development/v1/tmx/en-ro.tmx.gz

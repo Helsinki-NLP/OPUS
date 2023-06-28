@@ -22,7 +22,7 @@ bitexts:
     source language tokens: 8150092
     target language tokens: 9462383
   de-es:
-    alignments: 48574
+    alignments: 171387
     downloads:
       alignments:
         size: 151195
@@ -40,10 +40,10 @@ bitexts:
         size: 25511649
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/xml/es.zip
     files: 1
-    source language tokens: 171387
-    target language tokens: 185516
+    source language tokens: 185516
+    target language tokens: 48574
   de-fr:
-    alignments: 48757
+    alignments: 169786
     downloads:
       alignments:
         size: 152636
@@ -61,10 +61,10 @@ bitexts:
         size: 20335045
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/xml/fr.zip
     files: 1
-    source language tokens: 169786
-    target language tokens: 182229
+    source language tokens: 182229
+    target language tokens: 48757
   de-it:
-    alignments: 36686
+    alignments: 103158
     downloads:
       alignments:
         size: 110792
@@ -82,8 +82,8 @@ bitexts:
         size: 7899513
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/xml/it.zip
     files: 1
-    source language tokens: 103158
-    target language tokens: 110094
+    source language tokens: 110094
+    target language tokens: 36686
   en-es:
     alignments: 110385
     downloads:
@@ -106,7 +106,7 @@ bitexts:
     source language tokens: 5334858
     target language tokens: 5391232
   en-fr:
-    alignments: 86653
+    alignments: 3906990
     downloads:
       alignments:
         size: 866493
@@ -124,10 +124,10 @@ bitexts:
         size: 20335045
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/xml/fr.zip
     files: 1
-    source language tokens: 3906990
-    target language tokens: 4247702
+    source language tokens: 4247702
+    target language tokens: 86653
   en-it:
-    alignments: 31635
+    alignments: 1553774
     downloads:
       alignments:
         size: 324496
@@ -145,8 +145,8 @@ bitexts:
         size: 7899513
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/xml/it.zip
     files: 1
-    source language tokens: 1553774
-    target language tokens: 1595223
+    source language tokens: 1595223
+    target language tokens: 31635
   es-fr:
     alignments: 13835
     downloads:
@@ -190,7 +190,7 @@ bitexts:
     source language tokens: 49094
     target language tokens: 49619
   fr-it:
-    alignments: 8876
+    alignments: 46296
     downloads:
       alignments:
         size: 30670
@@ -208,8 +208,8 @@ bitexts:
         size: 7899513
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/xml/it.zip
     files: 1
-    source language tokens: 46296
-    target language tokens: 46618
+    source language tokens: 46618
+    target language tokens: 8876
 monolingual:
   de:
     downloads:
@@ -319,17 +319,17 @@ moses:
     source language tokens: 6675619
     target language tokens: 7859374
   de-es:
-    alignments: 48575
+    alignments: 124369
     download size: 97509
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/moses/de-es.txt.zip
-    source language tokens: 124369
-    target language tokens: 142249
+    source language tokens: 142249
+    target language tokens: 48575
   de-fr:
-    alignments: 48758
+    alignments: 121642
     download size: 92819
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/moses/de-fr.txt.zip
-    source language tokens: 121642
-    target language tokens: 136063
+    source language tokens: 136063
+    target language tokens: 48758
   de-it:
     alignments: 36687
     download size: 50719
@@ -343,17 +343,17 @@ moses:
     source language tokens: 4476535
     target language tokens: 4603180
   en-fr:
-    alignments: 86654
+    alignments: 3284552
     download size: 12547026
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/moses/en-fr.txt.zip
-    source language tokens: 3284552
-    target language tokens: 3402388
+    source language tokens: 3402388
+    target language tokens: 86654
   en-it:
-    alignments: 31636
+    alignments: 1240624
     download size: 5112228
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/moses/en-it.txt.zip
-    source language tokens: 1240624
-    target language tokens: 1334246
+    source language tokens: 1334246
+    target language tokens: 31636
   es-fr:
     alignments: 13836
     download size: 75659
@@ -367,11 +367,11 @@ moses:
     source language tokens: 37292
     target language tokens: 38061
   fr-it:
-    alignments: 8877
+    alignments: 35337
     download size: 38682
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/moses/fr-it.txt.zip
-    source language tokens: 35337
-    target language tokens: 37077
+    source language tokens: 37077
+    target language tokens: 8877
 tmx:
   de-en:
     download size: 30474810
@@ -382,45 +382,45 @@ tmx:
   de-es:
     download size: 63470
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/tmx/de-es.tmx.gz
-    source language tokens: 18222
+    source language tokens: 2234
     target language tokens: 23378
-    translation units: 2234
+    translation units: 18222
   de-fr:
     download size: 57921
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/tmx/de-fr.tmx.gz
-    source language tokens: 17325
-    target language tokens: 21477
-    translation units: 2151
+    source language tokens: 21477
+    target language tokens: 2151
+    translation units: 17325
   de-it:
     download size: 31711
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/tmx/de-it.tmx.gz
-    source language tokens: 9595
-    target language tokens: 10841
-    translation units: 1433
+    source language tokens: 1433
+    target language tokens: 9595
+    translation units: 10841
   en-es:
     download size: 16604580
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/tmx/en-es.tmx.gz
-    source language tokens: 4253478
-    target language tokens: 4371010
-    translation units: 90365
+    source language tokens: 4371010
+    target language tokens: 90365
+    translation units: 4253478
   en-fr:
     download size: 12325808
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/tmx/en-fr.tmx.gz
-    source language tokens: 3091373
-    target language tokens: 3202864
-    translation units: 71147
+    source language tokens: 3202864
+    target language tokens: 71147
+    translation units: 3091373
   en-it:
     download size: 5189004
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/tmx/en-it.tmx.gz
-    source language tokens: 1199682
-    target language tokens: 1291209
-    translation units: 26555
+    source language tokens: 1291209
+    target language tokens: 26555
+    translation units: 1199682
   es-fr:
     download size: 52395
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/tmx/es-fr.tmx.gz
-    source language tokens: 17327
+    source language tokens: 1741
     target language tokens: 17615
-    translation units: 1741
+    translation units: 17327
   es-it:
     download size: 27870
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_law/v1/tmx/es-it.tmx.gz

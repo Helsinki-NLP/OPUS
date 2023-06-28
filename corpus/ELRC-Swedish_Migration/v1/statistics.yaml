@@ -22,7 +22,7 @@ bitexts:
     source language tokens: 17441
     target language tokens: 19469
   en-sv:
-    alignments: 8365
+    alignments: 134668
     downloads:
       alignments:
         size: 63239
@@ -40,10 +40,10 @@ bitexts:
         size: 682110
         url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Migration/v1/xml/sv.zip
     files: 1
-    source language tokens: 134668
-    target language tokens: 158933
+    source language tokens: 158933
+    target language tokens: 8365
   hr-sv:
-    alignments: 870
+    alignments: 13443
     downloads:
       alignments:
         size: 16702
@@ -61,8 +61,8 @@ bitexts:
         size: 682110
         url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Migration/v1/xml/sv.zip
     files: 1
-    source language tokens: 13443
-    target language tokens: 14234
+    source language tokens: 14234
+    target language tokens: 870
 monolingual:
   en:
     downloads:
@@ -132,17 +132,17 @@ moses:
     source language tokens: 15777
     target language tokens: 17937
   en-sv:
-    alignments: 8366
+    alignments: 124398
     download size: 493189
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Migration/v1/moses/en-sv.txt.zip
-    source language tokens: 124398
-    target language tokens: 144995
+    source language tokens: 144995
+    target language tokens: 8366
   hr-sv:
-    alignments: 871
+    alignments: 12480
     download size: 53893
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Migration/v1/moses/hr-sv.txt.zip
-    source language tokens: 12480
-    target language tokens: 12907
+    source language tokens: 12907
+    target language tokens: 871
 tmx:
   en-hr:
     download size: 70864
@@ -153,12 +153,12 @@ tmx:
   en-sv:
     download size: 533955
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Migration/v1/tmx/en-sv.tmx.gz
-    source language tokens: 124398
-    target language tokens: 144995
-    translation units: 8366
+    source language tokens: 144995
+    target language tokens: 8366
+    translation units: 124398
   hr-sv:
     download size: 56488
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Migration/v1/tmx/hr-sv.tmx.gz
-    source language tokens: 12380
-    target language tokens: 12801
-    translation units: 864
+    source language tokens: 12801
+    target language tokens: 864
+    translation units: 12380

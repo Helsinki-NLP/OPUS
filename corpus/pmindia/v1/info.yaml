@@ -1,37 +1,37 @@
 ---
-alignments: 422172
+alignments: 7406062
 copyright: 'The corpus is released under the CC-BY-4.0, in other words the corpus can be freely shared and adapted as long as appropriate'
 language pairs:
-  - bn-en
-  - as-en
-  - en-hi
-  - en-ta
-  - en-gu
-  - en-ml
   - en-kn
-  - en-mni
-  - en-or
-  - en-ur
-  - en-te
+  - bn-en
   - en-mr
+  - en-mni
+  - en-ml
+  - en-hi
+  - en-gu
+  - en-te
+  - en-ur
+  - en-ta
+  - en-or
+  - as-en
   - en-pa
 languages:
-  - mr
-  - ml
-  - bn
-  - mni
   - as
-  - hi
-  - gu
+  - mr
   - pa
-  - kn
   - ur
+  - ta
+  - ml
+  - or
+  - kn
+  - hi
+  - mni
+  - bn
   - en
   - te
-  - or
-  - ta
+  - gu
 license: CC-BY-SA 4.0
-moses alignments: 422185
+moses alignments: 1696084
 name: pmindia
 number of language pairs: 13
 number of languages: 14
@@ -39,5 +39,5 @@ release: v1
 release date: Thu Nov 10 12:01:18 EET 2022
 sentences: 859313
 tokens: 21369293
-translation units: 422182
+translation units: 1696081
 website: http://opus.nlpl.eu/pmindia-v1.php

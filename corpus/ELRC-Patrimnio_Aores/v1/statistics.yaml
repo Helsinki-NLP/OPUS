@@ -1,7 +1,7 @@
 ---
 bitexts:
   de-en:
-    alignments: 54
+    alignments: 1164
     downloads:
       alignments:
         size: 613
@@ -19,10 +19,10 @@ bitexts:
         size: 15915
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/en.zip
     files: 1
-    source language tokens: 1164
-    target language tokens: 1441
+    source language tokens: 1441
+    target language tokens: 54
   de-es:
-    alignments: 44
+    alignments: 1042
     downloads:
       alignments:
         size: 552
@@ -40,10 +40,10 @@ bitexts:
         size: 15867
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/es.zip
     files: 1
-    source language tokens: 873
-    target language tokens: 1042
+    source language tokens: 44
+    target language tokens: 873
   de-fr:
-    alignments: 46
+    alignments: 1063
     downloads:
       alignments:
         size: 561
@@ -61,8 +61,8 @@ bitexts:
         size: 15828
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/fr.zip
     files: 1
-    source language tokens: 885
-    target language tokens: 1063
+    source language tokens: 46
+    target language tokens: 885
   de-pt:
     alignments: 37
     downloads:
@@ -85,7 +85,7 @@ bitexts:
     source language tokens: 675
     target language tokens: 769
   en-es:
-    alignments: 62
+    alignments: 1400
     downloads:
       alignments:
         size: 641
@@ -103,10 +103,10 @@ bitexts:
         size: 15867
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/es.zip
     files: 1
-    source language tokens: 1400
-    target language tokens: 1441
+    source language tokens: 1441
+    target language tokens: 62
   en-fr:
-    alignments: 62
+    alignments: 1400
     downloads:
       alignments:
         size: 638
@@ -124,10 +124,10 @@ bitexts:
         size: 15828
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/fr.zip
     files: 1
-    source language tokens: 1400
-    target language tokens: 1441
+    source language tokens: 1441
+    target language tokens: 62
   en-pt:
-    alignments: 56
+    alignments: 1325
     downloads:
       alignments:
         size: 672
@@ -145,10 +145,10 @@ bitexts:
         size: 15986
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/pt.zip
     files: 1
-    source language tokens: 1325
-    target language tokens: 1441
+    source language tokens: 1441
+    target language tokens: 56
   es-fr:
-    alignments: 59
+    alignments: 1376
     downloads:
       alignments:
         size: 652
@@ -166,10 +166,10 @@ bitexts:
         size: 15828
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/fr.zip
     files: 1
-    source language tokens: 1376
-    target language tokens: 1377
+    source language tokens: 1377
+    target language tokens: 59
   es-it:
-    alignments: 60
+    alignments: 1295
     downloads:
       alignments:
         size: 633
@@ -187,10 +187,10 @@ bitexts:
         size: 15256
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/it.zip
     files: 1
-    source language tokens: 1295
-    target language tokens: 1354
+    source language tokens: 1354
+    target language tokens: 60
   es-pt:
-    alignments: 49
+    alignments: 1018
     downloads:
       alignments:
         size: 609
@@ -208,10 +208,10 @@ bitexts:
         size: 15986
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/pt.zip
     files: 1
-    source language tokens: 954
-    target language tokens: 1018
+    source language tokens: 49
+    target language tokens: 954
   fr-it:
-    alignments: 58
+    alignments: 1257
     downloads:
       alignments:
         size: 616
@@ -229,8 +229,8 @@ bitexts:
         size: 15256
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/it.zip
     files: 1
-    source language tokens: 1257
-    target language tokens: 1314
+    source language tokens: 1314
+    target language tokens: 58
   fr-pt:
     alignments: 47
     downloads:
@@ -253,7 +253,7 @@ bitexts:
     source language tokens: 935
     target language tokens: 998
   it-pt:
-    alignments: 57
+    alignments: 1285
     downloads:
       alignments:
         size: 666
@@ -271,8 +271,8 @@ bitexts:
         size: 15986
         url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/xml/pt.zip
     files: 1
-    source language tokens: 1285
-    target language tokens: 1298
+    source language tokens: 1298
+    target language tokens: 57
 monolingual:
   de:
     downloads:
@@ -396,11 +396,11 @@ monolingual:
     tokens: 1451
 moses:
   de-en:
-    alignments: 55
+    alignments: 1024
     download size: 13977
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/moses/de-en.txt.zip
-    source language tokens: 1024
-    target language tokens: 1303
+    source language tokens: 1303
+    target language tokens: 55
   de-es:
     alignments: 45
     download size: 12298
@@ -420,35 +420,35 @@ moses:
     source language tokens: 596
     target language tokens: 682
   en-es:
-    alignments: 63
+    alignments: 1263
     download size: 13840
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/moses/en-es.txt.zip
-    source language tokens: 1263
-    target language tokens: 1303
+    source language tokens: 1303
+    target language tokens: 63
   en-fr:
-    alignments: 63
+    alignments: 1197
     download size: 13972
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/moses/en-fr.txt.zip
-    source language tokens: 1197
-    target language tokens: 1303
+    source language tokens: 1303
+    target language tokens: 63
   en-pt:
-    alignments: 57
+    alignments: 1180
     download size: 13833
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/moses/en-pt.txt.zip
-    source language tokens: 1180
-    target language tokens: 1303
+    source language tokens: 1303
+    target language tokens: 57
   es-fr:
-    alignments: 60
+    alignments: 1175
     download size: 13816
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/moses/es-fr.txt.zip
-    source language tokens: 1175
-    target language tokens: 1240
+    source language tokens: 1240
+    target language tokens: 60
   es-it:
-    alignments: 61
+    alignments: 1108
     download size: 13632
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/moses/es-it.txt.zip
-    source language tokens: 1108
-    target language tokens: 1221
+    source language tokens: 1221
+    target language tokens: 61
   es-pt:
     alignments: 50
     download size: 12416
@@ -456,11 +456,11 @@ moses:
     source language tokens: 848
     target language tokens: 915
   fr-it:
-    alignments: 59
+    alignments: 1073
     download size: 13672
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/moses/fr-it.txt.zip
-    source language tokens: 1073
-    target language tokens: 1120
+    source language tokens: 1120
+    target language tokens: 59
   fr-pt:
     alignments: 48
     download size: 12447
@@ -468,18 +468,18 @@ moses:
     source language tokens: 830
     target language tokens: 848
   it-pt:
-    alignments: 58
+    alignments: 1111
     download size: 13636
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/moses/it-pt.txt.zip
-    source language tokens: 1111
-    target language tokens: 1145
+    source language tokens: 1145
+    target language tokens: 58
 tmx:
   de-en:
     download size: 6667
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/de-en.tmx.gz
-    source language tokens: 1024
-    target language tokens: 1303
-    translation units: 55
+    source language tokens: 1303
+    target language tokens: 55
+    translation units: 1024
   de-es:
     download size: 5045
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/de-es.tmx.gz
@@ -501,33 +501,33 @@ tmx:
   en-es:
     download size: 6430
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/en-es.tmx.gz
-    source language tokens: 1263
-    target language tokens: 1303
-    translation units: 63
+    source language tokens: 1303
+    target language tokens: 63
+    translation units: 1263
   en-fr:
     download size: 6551
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/en-fr.tmx.gz
-    source language tokens: 1197
-    target language tokens: 1303
-    translation units: 63
+    source language tokens: 1303
+    target language tokens: 63
+    translation units: 1197
   en-pt:
     download size: 6340
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/en-pt.tmx.gz
-    source language tokens: 1180
-    target language tokens: 1303
-    translation units: 57
+    source language tokens: 1303
+    target language tokens: 57
+    translation units: 1180
   es-fr:
     download size: 6279
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/es-fr.tmx.gz
-    source language tokens: 1175
-    target language tokens: 1240
-    translation units: 60
+    source language tokens: 1240
+    target language tokens: 60
+    translation units: 1175
   es-it:
     download size: 6037
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/es-it.tmx.gz
-    source language tokens: 1108
-    target language tokens: 1221
-    translation units: 61
+    source language tokens: 1221
+    target language tokens: 61
+    translation units: 1108
   es-pt:
     download size: 4429
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/es-pt.tmx.gz
@@ -537,9 +537,9 @@ tmx:
   fr-it:
     download size: 6230
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/fr-it.tmx.gz
-    source language tokens: 1073
-    target language tokens: 1120
-    translation units: 59
+    source language tokens: 1120
+    target language tokens: 59
+    translation units: 1073
   fr-pt:
     download size: 4953
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/fr-pt.tmx.gz
@@ -549,6 +549,6 @@ tmx:
   it-pt:
     download size: 5986
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Patrimnio_Aores/v1/tmx/it-pt.tmx.gz
-    source language tokens: 1111
-    target language tokens: 1145
-    translation units: 58
+    source language tokens: 1145
+    target language tokens: 58
+    translation units: 1111

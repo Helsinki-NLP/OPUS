@@ -1,7 +1,7 @@
 ---
 bitexts:
   en-et:
-    alignments: 8321
+    alignments: 117867
     downloads:
       alignments:
         size: 66646
@@ -20,9 +20,9 @@ bitexts:
         url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/xml/et.zip
     files: 1
     source language tokens: 81293
-    target language tokens: 117867
+    target language tokens: 8321
   en-fi:
-    alignments: 9941
+    alignments: 145429
     downloads:
       alignments:
         size: 75543
@@ -41,7 +41,7 @@ bitexts:
         url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/xml/fi.zip
     files: 1
     source language tokens: 91720
-    target language tokens: 145429
+    target language tokens: 9941
   en-sv:
     alignments: 6818
     downloads:
@@ -64,7 +64,7 @@ bitexts:
     source language tokens: 79067
     target language tokens: 97367
   et-fi:
-    alignments: 6629
+    alignments: 59437
     downloads:
       alignments:
         size: 54053
@@ -82,10 +82,10 @@ bitexts:
         size: 577190
         url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/xml/fi.zip
     files: 1
-    source language tokens: 59437
-    target language tokens: 64835
+    source language tokens: 64835
+    target language tokens: 6629
   et-sv:
-    alignments: 5403
+    alignments: 52681
     downloads:
       alignments:
         size: 45334
@@ -103,10 +103,10 @@ bitexts:
         size: 466984
         url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/xml/sv.zip
     files: 1
-    source language tokens: 52681
+    source language tokens: 5403
     target language tokens: 61810
   fi-sv:
-    alignments: 5897
+    alignments: 53534
     downloads:
       alignments:
         size: 48475
@@ -124,7 +124,7 @@ bitexts:
         size: 466984
         url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/xml/sv.zip
     files: 1
-    source language tokens: 53534
+    source language tokens: 5897
     target language tokens: 68819
 monolingual:
   en:
@@ -209,17 +209,17 @@ monolingual:
     tokens: 78618
 moses:
   en-et:
-    alignments: 8322
+    alignments: 103925
     download size: 428261
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/moses/en-et.txt.zip
     source language tokens: 67955
-    target language tokens: 103925
+    target language tokens: 8322
   en-fi:
-    alignments: 9942
+    alignments: 127638
     download size: 509139
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/moses/en-fi.txt.zip
     source language tokens: 76938
-    target language tokens: 127638
+    target language tokens: 9942
   en-sv:
     alignments: 6819
     download size: 359411
@@ -227,36 +227,36 @@ moses:
     source language tokens: 70038
     target language tokens: 85783
   et-fi:
-    alignments: 6630
+    alignments: 49965
     download size: 333817
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/moses/et-fi.txt.zip
-    source language tokens: 49965
-    target language tokens: 54245
+    source language tokens: 54245
+    target language tokens: 6630
   et-sv:
-    alignments: 5404
+    alignments: 43964
     download size: 284227
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/moses/et-sv.txt.zip
-    source language tokens: 43964
+    source language tokens: 5404
     target language tokens: 54695
   fi-sv:
-    alignments: 5898
+    alignments: 45082
     download size: 305443
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/moses/fi-sv.txt.zip
-    source language tokens: 45082
+    source language tokens: 5898
     target language tokens: 61060
 tmx:
   en-et:
     download size: 452828
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/tmx/en-et.tmx.gz
     source language tokens: 67955
-    target language tokens: 103925
-    translation units: 8322
+    target language tokens: 8322
+    translation units: 103925
   en-fi:
     download size: 542611
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/tmx/en-fi.tmx.gz
     source language tokens: 76938
-    target language tokens: 127638
-    translation units: 9942
+    target language tokens: 9942
+    translation units: 127638
   en-sv:
     download size: 381546
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/tmx/en-sv.tmx.gz
@@ -266,18 +266,18 @@ tmx:
   et-fi:
     download size: 350206
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/tmx/et-fi.tmx.gz
-    source language tokens: 49814
-    target language tokens: 54088
-    translation units: 6598
+    source language tokens: 54088
+    target language tokens: 6598
+    translation units: 49814
   et-sv:
     download size: 303542
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/tmx/et-sv.tmx.gz
-    source language tokens: 43919
+    source language tokens: 5394
     target language tokens: 54627
-    translation units: 5394
+    translation units: 43919
   fi-sv:
     download size: 327278
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Finnish_Information/v1/tmx/fi-sv.tmx.gz
-    source language tokens: 44944
+    source language tokens: 5876
     target language tokens: 60875
-    translation units: 5876
+    translation units: 44944

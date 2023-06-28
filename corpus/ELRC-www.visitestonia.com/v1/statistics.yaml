@@ -22,7 +22,7 @@ bitexts:
     source language tokens: 141675
     target language tokens: 205887
   en-fi:
-    alignments: 14615
+    alignments: 144605
     downloads:
       alignments:
         size: 115210
@@ -40,7 +40,7 @@ bitexts:
         size: 994491
         url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/xml/fi.zip
     files: 1
-    source language tokens: 144605
+    source language tokens: 14615
     target language tokens: 217606
   en-lv:
     alignments: 13840
@@ -106,7 +106,7 @@ bitexts:
     source language tokens: 96511
     target language tokens: 99968
   et-lv:
-    alignments: 9551
+    alignments: 111717
     downloads:
       alignments:
         size: 79792
@@ -125,9 +125,9 @@ bitexts:
         url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/xml/lv.zip
     files: 1
     source language tokens: 91876
-    target language tokens: 111717
+    target language tokens: 9551
   et-sv:
-    alignments: 9460
+    alignments: 110430
     downloads:
       alignments:
         size: 81801
@@ -146,9 +146,9 @@ bitexts:
         url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/xml/sv.zip
     files: 1
     source language tokens: 92621
-    target language tokens: 110430
+    target language tokens: 9460
   fi-lv:
-    alignments: 10913
+    alignments: 102656
     downloads:
       alignments:
         size: 90587
@@ -166,10 +166,10 @@ bitexts:
         size: 1088219
         url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/xml/lv.zip
     files: 1
-    source language tokens: 102656
+    source language tokens: 10913
     target language tokens: 128984
   fi-sv:
-    alignments: 10924
+    alignments: 103954
     downloads:
       alignments:
         size: 93685
@@ -187,7 +187,7 @@ bitexts:
         size: 1110227
         url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/xml/sv.zip
     files: 1
-    source language tokens: 103954
+    source language tokens: 10924
     target language tokens: 128509
   lv-sv:
     alignments: 10615
@@ -313,16 +313,16 @@ monolingual:
     tokens: 180255
 moses:
   en-et:
-    alignments: 13919
+    alignments: 121842
     download size: 854688
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/moses/en-et.txt.zip
-    source language tokens: 121842
+    source language tokens: 13919
     target language tokens: 183029
   en-fi:
-    alignments: 14616
+    alignments: 124120
     download size: 906808
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/moses/en-fi.txt.zip
-    source language tokens: 124120
+    source language tokens: 14616
     target language tokens: 193519
   en-lv:
     alignments: 13841
@@ -343,29 +343,29 @@ moses:
     source language tokens: 82799
     target language tokens: 85931
   et-lv:
-    alignments: 9552
+    alignments: 79080
     download size: 583703
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/moses/et-lv.txt.zip
-    source language tokens: 79080
-    target language tokens: 95267
+    source language tokens: 95267
+    target language tokens: 9552
   et-sv:
-    alignments: 9461
+    alignments: 79641
     download size: 575285
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/moses/et-sv.txt.zip
-    source language tokens: 79641
+    source language tokens: 9461
     target language tokens: 98123
   fi-lv:
     alignments: 10914
     download size: 677754
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/moses/fi-lv.txt.zip
-    source language tokens: 88047
-    target language tokens: 109875
+    source language tokens: 109875
+    target language tokens: 88047
   fi-sv:
     alignments: 10925
     download size: 672224
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/moses/fi-sv.txt.zip
-    source language tokens: 89028
-    target language tokens: 114062
+    source language tokens: 114062
+    target language tokens: 89028
   lv-sv:
     alignments: 10616
     download size: 665005
@@ -376,15 +376,15 @@ tmx:
   en-et:
     download size: 906845
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/tmx/en-et.tmx.gz
-    source language tokens: 121842
+    source language tokens: 13919
     target language tokens: 183029
-    translation units: 13919
+    translation units: 121842
   en-fi:
     download size: 969543
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/tmx/en-fi.tmx.gz
-    source language tokens: 124120
+    source language tokens: 14616
     target language tokens: 193519
-    translation units: 14616
+    translation units: 124120
   en-lv:
     download size: 951852
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/tmx/en-lv.tmx.gz
@@ -406,26 +406,26 @@ tmx:
   et-lv:
     download size: 623079
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/tmx/et-lv.tmx.gz
-    source language tokens: 78819
-    target language tokens: 94952
-    translation units: 9518
+    source language tokens: 94952
+    target language tokens: 9518
+    translation units: 78819
   et-sv:
     download size: 604210
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/tmx/et-sv.tmx.gz
-    source language tokens: 79308
+    source language tokens: 9424
     target language tokens: 97716
-    translation units: 9424
+    translation units: 79308
   fi-lv:
     download size: 730378
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/tmx/fi-lv.tmx.gz
-    source language tokens: 87802
-    target language tokens: 109577
+    source language tokens: 109577
+    target language tokens: 87802
     translation units: 10885
   fi-sv:
     download size: 710053
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.visitestonia.com/v1/tmx/fi-sv.tmx.gz
-    source language tokens: 88686
-    target language tokens: 113635
+    source language tokens: 113635
+    target language tokens: 88686
     translation units: 10889
   lv-sv:
     download size: 712081

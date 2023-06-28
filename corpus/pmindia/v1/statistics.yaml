@@ -1,7 +1,7 @@
 ---
 bitexts:
   as-en:
-    alignments: 9732
+    alignments: 216906
     downloads:
       alignments:
         size: 75321
@@ -19,8 +19,8 @@ bitexts:
         size: 32431083
         url: https://object.pouta.csc.fi/OPUS-pmindia/v1/xml/en.zip
     files: 1
-    source language tokens: 216906
-    target language tokens: 349695
+    source language tokens: 349695
+    target language tokens: 9732
   bn-en:
     alignments: 29584
     downloads:
@@ -43,7 +43,7 @@ bitexts:
     source language tokens: 582731
     target language tokens: 954593
   en-gu:
-    alignments: 49844
+    alignments: 1054947
     downloads:
       alignments:
         size: 385385
@@ -61,10 +61,10 @@ bitexts:
         size: 1961
         url: https://object.pouta.csc.fi/OPUS-pmindia/v1/xml/gu.zip
     files: 1
-    source language tokens: 1054947
-    target language tokens: 1587774
+    source language tokens: 1587774
+    target language tokens: 49844
   en-hi:
-    alignments: 56831
+    alignments: 1204437
     downloads:
       alignments:
         size: 436103
@@ -82,8 +82,8 @@ bitexts:
         size: 1961
         url: https://object.pouta.csc.fi/OPUS-pmindia/v1/xml/hi.zip
     files: 1
-    source language tokens: 1204437
-    target language tokens: 1896628
+    source language tokens: 1896628
+    target language tokens: 56831
   en-kn:
     alignments: 35232
     downloads:
@@ -127,7 +127,7 @@ bitexts:
     source language tokens: 675460
     target language tokens: 917644
   en-mni:
-    alignments: 7419
+    alignments: 130037
     downloads:
       alignments:
         size: 57805
@@ -145,10 +145,10 @@ bitexts:
         size: 905572
         url: https://object.pouta.csc.fi/OPUS-pmindia/v1/xml/mni.zip
     files: 1
-    source language tokens: 130037
-    target language tokens: 162812
+    source language tokens: 162812
+    target language tokens: 7419
   en-mr:
-    alignments: 36131
+    alignments: 1033386
     downloads:
       alignments:
         size: 277030
@@ -166,10 +166,10 @@ bitexts:
         size: 5415004
         url: https://object.pouta.csc.fi/OPUS-pmindia/v1/xml/mr.zip
     files: 1
-    source language tokens: 727339
-    target language tokens: 1033386
+    source language tokens: 36131
+    target language tokens: 727339
   en-or:
-    alignments: 38359
+    alignments: 1015842
     downloads:
       alignments:
         size: 295128
@@ -187,10 +187,10 @@ bitexts:
         size: 5586304
         url: https://object.pouta.csc.fi/OPUS-pmindia/v1/xml/or.zip
     files: 1
-    source language tokens: 778819
-    target language tokens: 1015842
+    source language tokens: 38359
+    target language tokens: 778819
   en-pa:
-    alignments: 34395
+    alignments: 1161733
     downloads:
       alignments:
         size: 264689
@@ -208,10 +208,10 @@ bitexts:
         size: 5903885
         url: https://object.pouta.csc.fi/OPUS-pmindia/v1/xml/pa.zip
     files: 1
-    source language tokens: 729813
-    target language tokens: 1161733
+    source language tokens: 34395
+    target language tokens: 729813
   en-ta:
-    alignments: 39526
+    alignments: 1438839
     downloads:
       alignments:
         size: 302490
@@ -229,8 +229,8 @@ bitexts:
         size: 6867808
         url: https://object.pouta.csc.fi/OPUS-pmindia/v1/xml/ta.zip
     files: 1
-    source language tokens: 798411
-    target language tokens: 1438839
+    source language tokens: 39526
+    target language tokens: 798411
   en-te:
     alignments: 40283
     downloads:
@@ -556,11 +556,11 @@ monolingual:
     tokens: 279848
 moses:
   as-en:
-    alignments: 9733
+    alignments: 164520
     download size: 1059497
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/moses/as-en.txt.zip
-    source language tokens: 164520
-    target language tokens: 192530
+    source language tokens: 192530
+    target language tokens: 9733
   bn-en:
     alignments: 29585
     download size: 2886443
@@ -574,11 +574,11 @@ moses:
     source language tokens: 852780
     target language tokens: 935918
   en-hi:
-    alignments: 56832
+    alignments: 1068692
     download size: 5811103
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/moses/en-hi.txt.zip
-    source language tokens: 1068692
-    target language tokens: 1163557
+    source language tokens: 1163557
+    target language tokens: 56832
   en-kn:
     alignments: 35233
     download size: 3585455
@@ -592,11 +592,11 @@ moses:
     source language tokens: 363583
     target language tokens: 600309
   en-mni:
-    alignments: 7420
+    alignments: 114672
     download size: 748984
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/moses/en-mni.txt.zip
-    source language tokens: 114672
-    target language tokens: 143731
+    source language tokens: 143731
+    target language tokens: 7420
   en-mr:
     alignments: 36132
     download size: 3525072
@@ -637,9 +637,9 @@ tmx:
   as-en:
     download size: 1191077
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/tmx/as-en.tmx.gz
-    source language tokens: 164520
-    target language tokens: 192530
-    translation units: 9733
+    source language tokens: 192530
+    target language tokens: 9733
+    translation units: 164520
   bn-en:
     download size: 3247080
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/tmx/bn-en.tmx.gz
@@ -655,9 +655,9 @@ tmx:
   en-hi:
     download size: 6481800
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/tmx/en-hi.tmx.gz
-    source language tokens: 1068692
-    target language tokens: 1163557
-    translation units: 56832
+    source language tokens: 1163557
+    target language tokens: 56832
+    translation units: 1068692
   en-kn:
     download size: 4003940
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/tmx/en-kn.tmx.gz
@@ -673,9 +673,9 @@ tmx:
   en-mni:
     download size: 846925
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/tmx/en-mni.tmx.gz
-    source language tokens: 114672
-    target language tokens: 143731
-    translation units: 7420
+    source language tokens: 143731
+    target language tokens: 7420
+    translation units: 114672
   en-mr:
     download size: 3958735
     download url: https://object.pouta.csc.fi/OPUS-pmindia/v1/tmx/en-mr.tmx.gz

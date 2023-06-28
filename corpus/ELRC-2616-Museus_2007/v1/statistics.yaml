@@ -31,7 +31,6 @@ bitexts:
     source language tokens: 43
     target language tokens: 56
   af-es:
-    alignments: 15
     downloads:
       alignments:
         size: 209
@@ -57,11 +56,7 @@ bitexts:
       word alignments:
         size: 2712
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/af-es.alg.zip
-    files: 1
-    source language tokens: 17
-    target language tokens: ~
   af-fr:
-    alignments: 17
     downloads:
       alignments:
         size: 208
@@ -87,11 +82,7 @@ bitexts:
       word alignments:
         size: 2734
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/af-fr.alg.zip
-    files: 1
-    source language tokens: 19
-    target language tokens: ~
   af-pt:
-    alignments: 17
     downloads:
       alignments:
         size: 208
@@ -117,11 +108,7 @@ bitexts:
       word alignments:
         size: 2724
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/af-pt.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   ca-de:
-    alignments: 17
     downloads:
       alignments:
         size: 208
@@ -147,9 +134,6 @@ bitexts:
       word alignments:
         size: 2724
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/ca-de.alg.zip
-    files: 1
-    source language tokens: 18
-    target language tokens: ~
   ca-en:
     alignments: 5
     downloads:
@@ -352,7 +336,6 @@ bitexts:
     source language tokens: 27610
     target language tokens: 30833
   de-it:
-    alignments: 13
     downloads:
       alignments:
         size: 207
@@ -378,9 +361,6 @@ bitexts:
       word alignments:
         size: 2687
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/de-it.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   de-pt:
     alignments: 733
     downloads:
@@ -532,7 +512,6 @@ bitexts:
     source language tokens: 29129
     target language tokens: 30985
   es-et:
-    alignments: 13
     downloads:
       alignments:
         size: 211
@@ -558,9 +537,6 @@ bitexts:
       word alignments:
         size: 2705
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/es-et.alg.zip
-    files: 1
-    source language tokens: 16
-    target language tokens: ~
   es-fr:
     alignments: 792
     downloads:
@@ -652,7 +628,6 @@ bitexts:
     source language tokens: 28656
     target language tokens: 29963
   et-fr:
-    alignments: 13
     downloads:
       alignments:
         size: 210
@@ -678,11 +653,7 @@ bitexts:
       word alignments:
         size: 2705
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/et-fr.alg.zip
-    files: 1
-    source language tokens: 17
-    target language tokens: ~
   et-pt:
-    alignments: 26
     downloads:
       alignments:
         size: 229
@@ -708,11 +679,7 @@ bitexts:
       word alignments:
         size: 2743
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/et-pt.alg.zip
-    files: 2
-    source language tokens: 32
-    target language tokens: ~
   fr-it:
-    alignments: 30
     downloads:
       alignments:
         size: 221
@@ -738,9 +705,6 @@ bitexts:
       word alignments:
         size: 2828
         url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/smt/fr-it.alg.zip
-    files: 2
-    source language tokens: 34
-    target language tokens: ~
   fr-pt:
     alignments: 775
     downloads:
@@ -996,23 +960,14 @@ moses:
     source language tokens: 14
     target language tokens: 16
   af-fr:
-    alignments: 2
     download size: 7506
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/moses/af-fr.txt.zip
-    source language tokens: 16
-    target language tokens: ~
   af-pt:
-    alignments: 2
     download size: 7499
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/moses/af-pt.txt.zip
-    source language tokens: 16
-    target language tokens: ~
   ca-de:
-    alignments: 2
     download size: 7478
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/moses/ca-de.txt.zip
-    source language tokens: 14
-    target language tokens: ~
   ca-en:
     alignments: 8
     download size: 8169
@@ -1161,21 +1116,12 @@ tmx:
   af-fr:
     download size: 382
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/tmx/af-fr.tmx.gz
-    source language tokens: 16
-    target language tokens: ~
-    translation units: 2
   af-pt:
     download size: 374
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/tmx/af-pt.tmx.gz
-    source language tokens: 16
-    target language tokens: ~
-    translation units: 2
   ca-de:
     download size: 362
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/tmx/ca-de.tmx.gz
-    source language tokens: 14
-    target language tokens: ~
-    translation units: 2
   ca-en:
     download size: 970
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2616-Museus_2007/v1/tmx/ca-en.tmx.gz

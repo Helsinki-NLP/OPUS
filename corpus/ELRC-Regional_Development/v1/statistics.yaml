@@ -1,7 +1,7 @@
 ---
 bitexts:
   en-hr:
-    alignments: 7910
+    alignments: 161919
     downloads:
       alignments:
         size: 65607
@@ -19,8 +19,8 @@ bitexts:
         size: 930750
         url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/hr.zip
     files: 1
-    source language tokens: 161919
-    target language tokens: 181382
+    source language tokens: 181382
+    target language tokens: 7910
   en-pl:
     alignments: 1355
     downloads:
@@ -43,7 +43,7 @@ bitexts:
     source language tokens: 22941
     target language tokens: 26860
   hr-pl:
-    alignments: 8
+    alignments: 13
     downloads:
       alignments:
         size: 394
@@ -61,8 +61,8 @@ bitexts:
         size: 144632
         url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/xml/pl.zip
     files: 1
-    source language tokens: 13
-    target language tokens: 17
+    source language tokens: 17
+    target language tokens: 8
 monolingual:
   en:
     downloads:
@@ -126,11 +126,11 @@ monolingual:
     tokens: 22715
 moses:
   en-hr:
-    alignments: 7911
+    alignments: 136809
     download size: 666714
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/moses/en-hr.txt.zip
-    source language tokens: 136809
-    target language tokens: 159632
+    source language tokens: 159632
+    target language tokens: 7911
   en-pl:
     alignments: 1356
     download size: 109613
@@ -138,18 +138,18 @@ moses:
     source language tokens: 20224
     target language tokens: 24129
   hr-pl:
-    alignments: 9
+    alignments: 13
     download size: 2279
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/moses/hr-pl.txt.zip
-    source language tokens: 13
-    target language tokens: 16
+    source language tokens: 16
+    target language tokens: 9
 tmx:
   en-hr:
     download size: 717142
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/tmx/en-hr.tmx.gz
-    source language tokens: 136809
-    target language tokens: 159632
-    translation units: 7911
+    source language tokens: 159632
+    target language tokens: 7911
+    translation units: 136809
   en-pl:
     download size: 117292
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/tmx/en-pl.tmx.gz
@@ -159,6 +159,6 @@ tmx:
   hr-pl:
     download size: 482
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Regional_Development/v1/tmx/hr-pl.tmx.gz
-    source language tokens: 13
-    target language tokens: 16
-    translation units: 9
+    source language tokens: 16
+    target language tokens: 9
+    translation units: 13

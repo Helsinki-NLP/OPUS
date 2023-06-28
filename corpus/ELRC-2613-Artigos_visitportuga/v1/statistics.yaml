@@ -1,7 +1,6 @@
 ---
 bitexts:
   ca-es:
-    alignments: 58
     downloads:
       alignments:
         size: 228
@@ -27,11 +26,7 @@ bitexts:
       word alignments:
         size: 3161
         url: https://object.pouta.csc.fi/OPUS-ELRC-2613-Artigos_visitportuga/v1/smt/ca-es.alg.zip
-    files: 3
-    source language tokens: ~
-    target language tokens: ~
   ca-fr:
-    alignments: 42
     downloads:
       alignments:
         size: 221
@@ -57,11 +52,7 @@ bitexts:
       word alignments:
         size: 3077
         url: https://object.pouta.csc.fi/OPUS-ELRC-2613-Artigos_visitportuga/v1/smt/ca-fr.alg.zip
-    files: 2
-    source language tokens: 47
-    target language tokens: ~
   ca-it:
-    alignments: 14
     downloads:
       alignments:
         size: 208
@@ -87,11 +78,7 @@ bitexts:
       word alignments:
         size: 2867
         url: https://object.pouta.csc.fi/OPUS-ELRC-2613-Artigos_visitportuga/v1/smt/ca-it.alg.zip
-    files: 1
-    source language tokens: 16
-    target language tokens: ~
   ca-pt:
-    alignments: 42
     downloads:
       alignments:
         size: 224
@@ -117,9 +104,6 @@ bitexts:
       word alignments:
         size: 3072
         url: https://object.pouta.csc.fi/OPUS-ELRC-2613-Artigos_visitportuga/v1/smt/ca-pt.alg.zip
-    files: 2
-    source language tokens: 43
-    target language tokens: ~
   es-fr:
     alignments: 1380
     downloads:
@@ -385,11 +369,8 @@ monolingual:
     tokens: 111087
 moses:
   ca-es:
-    alignments: 6
     download size: 7839
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2613-Artigos_visitportuga/v1/moses/ca-es.txt.zip
-    source language tokens: 51
-    target language tokens: ~
   ca-fr:
     alignments: 4
     download size: 7741
@@ -448,9 +429,6 @@ tmx:
   ca-es:
     download size: 591
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2613-Artigos_visitportuga/v1/tmx/ca-es.tmx.gz
-    source language tokens: 51
-    target language tokens: ~
-    translation units: 4
   ca-fr:
     download size: 522
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2613-Artigos_visitportuga/v1/tmx/ca-fr.tmx.gz

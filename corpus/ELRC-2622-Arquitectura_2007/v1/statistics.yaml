@@ -1,7 +1,6 @@
 ---
 bitexts:
   ca-de:
-    alignments: 20
     downloads:
       alignments:
         size: 226
@@ -27,11 +26,7 @@ bitexts:
       word alignments:
         size: 2850
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/smt/ca-de.alg.zip
-    files: 2
-    source language tokens: 21
-    target language tokens: ~
   ca-es:
-    alignments: 8
     downloads:
       alignments:
         size: 207
@@ -57,11 +52,7 @@ bitexts:
       word alignments:
         size: 2746
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/smt/ca-es.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   ca-fr:
-    alignments: 18
     downloads:
       alignments:
         size: 218
@@ -87,11 +78,7 @@ bitexts:
       word alignments:
         size: 2807
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/smt/ca-fr.alg.zip
-    files: 2
-    source language tokens: 20
-    target language tokens: ~
   ca-it:
-    alignments: 8
     downloads:
       alignments:
         size: 207
@@ -117,11 +104,7 @@ bitexts:
       word alignments:
         size: 2746
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/smt/ca-it.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   ca-pt:
-    alignments: 10
     downloads:
       alignments:
         size: 209
@@ -147,9 +130,6 @@ bitexts:
       word alignments:
         size: 2771
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/smt/ca-pt.alg.zip
-    files: 1
-    source language tokens: 12
-    target language tokens: ~
   de-en:
     alignments: 103
     downloads:
@@ -232,7 +212,6 @@ bitexts:
     source language tokens: 3512
     target language tokens: 3755
   de-it:
-    alignments: 7
     downloads:
       alignments:
         size: 208
@@ -258,9 +237,6 @@ bitexts:
       word alignments:
         size: 2736
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/smt/de-it.alg.zip
-    files: 1
-    source language tokens: 8
-    target language tokens: ~
   de-pt:
     alignments: 108
     downloads:
@@ -412,7 +388,6 @@ bitexts:
     source language tokens: 3709
     target language tokens: 3792
   es-it:
-    alignments: 8
     downloads:
       alignments:
         size: 208
@@ -438,9 +413,6 @@ bitexts:
       word alignments:
         size: 2747
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/smt/es-it.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   es-pt:
     alignments: 130
     downloads:
@@ -472,7 +444,6 @@ bitexts:
     source language tokens: 3438
     target language tokens: 3661
   fr-it:
-    alignments: 8
     downloads:
       alignments:
         size: 209
@@ -498,9 +469,6 @@ bitexts:
       word alignments:
         size: 2748
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/smt/fr-it.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   fr-pt:
     alignments: 123
     downloads:
@@ -649,9 +617,6 @@ monolingual:
       xml:
         size: 8619
         url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/raw/it.zip
-    files: 4
-    sentences: 32
-    tokens: ~
   pt:
     downloads:
       frequency list:
@@ -680,11 +645,8 @@ moses:
     source language tokens: 17
     target language tokens: 18
   ca-es:
-    alignments: 2
     download size: 7466
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/moses/ca-es.txt.zip
-    source language tokens: 8
-    target language tokens: ~
   ca-fr:
     alignments: 4
     download size: 7573
@@ -692,11 +654,8 @@ moses:
     source language tokens: 15
     target language tokens: 17
   ca-it:
-    alignments: 2
     download size: 7465
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/moses/ca-it.txt.zip
-    source language tokens: 8
-    target language tokens: ~
   ca-pt:
     alignments: 2
     download size: 7472
@@ -758,11 +717,8 @@ moses:
     source language tokens: 3280
     target language tokens: 3377
   es-it:
-    alignments: 2
     download size: 7465
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/moses/es-it.txt.zip
-    source language tokens: 8
-    target language tokens: ~
   es-pt:
     alignments: 131
     download size: 24151
@@ -770,11 +726,8 @@ moses:
     source language tokens: 3140
     target language tokens: 3334
   fr-it:
-    alignments: 2
     download size: 7467
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/moses/fr-it.txt.zip
-    source language tokens: 8
-    target language tokens: ~
   fr-pt:
     alignments: 124
     download size: 24465
@@ -791,9 +744,6 @@ tmx:
   ca-es:
     download size: 304
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/tmx/ca-es.tmx.gz
-    source language tokens: 8
-    target language tokens: ~
-    translation units: 2
   ca-fr:
     download size: 399
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/tmx/ca-fr.tmx.gz
@@ -803,9 +753,6 @@ tmx:
   ca-it:
     download size: 311
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/tmx/ca-it.tmx.gz
-    source language tokens: 8
-    target language tokens: ~
-    translation units: 2
   ca-pt:
     download size: 318
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/tmx/ca-pt.tmx.gz
@@ -869,9 +816,6 @@ tmx:
   es-it:
     download size: 307
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/tmx/es-it.tmx.gz
-    source language tokens: 8
-    target language tokens: ~
-    translation units: 2
   es-pt:
     download size: 14609
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/tmx/es-pt.tmx.gz
@@ -881,9 +825,6 @@ tmx:
   fr-it:
     download size: 319
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/tmx/fr-it.tmx.gz
-    source language tokens: 8
-    target language tokens: ~
-    translation units: 2
   fr-pt:
     download size: 16481
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2622-Arquitectura_2007/v1/tmx/fr-pt.tmx.gz

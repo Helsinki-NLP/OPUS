@@ -21,8 +21,25 @@ bitexts:
     files: 1
     source language tokens: 224119592
     target language tokens: 254142411
-  en-de:
+  de-en:
     alignments: 4468840
+    downloads:
+      source language:
+        size: 270474697
+        url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/raw/de.zip
+      target language:
+        size: 803332450
+        url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/raw/en.zip
+      tokenized source language:
+        size: 707975919
+        url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/xml/de.zip
+      tokenized target language:
+        size: 2160505409
+        url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/xml/en.zip
+    files: 1
+    source language tokens: 118792787
+    target language tokens: 124474852
+  en-de:
     downloads:
       alignments:
         size: 37010984
@@ -39,9 +56,6 @@ bitexts:
       tokenized target language:
         size: 707975919
         url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/xml/de.zip
-    files: 1
-    source language tokens: 118792787
-    target language tokens: 124474852
   en-vi:
     alignments: 133207
     downloads:
@@ -151,12 +165,13 @@ moses:
     download url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/moses/cs-en.txt.zip
     source language tokens: 188948006
     target language tokens: 219537163
-  en-de:
+  de-en:
     alignments: 4468841
-    download size: 489412746
-    download url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/moses/en-de.txt.zip
     source language tokens: 96479163
     target language tokens: 103883240
+  en-de:
+    download size: 489412746
+    download url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/moses/en-de.txt.zip
   en-vi:
     alignments: 133167
     download size: 10995299
@@ -170,12 +185,10 @@ tmx:
     source language tokens: 140121211
     target language tokens: 162205566
     translation units: 11074323
+  de-en: {}
   en-de:
     download size: 515118339
     download url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/tmx/en-de.tmx.gz
-    source language tokens: 96241901
-    target language tokens: 103638280
-    translation units: 4427106
   en-vi:
     download size: 11919620
     download url: https://object.pouta.csc.fi/OPUS-StanfordNLP-NMT/v1.0/tmx/en-vi.tmx.gz

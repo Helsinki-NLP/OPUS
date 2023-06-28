@@ -1,7 +1,6 @@
 ---
 bitexts:
   ca-en:
-    alignments: 22
     downloads:
       alignments:
         size: 210
@@ -27,11 +26,7 @@ bitexts:
       word alignments:
         size: 3034
         url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-en.alg.zip
-    files: 1
-    source language tokens: 28
-    target language tokens: ~
   ca-fr:
-    alignments: 24
     downloads:
       alignments:
         size: 208
@@ -48,11 +43,7 @@ bitexts:
       tokenized target language:
         size: 88458
         url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/xml/fr.zip
-    files: 1
-    source language tokens: 28
-    target language tokens: ~
   ca-pt:
-    alignments: 40
     downloads:
       alignments:
         size: 221
@@ -78,9 +69,6 @@ bitexts:
       word alignments:
         size: 3137
         url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/smt/ca-pt.alg.zip
-    files: 2
-    source language tokens: 41
-    target language tokens: ~
   en-es:
     alignments: 2
     downloads:
@@ -142,7 +130,6 @@ bitexts:
     source language tokens: 7643
     target language tokens: 8709
   en-it:
-    alignments: 8
     downloads:
       alignments:
         size: 208
@@ -168,9 +155,6 @@ bitexts:
       word alignments:
         size: 2934
         url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/smt/en-it.alg.zip
-    files: 1
-    source language tokens: 14
-    target language tokens: ~
   en-pt:
     alignments: 396
     downloads:
@@ -202,7 +186,6 @@ bitexts:
     source language tokens: 7556
     target language tokens: 8643
   fr-it:
-    alignments: 8
     downloads:
       alignments:
         size: 208
@@ -228,9 +211,6 @@ bitexts:
       word alignments:
         size: 2913
         url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/smt/fr-it.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   fr-pt:
     alignments: 440
     downloads:
@@ -359,9 +339,6 @@ monolingual:
       xml:
         size: 2470
         url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/raw/it.zip
-    files: 2
-    sentences: 16
-    tokens: ~
   pt:
     downloads:
       frequency list:
@@ -390,11 +367,8 @@ moses:
     source language tokens: 14
     target language tokens: 16
   ca-fr:
-    alignments: 2
     download size: 1988
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/moses/ca-fr.txt.zip
-    source language tokens: 16
-    target language tokens: ~
   ca-pt:
     alignments: 4
     download size: 2097
@@ -426,11 +400,8 @@ moses:
     source language tokens: 6259
     target language tokens: 7741
   fr-it:
-    alignments: 2
     download size: 1994
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/moses/fr-it.txt.zip
-    source language tokens: 7
-    target language tokens: ~
   fr-pt:
     alignments: 441
     download size: 29982
@@ -447,9 +418,6 @@ tmx:
   ca-fr:
     download size: 334
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-fr.tmx.gz
-    source language tokens: 16
-    target language tokens: ~
-    translation units: 2
   ca-pt:
     download size: 378
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/tmx/ca-pt.tmx.gz
@@ -483,9 +451,6 @@ tmx:
   fr-it:
     download size: 326
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-it.tmx.gz
-    source language tokens: 7
-    target language tokens: ~
-    translation units: 2
   fr-pt:
     download size: 29060
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2480-Estatuto_dos_Deputad/v1/tmx/fr-pt.tmx.gz

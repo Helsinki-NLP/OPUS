@@ -43,7 +43,7 @@ bitexts:
     source language tokens: 13
     target language tokens: 27
   de-en:
-    alignments: 555
+    alignments: 19539
     downloads:
       alignments:
         size: 5316
@@ -61,10 +61,10 @@ bitexts:
         size: 132027
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/en.zip
     files: 1
-    source language tokens: 19539
-    target language tokens: 20390
+    source language tokens: 20390
+    target language tokens: 555
   de-es:
-    alignments: 386
+    alignments: 11737
     downloads:
       alignments:
         size: 3430
@@ -82,10 +82,10 @@ bitexts:
         size: 133934
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/es.zip
     files: 1
-    source language tokens: 11737
-    target language tokens: 13410
+    source language tokens: 13410
+    target language tokens: 386
   de-fr:
-    alignments: 388
+    alignments: 11812
     downloads:
       alignments:
         size: 3441
@@ -103,10 +103,10 @@ bitexts:
         size: 153881
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/fr.zip
     files: 1
-    source language tokens: 11812
-    target language tokens: 13796
+    source language tokens: 13796
+    target language tokens: 388
   de-pt:
-    alignments: 403
+    alignments: 12232
     downloads:
       alignments:
         size: 3587
@@ -124,10 +124,10 @@ bitexts:
         size: 132503
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/pt.zip
     files: 1
-    source language tokens: 12232
-    target language tokens: 13307
+    source language tokens: 13307
+    target language tokens: 403
   en-es:
-    alignments: 574
+    alignments: 20470
     downloads:
       alignments:
         size: 4756
@@ -145,10 +145,10 @@ bitexts:
         size: 133934
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/es.zip
     files: 1
-    source language tokens: 20470
-    target language tokens: 22070
+    source language tokens: 22070
+    target language tokens: 574
   en-fr:
-    alignments: 580
+    alignments: 20514
     downloads:
       alignments:
         size: 4717
@@ -166,10 +166,10 @@ bitexts:
         size: 153881
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/fr.zip
     files: 1
-    source language tokens: 20514
-    target language tokens: 22689
+    source language tokens: 22689
+    target language tokens: 580
   en-pt:
-    alignments: 594
+    alignments: 20493
     downloads:
       alignments:
         size: 4798
@@ -187,10 +187,10 @@ bitexts:
         size: 132503
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/pt.zip
     files: 1
-    source language tokens: 20493
-    target language tokens: 20998
+    source language tokens: 20998
+    target language tokens: 594
   es-fr:
-    alignments: 544
+    alignments: 20192
     downloads:
       alignments:
         size: 4523
@@ -208,10 +208,10 @@ bitexts:
         size: 153881
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/fr.zip
     files: 1
-    source language tokens: 20192
-    target language tokens: 20838
+    source language tokens: 20838
+    target language tokens: 544
   es-it:
-    alignments: 592
+    alignments: 21099
     downloads:
       alignments:
         size: 4587
@@ -229,10 +229,10 @@ bitexts:
         size: 124348
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/it.zip
     files: 1
-    source language tokens: 21099
-    target language tokens: 22070
+    source language tokens: 22070
+    target language tokens: 592
   es-pt:
-    alignments: 537
+    alignments: 18517
     downloads:
       alignments:
         size: 4358
@@ -250,10 +250,10 @@ bitexts:
         size: 132503
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/pt.zip
     files: 1
-    source language tokens: 18517
-    target language tokens: 19527
+    source language tokens: 19527
+    target language tokens: 537
   fr-it:
-    alignments: 589
+    alignments: 21099
     downloads:
       alignments:
         size: 4579
@@ -271,10 +271,10 @@ bitexts:
         size: 124348
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/it.zip
     files: 1
-    source language tokens: 21099
-    target language tokens: 22671
+    source language tokens: 22671
+    target language tokens: 589
   fr-pt:
-    alignments: 546
+    alignments: 18954
     downloads:
       alignments:
         size: 4388
@@ -292,10 +292,10 @@ bitexts:
         size: 132503
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/pt.zip
     files: 1
-    source language tokens: 18954
-    target language tokens: 20542
+    source language tokens: 20542
+    target language tokens: 546
   it-pt:
-    alignments: 582
+    alignments: 20981
     downloads:
       alignments:
         size: 4445
@@ -313,8 +313,8 @@ bitexts:
         size: 132503
         url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/xml/pt.zip
     files: 1
-    source language tokens: 20981
-    target language tokens: 21099
+    source language tokens: 21099
+    target language tokens: 582
 monolingual:
   af:
     downloads:
@@ -478,183 +478,183 @@ monolingual:
     tokens: 23351
 moses:
   af-fr:
-    alignments: 2
+    alignments: 17
     download size: 7496
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/af-fr.txt.zip
-    source language tokens: 17
-    target language tokens: 18
+    source language tokens: 18
+    target language tokens: 2
   ca-pt:
-    alignments: 2
+    alignments: 12
     download size: 7502
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/ca-pt.txt.zip
-    source language tokens: 12
+    source language tokens: 2
     target language tokens: 24
   de-en:
-    alignments: 556
+    alignments: 17209
     download size: 84296
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/de-en.txt.zip
-    source language tokens: 17209
-    target language tokens: 18513
+    source language tokens: 18513
+    target language tokens: 556
   de-es:
-    alignments: 387
+    alignments: 10350
     download size: 55492
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/de-es.txt.zip
-    source language tokens: 10350
-    target language tokens: 11949
+    source language tokens: 11949
+    target language tokens: 387
   de-fr:
-    alignments: 389
+    alignments: 10416
     download size: 56117
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/de-fr.txt.zip
-    source language tokens: 10416
-    target language tokens: 11845
+    source language tokens: 11845
+    target language tokens: 389
   de-pt:
-    alignments: 404
+    alignments: 10788
     download size: 57058
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/de-pt.txt.zip
-    source language tokens: 10788
-    target language tokens: 11782
+    source language tokens: 11782
+    target language tokens: 404
   en-es:
-    alignments: 575
+    alignments: 18592
     download size: 80035
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/en-es.txt.zip
-    source language tokens: 18592
-    target language tokens: 19652
+    source language tokens: 19652
+    target language tokens: 575
   en-fr:
-    alignments: 581
+    alignments: 18638
     download size: 80721
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/en-fr.txt.zip
-    source language tokens: 18638
-    target language tokens: 19500
+    source language tokens: 19500
+    target language tokens: 581
   en-pt:
-    alignments: 595
+    alignments: 18616
     download size: 79602
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/en-pt.txt.zip
-    source language tokens: 18616
-    target language tokens: 18624
+    source language tokens: 18624
+    target language tokens: 595
   es-fr:
-    alignments: 545
+    alignments: 17910
     download size: 74045
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/es-fr.txt.zip
-    source language tokens: 17910
-    target language tokens: 17976
+    source language tokens: 17976
+    target language tokens: 545
   es-it:
-    alignments: 593
+    alignments: 18325
     download size: 79610
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/es-it.txt.zip
-    source language tokens: 18325
-    target language tokens: 19663
+    source language tokens: 19663
+    target language tokens: 593
   es-pt:
-    alignments: 538
+    alignments: 16418
     download size: 70195
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/es-pt.txt.zip
-    source language tokens: 16418
-    target language tokens: 17401
+    source language tokens: 17401
+    target language tokens: 538
   fr-it:
-    alignments: 590
+    alignments: 18325
     download size: 80193
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/fr-it.txt.zip
-    source language tokens: 18325
-    target language tokens: 19490
+    source language tokens: 19490
+    target language tokens: 590
   fr-pt:
-    alignments: 547
+    alignments: 16810
     download size: 72257
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/fr-pt.txt.zip
-    source language tokens: 16810
-    target language tokens: 17652
+    source language tokens: 17652
+    target language tokens: 547
   it-pt:
-    alignments: 583
+    alignments: 18323
     download size: 79043
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/moses/it-pt.txt.zip
-    source language tokens: 18323
-    target language tokens: 18602
+    source language tokens: 18602
+    target language tokens: 583
 tmx:
   af-fr:
     download size: 396
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/af-fr.tmx.gz
-    source language tokens: 17
-    target language tokens: 18
-    translation units: 2
+    source language tokens: 18
+    target language tokens: 2
+    translation units: 17
   ca-pt:
     download size: 403
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/ca-pt.tmx.gz
-    source language tokens: 12
+    source language tokens: 2
     target language tokens: 24
-    translation units: 2
+    translation units: 12
   de-en:
     download size: 82715
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/de-en.tmx.gz
-    source language tokens: 17209
-    target language tokens: 18513
-    translation units: 556
+    source language tokens: 18513
+    target language tokens: 556
+    translation units: 17209
   de-es:
     download size: 51815
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/de-es.tmx.gz
-    source language tokens: 10350
-    target language tokens: 11949
-    translation units: 387
+    source language tokens: 11949
+    target language tokens: 387
+    translation units: 10350
   de-fr:
     download size: 52467
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/de-fr.tmx.gz
-    source language tokens: 10416
-    target language tokens: 11845
-    translation units: 389
+    source language tokens: 11845
+    target language tokens: 389
+    translation units: 10416
   de-pt:
     download size: 53445
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/de-pt.tmx.gz
-    source language tokens: 10788
-    target language tokens: 11782
-    translation units: 404
+    source language tokens: 11782
+    target language tokens: 404
+    translation units: 10788
   en-es:
     download size: 78164
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/en-es.tmx.gz
-    source language tokens: 18592
-    target language tokens: 19652
-    translation units: 575
+    source language tokens: 19652
+    target language tokens: 575
+    translation units: 18592
   en-fr:
     download size: 79104
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/en-fr.tmx.gz
-    source language tokens: 18638
-    target language tokens: 19500
-    translation units: 581
+    source language tokens: 19500
+    target language tokens: 581
+    translation units: 18638
   en-pt:
     download size: 77910
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/en-pt.tmx.gz
-    source language tokens: 18616
-    target language tokens: 18624
-    translation units: 595
+    source language tokens: 18624
+    target language tokens: 595
+    translation units: 18616
   es-fr:
     download size: 71683
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/es-fr.tmx.gz
-    source language tokens: 17910
-    target language tokens: 17976
-    translation units: 545
+    source language tokens: 17976
+    target language tokens: 545
+    translation units: 17910
   es-it:
     download size: 76666
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/es-it.tmx.gz
-    source language tokens: 18325
-    target language tokens: 19663
-    translation units: 593
+    source language tokens: 19663
+    target language tokens: 593
+    translation units: 18325
   es-pt:
     download size: 62464
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/es-pt.tmx.gz
-    source language tokens: 16418
-    target language tokens: 17401
-    translation units: 538
+    source language tokens: 17401
+    target language tokens: 538
+    translation units: 16418
   fr-it:
     download size: 78429
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/fr-it.tmx.gz
-    source language tokens: 18325
-    target language tokens: 19490
-    translation units: 590
+    source language tokens: 19490
+    target language tokens: 590
+    translation units: 18325
   fr-pt:
     download size: 69805
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/fr-pt.tmx.gz
-    source language tokens: 16810
-    target language tokens: 17652
-    translation units: 547
+    source language tokens: 17652
+    target language tokens: 547
+    translation units: 16810
   it-pt:
     download size: 75924
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Praias_2007/v1/tmx/it-pt.tmx.gz
-    source language tokens: 18323
-    target language tokens: 18602
-    translation units: 583
+    source language tokens: 18602
+    target language tokens: 583
+    translation units: 18323
