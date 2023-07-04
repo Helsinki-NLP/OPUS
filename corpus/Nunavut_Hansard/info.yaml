@@ -1,7 +1,20 @@
----
-latest release: v3.0.1
+contact: empty
+copyright: empty
+latest_release: v3.0.1
 license: CC-BY-4.0
 name: Nunavut_Hansard
 releases:
   v3.0.1: Fri Jan 13 16:06:24 EET 2023
 website: http://opus.nlpl.eu/Nunavut_Hansard.php
+description: >
+  The data is provided at the <a href="https://doi.org/10.4224/40001819" target="_blank">NRC Digital Repository in Canada.</a> </br>
+  The Inuktitut language, a member of the Inuit-Yupik-Unangan language family, is spoken across Arctic Canada and noted for its morphological complexity. It is an official language of two territories, Nunavut and the Northwest Territories, and has recognition in additional regions. This dataset is a newly released sentence-aligned Inuktitut–English corpus based on the proceedings of the Legislative Assembly of Nunavut, covering sessions from April 1999 to June 2017. With approximately 1.3 million aligned sentence pairs, this is, to our knowledge, the largest parallel corpus of a polysynthetic language, or an Indigenous language of the Americas, released to date. Accompanying the corpus is a subset of gold standard alignments for alignment evaluation purposes, and scripts to replicate the preprocessing used in our baseline machine translation experiments.
+bibtex: empty
+cite: >
+  Please cite the <a href="https://opus.nlpl.eu/LREC2012.txt" target="_blank">following article</a> if you use any part of the corpus in your own work:
+  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="blank"> Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: 2
+bitexts: empty
+number_of_files: 2
+total_number_of_tokens: 31.88M
+total_sentence_fragments: 2.74M

@@ -1,9 +1,23 @@
----
-latest release: v1.2
+contact: empty
+copyright: empty
+latest_release: v1.2
+license: empty
 name: XLEnt
 releases:
   v1: Fri Apr  2 10:59:36 EEST 2021
   v1.1: Sun May 23 11:10:41 EEST 2021
   v1.2: Tue Dec 13 14:12:47 EET 2022
-source: http://data.statmt.org/xlent/
 website: http://opus.nlpl.eu/XLEnt.php
+description: >
+  This corpus was created by mining CCAligned, CCMatrix, and WikiMatrix parallel sentences. These three sources were themselves extracted from web data from Commoncrawl Snapshots and Wikipedia snapshots. Entity pairs were obtained by performing named entity recognition and typing on English sentences and projecting labels to non-English aligned sentence pairs. No claims of intellectual property are made on the work of preparation of the corpus.</br>
+  XLEnt consists of parallel entity mentions in 120 languages aligned with English. These entity pairs were constructed by performing named entity recognition (NER) and typing on English sentences from mined sentence pairs. These extracted English entity labels and types were projected to the non-English sentences through word alignment. Word alignment was performed by combining three alignment signals ((1) word co-occurence alignment with FastAlign (2) semantic alignment using LASER embeddings, and (3) phonetic alignment via transliteration) into a unified word-alignment model. This lexical/semantic/phonetic alignment approach yielded more than 160 million aligned entity pairs in 120 languages paired with English. Recognizing that each English is often aligned to mulitple entities in different target languages, we can join on English entities to obtain aligned entity pairs that directly pair two non-English entities (e.g., Arabic-French) </br>
+  The original distribution is available from http://data.statmt.org/xlent/ </br>
+  The difference to version 1 is that pivoting now only uses the link with best score in case of alternative alignments for a pivot entity. Version 1.2 corrects some wrongly aligned languages during pivoting.
+bibtex: QGlucHJvY2VlZGluZ3N7ZWwyMDIxeGxlbnQsCiAgdGl0bGU9e1hMRW50OiBNaW5pbmcgYSBMYXJnZSBDcm9zcy1saW5ndWFsIEVudGl0eSBEYXRhc2V0IHdpdGggTGV4aWNhbC1TZW1hbnRpYy1QaG9uZXRpYyBXb3JkIEFsaWdubWVudH0sCiAgYXV0aG9yPXtFbC1LaXNoa3ksIEFobWVkIGFuZCBSZW5kdWNoaW50YWxhLCBBZGl0aHlhIGFuZCBDcm9zcywgSmFtZXMgYW5kIEd1em17XCdhfW4sIEZyYW5jaXNjbyBhbmQgS29laG4sIFBoaWxpcHB9LAogIGJvb2t0aXRsZT17UHJvY2VlZGluZ3Mgb2YgdGhlIDIwMjEgQ29uZmVyZW5jZSBvbiBFbXBpcmljYWwgTWV0aG9kcyBpbiBOYXR1cmFsIExhbmd1YWdlIFByb2Nlc3Npbmd9LAogIHBhZ2VzPXsxMDQyNC0tMTA0MzB9LAogIHllYXI9ezIwMjF9Cn0=
+cite: >
+  If you use the dataset or code, please cite (<a href="http://data.statmt.org/xlent/elkishky_XLEnt.pdf" target="_blank">pdf</a>) and, please, acknowledge <a href="https://www.aclweb.org/anthology/L12-1246/" target="_blank">OPUS</a> (<a href="https://www.aclweb.org/anthology/L12-1246.bib" target="_blank">bib</a>, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="_blank"> pdf</a>) as well for this service.
+number_of_languages: 120
+bitexts: 7139
+number_of_files: 120
+total_number_of_tokens: 625.65M
+total_sentence_fragments: 185.36M

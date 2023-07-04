@@ -1,8 +1,20 @@
----
-contact: 'Bonaventure DOSSOU, Chris EMEZUE'
-latest release: v2
+contact: Bonaventure DOSSOU, Chris EMEZUE
+copyright: empty
+latest_release: v2
 license: CC-BY-NC-SA-4.0
 name: FFR
 releases:
   v2: Fri Jan 13 14:39:39 EET 2023
 website: http://opus.nlpl.eu/FFR.php
+description: >
+  FFR Dataset is an ongoing project to collect, clean and store corpora of Fon and French sentences for machine translation from Fon-French. Fon (also called Fongbe) is an African-indigenous language spoken mostly in Benin, by about 1.7 million people. As training data is crucial to the high performance of a machine learning model, the aim of this project is to compile the largest set of training corpora for the research and design of translation and NLP models involving Fon. </br>
+  The FFR project is hosted at <a href="https://github.com/bonaventuredossou/ffr-v1" target="_blank">GitHUb</a>
+bibtex: empty
+cite: >
+  Please cite the <a href="https://opus.nlpl.eu/LREC2012.txt" target="_blank">following article</a> if you use any part of the corpus in your own work:
+  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="blank"> Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: 2
+bitexts: empty
+number_of_files: 6
+total_number_of_tokens: 1.12M
+total_sentence_fragments: 0.16M

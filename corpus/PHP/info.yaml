@@ -1,6 +1,19 @@
----
-latest release: v1
+contact: empty
+copyright: empty
+latest_release: v1
+license: empty
 name: PHP
 releases:
   v1: Sun Mar  4 02:04:09 EET 2018
 website: http://opus.nlpl.eu/PHP.php
+description: >
+  A parallel corpus originally extracted from http://se.php.net/download-docs.php. The original documents are written in English and have been partly translated into 21 languages. The original manuals contain about 500,000 words. The amount of actually translated texts varies for different languages between 50,000 and 380,000 words. The corpus is rather noisy and may include parts from the English original in some of the translations. The corpus is tokenized and each language pair has been sentence aligned.
+bibtex: empty
+cite: >
+  Please cite the <a href="https://opus.nlpl.eu/LREC2012.txt" target="_blank">following article</a> if you use any part of the corpus in your own work:
+  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="blank"> Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+number_of_languages: 23
+bitexts: 252
+number_of_files: 71,414
+total_number_of_tokens: 3.28M
+total_sentence_fragments: 1.38M
