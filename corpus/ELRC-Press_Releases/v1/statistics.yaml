@@ -1,7 +1,7 @@
 ---
 bitexts:
   el-en:
-    alignments: 6116
+    alignments: 134866
     downloads:
       alignments:
         size: 80375
@@ -19,10 +19,10 @@ bitexts:
         size: 802471
         url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/en.zip
     files: 1
-    source language tokens: 134866
-    target language tokens: 136867
+    source language tokens: 136867
+    target language tokens: 6116
   en-ga:
-    alignments: 353
+    alignments: 11531
     downloads:
       alignments:
         size: 3407
@@ -40,8 +40,8 @@ bitexts:
         size: 65193
         url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/xml/ga.zip
     files: 1
-    source language tokens: 9558
-    target language tokens: 11531
+    source language tokens: 353
+    target language tokens: 9558
 monolingual:
   el:
     downloads:
@@ -105,27 +105,27 @@ monolingual:
     tokens: 11520
 moses:
   el-en:
-    alignments: 6117
+    alignments: 117171
     download size: 620533
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/moses/el-en.txt.zip
-    source language tokens: 117171
-    target language tokens: 118587
+    source language tokens: 118587
+    target language tokens: 6117
   en-ga:
-    alignments: 354
+    alignments: 10472
     download size: 41423
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/moses/en-ga.txt.zip
-    source language tokens: 8646
-    target language tokens: 10472
+    source language tokens: 354
+    target language tokens: 8646
 tmx:
   el-en:
     download size: 685014
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/tmx/el-en.tmx.gz
-    source language tokens: 116897
-    target language tokens: 118306
-    translation units: 6095
+    source language tokens: 118306
+    target language tokens: 6095
+    translation units: 116897
   en-ga:
     download size: 42614
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Press_Releases/v1/tmx/en-ga.tmx.gz
-    source language tokens: 8646
-    target language tokens: 10472
-    translation units: 354
+    source language tokens: 354
+    target language tokens: 8646
+    translation units: 10472

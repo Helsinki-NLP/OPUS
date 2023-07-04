@@ -1,7 +1,7 @@
 ---
 bitexts:
   de-en_gb:
-    alignments: 53841
+    alignments: 202782
     downloads:
       alignments:
         size: 454621
@@ -19,7 +19,7 @@ bitexts:
         size: 1450487
         url: https://object.pouta.csc.fi/OPUS-ELRC-Federal_Foreign/v1/xml/en_gb.zip
     files: 1
-    source language tokens: 202782
+    source language tokens: 53841
     target language tokens: 981963
   de-fr:
     alignments: 11852
@@ -146,11 +146,11 @@ monolingual:
     tokens: 7922
 moses:
   de-en_gb:
-    alignments: 53842
+    alignments: 1014097
     download size: 4387547
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Federal_Foreign/v1/moses/de-en_gb.txt.zip
-    source language tokens: 865243
-    target language tokens: 1014097
+    source language tokens: 53842
+    target language tokens: 865243
   de-fr:
     alignments: 11853
     download size: 1017836
@@ -167,9 +167,9 @@ tmx:
   de-en_gb:
     download size: 4870213
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Federal_Foreign/v1/tmx/de-en_gb.tmx.gz
-    source language tokens: 865215
-    target language tokens: 1014034
-    translation units: 53840
+    source language tokens: 53840
+    target language tokens: 865215
+    translation units: 1014034
   de-fr:
     download size: 1097006
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Federal_Foreign/v1/tmx/de-fr.tmx.gz

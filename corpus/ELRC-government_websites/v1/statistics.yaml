@@ -85,7 +85,7 @@ bitexts:
     source language tokens: 445707
     target language tokens: 498821
   en-pt:
-    alignments: 843
+    alignments: 14695
     downloads:
       alignments:
         size: 6901
@@ -103,10 +103,10 @@ bitexts:
         size: 126132
         url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/xml/pt.zip
     files: 1
-    source language tokens: 14695
-    target language tokens: 15012
+    source language tokens: 15012
+    target language tokens: 843
   es-fr:
-    alignments: 15798
+    alignments: 2
     downloads:
       alignments:
         size: 123332
@@ -123,11 +123,11 @@ bitexts:
       tokenized target language:
         size: 2219799
         url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/xml/fr.zip
-    files: 2
+    files: 15798
     source language tokens: 384472
     target language tokens: 390106
   es-ga:
-    alignments: 490
+    alignments: 12674
     downloads:
       alignments:
         size: 3195
@@ -145,8 +145,8 @@ bitexts:
         size: 156617
         url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/xml/ga.zip
     files: 1
-    source language tokens: 12674
-    target language tokens: 12710
+    source language tokens: 12710
+    target language tokens: 490
   es-hr:
     alignments: 2
     downloads:
@@ -418,11 +418,11 @@ moses:
     source language tokens: 380988
     target language tokens: 441058
   en-pt:
-    alignments: 844
+    alignments: 13270
     download size: 53600
     download url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/moses/en-pt.txt.zip
-    source language tokens: 13270
-    target language tokens: 13470
+    source language tokens: 13470
+    target language tokens: 844
   es-fr:
     alignments: 15798
     download size: 1605371
@@ -430,11 +430,11 @@ moses:
     source language tokens: 332829
     target language tokens: 340809
   es-ga:
-    alignments: 491
+    alignments: 11600
     download size: 28561
     download url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/moses/es-ga.txt.zip
-    source language tokens: 11600
-    target language tokens: 11693
+    source language tokens: 11693
+    target language tokens: 491
   es-hr:
     alignments: 3
     download size: 2067
@@ -487,9 +487,9 @@ tmx:
   en-pt:
     download size: 55614
     download url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/tmx/en-pt.tmx.gz
-    source language tokens: 13270
-    target language tokens: 13470
-    translation units: 844
+    source language tokens: 13470
+    target language tokens: 844
+    translation units: 13270
   es-fr:
     download size: 1672680
     download url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/tmx/es-fr.tmx.gz
@@ -517,9 +517,9 @@ tmx:
   es-pt:
     download size: 50139
     download url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/tmx/es-pt.tmx.gz
-    source language tokens: 12422
-    target language tokens: 13094
-    translation units: 762
+    source language tokens: 13094
+    target language tokens: 762
+    translation units: 12422
   ga-pt:
     download size: 21253
     download url: https://object.pouta.csc.fi/OPUS-ELRC-government_websites/v1/tmx/ga-pt.tmx.gz

@@ -1,7 +1,6 @@
 ---
 bitexts:
   ca-fr:
-    alignments: 14
     downloads:
       alignments:
         size: 207
@@ -27,11 +26,7 @@ bitexts:
       word alignments:
         size: 2855
         url: https://object.pouta.csc.fi/OPUS-ELRC-2611-localidades_alentejo/v1/smt/ca-fr.alg.zip
-    files: 1
-    source language tokens: 15
-    target language tokens: ~
   ca-pt:
-    alignments: 12
     downloads:
       alignments:
         size: 208
@@ -57,9 +52,6 @@ bitexts:
       word alignments:
         size: 2834
         url: https://object.pouta.csc.fi/OPUS-ELRC-2611-localidades_alentejo/v1/smt/ca-pt.alg.zip
-    files: 1
-    source language tokens: 14
-    target language tokens: ~
   fr-it:
     alignments: 285
     downloads:
@@ -162,9 +154,6 @@ monolingual:
       xml:
         size: 8000
         url: https://object.pouta.csc.fi/OPUS-ELRC-2611-localidades_alentejo/v1/raw/ca.zip
-    files: 2
-    sentences: 28
-    tokens: ~
   fr:
     downloads:
       frequency list:
@@ -227,11 +216,8 @@ monolingual:
     tokens: 15655
 moses:
   ca-fr:
-    alignments: 2
     download size: 7520
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2611-localidades_alentejo/v1/moses/ca-fr.txt.zip
-    source language tokens: 13
-    target language tokens: ~
   ca-pt:
     alignments: 2
     download size: 7513
@@ -260,9 +246,6 @@ tmx:
   ca-fr:
     download size: 343
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2611-localidades_alentejo/v1/tmx/ca-fr.tmx.gz
-    source language tokens: 13
-    target language tokens: ~
-    translation units: 2
   ca-pt:
     download size: 337
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2611-localidades_alentejo/v1/tmx/ca-pt.tmx.gz

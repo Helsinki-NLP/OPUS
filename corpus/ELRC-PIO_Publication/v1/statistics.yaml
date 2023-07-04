@@ -43,7 +43,7 @@ bitexts:
     source language tokens: 349
     target language tokens: 449
   en-pl:
-    alignments: 585
+    alignments: 13113
     downloads:
       alignments:
         size: 7304
@@ -61,8 +61,8 @@ bitexts:
         size: 85409
         url: https://object.pouta.csc.fi/OPUS-ELRC-PIO_Publication/v1/xml/pl.zip
     files: 1
-    source language tokens: 13113
-    target language tokens: 15456
+    source language tokens: 15456
+    target language tokens: 585
 monolingual:
   el:
     downloads:
@@ -138,11 +138,11 @@ moses:
     source language tokens: 316
     target language tokens: 414
   en-pl:
-    alignments: 586
+    alignments: 11477
     download size: 65726
     download url: https://object.pouta.csc.fi/OPUS-ELRC-PIO_Publication/v1/moses/en-pl.txt.zip
-    source language tokens: 11477
-    target language tokens: 13828
+    source language tokens: 13828
+    target language tokens: 586
 tmx:
   el-en:
     download size: 509322
@@ -159,6 +159,6 @@ tmx:
   en-pl:
     download size: 68949
     download url: https://object.pouta.csc.fi/OPUS-ELRC-PIO_Publication/v1/tmx/en-pl.tmx.gz
-    source language tokens: 11477
-    target language tokens: 13828
-    translation units: 586
+    source language tokens: 13828
+    target language tokens: 586
+    translation units: 11477

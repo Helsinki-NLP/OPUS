@@ -22,7 +22,7 @@ bitexts:
     source language tokens: 30770
     target language tokens: 35384
   en-nn:
-    alignments: 990
+    alignments: 10003
     downloads:
       alignments:
         size: 7052
@@ -41,7 +41,7 @@ bitexts:
         url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/xml/nn.zip
     files: 1
     source language tokens: 9581
-    target language tokens: 10003
+    target language tokens: 990
 monolingual:
   en:
     downloads:
@@ -111,11 +111,11 @@ moses:
     source language tokens: 26841
     target language tokens: 31571
   en-nn:
-    alignments: 991
+    alignments: 8155
     download size: 35525
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/moses/en-nn.txt.zip
-    source language tokens: 8155
-    target language tokens: 8931
+    source language tokens: 8931
+    target language tokens: 991
 tmx:
   en-nb:
     download size: 121684
@@ -126,6 +126,6 @@ tmx:
   en-nn:
     download size: 31538
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Norwegian_Directorat/v1/tmx/en-nn.tmx.gz
-    source language tokens: 6110
-    target language tokens: 6681
-    translation units: 677
+    source language tokens: 6681
+    target language tokens: 677
+    translation units: 6110

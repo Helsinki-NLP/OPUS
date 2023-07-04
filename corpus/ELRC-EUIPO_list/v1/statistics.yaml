@@ -1,7 +1,7 @@
 ---
 bitexts:
   de-en:
-    alignments: 30485
+    alignments: 139068
     downloads:
       alignments:
         size: 249970
@@ -19,10 +19,10 @@ bitexts:
         size: 1507587
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/en.zip
     files: 1
-    source language tokens: 139068
-    target language tokens: 175396
+    source language tokens: 175396
+    target language tokens: 30485
   de-es:
-    alignments: 20258
+    alignments: 132304
     downloads:
       alignments:
         size: 177667
@@ -40,10 +40,10 @@ bitexts:
         size: 1843015
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/es.zip
     files: 1
-    source language tokens: 98377
-    target language tokens: 132304
+    source language tokens: 20258
+    target language tokens: 98377
   de-fr:
-    alignments: 19810
+    alignments: 127992
     downloads:
       alignments:
         size: 171451
@@ -61,10 +61,10 @@ bitexts:
         size: 1856705
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/fr.zip
     files: 1
-    source language tokens: 94860
-    target language tokens: 127992
+    source language tokens: 19810
+    target language tokens: 94860
   de-it:
-    alignments: 21960
+    alignments: 106478
     downloads:
       alignments:
         size: 185467
@@ -82,10 +82,10 @@ bitexts:
         size: 1805461
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/it.zip
     files: 1
-    source language tokens: 106478
-    target language tokens: 141855
+    source language tokens: 141855
+    target language tokens: 21960
   en-es:
-    alignments: 32182
+    alignments: 172264
     downloads:
       alignments:
         size: 266906
@@ -103,10 +103,10 @@ bitexts:
         size: 1843015
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/es.zip
     files: 1
-    source language tokens: 172264
-    target language tokens: 188063
+    source language tokens: 188063
+    target language tokens: 32182
   en-fr:
-    alignments: 31629
+    alignments: 166921
     downloads:
       alignments:
         size: 257152
@@ -124,10 +124,10 @@ bitexts:
         size: 1856705
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/fr.zip
     files: 1
-    source language tokens: 166921
-    target language tokens: 181728
+    source language tokens: 181728
+    target language tokens: 31629
   en-it:
-    alignments: 35017
+    alignments: 187569
     downloads:
       alignments:
         size: 263014
@@ -145,10 +145,10 @@ bitexts:
         size: 1805461
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/it.zip
     files: 1
-    source language tokens: 187569
-    target language tokens: 202093
+    source language tokens: 202093
+    target language tokens: 35017
   es-fr:
-    alignments: 23371
+    alignments: 138502
     downloads:
       alignments:
         size: 202003
@@ -166,10 +166,10 @@ bitexts:
         size: 1856705
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/fr.zip
     files: 1
-    source language tokens: 138502
-    target language tokens: 138718
+    source language tokens: 138718
+    target language tokens: 23371
   es-it:
-    alignments: 25344
+    alignments: 150775
     downloads:
       alignments:
         size: 213125
@@ -187,10 +187,10 @@ bitexts:
         size: 1805461
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/it.zip
     files: 1
-    source language tokens: 150775
-    target language tokens: 153203
+    source language tokens: 153203
+    target language tokens: 25344
   fr-it:
-    alignments: 24805
+    alignments: 145469
     downloads:
       alignments:
         size: 208863
@@ -208,8 +208,8 @@ bitexts:
         size: 1805461
         url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/xml/it.zip
     files: 1
-    source language tokens: 145469
-    target language tokens: 147916
+    source language tokens: 147916
+    target language tokens: 24805
 monolingual:
   de:
     downloads:
@@ -313,123 +313,123 @@ monolingual:
     tokens: 309474
 moses:
   de-en:
-    alignments: 30486
+    alignments: 128656
     download size: 763823
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/de-en.txt.zip
-    source language tokens: 128656
-    target language tokens: 162328
+    source language tokens: 162328
+    target language tokens: 30486
   de-es:
-    alignments: 20259
+    alignments: 125172
     download size: 581108
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/de-es.txt.zip
-    source language tokens: 91336
-    target language tokens: 125172
+    source language tokens: 20259
+    target language tokens: 91336
   de-fr:
-    alignments: 19811
+    alignments: 116736
     download size: 554495
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/de-fr.txt.zip
-    source language tokens: 87611
-    target language tokens: 116736
+    source language tokens: 19811
+    target language tokens: 87611
   de-it:
-    alignments: 21961
+    alignments: 131206
     download size: 595587
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/de-it.txt.zip
-    source language tokens: 98742
-    target language tokens: 131206
+    source language tokens: 21961
+    target language tokens: 98742
   en-es:
-    alignments: 32183
+    alignments: 160328
     download size: 782434
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/en-es.txt.zip
-    source language tokens: 160328
-    target language tokens: 178775
+    source language tokens: 178775
+    target language tokens: 32183
   en-fr:
-    alignments: 31630
+    alignments: 154967
     download size: 752349
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/en-fr.txt.zip
-    source language tokens: 154967
-    target language tokens: 166285
+    source language tokens: 166285
+    target language tokens: 31630
   en-it:
-    alignments: 35018
+    alignments: 174862
     download size: 818363
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/en-it.txt.zip
-    source language tokens: 174862
-    target language tokens: 187958
+    source language tokens: 187958
+    target language tokens: 35018
   es-fr:
-    alignments: 23372
+    alignments: 126864
     download size: 619984
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/es-fr.txt.zip
-    source language tokens: 126864
-    target language tokens: 131639
+    source language tokens: 131639
+    target language tokens: 23372
   es-it:
-    alignments: 25345
+    alignments: 140208
     download size: 654021
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/es-it.txt.zip
-    source language tokens: 140208
-    target language tokens: 145655
+    source language tokens: 145655
+    target language tokens: 25345
   fr-it:
-    alignments: 24806
+    alignments: 134815
     download size: 630715
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/moses/fr-it.txt.zip
-    source language tokens: 134815
-    target language tokens: 135526
+    source language tokens: 135526
+    target language tokens: 24806
 tmx:
   de-en:
     download size: 769278
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/de-en.tmx.gz
-    source language tokens: 128656
-    target language tokens: 162328
-    translation units: 30486
+    source language tokens: 162328
+    target language tokens: 30486
+    translation units: 128656
   de-es:
     download size: 586211
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/de-es.tmx.gz
-    source language tokens: 91324
-    target language tokens: 125160
-    translation units: 20254
+    source language tokens: 20254
+    target language tokens: 91324
+    translation units: 125160
   de-fr:
     download size: 555987
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/de-fr.tmx.gz
-    source language tokens: 87565
-    target language tokens: 116679
-    translation units: 19799
+    source language tokens: 19799
+    target language tokens: 87565
+    translation units: 116679
   de-it:
     download size: 606630
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/de-it.tmx.gz
-    source language tokens: 98688
-    target language tokens: 131142
-    translation units: 21947
+    source language tokens: 21947
+    target language tokens: 98688
+    translation units: 131142
   en-es:
     download size: 770040
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/en-es.tmx.gz
-    source language tokens: 160328
-    target language tokens: 178775
-    translation units: 32183
+    source language tokens: 178775
+    target language tokens: 32183
+    translation units: 160328
   en-fr:
     download size: 739230
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/en-fr.tmx.gz
-    source language tokens: 154943
-    target language tokens: 166257
-    translation units: 31628
+    source language tokens: 166257
+    target language tokens: 31628
+    translation units: 154943
   en-it:
     download size: 821986
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/en-it.tmx.gz
-    source language tokens: 174850
-    target language tokens: 187945
-    translation units: 35017
+    source language tokens: 187945
+    target language tokens: 35017
+    translation units: 174850
   es-fr:
     download size: 610738
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/es-fr.tmx.gz
-    source language tokens: 126847
-    target language tokens: 131621
-    translation units: 23365
+    source language tokens: 131621
+    target language tokens: 23365
+    translation units: 126847
   es-it:
     download size: 649301
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/es-it.tmx.gz
-    source language tokens: 140191
-    target language tokens: 145638
-    translation units: 25337
+    source language tokens: 145638
+    target language tokens: 25337
+    translation units: 140191
   fr-it:
     download size: 630680
     download url: https://object.pouta.csc.fi/OPUS-ELRC-EUIPO_list/v1/tmx/fr-it.tmx.gz
-    source language tokens: 134709
-    target language tokens: 135417
-    translation units: 24785
+    source language tokens: 135417
+    target language tokens: 24785
+    translation units: 134709

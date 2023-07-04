@@ -1,7 +1,6 @@
 ---
 bitexts:
   af-ca:
-    alignments: 12
     downloads:
       alignments:
         size: 208
@@ -27,9 +26,6 @@ bitexts:
       word alignments:
         size: 2760
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/af-ca.alg.zip
-    files: 1
-    source language tokens: 15
-    target language tokens: ~
   af-en:
     alignments: 4
     downloads:
@@ -211,7 +207,6 @@ bitexts:
     source language tokens: 198
     target language tokens: 223
   ca-fr:
-    alignments: 13
     downloads:
       alignments:
         size: 208
@@ -237,11 +232,7 @@ bitexts:
       word alignments:
         size: 2754
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/ca-fr.alg.zip
-    files: 1
-    source language tokens: 15
-    target language tokens: ~
   ca-it:
-    alignments: 12
     downloads:
       alignments:
         size: 208
@@ -267,9 +258,6 @@ bitexts:
       word alignments:
         size: 2751
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/ca-it.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   ca-pt:
     alignments: 14
     downloads:
@@ -352,7 +340,6 @@ bitexts:
     source language tokens: 63482
     target language tokens: 67885
   de-fr:
-    alignments: 12
     downloads:
       alignments:
         size: 208
@@ -378,11 +365,7 @@ bitexts:
       word alignments:
         size: 2750
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/de-fr.alg.zip
-    files: 1
-    source language tokens: 14
-    target language tokens: ~
   de-it:
-    alignments: 22
     downloads:
       alignments:
         size: 222
@@ -408,9 +391,6 @@ bitexts:
       word alignments:
         size: 2816
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/de-it.alg.zip
-    files: 2
-    source language tokens: 23
-    target language tokens: ~
   de-pt:
     alignments: 2435
     downloads:
@@ -442,7 +422,6 @@ bitexts:
     source language tokens: 63750
     target language tokens: 64051
   de-ro:
-    alignments: 27
     downloads:
       alignments:
         size: 221
@@ -468,9 +447,6 @@ bitexts:
       word alignments:
         size: 2940
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/de-ro.alg.zip
-    files: 1
-    source language tokens: 62
-    target language tokens: ~
   en-es:
     alignments: 2546
     downloads:
@@ -652,7 +628,6 @@ bitexts:
     source language tokens: 66385
     target language tokens: 71417
   es-fr:
-    alignments: 27
     downloads:
       alignments:
         size: 225
@@ -678,9 +653,6 @@ bitexts:
       word alignments:
         size: 2875
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/es-fr.alg.zip
-    files: 2
-    source language tokens: 30
-    target language tokens: ~
   es-it:
     alignments: 3
     downloads:
@@ -802,7 +774,6 @@ bitexts:
     source language tokens: 64716
     target language tokens: 68951
   es-sv:
-    alignments: 9
     downloads:
       alignments:
         size: 208
@@ -828,9 +799,6 @@ bitexts:
       word alignments:
         size: 2740
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/es-sv.alg.zip
-    files: 1
-    source language tokens: 15
-    target language tokens: ~
   fr-pt:
     alignments: 7
     downloads:
@@ -952,7 +920,6 @@ bitexts:
     source language tokens: 61
     target language tokens: 70
   pt-sv:
-    alignments: 9
     downloads:
       alignments:
         size: 209
@@ -978,9 +945,6 @@ bitexts:
       word alignments:
         size: 2736
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/smt/pt-sv.alg.zip
-    files: 1
-    source language tokens: 13
-    target language tokens: ~
 monolingual:
   af:
     downloads:
@@ -1219,9 +1183,6 @@ monolingual:
       xml:
         size: 7926
         url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/raw/sv.zip
-    files: 2
-    sentences: 18
-    tokens: ~
 moses:
   af-ca:
     alignments: 2
@@ -1242,11 +1203,8 @@ moses:
     source language tokens: 42
     target language tokens: 59
   af-pt:
-    alignments: 4
     download size: 7711
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/moses/af-pt.txt.zip
-    source language tokens: 42
-    target language tokens: ~
   ca-de:
     alignments: 9
     download size: 8060
@@ -1272,11 +1230,8 @@ moses:
     source language tokens: 10
     target language tokens: 12
   ca-it:
-    alignments: 2
     download size: 7457
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/moses/ca-it.txt.zip
-    source language tokens: 10
-    target language tokens: ~
   ca-pt:
     alignments: 19
     download size: 8862
@@ -1443,9 +1398,6 @@ tmx:
   af-pt:
     download size: 563
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/tmx/af-pt.tmx.gz
-    source language tokens: 42
-    target language tokens: ~
-    translation units: 4
   ca-de:
     download size: 871
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/tmx/ca-de.tmx.gz
@@ -1473,9 +1425,6 @@ tmx:
   ca-it:
     download size: 319
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/tmx/ca-it.tmx.gz
-    source language tokens: 10
-    target language tokens: ~
-    translation units: 2
   ca-pt:
     download size: 1496
     download url: https://object.pouta.csc.fi/OPUS-ELRC-2638-monumentos_2007/v1/tmx/ca-pt.tmx.gz

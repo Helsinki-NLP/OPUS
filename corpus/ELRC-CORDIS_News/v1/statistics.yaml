@@ -22,7 +22,7 @@ bitexts:
     source language tokens: 2727788
     target language tokens: 2772569
   de-es:
-    alignments: 86682
+    alignments: 2113946
     downloads:
       alignments:
         size: 785436
@@ -40,8 +40,8 @@ bitexts:
         size: 19175717
         url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/xml/es.zip
     files: 1
-    source language tokens: 2113946
-    target language tokens: 2440435
+    source language tokens: 2440435
+    target language tokens: 86682
   de-fr:
     alignments: 101601
     downloads:
@@ -64,7 +64,7 @@ bitexts:
     source language tokens: 2480072
     target language tokens: 2942377
   de-it:
-    alignments: 94094
+    alignments: 2335455
     downloads:
       alignments:
         size: 860077
@@ -82,10 +82,10 @@ bitexts:
         size: 20931804
         url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/xml/it.zip
     files: 1
-    source language tokens: 2335455
-    target language tokens: 2616684
+    source language tokens: 2616684
+    target language tokens: 94094
   de-pl:
-    alignments: 67881
+    alignments: 1582318
     downloads:
       alignments:
         size: 626678
@@ -103,8 +103,8 @@ bitexts:
         size: 14084167
         url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/xml/pl.zip
     files: 1
-    source language tokens: 1582318
-    target language tokens: 1690400
+    source language tokens: 1690400
+    target language tokens: 67881
   en-es:
     alignments: 112994
     downloads:
@@ -169,7 +169,7 @@ bitexts:
     source language tokens: 3271780
     target language tokens: 3613720
   en-pl:
-    alignments: 87744
+    alignments: 2135961
     downloads:
       alignments:
         size: 707536
@@ -187,8 +187,8 @@ bitexts:
         size: 14084167
         url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/xml/pl.zip
     files: 1
-    source language tokens: 2135961
-    target language tokens: 2315718
+    source language tokens: 2315718
+    target language tokens: 87744
   es-fr:
     alignments: 102843
     downloads:
@@ -232,7 +232,7 @@ bitexts:
     source language tokens: 2895401
     target language tokens: 2983003
   es-pl:
-    alignments: 72276
+    alignments: 1733392
     downloads:
       alignments:
         size: 611715
@@ -250,8 +250,8 @@ bitexts:
         size: 14084167
         url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/xml/pl.zip
     files: 1
-    source language tokens: 1733392
-    target language tokens: 2138755
+    source language tokens: 2138755
+    target language tokens: 72276
   fr-it:
     alignments: 112126
     downloads:
@@ -274,7 +274,7 @@ bitexts:
     source language tokens: 3249920
     target language tokens: 3432999
   fr-pl:
-    alignments: 80321
+    alignments: 1939617
     downloads:
       alignments:
         size: 692984
@@ -292,10 +292,10 @@ bitexts:
         size: 14084167
         url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/xml/pl.zip
     files: 1
-    source language tokens: 1939617
-    target language tokens: 2442313
+    source language tokens: 2442313
+    target language tokens: 80321
   it-pl:
-    alignments: 79535
+    alignments: 1936269
     downloads:
       alignments:
         size: 682352
@@ -313,8 +313,8 @@ bitexts:
         size: 14084167
         url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/xml/pl.zip
     files: 1
-    source language tokens: 1936269
-    target language tokens: 2318918
+    source language tokens: 2318918
+    target language tokens: 79535
 monolingual:
   de:
     downloads:
@@ -444,11 +444,11 @@ moses:
     source language tokens: 2359553
     target language tokens: 2425634
   de-es:
-    alignments: 86683
+    alignments: 1831230
     download size: 10654070
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/moses/de-es.txt.zip
-    source language tokens: 1831230
-    target language tokens: 2180849
+    source language tokens: 2180849
+    target language tokens: 86683
   de-fr:
     alignments: 101602
     download size: 12537698
@@ -456,17 +456,17 @@ moses:
     source language tokens: 2145856
     target language tokens: 2492394
   de-it:
-    alignments: 94095
+    alignments: 2021504
     download size: 11713971
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/moses/de-it.txt.zip
-    source language tokens: 2021504
-    target language tokens: 2252537
+    source language tokens: 2252537
+    target language tokens: 94095
   de-pl:
-    alignments: 67882
+    alignments: 1364897
     download size: 8824143
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/moses/de-pl.txt.zip
-    source language tokens: 1364897
-    target language tokens: 1460490
+    source language tokens: 1460490
+    target language tokens: 67882
   en-es:
     alignments: 112995
     download size: 13194194
@@ -486,11 +486,11 @@ moses:
     source language tokens: 2874209
     target language tokens: 3120206
   en-pl:
-    alignments: 87745
+    alignments: 1847013
     download size: 10833908
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/moses/en-pl.txt.zip
-    source language tokens: 1847013
-    target language tokens: 2030976
+    source language tokens: 2030976
+    target language tokens: 87745
   es-fr:
     alignments: 102844
     download size: 12814617
@@ -504,11 +504,11 @@ moses:
     source language tokens: 2503682
     target language tokens: 2675482
   es-pl:
-    alignments: 72277
+    alignments: 1500934
     download size: 9408104
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/moses/es-pl.txt.zip
-    source language tokens: 1500934
-    target language tokens: 1915575
+    source language tokens: 1915575
+    target language tokens: 72277
   fr-it:
     alignments: 112127
     download size: 14201230
@@ -516,17 +516,17 @@ moses:
     source language tokens: 2806353
     target language tokens: 2914554
   fr-pl:
-    alignments: 80322
+    alignments: 1677864
     download size: 10557178
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/moses/fr-pl.txt.zip
-    source language tokens: 1677864
-    target language tokens: 2067531
+    source language tokens: 2067531
+    target language tokens: 80322
   it-pl:
-    alignments: 79536
+    alignments: 1676288
     download size: 10445728
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/moses/it-pl.txt.zip
-    source language tokens: 1676288
-    target language tokens: 2005605
+    source language tokens: 2005605
+    target language tokens: 79536
 tmx:
   de-en:
     download size: 13485704
@@ -537,9 +537,9 @@ tmx:
   de-es:
     download size: 11516218
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/de-es.tmx.gz
-    source language tokens: 1831230
-    target language tokens: 2180849
-    translation units: 86683
+    source language tokens: 2180849
+    target language tokens: 86683
+    translation units: 1831230
   de-fr:
     download size: 13486195
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/de-fr.tmx.gz
@@ -549,15 +549,15 @@ tmx:
   de-it:
     download size: 12550732
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/de-it.tmx.gz
-    source language tokens: 2021504
-    target language tokens: 2252537
-    translation units: 94095
+    source language tokens: 2252537
+    target language tokens: 94095
+    translation units: 2021504
   de-pl:
     download size: 9535178
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/de-pl.tmx.gz
-    source language tokens: 1364897
-    target language tokens: 1460490
-    translation units: 67882
+    source language tokens: 1460490
+    target language tokens: 67882
+    translation units: 1364897
   en-es:
     download size: 13996252
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/en-es.tmx.gz
@@ -579,9 +579,9 @@ tmx:
   en-pl:
     download size: 11610112
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/en-pl.tmx.gz
-    source language tokens: 1847013
-    target language tokens: 2030976
-    translation units: 87745
+    source language tokens: 2030976
+    target language tokens: 87745
+    translation units: 1847013
   es-fr:
     download size: 13664885
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/es-fr.tmx.gz
@@ -597,9 +597,9 @@ tmx:
   es-pl:
     download size: 10226145
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/es-pl.tmx.gz
-    source language tokens: 1500824
-    target language tokens: 1915441
-    translation units: 72263
+    source language tokens: 1915441
+    target language tokens: 72263
+    translation units: 1500824
   fr-it:
     download size: 15058819
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/fr-it.tmx.gz
@@ -609,12 +609,12 @@ tmx:
   fr-pl:
     download size: 11513218
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/fr-pl.tmx.gz
-    source language tokens: 1677824
-    target language tokens: 2067479
-    translation units: 80314
+    source language tokens: 2067479
+    target language tokens: 80314
+    translation units: 1677824
   it-pl:
     download size: 11300042
     download url: https://object.pouta.csc.fi/OPUS-ELRC-CORDIS_News/v1/tmx/it-pl.tmx.gz
-    source language tokens: 1676211
-    target language tokens: 2005503
-    translation units: 79521
+    source language tokens: 2005503
+    target language tokens: 79521
+    translation units: 1676211

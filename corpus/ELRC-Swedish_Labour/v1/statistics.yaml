@@ -43,7 +43,7 @@ bitexts:
     source language tokens: 2861
     target language tokens: 3391
   de-fi:
-    alignments: 169
+    alignments: 1520
     downloads:
       alignments:
         size: 1526
@@ -61,7 +61,7 @@ bitexts:
         size: 16341
         url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/xml/fi.zip
     files: 1
-    source language tokens: 1520
+    source language tokens: 169
     target language tokens: 2018
   de-fr:
     alignments: 236
@@ -127,7 +127,7 @@ bitexts:
     source language tokens: 20184
     target language tokens: 20596
   en-fi:
-    alignments: 210
+    alignments: 2035
     downloads:
       alignments:
         size: 1777
@@ -145,7 +145,7 @@ bitexts:
         size: 16341
         url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/xml/fi.zip
     files: 1
-    source language tokens: 2035
+    source language tokens: 210
     target language tokens: 3125
   en-fr:
     alignments: 1381
@@ -190,7 +190,7 @@ bitexts:
     source language tokens: 33002
     target language tokens: 39627
   es-fi:
-    alignments: 192
+    alignments: 1846
     downloads:
       alignments:
         size: 1677
@@ -208,7 +208,7 @@ bitexts:
         size: 16341
         url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/xml/fi.zip
     files: 1
-    source language tokens: 1846
+    source language tokens: 192
     target language tokens: 2743
   es-fr:
     alignments: 1158
@@ -253,7 +253,7 @@ bitexts:
     source language tokens: 14609
     target language tokens: 18664
   fi-fr:
-    alignments: 199
+    alignments: 1915
     downloads:
       alignments:
         size: 1760
@@ -271,10 +271,10 @@ bitexts:
         size: 153594
         url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/xml/fr.zip
     files: 1
-    source language tokens: 1915
+    source language tokens: 199
     target language tokens: 3366
   fi-sv:
-    alignments: 185
+    alignments: 1694
     downloads:
       alignments:
         size: 1637
@@ -292,7 +292,7 @@ bitexts:
         size: 177009
         url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/xml/sv.zip
     files: 1
-    source language tokens: 1694
+    source language tokens: 185
     target language tokens: 2207
   fr-sv:
     alignments: 1256
@@ -450,10 +450,10 @@ moses:
     source language tokens: 2483
     target language tokens: 3070
   de-fi:
-    alignments: 170
+    alignments: 1325
     download size: 12211
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/moses/de-fi.txt.zip
-    source language tokens: 1325
+    source language tokens: 170
     target language tokens: 1765
   de-fr:
     alignments: 237
@@ -474,10 +474,10 @@ moses:
     source language tokens: 18091
     target language tokens: 18624
   en-fi:
-    alignments: 211
+    alignments: 1780
     download size: 14353
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/moses/en-fi.txt.zip
-    source language tokens: 1780
+    source language tokens: 211
     target language tokens: 2728
   en-fr:
     alignments: 1382
@@ -492,10 +492,10 @@ moses:
     source language tokens: 29646
     target language tokens: 35190
   es-fi:
-    alignments: 193
+    alignments: 1639
     download size: 12081
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/moses/es-fi.txt.zip
-    source language tokens: 1639
+    source language tokens: 193
     target language tokens: 2514
   es-fr:
     alignments: 1159
@@ -510,16 +510,16 @@ moses:
     source language tokens: 13239
     target language tokens: 16863
   fi-fr:
-    alignments: 200
+    alignments: 1677
     download size: 14497
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/moses/fi-fr.txt.zip
-    source language tokens: 1677
+    source language tokens: 200
     target language tokens: 2803
   fi-sv:
-    alignments: 186
+    alignments: 1478
     download size: 12250
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/moses/fi-sv.txt.zip
-    source language tokens: 1478
+    source language tokens: 186
     target language tokens: 2026
   fr-sv:
     alignments: 1257
@@ -543,9 +543,9 @@ tmx:
   de-fi:
     download size: 10617
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/de-fi.tmx.gz
-    source language tokens: 1325
+    source language tokens: 170
     target language tokens: 1765
-    translation units: 170
+    translation units: 1325
   de-fr:
     download size: 16558
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/de-fr.tmx.gz
@@ -567,9 +567,9 @@ tmx:
   en-fi:
     download size: 12735
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/en-fi.tmx.gz
-    source language tokens: 1780
+    source language tokens: 211
     target language tokens: 2728
-    translation units: 211
+    translation units: 1780
   en-fr:
     download size: 77268
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/en-fr.tmx.gz
@@ -585,9 +585,9 @@ tmx:
   es-fi:
     download size: 10370
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/es-fi.tmx.gz
-    source language tokens: 1561
+    source language tokens: 186
     target language tokens: 2447
-    translation units: 186
+    translation units: 1561
   es-fr:
     download size: 64701
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/es-fr.tmx.gz
@@ -603,15 +603,15 @@ tmx:
   fi-fr:
     download size: 13085
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/fi-fr.tmx.gz
-    source language tokens: 1677
+    source language tokens: 200
     target language tokens: 2803
-    translation units: 200
+    translation units: 1677
   fi-sv:
     download size: 10684
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/fi-sv.tmx.gz
-    source language tokens: 1478
+    source language tokens: 186
     target language tokens: 2026
-    translation units: 186
+    translation units: 1478
   fr-sv:
     download size: 65977
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Swedish_Labour/v1/tmx/fr-sv.tmx.gz

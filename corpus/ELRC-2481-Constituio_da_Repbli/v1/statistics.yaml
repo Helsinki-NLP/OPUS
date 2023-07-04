@@ -1,7 +1,6 @@
 ---
 bitexts:
   ca-en:
-    alignments: 11
     downloads:
       alignments:
         size: 207
@@ -27,11 +26,7 @@ bitexts:
       word alignments:
         size: 2980
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/smt/ca-en.alg.zip
-    files: 1
-    source language tokens: 13
-    target language tokens: ~
   ca-pt:
-    alignments: 8
     downloads:
       alignments:
         size: 207
@@ -57,9 +52,6 @@ bitexts:
       word alignments:
         size: 2954
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/smt/ca-pt.alg.zip
-    files: 1
-    source language tokens: 10
-    target language tokens: ~
   en-es:
     alignments: 15
     downloads:
@@ -172,7 +164,6 @@ bitexts:
     source language tokens: 250
     target language tokens: 322
   es-pt:
-    alignments: 12
     downloads:
       alignments:
         size: 211
@@ -198,11 +189,7 @@ bitexts:
       word alignments:
         size: 2995
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/smt/es-pt.alg.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   fr-it:
-    alignments: 19
     downloads:
       alignments:
         size: 220
@@ -228,11 +215,7 @@ bitexts:
       word alignments:
         size: 3055
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/smt/fr-it.alg.zip
-    files: 2
-    source language tokens: 26
-    target language tokens: ~
   fr-nl:
-    alignments: 9
     downloads:
       alignments:
         size: 208
@@ -249,9 +232,6 @@ bitexts:
       tokenized target language:
         size: 3089
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/xml/nl.zip
-    files: 1
-    source language tokens: ~
-    target language tokens: ~
   fr-pt:
     alignments: 3298
     downloads:
@@ -283,7 +263,6 @@ bitexts:
     source language tokens: 37615
     target language tokens: 41865
   it-nl:
-    alignments: 8
     downloads:
       alignments:
         size: 206
@@ -309,9 +288,6 @@ bitexts:
       word alignments:
         size: 2952
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/smt/it-nl.alg.zip
-    files: 1
-    source language tokens: 9
-    target language tokens: ~
 monolingual:
   ca:
     downloads:
@@ -330,9 +306,6 @@ monolingual:
       xml:
         size: 2521
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/raw/ca.zip
-    files: 2
-    sentences: 21
-    tokens: ~
   en:
     downloads:
       frequency list:
@@ -410,9 +383,6 @@ monolingual:
       xml:
         size: 2839
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/raw/it.zip
-    files: 3
-    sentences: 27
-    tokens: ~
   nl:
     downloads:
       frequency list:
@@ -430,9 +400,6 @@ monolingual:
       xml:
         size: 2506
         url: https://object.pouta.csc.fi/OPUS-ELRC-2481-Constituio_da_Repbli/v1/raw/nl.zip
-    files: 2
-    sentences: 18
-    tokens: ~
   pt:
     downloads:
       frequency list:

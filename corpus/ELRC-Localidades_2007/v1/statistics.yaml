@@ -22,7 +22,7 @@ bitexts:
     source language tokens: 34
     target language tokens: 42
   ca-en:
-    alignments: 7
+    alignments: 135
     downloads:
       alignments:
         size: 282
@@ -40,8 +40,8 @@ bitexts:
         size: 354565
         url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/xml/en.zip
     files: 1
-    source language tokens: 135
-    target language tokens: 188
+    source language tokens: 188
+    target language tokens: 7
   ca-es:
     alignments: 1
     downloads:
@@ -127,7 +127,7 @@ bitexts:
     source language tokens: 49761
     target language tokens: 55342
   de-es:
-    alignments: 933
+    alignments: 28506
     downloads:
       alignments:
         size: 8358
@@ -145,10 +145,10 @@ bitexts:
         size: 326035
         url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/xml/es.zip
     files: 1
-    source language tokens: 28506
-    target language tokens: 30777
+    source language tokens: 30777
+    target language tokens: 933
   de-fr:
-    alignments: 899
+    alignments: 27554
     downloads:
       alignments:
         size: 8084
@@ -166,10 +166,10 @@ bitexts:
         size: 386817
         url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/xml/fr.zip
     files: 1
-    source language tokens: 27554
-    target language tokens: 30229
+    source language tokens: 30229
+    target language tokens: 899
   de-pt:
-    alignments: 891
+    alignments: 26990
     downloads:
       alignments:
         size: 8372
@@ -187,8 +187,8 @@ bitexts:
         size: 322168
         url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/xml/pt.zip
     files: 1
-    source language tokens: 26990
-    target language tokens: 27232
+    source language tokens: 27232
+    target language tokens: 891
   en-es:
     alignments: 1441
     downloads:
@@ -562,23 +562,23 @@ monolingual:
     tokens: 55005
 moses:
   ca-de:
-    alignments: 3
+    alignments: 27
     download size: 7634
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/moses/ca-de.txt.zip
-    source language tokens: 27
+    source language tokens: 3
     target language tokens: 35
   ca-en:
-    alignments: 8
+    alignments: 101
     download size: 8194
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/moses/ca-en.txt.zip
-    source language tokens: 101
-    target language tokens: 155
+    source language tokens: 155
+    target language tokens: 8
   ca-es:
-    alignments: 2
+    alignments: 11
     download size: 7476
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/moses/ca-es.txt.zip
-    source language tokens: 9
-    target language tokens: 11
+    source language tokens: 2
+    target language tokens: 9
   ca-fr:
     alignments: 3
     download size: 7700
@@ -598,23 +598,23 @@ moses:
     source language tokens: 43584
     target language tokens: 49123
   de-es:
-    alignments: 934
+    alignments: 24999
     download size: 136012
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/moses/de-es.txt.zip
-    source language tokens: 24999
-    target language tokens: 27342
+    source language tokens: 27342
+    target language tokens: 934
   de-fr:
-    alignments: 900
+    alignments: 24161
     download size: 132440
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/moses/de-fr.txt.zip
-    source language tokens: 24161
-    target language tokens: 25745
+    source language tokens: 25745
+    target language tokens: 900
   de-pt:
-    alignments: 892
+    alignments: 23837
     download size: 128053
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/moses/de-pt.txt.zip
-    source language tokens: 23837
-    target language tokens: 23919
+    source language tokens: 23919
+    target language tokens: 892
   en-es:
     alignments: 1442
     download size: 218376
@@ -670,30 +670,30 @@ moses:
     source language tokens: 23
     target language tokens: 26
   nl-pt:
-    alignments: 2
+    alignments: 16
     download size: 7529
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/moses/nl-pt.txt.zip
-    source language tokens: 16
-    target language tokens: 19
+    source language tokens: 19
+    target language tokens: 2
 tmx:
   ca-de:
     download size: 495
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/ca-de.tmx.gz
-    source language tokens: 27
+    source language tokens: 3
     target language tokens: 35
-    translation units: 3
+    translation units: 27
   ca-en:
     download size: 997
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/ca-en.tmx.gz
-    source language tokens: 101
-    target language tokens: 155
-    translation units: 8
+    source language tokens: 155
+    target language tokens: 8
+    translation units: 101
   ca-es:
     download size: 350
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/ca-es.tmx.gz
-    source language tokens: 9
-    target language tokens: 11
-    translation units: 2
+    source language tokens: 2
+    target language tokens: 9
+    translation units: 11
   ca-fr:
     download size: 532
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/ca-fr.tmx.gz
@@ -715,21 +715,21 @@ tmx:
   de-es:
     download size: 138077
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/de-es.tmx.gz
-    source language tokens: 24999
-    target language tokens: 27342
-    translation units: 934
+    source language tokens: 27342
+    target language tokens: 934
+    translation units: 24999
   de-fr:
     download size: 134514
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/de-fr.tmx.gz
-    source language tokens: 24161
-    target language tokens: 25745
-    translation units: 900
+    source language tokens: 25745
+    target language tokens: 900
+    translation units: 24161
   de-pt:
     download size: 128961
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/de-pt.tmx.gz
-    source language tokens: 23837
-    target language tokens: 23919
-    translation units: 892
+    source language tokens: 23919
+    target language tokens: 892
+    translation units: 23837
   en-es:
     download size: 224287
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/en-es.tmx.gz
@@ -787,6 +787,6 @@ tmx:
   nl-pt:
     download size: 384
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Localidades_2007/v1/tmx/nl-pt.tmx.gz
-    source language tokens: 16
-    target language tokens: 19
-    translation units: 2
+    source language tokens: 19
+    target language tokens: 2
+    translation units: 16

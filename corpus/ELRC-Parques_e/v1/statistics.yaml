@@ -22,7 +22,7 @@ bitexts:
     source language tokens: 7522
     target language tokens: 8015
   de-es:
-    alignments: 65
+    alignments: 2346
     downloads:
       alignments:
         size: 820
@@ -40,10 +40,10 @@ bitexts:
         size: 59475
         url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/xml/es.zip
     files: 1
-    source language tokens: 2346
-    target language tokens: 2622
+    source language tokens: 2622
+    target language tokens: 65
   de-fr:
-    alignments: 71
+    alignments: 3329
     downloads:
       alignments:
         size: 981
@@ -61,10 +61,10 @@ bitexts:
         size: 63313
         url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/xml/fr.zip
     files: 1
-    source language tokens: 3329
-    target language tokens: 3737
+    source language tokens: 3737
+    target language tokens: 71
   de-pt:
-    alignments: 76
+    alignments: 3643
     downloads:
       alignments:
         size: 1038
@@ -82,8 +82,8 @@ bitexts:
         size: 57314
         url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/xml/pt.zip
     files: 1
-    source language tokens: 3643
-    target language tokens: 3679
+    source language tokens: 3679
+    target language tokens: 76
   en-es:
     alignments: 146
     downloads:
@@ -148,7 +148,7 @@ bitexts:
     source language tokens: 7430
     target language tokens: 8015
   es-fr:
-    alignments: 84
+    alignments: 3827
     downloads:
       alignments:
         size: 974
@@ -166,8 +166,8 @@ bitexts:
         size: 63313
         url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/xml/fr.zip
     files: 1
-    source language tokens: 3827
-    target language tokens: 4054
+    source language tokens: 4054
+    target language tokens: 84
   es-it:
     alignments: 202
     downloads:
@@ -190,7 +190,7 @@ bitexts:
     source language tokens: 7728
     target language tokens: 7803
   es-pt:
-    alignments: 94
+    alignments: 4104
     downloads:
       alignments:
         size: 1080
@@ -208,8 +208,8 @@ bitexts:
         size: 57314
         url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/xml/pt.zip
     files: 1
-    source language tokens: 4104
-    target language tokens: 4338
+    source language tokens: 4338
+    target language tokens: 94
   fr-it:
     alignments: 207
     downloads:
@@ -232,7 +232,7 @@ bitexts:
     source language tokens: 7693
     target language tokens: 8238
   fr-pt:
-    alignments: 90
+    alignments: 4225
     downloads:
       alignments:
         size: 1077
@@ -250,8 +250,8 @@ bitexts:
         size: 57314
         url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/xml/pt.zip
     files: 1
-    source language tokens: 4225
-    target language tokens: 4699
+    source language tokens: 4699
+    target language tokens: 90
   it-pt:
     alignments: 203
     downloads:
@@ -402,23 +402,23 @@ moses:
     source language tokens: 6594
     target language tokens: 7161
   de-es:
-    alignments: 66
+    alignments: 2069
     download size: 20370
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/moses/de-es.txt.zip
-    source language tokens: 2069
-    target language tokens: 2351
+    source language tokens: 2351
+    target language tokens: 66
   de-fr:
-    alignments: 72
+    alignments: 2926
     download size: 25173
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/moses/de-fr.txt.zip
-    source language tokens: 2926
-    target language tokens: 3207
+    source language tokens: 3207
+    target language tokens: 72
   de-pt:
-    alignments: 77
+    alignments: 3197
     download size: 26180
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/moses/de-pt.txt.zip
-    source language tokens: 3197
-    target language tokens: 3271
+    source language tokens: 3271
+    target language tokens: 77
   en-es:
     alignments: 147
     download size: 40406
@@ -438,11 +438,11 @@ moses:
     source language tokens: 6631
     target language tokens: 7164
   es-fr:
-    alignments: 85
+    alignments: 3436
     download size: 25185
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/moses/es-fr.txt.zip
-    source language tokens: 3436
-    target language tokens: 3476
+    source language tokens: 3476
+    target language tokens: 85
   es-it:
     alignments: 203
     download size: 40885
@@ -450,11 +450,11 @@ moses:
     source language tokens: 6599
     target language tokens: 6982
   es-pt:
-    alignments: 95
+    alignments: 3672
     download size: 26665
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/moses/es-pt.txt.zip
-    source language tokens: 3672
-    target language tokens: 3894
+    source language tokens: 3894
+    target language tokens: 95
   fr-it:
     alignments: 208
     download size: 41592
@@ -462,11 +462,11 @@ moses:
     source language tokens: 6569
     target language tokens: 7042
   fr-pt:
-    alignments: 91
+    alignments: 3769
     download size: 27688
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/moses/fr-pt.txt.zip
-    source language tokens: 3769
-    target language tokens: 4033
+    source language tokens: 4033
+    target language tokens: 91
   it-pt:
     alignments: 204
     download size: 40844
@@ -483,21 +483,21 @@ tmx:
   de-es:
     download size: 13252
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/de-es.tmx.gz
-    source language tokens: 2069
-    target language tokens: 2351
-    translation units: 66
+    source language tokens: 2351
+    target language tokens: 66
+    translation units: 2069
   de-fr:
     download size: 17982
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/de-fr.tmx.gz
-    source language tokens: 2926
-    target language tokens: 3207
-    translation units: 72
+    source language tokens: 3207
+    target language tokens: 72
+    translation units: 2926
   de-pt:
     download size: 19070
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/de-pt.tmx.gz
-    source language tokens: 3197
-    target language tokens: 3271
-    translation units: 77
+    source language tokens: 3271
+    target language tokens: 77
+    translation units: 3197
   en-es:
     download size: 33607
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/en-es.tmx.gz
@@ -519,9 +519,9 @@ tmx:
   es-fr:
     download size: 17604
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/es-fr.tmx.gz
-    source language tokens: 3436
-    target language tokens: 3476
-    translation units: 85
+    source language tokens: 3476
+    target language tokens: 85
+    translation units: 3436
   es-it:
     download size: 33810
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/es-it.tmx.gz
@@ -531,9 +531,9 @@ tmx:
   es-pt:
     download size: 17384
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/es-pt.tmx.gz
-    source language tokens: 3672
-    target language tokens: 3894
-    translation units: 95
+    source language tokens: 3894
+    target language tokens: 95
+    translation units: 3672
   fr-it:
     download size: 35272
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/fr-it.tmx.gz
@@ -543,9 +543,9 @@ tmx:
   fr-pt:
     download size: 20086
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/fr-pt.tmx.gz
-    source language tokens: 3769
-    target language tokens: 4033
-    translation units: 91
+    source language tokens: 4033
+    target language tokens: 91
+    translation units: 3769
   it-pt:
     download size: 33610
     download url: https://object.pouta.csc.fi/OPUS-ELRC-Parques_e/v1/tmx/it-pt.tmx.gz

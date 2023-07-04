@@ -43,7 +43,7 @@ bitexts:
     source language tokens: 18684
     target language tokens: 21635
   is-nb:
-    alignments: 770
+    alignments: 14265
     downloads:
       alignments:
         size: 6271
@@ -61,8 +61,8 @@ bitexts:
         size: 97953
         url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/xml/nb.zip
     files: 1
-    source language tokens: 14265
-    target language tokens: 14317
+    source language tokens: 14317
+    target language tokens: 770
 monolingual:
   en:
     downloads:
@@ -138,11 +138,11 @@ moses:
     source language tokens: 16641
     target language tokens: 19768
   is-nb:
-    alignments: 771
+    alignments: 12756
     download size: 52297
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/moses/is-nb.txt.zip
-    source language tokens: 12756
-    target language tokens: 12935
+    source language tokens: 12935
+    target language tokens: 771
 tmx:
   en-is:
     download size: 78241
@@ -159,6 +159,6 @@ tmx:
   is-nb:
     download size: 54071
     download url: https://object.pouta.csc.fi/OPUS-ELRC-www.nordisketax.net/v1/tmx/is-nb.tmx.gz
-    source language tokens: 12675
-    target language tokens: 12850
-    translation units: 762
+    source language tokens: 12850
+    target language tokens: 762
+    translation units: 12675
