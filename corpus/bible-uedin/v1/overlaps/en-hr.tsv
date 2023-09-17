@@ -1,7 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 bible-uedin	v1	ParaCrawl	v9	61623	3240421	1177	1.91	.03
+bible-uedin	v1	ParaCrawl	v7.1	61623	6959288	500	.81	0
+bible-uedin	v1	MultiParaCrawl	v7.1	61623	6959286	499	.80	0
+bible-uedin	v1	ParaCrawl	v5	61623	1846962	410	.66	.02
+bible-uedin	v1	ParaCrawl	v8	61623	11063124	276	.44	0
+bible-uedin	v1	ParaCrawl	v4	61623	995511	131	.21	.01
 bible-uedin	v1	CCMatrix	v1	61623	18694537	107	.17	0
+bible-uedin	v1	NLLB	v1	61623	18694206	107	.17	0
 bible-uedin	v1	OpenSubtitles	v2018	61623	28591047	13	.02	0
+bible-uedin	v1	OpenSubtitles	v2016	61623	22002428	10	.01	0
+bible-uedin	v1	MultiCCAligned	v1	61623	9327209	3	0	0
 bible-uedin	v1	CCAligned	v1	61623	9327047	3	0	0
 bible-uedin	v1	XLEnt	v1.1	61623	2717963	0	0	0
 bible-uedin	v1	XLEnt	v1.2	61623	2717963	0	0	0
@@ -25,6 +33,7 @@ bible-uedin	v1	TedTalks	v1	61623	81962	0	0	0
 bible-uedin	v1	KDE4	v2	61623	81410	0	0	0
 bible-uedin	v1	EuroPat	v2	61623	75105	0	0	0
 bible-uedin	v1	ELRC-2542-Agriculture	v1	61623	68113	0	0	0
+bible-uedin	v1	wikimedia	v20230407	61623	40443	0	0	0
 bible-uedin	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	61623	40102	0	0	0
 bible-uedin	v1	ELRC-3556-EUR_LEX_covid	v1	61623	21997	0	0	0
 bible-uedin	v1	ELRC-EUR_LEX	v1	61623	21997	0	0	0
@@ -63,6 +72,7 @@ bible-uedin	v1	ELRC-Foreign_Affairs	v1	61623	3103	0	0	0
 bible-uedin	v1	ELRA-W0293	v1	61623	3102	0	0	0
 bible-uedin	v1	ELRC-3478-EC_EUROPA_covid	v1	61623	2595	0	0	0
 bible-uedin	v1	ELRC-EC_EUROPA	v1	61623	2595	0	0	0
+bible-uedin	v1	Tatoeba	v2023-04-12	61623	2444	0	0	0
 bible-uedin	v1	Tatoeba	v2022-03-03	61623	2431	0	0	0
 bible-uedin	v1	Tatoeba	v2021-07-22	61623	2428	0	0	0
 bible-uedin	v1	Tatoeba	v2021-03-10	61623	2416	0	0	0

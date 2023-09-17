@@ -1,12 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCMatrix	v1	NLLB	v1	817304	16883712	6082	.74	.03
 CCMatrix	v1	WikiMatrix	v1	817304	13049	288	.03	2.20
+CCMatrix	v1	wikimedia	v20230407	817304	29600	87	.01	.29
 CCMatrix	v1	wikimedia	v20210402	817304	25215	87	.01	.34
+CCMatrix	v1	MultiCCAligned	v1	817304	1503590	8	0	0
 CCMatrix	v1	CCAligned	v1	817304	1503562	8	0	0
 CCMatrix	v1	XLEnt	v1.1	817304	232880	40	0	.01
 CCMatrix	v1	XLEnt	v1.2	817304	232880	40	0	.01
 CCMatrix	v1	XLEnt	v1	817304	232880	40	0	.01
 CCMatrix	v1	Ubuntu	v14.10	817304	3041	0	0	0
 CCMatrix	v1	QED	v2.0a	817304	378	0	0	0
+CCMatrix	v1	Tatoeba	v2023-04-12	817304	272	0	0	0
 CCMatrix	v1	Tatoeba	v2021-07-22	817304	266	0	0	0
 CCMatrix	v1	Tatoeba	v2022-03-03	817304	266	0	0	0
 CCMatrix	v1	Tatoeba	v2021-03-10	817304	263	0	0	0

@@ -1,12 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	729	3558	729	100.00	20.48
 wikimedia	v20210402	wikimedia	v20190628	729	709	510	69.95	71.93
 wikimedia	v20210402	XLEnt	v1.1	729	53481	7	.96	.01
 wikimedia	v20210402	XLEnt	v1.2	729	53481	7	.96	.01
 wikimedia	v20210402	XLEnt	v1	729	53481	7	.96	.01
+wikimedia	v20210402	MultiCCAligned	v1	729	298452	3	.41	0
 wikimedia	v20210402	CCAligned	v1	729	298447	3	.41	0
 wikimedia	v20210402	GNOME	v1	729	14253	3	.41	.02
+wikimedia	v20210402	MultiParaCrawl	v7.1	729	26268	2	.27	0
+wikimedia	v20210402	ParaCrawl	v8	729	26268	2	.27	0
 wikimedia	v20210402	ParaCrawl	v9	729	26268	2	.27	0
 wikimedia	v20210402	Ubuntu	v14.10	729	8609	2	.27	.02
+wikimedia	v20210402	NLLB	v1	729	11301940	1	.13	0
+wikimedia	v20210402	GoURMET	v2	729	36485	1	.13	0
 wikimedia	v20210402	WikiTitles	v3	729	10395	1	.13	0
 wikimedia	v20210402	KDE4	v2	729	3216	1	.13	.03
 wikimedia	v20210402	TED2020	v1	729	1088	1	.13	.09
@@ -14,6 +20,7 @@ wikimedia	v20210402	Tatoeba	v2020-11-09	729	32	1	.13	3.12
 wikimedia	v20210402	Tatoeba	v2021-03-10	729	32	1	.13	3.12
 wikimedia	v20210402	Tatoeba	v2021-07-22	729	32	1	.13	3.12
 wikimedia	v20210402	Tatoeba	v2022-03-03	729	32	1	.13	3.12
+wikimedia	v20210402	Tatoeba	v2023-04-12	729	32	1	.13	3.12
 wikimedia	v20210402	tico-19	v2020-10-28	729	3070	0	0	0
 wikimedia	v20210402	QED	v2.0a	729	86	0	0	0
 wikimedia	v20210402	Tatoeba	v20190709	729	31	0	0	0

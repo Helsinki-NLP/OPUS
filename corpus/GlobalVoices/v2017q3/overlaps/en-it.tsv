@@ -1,9 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2017q3	GlobalVoices	v2018q4	96725	123507	96016	99.26	77.74
 GlobalVoices	v2017q3	GlobalVoices	v2015	96725	80254	79751	82.45	99.37
+GlobalVoices	v2017q3	ParaCrawl	v8	96725	120118828	15222	15.73	.01
 GlobalVoices	v2017q3	CCMatrix	v1	96725	145080018	14618	15.11	.01
+GlobalVoices	v2017q3	NLLB	v1	96725	145077265	14618	15.11	.01
 GlobalVoices	v2017q3	ParaCrawl	v9	96725	96975992	14398	14.88	.01
 GlobalVoices	v2017q3	OpenSubtitles	v2018	96725	28718593	481	.49	0
+GlobalVoices	v2017q3	OpenSubtitles	v2016	96725	21818449	437	.45	0
+GlobalVoices	v2017q3	ParaCrawl	v1	96725	8279864	202	.20	0
+GlobalVoices	v2017q3	MultiCCAligned	v1	96725	57577191	183	.18	0
+GlobalVoices	v2017q3	MultiParaCrawl	v7.1	96725	40798275	170	.17	0
+GlobalVoices	v2017q3	ParaCrawl	v7.1	96725	40798274	170	.17	0
 GlobalVoices	v2017q3	CCAligned	v1	96725	14341296	141	.14	0
 GlobalVoices	v2017q3	QED	v2.0a	96725	542823	139	.14	.02
 GlobalVoices	v2017q3	LinguaTools-WikiTitles	v2014	96725	11048442	116	.11	0
@@ -11,6 +18,8 @@ GlobalVoices	v2017q3	XLEnt	v1.1	96725	5645064	98	.10	0
 GlobalVoices	v2017q3	XLEnt	v1.2	96725	5645064	98	.10	0
 GlobalVoices	v2017q3	XLEnt	v1	96725	5645064	98	.10	0
 GlobalVoices	v2017q3	Europarl	v8	96725	1906929	95	.09	0
+GlobalVoices	v2017q3	Europarl	v7	96725	1906482	95	.09	0
+GlobalVoices	v2017q3	Tatoeba	v2023-04-12	96725	502190	81	.08	.01
 GlobalVoices	v2017q3	Tatoeba	v2022-03-03	96725	492666	80	.08	.01
 GlobalVoices	v2017q3	Tatoeba	v2021-07-22	96725	490263	79	.08	.01
 GlobalVoices	v2017q3	Tatoeba	v2021-03-10	96725	486354	79	.08	.01
@@ -20,7 +29,10 @@ GlobalVoices	v2017q3	Tatoeba	v20190709	96725	468411	78	.08	.01
 GlobalVoices	v2017q3	DGT	v2019	96725	3638405	70	.07	0
 GlobalVoices	v2017q3	KDE4	v2	96725	187402	72	.07	.03
 GlobalVoices	v2017q3	TildeMODEL	v2018	96725	3693634	64	.06	0
+GlobalVoices	v2017q3	Europarl	v3	96725	1229621	60	.06	0
 GlobalVoices	v2017q3	GNOME	v1	96725	83471	65	.06	.07
+GlobalVoices	v2017q3	DGT	v4	96725	1985734	52	.05	0
+GlobalVoices	v2017q3	wikimedia	v20230407	96725	520955	49	.05	0
 GlobalVoices	v2017q3	TED2020	v1	96725	363771	52	.05	.01
 GlobalVoices	v2017q3	EUbookshop	v2	96725	5801342	47	.04	0
 GlobalVoices	v2017q3	JRC-Acquis	v3.0	96725	504433	44	.04	0
@@ -30,11 +42,13 @@ GlobalVoices	v2017q3	Tatoeba	v2	96725	134123	40	.04	.02
 GlobalVoices	v2017q3	Wikipedia	v1.0	96725	944270	34	.03	0
 GlobalVoices	v2017q3	NeuLab-TedTalks	v1	96725	212659	34	.03	.01
 GlobalVoices	v2017q3	OpenSubtitles	v1	96725	17172	31	.03	.18
+GlobalVoices	v2017q3	ParaCrawl	v5	96725	21939518	25	.02	0
 GlobalVoices	v2017q3	TED2013	v1.1	96725	158226	27	.02	.01
 GlobalVoices	v2017q3	ELITR-ECA	v1	96725	57473	22	.02	.03
 GlobalVoices	v2017q3	ELRC-1078-EUIPO_law	v1	96725	26535	20	.02	.07
 GlobalVoices	v2017q3	ELRC-EUIPO_law	v1	96725	26535	20	.02	.07
 GlobalVoices	v2017q3	EUconst	v1	96725	6657	28	.02	.42
+GlobalVoices	v2017q3	ParaCrawl	v4	96725	12085749	15	.01	0
 GlobalVoices	v2017q3	WikiMatrix	v1	96725	2126084	13	.01	0
 GlobalVoices	v2017q3	ELRC-2710-EMEA	v1	96725	771346	14	.01	0
 GlobalVoices	v2017q3	ELRC-EMEA	v1	96725	771346	14	.01	0

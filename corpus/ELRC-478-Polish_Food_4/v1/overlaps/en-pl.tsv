@@ -1,7 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-478-Polish_Food_4	v1	ParaCrawl	v9	4305	40082038	213	4.94	0
 ELRC-478-Polish_Food_4	v1	OpenSubtitles	v2018	4305	34512858	14	.32	0
+ELRC-478-Polish_Food_4	v1	OpenSubtitles	v2016	4305	22955941	14	.32	0
 ELRC-478-Polish_Food_4	v1	Europarl	v8	4305	613356	11	.25	0
+ELRC-478-Polish_Food_4	v1	Europarl	v7	4305	612713	11	.25	0
+ELRC-478-Polish_Food_4	v1	ParaCrawl	v1	4305	1270691	10	.23	0
 ELRC-478-Polish_Food_4	v1	QED	v2.0a	4305	482625	9	.20	0
 ELRC-478-Polish_Food_4	v1	GlobalVoices	v2018q4	4305	48868	9	.20	.01
 ELRC-478-Polish_Food_4	v1	JRC-Acquis	v3.0	4305	1048242	8	.18	0
@@ -22,14 +25,20 @@ ELRC-478-Polish_Food_4	v1	ELRC-479-Polish_Food_2	v1	4305	2969	6	.13	.20
 ELRC-478-Polish_Food_4	v1	ELRA-W0181	v1	4305	2838	6	.13	.21
 ELRC-478-Polish_Food_4	v1	ELRA-W0176	v1	4305	2021	6	.13	.29
 ELRC-478-Polish_Food_4	v1	ELRA-W0180	v1	4305	2968	5	.11	.16
+ELRC-478-Polish_Food_4	v1	MultiCCAligned	v1	4305	25790086	4	.09	0
 ELRC-478-Polish_Food_4	v1	CCAligned	v1	4305	12846330	4	.09	0
+ELRC-478-Polish_Food_4	v1	MultiParaCrawl	v7.1	4305	13744836	3	.06	0
 ELRC-478-Polish_Food_4	v1	TildeMODEL	v2018	4305	2124677	3	.06	0
+ELRC-478-Polish_Food_4	v1	Tatoeba	v2023-04-12	4305	55895	3	.06	0
 ELRC-478-Polish_Food_4	v1	Tatoeba	v2022-03-03	4305	54736	3	.06	0
 ELRC-478-Polish_Food_4	v1	Tatoeba	v2021-07-22	4305	54279	3	.06	0
 ELRC-478-Polish_Food_4	v1	Tatoeba	v2021-03-10	4305	54235	3	.06	0
 ELRC-478-Polish_Food_4	v1	Tatoeba	v2020-11-09	4305	54179	3	.06	0
+ELRC-478-Polish_Food_4	v1	ParaCrawl	v8	4305	45358407	2	.04	0
+ELRC-478-Polish_Food_4	v1	ParaCrawl	v7.1	4305	13744835	2	.04	0
 ELRC-478-Polish_Food_4	v1	TED2020	v1	4305	293265	2	.04	0
 ELRC-478-Polish_Food_4	v1	NeuLab-TedTalks	v1	4305	185955	2	.04	0
+ELRC-478-Polish_Food_4	v1	wikimedia	v20230407	4305	72787	2	.04	0
 ELRC-478-Polish_Food_4	v1	Tatoeba	v2020-05-31	4305	54143	2	.04	0
 ELRC-478-Polish_Food_4	v1	Tatoeba	v20190709	4305	53938	2	.04	0
 ELRC-478-Polish_Food_4	v1	wikimedia	v20210402	4305	51386	2	.04	0
@@ -46,6 +55,7 @@ ELRC-478-Polish_Food_4	v1	XLEnt	v1.1	4305	5202602	1	.02	0
 ELRC-478-Polish_Food_4	v1	XLEnt	v1.2	4305	5202602	1	.02	0
 ELRC-478-Polish_Food_4	v1	XLEnt	v1	4305	5202602	1	.02	0
 ELRC-478-Polish_Food_4	v1	DGT	v2019	4305	3659053	1	.02	0
+ELRC-478-Polish_Food_4	v1	DGT	v4	4305	1966769	1	.02	0
 ELRC-478-Polish_Food_4	v1	ELRC-5067-SciPar	v1	4305	862076	1	.02	0
 ELRC-478-Polish_Food_4	v1	ELRC-2726-EMEA	v1	4305	756950	1	.02	0
 ELRC-478-Polish_Food_4	v1	ELRC-EMEA	v1	4305	756950	1	.02	0
@@ -143,6 +153,9 @@ ELRC-478-Polish_Food_4	v1	ELRC-873-Development	v1	4305	82	1	.02	1.21
 ELRC-478-Polish_Food_4	v1	ELRC-648-Letter_rights_person	v1	4305	63	1	.02	1.58
 ELRC-478-Polish_Food_4	v1	ELRC-403-Rights_Arrested	v1	4305	24	1	.02	4.16
 ELRC-478-Polish_Food_4	v1	CCMatrix	v1	4305	73625347	0	0	0
+ELRC-478-Polish_Food_4	v1	NLLB	v1	4305	73623674	0	0	0
+ELRC-478-Polish_Food_4	v1	ParaCrawl	v5	4305	6336749	0	0	0
+ELRC-478-Polish_Food_4	v1	ParaCrawl	v4	4305	3483752	0	0	0
 ELRC-478-Polish_Food_4	v1	Tanzil	v1	4305	132995	0	0	0
 ELRC-478-Polish_Food_4	v1	ECB	v1	4305	73127	0	0	0
 ELRC-478-Polish_Food_4	v1	bible-uedin	v1	4305	60374	0	0	0

@@ -1,6 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 OpenSubtitles	v1	OpenSubtitles	v2018	23525	12095471	12235	52.00	.10
+OpenSubtitles	v1	OpenSubtitles	v2016	23525	9378053	8945	38.02	.09
 OpenSubtitles	v1	QED	v2.0a	23525	165595	337	1.43	.20
+OpenSubtitles	v1	ParaCrawl	v8	23525	41939064	138	.58	0
+OpenSubtitles	v1	Tatoeba	v2023-04-12	23525	32727	128	.54	.39
 OpenSubtitles	v1	Tatoeba	v2022-03-03	23525	31862	128	.54	.40
 OpenSubtitles	v1	Tatoeba	v2021-07-22	23525	30835	128	.54	.41
 OpenSubtitles	v1	Tatoeba	v2021-03-10	23525	30475	128	.54	.42
@@ -8,15 +11,21 @@ OpenSubtitles	v1	Tatoeba	v2020-11-09	23525	30038	128	.54	.42
 OpenSubtitles	v1	Tatoeba	v2020-05-31	23525	29626	128	.54	.43
 OpenSubtitles	v1	Tatoeba	v20190709	23525	27912	128	.54	.45
 OpenSubtitles	v1	ELRC-4248-NTEU_TierA	v1	23525	13598397	126	.53	0
+OpenSubtitles	v1	MultiParaCrawl	v7.1	23525	10407633	110	.46	0
+OpenSubtitles	v1	ParaCrawl	v7.1	23525	10407632	110	.46	0
 OpenSubtitles	v1	Europarl	v8	23525	1949878	95	.40	0
+OpenSubtitles	v1	Europarl	v7	23525	1949502	95	.40	0
+OpenSubtitles	v1	MultiCCAligned	v1	23525	10687333	86	.36	0
 OpenSubtitles	v1	CCAligned	v1	23525	10687146	86	.36	0
 OpenSubtitles	v1	ParaCrawl	v9	23525	34207153	69	.29	0
+OpenSubtitles	v1	Europarl	v3	23525	1276675	68	.28	0
 OpenSubtitles	v1	Tatoeba	v2	23525	8658	61	.25	.70
 OpenSubtitles	v1	TED2020	v1	23525	70497	57	.24	.08
 OpenSubtitles	v1	ELRA-W0214	v1	23525	16241	52	.22	.32
 OpenSubtitles	v1	EUbookshop	v2	23525	4495240	40	.17	0
 OpenSubtitles	v1	NeuLab-TedTalks	v1	23525	47296	42	.17	.08
 OpenSubtitles	v1	CCMatrix	v1	23525	51996397	21	.08	0
+OpenSubtitles	v1	NLLB	v1	23525	51995658	21	.08	0
 OpenSubtitles	v1	KDE4	v2	23525	165984	10	.04	0
 OpenSubtitles	v1	EMEA	v3	23525	355116	8	.03	0
 OpenSubtitles	v1	ELRC-2716-EMEA	v1	23525	767928	6	.02	0
@@ -30,6 +39,7 @@ OpenSubtitles	v1	GlobalVoices	v2017q3	23525	6859	7	.02	.10
 OpenSubtitles	v1	EUconst	v1	23525	6685	5	.02	.07
 OpenSubtitles	v1	GlobalVoices	v2015	23525	6586	7	.02	.10
 OpenSubtitles	v1	DGT	v2019	23525	3567131	3	.01	0
+OpenSubtitles	v1	DGT	v4	23525	1946755	3	.01	0
 OpenSubtitles	v1	ELRC-730-www.norden.org	v1	23525	36624	3	.01	0
 OpenSubtitles	v1	ELRC-www.norden.org	v1	23525	36624	3	.01	0
 OpenSubtitles	v1	ELRC-904-uk.fm.dk	v1	23525	6940	4	.01	.05
@@ -37,11 +47,14 @@ OpenSubtitles	v1	ELRC-905-spillemyndigheden.dk	v1	23525	3355	4	.01	.11
 OpenSubtitles	v1	ELRC-394-Danish_Higher_Educat	v1	23525	3116	3	.01	.09
 OpenSubtitles	v1	ELRC-852-www.dma.dk	v1	23525	3010	4	.01	.13
 OpenSubtitles	v1	ELRC-426-Danish_Higher_Educat	v1	23525	1546	3	.01	.19
+OpenSubtitles	v1	ParaCrawl	v5	23525	4569268	2	0	0
 OpenSubtitles	v1	LinguaTools-WikiTitles	v2014	23525	2968008	1	0	0
 OpenSubtitles	v1	XLEnt	v1.1	23525	2832109	0	0	0
 OpenSubtitles	v1	XLEnt	v1.2	23525	2832109	0	0	0
 OpenSubtitles	v1	XLEnt	v1	23525	2832109	0	0	0
+OpenSubtitles	v1	ParaCrawl	v4	23525	2395328	1	0	0
 OpenSubtitles	v1	ECB	v1	23525	137975	1	0	0
+OpenSubtitles	v1	wikimedia	v20230407	23525	67071	2	0	0
 OpenSubtitles	v1	bible-uedin	v1	23525	61447	0	0	0
 OpenSubtitles	v1	wikimedia	v20210402	23525	40624	2	0	0
 OpenSubtitles	v1	ELRC-847-mst.dk	v1	23525	36733	0	0	0

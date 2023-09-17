@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 NeuLab-TedTalks	v1	TED2020	v1	46025	68240	36951	80.28	54.14
 NeuLab-TedTalks	v1	QED	v2.0a	46025	110939	23374	50.78	21.06
+NeuLab-TedTalks	v1	NLLB	v1	46025	68801691	3237	7.03	0
 NeuLab-TedTalks	v1	CCMatrix	v1	46025	22191703	1367	2.97	0
+NeuLab-TedTalks	v1	MultiCCAligned	v1	46025	2299252	393	.85	.01
 NeuLab-TedTalks	v1	CCAligned	v1	46025	2299214	393	.85	.01
 NeuLab-TedTalks	v1	OpenSubtitles	v2018	46025	1626927	198	.43	.01
+NeuLab-TedTalks	v1	OpenSubtitles	v2016	46025	1537760	180	.39	.01
 NeuLab-TedTalks	v1	SETIMES	v2	46025	225161	5	.01	0
 NeuLab-TedTalks	v1	XLEnt	v1.1	46025	1290636	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1.2	46025	1290636	1	0	0
@@ -11,6 +14,7 @@ NeuLab-TedTalks	v1	XLEnt	v1	46025	1290636	1	0	0
 NeuLab-TedTalks	v1	Tanzil	v1	46025	361781	0	0	0
 NeuLab-TedTalks	v1	WikiMatrix	v1	46025	180110	2	0	0
 NeuLab-TedTalks	v1	SETIMES	v1	46025	171007	0	0	0
+NeuLab-TedTalks	v1	wikimedia	v20230407	46025	114235	2	0	0
 NeuLab-TedTalks	v1	wikimedia	v20210402	46025	65960	1	0	0
 NeuLab-TedTalks	v1	bible-uedin	v1	46025	61713	0	0	0
 NeuLab-TedTalks	v1	GNOME	v1	46025	29403	0	0	0
@@ -20,6 +24,7 @@ NeuLab-TedTalks	v1	GlobalVoices	v2018q4	46025	5745	1	0	.01
 NeuLab-TedTalks	v1	GlobalVoices	v2017q3	46025	5738	0	0	0
 NeuLab-TedTalks	v1	TildeMODEL	v2018	46025	3056	4	0	.13
 NeuLab-TedTalks	v1	EUbookshop	v2	46025	2013	0	0	0
+NeuLab-TedTalks	v1	Tatoeba	v2023-04-12	46025	1088	3	0	.27
 NeuLab-TedTalks	v1	Tatoeba	v2021-07-22	46025	1085	3	0	.27
 NeuLab-TedTalks	v1	Tatoeba	v2022-03-03	46025	1085	3	0	.27
 NeuLab-TedTalks	v1	Tatoeba	v2020-11-09	46025	1041	3	0	.28

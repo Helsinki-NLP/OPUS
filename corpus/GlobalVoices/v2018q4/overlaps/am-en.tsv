@@ -1,13 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2018q4	GlobalVoices	v2017q3	1718	1594	1529	88.99	95.92
 GlobalVoices	v2018q4	GlobalVoices	v2015	1718	1196	1003	58.38	83.86
+GlobalVoices	v2018q4	NLLB	v1	1718	15462695	20	1.16	0
+GlobalVoices	v2018q4	MultiCCAligned	v1	1718	345215	1	.05	0
 GlobalVoices	v2018q4	CCAligned	v1	1718	345209	1	.05	0
 GlobalVoices	v2018q4	XLEnt	v1.1	1718	69037	1	.05	0
 GlobalVoices	v2018q4	XLEnt	v1	1718	69037	1	.05	0
 GlobalVoices	v2018q4	XLEnt	v1.2	1718	69037	1	.05	0
 GlobalVoices	v2018q4	GoURMET	v1	1718	57836	1	.05	0
+GlobalVoices	v2018q4	GoURMET	v2	1718	57836	1	.05	0
 GlobalVoices	v2018q4	TED2020	v1	1718	1018	1	.05	.09
+GlobalVoices	v2018q4	wikimedia	v20230407	1718	934	1	.05	.10
 GlobalVoices	v2018q4	wikimedia	v20210402	1718	482	1	.05	.20
+GlobalVoices	v2018q4	Tatoeba	v2023-04-12	1718	201	1	.05	.49
 GlobalVoices	v2018q4	Tatoeba	v2020-11-09	1718	200	1	.05	.50
 GlobalVoices	v2018q4	Tatoeba	v2021-03-10	1718	200	1	.05	.50
 GlobalVoices	v2018q4	Tatoeba	v2021-07-22	1718	200	1	.05	.50

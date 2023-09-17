@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-PIO_Publication	v1	2628	3945	2625	99.88	66.53
 ELRC-1067-PIO_Publication_Wind	v1	CCMatrix	v1	2628	48860900	52	1.97	0
+ELRC-1067-PIO_Publication_Wind	v1	NLLB	v1	2628	48859850	52	1.97	0
+ELRC-1067-PIO_Publication_Wind	v1	ParaCrawl	v8	2628	34585108	51	1.94	0
 ELRC-1067-PIO_Publication_Wind	v1	ParaCrawl	v9	2628	21402043	50	1.90	0
 ELRC-1067-PIO_Publication_Wind	v1	XLEnt	v1.1	2628	2799832	23	.87	0
 ELRC-1067-PIO_Publication_Wind	v1	XLEnt	v1.2	2628	2799832	23	.87	0
@@ -8,11 +10,16 @@ ELRC-1067-PIO_Publication_Wind	v1	XLEnt	v1	2628	2799832	23	.87	0
 ELRC-1067-PIO_Publication_Wind	v1	LinguaTools-WikiTitles	v2014	2628	1795210	16	.60	0
 ELRC-1067-PIO_Publication_Wind	v1	DGT	v2019	2628	3679234	14	.53	0
 ELRC-1067-PIO_Publication_Wind	v1	EUbookshop	v2	2628	3606516	14	.53	0
+ELRC-1067-PIO_Publication_Wind	v1	DGT	v4	2628	2027952	14	.53	0
+ELRC-1067-PIO_Publication_Wind	v1	MultiCCAligned	v1	2628	8792897	10	.38	0
 ELRC-1067-PIO_Publication_Wind	v1	CCAligned	v1	2628	8792737	10	.38	0
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-1070-Press_Information_Cy	v1	2628	1862	10	.38	.53
+ELRC-1067-PIO_Publication_Wind	v1	MultiParaCrawl	v7.1	2628	9402609	6	.22	0
+ELRC-1067-PIO_Publication_Wind	v1	ParaCrawl	v7.1	2628	9402608	5	.19	0
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-1065-PIO_Publication_Cypr	v1	2628	1321	4	.15	.30
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-EMEA	v1	2628	774830	3	.11	0
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-2711-EMEA	v1	2628	774829	3	.11	0
+ELRC-1067-PIO_Publication_Wind	v1	wikimedia	v20230407	2628	549337	3	.11	0
 ELRC-1067-PIO_Publication_Wind	v1	EMEA	v3	2628	368049	3	.11	0
 ELRC-1067-PIO_Publication_Wind	v1	ELRC_2682	v1	2628	774829	2	.07	0
 ELRC-1067-PIO_Publication_Wind	v1	QED	v2.0a	2628	496445	2	.07	0
@@ -22,6 +29,7 @@ ELRC-1067-PIO_Publication_Wind	v1	ELRC-649-Greek_administration	v1	2628	12510	2	
 ELRC-1067-PIO_Publication_Wind	v1	ECDC	v2016-03-16	2628	2431	2	.07	.08
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-1970-governmental_about_M	v1	2628	1432	2	.07	.13
 ELRC-1067-PIO_Publication_Wind	v1	OpenSubtitles	v2018	2628	33318146	1	.03	0
+ELRC-1067-PIO_Publication_Wind	v1	OpenSubtitles	v2016	2628	26021007	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-5067-SciPar	v1	2628	742987	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	WikiMatrix	v1	2628	620802	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	ELITR-ECA	v1	2628	329071	1	.03	0
@@ -29,6 +37,7 @@ ELRC-1067-PIO_Publication_Wind	v1	TED2020	v1	2628	262648	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	SETIMES	v2	2628	224806	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	NeuLab-TedTalks	v1	2628	149750	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	GlobalVoices	v2018q4	2628	112880	1	.03	0
+ELRC-1067-PIO_Publication_Wind	v1	Tatoeba	v2023-04-12	2628	25970	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	Tatoeba	v2022-03-03	2628	24112	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	Tatoeba	v2021-07-22	2628	23813	1	.03	0
 ELRC-1067-PIO_Publication_Wind	v1	Tatoeba	v2021-03-10	2628	23365	1	.03	0
@@ -81,7 +90,11 @@ ELRC-1067-PIO_Publication_Wind	v1	ELRC-3856-PRESS	v1	2628	35	1	.03	2.85
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-416-Swedish_Social_Secur	v1	2628	30	1	.03	3.33
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-1021-Commitment_Property_	v1	2628	23	1	.03	4.34
 ELRC-1067-PIO_Publication_Wind	v1	ELRC-403-Rights_Arrested	v1	2628	22	1	.03	4.54
+ELRC-1067-PIO_Publication_Wind	v1	ParaCrawl	v5	2628	3803749	0	0	0
+ELRC-1067-PIO_Publication_Wind	v1	ParaCrawl	v4	2628	1976986	0	0	0
 ELRC-1067-PIO_Publication_Wind	v1	Europarl	v8	2628	1260921	0	0	0
+ELRC-1067-PIO_Publication_Wind	v1	Europarl	v7	2628	1260526	0	0	0
+ELRC-1067-PIO_Publication_Wind	v1	Europarl	v3	2628	646689	0	0	0
 ELRC-1067-PIO_Publication_Wind	v1	OpenSubtitles	v1	2628	220324	0	0	0
 ELRC-1067-PIO_Publication_Wind	v1	SETIMES	v1	2628	165530	0	0	0
 ELRC-1067-PIO_Publication_Wind	v1	KDE4	v2	2628	125457	0	0	0

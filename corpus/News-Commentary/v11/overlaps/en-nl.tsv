@@ -1,13 +1,24 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v11	News-Commentary	v14	19392	57085	17850	92.04	31.26
 News-Commentary	v11	News-Commentary	v16	19392	57086	17382	89.63	30.44
+News-Commentary	v11	ParaCrawl	v8	19392	98473905	5289	27.27	0
 News-Commentary	v11	ParaCrawl	v9	19392	89135870	4656	24.00	0
 News-Commentary	v11	CCMatrix	v1	19392	106106500	3569	18.40	0
+News-Commentary	v11	NLLB	v1	19392	106104992	3569	18.40	0
 News-Commentary	v11	News-Commentary	v9.0	19392	1808	515	2.65	28.48
 News-Commentary	v11	News-Commentary	v9.1	19392	1808	515	2.65	28.48
+News-Commentary	v11	MultiParaCrawl	v7.1	19392	31295016	152	.78	0
+News-Commentary	v11	ParaCrawl	v7.1	19392	31295015	152	.78	0
+News-Commentary	v11	ParaCrawl	v4	19392	5630021	118	.60	0
+News-Commentary	v11	ParaCrawl	v1	19392	2552000	115	.59	0
+News-Commentary	v11	ParaCrawl	v5	19392	10509072	105	.54	0
 News-Commentary	v11	OpenSubtitles	v2018	19392	30779675	24	.12	0
+News-Commentary	v11	OpenSubtitles	v2016	19392	24279928	22	.11	0
 News-Commentary	v11	Europarl	v8	19392	1986220	11	.05	0
+News-Commentary	v11	Europarl	v7	19392	1985837	11	.05	0
+News-Commentary	v11	Europarl	v3	19392	1291768	9	.04	0
 News-Commentary	v11	EUbookshop	v2	19392	5367397	6	.03	0
+News-Commentary	v11	MultiCCAligned	v1	19392	36001309	4	.02	0
 News-Commentary	v11	CCAligned	v1	19392	13043190	4	.02	0
 News-Commentary	v11	QED	v2.0a	19392	385191	5	.02	0
 News-Commentary	v11	TED2020	v1	19392	312281	4	.02	0
@@ -22,6 +33,7 @@ News-Commentary	v11	XLEnt	v1.1	19392	5789605	0	0	0
 News-Commentary	v11	XLEnt	v1	19392	5789605	0	0	0
 News-Commentary	v11	XLEnt	v1.2	19392	5789605	0	0	0
 News-Commentary	v11	DGT	v2019	19392	3543639	0	0	0
+News-Commentary	v11	DGT	v4	19392	1945115	0	0	0
 News-Commentary	v11	Wikipedia	v1.0	19392	791459	1	0	0
 News-Commentary	v11	ELRC-2707-EMEA	v1	19392	755014	0	0	0
 News-Commentary	v11	ELRC-EMEA	v1	19392	755014	0	0	0
@@ -32,6 +44,8 @@ News-Commentary	v11	ELITR-ECA	v1	19392	249246	0	0	0
 News-Commentary	v11	KDE4	v2	19392	161655	0	0	0
 News-Commentary	v11	ECB	v1	19392	126344	0	0	0
 News-Commentary	v11	Ubuntu	v14.10	19392	110108	0	0	0
+News-Commentary	v11	wikimedia	v20230407	19392	106677	0	0	0
+News-Commentary	v11	Tatoeba	v2023-04-12	19392	79518	1	0	0
 News-Commentary	v11	Tatoeba	v2022-03-03	19392	75815	1	0	0
 News-Commentary	v11	Tatoeba	v2021-07-22	19392	75072	1	0	0
 News-Commentary	v11	Tatoeba	v2021-03-10	19392	74031	1	0	0

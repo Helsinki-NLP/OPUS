@@ -1,9 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	Europarl	v7	386478	386074	386071	99.89	99.99
 Europarl	v8	ParaCrawl	v9	386478	25048458	12326	3.18	.04
+Europarl	v8	ParaCrawl	v8	386478	13376411	10076	2.60	.07
 Europarl	v8	CCMatrix	v1	386478	55211939	4754	1.23	0
+Europarl	v8	NLLB	v1	386478	55210599	4754	1.23	0
+Europarl	v8	MultiCCAligned	v1	386478	10463174	874	.22	0
 Europarl	v8	CCAligned	v1	386478	10462991	874	.22	0
 Europarl	v8	OpenSubtitles	v2018	386478	39424613	773	.20	0
+Europarl	v8	OpenSubtitles	v2016	386478	31406516	688	.17	0
+Europarl	v8	MultiParaCrawl	v7.1	386478	6160526	125	.03	0
+Europarl	v8	ParaCrawl	v7.1	386478	6160525	125	.03	0
 Europarl	v8	QED	v2.0a	386478	412194	153	.03	.03
+Europarl	v8	ParaCrawl	v1	386478	2454740	114	.02	0
 Europarl	v8	TED2020	v1	386478	320760	95	.02	.02
 Europarl	v8	OpenSubtitles	v1	386478	253380	97	.02	.03
 Europarl	v8	DGT	v2019	386478	2753976	58	.01	0
@@ -17,10 +25,14 @@ Europarl	v8	LinguaTools-WikiTitles	v2014	386478	3330895	19	0	0
 Europarl	v8	XLEnt	v1.1	386478	3120821	13	0	0
 Europarl	v8	XLEnt	v1.2	386478	3120821	13	0	0
 Europarl	v8	XLEnt	v1	386478	3120821	13	0	0
+Europarl	v8	ParaCrawl	v5	386478	2855026	22	0	0
+Europarl	v8	ParaCrawl	v4	386478	1944574	12	0	0
+Europarl	v8	DGT	v4	386478	1073269	14	0	0
 Europarl	v8	ELRC-2728-EMEA	v1	386478	777379	12	0	0
 Europarl	v8	ELRC-EMEA	v1	386478	777379	12	0	0
 Europarl	v8	WikiMatrix	v1	386478	631486	4	0	0
 Europarl	v8	Wikipedia	v1.0	386478	355116	29	0	0
+Europarl	v8	wikimedia	v20230407	386478	304464	5	0	0
 Europarl	v8	EUbookshop	v2	386478	278716	11	0	0
 Europarl	v8	wikimedia	v20210402	386478	227392	3	0	0
 Europarl	v8	SETIMES	v2	386478	211067	32	0	.01
@@ -36,6 +48,7 @@ Europarl	v8	ELRC-3577-EUR_LEX_covid	v1	386478	23170	0	0	0
 Europarl	v8	ELRC-EUR_LEX	v1	386478	23170	0	0	0
 Europarl	v8	ELRC-1177-EUIPO_2017	v1	386478	20296	0	0	0
 Europarl	v8	ELRC-EUIPO_2017	v1	386478	20296	0	0	0
+Europarl	v8	Tatoeba	v2023-04-12	386478	16283	15	0	.09
 Europarl	v8	Tatoeba	v2022-03-03	386478	15250	15	0	.09
 Europarl	v8	Tatoeba	v2021-07-22	386478	15159	15	0	.09
 Europarl	v8	Tatoeba	v2021-03-10	386478	15138	15	0	.09

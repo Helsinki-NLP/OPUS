@@ -1,13 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v14	News-Commentary	v16	9573	9573	7853	82.03	82.03
 News-Commentary	v14	WMT-News	v2019	9573	4063	1964	20.51	48.33
+News-Commentary	v14	NLLB	v1	9573	34443405	1131	11.81	0
+News-Commentary	v14	wikimedia	v20230407	9573	11206	3	.03	.02
 News-Commentary	v14	TED2020	v1	9573	9395	3	.03	.03
 News-Commentary	v14	wikimedia	v20210402	9573	8813	3	.03	.03
 News-Commentary	v14	QED	v2.0a	9573	5084	2	.02	.03
+News-Commentary	v14	Tatoeba	v2023-04-12	9573	438	2	.02	.45
 News-Commentary	v14	Tatoeba	v2022-03-03	9573	409	2	.02	.48
 News-Commentary	v14	Tatoeba	v2021-03-10	9573	407	2	.02	.49
 News-Commentary	v14	Tatoeba	v2021-07-22	9573	407	2	.02	.49
 News-Commentary	v14	Tatoeba	v2020-11-09	9573	401	2	.02	.49
+News-Commentary	v14	MultiCCAligned	v1	9573	687365	1	.01	0
 News-Commentary	v14	CCAligned	v1	9573	687353	1	.01	0
 News-Commentary	v14	XLEnt	v1.1	9573	157242	1	.01	0
 News-Commentary	v14	XLEnt	v1.2	9573	157242	1	.01	0
@@ -15,6 +19,7 @@ News-Commentary	v14	XLEnt	v1	9573	157242	1	.01	0
 News-Commentary	v14	WikiMatrix	v1	9573	20054	1	.01	0
 News-Commentary	v14	NeuLab-TedTalks	v1	9573	3612	1	.01	.02
 News-Commentary	v14	OpenSubtitles	v2018	9573	3528	1	.01	.02
+News-Commentary	v14	OpenSubtitles	v2016	9573	1875	1	.01	.05
 News-Commentary	v14	ELRC-5042-Kazakh_Legal_MT	v1	9573	1000	1	.01	.10
 News-Commentary	v14	Tatoeba	v2020-05-31	9573	397	1	.01	.25
 News-Commentary	v14	Tatoeba	v20190709	9573	386	1	.01	.25

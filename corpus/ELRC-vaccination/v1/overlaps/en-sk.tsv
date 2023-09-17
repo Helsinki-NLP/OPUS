@@ -1,13 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-vaccination	v1	ELRC-2745-vaccination	v1	510	510	510	100.00	100.00
 ELRC-vaccination	v1	ParaCrawl	v9	510	22901691	6	1.17	0
+ELRC-vaccination	v1	ParaCrawl	v8	510	13010368	5	.98	0
 ELRC-vaccination	v1	ELRC-4154-NTEU_TierA	v1	510	7753851	5	.98	0
 ELRC-vaccination	v1	ELRC-2721-EMEA	v1	510	774311	5	.98	0
 ELRC-vaccination	v1	ELRC-EMEA	v1	510	774311	5	.98	0
+ELRC-vaccination	v1	MultiCCAligned	v1	510	6902007	3	.58	0
 ELRC-vaccination	v1	CCAligned	v1	510	6901883	3	.58	0
+ELRC-vaccination	v1	MultiParaCrawl	v7.1	510	4883370	3	.58	0
 ELRC-vaccination	v1	DGT	v2019	510	3664713	3	.58	0
 ELRC-vaccination	v1	TildeMODEL	v2018	510	2133398	3	.58	0
+ELRC-vaccination	v1	DGT	v4	510	1989770	3	.58	0
 ELRC-vaccination	v1	EMEA	v3	510	334130	3	.58	0
+ELRC-vaccination	v1	ParaCrawl	v7.1	510	4883369	2	.39	0
 ELRC-vaccination	v1	XLEnt	v1.1	510	2448949	2	.39	0
 ELRC-vaccination	v1	XLEnt	v1.2	510	2448949	2	.39	0
 ELRC-vaccination	v1	XLEnt	v1	510	2448949	2	.39	0
@@ -20,6 +25,7 @@ ELRC-vaccination	v1	NeuLab-TedTalks	v1	510	65901	1	.19	0
 ELRC-vaccination	v1	ELRC-5067-SciPar	v1	510	60468	1	.19	0
 ELRC-vaccination	v1	ELRC-3570-EUR_LEX_covid	v1	510	22470	1	.19	0
 ELRC-vaccination	v1	ELRC-EUR_LEX	v1	510	22470	1	.19	0
+ELRC-vaccination	v1	wikimedia	v20230407	510	18334	1	.19	0
 ELRC-vaccination	v1	ELRC-1179-EUIPO_2017	v1	510	16311	1	.19	0
 ELRC-vaccination	v1	ELRC-EUIPO_2017	v1	510	16311	1	.19	0
 ELRC-vaccination	v1	ELRC-2880-EU_publications_medi	v1	510	12920	1	.19	0
@@ -40,8 +46,13 @@ ELRC-vaccination	v1	ELRC-EUROPARL_covid	v1	510	652	1	.19	.15
 ELRC-vaccination	v1	ELRC-3076-wikipedia_health	v1	510	134	1	.19	.74
 ELRC-vaccination	v1	ELRC-wikipedia_health	v1	510	134	1	.19	.74
 ELRC-vaccination	v1	CCMatrix	v1	510	37874215	0	0	0
+ELRC-vaccination	v1	NLLB	v1	510	37873653	0	0	0
 ELRC-vaccination	v1	OpenSubtitles	v2018	510	7267912	0	0	0
+ELRC-vaccination	v1	OpenSubtitles	v2016	510	5866246	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v5	510	2337731	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v4	510	1576398	0	0	0
 ELRC-vaccination	v1	Europarl	v8	510	620170	0	0	0
+ELRC-vaccination	v1	Europarl	v7	510	619796	0	0	0
 ELRC-vaccination	v1	EUbookshop	v2	510	391461	0	0	0
 ELRC-vaccination	v1	QED	v2.0a	510	162438	0	0	0
 ELRC-vaccination	v1	ECB	v1	510	121989	0	0	0

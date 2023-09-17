@@ -1,19 +1,28 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-4248-NTEU_TierA	v1	12395	13598397	12395	100.00	.09
 ELRC-851-www.vikingeskibsmuse	v1	ParaCrawl	v9	12395	34207153	6655	53.69	.01
+ELRC-851-www.vikingeskibsmuse	v1	MultiParaCrawl	v7.1	12395	10407633	6513	52.54	.06
+ELRC-851-www.vikingeskibsmuse	v1	ParaCrawl	v7.1	12395	10407632	6480	52.27	.06
+ELRC-851-www.vikingeskibsmuse	v1	ParaCrawl	v8	12395	41939064	5939	47.91	.01
+ELRC-851-www.vikingeskibsmuse	v1	ParaCrawl	v5	12395	4569268	4691	37.84	.10
 ELRC-851-www.vikingeskibsmuse	v1	CCMatrix	v1	12395	51996397	835	6.73	0
+ELRC-851-www.vikingeskibsmuse	v1	NLLB	v1	12395	51995658	835	6.73	0
+ELRC-851-www.vikingeskibsmuse	v1	MultiCCAligned	v1	12395	10687333	144	1.16	0
 ELRC-851-www.vikingeskibsmuse	v1	CCAligned	v1	12395	10687146	144	1.16	0
 ELRC-851-www.vikingeskibsmuse	v1	DGT	v2019	12395	3567131	30	.24	0
+ELRC-851-www.vikingeskibsmuse	v1	DGT	v4	12395	1946755	29	.23	0
 ELRC-851-www.vikingeskibsmuse	v1	LinguaTools-WikiTitles	v2014	12395	2968008	28	.22	0
 ELRC-851-www.vikingeskibsmuse	v1	XLEnt	v1.1	12395	2832109	28	.22	0
 ELRC-851-www.vikingeskibsmuse	v1	XLEnt	v1	12395	2832109	28	.22	0
 ELRC-851-www.vikingeskibsmuse	v1	XLEnt	v1.2	12395	2832109	28	.22	0
 ELRC-851-www.vikingeskibsmuse	v1	KDE4	v2	12395	165984	23	.18	.01
 ELRC-851-www.vikingeskibsmuse	v1	OpenSubtitles	v2018	12395	12095471	16	.12	0
+ELRC-851-www.vikingeskibsmuse	v1	OpenSubtitles	v2016	12395	9378053	14	.11	0
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-2716-EMEA	v1	12395	767928	14	.11	0
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-EMEA	v1	12395	767928	14	.11	0
 ELRC-851-www.vikingeskibsmuse	v1	EUbookshop	v2	12395	4495240	13	.10	0
 ELRC-851-www.vikingeskibsmuse	v1	ELRC_2682	v1	12395	767927	13	.10	0
+ELRC-851-www.vikingeskibsmuse	v1	wikimedia	v20230407	12395	67071	9	.07	.01
 ELRC-851-www.vikingeskibsmuse	v1	JRC-Acquis	v3.0	12395	502171	8	.06	0
 ELRC-851-www.vikingeskibsmuse	v1	EMEA	v3	12395	355116	8	.06	0
 ELRC-851-www.vikingeskibsmuse	v1	wikimedia	v20210402	12395	40624	8	.06	.01
@@ -25,7 +34,10 @@ ELRC-851-www.vikingeskibsmuse	v1	ECDC	v2016-03-16	12395	2465	5	.04	.20
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-2877-EU_publications_medi	v1	12395	13221	4	.03	.03
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-EU_publications	v1	12395	13221	4	.03	.03
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-426-Danish_Higher_Educat	v1	12395	1546	4	.03	.25
+ELRC-851-www.vikingeskibsmuse	v1	ParaCrawl	v4	12395	2395328	3	.02	0
 ELRC-851-www.vikingeskibsmuse	v1	Europarl	v8	12395	1949878	3	.02	0
+ELRC-851-www.vikingeskibsmuse	v1	Europarl	v7	12395	1949502	3	.02	0
+ELRC-851-www.vikingeskibsmuse	v1	Europarl	v3	12395	1276675	3	.02	0
 ELRC-851-www.vikingeskibsmuse	v1	TED2020	v1	12395	70497	3	.02	0
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-2013-EUIPO_2017	v1	12395	17269	3	.02	.01
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-EUIPO_2017	v1	12395	17269	3	.02	.01
@@ -34,6 +46,7 @@ ELRC-851-www.vikingeskibsmuse	v1	TildeMODEL	v2018	12395	4411	3	.02	.06
 ELRC-851-www.vikingeskibsmuse	v1	ELRC-895-Royal_Danish_Library	v1	12395	1546	3	.02	.19
 ELRC-851-www.vikingeskibsmuse	v1	QED	v2.0a	12395	165595	2	.01	0
 ELRC-851-www.vikingeskibsmuse	v1	NeuLab-TedTalks	v1	12395	47296	2	.01	0
+ELRC-851-www.vikingeskibsmuse	v1	Tatoeba	v2023-04-12	12395	32727	2	.01	0
 ELRC-851-www.vikingeskibsmuse	v1	Tatoeba	v2022-03-03	12395	31862	2	.01	0
 ELRC-851-www.vikingeskibsmuse	v1	Tatoeba	v2021-07-22	12395	30835	2	.01	0
 ELRC-851-www.vikingeskibsmuse	v1	Tatoeba	v2021-03-10	12395	30475	2	.01	0

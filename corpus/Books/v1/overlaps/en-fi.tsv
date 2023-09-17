@@ -1,13 +1,22 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Books	v1	ParaCrawl	v9	3634	31315288	2293	63.09	0
+Books	v1	MultiParaCrawl	v7.1	3634	7268809	1722	47.38	.02
+Books	v1	ParaCrawl	v7.1	3634	7268808	1722	47.38	.02
 Books	v1	CCMatrix	v1	3634	35804134	894	24.60	0
+Books	v1	NLLB	v1	3634	35803625	894	24.60	0
+Books	v1	MultiCCAligned	v1	3634	9646186	388	10.67	0
 Books	v1	CCAligned	v1	3634	9646025	388	10.67	0
+Books	v1	ParaCrawl	v8	3634	15301964	28	.77	0
 Books	v1	OpenSubtitles	v2018	3634	23382097	13	.35	0
+Books	v1	OpenSubtitles	v2016	3634	16640273	10	.27	0
 Books	v1	QED	v2.0a	3634	96483	6	.16	0
 Books	v1	ELRC-4239-NTEU_TierA	v1	3634	12577938	1	.02	0
 Books	v1	TildeMODEL	v2018	3634	3022117	1	.02	0
 Books	v1	Europarl	v8	3634	1920092	1	.02	0
+Books	v1	Europarl	v7	3634	1919709	1	.02	0
 Books	v1	EUbookshop	v2	3634	1828277	1	.02	0
+Books	v1	Europarl	v3	3634	1233965	1	.02	0
+Books	v1	ParaCrawl	v1	3634	618374	1	.02	0
 Books	v1	OpenSubtitles	v1	3634	103215	1	.02	0
 Books	v1	TED2020	v1	3634	43555	1	.02	0
 Books	v1	ELRC-1771-vnk.fi	v1	3634	31527	1	.02	0
@@ -15,9 +24,12 @@ Books	v1	ELRC-vnk.fi	v1	3634	31527	1	.02	0
 Books	v1	NeuLab-TedTalks	v1	3634	26177	1	.02	0
 Books	v1	LinguaTools-WikiTitles	v2014	3634	4873168	0	0	0
 Books	v1	DGT	v2019	3634	3624390	0	0	0
+Books	v1	ParaCrawl	v5	3634	3076136	0	0	0
 Books	v1	XLEnt	v1.1	3634	2501315	0	0	0
 Books	v1	XLEnt	v1.2	3634	2501315	0	0	0
 Books	v1	XLEnt	v1	3634	2501315	0	0	0
+Books	v1	ParaCrawl	v4	3634	2142942	0	0	0
+Books	v1	DGT	v4	3634	1951585	0	0	0
 Books	v1	ELRC-2708-EMEA	v1	3634	746684	0	0	0
 Books	v1	ELRC-EMEA	v1	3634	746684	0	0	0
 Books	v1	ELRC-5067-SciPar	v1	3634	457342	0	0	0
@@ -26,6 +38,7 @@ Books	v1	EMEA	v3	3634	352115	0	0	0
 Books	v1	ELITR-ECA	v1	3634	321871	0	0	0
 Books	v1	ECB	v1	3634	157318	0	0	0
 Books	v1	KDE4	v2	3634	97623	0	0	0
+Books	v1	Tatoeba	v2023-04-12	3634	81642	0	0	0
 Books	v1	Tatoeba	v2022-03-03	3634	81194	0	0	0
 Books	v1	Tatoeba	v2021-07-22	3634	80545	0	0	0
 Books	v1	Tatoeba	v2021-03-10	3634	80040	0	0	0
@@ -41,6 +54,7 @@ Books	v1	ELRC-735-www.norden.org	v1	3634	42742	0	0	0
 Books	v1	ELRC-www.norden.org	v1	3634	42742	0	0	0
 Books	v1	ELRC-1127-www.vtv.fi	v1	3634	42629	0	0	0
 Books	v1	ELRC-www.vtv.fi	v1	3634	42629	0	0	0
+Books	v1	wikimedia	v20230407	3634	41022	0	0	0
 Books	v1	wikimedia	v20210402	3634	32290	0	0	0
 Books	v1	ELRC-725-Hallituskausi_2011_2	v1	3634	31351	0	0	0
 Books	v1	ELRC-3559-EUR_LEX_covid	v1	3634	21735	0	0	0

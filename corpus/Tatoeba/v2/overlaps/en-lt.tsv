@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tatoeba	v2	Tatoeba	v2023-04-12	6300	8229	6219	98.71	75.57
 Tatoeba	v2	Tatoeba	v2022-03-03	6300	8176	6219	98.71	76.06
 Tatoeba	v2	Tatoeba	v2021-07-22	6300	8172	6219	98.71	76.10
 Tatoeba	v2	Tatoeba	v2021-03-10	6300	8167	6219	98.71	76.14
@@ -6,13 +7,20 @@ Tatoeba	v2	Tatoeba	v2020-11-09	6300	8160	6219	98.71	76.21
 Tatoeba	v2	Tatoeba	v2020-05-31	6300	8143	6219	98.71	76.37
 Tatoeba	v2	Tatoeba	v20190709	6300	8129	6219	98.71	76.50
 Tatoeba	v2	OpenSubtitles	v2018	6300	1212456	259	4.11	.02
+Tatoeba	v2	OpenSubtitles	v2016	6300	1023613	234	3.71	.02
 Tatoeba	v2	ParaCrawl	v9	6300	13191974	52	.82	0
 Tatoeba	v2	QED	v2.0a	6300	79727	35	.55	.04
 Tatoeba	v2	OpenSubtitles	v1	6300	7991	34	.53	.42
+Tatoeba	v2	ParaCrawl	v8	6300	8043262	25	.39	0
+Tatoeba	v2	MultiParaCrawl	v7.1	6300	4433563	21	.33	0
+Tatoeba	v2	ParaCrawl	v7.1	6300	4433562	21	.33	0
+Tatoeba	v2	MultiCCAligned	v1	6300	5183742	20	.31	0
 Tatoeba	v2	CCAligned	v1	6300	5183648	20	.31	0
 Tatoeba	v2	CCMatrix	v1	6300	23162636	14	.22	0
+Tatoeba	v2	NLLB	v1	6300	23162019	14	.22	0
 Tatoeba	v2	ELRC-4270-NTEU_TierA	v1	6300	7890285	11	.17	0
 Tatoeba	v2	Europarl	v8	6300	616663	10	.15	0
+Tatoeba	v2	Europarl	v7	6300	616275	10	.15	0
 Tatoeba	v2	TED2020	v1	6300	73635	7	.11	0
 Tatoeba	v2	NeuLab-TedTalks	v1	6300	44740	5	.07	.01
 Tatoeba	v2	TildeMODEL	v2018	6300	2053491	3	.04	0
@@ -22,6 +30,8 @@ Tatoeba	v2	ELRA-W0160	v1	6300	12703	2	.03	.01
 Tatoeba	v2	ELRC-3467-EC_EUROPA_covid	v1	6300	2438	2	.03	.08
 Tatoeba	v2	ELRC-EC_EUROPA	v1	6300	2438	2	.03	.08
 Tatoeba	v2	DGT	v2019	6300	3648865	1	.01	0
+Tatoeba	v2	DGT	v4	6300	1967340	1	.01	0
+Tatoeba	v2	ParaCrawl	v5	6300	1263838	1	.01	0
 Tatoeba	v2	ELRC-2717-EMEA	v1	6300	757666	1	.01	0
 Tatoeba	v2	ELRC-EMEA	v1	6300	757666	1	.01	0
 Tatoeba	v2	EMEA	v3	6300	335483	1	.01	0
@@ -36,6 +46,7 @@ Tatoeba	v2	ELRC_3382	v1	6300	3583	1	.01	.02
 Tatoeba	v2	XLEnt	v1.1	6300	1562418	0	0	0
 Tatoeba	v2	XLEnt	v1.2	6300	1562418	0	0	0
 Tatoeba	v2	XLEnt	v1	6300	1562418	0	0	0
+Tatoeba	v2	ParaCrawl	v4	6300	841635	0	0	0
 Tatoeba	v2	JRC-Acquis	v3.0	6300	500372	0	0	0
 Tatoeba	v2	ELRC-5067-SciPar	v1	6300	177437	0	0	0
 Tatoeba	v2	WikiMatrix	v1	6300	157526	0	0	0
@@ -47,6 +58,7 @@ Tatoeba	v2	ELRC-3568-EUR_LEX_covid	v1	6300	21385	0	0	0
 Tatoeba	v2	ELRC-EUR_LEX	v1	6300	21385	0	0	0
 Tatoeba	v2	ELRC-2021-EUIPO_2017	v1	6300	17133	0	0	0
 Tatoeba	v2	ELRC-EUIPO_2017	v1	6300	17133	0	0	0
+Tatoeba	v2	wikimedia	v20230407	6300	13796	0	0	0
 Tatoeba	v2	ELRC-592-kam.lt	v1	6300	8028	0	0	0
 Tatoeba	v2	wikimedia	v20210402	6300	7387	0	0	0
 Tatoeba	v2	EUconst	v1	6300	6692	0	0	0

@@ -1,8 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-4995-Finnish_Financial_MT	v1	ParaCrawl	v9	1001	31315288	94	9.39	0
+ELRC-4995-Finnish_Financial_MT	v1	ParaCrawl	v8	1001	15301964	29	2.89	0
 ELRC-4995-Finnish_Financial_MT	v1	CCMatrix	v1	1001	35804134	14	1.39	0
+ELRC-4995-Finnish_Financial_MT	v1	NLLB	v1	1001	35803625	14	1.39	0
+ELRC-4995-Finnish_Financial_MT	v1	MultiCCAligned	v1	1001	9646186	2	.19	0
 ELRC-4995-Finnish_Financial_MT	v1	CCAligned	v1	1001	9646025	2	.19	0
+ELRC-4995-Finnish_Financial_MT	v1	MultiParaCrawl	v7.1	1001	7268809	2	.19	0
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-4239-NTEU_TierA	v1	1001	12577938	1	.09	0
+ELRC-4995-Finnish_Financial_MT	v1	ParaCrawl	v7.1	1001	7268808	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	LinguaTools-WikiTitles	v2014	1001	4873168	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	XLEnt	v1	1001	2501315	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	XLEnt	v1.1	1001	2501315	1	.09	0
@@ -12,6 +17,7 @@ ELRC-4995-Finnish_Financial_MT	v1	ELRC-EMEA	v1	1001	746684	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-5067-SciPar	v1	1001	457342	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	WikiMatrix	v1	1001	375724	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	ELITR-ECA	v1	1001	321871	1	.09	0
+ELRC-4995-Finnish_Financial_MT	v1	Tatoeba	v2023-04-12	1001	81642	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	Tatoeba	v2022-03-03	1001	81194	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	Tatoeba	v2021-07-22	1001	80545	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	Tatoeba	v2021-03-10	1001	80040	1	.09	0
@@ -24,6 +30,7 @@ ELRC-4995-Finnish_Financial_MT	v1	ELRC-735-www.norden.org	v1	1001	42742	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-www.norden.org	v1	1001	42742	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-1127-www.vtv.fi	v1	1001	42629	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-www.vtv.fi	v1	1001	42629	1	.09	0
+ELRC-4995-Finnish_Financial_MT	v1	wikimedia	v20230407	1001	41022	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	wikimedia	v20210402	1001	32290	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-1771-vnk.fi	v1	1001	31527	1	.09	0
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-vnk.fi	v1	1001	31527	1	.09	0
@@ -62,10 +69,17 @@ ELRC-4995-Finnish_Financial_MT	v1	ELRC-401-Swedish_Labour_Part2	v1	1001	171	1	.0
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-406-Swedish_Labour_Part1	v1	1001	41	1	.09	2.43
 ELRC-4995-Finnish_Financial_MT	v1	ELRC-436-Swedish_Food	v1	1001	16	1	.09	6.25
 ELRC-4995-Finnish_Financial_MT	v1	OpenSubtitles	v2018	1001	23382097	0	0	0
+ELRC-4995-Finnish_Financial_MT	v1	OpenSubtitles	v2016	1001	16640273	0	0	0
 ELRC-4995-Finnish_Financial_MT	v1	DGT	v2019	1001	3624390	0	0	0
+ELRC-4995-Finnish_Financial_MT	v1	ParaCrawl	v5	1001	3076136	0	0	0
 ELRC-4995-Finnish_Financial_MT	v1	TildeMODEL	v2018	1001	3022117	0	0	0
+ELRC-4995-Finnish_Financial_MT	v1	ParaCrawl	v4	1001	2142942	0	0	0
+ELRC-4995-Finnish_Financial_MT	v1	DGT	v4	1001	1951585	0	0	0
 ELRC-4995-Finnish_Financial_MT	v1	Europarl	v8	1001	1920092	0	0	0
+ELRC-4995-Finnish_Financial_MT	v1	Europarl	v7	1001	1919709	0	0	0
 ELRC-4995-Finnish_Financial_MT	v1	EUbookshop	v2	1001	1828277	0	0	0
+ELRC-4995-Finnish_Financial_MT	v1	Europarl	v3	1001	1233965	0	0	0
+ELRC-4995-Finnish_Financial_MT	v1	ParaCrawl	v1	1001	618374	0	0	0
 ELRC-4995-Finnish_Financial_MT	v1	EMEA	v3	1001	352115	0	0	0
 ELRC-4995-Finnish_Financial_MT	v1	ECB	v1	1001	157318	0	0	0
 ELRC-4995-Finnish_Financial_MT	v1	OpenSubtitles	v1	1001	103215	0	0	0

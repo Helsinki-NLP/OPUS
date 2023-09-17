@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-antibiotic	v1	ELRC-3209-antibiotic	v1	1009	1009	1009	100.00	100.00
+ELRC-antibiotic	v1	ParaCrawl	v8	1009	13010368	301	29.83	0
 ELRC-antibiotic	v1	CCMatrix	v1	1009	37874215	274	27.15	0
+ELRC-antibiotic	v1	NLLB	v1	1009	37873653	274	27.15	0
 ELRC-antibiotic	v1	ParaCrawl	v9	1009	22901691	263	26.06	0
 ELRC-antibiotic	v1	ELRC-4154-NTEU_TierA	v1	1009	7753851	4	.39	0
+ELRC-antibiotic	v1	MultiCCAligned	v1	1009	6902007	4	.39	0
 ELRC-antibiotic	v1	CCAligned	v1	1009	6901883	4	.39	0
 ELRC-antibiotic	v1	TildeMODEL	v2018	1009	2133398	3	.29	0
 ELRC-antibiotic	v1	ELRC-2721-EMEA	v1	1009	774311	3	.29	0
@@ -11,6 +14,7 @@ ELRC-antibiotic	v1	EMEA	v3	1009	334130	2	.19	0
 ELRC-antibiotic	v1	ELITR-ECA	v1	1009	252908	2	.19	0
 ELRC-antibiotic	v1	ELRC-3570-EUR_LEX_covid	v1	1009	22470	2	.19	0
 ELRC-antibiotic	v1	ELRC-EUR_LEX	v1	1009	22470	2	.19	0
+ELRC-antibiotic	v1	wikimedia	v20230407	1009	18334	2	.19	.01
 ELRC-antibiotic	v1	ELRC-1179-EUIPO_2017	v1	1009	16311	2	.19	.01
 ELRC-antibiotic	v1	ELRC-EUIPO_2017	v1	1009	16311	2	.19	.01
 ELRC-antibiotic	v1	ELRC-3469-EC_EUROPA_covid	v1	1009	2408	2	.19	.08
@@ -18,11 +22,15 @@ ELRC-antibiotic	v1	ELRC-EC_EUROPA	v1	1009	2408	2	.19	.08
 ELRC-antibiotic	v1	ELRC-2745-vaccination	v1	1009	510	2	.19	.39
 ELRC-antibiotic	v1	ELRC-vaccination	v1	1009	510	2	.19	.39
 ELRC-antibiotic	v1	OpenSubtitles	v2018	1009	7267912	1	.09	0
+ELRC-antibiotic	v1	OpenSubtitles	v2016	1009	5866246	1	.09	0
+ELRC-antibiotic	v1	MultiParaCrawl	v7.1	1009	4883370	1	.09	0
 ELRC-antibiotic	v1	DGT	v2019	1009	3664713	1	.09	0
 ELRC-antibiotic	v1	XLEnt	v1	1009	2448949	1	.09	0
 ELRC-antibiotic	v1	XLEnt	v1.1	1009	2448949	1	.09	0
 ELRC-antibiotic	v1	XLEnt	v1.2	1009	2448949	1	.09	0
+ELRC-antibiotic	v1	DGT	v4	1009	1989770	1	.09	0
 ELRC-antibiotic	v1	Europarl	v8	1009	620170	1	.09	0
+ELRC-antibiotic	v1	Europarl	v7	1009	619796	1	.09	0
 ELRC-antibiotic	v1	EUbookshop	v2	1009	391461	1	.09	0
 ELRC-antibiotic	v1	WikiMatrix	v1	1009	178985	1	.09	0
 ELRC-antibiotic	v1	QED	v2.0a	1009	162438	1	.09	0
@@ -46,6 +54,9 @@ ELRC-antibiotic	v1	ELRC-3298-EUROPARL_covid	v1	1009	652	1	.09	.15
 ELRC-antibiotic	v1	ELRC-EUROPARL_covid	v1	1009	652	1	.09	.15
 ELRC-antibiotic	v1	ELRC-3076-wikipedia_health	v1	1009	134	1	.09	.74
 ELRC-antibiotic	v1	ELRC-wikipedia_health	v1	1009	134	1	.09	.74
+ELRC-antibiotic	v1	ParaCrawl	v7.1	1009	4883369	0	0	0
+ELRC-antibiotic	v1	ParaCrawl	v5	1009	2337731	0	0	0
+ELRC-antibiotic	v1	ParaCrawl	v4	1009	1576398	0	0	0
 ELRC-antibiotic	v1	ECB	v1	1009	121989	0	0	0
 ELRC-antibiotic	v1	bible-uedin	v1	1009	61539	0	0	0
 ELRC-antibiotic	v1	JRC-Acquis	v3.0	1009	21661	0	0	0

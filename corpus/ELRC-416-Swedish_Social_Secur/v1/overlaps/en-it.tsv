@@ -1,13 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-416-Swedish_Social_Secur	v1	ELRC_416	v1	56	55	55	98.21	100.00
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v1	56	8279864	7	12.50	0
 ELRC-416-Swedish_Social_Secur	v1	DGT	v2019	56	3638405	6	10.71	0
 ELRC-416-Swedish_Social_Secur	v1	JRC-Acquis	v3.0	56	504433	6	10.71	0
 ELRC-416-Swedish_Social_Secur	v1	EMEA	v3	56	352671	6	10.71	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-1078-EUIPO_law	v1	56	26535	6	10.71	.02
 ELRC-416-Swedish_Social_Secur	v1	ELRC-EUIPO_law	v1	56	26535	6	10.71	.02
+ELRC-416-Swedish_Social_Secur	v1	MultiCCAligned	v1	56	57577191	4	7.14	0
 ELRC-416-Swedish_Social_Secur	v1	OpenSubtitles	v2018	56	28718593	3	5.35	0
+ELRC-416-Swedish_Social_Secur	v1	OpenSubtitles	v2016	56	21818449	3	5.35	0
 ELRC-416-Swedish_Social_Secur	v1	CCAligned	v1	56	14341296	3	5.35	0
 ELRC-416-Swedish_Social_Secur	v1	Europarl	v8	56	1906929	3	5.35	0
+ELRC-416-Swedish_Social_Secur	v1	Europarl	v7	56	1906482	3	5.35	0
 ELRC-416-Swedish_Social_Secur	v1	KDE4	v2	56	187402	3	5.35	0
 ELRC-416-Swedish_Social_Secur	v1	GlobalVoices	v2018q4	56	123507	3	5.35	0
 ELRC-416-Swedish_Social_Secur	v1	News-Commentary	v14	56	78536	3	5.35	0
@@ -20,10 +24,14 @@ ELRC-416-Swedish_Social_Secur	v1	XLEnt	v1.1	56	5645064	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	XLEnt	v1.2	56	5645064	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	XLEnt	v1	56	5645064	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	TildeMODEL	v2018	56	3693634	2	3.57	0
+ELRC-416-Swedish_Social_Secur	v1	DGT	v4	56	1985734	2	3.57	0
+ELRC-416-Swedish_Social_Secur	v1	Europarl	v3	56	1229621	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	Wikipedia	v1.0	56	944270	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-2710-EMEA	v1	56	771346	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-EMEA	v1	56	771346	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	QED	v2.0a	56	542823	2	3.57	0
+ELRC-416-Swedish_Social_Secur	v1	wikimedia	v20230407	56	520955	2	3.57	0
+ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2023-04-12	56	502190	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2022-03-03	56	492666	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2021-07-22	56	490263	2	3.57	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2021-03-10	56	486354	2	3.57	0
@@ -39,6 +47,8 @@ ELRC-416-Swedish_Social_Secur	v1	ELRC-2020-EUIPO_2017	v1	56	17220	2	3.57	.01
 ELRC-416-Swedish_Social_Secur	v1	ELRC-EUIPO_2017	v1	56	17220	2	3.57	.01
 ELRC-416-Swedish_Social_Secur	v1	EUconst	v1	56	6657	2	3.57	.03
 ELRC-416-Swedish_Social_Secur	v1	ELRC-844-PAeSI__Administratio	v1	56	279	2	3.57	.71
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v8	56	120118828	1	1.78	0
+ELRC-416-Swedish_Social_Secur	v1	MultiParaCrawl	v7.1	56	40798275	1	1.78	0
 ELRC-416-Swedish_Social_Secur	v1	EUbookshop	v2	56	5801342	1	1.78	0
 ELRC-416-Swedish_Social_Secur	v1	WikiMatrix	v1	56	2126084	1	1.78	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2020-05-31	56	480007	1	1.78	0
@@ -85,6 +95,10 @@ ELRC-416-Swedish_Social_Secur	v1	ELRC-2480-Estatuto_dos_Deputad	v1	56	2	1	1.78	5
 ELRC-416-Swedish_Social_Secur	v1	ELRC-2614-Localidades_2007	v1	56	2	1	1.78	50.00
 ELRC-416-Swedish_Social_Secur	v1	ELRC-Localidades_2007	v1	56	2	1	1.78	50.00
 ELRC-416-Swedish_Social_Secur	v1	CCMatrix	v1	56	145080018	0	0	0
+ELRC-416-Swedish_Social_Secur	v1	NLLB	v1	56	145077265	0	0	0
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v7.1	56	40798274	0	0	0
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v5	56	21939518	0	0	0
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v4	56	12085749	0	0	0
 ELRC-416-Swedish_Social_Secur	v1	TED2013	v1.1	56	158226	0	0	0
 ELRC-416-Swedish_Social_Secur	v1	Tanzil	v1	56	128168	0	0	0
 ELRC-416-Swedish_Social_Secur	v1	bible-uedin	v1	56	61305	0	0	0

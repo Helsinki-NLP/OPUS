@@ -1,11 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-871-Agriculture_Rural_De	v1	ELRA-W0252	v1	487	486	485	99.58	99.79
+ELRC-871-Agriculture_Rural_De	v1	ParaCrawl	v8	487	45358407	3	.61	0
 ELRC-871-Agriculture_Rural_De	v1	ParaCrawl	v9	487	40082038	3	.61	0
+ELRC-871-Agriculture_Rural_De	v1	MultiCCAligned	v1	487	25790086	2	.41	0
+ELRC-871-Agriculture_Rural_De	v1	MultiParaCrawl	v7.1	487	13744836	2	.41	0
 ELRC-871-Agriculture_Rural_De	v1	CCAligned	v1	487	12846330	2	.41	0
 ELRC-871-Agriculture_Rural_De	v1	LinguaTools-WikiTitles	v2014	487	8003882	2	.41	0
 ELRC-871-Agriculture_Rural_De	v1	XLEnt	v1.1	487	5202602	2	.41	0
 ELRC-871-Agriculture_Rural_De	v1	XLEnt	v1.2	487	5202602	2	.41	0
 ELRC-871-Agriculture_Rural_De	v1	XLEnt	v1	487	5202602	2	.41	0
+ELRC-871-Agriculture_Rural_De	v1	ParaCrawl	v7.1	487	13744835	1	.20	0
+ELRC-871-Agriculture_Rural_De	v1	ParaCrawl	v4	487	3483752	1	.20	0
+ELRC-871-Agriculture_Rural_De	v1	ParaCrawl	v1	487	1270691	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	ELRC-5067-SciPar	v1	487	862076	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	ELRC-2726-EMEA	v1	487	756950	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	ELRC-EMEA	v1	487	756950	1	.20	0
@@ -19,6 +25,8 @@ ELRC-871-Agriculture_Rural_De	v1	NeuLab-TedTalks	v1	487	185955	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	EuroPat	v2	487	88959	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	ELRC-1120-CORDIS_News	v1	487	87745	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	ELRC-CORDIS_News	v1	487	87745	1	.20	0
+ELRC-871-Agriculture_Rural_De	v1	wikimedia	v20230407	487	72787	1	.20	0
+ELRC-871-Agriculture_Rural_De	v1	Tatoeba	v2023-04-12	487	55895	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	Tatoeba	v2022-03-03	487	54736	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	Tatoeba	v2021-07-22	487	54279	1	.20	0
 ELRC-871-Agriculture_Rural_De	v1	Tatoeba	v2021-03-10	487	54235	1	.20	0
@@ -112,11 +120,16 @@ ELRC-871-Agriculture_Rural_De	v1	ELRC-873-Development	v1	487	82	1	.20	1.21
 ELRC-871-Agriculture_Rural_De	v1	ELRC-648-Letter_rights_person	v1	487	63	1	.20	1.58
 ELRC-871-Agriculture_Rural_De	v1	ELRC-403-Rights_Arrested	v1	487	24	1	.20	4.16
 ELRC-871-Agriculture_Rural_De	v1	CCMatrix	v1	487	73625347	0	0	0
+ELRC-871-Agriculture_Rural_De	v1	NLLB	v1	487	73623674	0	0	0
 ELRC-871-Agriculture_Rural_De	v1	OpenSubtitles	v2018	487	34512858	0	0	0
+ELRC-871-Agriculture_Rural_De	v1	OpenSubtitles	v2016	487	22955941	0	0	0
+ELRC-871-Agriculture_Rural_De	v1	ParaCrawl	v5	487	6336749	0	0	0
 ELRC-871-Agriculture_Rural_De	v1	DGT	v2019	487	3659053	0	0	0
 ELRC-871-Agriculture_Rural_De	v1	TildeMODEL	v2018	487	2124677	0	0	0
+ELRC-871-Agriculture_Rural_De	v1	DGT	v4	487	1966769	0	0	0
 ELRC-871-Agriculture_Rural_De	v1	JRC-Acquis	v3.0	487	1048242	0	0	0
 ELRC-871-Agriculture_Rural_De	v1	Europarl	v8	487	613356	0	0	0
+ELRC-871-Agriculture_Rural_De	v1	Europarl	v7	487	612713	0	0	0
 ELRC-871-Agriculture_Rural_De	v1	QED	v2.0a	487	482625	0	0	0
 ELRC-871-Agriculture_Rural_De	v1	EUbookshop	v2	487	461498	0	0	0
 ELRC-871-Agriculture_Rural_De	v1	EMEA	v3	487	343975	0	0	0

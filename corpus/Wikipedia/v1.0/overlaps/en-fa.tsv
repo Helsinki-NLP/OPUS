@@ -1,11 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Wikipedia	v1.0	WikiMatrix	v1	95642	303806	5789	6.05	1.90
 Wikipedia	v1.0	CCMatrix	v1	95642	24357218	4551	4.75	.01
+Wikipedia	v1.0	NLLB	v1	95642	24356686	4551	4.75	.01
 Wikipedia	v1.0	ELRC-3078-wikipedia_health	v1	95642	1983	105	.10	5.29
 Wikipedia	v1.0	ELRC-wikipedia_health	v1	95642	1983	105	.10	5.29
 Wikipedia	v1.0	ELRC_2922	v1	95642	1982	105	.10	5.29
 Wikipedia	v1.0	OpenSubtitles	v2018	95642	5410373	39	.04	0
+Wikipedia	v1.0	OpenSubtitles	v2016	95642	3296530	30	.03	0
 Wikipedia	v1.0	TEP	v1	95642	592664	12	.01	0
+Wikipedia	v1.0	MultiCCAligned	v1	95642	5210426	2	0	0
 Wikipedia	v1.0	CCAligned	v1	95642	5210326	2	0	0
 Wikipedia	v1.0	LinguaTools-WikiTitles	v2014	95642	3436529	8	0	0
 Wikipedia	v1.0	XLEnt	v1.1	95642	1842190	2	0	0
@@ -13,6 +16,7 @@ Wikipedia	v1.0	XLEnt	v1.2	95642	1842190	2	0	0
 Wikipedia	v1.0	XLEnt	v1	95642	1842190	2	0	0
 Wikipedia	v1.0	MIZAN	v1	95642	1017788	5	0	0
 Wikipedia	v1.0	Tanzil	v1	95642	1012397	0	0	0
+Wikipedia	v1.0	wikimedia	v20230407	95642	307503	1	0	0
 Wikipedia	v1.0	TED2020	v1	95642	297407	0	0	0
 Wikipedia	v1.0	NeuLab-TedTalks	v1	95642	155836	0	0	0
 Wikipedia	v1.0	wikimedia	v20210402	95642	149677	1	0	0

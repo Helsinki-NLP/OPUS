@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+ELRC-1054-health_care_social	v1	MultiCCAligned	v1	2097	10351609	32	1.52	0
 ELRC-1054-health_care_social	v1	CCAligned	v1	2097	10351428	32	1.52	0
 ELRC-1054-health_care_social	v1	DGT	v2019	2097	2739551	32	1.52	0
+ELRC-1054-health_care_social	v1	DGT	v4	2097	1077223	30	1.43	0
 ELRC-1054-health_care_social	v1	JRC-Acquis	v3.0	2097	28494	19	.90	.06
 ELRC-1054-health_care_social	v1	ELRC-408-transport	v1	2097	3270	14	.66	.42
 ELRC-1054-health_care_social	v1	EUbookshop	v2	2097	186306	12	.57	0
@@ -13,6 +15,10 @@ ELRC-1054-health_care_social	v1	XLEnt	v1.1	2097	2394543	8	.38	0
 ELRC-1054-health_care_social	v1	XLEnt	v1	2097	2394543	8	.38	0
 ELRC-1054-health_care_social	v1	XLEnt	v1.2	2097	2394543	8	.38	0
 ELRC-1054-health_care_social	v1	ELRA-W0133	v1	2097	2375	8	.38	.33
+ELRC-1054-health_care_social	v1	MultiParaCrawl	v7.1	2097	6470710	7	.33	0
+ELRC-1054-health_care_social	v1	ParaCrawl	v7.1	2097	6470709	6	.28	0
+ELRC-1054-health_care_social	v1	wikimedia	v20230407	2097	60073	6	.28	0
+ELRC-1054-health_care_social	v1	ParaCrawl	v8	2097	11927055	5	.23	0
 ELRC-1054-health_care_social	v1	ELRC-2712-EMEA	v1	2097	766010	3	.14	0
 ELRC-1054-health_care_social	v1	ELRC-EMEA	v1	2097	766008	3	.14	0
 ELRC-1054-health_care_social	v1	wikimedia	v20210402	2097	32277	3	.14	0
@@ -27,6 +33,9 @@ ELRC-1054-health_care_social	v1	ELRC-EUIPO_2017	v1	2097	19606	2	.09	.01
 ELRC-1054-health_care_social	v1	ELRA-W0263	v1	2097	14193	2	.09	.01
 ELRC-1054-health_care_social	v1	ELRC-437-Bulgarian_strategic_	v1	2097	2623	2	.09	.07
 ELRC-1054-health_care_social	v1	OpenSubtitles	v2018	2097	32563039	1	.04	0
+ELRC-1054-health_care_social	v1	OpenSubtitles	v2016	2097	26838705	1	.04	0
+ELRC-1054-health_care_social	v1	ParaCrawl	v5	2097	2569578	1	.04	0
+ELRC-1054-health_care_social	v1	ParaCrawl	v4	2097	1033746	1	.04	0
 ELRC-1054-health_care_social	v1	EMEA	v3	2097	328304	1	.04	0
 ELRC-1054-health_care_social	v1	TED2020	v1	2097	243925	1	.04	0
 ELRC-1054-health_care_social	v1	ELITR-ECA	v1	2097	228660	1	.04	0
@@ -34,6 +43,7 @@ ELRC-1054-health_care_social	v1	NeuLab-TedTalks	v1	2097	178322	1	.04	0
 ELRC-1054-health_care_social	v1	ELRC-768-corpora_State_Admini	v1	2097	50413	1	.04	0
 ELRC-1054-health_care_social	v1	ELRC-3563-EUR_LEX_covid	v1	2097	23000	1	.04	0
 ELRC-1054-health_care_social	v1	ELRC-EUR_LEX	v1	2097	23000	1	.04	0
+ELRC-1054-health_care_social	v1	Tatoeba	v2023-04-12	2097	17835	1	.04	0
 ELRC-1054-health_care_social	v1	Tatoeba	v2022-03-03	2097	17803	1	.04	0
 ELRC-1054-health_care_social	v1	Tatoeba	v2021-07-22	2097	17800	1	.04	0
 ELRC-1054-health_care_social	v1	Tatoeba	v2020-11-09	2097	17794	1	.04	0
@@ -64,8 +74,10 @@ ELRC-1054-health_care_social	v1	ELRC-648-Letter_rights_person	v1	2097	60	1	.04	1
 ELRC-1054-health_care_social	v1	ELRC-2546-Competition_Economic	v1	2097	29	1	.04	3.44
 ELRC-1054-health_care_social	v1	ELRC-403-Rights_Arrested	v1	2097	24	1	.04	4.16
 ELRC-1054-health_care_social	v1	CCMatrix	v1	2097	44333768	0	0	0
+ELRC-1054-health_care_social	v1	NLLB	v1	2097	44332999	0	0	0
 ELRC-1054-health_care_social	v1	QED	v2.0a	2097	492589	0	0	0
 ELRC-1054-health_care_social	v1	Europarl	v8	2097	394736	0	0	0
+ELRC-1054-health_care_social	v1	Europarl	v7	2097	394341	0	0	0
 ELRC-1054-health_care_social	v1	SETIMES	v2	2097	211181	0	0	0
 ELRC-1054-health_care_social	v1	OpenSubtitles	v1	2097	204640	0	0	0
 ELRC-1054-health_care_social	v1	SETIMES	v1	2097	160602	0	0	0

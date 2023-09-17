@@ -1,14 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-472-Polish_Central_Stati	v1	ELRA-W0174	v1	1511	1510	1486	98.34	98.41
 ELRC-472-Polish_Central_Stati	v1	ParaCrawl	v9	1511	40082038	26	1.72	0
+ELRC-472-Polish_Central_Stati	v1	MultiCCAligned	v1	1511	25790086	8	.52	0
 ELRC-472-Polish_Central_Stati	v1	CCAligned	v1	1511	12846330	8	.52	0
 ELRC-472-Polish_Central_Stati	v1	LinguaTools-WikiTitles	v2014	1511	8003882	7	.46	0
 ELRC-472-Polish_Central_Stati	v1	DGT	v2019	1511	3659053	7	.46	0
+ELRC-472-Polish_Central_Stati	v1	DGT	v4	1511	1966769	7	.46	0
 ELRC-472-Polish_Central_Stati	v1	XLEnt	v1.1	1511	5202602	4	.26	0
 ELRC-472-Polish_Central_Stati	v1	XLEnt	v1	1511	5202602	4	.26	0
 ELRC-472-Polish_Central_Stati	v1	XLEnt	v1.2	1511	5202602	4	.26	0
 ELRC-472-Polish_Central_Stati	v1	JRC-Acquis	v3.0	1511	1048242	4	.26	0
+ELRC-472-Polish_Central_Stati	v1	MultiParaCrawl	v7.1	1511	13744836	3	.19	0
+ELRC-472-Polish_Central_Stati	v1	ParaCrawl	v1	1511	1270691	3	.19	0
 ELRC-472-Polish_Central_Stati	v1	ELRC-956-Central_Statistical	v1	1511	2690	3	.19	.11
+ELRC-472-Polish_Central_Stati	v1	ParaCrawl	v8	1511	45358407	2	.13	0
+ELRC-472-Polish_Central_Stati	v1	ParaCrawl	v7.1	1511	13744835	2	.13	0
 ELRC-472-Polish_Central_Stati	v1	TildeMODEL	v2018	1511	2124677	2	.13	0
 ELRC-472-Polish_Central_Stati	v1	ELRC-2726-EMEA	v1	1511	756950	2	.13	0
 ELRC-472-Polish_Central_Stati	v1	ELRC-EMEA	v1	1511	756950	2	.13	0
@@ -29,7 +35,9 @@ ELRC-472-Polish_Central_Stati	v1	NeuLab-TedTalks	v1	1511	185955	1	.06	0
 ELRC-472-Polish_Central_Stati	v1	EuroPat	v2	1511	88959	1	.06	0
 ELRC-472-Polish_Central_Stati	v1	ELRC-1120-CORDIS_News	v1	1511	87745	1	.06	0
 ELRC-472-Polish_Central_Stati	v1	ELRC-CORDIS_News	v1	1511	87745	1	.06	0
+ELRC-472-Polish_Central_Stati	v1	wikimedia	v20230407	1511	72787	1	.06	0
 ELRC-472-Polish_Central_Stati	v1	ELRA-W0241	v1	1511	57206	1	.06	0
+ELRC-472-Polish_Central_Stati	v1	Tatoeba	v2023-04-12	1511	55895	1	.06	0
 ELRC-472-Polish_Central_Stati	v1	Tatoeba	v2022-03-03	1511	54736	1	.06	0
 ELRC-472-Polish_Central_Stati	v1	Tatoeba	v2021-07-22	1511	54279	1	.06	0
 ELRC-472-Polish_Central_Stati	v1	Tatoeba	v2021-03-10	1511	54235	1	.06	0
@@ -120,8 +128,13 @@ ELRC-472-Polish_Central_Stati	v1	ELRC-873-Development	v1	1511	82	1	.06	1.21
 ELRC-472-Polish_Central_Stati	v1	ELRC-648-Letter_rights_person	v1	1511	63	1	.06	1.58
 ELRC-472-Polish_Central_Stati	v1	ELRC-403-Rights_Arrested	v1	1511	24	1	.06	4.16
 ELRC-472-Polish_Central_Stati	v1	CCMatrix	v1	1511	73625347	0	0	0
+ELRC-472-Polish_Central_Stati	v1	NLLB	v1	1511	73623674	0	0	0
 ELRC-472-Polish_Central_Stati	v1	OpenSubtitles	v2018	1511	34512858	0	0	0
+ELRC-472-Polish_Central_Stati	v1	OpenSubtitles	v2016	1511	22955941	0	0	0
+ELRC-472-Polish_Central_Stati	v1	ParaCrawl	v5	1511	6336749	0	0	0
+ELRC-472-Polish_Central_Stati	v1	ParaCrawl	v4	1511	3483752	0	0	0
 ELRC-472-Polish_Central_Stati	v1	Europarl	v8	1511	613356	0	0	0
+ELRC-472-Polish_Central_Stati	v1	Europarl	v7	1511	612713	0	0	0
 ELRC-472-Polish_Central_Stati	v1	QED	v2.0a	1511	482625	0	0	0
 ELRC-472-Polish_Central_Stati	v1	EMEA	v3	1511	343975	0	0	0
 ELRC-472-Polish_Central_Stati	v1	Wikipedia	v1.0	1511	168603	0	0	0

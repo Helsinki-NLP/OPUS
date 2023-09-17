@@ -1,11 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+WikiMatrix	v1	NLLB	v1	51387	23433143	5695	11.08	.02
 WikiMatrix	v1	CCMatrix	v1	51387	5718273	5276	10.26	.09
 WikiMatrix	v1	ELRC-3073-wikipedia_health	v1	51387	608	284	.55	46.71
 WikiMatrix	v1	ELRC-wikipedia_health	v1	51387	608	284	.55	46.71
 WikiMatrix	v1	ELRC_2922	v1	51387	607	281	.54	46.29
+WikiMatrix	v1	GoURMET	v2	51387	104123	176	.34	.16
+WikiMatrix	v1	wikimedia	v20230407	51387	14789	155	.30	1.04
 WikiMatrix	v1	wikimedia	v20210402	51387	3626	155	.30	4.27
+WikiMatrix	v1	MultiCCAligned	v1	51387	2035176	8	.01	0
 WikiMatrix	v1	CCAligned	v1	51387	2035139	8	.01	0
+WikiMatrix	v1	MultiParaCrawl	v7.1	51387	131579	8	.01	0
+WikiMatrix	v1	ParaCrawl	v8	51387	131579	8	.01	0
 WikiMatrix	v1	ParaCrawl	v9	51387	131579	8	.01	0
+WikiMatrix	v1	ParaCrawl	v7.1	51387	131578	7	.01	0
 WikiMatrix	v1	XLEnt	v1.1	51387	846392	1	0	0
 WikiMatrix	v1	XLEnt	v1.2	51387	846392	1	0	0
 WikiMatrix	v1	XLEnt	v1	51387	846392	1	0	0

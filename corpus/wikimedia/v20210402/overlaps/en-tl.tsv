@@ -1,14 +1,22 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	40716	69292	40538	99.56	58.50
+wikimedia	v20210402	NLLB	v1	40716	63325255	5277	12.96	0
 wikimedia	v20210402	CCMatrix	v1	40716	3100965	1289	3.16	.04
 wikimedia	v20210402	WikiMatrix	v1	40716	75447	1177	2.89	1.56
 wikimedia	v20210402	XLEnt	v1.1	40716	1062507	69	.16	0
 wikimedia	v20210402	XLEnt	v1.2	40716	1062507	69	.16	0
 wikimedia	v20210402	XLEnt	v1	40716	1062507	69	.16	0
+wikimedia	v20210402	MultiCCAligned	v1	40716	6516373	54	.13	0
 wikimedia	v20210402	CCAligned	v1	40716	6516255	54	.13	0
 wikimedia	v20210402	Ubuntu	v14.10	40716	5043	6	.01	.11
+wikimedia	v20210402	MultiParaCrawl	v7.1	40716	243178	3	0	0
+wikimedia	v20210402	ParaCrawl	v8	40716	243178	3	0	0
 wikimedia	v20210402	ParaCrawl	v9	40716	243178	3	0	0
+wikimedia	v20210402	ParaCrawl	v7.1	40716	243177	2	0	0
 wikimedia	v20210402	bible-uedin	v1	40716	61599	0	0	0
 wikimedia	v20210402	OpenSubtitles	v2018	40716	14704	0	0	0
+wikimedia	v20210402	Tatoeba	v2023-04-12	40716	8775	1	0	.01
+wikimedia	v20210402	OpenSubtitles	v2016	40716	7495	0	0	0
 wikimedia	v20210402	Tatoeba	v2022-03-03	40716	7347	1	0	.01
 wikimedia	v20210402	Tatoeba	v2021-07-22	40716	7297	1	0	.01
 wikimedia	v20210402	Tatoeba	v2021-03-10	40716	7277	1	0	.01

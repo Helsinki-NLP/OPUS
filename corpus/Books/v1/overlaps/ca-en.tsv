@@ -1,7 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Books	v1	MultiCCAligned	v1	4580	5774694	211	4.60	0
 Books	v1	CCAligned	v1	4580	5774598	211	4.60	0
 Books	v1	OpenSubtitles	v2018	4580	427132	7	.15	0
+Books	v1	OpenSubtitles	v2016	4580	350371	4	.08	0
 Books	v1	CCMatrix	v1	4580	21161566	1	.02	0
+Books	v1	NLLB	v1	4580	21161243	1	.02	0
 Books	v1	XLEnt	v1.1	4580	2809447	1	.02	0
 Books	v1	XLEnt	v1.2	4580	2809447	1	.02	0
 Books	v1	XLEnt	v1	4580	2809447	1	.02	0
@@ -10,6 +13,7 @@ Books	v1	TED2020	v1	4580	51400	1	.02	0
 Books	v1	GlobalVoices	v2017q3	4580	20884	1	.02	0
 Books	v1	GlobalVoices	v2015	4580	19645	1	.02	0
 Books	v1	WikiMatrix	v1	4580	1205909	0	0	0
+Books	v1	wikimedia	v20230407	4580	386194	0	0	0
 Books	v1	wikimedia	v20210402	4580	208067	0	0	0
 Books	v1	KDE4	v2	4580	143938	0	0	0
 Books	v1	ELRC-5129-GEnCaTA_a	v1	4580	38559	0	0	0
@@ -18,6 +22,7 @@ Books	v1	Ubuntu	v14.10	4580	6780	0	0	0
 Books	v1	EUbookshop	v2	4580	3740	0	0	0
 Books	v1	ELRC-5189-Catalan_WMT2013_Mach	v1	4580	2999	0	0	0
 Books	v1	GNOME	v1	4580	2179	0	0	0
+Books	v1	Tatoeba	v2023-04-12	4580	1884	0	0	0
 Books	v1	Tatoeba	v2022-03-03	4580	1860	0	0	0
 Books	v1	Tatoeba	v2021-07-22	4580	1855	0	0	0
 Books	v1	Tatoeba	v2021-03-10	4580	1843	0	0	0

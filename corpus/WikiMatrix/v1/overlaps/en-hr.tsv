@@ -1,14 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	259499	18694537	31765	12.24	.16
+WikiMatrix	v1	NLLB	v1	259499	18694206	31765	12.24	.16
+WikiMatrix	v1	ParaCrawl	v8	259499	11063124	20799	8.01	.18
 WikiMatrix	v1	ParaCrawl	v9	259499	3240421	8652	3.33	.26
+WikiMatrix	v1	MultiParaCrawl	v7.1	259499	6959286	3547	1.36	.05
+WikiMatrix	v1	ParaCrawl	v7.1	259499	6959288	3524	1.35	.05
+WikiMatrix	v1	wikimedia	v20230407	259499	40443	574	.22	1.41
 WikiMatrix	v1	wikimedia	v20210402	259499	18939	574	.22	3.03
+WikiMatrix	v1	ParaCrawl	v5	259499	1846962	367	.14	.01
 WikiMatrix	v1	ELRC_2922	v1	259499	485	149	.05	30.72
 WikiMatrix	v1	OpenSubtitles	v2018	259499	28591047	88	.03	0
+WikiMatrix	v1	OpenSubtitles	v2016	259499	22002428	75	.02	0
+WikiMatrix	v1	MultiCCAligned	v1	259499	9327209	42	.01	0
 WikiMatrix	v1	CCAligned	v1	259499	9327047	42	.01	0
 WikiMatrix	v1	XLEnt	v1.1	259499	2717963	23	0	0
 WikiMatrix	v1	XLEnt	v1.2	259499	2717963	23	0	0
 WikiMatrix	v1	XLEnt	v1	259499	2717963	23	0	0
 WikiMatrix	v1	ELRC-4142-NTEU_TierA	v1	259499	2273079	21	0	0
+WikiMatrix	v1	ParaCrawl	v4	259499	995511	3	0	0
 WikiMatrix	v1	ELRC-5067-SciPar	v1	259499	806581	5	0	0
 WikiMatrix	v1	TildeMODEL	v2018	259499	736487	7	0	0
 WikiMatrix	v1	DGT	v2019	259499	668790	1	0	0
@@ -64,6 +73,7 @@ WikiMatrix	v1	ELRC-Foreign_Affairs	v1	259499	3103	1	0	.03
 WikiMatrix	v1	ELRA-W0293	v1	259499	3102	0	0	0
 WikiMatrix	v1	ELRC-3478-EC_EUROPA_covid	v1	259499	2595	1	0	.03
 WikiMatrix	v1	ELRC-EC_EUROPA	v1	259499	2595	1	0	.03
+WikiMatrix	v1	Tatoeba	v2023-04-12	259499	2444	1	0	.04
 WikiMatrix	v1	Tatoeba	v2022-03-03	259499	2431	1	0	.04
 WikiMatrix	v1	Tatoeba	v2021-07-22	259499	2428	1	0	.04
 WikiMatrix	v1	Tatoeba	v2021-03-10	259499	2416	1	0	.04

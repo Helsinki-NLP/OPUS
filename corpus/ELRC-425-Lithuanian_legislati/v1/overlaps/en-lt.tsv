@@ -1,16 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-425-Lithuanian_legislati	v1	CCMatrix	v1	129128	23162636	2625	2.03	.01
+ELRC-425-Lithuanian_legislati	v1	NLLB	v1	129128	23162019	2625	2.03	.01
 ELRC-425-Lithuanian_legislati	v1	ELRC-4270-NTEU_TierA	v1	129128	7890285	1398	1.08	.01
 ELRC-425-Lithuanian_legislati	v1	ParaCrawl	v9	129128	13191974	1200	.92	0
+ELRC-425-Lithuanian_legislati	v1	ParaCrawl	v8	129128	8043262	700	.54	0
 ELRC-425-Lithuanian_legislati	v1	DGT	v2019	129128	3648865	672	.52	.01
+ELRC-425-Lithuanian_legislati	v1	DGT	v4	129128	1967340	672	.52	.03
 ELRC-425-Lithuanian_legislati	v1	EUbookshop	v2	129128	373431	416	.32	.11
+ELRC-425-Lithuanian_legislati	v1	MultiCCAligned	v1	129128	5183742	312	.24	0
 ELRC-425-Lithuanian_legislati	v1	CCAligned	v1	129128	5183648	312	.24	0
 ELRC-425-Lithuanian_legislati	v1	TildeMODEL	v2018	129128	2053491	308	.23	.01
+ELRC-425-Lithuanian_legislati	v1	MultiParaCrawl	v7.1	129128	4433563	250	.19	0
+ELRC-425-Lithuanian_legislati	v1	ParaCrawl	v7.1	129128	4433562	249	.19	0
 ELRC-425-Lithuanian_legislati	v1	ECB	v1	129128	69759	225	.17	.32
 ELRC-425-Lithuanian_legislati	v1	JRC-Acquis	v3.0	129128	500372	213	.16	.04
 ELRC-425-Lithuanian_legislati	v1	XLEnt	v1.1	129128	1562418	201	.15	.01
 ELRC-425-Lithuanian_legislati	v1	XLEnt	v1	129128	1562418	201	.15	.01
 ELRC-425-Lithuanian_legislati	v1	XLEnt	v1.2	129128	1562418	201	.15	.01
+ELRC-425-Lithuanian_legislati	v1	ParaCrawl	v5	129128	1263838	119	.09	0
 ELRC-425-Lithuanian_legislati	v1	EUconst	v1	129128	6692	106	.08	1.58
 ELRC-425-Lithuanian_legislati	v1	KDE4	v2	129128	89827	53	.04	.05
 ELRC-425-Lithuanian_legislati	v1	ELRC-2717-EMEA	v1	129128	757666	47	.03	0
@@ -21,10 +28,14 @@ ELRC-425-Lithuanian_legislati	v1	ELRC-2021-EUIPO_2017	v1	129128	17133	34	.02	.19
 ELRC-425-Lithuanian_legislati	v1	ELRC-EUIPO_2017	v1	129128	17133	34	.02	.19
 ELRC-425-Lithuanian_legislati	v1	ELITR-ECA	v1	129128	128135	18	.01	.01
 ELRC-425-Lithuanian_legislati	v1	GNOME	v1	129128	15800	16	.01	.10
+ELRC-425-Lithuanian_legislati	v1	wikimedia	v20230407	129128	13796	23	.01	.16
 ELRC-425-Lithuanian_legislati	v1	ELRC-2878-EU_publications_medi	v1	129128	12573	25	.01	.19
 ELRC-425-Lithuanian_legislati	v1	ELRC-EU_publications	v1	129128	12573	25	.01	.19
 ELRC-425-Lithuanian_legislati	v1	OpenSubtitles	v2018	129128	1212456	5	0	0
+ELRC-425-Lithuanian_legislati	v1	OpenSubtitles	v2016	129128	1023613	5	0	0
+ELRC-425-Lithuanian_legislati	v1	ParaCrawl	v4	129128	841635	7	0	0
 ELRC-425-Lithuanian_legislati	v1	Europarl	v8	129128	616663	8	0	0
+ELRC-425-Lithuanian_legislati	v1	Europarl	v7	129128	616275	8	0	0
 ELRC-425-Lithuanian_legislati	v1	ELRC-5067-SciPar	v1	129128	177437	1	0	0
 ELRC-425-Lithuanian_legislati	v1	WikiMatrix	v1	129128	157526	6	0	0
 ELRC-425-Lithuanian_legislati	v1	QED	v2.0a	129128	79727	2	0	0
@@ -36,6 +47,7 @@ ELRC-425-Lithuanian_legislati	v1	ELRC-3568-EUR_LEX_covid	v1	129128	21385	1	0	0
 ELRC-425-Lithuanian_legislati	v1	ELRC-EUR_LEX	v1	129128	21385	1	0	0
 ELRC-425-Lithuanian_legislati	v1	ELRC-405-President_Lithuania	v1	129128	12704	2	0	.01
 ELRC-425-Lithuanian_legislati	v1	ELRA-W0160	v1	129128	12703	1	0	0
+ELRC-425-Lithuanian_legislati	v1	Tatoeba	v2023-04-12	129128	8229	1	0	.01
 ELRC-425-Lithuanian_legislati	v1	Tatoeba	v2022-03-03	129128	8176	1	0	.01
 ELRC-425-Lithuanian_legislati	v1	Tatoeba	v2021-07-22	129128	8172	1	0	.01
 ELRC-425-Lithuanian_legislati	v1	Tatoeba	v2021-03-10	129128	8167	1	0	.01

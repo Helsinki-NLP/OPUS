@@ -1,11 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2751-vaccination	v1	ELRC-vaccination	v1	464	464	464	100.00	100.00
 ELRC-2751-vaccination	v1	ParaCrawl	v9	464	8539880	3	.64	0
+ELRC-2751-vaccination	v1	MultiCCAligned	v1	464	4086863	3	.64	0
 ELRC-2751-vaccination	v1	CCAligned	v1	464	4086794	3	.64	0
 ELRC-2751-vaccination	v1	TildeMODEL	v2018	464	2032695	3	.64	0
 ELRC-2751-vaccination	v1	ELRC-2723-EMEA	v1	464	762693	3	.64	0
 ELRC-2751-vaccination	v1	ELRC-EMEA	v1	464	762693	3	.64	0
+ELRC-2751-vaccination	v1	ParaCrawl	v8	464	8585187	2	.43	0
 ELRC-2751-vaccination	v1	ELRC-4271-NTEU_TierA	v1	464	7730635	2	.43	0
+ELRC-2751-vaccination	v1	MultiParaCrawl	v7.1	464	3180465	2	.43	0
 ELRC-2751-vaccination	v1	XLEnt	v1.1	464	1677851	2	.43	0
 ELRC-2751-vaccination	v1	XLEnt	v1.2	464	1677851	2	.43	0
 ELRC-2751-vaccination	v1	XLEnt	v1	464	1677851	2	.43	0
@@ -13,6 +16,11 @@ ELRC-2751-vaccination	v1	ELRC_2682	v1	464	762692	2	.43	0
 ELRC-2751-vaccination	v1	ELRC-3211-antibiotic	v1	464	721	2	.43	.27
 ELRC-2751-vaccination	v1	ELRC-antibiotic	v1	464	721	2	.43	.27
 ELRC-2751-vaccination	v1	DGT	v2019	464	3620944	1	.21	0
+ELRC-2751-vaccination	v1	ParaCrawl	v7.1	464	3180464	1	.21	0
+ELRC-2751-vaccination	v1	DGT	v4	464	1954038	1	.21	0
+ELRC-2751-vaccination	v1	ParaCrawl	v5	464	1379164	1	.21	0
+ELRC-2751-vaccination	v1	ParaCrawl	v1	464	1289766	1	.21	0
+ELRC-2751-vaccination	v1	ParaCrawl	v4	464	848980	1	.21	0
 ELRC-2751-vaccination	v1	EUbookshop	v2	464	365564	1	.21	0
 ELRC-2751-vaccination	v1	WikiMatrix	v1	464	243870	1	.21	0
 ELRC-2751-vaccination	v1	ELITR-ECA	v1	464	118459	1	.21	0
@@ -21,6 +29,7 @@ ELRC-2751-vaccination	v1	ELRC-429-Legal_Estonian_Justi	v1	464	47215	1	.21	0
 ELRC-2751-vaccination	v1	ELRC-939-vp2006_2016.presiden	v1	464	29520	1	.21	0
 ELRC-2751-vaccination	v1	ELRC-431-Estonian_Foreign_Aff	v1	464	27797	1	.21	0
 ELRC-2751-vaccination	v1	ELRC-938-vp2001_2006.presiden	v1	464	25557	1	.21	0
+ELRC-2751-vaccination	v1	wikimedia	v20230407	464	23146	1	.21	0
 ELRC-2751-vaccination	v1	TED2020	v1	464	22985	1	.21	0
 ELRC-2751-vaccination	v1	ELRC-3572-EUR_LEX_covid	v1	464	22028	1	.21	0
 ELRC-2751-vaccination	v1	ELRC-EUR_LEX	v1	464	22028	1	.21	0
@@ -46,6 +55,7 @@ ELRC-2751-vaccination	v1	ELRC-2457-Estonian_Classificat	v1	464	6438	1	.21	.01
 ELRC-2751-vaccination	v1	ELRC-714-Parliament_Estonia	v1	464	5326	1	.21	.01
 ELRC-2751-vaccination	v1	ELRC-3471-EC_EUROPA_covid	v1	464	2707	1	.21	.03
 ELRC-2751-vaccination	v1	ELRC-EC_EUROPA	v1	464	2707	1	.21	.03
+ELRC-2751-vaccination	v1	Tatoeba	v2023-04-12	464	2538	1	.21	.03
 ELRC-2751-vaccination	v1	ECDC	v2016-03-16	464	2484	1	.21	.04
 ELRC-2751-vaccination	v1	Tatoeba	v2021-07-22	464	2448	1	.21	.04
 ELRC-2751-vaccination	v1	Tatoeba	v2022-03-03	464	2448	1	.21	.04
@@ -58,8 +68,11 @@ ELRC-2751-vaccination	v1	ELRC-3554-www.kriis.ee	v1	464	433	1	.21	.23
 ELRC-2751-vaccination	v1	ELRC-3079-wikipedia_health	v1	464	278	1	.21	.35
 ELRC-2751-vaccination	v1	ELRC-wikipedia_health	v1	464	278	1	.21	.35
 ELRC-2751-vaccination	v1	CCMatrix	v1	464	21877049	0	0	0
+ELRC-2751-vaccination	v1	NLLB	v1	464	21876691	0	0	0
 ELRC-2751-vaccination	v1	OpenSubtitles	v2018	464	10204743	0	0	0
+ELRC-2751-vaccination	v1	OpenSubtitles	v2016	464	8489455	0	0	0
 ELRC-2751-vaccination	v1	Europarl	v8	464	632077	0	0	0
+ELRC-2751-vaccination	v1	Europarl	v7	464	631699	0	0	0
 ELRC-2751-vaccination	v1	JRC-Acquis	v3.0	464	484378	0	0	0
 ELRC-2751-vaccination	v1	EMEA	v3	464	329076	0	0	0
 ELRC-2751-vaccination	v1	KDE4	v2	464	191995	0	0	0

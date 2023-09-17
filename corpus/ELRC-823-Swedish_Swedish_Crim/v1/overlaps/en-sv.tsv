@@ -1,7 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-4268-NTEU_TierA	v1	1503	12468100	1498	99.66	.01
 ELRC-823-Swedish_Swedish_Crim	v1	DGT	v2019	1503	3635425	27	1.79	0
+ELRC-823-Swedish_Swedish_Crim	v1	DGT	v4	1503	1968717	27	1.79	0
 ELRC-823-Swedish_Swedish_Crim	v1	TildeMODEL	v2018	1503	3185574	26	1.72	0
+ELRC-823-Swedish_Swedish_Crim	v1	MultiCCAligned	v1	1503	12482516	24	1.59	0
 ELRC-823-Swedish_Swedish_Crim	v1	CCAligned	v1	1503	12482304	24	1.59	0
 ELRC-823-Swedish_Swedish_Crim	v1	LinguaTools-WikiTitles	v2014	1503	7759117	23	1.53	0
 ELRC-823-Swedish_Swedish_Crim	v1	XLEnt	v1.1	1503	3403994	12	.79	0
@@ -12,7 +14,9 @@ ELRC-823-Swedish_Swedish_Crim	v1	ELRC-2725-EMEA	v1	1503	752045	10	.66	0
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-EMEA	v1	1503	752045	10	.66	0
 ELRC-823-Swedish_Swedish_Crim	v1	KDE4	v2	1503	192221	10	.66	0
 ELRC-823-Swedish_Swedish_Crim	v1	ParaCrawl	v9	1503	49109340	7	.46	0
+ELRC-823-Swedish_Swedish_Crim	v1	ParaCrawl	v8	1503	44066654	7	.46	0
 ELRC-823-Swedish_Swedish_Crim	v1	JRC-Acquis	v3.0	1503	493351	7	.46	0
+ELRC-823-Swedish_Swedish_Crim	v1	wikimedia	v20230407	1503	59125	7	.46	.01
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-1133-www.vtv.fi	v1	1503	46345	7	.46	.01
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-www.vtv.fi	v1	1503	46345	7	.46	.01
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-817-Swedish_Audit_Riksre	v1	1503	28944	7	.46	.02
@@ -27,7 +31,10 @@ ELRC-823-Swedish_Swedish_Crim	v1	wikimedia	v20210402	1503	29811	5	.33	.01
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-2026-EUIPO_2017	v1	1503	16947	5	.33	.02
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-EUIPO_2017	v1	1503	16947	5	.33	.02
 ELRC-823-Swedish_Swedish_Crim	v1	ELRA-W0222	v1	1503	6817	5	.33	.07
+ELRC-823-Swedish_Swedish_Crim	v1	MultiParaCrawl	v7.1	1503	11645803	4	.26	0
 ELRC-823-Swedish_Swedish_Crim	v1	OpenSubtitles	v2018	1503	14904885	3	.19	0
+ELRC-823-Swedish_Swedish_Crim	v1	ParaCrawl	v7.1	1503	11645802	3	.19	0
+ELRC-823-Swedish_Swedish_Crim	v1	OpenSubtitles	v2016	1503	10237744	3	.19	0
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-1770-valtioneuvosto.fi	v1	1503	49084	3	.19	0
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-valtioneuvosto.fi	v1	1503	49084	3	.19	0
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-1772-vnk.fi	v1	1503	33625	3	.19	0
@@ -50,11 +57,13 @@ ELRC-823-Swedish_Swedish_Crim	v1	EUconst	v1	1503	6598	2	.13	.03
 ELRC-823-Swedish_Swedish_Crim	v1	ECDC	v2016-03-16	1503	2436	2	.13	.08
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC_416	v1	1503	862	2	.13	.23
 ELRC-823-Swedish_Swedish_Crim	v1	Europarl	v8	1503	1846661	1	.06	0
+ELRC-823-Swedish_Swedish_Crim	v1	Europarl	v7	1503	1846286	1	.06	0
 ELRC-823-Swedish_Swedish_Crim	v1	ELITR-ECA	v1	1503	336379	1	.06	0
 ELRC-823-Swedish_Swedish_Crim	v1	OpenSubtitles	v1	1503	298889	1	.06	0
 ELRC-823-Swedish_Swedish_Crim	v1	QED	v2.0a	1503	160782	1	.06	0
 ELRC-823-Swedish_Swedish_Crim	v1	TED2020	v1	1503	117646	1	.06	0
 ELRC-823-Swedish_Swedish_Crim	v1	NeuLab-TedTalks	v1	1503	67599	1	.06	0
+ELRC-823-Swedish_Swedish_Crim	v1	Tatoeba	v2023-04-12	1503	26957	1	.06	0
 ELRC-823-Swedish_Swedish_Crim	v1	Tatoeba	v2022-03-03	1503	26220	1	.06	0
 ELRC-823-Swedish_Swedish_Crim	v1	Tatoeba	v2021-07-22	1503	25865	1	.06	0
 ELRC-823-Swedish_Swedish_Crim	v1	Tatoeba	v2021-03-10	1503	25646	1	.06	0
@@ -86,6 +95,10 @@ ELRC-823-Swedish_Swedish_Crim	v1	ELRC-2752-vaccination	v1	1503	496	1	.06	.20
 ELRC-823-Swedish_Swedish_Crim	v1	ELRC-vaccination	v1	1503	496	1	.06	.20
 ELRC-823-Swedish_Swedish_Crim	v1	GNOME	v1	1503	149	1	.06	.67
 ELRC-823-Swedish_Swedish_Crim	v1	CCMatrix	v1	1503	76586290	0	0	0
+ELRC-823-Swedish_Swedish_Crim	v1	NLLB	v1	1503	76584927	0	0	0
+ELRC-823-Swedish_Swedish_Crim	v1	ParaCrawl	v5	1503	6027448	0	0	0
+ELRC-823-Swedish_Swedish_Crim	v1	ParaCrawl	v4	1503	3456794	0	0	0
+ELRC-823-Swedish_Swedish_Crim	v1	Europarl	v3	1503	1136242	0	0	0
 ELRC-823-Swedish_Swedish_Crim	v1	Tanzil	v1	1503	124111	0	0	0
 ELRC-823-Swedish_Swedish_Crim	v1	bible-uedin	v1	1503	61422	0	0	0
 ELRC-823-Swedish_Swedish_Crim	v1	WikiSource	v1	1503	32032	0	0	0

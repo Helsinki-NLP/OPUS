@@ -1,8 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Wikipedia	v1.0	WikiMatrix	v1	100619	620802	21107	20.97	3.39
 Wikipedia	v1.0	CCMatrix	v1	100619	48860900	17160	17.05	.03
+Wikipedia	v1.0	NLLB	v1	100619	48859850	17160	17.05	.03
+Wikipedia	v1.0	ParaCrawl	v8	100619	34585108	14149	14.06	.04
 Wikipedia	v1.0	ParaCrawl	v9	100619	21402043	9079	9.02	.04
+Wikipedia	v1.0	MultiParaCrawl	v7.1	100619	9402609	1865	1.85	.01
+Wikipedia	v1.0	ParaCrawl	v7.1	100619	9402608	1861	1.84	.01
+Wikipedia	v1.0	ParaCrawl	v5	100619	3803749	1044	1.03	.02
 Wikipedia	v1.0	OpenSubtitles	v2018	100619	33318146	236	.23	0
+Wikipedia	v1.0	OpenSubtitles	v2016	100619	26021007	208	.20	0
+Wikipedia	v1.0	ParaCrawl	v4	100619	1976986	133	.13	0
 Wikipedia	v1.0	ELITR-ECA	v1	100619	329071	71	.07	.02
 Wikipedia	v1.0	EMEA	v3	100619	368049	61	.06	.01
 Wikipedia	v1.0	ELRC-3058-wikipedia_health	v1	100619	1871	67	.06	3.58
@@ -12,18 +19,23 @@ Wikipedia	v1.0	GlobalVoices	v2018q4	100619	112880	31	.03	.02
 Wikipedia	v1.0	SPC	v1	100619	7034	35	.03	.49
 Wikipedia	v1.0	EUconst	v1	100619	6666	32	.03	.48
 Wikipedia	v1.0	Europarl	v8	100619	1260921	27	.02	0
+Wikipedia	v1.0	Europarl	v7	100619	1260526	27	.02	0
 Wikipedia	v1.0	GlobalVoices	v2017q3	100619	88305	30	.02	.03
 Wikipedia	v1.0	JRC-Acquis	v3.0	100619	11923	25	.02	.20
 Wikipedia	v1.0	DGT	v2019	100619	3679234	16	.01	0
 Wikipedia	v1.0	LinguaTools-WikiTitles	v2014	100619	1795210	17	.01	0
+Wikipedia	v1.0	Europarl	v3	100619	646689	11	.01	0
+Wikipedia	v1.0	wikimedia	v20230407	100619	549337	20	.01	0
 Wikipedia	v1.0	QED	v2.0a	100619	496445	19	.01	0
 Wikipedia	v1.0	wikimedia	v20210402	100619	229838	13	.01	0
 Wikipedia	v1.0	SETIMES	v2	100619	224806	19	.01	0
+Wikipedia	v1.0	MultiCCAligned	v1	100619	8792897	1	0	0
 Wikipedia	v1.0	CCAligned	v1	100619	8792737	1	0	0
 Wikipedia	v1.0	EUbookshop	v2	100619	3606516	7	0	0
 Wikipedia	v1.0	XLEnt	v1	100619	2799832	6	0	0
 Wikipedia	v1.0	XLEnt	v1.1	100619	2799832	6	0	0
 Wikipedia	v1.0	XLEnt	v1.2	100619	2799832	6	0	0
+Wikipedia	v1.0	DGT	v4	100619	2027952	10	0	0
 Wikipedia	v1.0	ELRC-EMEA	v1	100619	774830	1	0	0
 Wikipedia	v1.0	ELRC_2682	v1	100619	774829	1	0	0
 Wikipedia	v1.0	ELRC-2711-EMEA	v1	100619	774829	1	0	0
@@ -36,6 +48,7 @@ Wikipedia	v1.0	KDE4	v2	100619	125457	8	0	0
 Wikipedia	v1.0	ECB	v1	100619	102932	10	0	0
 Wikipedia	v1.0	ELRA-W0202	v1	100619	61967	0	0	0
 Wikipedia	v1.0	bible-uedin	v1	100619	61538	0	0	0
+Wikipedia	v1.0	Tatoeba	v2023-04-12	100619	25970	1	0	0
 Wikipedia	v1.0	Tatoeba	v2022-03-03	100619	24112	1	0	0
 Wikipedia	v1.0	Tatoeba	v2021-07-22	100619	23813	1	0	0
 Wikipedia	v1.0	Tatoeba	v2021-03-10	100619	23365	1	0	0

@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2017q3	GlobalVoices	v2018q4	1594	1718	1529	95.92	88.99
 GlobalVoices	v2017q3	GlobalVoices	v2015	1594	1196	999	62.67	83.52
+GlobalVoices	v2017q3	NLLB	v1	1594	15462695	14	.87	0
+GlobalVoices	v2017q3	MultiCCAligned	v1	1594	345215	0	0	0
 GlobalVoices	v2017q3	CCAligned	v1	1594	345209	0	0	0
 GlobalVoices	v2017q3	Tanzil	v1	1594	92286	0	0	0
 GlobalVoices	v2017q3	XLEnt	v1.1	1594	69037	0	0	0
@@ -8,11 +10,14 @@ GlobalVoices	v2017q3	XLEnt	v1	1594	69037	0	0	0
 GlobalVoices	v2017q3	XLEnt	v1.2	1594	69037	0	0	0
 GlobalVoices	v2017q3	bible-uedin	v1	1594	60440	0	0	0
 GlobalVoices	v2017q3	GoURMET	v1	1594	57836	0	0	0
+GlobalVoices	v2017q3	GoURMET	v2	1594	57836	0	0	0
 GlobalVoices	v2017q3	GNOME	v1	1594	11791	0	0	0
 GlobalVoices	v2017q3	Ubuntu	v14.10	1594	3703	0	0	0
 GlobalVoices	v2017q3	TED2020	v1	1594	1018	0	0	0
+GlobalVoices	v2017q3	wikimedia	v20230407	1594	934	0	0	0
 GlobalVoices	v2017q3	wikimedia	v20210402	1594	482	0	0	0
 GlobalVoices	v2017q3	wikimedia	v20190628	1594	286	0	0	0
+GlobalVoices	v2017q3	Tatoeba	v2023-04-12	1594	201	0	0	0
 GlobalVoices	v2017q3	Tatoeba	v2020-11-09	1594	200	0	0	0
 GlobalVoices	v2017q3	Tatoeba	v2021-03-10	1594	200	0	0	0
 GlobalVoices	v2017q3	Tatoeba	v2021-07-22	1594	200	0	0	0

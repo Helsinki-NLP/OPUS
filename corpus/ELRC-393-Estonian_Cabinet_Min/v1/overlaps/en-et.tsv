@@ -1,18 +1,26 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-393-Estonian_Cabinet_Min	v1	ELRA-W0154	v1	11530	11529	11437	99.19	99.20
 ELRC-393-Estonian_Cabinet_Min	v1	CCMatrix	v1	11530	21877049	69	.59	0
+ELRC-393-Estonian_Cabinet_Min	v1	NLLB	v1	11530	21876691	69	.59	0
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-431-Estonian_Foreign_Aff	v1	11530	27797	68	.58	.24
 ELRC-393-Estonian_Cabinet_Min	v1	ELRA-W0168	v1	11530	27796	67	.58	.24
+ELRC-393-Estonian_Cabinet_Min	v1	ParaCrawl	v8	11530	8585187	48	.41	0
 ELRC-393-Estonian_Cabinet_Min	v1	ParaCrawl	v9	11530	8539880	46	.39	0
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-4271-NTEU_TierA	v1	11530	7730635	37	.32	0
 ELRC-393-Estonian_Cabinet_Min	v1	OpenSubtitles	v2018	11530	10204743	22	.19	0
+ELRC-393-Estonian_Cabinet_Min	v1	OpenSubtitles	v2016	11530	8489455	21	.18	0
+ELRC-393-Estonian_Cabinet_Min	v1	ParaCrawl	v5	11530	1379164	18	.15	0
+ELRC-393-Estonian_Cabinet_Min	v1	MultiCCAligned	v1	11530	4086863	14	.12	0
 ELRC-393-Estonian_Cabinet_Min	v1	CCAligned	v1	11530	4086794	14	.12	0
 ELRC-393-Estonian_Cabinet_Min	v1	Europarl	v8	11530	632077	14	.12	0
+ELRC-393-Estonian_Cabinet_Min	v1	Europarl	v7	11530	631699	14	.12	0
+ELRC-393-Estonian_Cabinet_Min	v1	ParaCrawl	v1	11530	1289766	13	.11	0
 ELRC-393-Estonian_Cabinet_Min	v1	TildeMODEL	v2018	11530	2032695	11	.09	0
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-2461-press_releases_Forei	v1	11530	15997	11	.09	.06
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-939-vp2006_2016.presiden	v1	11530	29520	9	.07	.03
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-411-Bank_Estonia	v1	11530	16761	9	.07	.05
 ELRC-393-Estonian_Cabinet_Min	v1	DGT	v2019	11530	3620944	8	.06	0
+ELRC-393-Estonian_Cabinet_Min	v1	DGT	v4	11530	1954038	8	.06	0
 ELRC-393-Estonian_Cabinet_Min	v1	EMEA	v3	11530	329076	7	.06	0
 ELRC-393-Estonian_Cabinet_Min	v1	KDE4	v2	11530	191995	7	.06	0
 ELRC-393-Estonian_Cabinet_Min	v1	QED	v2.0a	11530	159715	7	.06	0
@@ -26,6 +34,7 @@ ELRC-393-Estonian_Cabinet_Min	v1	ELRC-EMEA	v1	11530	762693	4	.03	0
 ELRC-393-Estonian_Cabinet_Min	v1	EUbookshop	v2	11530	365564	4	.03	0
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-938-vp2001_2006.presiden	v1	11530	25557	4	.03	.01
 ELRC-393-Estonian_Cabinet_Min	v1	EUconst	v1	11530	6669	4	.03	.05
+ELRC-393-Estonian_Cabinet_Min	v1	Tatoeba	v2023-04-12	11530	2538	4	.03	.15
 ELRC-393-Estonian_Cabinet_Min	v1	Tatoeba	v2021-07-22	11530	2448	4	.03	.16
 ELRC-393-Estonian_Cabinet_Min	v1	Tatoeba	v2022-03-03	11530	2448	4	.03	.16
 ELRC-393-Estonian_Cabinet_Min	v1	Tatoeba	v2021-03-10	11530	2438	4	.03	.16
@@ -36,6 +45,8 @@ ELRC-393-Estonian_Cabinet_Min	v1	TED2020	v1	11530	22985	3	.02	.01
 ELRC-393-Estonian_Cabinet_Min	v1	NeuLab-TedTalks	v1	11530	11827	3	.02	.02
 ELRC-393-Estonian_Cabinet_Min	v1	Tatoeba	v2020-05-31	11530	2351	3	.02	.12
 ELRC-393-Estonian_Cabinet_Min	v1	Tatoeba	v20190709	11530	2344	3	.02	.12
+ELRC-393-Estonian_Cabinet_Min	v1	MultiParaCrawl	v7.1	11530	3180465	2	.01	0
+ELRC-393-Estonian_Cabinet_Min	v1	wikimedia	v20230407	11530	23146	2	.01	0
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-2882-EU_publications_medi	v1	11530	13006	2	.01	.01
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-EU_publications	v1	11530	13006	2	.01	.01
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-940-president.ee	v1	11530	6933	2	.01	.02
@@ -44,6 +55,8 @@ ELRC-393-Estonian_Cabinet_Min	v1	Tatoeba	v2	11530	679	2	.01	.29
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-3300-EUROPARL_covid	v1	11530	632	2	.01	.31
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-EUROPARL_covid	v1	11530	632	2	.01	.31
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-3554-www.kriis.ee	v1	11530	433	2	.01	.46
+ELRC-393-Estonian_Cabinet_Min	v1	ParaCrawl	v7.1	11530	3180464	1	0	0
+ELRC-393-Estonian_Cabinet_Min	v1	ParaCrawl	v4	11530	848980	0	0	0
 ELRC-393-Estonian_Cabinet_Min	v1	WikiMatrix	v1	11530	243870	1	0	0
 ELRC-393-Estonian_Cabinet_Min	v1	ECB	v1	11530	119327	1	0	0
 ELRC-393-Estonian_Cabinet_Min	v1	ELRC-5067-SciPar	v1	11530	83479	1	0	0

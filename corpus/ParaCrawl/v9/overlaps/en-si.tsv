@@ -1,12 +1,19 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+ParaCrawl	v9	MultiParaCrawl	v7.1	210613	210613	210613	100.00	100.00
+ParaCrawl	v9	ParaCrawl	v8	210613	210613	210613	100.00	100.00
+ParaCrawl	v9	ParaCrawl	v7.1	210613	210612	199986	94.95	94.95
+ParaCrawl	v9	MultiCCAligned	v1	210613	616352	23351	11.08	3.78
 ParaCrawl	v9	CCAligned	v1	210613	616340	23351	11.08	3.78
 ParaCrawl	v9	CCMatrix	v1	210613	6246221	3747	1.77	.05
+ParaCrawl	v9	NLLB	v1	210613	24088614	3067	1.45	.01
 ParaCrawl	v9	XLEnt	v1.1	210613	679741	431	.20	.06
 ParaCrawl	v9	XLEnt	v1	210613	679741	431	.20	.06
 ParaCrawl	v9	XLEnt	v1.2	210613	679741	431	.20	.06
 ParaCrawl	v9	KDE4	v2	210613	25287	50	.02	.19
 ParaCrawl	v9	Ubuntu	v14.10	210613	5727	44	.02	.76
 ParaCrawl	v9	OpenSubtitles	v2018	210613	537560	31	.01	0
+ParaCrawl	v9	OpenSubtitles	v2016	210613	355268	22	.01	0
+ParaCrawl	v9	wikimedia	v20230407	210613	10766	28	.01	.26
 ParaCrawl	v9	WikiMatrix	v1	210613	115045	3	0	0
 ParaCrawl	v9	wikimedia	v20210402	210613	7439	21	0	.28
 ParaCrawl	v9	wikimedia	v20190628	210613	6301	19	0	.30
@@ -15,6 +22,7 @@ ParaCrawl	v9	QED	v2.0a	210613	1557	0	0	0
 ParaCrawl	v9	TED2020	v1	210613	1027	2	0	.19
 ParaCrawl	v9	Tatoeba	v2021-07-22	210613	48	1	0	2.08
 ParaCrawl	v9	Tatoeba	v2022-03-03	210613	48	1	0	2.08
+ParaCrawl	v9	Tatoeba	v2023-04-12	210613	48	1	0	2.08
 ParaCrawl	v9	Tatoeba	v2020-11-09	210613	46	1	0	2.17
 ParaCrawl	v9	Tatoeba	v2021-03-10	210613	46	1	0	2.17
 ParaCrawl	v9	Tatoeba	v20190709	210613	45	0	0	0

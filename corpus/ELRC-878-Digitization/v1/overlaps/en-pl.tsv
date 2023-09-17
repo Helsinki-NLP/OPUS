@@ -1,10 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-878-Digitization	v1	ELRA-W0255	v1	1637	1636	1632	99.69	99.75
 ELRC-878-Digitization	v1	CCMatrix	v1	1637	73625347	4	.24	0
+ELRC-878-Digitization	v1	NLLB	v1	1637	73623674	4	.24	0
+ELRC-878-Digitization	v1	ParaCrawl	v8	1637	45358407	3	.18	0
 ELRC-878-Digitization	v1	ParaCrawl	v9	1637	40082038	3	.18	0
+ELRC-878-Digitization	v1	MultiParaCrawl	v7.1	1637	13744836	3	.18	0
 ELRC-878-Digitization	v1	TildeMODEL	v2018	1637	2124677	3	.18	0
 ELRC-878-Digitization	v1	ELRC-3575-EUR_LEX_covid	v1	1637	22105	3	.18	.01
 ELRC-878-Digitization	v1	ELRC-EUR_LEX	v1	1637	22105	3	.18	.01
+ELRC-878-Digitization	v1	MultiCCAligned	v1	1637	25790086	2	.12	0
+ELRC-878-Digitization	v1	ParaCrawl	v7.1	1637	13744835	2	.12	0
 ELRC-878-Digitization	v1	CCAligned	v1	1637	12846330	2	.12	0
 ELRC-878-Digitization	v1	XLEnt	v1.1	1637	5202602	2	.12	0
 ELRC-878-Digitization	v1	XLEnt	v1	1637	5202602	2	.12	0
@@ -15,6 +20,7 @@ ELRC-878-Digitization	v1	ELRC-EU_publications	v1	1637	12751	2	.12	.01
 ELRC-878-Digitization	v1	ELRC-968-Digital_Affairs	v1	1637	949	2	.12	.21
 ELRC-878-Digitization	v1	LinguaTools-WikiTitles	v2014	1637	8003882	1	.06	0
 ELRC-878-Digitization	v1	DGT	v2019	1637	3659053	1	.06	0
+ELRC-878-Digitization	v1	DGT	v4	1637	1966769	1	.06	0
 ELRC-878-Digitization	v1	ELRC-5067-SciPar	v1	1637	862076	1	.06	0
 ELRC-878-Digitization	v1	ELRC-2726-EMEA	v1	1637	756950	1	.06	0
 ELRC-878-Digitization	v1	ELRC-EMEA	v1	1637	756950	1	.06	0
@@ -29,6 +35,8 @@ ELRC-878-Digitization	v1	NeuLab-TedTalks	v1	1637	185955	1	.06	0
 ELRC-878-Digitization	v1	EuroPat	v2	1637	88959	1	.06	0
 ELRC-878-Digitization	v1	ELRC-1120-CORDIS_News	v1	1637	87745	1	.06	0
 ELRC-878-Digitization	v1	ELRC-CORDIS_News	v1	1637	87745	1	.06	0
+ELRC-878-Digitization	v1	wikimedia	v20230407	1637	72787	1	.06	0
+ELRC-878-Digitization	v1	Tatoeba	v2023-04-12	1637	55895	1	.06	0
 ELRC-878-Digitization	v1	Tatoeba	v2022-03-03	1637	54736	1	.06	0
 ELRC-878-Digitization	v1	Tatoeba	v2021-07-22	1637	54279	1	.06	0
 ELRC-878-Digitization	v1	Tatoeba	v2021-03-10	1637	54235	1	.06	0
@@ -118,7 +126,12 @@ ELRC-878-Digitization	v1	ELRC-873-Development	v1	1637	82	1	.06	1.21
 ELRC-878-Digitization	v1	ELRC-648-Letter_rights_person	v1	1637	63	1	.06	1.58
 ELRC-878-Digitization	v1	ELRC-403-Rights_Arrested	v1	1637	24	1	.06	4.16
 ELRC-878-Digitization	v1	OpenSubtitles	v2018	1637	34512858	0	0	0
+ELRC-878-Digitization	v1	OpenSubtitles	v2016	1637	22955941	0	0	0
+ELRC-878-Digitization	v1	ParaCrawl	v5	1637	6336749	0	0	0
+ELRC-878-Digitization	v1	ParaCrawl	v4	1637	3483752	0	0	0
+ELRC-878-Digitization	v1	ParaCrawl	v1	1637	1270691	0	0	0
 ELRC-878-Digitization	v1	Europarl	v8	1637	613356	0	0	0
+ELRC-878-Digitization	v1	Europarl	v7	1637	612713	0	0	0
 ELRC-878-Digitization	v1	QED	v2.0a	1637	482625	0	0	0
 ELRC-878-Digitization	v1	EMEA	v3	1637	343975	0	0	0
 ELRC-878-Digitization	v1	Wikipedia	v1.0	1637	168603	0	0	0

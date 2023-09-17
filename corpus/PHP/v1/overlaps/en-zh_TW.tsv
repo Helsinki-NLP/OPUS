@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 PHP	v1	KDE4	v2	18301	123600	7	.03	0
+PHP	v1	NLLB	v1	18301	11885493	0	0	0
+PHP	v1	MultiCCAligned	v1	18301	8643044	1	0	0
 PHP	v1	CCAligned	v1	18301	8642876	1	0	0
 PHP	v1	Ubuntu	v14.10	18301	4806	0	0	0
 PHP	v1	GNOME	v1	18301	77	0	0	0

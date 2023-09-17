@@ -1,13 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-882-Culture_Heritage	v1	ELRA-W0257	v1	650	649	646	99.38	99.53
 ELRC-882-Culture_Heritage	v1	ParaCrawl	v9	650	40082038	64	9.84	0
+ELRC-882-Culture_Heritage	v1	ParaCrawl	v8	650	45358407	60	9.23	0
 ELRC-882-Culture_Heritage	v1	CCMatrix	v1	650	73625347	8	1.23	0
+ELRC-882-Culture_Heritage	v1	NLLB	v1	650	73623674	8	1.23	0
+ELRC-882-Culture_Heritage	v1	MultiCCAligned	v1	650	25790086	4	.61	0
 ELRC-882-Culture_Heritage	v1	CCAligned	v1	650	12846330	4	.61	0
+ELRC-882-Culture_Heritage	v1	MultiParaCrawl	v7.1	650	13744836	2	.30	0
 ELRC-882-Culture_Heritage	v1	XLEnt	v1.1	650	5202602	2	.30	0
 ELRC-882-Culture_Heritage	v1	XLEnt	v1.2	650	5202602	2	.30	0
 ELRC-882-Culture_Heritage	v1	XLEnt	v1	650	5202602	2	.30	0
+ELRC-882-Culture_Heritage	v1	ParaCrawl	v7.1	650	13744835	1	.15	0
 ELRC-882-Culture_Heritage	v1	LinguaTools-WikiTitles	v2014	650	8003882	1	.15	0
 ELRC-882-Culture_Heritage	v1	DGT	v2019	650	3659053	1	.15	0
+ELRC-882-Culture_Heritage	v1	DGT	v4	650	1966769	1	.15	0
+ELRC-882-Culture_Heritage	v1	ParaCrawl	v1	650	1270691	1	.15	0
 ELRC-882-Culture_Heritage	v1	JRC-Acquis	v3.0	650	1048242	1	.15	0
 ELRC-882-Culture_Heritage	v1	ELRC-5067-SciPar	v1	650	862076	1	.15	0
 ELRC-882-Culture_Heritage	v1	ELRC-2726-EMEA	v1	650	756950	1	.15	0
@@ -23,6 +30,8 @@ ELRC-882-Culture_Heritage	v1	NeuLab-TedTalks	v1	650	185955	1	.15	0
 ELRC-882-Culture_Heritage	v1	EuroPat	v2	650	88959	1	.15	0
 ELRC-882-Culture_Heritage	v1	ELRC-1120-CORDIS_News	v1	650	87745	1	.15	0
 ELRC-882-Culture_Heritage	v1	ELRC-CORDIS_News	v1	650	87745	1	.15	0
+ELRC-882-Culture_Heritage	v1	wikimedia	v20230407	650	72787	1	.15	0
+ELRC-882-Culture_Heritage	v1	Tatoeba	v2023-04-12	650	55895	1	.15	0
 ELRC-882-Culture_Heritage	v1	Tatoeba	v2022-03-03	650	54736	1	.15	0
 ELRC-882-Culture_Heritage	v1	Tatoeba	v2021-07-22	650	54279	1	.15	0
 ELRC-882-Culture_Heritage	v1	Tatoeba	v2021-03-10	650	54235	1	.15	0
@@ -116,8 +125,12 @@ ELRC-882-Culture_Heritage	v1	ELRC-873-Development	v1	650	82	1	.15	1.21
 ELRC-882-Culture_Heritage	v1	ELRC-648-Letter_rights_person	v1	650	63	1	.15	1.58
 ELRC-882-Culture_Heritage	v1	ELRC-403-Rights_Arrested	v1	650	24	1	.15	4.16
 ELRC-882-Culture_Heritage	v1	OpenSubtitles	v2018	650	34512858	0	0	0
+ELRC-882-Culture_Heritage	v1	OpenSubtitles	v2016	650	22955941	0	0	0
+ELRC-882-Culture_Heritage	v1	ParaCrawl	v5	650	6336749	0	0	0
+ELRC-882-Culture_Heritage	v1	ParaCrawl	v4	650	3483752	0	0	0
 ELRC-882-Culture_Heritage	v1	TildeMODEL	v2018	650	2124677	0	0	0
 ELRC-882-Culture_Heritage	v1	Europarl	v8	650	613356	0	0	0
+ELRC-882-Culture_Heritage	v1	Europarl	v7	650	612713	0	0	0
 ELRC-882-Culture_Heritage	v1	QED	v2.0a	650	482625	0	0	0
 ELRC-882-Culture_Heritage	v1	EMEA	v3	650	343975	0	0	0
 ELRC-882-Culture_Heritage	v1	Wikipedia	v1.0	650	168603	0	0	0

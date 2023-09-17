@@ -1,11 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-403-Rights_Arrested	v1	ELRA-W0301	v1	24	21	20	83.33	95.23
 ELRC-403-Rights_Arrested	v1	DGT	v2019	24	3659053	10	41.66	0
+ELRC-403-Rights_Arrested	v1	DGT	v4	24	1966769	10	41.66	0
 ELRC-403-Rights_Arrested	v1	CCMatrix	v1	24	73625347	9	37.50	0
+ELRC-403-Rights_Arrested	v1	NLLB	v1	24	73623674	9	37.50	0
 ELRC-403-Rights_Arrested	v1	ParaCrawl	v9	24	40082038	5	20.83	0
 ELRC-403-Rights_Arrested	v1	ELRC-648-Letter_rights_person	v1	24	63	5	20.83	7.93
 ELRC-403-Rights_Arrested	v1	TildeMODEL	v2018	24	2124677	4	16.66	0
 ELRC-403-Rights_Arrested	v1	ELRA-W0308	v1	24	70	4	16.66	5.71
+ELRC-403-Rights_Arrested	v1	ParaCrawl	v8	24	45358407	1	4.16	0
+ELRC-403-Rights_Arrested	v1	MultiCCAligned	v1	24	25790086	1	4.16	0
+ELRC-403-Rights_Arrested	v1	MultiParaCrawl	v7.1	24	13744836	1	4.16	0
 ELRC-403-Rights_Arrested	v1	CCAligned	v1	24	12846330	1	4.16	0
 ELRC-403-Rights_Arrested	v1	LinguaTools-WikiTitles	v2014	24	8003882	1	4.16	0
 ELRC-403-Rights_Arrested	v1	XLEnt	v1.1	24	5202602	1	4.16	0
@@ -24,6 +29,8 @@ ELRC-403-Rights_Arrested	v1	NeuLab-TedTalks	v1	24	185955	1	4.16	0
 ELRC-403-Rights_Arrested	v1	EuroPat	v2	24	88959	1	4.16	0
 ELRC-403-Rights_Arrested	v1	ELRC-1120-CORDIS_News	v1	24	87745	1	4.16	0
 ELRC-403-Rights_Arrested	v1	ELRC-CORDIS_News	v1	24	87745	1	4.16	0
+ELRC-403-Rights_Arrested	v1	wikimedia	v20230407	24	72787	1	4.16	0
+ELRC-403-Rights_Arrested	v1	Tatoeba	v2023-04-12	24	55895	1	4.16	0
 ELRC-403-Rights_Arrested	v1	Tatoeba	v2022-03-03	24	54736	1	4.16	0
 ELRC-403-Rights_Arrested	v1	Tatoeba	v2021-07-22	24	54279	1	4.16	0
 ELRC-403-Rights_Arrested	v1	Tatoeba	v2021-03-10	24	54235	1	4.16	0
@@ -116,8 +123,14 @@ ELRC-403-Rights_Arrested	v1	ELRC-417-Swedish_Work_Environ	v1	24	130	1	4.16	.76
 ELRC-403-Rights_Arrested	v1	ELRC-416-Swedish_Social_Secur	v1	24	111	1	4.16	.90
 ELRC-403-Rights_Arrested	v1	ELRC-873-Development	v1	24	82	1	4.16	1.21
 ELRC-403-Rights_Arrested	v1	OpenSubtitles	v2018	24	34512858	0	0	0
+ELRC-403-Rights_Arrested	v1	OpenSubtitles	v2016	24	22955941	0	0	0
+ELRC-403-Rights_Arrested	v1	ParaCrawl	v7.1	24	13744835	0	0	0
+ELRC-403-Rights_Arrested	v1	ParaCrawl	v5	24	6336749	0	0	0
+ELRC-403-Rights_Arrested	v1	ParaCrawl	v4	24	3483752	0	0	0
+ELRC-403-Rights_Arrested	v1	ParaCrawl	v1	24	1270691	0	0	0
 ELRC-403-Rights_Arrested	v1	JRC-Acquis	v3.0	24	1048242	0	0	0
 ELRC-403-Rights_Arrested	v1	Europarl	v8	24	613356	0	0	0
+ELRC-403-Rights_Arrested	v1	Europarl	v7	24	612713	0	0	0
 ELRC-403-Rights_Arrested	v1	QED	v2.0a	24	482625	0	0	0
 ELRC-403-Rights_Arrested	v1	EUbookshop	v2	24	461498	0	0	0
 ELRC-403-Rights_Arrested	v1	EMEA	v3	24	343975	0	0	0

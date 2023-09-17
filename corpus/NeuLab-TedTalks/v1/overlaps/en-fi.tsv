@@ -1,13 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 NeuLab-TedTalks	v1	TED2020	v1	26177	43555	19631	74.99	45.07
 NeuLab-TedTalks	v1	QED	v2.0a	26177	96483	10900	41.63	11.29
+NeuLab-TedTalks	v1	ParaCrawl	v8	26177	15301964	2244	8.57	.01
 NeuLab-TedTalks	v1	ParaCrawl	v9	26177	31315288	2150	8.21	0
+NeuLab-TedTalks	v1	MultiParaCrawl	v7.1	26177	7268809	1682	6.42	.02
+NeuLab-TedTalks	v1	ParaCrawl	v7.1	26177	7268808	1681	6.42	.02
 NeuLab-TedTalks	v1	CCMatrix	v1	26177	35804134	555	2.12	0
+NeuLab-TedTalks	v1	NLLB	v1	26177	35803625	555	2.12	0
 NeuLab-TedTalks	v1	OpenSubtitles	v2018	26177	23382097	283	1.08	0
+NeuLab-TedTalks	v1	OpenSubtitles	v2016	26177	16640273	259	.98	0
+NeuLab-TedTalks	v1	MultiCCAligned	v1	26177	9646186	156	.59	0
 NeuLab-TedTalks	v1	CCAligned	v1	26177	9646025	156	.59	0
 NeuLab-TedTalks	v1	OpenSubtitles	v1	26177	103215	59	.22	.05
 NeuLab-TedTalks	v1	ELRC-4239-NTEU_TierA	v1	26177	12577938	57	.21	0
 NeuLab-TedTalks	v1	Europarl	v8	26177	1920092	57	.21	0
+NeuLab-TedTalks	v1	Europarl	v7	26177	1919709	57	.21	0
+NeuLab-TedTalks	v1	Europarl	v3	26177	1233965	36	.13	0
+NeuLab-TedTalks	v1	ParaCrawl	v1	26177	618374	30	.11	0
+NeuLab-TedTalks	v1	Tatoeba	v2023-04-12	26177	81642	28	.10	.03
 NeuLab-TedTalks	v1	Tatoeba	v2022-03-03	26177	81194	28	.10	.03
 NeuLab-TedTalks	v1	Tatoeba	v2021-07-22	26177	80545	28	.10	.03
 NeuLab-TedTalks	v1	Tatoeba	v2021-03-10	26177	80040	28	.10	.03
@@ -17,6 +27,7 @@ NeuLab-TedTalks	v1	Tatoeba	v20190709	26177	78808	27	.10	.03
 NeuLab-TedTalks	v1	EUbookshop	v2	26177	1828277	13	.04	0
 NeuLab-TedTalks	v1	TildeMODEL	v2018	26177	3022117	8	.03	0
 NeuLab-TedTalks	v1	Tatoeba	v2	26177	12207	7	.02	.05
+NeuLab-TedTalks	v1	ParaCrawl	v5	26177	3076136	3	.01	0
 NeuLab-TedTalks	v1	ELRC-2708-EMEA	v1	26177	746684	3	.01	0
 NeuLab-TedTalks	v1	ELRC-EMEA	v1	26177	746684	3	.01	0
 NeuLab-TedTalks	v1	WikiMatrix	v1	26177	375724	3	.01	0
@@ -27,6 +38,8 @@ NeuLab-TedTalks	v1	DGT	v2019	26177	3624390	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1.1	26177	2501315	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1.2	26177	2501315	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1	26177	2501315	1	0	0
+NeuLab-TedTalks	v1	ParaCrawl	v4	26177	2142942	2	0	0
+NeuLab-TedTalks	v1	DGT	v4	26177	1951585	1	0	0
 NeuLab-TedTalks	v1	ELRC-5067-SciPar	v1	26177	457342	2	0	0
 NeuLab-TedTalks	v1	EMEA	v3	26177	352115	1	0	0
 NeuLab-TedTalks	v1	ELITR-ECA	v1	26177	321871	1	0	0
@@ -41,6 +54,7 @@ NeuLab-TedTalks	v1	ELRC-735-www.norden.org	v1	26177	42742	1	0	0
 NeuLab-TedTalks	v1	ELRC-www.norden.org	v1	26177	42742	1	0	0
 NeuLab-TedTalks	v1	ELRC-1127-www.vtv.fi	v1	26177	42629	1	0	0
 NeuLab-TedTalks	v1	ELRC-www.vtv.fi	v1	26177	42629	1	0	0
+NeuLab-TedTalks	v1	wikimedia	v20230407	26177	41022	1	0	0
 NeuLab-TedTalks	v1	wikimedia	v20210402	26177	32290	1	0	0
 NeuLab-TedTalks	v1	ELRC-1771-vnk.fi	v1	26177	31527	2	0	0
 NeuLab-TedTalks	v1	ELRC-vnk.fi	v1	26177	31527	2	0	0

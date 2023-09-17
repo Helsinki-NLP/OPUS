@@ -1,7 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-4338-University_Iceland	v1	CCMatrix	v1	9808	8678395	198	2.01	0
+ELRC-4338-University_Iceland	v1	NLLB	v1	9808	8678252	198	2.01	0
+ELRC-4338-University_Iceland	v1	ParaCrawl	v8	9808	5724257	114	1.16	0
 ELRC-4338-University_Iceland	v1	ParaCrawl	v9	9808	2967520	92	.93	0
 ELRC-4338-University_Iceland	v1	ParIce	v1	9808	1480222	89	.90	0
+ELRC-4338-University_Iceland	v1	MultiCCAligned	v1	9808	1186757	70	.71	0
 ELRC-4338-University_Iceland	v1	CCAligned	v1	9808	1186739	70	.71	0
 ELRC-4338-University_Iceland	v1	XLEnt	v1.1	9808	930819	29	.29	0
 ELRC-4338-University_Iceland	v1	XLEnt	v1.2	9808	930819	29	.29	0
@@ -17,8 +20,12 @@ ELRC-4338-University_Iceland	v1	ELRC-728-www.norden.org	v1	9808	41073	10	.10	.02
 ELRC-4338-University_Iceland	v1	ELRC-www.norden.org	v1	9808	41073	10	.10	.02
 ELRC-4338-University_Iceland	v1	ELRC-4327-Government_Offices_I	v1	9808	36262	10	.10	.02
 ELRC-4338-University_Iceland	v1	WikiTitles	v3	9808	46698	9	.09	.01
+ELRC-4338-University_Iceland	v1	MultiParaCrawl	v7.1	9808	2392423	8	.08	0
+ELRC-4338-University_Iceland	v1	OpenSubtitles	v2016	9808	1195814	8	.08	0
+ELRC-4338-University_Iceland	v1	ParaCrawl	v7.1	9808	2392422	7	.07	0
 ELRC-4338-University_Iceland	v1	EUbookshop	v2	9808	9221	6	.06	.06
 ELRC-4338-University_Iceland	v1	GNOME	v1	9808	5424	5	.05	.09
+ELRC-4338-University_Iceland	v1	wikimedia	v20230407	9808	4394	5	.05	.11
 ELRC-4338-University_Iceland	v1	wikimedia	v20210402	9808	2274	5	.05	.21
 ELRC-4338-University_Iceland	v1	Ubuntu	v14.10	9808	2126	4	.04	.18
 ELRC-4338-University_Iceland	v1	QED	v2.0a	9808	26217	2	.02	0
@@ -28,6 +35,7 @@ ELRC-4338-University_Iceland	v1	wikimedia	v20190628	9808	563	2	.02	.35
 ELRC-4338-University_Iceland	v1	ELRC-5067-SciPar	v1	9808	110831	1	.01	0
 ELRC-4338-University_Iceland	v1	WikiMatrix	v1	9808	85992	1	.01	0
 ELRC-4338-University_Iceland	v1	ELRC-4295-www.malfong.is	v1	9808	12225	1	.01	0
+ELRC-4338-University_Iceland	v1	Tatoeba	v2023-04-12	9808	9595	1	.01	.01
 ELRC-4338-University_Iceland	v1	Tatoeba	v2022-03-03	9808	9518	1	.01	.01
 ELRC-4338-University_Iceland	v1	Tatoeba	v2021-03-10	9808	9440	1	.01	.01
 ELRC-4338-University_Iceland	v1	Tatoeba	v2021-07-22	9808	9440	1	.01	.01

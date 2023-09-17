@@ -1,7 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-947-Polish_Aid	v1	ELRA-W0275	v1	4568	4567	4555	99.71	99.73
+ELRC-947-Polish_Aid	v1	ParaCrawl	v8	4568	45358407	2449	53.61	0
 ELRC-947-Polish_Aid	v1	ParaCrawl	v9	4568	40082038	2322	50.83	0
+ELRC-947-Polish_Aid	v1	MultiParaCrawl	v7.1	4568	13744836	2185	47.83	.01
+ELRC-947-Polish_Aid	v1	ParaCrawl	v7.1	4568	13744835	2179	47.70	.01
 ELRC-947-Polish_Aid	v1	CCMatrix	v1	4568	73625347	1966	43.03	0
+ELRC-947-Polish_Aid	v1	NLLB	v1	4568	73623674	1966	43.03	0
+ELRC-947-Polish_Aid	v1	ParaCrawl	v5	4568	6336749	1310	28.67	.02
+ELRC-947-Polish_Aid	v1	ParaCrawl	v4	4568	3483752	177	3.87	0
+ELRC-947-Polish_Aid	v1	ParaCrawl	v1	4568	1270691	134	2.93	.01
+ELRC-947-Polish_Aid	v1	MultiCCAligned	v1	4568	25790086	7	.15	0
 ELRC-947-Polish_Aid	v1	CCAligned	v1	4568	12846330	7	.15	0
 ELRC-947-Polish_Aid	v1	XLEnt	v1.1	4568	5202602	3	.06	0
 ELRC-947-Polish_Aid	v1	XLEnt	v1.2	4568	5202602	3	.06	0
@@ -9,6 +17,7 @@ ELRC-947-Polish_Aid	v1	XLEnt	v1	4568	5202602	3	.06	0
 ELRC-947-Polish_Aid	v1	TildeMODEL	v2018	4568	2124677	3	.06	0
 ELRC-947-Polish_Aid	v1	LinguaTools-WikiTitles	v2014	4568	8003882	2	.04	0
 ELRC-947-Polish_Aid	v1	DGT	v2019	4568	3659053	2	.04	0
+ELRC-947-Polish_Aid	v1	DGT	v4	4568	1966769	2	.04	0
 ELRC-947-Polish_Aid	v1	ELRC-884-Interior_Administrat	v1	4568	611	2	.04	.32
 ELRC-947-Polish_Aid	v1	JRC-Acquis	v3.0	4568	1048242	1	.02	0
 ELRC-947-Polish_Aid	v1	ELRC-5067-SciPar	v1	4568	862076	1	.02	0
@@ -25,6 +34,8 @@ ELRC-947-Polish_Aid	v1	NeuLab-TedTalks	v1	4568	185955	1	.02	0
 ELRC-947-Polish_Aid	v1	EuroPat	v2	4568	88959	1	.02	0
 ELRC-947-Polish_Aid	v1	ELRC-1120-CORDIS_News	v1	4568	87745	1	.02	0
 ELRC-947-Polish_Aid	v1	ELRC-CORDIS_News	v1	4568	87745	1	.02	0
+ELRC-947-Polish_Aid	v1	wikimedia	v20230407	4568	72787	1	.02	0
+ELRC-947-Polish_Aid	v1	Tatoeba	v2023-04-12	4568	55895	1	.02	0
 ELRC-947-Polish_Aid	v1	Tatoeba	v2022-03-03	4568	54736	1	.02	0
 ELRC-947-Polish_Aid	v1	Tatoeba	v2021-07-22	4568	54279	1	.02	0
 ELRC-947-Polish_Aid	v1	Tatoeba	v2021-03-10	4568	54235	1	.02	0
@@ -118,7 +129,9 @@ ELRC-947-Polish_Aid	v1	ELRC-873-Development	v1	4568	82	1	.02	1.21
 ELRC-947-Polish_Aid	v1	ELRC-648-Letter_rights_person	v1	4568	63	1	.02	1.58
 ELRC-947-Polish_Aid	v1	ELRC-403-Rights_Arrested	v1	4568	24	1	.02	4.16
 ELRC-947-Polish_Aid	v1	OpenSubtitles	v2018	4568	34512858	0	0	0
+ELRC-947-Polish_Aid	v1	OpenSubtitles	v2016	4568	22955941	0	0	0
 ELRC-947-Polish_Aid	v1	Europarl	v8	4568	613356	0	0	0
+ELRC-947-Polish_Aid	v1	Europarl	v7	4568	612713	0	0	0
 ELRC-947-Polish_Aid	v1	QED	v2.0a	4568	482625	0	0	0
 ELRC-947-Polish_Aid	v1	EMEA	v3	4568	343975	0	0	0
 ELRC-947-Polish_Aid	v1	Wikipedia	v1.0	4568	168603	0	0	0

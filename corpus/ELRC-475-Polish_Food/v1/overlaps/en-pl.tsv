@@ -1,12 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-475-Polish_Food	v1	ELRA-W0177	v1	2959	2958	2955	99.86	99.89
 ELRC-475-Polish_Food	v1	OpenSubtitles	v2018	2959	34512858	8	.27	0
+ELRC-475-Polish_Food	v1	OpenSubtitles	v2016	2959	22955941	8	.27	0
+ELRC-475-Polish_Food	v1	MultiCCAligned	v1	2959	25790086	6	.20	0
 ELRC-475-Polish_Food	v1	CCAligned	v1	2959	12846330	6	.20	0
+ELRC-475-Polish_Food	v1	ParaCrawl	v8	2959	45358407	5	.16	0
 ELRC-475-Polish_Food	v1	ParaCrawl	v9	2959	40082038	5	.16	0
+ELRC-475-Polish_Food	v1	MultiParaCrawl	v7.1	2959	13744836	5	.16	0
+ELRC-475-Polish_Food	v1	ParaCrawl	v7.1	2959	13744835	4	.13	0
 ELRC-475-Polish_Food	v1	LinguaTools-WikiTitles	v2014	2959	8003882	2	.06	0
 ELRC-475-Polish_Food	v1	QED	v2.0a	2959	482625	2	.06	0
 ELRC-475-Polish_Food	v1	TED2020	v1	2959	293265	2	.06	0
 ELRC-475-Polish_Food	v1	NeuLab-TedTalks	v1	2959	185955	2	.06	0
+ELRC-475-Polish_Food	v1	Tatoeba	v2023-04-12	2959	55895	2	.06	0
 ELRC-475-Polish_Food	v1	Tatoeba	v2022-03-03	2959	54736	2	.06	0
 ELRC-475-Polish_Food	v1	Tatoeba	v2021-07-22	2959	54279	2	.06	0
 ELRC-475-Polish_Food	v1	Tatoeba	v2021-03-10	2959	54235	2	.06	0
@@ -14,15 +20,19 @@ ELRC-475-Polish_Food	v1	Tatoeba	v2020-11-09	2959	54179	2	.06	0
 ELRC-475-Polish_Food	v1	OpenSubtitles	v1	2959	48573	2	.06	0
 ELRC-475-Polish_Food	v1	ELRC-478-Polish_Food_4	v1	2959	4305	2	.06	.04
 ELRC-475-Polish_Food	v1	CCMatrix	v1	2959	73625347	1	.03	0
+ELRC-475-Polish_Food	v1	NLLB	v1	2959	73623674	1	.03	0
+ELRC-475-Polish_Food	v1	ParaCrawl	v5	2959	6336749	1	.03	0
 ELRC-475-Polish_Food	v1	XLEnt	v1.1	2959	5202602	1	.03	0
 ELRC-475-Polish_Food	v1	XLEnt	v1.2	2959	5202602	1	.03	0
 ELRC-475-Polish_Food	v1	XLEnt	v1	2959	5202602	1	.03	0
 ELRC-475-Polish_Food	v1	TildeMODEL	v2018	2959	2124677	1	.03	0
+ELRC-475-Polish_Food	v1	ParaCrawl	v1	2959	1270691	1	.03	0
 ELRC-475-Polish_Food	v1	ELRC-5067-SciPar	v1	2959	862076	1	.03	0
 ELRC-475-Polish_Food	v1	ELRC-2726-EMEA	v1	2959	756950	1	.03	0
 ELRC-475-Polish_Food	v1	ELRC-EMEA	v1	2959	756950	1	.03	0
 ELRC-475-Polish_Food	v1	WikiMatrix	v1	2959	668647	1	.03	0
 ELRC-475-Polish_Food	v1	Europarl	v8	2959	613356	1	.03	0
+ELRC-475-Polish_Food	v1	Europarl	v7	2959	612713	1	.03	0
 ELRC-475-Polish_Food	v1	EuroPat	v3	2959	332120	1	.03	0
 ELRC-475-Polish_Food	v1	ELITR-ECA	v1	2959	257916	1	.03	0
 ELRC-475-Polish_Food	v1	ELRC-1124-CORDIS_Results_Brief	v1	2959	201566	1	.03	0
@@ -30,6 +40,7 @@ ELRC-475-Polish_Food	v1	ELRC-CORDIS_Results	v1	2959	201566	1	.03	0
 ELRC-475-Polish_Food	v1	EuroPat	v2	2959	88959	1	.03	0
 ELRC-475-Polish_Food	v1	ELRC-1120-CORDIS_News	v1	2959	87745	1	.03	0
 ELRC-475-Polish_Food	v1	ELRC-CORDIS_News	v1	2959	87745	1	.03	0
+ELRC-475-Polish_Food	v1	wikimedia	v20230407	2959	72787	1	.03	0
 ELRC-475-Polish_Food	v1	Tatoeba	v2020-05-31	2959	54143	1	.03	0
 ELRC-475-Polish_Food	v1	Tatoeba	v20190709	2959	53938	1	.03	0
 ELRC-475-Polish_Food	v1	wikimedia	v20210402	2959	51386	1	.03	0
@@ -121,6 +132,8 @@ ELRC-475-Polish_Food	v1	ELRC-873-Development	v1	2959	82	1	.03	1.21
 ELRC-475-Polish_Food	v1	ELRC-648-Letter_rights_person	v1	2959	63	1	.03	1.58
 ELRC-475-Polish_Food	v1	ELRC-403-Rights_Arrested	v1	2959	24	1	.03	4.16
 ELRC-475-Polish_Food	v1	DGT	v2019	2959	3659053	0	0	0
+ELRC-475-Polish_Food	v1	ParaCrawl	v4	2959	3483752	0	0	0
+ELRC-475-Polish_Food	v1	DGT	v4	2959	1966769	0	0	0
 ELRC-475-Polish_Food	v1	JRC-Acquis	v3.0	2959	1048242	0	0	0
 ELRC-475-Polish_Food	v1	EUbookshop	v2	2959	461498	0	0	0
 ELRC-475-Polish_Food	v1	EMEA	v3	2959	343975	0	0	0

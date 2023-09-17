@@ -1,19 +1,25 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-4142-NTEU_TierA	v1	1967	2273079	1961	99.69	.08
 ELRC-986-Embassy_Finland_Zagr	v1	ELRA-W0292	v1	1967	1966	1946	98.93	98.98
+ELRC-986-Embassy_Finland_Zagr	v1	MultiCCAligned	v1	1967	9327209	15	.76	0
 ELRC-986-Embassy_Finland_Zagr	v1	CCAligned	v1	1967	9327047	15	.76	0
 ELRC-986-Embassy_Finland_Zagr	v1	XLEnt	v1.1	1967	2717963	8	.40	0
 ELRC-986-Embassy_Finland_Zagr	v1	XLEnt	v1	1967	2717963	8	.40	0
 ELRC-986-Embassy_Finland_Zagr	v1	XLEnt	v1.2	1967	2717963	8	.40	0
 ELRC-986-Embassy_Finland_Zagr	v1	TildeMODEL	v2018	1967	736487	8	.40	0
 ELRC-986-Embassy_Finland_Zagr	v1	OpenSubtitles	v2018	1967	28591047	5	.25	0
+ELRC-986-Embassy_Finland_Zagr	v1	OpenSubtitles	v2016	1967	22002428	5	.25	0
+ELRC-986-Embassy_Finland_Zagr	v1	ParaCrawl	v8	1967	11063124	5	.25	0
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-2706-EMEA	v1	1967	644560	5	.25	0
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-EMEA	v1	1967	644560	5	.25	0
 ELRC-986-Embassy_Finland_Zagr	v1	CCMatrix	v1	1967	18694537	4	.20	0
+ELRC-986-Embassy_Finland_Zagr	v1	NLLB	v1	1967	18694206	4	.20	0
 ELRC-986-Embassy_Finland_Zagr	v1	KDE4	v2	1967	81410	4	.20	0
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-2866-EU_publications_medi	v1	1967	12820	4	.20	.03
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-EU_publications	v1	1967	12820	4	.20	.03
 ELRC-986-Embassy_Finland_Zagr	v1	DGT	v2019	1967	668790	3	.15	0
+ELRC-986-Embassy_Finland_Zagr	v1	wikimedia	v20230407	1967	40443	3	.15	0
+ELRC-986-Embassy_Finland_Zagr	v1	MultiParaCrawl	v7.1	1967	6959286	2	.10	0
 ELRC-986-Embassy_Finland_Zagr	v1	TED2020	v1	1967	192409	2	.10	0
 ELRC-986-Embassy_Finland_Zagr	v1	NeuLab-TedTalks	v1	1967	124970	2	.10	0
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-943-Journal_Croatian_Ass	v1	1967	18478	2	.10	.01
@@ -21,7 +27,10 @@ ELRC-986-Embassy_Finland_Zagr	v1	ELRC-1174-EUIPO_2017	v1	1967	17203	2	.10	.01
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-EUIPO_2017	v1	1967	17203	2	.10	.01
 ELRC-986-Embassy_Finland_Zagr	v1	Ubuntu	v14.10	1967	13128	2	.10	.01
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-788-Croatian_Bank	v1	1967	11708	2	.10	.01
+ELRC-986-Embassy_Finland_Zagr	v1	ParaCrawl	v7.1	1967	6959288	1	.05	0
 ELRC-986-Embassy_Finland_Zagr	v1	ParaCrawl	v9	1967	3240421	1	.05	0
+ELRC-986-Embassy_Finland_Zagr	v1	ParaCrawl	v5	1967	1846962	1	.05	0
+ELRC-986-Embassy_Finland_Zagr	v1	ParaCrawl	v4	1967	995511	1	.05	0
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-5067-SciPar	v1	1967	806581	1	.05	0
 ELRC-986-Embassy_Finland_Zagr	v1	WikiMatrix	v1	1967	259499	1	.05	0
 ELRC-986-Embassy_Finland_Zagr	v1	QED	v2.0a	1967	196487	1	.05	0
@@ -53,6 +62,7 @@ ELRC-986-Embassy_Finland_Zagr	v1	ELRC-989-Foreign_Affairs_Croa	v1	1967	3103	1	.0
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-Foreign_Affairs	v1	1967	3103	1	.05	.03
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-3478-EC_EUROPA_covid	v1	1967	2595	1	.05	.03
 ELRC-986-Embassy_Finland_Zagr	v1	ELRC-EC_EUROPA	v1	1967	2595	1	.05	.03
+ELRC-986-Embassy_Finland_Zagr	v1	Tatoeba	v2023-04-12	1967	2444	1	.05	.04
 ELRC-986-Embassy_Finland_Zagr	v1	Tatoeba	v2022-03-03	1967	2431	1	.05	.04
 ELRC-986-Embassy_Finland_Zagr	v1	Tatoeba	v2021-07-22	1967	2428	1	.05	.04
 ELRC-986-Embassy_Finland_Zagr	v1	Tatoeba	v2021-03-10	1967	2416	1	.05	.04

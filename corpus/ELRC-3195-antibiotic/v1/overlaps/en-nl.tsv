@@ -1,12 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3195-antibiotic	v1	ELRC-antibiotic	v1	805	805	805	100.00	100.00
+ELRC-3195-antibiotic	v1	ParaCrawl	v8	805	98473905	354	43.97	0
 ELRC-3195-antibiotic	v1	ParaCrawl	v9	805	89135870	233	28.94	0
 ELRC-3195-antibiotic	v1	CCMatrix	v1	805	106106500	156	19.37	0
+ELRC-3195-antibiotic	v1	NLLB	v1	805	106104992	156	19.37	0
+ELRC-3195-antibiotic	v1	MultiCCAligned	v1	805	36001309	4	.49	0
 ELRC-3195-antibiotic	v1	CCAligned	v1	805	13043190	4	.49	0
 ELRC-3195-antibiotic	v1	ELRC-2707-EMEA	v1	805	755014	3	.37	0
 ELRC-3195-antibiotic	v1	ELRC-EMEA	v1	805	755014	3	.37	0
+ELRC-3195-antibiotic	v1	MultiParaCrawl	v7.1	805	31295016	2	.24	0
 ELRC-3195-antibiotic	v1	WikiMatrix	v1	805	796508	2	.24	0
 ELRC-3195-antibiotic	v1	KDE4	v2	805	161655	2	.24	0
+ELRC-3195-antibiotic	v1	wikimedia	v20230407	805	106677	2	.24	0
 ELRC-3195-antibiotic	v1	GlobalVoices	v2018q4	805	40766	2	.24	0
 ELRC-3195-antibiotic	v1	ELRC-3558-EUR_LEX_covid	v1	805	22463	2	.24	0
 ELRC-3195-antibiotic	v1	ELRC-EUR_LEX	v1	805	22463	2	.24	0
@@ -14,7 +19,9 @@ ELRC-3195-antibiotic	v1	ELRC-2024-EUIPO_2017	v1	805	17238	2	.24	.01
 ELRC-3195-antibiotic	v1	ELRC-EUIPO_2017	v1	805	17238	2	.24	.01
 ELRC-3195-antibiotic	v1	ELRC-2742-vaccination	v1	805	495	2	.24	.40
 ELRC-3195-antibiotic	v1	ELRC-vaccination	v1	805	495	2	.24	.40
+ELRC-3195-antibiotic	v1	ParaCrawl	v7.1	805	31295015	1	.12	0
 ELRC-3195-antibiotic	v1	OpenSubtitles	v2018	805	30779675	1	.12	0
+ELRC-3195-antibiotic	v1	OpenSubtitles	v2016	805	24279928	1	.12	0
 ELRC-3195-antibiotic	v1	LinguaTools-WikiTitles	v2014	805	6757629	1	.12	0
 ELRC-3195-antibiotic	v1	XLEnt	v1.1	805	5789605	1	.12	0
 ELRC-3195-antibiotic	v1	XLEnt	v1.2	805	5789605	1	.12	0
@@ -22,12 +29,17 @@ ELRC-3195-antibiotic	v1	XLEnt	v1	805	5789605	1	.12	0
 ELRC-3195-antibiotic	v1	EUbookshop	v2	805	5367397	1	.12	0
 ELRC-3195-antibiotic	v1	DGT	v2019	805	3543639	1	.12	0
 ELRC-3195-antibiotic	v1	TildeMODEL	v2018	805	3481744	1	.12	0
+ELRC-3195-antibiotic	v1	ParaCrawl	v1	805	2552000	1	.12	0
 ELRC-3195-antibiotic	v1	Europarl	v8	805	1986220	1	.12	0
+ELRC-3195-antibiotic	v1	Europarl	v7	805	1985837	1	.12	0
+ELRC-3195-antibiotic	v1	DGT	v4	805	1945115	1	.12	0
+ELRC-3195-antibiotic	v1	Europarl	v3	805	1291768	1	.12	0
 ELRC-3195-antibiotic	v1	QED	v2.0a	805	385191	1	.12	0
 ELRC-3195-antibiotic	v1	TED2020	v1	805	312281	1	.12	0
 ELRC-3195-antibiotic	v1	ELITR-ECA	v1	805	249246	1	.12	0
 ELRC-3195-antibiotic	v1	NeuLab-TedTalks	v1	805	200570	1	.12	0
 ELRC-3195-antibiotic	v1	Ubuntu	v14.10	805	110108	1	.12	0
+ELRC-3195-antibiotic	v1	Tatoeba	v2023-04-12	805	79518	1	.12	0
 ELRC-3195-antibiotic	v1	Tatoeba	v2022-03-03	805	75815	1	.12	0
 ELRC-3195-antibiotic	v1	Tatoeba	v2021-07-22	805	75072	1	.12	0
 ELRC-3195-antibiotic	v1	Tatoeba	v2021-03-10	805	74031	1	.12	0
@@ -57,6 +69,8 @@ ELRC-3195-antibiotic	v1	ELRC-2638-monumentos_2007	v1	805	4	1	.12	25.00
 ELRC-3195-antibiotic	v1	ELRC-Artigos_visitportuga	v1	805	4	1	.12	25.00
 ELRC-3195-antibiotic	v1	ELRC-2614-Localidades_2007	v1	805	3	1	.12	33.33
 ELRC-3195-antibiotic	v1	ELRC-Localidades_2007	v1	805	3	1	.12	33.33
+ELRC-3195-antibiotic	v1	ParaCrawl	v5	805	10509072	0	0	0
+ELRC-3195-antibiotic	v1	ParaCrawl	v4	805	5630021	0	0	0
 ELRC-3195-antibiotic	v1	Wikipedia	v1.0	805	791459	0	0	0
 ELRC-3195-antibiotic	v1	JRC-Acquis	v3.0	805	502276	0	0	0
 ELRC-3195-antibiotic	v1	Tanzil	v1	805	372432	0	0	0

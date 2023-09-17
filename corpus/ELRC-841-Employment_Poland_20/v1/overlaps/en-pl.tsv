@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-841-Employment_Poland_20	v1	ELRA-W0242	v1	2715	2714	2714	99.96	100.00
+ELRC-841-Employment_Poland_20	v1	MultiCCAligned	v1	2715	25790086	3	.11	0
 ELRC-841-Employment_Poland_20	v1	CCAligned	v1	2715	12846330	3	.11	0
 ELRC-841-Employment_Poland_20	v1	XLEnt	v1.1	2715	5202602	3	.11	0
 ELRC-841-Employment_Poland_20	v1	XLEnt	v1.2	2715	5202602	3	.11	0
@@ -7,6 +8,7 @@ ELRC-841-Employment_Poland_20	v1	XLEnt	v1	2715	5202602	3	.11	0
 ELRC-841-Employment_Poland_20	v1	LinguaTools-WikiTitles	v2014	2715	8003882	2	.07	0
 ELRC-841-Employment_Poland_20	v1	DGT	v2019	2715	3659053	2	.07	0
 ELRC-841-Employment_Poland_20	v1	TildeMODEL	v2018	2715	2124677	2	.07	0
+ELRC-841-Employment_Poland_20	v1	DGT	v4	2715	1966769	2	.07	0
 ELRC-841-Employment_Poland_20	v1	JRC-Acquis	v3.0	2715	1048242	2	.07	0
 ELRC-841-Employment_Poland_20	v1	ELRC-2726-EMEA	v1	2715	756950	2	.07	0
 ELRC-841-Employment_Poland_20	v1	ELRC-EMEA	v1	2715	756950	2	.07	0
@@ -20,7 +22,10 @@ ELRC-841-Employment_Poland_20	v1	ELRC-962-Regional_Development	v1	2715	1356	2	.0
 ELRC-841-Employment_Poland_20	v1	ELRC-Regional_Development	v1	2715	1356	2	.07	.14
 ELRC-841-Employment_Poland_20	v1	ELRC-3855-SWPS_University_Soci	v1	2715	1260	2	.07	.15
 ELRC-841-Employment_Poland_20	v1	ELRC-979-Audiovisual_Institut	v1	2715	803	2	.07	.24
+ELRC-841-Employment_Poland_20	v1	ParaCrawl	v8	2715	45358407	1	.03	0
 ELRC-841-Employment_Poland_20	v1	ParaCrawl	v9	2715	40082038	1	.03	0
+ELRC-841-Employment_Poland_20	v1	MultiParaCrawl	v7.1	2715	13744836	1	.03	0
+ELRC-841-Employment_Poland_20	v1	ParaCrawl	v1	2715	1270691	1	.03	0
 ELRC-841-Employment_Poland_20	v1	ELRC-5067-SciPar	v1	2715	862076	1	.03	0
 ELRC-841-Employment_Poland_20	v1	WikiMatrix	v1	2715	668647	1	.03	0
 ELRC-841-Employment_Poland_20	v1	EMEA	v3	2715	343975	1	.03	0
@@ -34,6 +39,8 @@ ELRC-841-Employment_Poland_20	v1	EuroPat	v2	2715	88959	1	.03	0
 ELRC-841-Employment_Poland_20	v1	ELRC-1120-CORDIS_News	v1	2715	87745	1	.03	0
 ELRC-841-Employment_Poland_20	v1	ELRC-CORDIS_News	v1	2715	87745	1	.03	0
 ELRC-841-Employment_Poland_20	v1	ECB	v1	2715	73127	1	.03	0
+ELRC-841-Employment_Poland_20	v1	wikimedia	v20230407	2715	72787	1	.03	0
+ELRC-841-Employment_Poland_20	v1	Tatoeba	v2023-04-12	2715	55895	1	.03	0
 ELRC-841-Employment_Poland_20	v1	Tatoeba	v2022-03-03	2715	54736	1	.03	0
 ELRC-841-Employment_Poland_20	v1	Tatoeba	v2021-07-22	2715	54279	1	.03	0
 ELRC-841-Employment_Poland_20	v1	Tatoeba	v2021-03-10	2715	54235	1	.03	0
@@ -122,8 +129,14 @@ ELRC-841-Employment_Poland_20	v1	ELRC-873-Development	v1	2715	82	1	.03	1.21
 ELRC-841-Employment_Poland_20	v1	ELRC-648-Letter_rights_person	v1	2715	63	1	.03	1.58
 ELRC-841-Employment_Poland_20	v1	ELRC-403-Rights_Arrested	v1	2715	24	1	.03	4.16
 ELRC-841-Employment_Poland_20	v1	CCMatrix	v1	2715	73625347	0	0	0
+ELRC-841-Employment_Poland_20	v1	NLLB	v1	2715	73623674	0	0	0
 ELRC-841-Employment_Poland_20	v1	OpenSubtitles	v2018	2715	34512858	0	0	0
+ELRC-841-Employment_Poland_20	v1	OpenSubtitles	v2016	2715	22955941	0	0	0
+ELRC-841-Employment_Poland_20	v1	ParaCrawl	v7.1	2715	13744835	0	0	0
+ELRC-841-Employment_Poland_20	v1	ParaCrawl	v5	2715	6336749	0	0	0
+ELRC-841-Employment_Poland_20	v1	ParaCrawl	v4	2715	3483752	0	0	0
 ELRC-841-Employment_Poland_20	v1	Europarl	v8	2715	613356	0	0	0
+ELRC-841-Employment_Poland_20	v1	Europarl	v7	2715	612713	0	0	0
 ELRC-841-Employment_Poland_20	v1	QED	v2.0a	2715	482625	0	0	0
 ELRC-841-Employment_Poland_20	v1	Wikipedia	v1.0	2715	168603	0	0	0
 ELRC-841-Employment_Poland_20	v1	TED2013	v1.1	2715	148046	0	0	0

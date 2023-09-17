@@ -2,8 +2,15 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2018q4	GlobalVoices	v2017q3	85532	70584	69653	81.43	98.68
 GlobalVoices	v2018q4	GlobalVoices	v2015	85532	58384	57183	66.85	97.94
 GlobalVoices	v2018q4	ParaCrawl	v9	85532	84925921	24053	28.12	.02
+GlobalVoices	v2018q4	ParaCrawl	v8	85532	102630613	22354	26.13	.02
 GlobalVoices	v2018q4	CCMatrix	v1	85532	172208300	13746	16.07	0
+GlobalVoices	v2018q4	NLLB	v1	85532	172204569	13746	16.07	0
+GlobalVoices	v2018q4	MultiParaCrawl	v7.1	85532	31486943	12555	14.67	.03
+GlobalVoices	v2018q4	ParaCrawl	v7.1	85532	31486942	12519	14.63	.03
 GlobalVoices	v2018q4	OpenSubtitles	v2018	85532	26685270	379	.44	0
+GlobalVoices	v2018q4	OpenSubtitles	v2016	85532	20373196	356	.41	0
+GlobalVoices	v2018q4	MultiCCAligned	v1	85532	46096787	191	.22	0
+GlobalVoices	v2018q4	ParaCrawl	v1	85532	2801742	181	.21	0
 GlobalVoices	v2018q4	CCAligned	v1	85532	13523846	162	.18	0
 GlobalVoices	v2018q4	XLEnt	v1.1	85532	5417987	89	.10	0
 GlobalVoices	v2018q4	XLEnt	v1.2	85532	5417987	89	.10	0
@@ -11,7 +18,10 @@ GlobalVoices	v2018q4	XLEnt	v1	85532	5417987	89	.10	0
 GlobalVoices	v2018q4	QED	v2.0a	85532	414174	93	.10	.02
 GlobalVoices	v2018q4	LinguaTools-WikiTitles	v2014	85532	7955215	85	.09	0
 GlobalVoices	v2018q4	Europarl	v8	85532	1957999	79	.09	0
+GlobalVoices	v2018q4	Europarl	v7	85532	1957604	79	.09	0
 GlobalVoices	v2018q4	OpenSubtitles	v1	85532	317261	85	.09	.02
+GlobalVoices	v2018q4	ParaCrawl	v5	85532	13783238	61	.07	0
+GlobalVoices	v2018q4	Tatoeba	v2023-04-12	85532	227632	65	.07	.02
 GlobalVoices	v2018q4	Tatoeba	v2022-03-03	85532	219187	65	.07	.02
 GlobalVoices	v2018q4	Tatoeba	v2021-07-22	85532	217627	65	.07	.02
 GlobalVoices	v2018q4	Tatoeba	v2021-03-10	85532	215977	65	.07	.03
@@ -20,7 +30,10 @@ GlobalVoices	v2018q4	Tatoeba	v2020-05-31	85532	208565	64	.07	.03
 GlobalVoices	v2018q4	Tatoeba	v20190709	85532	196551	64	.07	.03
 GlobalVoices	v2018q4	KDE4	v2	85532	186890	63	.07	.03
 GlobalVoices	v2018q4	JRC-Acquis	v3.0	85532	1040014	57	.06	0
+GlobalVoices	v2018q4	wikimedia	v20230407	85532	787133	54	.06	0
 GlobalVoices	v2018q4	DGT	v2019	85532	3617153	43	.05	0
+GlobalVoices	v2018q4	Europarl	v3	85532	1266094	51	.05	0
+GlobalVoices	v2018q4	DGT	v4	85532	1963751	42	.04	0
 GlobalVoices	v2018q4	Wikipedia	v1.0	85532	1694174	39	.04	0
 GlobalVoices	v2018q4	TildeMODEL	v2018	85532	1114245	36	.04	0
 GlobalVoices	v2018q4	wikimedia	v20210402	85532	485721	42	.04	0
@@ -31,6 +44,7 @@ GlobalVoices	v2018q4	SciELO	v1	85532	2746160	32	.03	0
 GlobalVoices	v2018q4	ELITR-ECA	v1	85532	342089	28	.03	0
 GlobalVoices	v2018q4	TED2013	v1.1	85532	154841	26	.03	.01
 GlobalVoices	v2018q4	Tatoeba	v2	85532	60618	30	.03	.04
+GlobalVoices	v2018q4	ParaCrawl	v4	85532	8111908	25	.02	0
 GlobalVoices	v2018q4	EUconst	v1	85532	6785	25	.02	.36
 GlobalVoices	v2018q4	WikiMatrix	v1	85532	2461553	14	.01	0
 GlobalVoices	v2018q4	ELRC-2724-EMEA	v1	85532	768690	15	.01	0

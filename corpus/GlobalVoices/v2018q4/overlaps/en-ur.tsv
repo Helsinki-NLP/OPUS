@@ -1,19 +1,24 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2018q4	GlobalVoices	v2017q3	3860	3547	3124	80.93	88.07
 GlobalVoices	v2018q4	GlobalVoices	v2015	3860	2647	2087	54.06	78.84
+GlobalVoices	v2018q4	NLLB	v1	3860	25242795	199	5.15	0
 GlobalVoices	v2018q4	CCMatrix	v1	3860	6053255	76	1.96	0
+GlobalVoices	v2018q4	MultiCCAligned	v1	3860	1365314	9	.23	0
 GlobalVoices	v2018q4	CCAligned	v1	3860	1365289	9	.23	0
 GlobalVoices	v2018q4	XLEnt	v1.1	3860	730332	9	.23	0
 GlobalVoices	v2018q4	XLEnt	v1.2	3860	730332	9	.23	0
 GlobalVoices	v2018q4	XLEnt	v1	3860	730332	9	.23	0
+GlobalVoices	v2018q4	wikimedia	v20230407	3860	87066	2	.05	0
 GlobalVoices	v2018q4	wikimedia	v20210402	3860	41018	2	.05	0
 GlobalVoices	v2018q4	TED2020	v1	3860	15331	2	.05	.01
+GlobalVoices	v2018q4	OpenSubtitles	v2016	3860	13164	2	.05	.01
 GlobalVoices	v2018q4	NeuLab-TedTalks	v1	3860	6426	2	.05	.03
 GlobalVoices	v2018q4	Anuvaad	v1	3860	160565	1	.02	0
 GlobalVoices	v2018q4	Joshua-IPC	v1	3860	32076	1	.02	0
 GlobalVoices	v2018q4	OpenSubtitles	v2018	3860	26235	1	.02	0
 GlobalVoices	v2018q4	QED	v2.0a	3860	18508	1	.02	0
 GlobalVoices	v2018q4	pmindia	v1	3860	11166	1	.02	0
+GlobalVoices	v2018q4	Tatoeba	v2023-04-12	3860	1667	1	.02	.05
 GlobalVoices	v2018q4	Tatoeba	v2021-03-10	3860	1665	1	.02	.06
 GlobalVoices	v2018q4	Tatoeba	v2021-07-22	3860	1665	1	.02	.06
 GlobalVoices	v2018q4	Tatoeba	v2022-03-03	3860	1665	1	.02	.06

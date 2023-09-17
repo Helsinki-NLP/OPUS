@@ -1,4 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	876702	876719	876702	100.00	99.99
+CCAligned	v1	NLLB	v1	876702	42397195	8986	1.02	.02
 CCAligned	v1	CCMatrix	v1	876702	7247808	7103	.81	.09
 CCAligned	v1	Tanzil	v1	876702	92356	4094	.46	4.43
 CCAligned	v1	Samanantar	v0.2	876702	5223486	1994	.22	.03
@@ -7,17 +9,20 @@ CCAligned	v1	XLEnt	v1.2	876702	633344	1425	.16	.22
 CCAligned	v1	XLEnt	v1	876702	633344	1425	.16	.22
 CCAligned	v1	Anuvaad	v1	876702	1406376	446	.05	.03
 CCAligned	v1	KDE4	v2	876702	79238	289	.03	.36
+CCAligned	v1	wikimedia	v20230407	876702	193029	182	.02	.09
 CCAligned	v1	wikimedia	v20210402	876702	117969	160	.01	.13
 CCAligned	v1	WikiMatrix	v1	876702	95157	1	0	0
 CCAligned	v1	pmindia	v1	876702	39516	9	0	.02
 CCAligned	v1	Joshua-IPC	v1	876702	33605	71	0	.21
 CCAligned	v1	OpenSubtitles	v2018	876702	28062	46	0	.16
+CCAligned	v1	OpenSubtitles	v2016	876702	18444	37	0	.20
 CCAligned	v1	TED2020	v1	876702	11032	78	0	.70
 CCAligned	v1	QED	v2.0a	876702	7430	3	0	.04
 CCAligned	v1	NeuLab-TedTalks	v1	876702	6514	62	0	.95
 CCAligned	v1	GNOME	v1	876702	3979	37	0	.92
 CCAligned	v1	Ubuntu	v14.10	876702	3880	28	0	.72
 CCAligned	v1	tico-19	v2020-10-28	876702	3070	0	0	0
+CCAligned	v1	Tatoeba	v2023-04-12	876702	357	2	0	.56
 CCAligned	v1	Tatoeba	v2020-11-09	876702	312	1	0	.32
 CCAligned	v1	Tatoeba	v2021-03-10	876702	312	1	0	.32
 CCAligned	v1	Tatoeba	v2021-07-22	876702	312	1	0	.32

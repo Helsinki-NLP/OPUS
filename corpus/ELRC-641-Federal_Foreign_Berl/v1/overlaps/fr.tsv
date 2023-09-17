@@ -1,12 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-Federal_Foreign	v1	11933	11933	11933	100.00	100.00
 ELRC-641-Federal_Foreign_Berl	v1	MultiParaCrawl	v8	11933	199141573	651	5.45	0
+ELRC-641-Federal_Foreign_Berl	v1	ParaCrawl	v8	11933	199141573	651	5.45	0
 ELRC-641-Federal_Foreign_Berl	v1	MultiParaCrawl	v9	11933	187085885	602	5.04	0
 ELRC-641-Federal_Foreign_Berl	v1	MultiParaCrawl	v9b	11933	187085885	602	5.04	0
 ELRC-641-Federal_Foreign_Berl	v1	ParaCrawl	v9	11933	187085885	602	5.04	0
 ELRC-641-Federal_Foreign_Berl	v1	CCMatrix	v1	11933	798656090	427	3.57	0
+ELRC-641-Federal_Foreign_Berl	v1	MultiParaCrawl	v7.1	11933	102000359	338	2.83	0
+ELRC-641-Federal_Foreign_Berl	v1	ParaCrawl	v7.1	11933	102000359	338	2.83	0
 ELRC-641-Federal_Foreign_Berl	v1	MultiCCAligned	v1.1	11933	102410788	334	2.79	0
+ELRC-641-Federal_Foreign_Berl	v1	MultiCCAligned	v1	11933	102410788	334	2.79	0
 ELRC-641-Federal_Foreign_Berl	v1	CCAligned	v1	11933	102410685	334	2.79	0
+ELRC-641-Federal_Foreign_Berl	v1	ParaCrawl	v1	11933	27422308	236	1.97	0
 ELRC-641-Federal_Foreign_Berl	v1	UNPC	v1.0	11933	24410320	224	1.87	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-4159-NTEU_TierA	v1	11933	11724160	224	1.87	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-4144-NTEU_TierA	v1	11933	12470878	220	1.84	0
@@ -16,12 +21,18 @@ ELRC-641-Federal_Foreign_Berl	v1	ELRC-4227-NTEU_TierA	v1	11933	7414675	208	1.74	
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-4250-NTEU_TierA	v1	11933	7092287	205	1.71	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-4212-NTEU_TierA	v1	11933	6955376	203	1.70	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-4163-NTEU_TierA	v1	11933	6278278	200	1.67	0
+ELRC-641-Federal_Foreign_Berl	v1	LinguaTools-WikiTitles	v2014	11933	2720213	182	1.52	0
 ELRC-641-Federal_Foreign_Berl	v1	XLEnt	v1.1	11933	6760567	177	1.48	0
 ELRC-641-Federal_Foreign_Berl	v1	XLEnt	v1	11933	6760567	177	1.48	0
+ELRC-641-Federal_Foreign_Berl	v1	XLEnt	v1.2	11933	6760567	177	1.48	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-4241-NTEU_TierA	v1	11933	1665033	170	1.42	.01
 ELRC-641-Federal_Foreign_Berl	v1	giga-fren	v2	11933	21270622	162	1.35	0
+ELRC-641-Federal_Foreign_Berl	v1	MultiParaCrawl	v5	11933	52742733	160	1.34	0
+ELRC-641-Federal_Foreign_Berl	v1	ParaCrawl	v5	11933	52742733	160	1.34	0
 ELRC-641-Federal_Foreign_Berl	v1	JRC-Acquis	v3.0	11933	1956392	160	1.34	0
+ELRC-641-Federal_Foreign_Berl	v1	DGT	v4	11933	1884522	156	1.30	0
 ELRC-641-Federal_Foreign_Berl	v1	Mozilla-I10n	v1	11933	55750	156	1.30	.27
+ELRC-641-Federal_Foreign_Berl	v1	ParaCrawl	v4	11933	35218228	154	1.29	0
 ELRC-641-Federal_Foreign_Berl	v1	WikiTitles	v3	11933	895267	153	1.28	.01
 ELRC-641-Federal_Foreign_Berl	v1	KDE4	v2	11933	166905	146	1.22	.08
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-2410-Portal_oficial_turis	v1	11933	147965	125	1.04	.08
@@ -30,13 +41,20 @@ ELRC-641-Federal_Foreign_Berl	v1	EUbookshop	v2	11933	13922861	100	.83	0
 ELRC-641-Federal_Foreign_Berl	v1	MBS	v1	11933	2281253	94	.78	0
 ELRC-641-Federal_Foreign_Berl	v1	GlobalVoices	v2018q4	11933	457118	88	.73	.01
 ELRC-641-Federal_Foreign_Berl	v1	GlobalVoices	v2017q3	11933	416159	83	.69	.01
+ELRC-641-Federal_Foreign_Berl	v1	wikimedia	v20230407	11933	2676731	80	.67	0
 ELRC-641-Federal_Foreign_Berl	v1	GlobalVoices	v2015	11933	364202	77	.64	.02
 ELRC-641-Federal_Foreign_Berl	v1	wikimedia	v20210402	11933	1749281	74	.62	0
 ELRC-641-Federal_Foreign_Berl	v1	Europarl	v8	11933	2180255	71	.59	0
+ELRC-641-Federal_Foreign_Berl	v1	Europarl	v7	11933	2179933	70	.58	0
 ELRC-641-Federal_Foreign_Berl	v1	OpenSubtitles	v2018	11933	42876478	69	.57	0
+ELRC-641-Federal_Foreign_Berl	v1	OpenSubtitles	v2016	11933	36854261	67	.56	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-1087-German_Foreign_Offic	v1	11933	25215	66	.55	.26
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-German_Foreign	v1	11933	25215	66	.55	.26
+ELRC-641-Federal_Foreign_Berl	v1	Europarl	v3	11933	1444898	55	.46	0
+ELRC-641-Federal_Foreign_Berl	v1	NLLB	v1	11933	179281453	53	.44	0
 ELRC-641-Federal_Foreign_Berl	v1	WikiMatrix	v1	11933	18783887	53	.44	0
+ELRC-641-Federal_Foreign_Berl	v1	OpenSubtitles	v2012	11933	18177724	53	.44	0
+ELRC-641-Federal_Foreign_Berl	v1	OpenSubtitles	v2013	11933	17694776	38	.31	0
 ELRC-641-Federal_Foreign_Berl	v1	QED	v2.0a	11933	1265895	20	.16	0
 ELRC-641-Federal_Foreign_Berl	v1	OfisPublik	v1	11933	61478	20	.16	.03
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-2720-EMEA	v1	11933	732816	17	.14	0
@@ -49,6 +67,7 @@ ELRC-641-Federal_Foreign_Berl	v1	ELRC-2018-EUIPO_2017	v1	11933	17385	11	.09	.06
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-EUIPO_2017	v1	11933	17385	11	.09	.06
 ELRC-641-Federal_Foreign_Berl	v1	OpenSubtitles	v1	11933	535394	10	.08	0
 ELRC-641-Federal_Foreign_Berl	v1	OpenOffice	v3	11933	47166	10	.08	.02
+ELRC-641-Federal_Foreign_Berl	v1	Tatoeba	v2023-04-12	11933	554763	9	.07	0
 ELRC-641-Federal_Foreign_Berl	v1	TED2020	v1	11933	437124	9	.07	0
 ELRC-641-Federal_Foreign_Berl	v1	News-Commentary	v16	11933	428439	9	.07	0
 ELRC-641-Federal_Foreign_Berl	v1	News-Commentary	v14	11933	375202	9	.07	0
@@ -71,6 +90,7 @@ ELRC-641-Federal_Foreign_Berl	v1	EuroPat	v2	11933	11489429	5	.04	0
 ELRC-641-Federal_Foreign_Berl	v1	EuroPat	v3	11933	10716853	5	.04	0
 ELRC-641-Federal_Foreign_Berl	v1	EhuHac	v1	11933	602206	5	.04	0
 ELRC-641-Federal_Foreign_Berl	v1	Tatoeba	v20190709	11933	394746	5	.04	0
+ELRC-641-Federal_Foreign_Berl	v1	NeuLab-TedTalks	v1	11933	234635	5	.04	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-1118-CORDIS_News	v1	11933	132399	5	.04	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-CORDIS_News	v1	11933	132399	5	.04	0
 ELRC-641-Federal_Foreign_Berl	v1	KDEdoc	v1	11933	21222	5	.04	.02
@@ -80,6 +100,7 @@ ELRC-641-Federal_Foreign_Berl	v1	Tatoeba	v2	11933	224269	4	.03	0
 ELRC-641-Federal_Foreign_Berl	v1	Books	v1	11933	161963	4	.03	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-637-SIP	v1	11933	10909	4	.03	.03
 ELRC-641-Federal_Foreign_Berl	v1	EUconst	v1	11933	6759	4	.03	.05
+ELRC-641-Federal_Foreign_Berl	v1	ECDC	v2016-03-16	11933	2532	3	.02	.11
 ELRC-641-Federal_Foreign_Berl	v1	Wikipedia	v1.0	11933	830904	2	.01	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-816-ANR_containing_major	v1	11933	10143	2	.01	.01
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-421-Belgian_government	v1	11933	1668	2	.01	.11
@@ -94,6 +115,7 @@ ELRC-641-Federal_Foreign_Berl	v1	TED2013	v1.1	11933	158664	1	0	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-EUIPO_law	v1	11933	87277	1	0	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRA-W0138	v1	11933	87276	1	0	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-1075-EUIPO_law	v1	11933	87276	1	0	0
+ELRC-641-Federal_Foreign_Berl	v1	FFR	v2	11933	60892	0	0	0
 ELRC-641-Federal_Foreign_Berl	v1	UN	v20090831	11933	59831	1	0	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-EUIPO_list	v1	11933	53568	0	0	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRA-W0148	v1	11933	44242	0	0	0
@@ -181,6 +203,7 @@ ELRC-641-Federal_Foreign_Berl	v1	ELRC-2625-Patrimnio_Aores_2006	v1	11933	64	0	0	
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-2579-Avian_influenza_bios	v1	11933	56	0	0	0
 ELRC-641-Federal_Foreign_Berl	v1	Ubuntu	v14.10	11933	46	0	0	0
 ELRC-641-Federal_Foreign_Berl	v1	liv4ever	v1	11933	28	0	0	0
+ELRC-641-Federal_Foreign_Berl	v1	ELRC-5220-Information_crime_vi	v1	11933	27	0	0	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRA-W0301	v1	11933	23	0	0	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-403-Rights_Arrested	v1	11933	23	0	0	0
 ELRC-641-Federal_Foreign_Berl	v1	ELRC-417-Swedish_Work_Environ	v1	11933	19	0	0	0

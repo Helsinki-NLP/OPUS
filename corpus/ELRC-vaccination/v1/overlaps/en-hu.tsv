@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-vaccination	v1	ELRC-2744-vaccination	v1	516	516	516	100.00	100.00
+ELRC-vaccination	v1	MultiCCAligned	v1	516	11529935	6	1.16	0
 ELRC-vaccination	v1	CCAligned	v1	516	11529736	6	1.16	0
 ELRC-vaccination	v1	ELRC-2715-EMEA	v1	516	765041	4	.77	0
 ELRC-vaccination	v1	ELRC-EMEA	v1	516	765041	4	.77	0
@@ -8,19 +9,24 @@ ELRC-vaccination	v1	DGT	v2019	516	3673722	2	.38	0
 ELRC-vaccination	v1	XLEnt	v1.1	516	3427854	2	.38	0
 ELRC-vaccination	v1	XLEnt	v1.2	516	3427854	2	.38	0
 ELRC-vaccination	v1	XLEnt	v1	516	3427854	2	.38	0
+ELRC-vaccination	v1	DGT	v4	516	1988362	2	.38	0
 ELRC-vaccination	v1	TildeMODEL	v2018	516	1937632	2	.38	0
 ELRC-vaccination	v1	EMEA	v3	516	344006	2	.38	0
 ELRC-vaccination	v1	ELRC-3203-antibiotic	v1	516	687	2	.38	.29
 ELRC-vaccination	v1	ELRC-antibiotic	v1	516	687	2	.38	.29
+ELRC-vaccination	v1	ParaCrawl	v8	516	12681301	1	.19	0
+ELRC-vaccination	v1	MultiParaCrawl	v7.1	516	6693019	1	.19	0
 ELRC-vaccination	v1	LinguaTools-WikiTitles	v2014	516	3548953	1	.19	0
 ELRC-vaccination	v1	WikiMatrix	v1	516	488277	1	.19	0
 ELRC-vaccination	v1	TED2020	v1	516	300676	1	.19	0
 ELRC-vaccination	v1	ELITR-ECA	v1	516	256227	1	.19	0
 ELRC-vaccination	v1	NeuLab-TedTalks	v1	516	155678	1	.19	0
+ELRC-vaccination	v1	Tatoeba	v2023-04-12	516	116753	1	.19	0
 ELRC-vaccination	v1	Tatoeba	v2022-03-03	516	113410	1	.19	0
 ELRC-vaccination	v1	Tatoeba	v2021-07-22	516	110158	1	.19	0
 ELRC-vaccination	v1	Tatoeba	v2021-03-10	516	109023	1	.19	0
 ELRC-vaccination	v1	Tatoeba	v2020-11-09	516	107116	1	.19	0
+ELRC-vaccination	v1	wikimedia	v20230407	516	87709	1	.19	0
 ELRC-vaccination	v1	wikimedia	v20210402	516	52996	1	.19	0
 ELRC-vaccination	v1	ELRC-5067-SciPar	v1	516	27422	1	.19	0
 ELRC-vaccination	v1	ELRC-3566-EUR_LEX_covid	v1	516	22260	1	.19	0
@@ -40,8 +46,14 @@ ELRC-vaccination	v1	ELRC-EUROPARL_covid	v1	516	410	1	.19	.24
 ELRC-vaccination	v1	ELRC-3064-wikipedia_health	v1	516	401	1	.19	.24
 ELRC-vaccination	v1	ELRC-wikipedia_health	v1	516	401	1	.19	.24
 ELRC-vaccination	v1	CCMatrix	v1	516	36215097	0	0	0
+ELRC-vaccination	v1	NLLB	v1	516	36214340	0	0	0
 ELRC-vaccination	v1	OpenSubtitles	v2018	516	34466630	0	0	0
+ELRC-vaccination	v1	OpenSubtitles	v2016	516	27507360	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v7.1	516	6693018	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v5	516	4171097	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v4	516	1892152	0	0	0
 ELRC-vaccination	v1	Europarl	v8	516	607267	0	0	0
+ELRC-vaccination	v1	Europarl	v7	516	606871	0	0	0
 ELRC-vaccination	v1	EUbookshop	v2	516	369917	0	0	0
 ELRC-vaccination	v1	JRC-Acquis	v3.0	516	349092	0	0	0
 ELRC-vaccination	v1	QED	v2.0a	516	309930	0	0	0

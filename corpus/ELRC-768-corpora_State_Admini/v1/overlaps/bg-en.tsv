@@ -1,15 +1,24 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-768-corpora_State_Admini	v1	ParaCrawl	v9	50413	13264298	12375	24.54	.09
+ELRC-768-corpora_State_Admini	v1	ParaCrawl	v8	50413	11927055	10441	20.71	.08
+ELRC-768-corpora_State_Admini	v1	MultiParaCrawl	v7.1	50413	6470710	7202	14.28	.11
+ELRC-768-corpora_State_Admini	v1	ParaCrawl	v7.1	50413	6470709	7201	14.28	.11
+ELRC-768-corpora_State_Admini	v1	ParaCrawl	v5	50413	2569578	6591	13.07	.25
 ELRC-768-corpora_State_Admini	v1	ELRC-664-administration	v1	50413	11261	4840	9.60	42.98
 ELRC-768-corpora_State_Admini	v1	ELRA-W0211	v1	50413	11260	4838	9.59	42.96
 ELRC-768-corpora_State_Admini	v1	CCMatrix	v1	50413	44333768	3866	7.66	0
+ELRC-768-corpora_State_Admini	v1	NLLB	v1	50413	44332999	3866	7.66	0
+ELRC-768-corpora_State_Admini	v1	MultiCCAligned	v1	50413	10351609	1338	2.65	.01
 ELRC-768-corpora_State_Admini	v1	CCAligned	v1	50413	10351428	1338	2.65	.01
+ELRC-768-corpora_State_Admini	v1	ParaCrawl	v4	50413	1033746	308	.61	.02
 ELRC-768-corpora_State_Admini	v1	DGT	v2019	50413	2739551	132	.26	0
 ELRC-768-corpora_State_Admini	v1	ELRC-1055-ICT_Transport	v1	50413	2376	129	.25	5.42
 ELRC-768-corpora_State_Admini	v1	ELRA-W0133	v1	50413	2375	127	.25	5.34
+ELRC-768-corpora_State_Admini	v1	DGT	v4	50413	1077223	83	.16	0
 ELRC-768-corpora_State_Admini	v1	ELRC-3563-EUR_LEX_covid	v1	50413	23000	24	.04	.10
 ELRC-768-corpora_State_Admini	v1	ELRC-EUR_LEX	v1	50413	23000	24	.04	.10
 ELRC-768-corpora_State_Admini	v1	OpenSubtitles	v2018	50413	32563039	18	.03	0
+ELRC-768-corpora_State_Admini	v1	OpenSubtitles	v2016	50413	26838705	17	.03	0
 ELRC-768-corpora_State_Admini	v1	ELRC-2873-EU_publications_medi	v1	50413	13143	20	.03	.15
 ELRC-768-corpora_State_Admini	v1	ELRC-EU_publications	v1	50413	13143	20	.03	.15
 ELRC-768-corpora_State_Admini	v1	LinguaTools-WikiTitles	v2014	50413	2444290	8	.01	0
@@ -17,6 +26,7 @@ ELRC-768-corpora_State_Admini	v1	XLEnt	v1.1	50413	2394543	9	.01	0
 ELRC-768-corpora_State_Admini	v1	XLEnt	v1.2	50413	2394543	9	.01	0
 ELRC-768-corpora_State_Admini	v1	XLEnt	v1	50413	2394543	9	.01	0
 ELRC-768-corpora_State_Admini	v1	Europarl	v8	50413	394736	9	.01	0
+ELRC-768-corpora_State_Admini	v1	Europarl	v7	50413	394341	9	.01	0
 ELRC-768-corpora_State_Admini	v1	EUbookshop	v2	50413	186306	7	.01	0
 ELRC-768-corpora_State_Admini	v1	ELRC-2712-EMEA	v1	50413	766010	1	0	0
 ELRC-768-corpora_State_Admini	v1	ELRC_2682	v1	50413	766009	0	0	0
@@ -34,10 +44,12 @@ ELRC-768-corpora_State_Admini	v1	Tanzil	v1	50413	131265	0	0	0
 ELRC-768-corpora_State_Admini	v1	KDE4	v2	50413	102046	1	0	0
 ELRC-768-corpora_State_Admini	v1	Wikipedia	v1.0	50413	77040	0	0	0
 ELRC-768-corpora_State_Admini	v1	bible-uedin	v1	50413	61559	0	0	0
+ELRC-768-corpora_State_Admini	v1	wikimedia	v20230407	50413	60073	1	0	0
 ELRC-768-corpora_State_Admini	v1	wikimedia	v20210402	50413	32277	1	0	0
 ELRC-768-corpora_State_Admini	v1	JRC-Acquis	v3.0	50413	28494	4	0	.01
 ELRC-768-corpora_State_Admini	v1	ELRC-1176-EUIPO_2017	v1	50413	19606	1	0	0
 ELRC-768-corpora_State_Admini	v1	ELRC-EUIPO_2017	v1	50413	19606	1	0	0
+ELRC-768-corpora_State_Admini	v1	Tatoeba	v2023-04-12	50413	17835	1	0	0
 ELRC-768-corpora_State_Admini	v1	Tatoeba	v2022-03-03	50413	17803	1	0	0
 ELRC-768-corpora_State_Admini	v1	Tatoeba	v2021-07-22	50413	17800	1	0	0
 ELRC-768-corpora_State_Admini	v1	Tatoeba	v2020-11-09	50413	17794	1	0	0

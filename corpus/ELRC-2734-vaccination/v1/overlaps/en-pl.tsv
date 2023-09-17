@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2734-vaccination	v1	ELRC-vaccination	v1	515	515	515	100.00	100.00
 ELRC-2734-vaccination	v1	ParaCrawl	v9	515	40082038	6	1.16	0
+ELRC-2734-vaccination	v1	ParaCrawl	v8	515	45358407	4	.77	0
+ELRC-2734-vaccination	v1	MultiCCAligned	v1	515	25790086	3	.58	0
 ELRC-2734-vaccination	v1	CCAligned	v1	515	12846330	3	.58	0
 ELRC-2734-vaccination	v1	ELRC-2726-EMEA	v1	515	756950	3	.58	0
 ELRC-2734-vaccination	v1	ELRC-EMEA	v1	515	756950	3	.58	0
+ELRC-2734-vaccination	v1	MultiParaCrawl	v7.1	515	13744836	2	.38	0
 ELRC-2734-vaccination	v1	LinguaTools-WikiTitles	v2014	515	8003882	2	.38	0
 ELRC-2734-vaccination	v1	XLEnt	v1.1	515	5202602	2	.38	0
 ELRC-2734-vaccination	v1	XLEnt	v1.2	515	5202602	2	.38	0
@@ -12,7 +15,9 @@ ELRC-2734-vaccination	v1	TildeMODEL	v2018	515	2124677	2	.38	0
 ELRC-2734-vaccination	v1	EuroPat	v3	515	332120	2	.38	0
 ELRC-2734-vaccination	v1	ELRC-3214-antibiotic	v1	515	839	2	.38	.23
 ELRC-2734-vaccination	v1	ELRC-antibiotic	v1	515	839	2	.38	.23
+ELRC-2734-vaccination	v1	ParaCrawl	v7.1	515	13744835	1	.19	0
 ELRC-2734-vaccination	v1	DGT	v2019	515	3659053	1	.19	0
+ELRC-2734-vaccination	v1	DGT	v4	515	1966769	1	.19	0
 ELRC-2734-vaccination	v1	ELRC-5067-SciPar	v1	515	862076	1	.19	0
 ELRC-2734-vaccination	v1	WikiMatrix	v1	515	668647	1	.19	0
 ELRC-2734-vaccination	v1	TED2020	v1	515	293265	1	.19	0
@@ -23,6 +28,8 @@ ELRC-2734-vaccination	v1	NeuLab-TedTalks	v1	515	185955	1	.19	0
 ELRC-2734-vaccination	v1	EuroPat	v2	515	88959	1	.19	0
 ELRC-2734-vaccination	v1	ELRC-1120-CORDIS_News	v1	515	87745	1	.19	0
 ELRC-2734-vaccination	v1	ELRC-CORDIS_News	v1	515	87745	1	.19	0
+ELRC-2734-vaccination	v1	wikimedia	v20230407	515	72787	1	.19	0
+ELRC-2734-vaccination	v1	Tatoeba	v2023-04-12	515	55895	1	.19	0
 ELRC-2734-vaccination	v1	Tatoeba	v2022-03-03	515	54736	1	.19	0
 ELRC-2734-vaccination	v1	Tatoeba	v2021-07-22	515	54279	1	.19	0
 ELRC-2734-vaccination	v1	Tatoeba	v2021-03-10	515	54235	1	.19	0
@@ -113,9 +120,15 @@ ELRC-2734-vaccination	v1	ELRC-873-Development	v1	515	82	1	.19	1.21
 ELRC-2734-vaccination	v1	ELRC-648-Letter_rights_person	v1	515	63	1	.19	1.58
 ELRC-2734-vaccination	v1	ELRC-403-Rights_Arrested	v1	515	24	1	.19	4.16
 ELRC-2734-vaccination	v1	CCMatrix	v1	515	73625347	0	0	0
+ELRC-2734-vaccination	v1	NLLB	v1	515	73623674	0	0	0
 ELRC-2734-vaccination	v1	OpenSubtitles	v2018	515	34512858	0	0	0
+ELRC-2734-vaccination	v1	OpenSubtitles	v2016	515	22955941	0	0	0
+ELRC-2734-vaccination	v1	ParaCrawl	v5	515	6336749	0	0	0
+ELRC-2734-vaccination	v1	ParaCrawl	v4	515	3483752	0	0	0
+ELRC-2734-vaccination	v1	ParaCrawl	v1	515	1270691	0	0	0
 ELRC-2734-vaccination	v1	JRC-Acquis	v3.0	515	1048242	0	0	0
 ELRC-2734-vaccination	v1	Europarl	v8	515	613356	0	0	0
+ELRC-2734-vaccination	v1	Europarl	v7	515	612713	0	0	0
 ELRC-2734-vaccination	v1	QED	v2.0a	515	482625	0	0	0
 ELRC-2734-vaccination	v1	EUbookshop	v2	515	461498	0	0	0
 ELRC-2734-vaccination	v1	EMEA	v3	515	343975	0	0	0

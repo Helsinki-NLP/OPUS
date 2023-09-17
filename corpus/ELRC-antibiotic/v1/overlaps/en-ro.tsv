@@ -1,14 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-antibiotic	v1	ELRC-3216-antibiotic	v1	1033	1033	1033	100.00	100.00
+ELRC-antibiotic	v1	ParaCrawl	v8	1033	13376411	400	38.72	0
 ELRC-antibiotic	v1	ParaCrawl	v9	1033	25048458	368	35.62	0
 ELRC-antibiotic	v1	CCMatrix	v1	1033	55211939	280	27.10	0
+ELRC-antibiotic	v1	NLLB	v1	1033	55210599	280	27.10	0
+ELRC-antibiotic	v1	MultiCCAligned	v1	1033	10463174	8	.77	0
 ELRC-antibiotic	v1	CCAligned	v1	1033	10462991	8	.77	0
+ELRC-antibiotic	v1	MultiParaCrawl	v7.1	1033	6160526	5	.48	0
+ELRC-antibiotic	v1	ParaCrawl	v7.1	1033	6160525	4	.38	0
+ELRC-antibiotic	v1	ParaCrawl	v1	1033	2454740	4	.38	0
 ELRC-antibiotic	v1	ELRC-2728-EMEA	v1	1033	777379	4	.38	0
 ELRC-antibiotic	v1	ELRC-EMEA	v1	1033	777379	4	.38	0
 ELRC-antibiotic	v1	TildeMODEL	v2018	1033	1895503	3	.29	0
+ELRC-antibiotic	v1	wikimedia	v20230407	1033	304464	3	.29	0
 ELRC-antibiotic	v1	wikimedia	v20210402	1033	227392	3	.29	0
 ELRC-antibiotic	v1	OpenSubtitles	v2018	1033	39424613	2	.19	0
+ELRC-antibiotic	v1	OpenSubtitles	v2016	1033	31406516	2	.19	0
 ELRC-antibiotic	v1	DGT	v2019	1033	2753976	2	.19	0
+ELRC-antibiotic	v1	DGT	v4	1033	1073269	2	.19	0
 ELRC-antibiotic	v1	EMEA	v3	1033	316762	2	.19	0
 ELRC-antibiotic	v1	EUbookshop	v2	1033	278716	2	.19	0
 ELRC-antibiotic	v1	ELITR-ECA	v1	1033	81205	2	.19	0
@@ -25,10 +34,12 @@ ELRC-antibiotic	v1	XLEnt	v1.2	1033	3120821	1	.09	0
 ELRC-antibiotic	v1	WikiMatrix	v1	1033	631486	1	.09	0
 ELRC-antibiotic	v1	QED	v2.0a	1033	412194	1	.09	0
 ELRC-antibiotic	v1	Europarl	v8	1033	386478	1	.09	0
+ELRC-antibiotic	v1	Europarl	v7	1033	386074	1	.09	0
 ELRC-antibiotic	v1	TED2020	v1	1033	320760	1	.09	0
 ELRC-antibiotic	v1	NeuLab-TedTalks	v1	1033	191770	1	.09	0
 ELRC-antibiotic	v1	ELRC-492-Romanian_Wikipedia	v1	1033	132217	1	.09	0
 ELRC-antibiotic	v1	ELRC-493-Romanian_news	v1	1033	98099	1	.09	0
+ELRC-antibiotic	v1	Tatoeba	v2023-04-12	1033	16283	1	.09	0
 ELRC-antibiotic	v1	Tatoeba	v2022-03-03	1033	15250	1	.09	0
 ELRC-antibiotic	v1	Tatoeba	v2021-07-22	1033	15159	1	.09	0
 ELRC-antibiotic	v1	Tatoeba	v2021-03-10	1033	15138	1	.09	0
@@ -57,6 +68,8 @@ ELRC-antibiotic	v1	ELRC-vaccination	v1	1033	496	1	.09	.20
 ELRC-antibiotic	v1	ELRC-648-Letter_rights_person	v1	1033	77	1	.09	1.29
 ELRC-antibiotic	v1	ELRC-403-Rights_Arrested	v1	1033	24	1	.09	4.16
 ELRC-antibiotic	v1	ELRC-417-Swedish_Work_Environ	v1	1033	8	1	.09	12.50
+ELRC-antibiotic	v1	ParaCrawl	v5	1033	2855026	0	0	0
+ELRC-antibiotic	v1	ParaCrawl	v4	1033	1944574	0	0	0
 ELRC-antibiotic	v1	Wikipedia	v1.0	1033	355116	0	0	0
 ELRC-antibiotic	v1	JRC-Acquis	v3.0	1033	314553	0	0	0
 ELRC-antibiotic	v1	OpenSubtitles	v1	1033	253380	0	0	0

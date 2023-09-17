@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+ELRC-3853-State_Assets	v1	MultiCCAligned	v1	2766	25790086	45	1.62	0
 ELRC-3853-State_Assets	v1	CCAligned	v1	2766	12846330	41	1.48	0
 ELRC-3853-State_Assets	v1	DGT	v2019	2766	3659053	39	1.40	0
+ELRC-3853-State_Assets	v1	DGT	v4	2766	1966769	37	1.33	0
 ELRC-3853-State_Assets	v1	LinguaTools-WikiTitles	v2014	2766	8003882	28	1.01	0
 ELRC-3853-State_Assets	v1	TildeMODEL	v2018	2766	2124677	28	1.01	0
 ELRC-3853-State_Assets	v1	XLEnt	v1.1	2766	5202602	20	.72	0
@@ -8,6 +10,7 @@ ELRC-3853-State_Assets	v1	XLEnt	v1.2	2766	5202602	20	.72	0
 ELRC-3853-State_Assets	v1	XLEnt	v1	2766	5202602	20	.72	0
 ELRC-3853-State_Assets	v1	JRC-Acquis	v3.0	2766	1048242	17	.61	0
 ELRC-3853-State_Assets	v1	EUbookshop	v2	2766	461498	16	.57	0
+ELRC-3853-State_Assets	v1	ParaCrawl	v1	2766	1270691	13	.46	0
 ELRC-3853-State_Assets	v1	KDE4	v2	2766	160232	10	.36	0
 ELRC-3853-State_Assets	v1	ELRC-2726-EMEA	v1	2766	756950	9	.32	0
 ELRC-3853-State_Assets	v1	ELRC-EMEA	v1	2766	756950	9	.32	0
@@ -15,16 +18,21 @@ ELRC-3853-State_Assets	v1	ParaCrawl	v9	2766	40082038	7	.25	0
 ELRC-3853-State_Assets	v1	ELRC-2885-EU_publications_medi	v1	2766	12751	7	.25	.05
 ELRC-3853-State_Assets	v1	ELRC-EU_publications	v1	2766	12751	7	.25	.05
 ELRC-3853-State_Assets	v1	CCMatrix	v1	2766	73625347	5	.18	0
+ELRC-3853-State_Assets	v1	NLLB	v1	2766	73623674	5	.18	0
 ELRC-3853-State_Assets	v1	ECB	v1	2766	73127	5	.18	0
+ELRC-3853-State_Assets	v1	ParaCrawl	v8	2766	45358407	4	.14	0
 ELRC-3853-State_Assets	v1	OpenSubtitles	v2018	2766	34512858	4	.14	0
 ELRC-3853-State_Assets	v1	WikiMatrix	v1	2766	668647	4	.14	0
+ELRC-3853-State_Assets	v1	OpenSubtitles	v2016	2766	22955941	3	.10	0
 ELRC-3853-State_Assets	v1	EMEA	v3	2766	343975	3	.10	0
 ELRC-3853-State_Assets	v1	ELRC-1120-CORDIS_News	v1	2766	87745	3	.10	0
 ELRC-3853-State_Assets	v1	ELRC-CORDIS_News	v1	2766	87745	3	.10	0
+ELRC-3853-State_Assets	v1	wikimedia	v20230407	2766	72787	3	.10	0
 ELRC-3853-State_Assets	v1	wikimedia	v20210402	2766	51386	3	.10	0
 ELRC-3853-State_Assets	v1	GlobalVoices	v2018q4	2766	48868	3	.10	0
 ELRC-3853-State_Assets	v1	ELRC-956-Central_Statistical	v1	2766	2690	3	.10	.11
 ELRC-3853-State_Assets	v1	ELRC-2610-Polish_Energy_Conser	v1	2766	2569	3	.10	.11
+ELRC-3853-State_Assets	v1	MultiParaCrawl	v7.1	2766	13744836	2	.07	0
 ELRC-3853-State_Assets	v1	ELRA-W0241	v1	2766	57206	2	.07	0
 ELRC-3853-State_Assets	v1	GlobalVoices	v2017q3	2766	45318	2	.07	0
 ELRC-3853-State_Assets	v1	GlobalVoices	v2015	2766	42295	2	.07	0
@@ -39,6 +47,7 @@ ELRC-3853-State_Assets	v1	ELRC-472-Polish_Central_Stati	v1	2766	1511	2	.07	.13
 ELRC-3853-State_Assets	v1	ELRC-979-Audiovisual_Institut	v1	2766	803	2	.07	.24
 ELRC-3853-State_Assets	v1	ELRC-1173-PIO_Publication_CYPR	v1	2766	586	2	.07	.34
 ELRC-3853-State_Assets	v1	ELRC-PIO_Publication	v1	2766	586	2	.07	.34
+ELRC-3853-State_Assets	v1	ParaCrawl	v7.1	2766	13744835	1	.03	0
 ELRC-3853-State_Assets	v1	ELRC-5067-SciPar	v1	2766	862076	1	.03	0
 ELRC-3853-State_Assets	v1	EuroPat	v3	2766	332120	1	.03	0
 ELRC-3853-State_Assets	v1	TED2020	v1	2766	293265	1	.03	0
@@ -47,6 +56,7 @@ ELRC-3853-State_Assets	v1	ELRC-1124-CORDIS_Results_Brief	v1	2766	201566	1	.03	0
 ELRC-3853-State_Assets	v1	ELRC-CORDIS_Results	v1	2766	201566	1	.03	0
 ELRC-3853-State_Assets	v1	NeuLab-TedTalks	v1	2766	185955	1	.03	0
 ELRC-3853-State_Assets	v1	EuroPat	v2	2766	88959	1	.03	0
+ELRC-3853-State_Assets	v1	Tatoeba	v2023-04-12	2766	55895	1	.03	0
 ELRC-3853-State_Assets	v1	Tatoeba	v2022-03-03	2766	54736	1	.03	0
 ELRC-3853-State_Assets	v1	Tatoeba	v2021-07-22	2766	54279	1	.03	0
 ELRC-3853-State_Assets	v1	Tatoeba	v2021-03-10	2766	54235	1	.03	0
@@ -130,7 +140,10 @@ ELRC-3853-State_Assets	v1	ELRC-416-Swedish_Social_Secur	v1	2766	111	1	.03	.90
 ELRC-3853-State_Assets	v1	ELRC-873-Development	v1	2766	82	1	.03	1.21
 ELRC-3853-State_Assets	v1	ELRC-648-Letter_rights_person	v1	2766	63	1	.03	1.58
 ELRC-3853-State_Assets	v1	ELRC-403-Rights_Arrested	v1	2766	24	1	.03	4.16
+ELRC-3853-State_Assets	v1	ParaCrawl	v5	2766	6336749	0	0	0
+ELRC-3853-State_Assets	v1	ParaCrawl	v4	2766	3483752	0	0	0
 ELRC-3853-State_Assets	v1	Europarl	v8	2766	613356	0	0	0
+ELRC-3853-State_Assets	v1	Europarl	v7	2766	612713	0	0	0
 ELRC-3853-State_Assets	v1	QED	v2.0a	2766	482625	0	0	0
 ELRC-3853-State_Assets	v1	Wikipedia	v1.0	2766	168603	0	0	0
 ELRC-3853-State_Assets	v1	TED2013	v1.1	2766	148046	0	0	0

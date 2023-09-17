@@ -1,14 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EUbookshop	v2	CCMatrix	v1	2013	22191703	21	1.04	0
+EUbookshop	v2	NLLB	v1	2013	68801691	16	.79	0
+EUbookshop	v2	MultiCCAligned	v1	2013	2299252	14	.69	0
 EUbookshop	v2	CCAligned	v1	2013	2299214	14	.69	0
 EUbookshop	v2	XLEnt	v1.1	2013	1290636	2	.09	0
 EUbookshop	v2	XLEnt	v1	2013	1290636	2	.09	0
 EUbookshop	v2	XLEnt	v1.2	2013	1290636	2	.09	0
 EUbookshop	v2	SETIMES	v2	2013	225161	1	.04	0
 EUbookshop	v2	OpenSubtitles	v2018	2013	1626927	0	0	0
+EUbookshop	v2	OpenSubtitles	v2016	2013	1537760	0	0	0
 EUbookshop	v2	Tanzil	v1	2013	361781	0	0	0
 EUbookshop	v2	WikiMatrix	v1	2013	180110	0	0	0
 EUbookshop	v2	SETIMES	v1	2013	171007	0	0	0
+EUbookshop	v2	wikimedia	v20230407	2013	114235	0	0	0
 EUbookshop	v2	QED	v2.0a	2013	110939	0	0	0
 EUbookshop	v2	TED2020	v1	2013	68240	0	0	0
 EUbookshop	v2	wikimedia	v20210402	2013	65960	0	0	0
@@ -20,6 +24,7 @@ EUbookshop	v2	Ubuntu	v14.10	2013	6791	0	0	0
 EUbookshop	v2	GlobalVoices	v2018q4	2013	5745	0	0	0
 EUbookshop	v2	GlobalVoices	v2017q3	2013	5738	0	0	0
 EUbookshop	v2	TildeMODEL	v2018	2013	3056	0	0	0
+EUbookshop	v2	Tatoeba	v2023-04-12	2013	1088	0	0	0
 EUbookshop	v2	Tatoeba	v2021-07-22	2013	1085	0	0	0
 EUbookshop	v2	Tatoeba	v2022-03-03	2013	1085	0	0	0
 EUbookshop	v2	Tatoeba	v2020-11-09	2013	1041	0	0	0

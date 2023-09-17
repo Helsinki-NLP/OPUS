@@ -1,14 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 XLEnt	v1	XLEnt	v1.1	22946	22946	22946	100.00	100.00
 XLEnt	v1	XLEnt	v1.2	22946	22946	22946	100.00	100.00
+XLEnt	v1	NLLB	v1	22946	13630502	1	0	0
 XLEnt	v1	Samanantar	v0.2	22946	976811	1	0	0
 XLEnt	v1	CCMatrix	v1	22946	96137	0	0	0
 XLEnt	v1	Anuvaad	v1	22946	92267	1	0	0
 XLEnt	v1	pmindia	v1	22946	38345	1	0	0
+XLEnt	v1	wikimedia	v20230407	22946	22587	2	0	0
 XLEnt	v1	wikimedia	v20210402	22946	13648	2	0	.01
 XLEnt	v1	Ubuntu	v14.10	22946	8794	0	0	0
 XLEnt	v1	KDE4	v2	22946	7816	0	0	0
 XLEnt	v1	CCAligned	v1	22946	5512	1	0	.01
+XLEnt	v1	MultiCCAligned	v1	22946	5512	1	0	.01
 XLEnt	v1	GlobalVoices	v2018q4	22946	327	1	0	.30
 XLEnt	v1	GlobalVoices	v2015	22946	326	0	0	0
 XLEnt	v1	GlobalVoices	v2017q3	22946	326	0	0	0
@@ -17,6 +20,7 @@ XLEnt	v1	Tatoeba	v2020-11-09	22946	35	1	0	2.85
 XLEnt	v1	Tatoeba	v2021-03-10	22946	35	1	0	2.85
 XLEnt	v1	Tatoeba	v2021-07-22	22946	35	1	0	2.85
 XLEnt	v1	Tatoeba	v2022-03-03	22946	35	1	0	2.85
+XLEnt	v1	Tatoeba	v2023-04-12	22946	35	1	0	2.85
 XLEnt	v1	Tatoeba	v2020-05-31	22946	33	0	0	0
 XLEnt	v1	Tatoeba	v20190709	22946	21	0	0	0
 XLEnt	v1	QED	v2.0a	22946	6	0	0	0

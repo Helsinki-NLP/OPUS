@@ -1,17 +1,27 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Wikipedia	v1.0	WikiMatrix	v1	81374	318028	9	.01	0
 Wikipedia	v1.0	CCMatrix	v1	81374	27249324	3	0	0
+Wikipedia	v1.0	NLLB	v1	81374	27248871	3	0	0
 Wikipedia	v1.0	OpenSubtitles	v2018	81374	16322093	5	0	0
+Wikipedia	v1.0	OpenSubtitles	v2016	81374	13659351	5	0	0
 Wikipedia	v1.0	ParaCrawl	v9	81374	9516069	3	0	0
+Wikipedia	v1.0	ParaCrawl	v8	81374	7536844	0	0	0
+Wikipedia	v1.0	MultiCCAligned	v1	81374	4346713	0	0	0
 Wikipedia	v1.0	CCAligned	v1	81374	4346640	0	0	0
+Wikipedia	v1.0	MultiParaCrawl	v7.1	81374	3737733	0	0	0
+Wikipedia	v1.0	ParaCrawl	v7.1	81374	3737732	0	0	0
 Wikipedia	v1.0	DGT	v2019	81374	3618655	0	0	0
 Wikipedia	v1.0	TildeMODEL	v2018	81374	2019848	0	0	0
+Wikipedia	v1.0	DGT	v4	81374	1958354	0	0	0
+Wikipedia	v1.0	ParaCrawl	v5	81374	1395048	0	0	0
 Wikipedia	v1.0	XLEnt	v1.1	81374	817858	0	0	0
 Wikipedia	v1.0	XLEnt	v1.2	81374	817858	0	0	0
 Wikipedia	v1.0	XLEnt	v1	81374	817858	0	0	0
 Wikipedia	v1.0	ELRC-2727-EMEA	v1	81374	760104	0	0	0
 Wikipedia	v1.0	ELRC-EMEA	v1	81374	760104	0	0	0
+Wikipedia	v1.0	ParaCrawl	v4	81374	656409	0	0	0
 Wikipedia	v1.0	Europarl	v8	81374	604779	1	0	0
+Wikipedia	v1.0	Europarl	v7	81374	604395	1	0	0
 Wikipedia	v1.0	EUbookshop	v2	81374	340004	0	0	0
 Wikipedia	v1.0	EMEA	v3	81374	333756	4	0	0
 Wikipedia	v1.0	OpenSubtitles	v1	81374	317270	2	0	0
@@ -20,6 +30,7 @@ Wikipedia	v1.0	KDE4	v2	81374	106508	1	0	0
 Wikipedia	v1.0	ELITR-ECA	v1	81374	90081	0	0	0
 Wikipedia	v1.0	ECB	v1	81374	89567	0	0	0
 Wikipedia	v1.0	QED	v2.0a	81374	74807	0	0	0
+Wikipedia	v1.0	wikimedia	v20230407	81374	69985	1	0	0
 Wikipedia	v1.0	ELRC-490-Secretariat_General_	v1	81374	62951	0	0	0
 Wikipedia	v1.0	ELRA-W0191	v1	81374	62950	0	0	0
 Wikipedia	v1.0	bible-uedin	v1	81374	61647	0	0	0
@@ -44,6 +55,7 @@ Wikipedia	v1.0	ELRC-presscorner_covid	v1	81374	6991	0	0	0
 Wikipedia	v1.0	Ubuntu	v14.10	81374	6911	0	0	0
 Wikipedia	v1.0	EUconst	v1	81374	6255	1	0	.01
 Wikipedia	v1.0	ELRC-923-chapters_Youth_2010	v1	81374	5855	0	0	0
+Wikipedia	v1.0	Tatoeba	v2023-04-12	81374	4293	0	0	0
 Wikipedia	v1.0	Tatoeba	v2022-03-03	81374	4159	0	0	0
 Wikipedia	v1.0	Tatoeba	v2021-07-22	81374	4107	0	0	0
 Wikipedia	v1.0	PHP	v1	81374	3742	0	0	0

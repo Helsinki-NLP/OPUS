@@ -1,10 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-886-www.odense.dk	v1	ELRC-4248-NTEU_TierA	v1	1427	13598397	1425	99.85	.01
+ELRC-886-www.odense.dk	v1	ParaCrawl	v8	1427	41939064	243	17.02	0
 ELRC-886-www.odense.dk	v1	ParaCrawl	v9	1427	34207153	228	15.97	0
+ELRC-886-www.odense.dk	v1	MultiParaCrawl	v7.1	1427	10407633	134	9.39	0
+ELRC-886-www.odense.dk	v1	ParaCrawl	v7.1	1427	10407632	132	9.25	0
 ELRC-886-www.odense.dk	v1	CCMatrix	v1	1427	51996397	122	8.54	0
+ELRC-886-www.odense.dk	v1	NLLB	v1	1427	51995658	122	8.54	0
+ELRC-886-www.odense.dk	v1	ParaCrawl	v5	1427	4569268	121	8.47	0
+ELRC-886-www.odense.dk	v1	MultiCCAligned	v1	1427	10687333	12	.84	0
 ELRC-886-www.odense.dk	v1	CCAligned	v1	1427	10687146	12	.84	0
 ELRC-886-www.odense.dk	v1	ELRC-852-www.dma.dk	v1	1427	3010	4	.28	.13
 ELRC-886-www.odense.dk	v1	OpenSubtitles	v2018	1427	12095471	3	.21	0
+ELRC-886-www.odense.dk	v1	OpenSubtitles	v2016	1427	9378053	3	.21	0
 ELRC-886-www.odense.dk	v1	LinguaTools-WikiTitles	v2014	1427	2968008	2	.14	0
 ELRC-886-www.odense.dk	v1	XLEnt	v1.1	1427	2832109	2	.14	0
 ELRC-886-www.odense.dk	v1	XLEnt	v1	1427	2832109	2	.14	0
@@ -20,9 +27,11 @@ ELRC-886-www.odense.dk	v1	WikiMatrix	v1	1427	436050	1	.07	0
 ELRC-886-www.odense.dk	v1	QED	v2.0a	1427	165595	1	.07	0
 ELRC-886-www.odense.dk	v1	ELITR-ECA	v1	1427	117419	1	.07	0
 ELRC-886-www.odense.dk	v1	TED2020	v1	1427	70497	1	.07	0
+ELRC-886-www.odense.dk	v1	wikimedia	v20230407	1427	67071	1	.07	0
 ELRC-886-www.odense.dk	v1	NeuLab-TedTalks	v1	1427	47296	1	.07	0
 ELRC-886-www.odense.dk	v1	wikimedia	v20210402	1427	40624	1	.07	0
 ELRC-886-www.odense.dk	v1	ELRC-847-mst.dk	v1	1427	36733	1	.07	0
+ELRC-886-www.odense.dk	v1	Tatoeba	v2023-04-12	1427	32727	1	.07	0
 ELRC-886-www.odense.dk	v1	Tatoeba	v2022-03-03	1427	31862	1	.07	0
 ELRC-886-www.odense.dk	v1	Tatoeba	v2021-07-22	1427	30835	1	.07	0
 ELRC-886-www.odense.dk	v1	Tatoeba	v2021-03-10	1427	30475	1	.07	0
@@ -73,7 +82,11 @@ ELRC-886-www.odense.dk	v1	ELRC-2754-vaccination	v1	1427	461	1	.07	.21
 ELRC-886-www.odense.dk	v1	ELRC-vaccination	v1	1427	461	1	.07	.21
 ELRC-886-www.odense.dk	v1	EUbookshop	v2	1427	4495240	0	0	0
 ELRC-886-www.odense.dk	v1	DGT	v2019	1427	3567131	0	0	0
+ELRC-886-www.odense.dk	v1	ParaCrawl	v4	1427	2395328	0	0	0
 ELRC-886-www.odense.dk	v1	Europarl	v8	1427	1949878	0	0	0
+ELRC-886-www.odense.dk	v1	Europarl	v7	1427	1949502	0	0	0
+ELRC-886-www.odense.dk	v1	DGT	v4	1427	1946755	0	0	0
+ELRC-886-www.odense.dk	v1	Europarl	v3	1427	1276675	0	0	0
 ELRC-886-www.odense.dk	v1	ELRC_2682	v1	1427	767927	0	0	0
 ELRC-886-www.odense.dk	v1	JRC-Acquis	v3.0	1427	502171	0	0	0
 ELRC-886-www.odense.dk	v1	EMEA	v3	1427	355116	0	0	0

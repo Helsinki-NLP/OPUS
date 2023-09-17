@@ -1,7 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Tanzil	v1	CCMatrix	v1	132704	47571364	3653	2.75	0
+Tanzil	v1	NLLB	v1	132704	47570737	3653	2.75	0
+Tanzil	v1	MultiCCAligned	v1	132704	9133068	1911	1.44	.02
 Tanzil	v1	CCAligned	v1	132704	9132909	1911	1.44	.02
+Tanzil	v1	ParaCrawl	v8	132704	59090055	161	.12	0
 Tanzil	v1	OpenSubtitles	v2018	132704	7354902	12	0	0
+Tanzil	v1	OpenSubtitles	v2016	132704	4876710	10	0	0
 Tanzil	v1	EuroPat	v3	132704	4341459	0	0	0
 Tanzil	v1	EuroPat	v2	132704	4050341	0	0	0
 Tanzil	v1	XLEnt	v1.1	132704	2048811	0	0	0
@@ -24,6 +28,7 @@ Tanzil	v1	ELRC-4992-Customer_Support_MT	v1	132704	1368	0	0	0
 Tanzil	v1	ELRC-3071-wikipedia_health	v1	132704	686	0	0	0
 Tanzil	v1	ELRC-wikipedia_health	v1	132704	686	0	0	0
 Tanzil	v1	ELRC_2922	v1	132704	685	0	0	0
+Tanzil	v1	wikimedia	v20230407	132704	252	0	0	0
 Tanzil	v1	wikimedia	v20210402	132704	213	0	0	0
 Tanzil	v1	wikimedia	v20190628	132704	86	0	0	0
 Tanzil	v1	ELRC-2638-monumentos_2007	v1	132704	4	0	0	0

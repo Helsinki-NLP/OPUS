@@ -1,11 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	37332	1720599	3156	8.45	.18
+WikiMatrix	v1	NLLB	v1	37332	1720525	3156	8.45	.18
+WikiMatrix	v1	wikimedia	v20230407	37332	7233	1195	3.20	16.52
 WikiMatrix	v1	wikimedia	v20210402	37332	7105	1195	3.20	16.81
 WikiMatrix	v1	wikimedia	v20190628	37332	2107	17	.04	.80
 WikiMatrix	v1	XLEnt	v1.1	37332	231479	2	0	0
+WikiMatrix	v1	XLEnt	v1.2	37332	231479	2	0	0
 WikiMatrix	v1	XLEnt	v1	37332	231479	2	0	0
 WikiMatrix	v1	KDE4	v2	37332	38800	2	0	0
 WikiMatrix	v1	Ubuntu	v14.10	37332	6090	0	0	0
+WikiMatrix	v1	Tatoeba	v2023-04-12	37332	859	1	0	.11
 WikiMatrix	v1	Tatoeba	v2020-11-09	37332	842	1	0	.11
 WikiMatrix	v1	Tatoeba	v2021-03-10	37332	842	1	0	.11
 WikiMatrix	v1	Tatoeba	v2021-07-22	37332	842	1	0	.11

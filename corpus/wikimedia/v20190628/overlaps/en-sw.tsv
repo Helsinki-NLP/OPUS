@@ -1,13 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20190628	wikimedia	v20230407	762	14789	348	45.66	2.35
 wikimedia	v20190628	wikimedia	v20210402	762	3626	348	45.66	9.59
+wikimedia	v20190628	NLLB	v1	762	23433143	9	1.18	0
 wikimedia	v20190628	CCMatrix	v1	762	5718273	6	.78	0
+wikimedia	v20190628	MultiCCAligned	v1	762	2035176	5	.65	0
 wikimedia	v20190628	CCAligned	v1	762	2035139	5	.65	0
 wikimedia	v20190628	XLEnt	v1.1	762	846392	4	.52	0
 wikimedia	v20190628	XLEnt	v1.2	762	846392	4	.52	0
 wikimedia	v20190628	XLEnt	v1	762	846392	4	.52	0
 wikimedia	v20190628	WikiMatrix	v1	762	51387	1	.13	0
 wikimedia	v20190628	Tanzil	v1	762	134382	0	0	0
+wikimedia	v20190628	MultiParaCrawl	v7.1	762	131579	0	0	0
+wikimedia	v20190628	ParaCrawl	v8	762	131579	0	0	0
 wikimedia	v20190628	ParaCrawl	v9	762	131579	0	0	0
+wikimedia	v20190628	ParaCrawl	v7.1	762	131578	0	0	0
+wikimedia	v20190628	GoURMET	v2	762	104123	0	0	0
 wikimedia	v20190628	GlobalVoices	v2018q4	762	30334	0	0	0
 wikimedia	v20190628	GlobalVoices	v2017q3	762	29276	0	0	0
 wikimedia	v20190628	GlobalVoices	v2015	762	25687	0	0	0

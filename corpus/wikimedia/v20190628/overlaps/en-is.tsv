@@ -1,10 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20190628	wikimedia	v20230407	563	4394	229	40.67	5.21
 wikimedia	v20190628	wikimedia	v20210402	563	2274	229	40.67	10.07
 wikimedia	v20190628	CCMatrix	v1	563	8678395	12	2.13	0
+wikimedia	v20190628	NLLB	v1	563	8678252	12	2.13	0
+wikimedia	v20190628	MultiCCAligned	v1	563	1186757	8	1.42	0
 wikimedia	v20190628	CCAligned	v1	563	1186739	8	1.42	0
+wikimedia	v20190628	ParaCrawl	v8	563	5724257	7	1.24	0
 wikimedia	v20190628	ParIce	v1	563	1480222	7	1.24	0
 wikimedia	v20190628	ParaCrawl	v9	563	2967520	5	.88	0
 wikimedia	v20190628	WikiMatrix	v1	563	85992	5	.88	0
+wikimedia	v20190628	MultiParaCrawl	v7.1	563	2392423	4	.71	0
+wikimedia	v20190628	ParaCrawl	v7.1	563	2392422	4	.71	0
 wikimedia	v20190628	XLEnt	v1.1	563	930819	4	.71	0
 wikimedia	v20190628	XLEnt	v1.2	563	930819	4	.71	0
 wikimedia	v20190628	XLEnt	v1	563	930819	4	.71	0
@@ -21,6 +27,7 @@ wikimedia	v20190628	EUbookshop	v2	563	9221	1	.17	.01
 wikimedia	v20190628	GNOME	v1	563	5424	1	.17	.01
 wikimedia	v20190628	Ubuntu	v14.10	563	2126	1	.17	.04
 wikimedia	v20190628	OpenSubtitles	v2018	563	1361307	0	0	0
+wikimedia	v20190628	OpenSubtitles	v2016	563	1195814	0	0	0
 wikimedia	v20190628	ELRC-5067-SciPar	v1	563	110831	0	0	0
 wikimedia	v20190628	bible-uedin	v1	563	61464	0	0	0
 wikimedia	v20190628	ELRC-728-www.norden.org	v1	563	41073	0	0	0
@@ -28,6 +35,7 @@ wikimedia	v20190628	ELRC-www.norden.org	v1	563	41073	0	0	0
 wikimedia	v20190628	ELRC-4327-Government_Offices_I	v1	563	36262	0	0	0
 wikimedia	v20190628	QED	v2.0a	563	26217	0	0	0
 wikimedia	v20190628	ELRC-4295-www.malfong.is	v1	563	12225	0	0	0
+wikimedia	v20190628	Tatoeba	v2023-04-12	563	9595	0	0	0
 wikimedia	v20190628	Tatoeba	v2022-03-03	563	9518	0	0	0
 wikimedia	v20190628	Tatoeba	v2021-03-10	563	9440	0	0	0
 wikimedia	v20190628	Tatoeba	v2021-07-22	563	9440	0	0	0

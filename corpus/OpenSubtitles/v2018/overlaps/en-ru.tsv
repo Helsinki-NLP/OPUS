@@ -1,4 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+OpenSubtitles	v2018	OpenSubtitles	v2016	21152745	15393688	13092493	61.89	85.05
+OpenSubtitles	v2018	MultiCCAligned	v1	21152745	68711166	46764	.22	.06
+OpenSubtitles	v2018	Tatoeba	v2023-04-12	21152745	540539	41456	.19	7.66
 OpenSubtitles	v2018	Tatoeba	v2022-03-03	21152745	529043	41146	.19	7.77
 OpenSubtitles	v2018	Tatoeba	v2021-07-22	21152745	523544	41030	.19	7.83
 OpenSubtitles	v2018	Tatoeba	v2021-03-10	21152745	519222	40928	.19	7.88
@@ -10,7 +13,12 @@ OpenSubtitles	v2018	CCAligned	v1	21152745	13738750	20533	.09	.14
 OpenSubtitles	v2018	Tatoeba	v2	21152745	97202	8951	.04	9.20
 OpenSubtitles	v2018	OpenSubtitles	v1	21152745	22333	9714	.04	43.49
 OpenSubtitles	v2018	CCMatrix	v1	21152745	138875110	5947	.02	0
+OpenSubtitles	v2018	NLLB	v1	21152745	138865867	5948	.02	0
+OpenSubtitles	v2018	ParaCrawl	v1	21152745	12015289	5675	.02	.04
+OpenSubtitles	v2018	MultiParaCrawl	v7.1	21152745	5364010	3076	.01	.05
+OpenSubtitles	v2018	ParaCrawl	v8	21152745	5364010	3076	.01	.05
 OpenSubtitles	v2018	ParaCrawl	v9	21152745	5364010	3076	.01	.05
+OpenSubtitles	v2018	ParaCrawl	v7.1	21152745	5364009	3076	.01	.05
 OpenSubtitles	v2018	TED2020	v1	21152745	380258	2659	.01	.69
 OpenSubtitles	v2018	UNPC	v1.0	21152745	19744553	1624	0	0
 OpenSubtitles	v2018	LinguaTools-WikiTitles	v2014	21152745	13046006	769	0	0
@@ -22,6 +30,7 @@ OpenSubtitles	v2018	WikiMatrix	v1	21152745	1661904	791	0	.04
 OpenSubtitles	v2018	WikiTitles	v3	21152745	1123821	121	0	.01
 OpenSubtitles	v2018	Tanzil	v1	21152745	1011655	49	0	0
 OpenSubtitles	v2018	Wikipedia	v1.0	21152745	541331	449	0	.08
+OpenSubtitles	v2018	wikimedia	v20230407	21152745	506264	171	0	.03
 OpenSubtitles	v2018	wikimedia	v20210402	21152745	316871	116	0	.03
 OpenSubtitles	v2018	News-Commentary	v16	21152745	257993	332	0	.12
 OpenSubtitles	v2018	News-Commentary	v14	21152745	257991	341	0	.13

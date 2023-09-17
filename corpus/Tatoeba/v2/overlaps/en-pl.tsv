@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tatoeba	v2	Tatoeba	v2023-04-12	21524	55895	21054	97.81	37.66
 Tatoeba	v2	Tatoeba	v2022-03-03	21524	54736	21054	97.81	38.46
 Tatoeba	v2	Tatoeba	v2021-07-22	21524	54279	21054	97.81	38.78
 Tatoeba	v2	Tatoeba	v2021-03-10	21524	54235	21054	97.81	38.81
@@ -6,16 +7,26 @@ Tatoeba	v2	Tatoeba	v2020-11-09	21524	54179	21054	97.81	38.86
 Tatoeba	v2	Tatoeba	v20190709	21524	53938	21054	97.81	39.03
 Tatoeba	v2	Tatoeba	v2020-05-31	21524	54143	21045	97.77	38.86
 Tatoeba	v2	OpenSubtitles	v2018	21524	34512858	2122	9.85	0
+Tatoeba	v2	OpenSubtitles	v2016	21524	22955941	1883	8.74	0
 Tatoeba	v2	CCMatrix	v1	21524	73625347	645	2.99	0
+Tatoeba	v2	NLLB	v1	21524	73623674	645	2.99	0
 Tatoeba	v2	ParaCrawl	v9	21524	40082038	250	1.16	0
 Tatoeba	v2	QED	v2.0a	21524	482625	223	1.03	.04
+Tatoeba	v2	MultiCCAligned	v1	21524	25790086	201	.93	0
+Tatoeba	v2	ParaCrawl	v8	21524	45358407	199	.92	0
 Tatoeba	v2	CCAligned	v1	21524	12846330	196	.91	0
+Tatoeba	v2	MultiParaCrawl	v7.1	21524	13744836	159	.73	0
+Tatoeba	v2	ParaCrawl	v7.1	21524	13744835	159	.73	0
 Tatoeba	v2	OpenSubtitles	v1	21524	48573	101	.46	.20
+Tatoeba	v2	ParaCrawl	v1	21524	1270691	66	.30	0
 Tatoeba	v2	TED2020	v1	21524	293265	34	.15	.01
 Tatoeba	v2	Europarl	v8	21524	613356	26	.12	0
+Tatoeba	v2	Europarl	v7	21524	612713	26	.12	0
 Tatoeba	v2	NeuLab-TedTalks	v1	21524	185955	27	.12	.01
 Tatoeba	v2	TED2013	v1.1	21524	148046	27	.12	.01
+Tatoeba	v2	ParaCrawl	v5	21524	6336749	25	.11	0
 Tatoeba	v2	ELRA-W0241	v1	21524	57206	18	.08	.03
+Tatoeba	v2	ParaCrawl	v4	21524	3483752	12	.05	0
 Tatoeba	v2	GlobalVoices	v2018q4	21524	48868	11	.05	.02
 Tatoeba	v2	GlobalVoices	v2017q3	21524	45318	11	.05	.02
 Tatoeba	v2	GlobalVoices	v2015	21524	42295	11	.05	.02
@@ -31,6 +42,7 @@ Tatoeba	v2	XLEnt	v1.1	21524	5202602	0	0	0
 Tatoeba	v2	XLEnt	v1	21524	5202602	0	0	0
 Tatoeba	v2	XLEnt	v1.2	21524	5202602	0	0	0
 Tatoeba	v2	DGT	v2019	21524	3659053	1	0	0
+Tatoeba	v2	DGT	v4	21524	1966769	1	0	0
 Tatoeba	v2	JRC-Acquis	v3.0	21524	1048242	0	0	0
 Tatoeba	v2	ELRC-5067-SciPar	v1	21524	862076	0	0	0
 Tatoeba	v2	EUbookshop	v2	21524	461498	2	0	0
@@ -45,6 +57,7 @@ Tatoeba	v2	EuroPat	v2	21524	88959	0	0	0
 Tatoeba	v2	ELRC-1120-CORDIS_News	v1	21524	87745	1	0	0
 Tatoeba	v2	ELRC-CORDIS_News	v1	21524	87745	1	0	0
 Tatoeba	v2	ECB	v1	21524	73127	1	0	0
+Tatoeba	v2	wikimedia	v20230407	21524	72787	1	0	0
 Tatoeba	v2	wikimedia	v20210402	21524	51386	1	0	0
 Tatoeba	v2	ELRC-975-Science_Poland	v1	21524	28134	0	0	0
 Tatoeba	v2	ELRA-W0287	v1	21524	28133	0	0	0

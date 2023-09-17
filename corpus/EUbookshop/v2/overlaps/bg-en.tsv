@@ -1,8 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EUbookshop	v2	CCMatrix	v1	186306	44333768	4070	2.18	0
+EUbookshop	v2	NLLB	v1	186306	44332999	4070	2.18	0
 EUbookshop	v2	ParaCrawl	v9	186306	13264298	3305	1.77	.02
 EUbookshop	v2	ELITR-ECA	v1	186306	228660	3030	1.62	1.32
+EUbookshop	v2	ParaCrawl	v8	186306	11927055	2851	1.53	.02
 EUbookshop	v2	DGT	v2019	186306	2739551	2576	1.38	.09
+EUbookshop	v2	DGT	v4	186306	1077223	2465	1.32	.22
+EUbookshop	v2	MultiParaCrawl	v7.1	186306	6470710	1031	.55	.01
+EUbookshop	v2	ParaCrawl	v7.1	186306	6470709	1031	.55	.01
+EUbookshop	v2	MultiCCAligned	v1	186306	10351609	489	.26	0
 EUbookshop	v2	CCAligned	v1	186306	10351428	489	.26	0
 EUbookshop	v2	JRC-Acquis	v3.0	186306	28494	164	.08	.57
 EUbookshop	v2	LinguaTools-WikiTitles	v2014	186306	2444290	147	.07	0
@@ -10,6 +16,9 @@ EUbookshop	v2	XLEnt	v1.1	186306	2394543	141	.07	0
 EUbookshop	v2	XLEnt	v1	186306	2394543	141	.07	0
 EUbookshop	v2	XLEnt	v1.2	186306	2394543	141	.07	0
 EUbookshop	v2	OpenSubtitles	v2018	186306	32563039	66	.03	0
+EUbookshop	v2	OpenSubtitles	v2016	186306	26838705	61	.03	0
+EUbookshop	v2	ParaCrawl	v5	186306	2569578	60	.03	0
+EUbookshop	v2	ParaCrawl	v4	186306	1033746	54	.02	0
 EUbookshop	v2	ELRC-2712-EMEA	v1	186306	766010	53	.02	0
 EUbookshop	v2	ELRC_2682	v1	186306	766009	53	.02	0
 EUbookshop	v2	ELRC-EMEA	v1	186306	766008	53	.02	0
@@ -20,6 +29,7 @@ EUbookshop	v2	EMEA	v3	186306	328304	23	.01	0
 EUbookshop	v2	KDE4	v2	186306	102046	37	.01	.03
 EUbookshop	v2	ELRC-408-transport	v1	186306	3270	22	.01	.67
 EUbookshop	v2	Europarl	v8	186306	394736	17	0	0
+EUbookshop	v2	Europarl	v7	186306	394341	17	0	0
 EUbookshop	v2	WikiMatrix	v1	186306	357970	6	0	0
 EUbookshop	v2	TED2020	v1	186306	243925	4	0	0
 EUbookshop	v2	SETIMES	v2	186306	211181	3	0	0
@@ -29,12 +39,14 @@ EUbookshop	v2	SETIMES	v1	186306	160602	0	0	0
 EUbookshop	v2	Tanzil	v1	186306	131265	0	0	0
 EUbookshop	v2	Wikipedia	v1.0	186306	77040	0	0	0
 EUbookshop	v2	bible-uedin	v1	186306	61559	0	0	0
+EUbookshop	v2	wikimedia	v20230407	186306	60073	12	0	.01
 EUbookshop	v2	ELRC-768-corpora_State_Admini	v1	186306	50413	7	0	.01
 EUbookshop	v2	wikimedia	v20210402	186306	32277	8	0	.02
 EUbookshop	v2	ELRC-3563-EUR_LEX_covid	v1	186306	23000	5	0	.02
 EUbookshop	v2	ELRC-EUR_LEX	v1	186306	23000	5	0	.02
 EUbookshop	v2	ELRC-1176-EUIPO_2017	v1	186306	19606	6	0	.03
 EUbookshop	v2	ELRC-EUIPO_2017	v1	186306	19606	6	0	.03
+EUbookshop	v2	Tatoeba	v2023-04-12	186306	17835	4	0	.02
 EUbookshop	v2	Tatoeba	v2022-03-03	186306	17803	4	0	.02
 EUbookshop	v2	Tatoeba	v2021-07-22	186306	17800	4	0	.02
 EUbookshop	v2	Tatoeba	v2020-11-09	186306	17794	4	0	.02

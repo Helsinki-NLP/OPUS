@@ -1,8 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 StanfordNLP-NMT	v1.0	CCMatrix	v1	133039	49682115	0	0	0
+StanfordNLP-NMT	v1.0	NLLB	v1	133039	49681154	0	0	0
+StanfordNLP-NMT	v1.0	MultiCCAligned	v1	133039	12230118	1	0	0
 StanfordNLP-NMT	v1.0	CCAligned	v1	133039	12229912	1	0	0
 StanfordNLP-NMT	v1.0	OpenSubtitles	v2018	133039	3046635	0	0	0
+StanfordNLP-NMT	v1.0	OpenSubtitles	v2016	133039	1990878	0	0	0
 StanfordNLP-NMT	v1.0	WikiMatrix	v1	133039	1073752	1	0	0
+StanfordNLP-NMT	v1.0	wikimedia	v20230407	133039	613874	1	0	0
 StanfordNLP-NMT	v1.0	wikimedia	v20210402	133039	549683	1	0	0
 StanfordNLP-NMT	v1.0	TED2020	v1	133039	319120	1	0	0
 StanfordNLP-NMT	v1.0	QED	v2.0a	133039	315775	0	0	0
@@ -10,6 +14,7 @@ StanfordNLP-NMT	v1.0	NeuLab-TedTalks	v1	133039	180861	1	0	0
 StanfordNLP-NMT	v1.0	bible-uedin	v1	133039	119297	0	0	0
 StanfordNLP-NMT	v1.0	KDE4	v2	133039	39809	0	0	0
 StanfordNLP-NMT	v1.0	Wikipedia	v1.0	133039	36186	0	0	0
+StanfordNLP-NMT	v1.0	Tatoeba	v2023-04-12	133039	6849	1	0	.01
 StanfordNLP-NMT	v1.0	Tatoeba	v2022-03-03	133039	5689	1	0	.01
 StanfordNLP-NMT	v1.0	Tatoeba	v2021-07-22	133039	5633	1	0	.01
 StanfordNLP-NMT	v1.0	Tatoeba	v2021-03-10	133039	5630	1	0	.01

@@ -1,6 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-4324-Government_Offices_I	v1	ELRC-506-www.lanamal.is	v1	18176	1140	270	1.48	23.68
 ELRC-4324-Government_Offices_I	v1	ParIce	v1	18176	1480222	160	.88	.01
+ELRC-4324-Government_Offices_I	v1	MultiCCAligned	v1	18176	1186757	101	.55	0
 ELRC-4324-Government_Offices_I	v1	CCAligned	v1	18176	1186739	101	.55	0
 ELRC-4324-Government_Offices_I	v1	ELRC-2718-EMEA	v1	18176	536600	49	.26	0
 ELRC-4324-Government_Offices_I	v1	ELRC-EMEA	v1	18176	536600	49	.26	0
@@ -11,15 +12,21 @@ ELRC-4324-Government_Offices_I	v1	XLEnt	v1.1	18176	930819	34	.18	0
 ELRC-4324-Government_Offices_I	v1	XLEnt	v1	18176	930819	34	.18	0
 ELRC-4324-Government_Offices_I	v1	XLEnt	v1.2	18176	930819	34	.18	0
 ELRC-4324-Government_Offices_I	v1	CCMatrix	v1	18176	8678395	22	.12	0
+ELRC-4324-Government_Offices_I	v1	NLLB	v1	18176	8678252	22	.12	0
 ELRC-4324-Government_Offices_I	v1	ELRC-4338-University_Iceland	v1	18176	9808	20	.11	.20
 ELRC-4324-Government_Offices_I	v1	ELRC-728-www.norden.org	v1	18176	41073	18	.09	.04
 ELRC-4324-Government_Offices_I	v1	ELRC-www.norden.org	v1	18176	41073	18	.09	.04
 ELRC-4324-Government_Offices_I	v1	ELRC-4327-Government_Offices_I	v1	18176	36262	17	.09	.04
 ELRC-4324-Government_Offices_I	v1	EUbookshop	v2	18176	9221	16	.08	.17
 ELRC-4324-Government_Offices_I	v1	ParaCrawl	v9	18176	2967520	10	.05	0
+ELRC-4324-Government_Offices_I	v1	ParaCrawl	v8	18176	5724257	9	.04	0
 ELRC-4324-Government_Offices_I	v1	GNOME	v1	18176	5424	9	.04	.16
+ELRC-4324-Government_Offices_I	v1	wikimedia	v20230407	18176	4394	8	.04	.18
 ELRC-4324-Government_Offices_I	v1	wikimedia	v20210402	18176	2274	8	.04	.35
+ELRC-4324-Government_Offices_I	v1	MultiParaCrawl	v7.1	18176	2392423	6	.03	0
+ELRC-4324-Government_Offices_I	v1	ParaCrawl	v7.1	18176	2392422	5	.02	0
 ELRC-4324-Government_Offices_I	v1	OpenSubtitles	v2018	18176	1361307	4	.02	0
+ELRC-4324-Government_Offices_I	v1	OpenSubtitles	v2016	18176	1195814	4	.02	0
 ELRC-4324-Government_Offices_I	v1	ECDC	v2016-03-16	18176	2427	5	.02	.20
 ELRC-4324-Government_Offices_I	v1	Ubuntu	v14.10	18176	2126	4	.02	.18
 ELRC-4324-Government_Offices_I	v1	ELRC-5067-SciPar	v1	18176	110831	1	0	0
@@ -28,6 +35,7 @@ ELRC-4324-Government_Offices_I	v1	bible-uedin	v1	18176	61464	0	0	0
 ELRC-4324-Government_Offices_I	v1	WikiTitles	v3	18176	46698	1	0	0
 ELRC-4324-Government_Offices_I	v1	QED	v2.0a	18176	26217	0	0	0
 ELRC-4324-Government_Offices_I	v1	ELRC-4295-www.malfong.is	v1	18176	12225	1	0	0
+ELRC-4324-Government_Offices_I	v1	Tatoeba	v2023-04-12	18176	9595	1	0	.01
 ELRC-4324-Government_Offices_I	v1	Tatoeba	v2022-03-03	18176	9518	1	0	.01
 ELRC-4324-Government_Offices_I	v1	Tatoeba	v2021-03-10	18176	9440	1	0	.01
 ELRC-4324-Government_Offices_I	v1	Tatoeba	v2021-07-22	18176	9440	1	0	.01

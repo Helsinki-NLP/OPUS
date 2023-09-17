@@ -1,10 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	9283	18334	9142	98.48	49.86
 wikimedia	v20210402	CCMatrix	v1	9283	37874215	423	4.55	0
+wikimedia	v20210402	NLLB	v1	9283	37873653	423	4.55	0
 wikimedia	v20210402	WikiMatrix	v1	9283	178985	232	2.49	.12
 wikimedia	v20210402	ParaCrawl	v9	9283	22901691	172	1.85	0
+wikimedia	v20210402	ParaCrawl	v8	9283	13010368	137	1.47	0
 wikimedia	v20210402	ELRC-4154-NTEU_TierA	v1	9283	7753851	109	1.17	0
+wikimedia	v20210402	MultiCCAligned	v1	9283	6902007	91	.98	0
 wikimedia	v20210402	CCAligned	v1	9283	6901883	91	.98	0
 wikimedia	v20210402	DGT	v2019	9283	3664713	66	.71	0
+wikimedia	v20210402	DGT	v4	9283	1989770	65	.70	0
 wikimedia	v20210402	TildeMODEL	v2018	9283	2133398	59	.63	0
 wikimedia	v20210402	XLEnt	v1.1	9283	2448949	49	.52	0
 wikimedia	v20210402	XLEnt	v1.2	9283	2448949	49	.52	0
@@ -21,9 +26,12 @@ wikimedia	v20210402	ELRC-2880-EU_publications_medi	v1	9283	12920	4	.04	.03
 wikimedia	v20210402	ELRC-EU_publications	v1	9283	12920	4	.04	.03
 wikimedia	v20210402	PHP	v1	9283	4342	4	.04	.09
 wikimedia	v20210402	OpenSubtitles	v2018	9283	7267912	3	.03	0
+wikimedia	v20210402	OpenSubtitles	v2016	9283	5866246	3	.03	0
+wikimedia	v20210402	MultiParaCrawl	v7.1	9283	4883370	3	.03	0
 wikimedia	v20210402	QED	v2.0a	9283	162438	3	.03	0
 wikimedia	v20210402	ELRC-1072-annual_reports_immig	v1	9283	8030	3	.03	.03
 wikimedia	v20210402	GNOME	v1	9283	149	3	.03	2.01
+wikimedia	v20210402	ParaCrawl	v7.1	9283	4883369	2	.02	0
 wikimedia	v20210402	ELRC-3570-EUR_LEX_covid	v1	9283	22470	2	.02	0
 wikimedia	v20210402	ELRC-EUR_LEX	v1	9283	22470	2	.02	0
 wikimedia	v20210402	ELRC-1179-EUIPO_2017	v1	9283	16311	2	.02	.01
@@ -52,7 +60,10 @@ wikimedia	v20210402	ELRC-2745-vaccination	v1	9283	510	1	.01	.19
 wikimedia	v20210402	ELRC-vaccination	v1	9283	510	1	.01	.19
 wikimedia	v20210402	ELRC-3076-wikipedia_health	v1	9283	134	1	.01	.74
 wikimedia	v20210402	ELRC-wikipedia_health	v1	9283	134	1	.01	.74
+wikimedia	v20210402	ParaCrawl	v5	9283	2337731	0	0	0
+wikimedia	v20210402	ParaCrawl	v4	9283	1576398	0	0	0
 wikimedia	v20210402	Europarl	v8	9283	620170	0	0	0
+wikimedia	v20210402	Europarl	v7	9283	619796	0	0	0
 wikimedia	v20210402	bible-uedin	v1	9283	61539	0	0	0
 wikimedia	v20210402	EUconst	v1	9283	6743	0	0	0
 wikimedia	v20210402	ELRC_3382	v1	9283	3624	0	0	0

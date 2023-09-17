@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1020-collection_about_Cyp	v1	DGT	v2019	1869	3679234	16	.85	0
+ELRC-1020-collection_about_Cyp	v1	DGT	v4	1869	2027952	15	.80	0
 ELRC-1020-collection_about_Cyp	v1	EUbookshop	v2	1869	3606516	14	.74	0
+ELRC-1020-collection_about_Cyp	v1	MultiCCAligned	v1	1869	8792897	13	.69	0
 ELRC-1020-collection_about_Cyp	v1	CCAligned	v1	1869	8792737	13	.69	0
 ELRC-1020-collection_about_Cyp	v1	CCMatrix	v1	1869	48860900	12	.64	0
+ELRC-1020-collection_about_Cyp	v1	NLLB	v1	1869	48859850	12	.64	0
 ELRC-1020-collection_about_Cyp	v1	EUconst	v1	1869	6666	9	.48	.13
 ELRC-1020-collection_about_Cyp	v1	ELRC-1970-governmental_about_M	v1	1869	1432	9	.48	.62
 ELRC-1020-collection_about_Cyp	v1	ELRC-1986-Constitution_Greece	v1	1869	1022	9	.48	.88
@@ -13,7 +16,9 @@ ELRC-1020-collection_about_Cyp	v1	ELRC-419-Greek_legislation_An	v1	1869	1066	8	.
 ELRC-1020-collection_about_Cyp	v1	ELRA-W0164	v1	1869	1065	7	.37	.65
 ELRC-1020-collection_about_Cyp	v1	ECB	v1	1869	102932	5	.26	0
 ELRC-1020-collection_about_Cyp	v1	SPC	v1	1869	7034	3	.16	.04
+ELRC-1020-collection_about_Cyp	v1	ParaCrawl	v8	1869	34585108	2	.10	0
 ELRC-1020-collection_about_Cyp	v1	OpenSubtitles	v2018	1869	33318146	2	.10	0
+ELRC-1020-collection_about_Cyp	v1	OpenSubtitles	v2016	1869	26021007	2	.10	0
 ELRC-1020-collection_about_Cyp	v1	ELITR-ECA	v1	1869	329071	2	.10	0
 ELRC-1020-collection_about_Cyp	v1	ELRC-3562-EUR_LEX_covid	v1	1869	23018	2	.10	0
 ELRC-1020-collection_about_Cyp	v1	ELRC-EUR_LEX	v1	1869	23018	2	.10	0
@@ -23,6 +28,7 @@ ELRC-1020-collection_about_Cyp	v1	ELRC-presscorner_covid	v1	1869	6626	2	.10	.03
 ELRC-1020-collection_about_Cyp	v1	ELRC-932-Hellenic_Foreign_Aff	v1	1869	3428	2	.10	.05
 ELRC-1020-collection_about_Cyp	v1	ELRC-662-Expression_interest	v1	1869	85	2	.10	2.35
 ELRC-1020-collection_about_Cyp	v1	ParaCrawl	v9	1869	21402043	1	.05	0
+ELRC-1020-collection_about_Cyp	v1	MultiParaCrawl	v7.1	1869	9402609	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	XLEnt	v1.1	1869	2799832	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	XLEnt	v1	1869	2799832	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	XLEnt	v1.2	1869	2799832	1	.05	0
@@ -31,10 +37,12 @@ ELRC-1020-collection_about_Cyp	v1	ELRC-EMEA	v1	1869	774830	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	ELRC-2711-EMEA	v1	1869	774829	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	ELRC-5067-SciPar	v1	1869	742987	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	WikiMatrix	v1	1869	620802	1	.05	0
+ELRC-1020-collection_about_Cyp	v1	wikimedia	v20230407	1869	549337	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	TED2020	v1	1869	262648	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	wikimedia	v20210402	1869	229838	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	NeuLab-TedTalks	v1	1869	149750	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	GlobalVoices	v2018q4	1869	112880	1	.05	0
+ELRC-1020-collection_about_Cyp	v1	Tatoeba	v2023-04-12	1869	25970	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	Tatoeba	v2022-03-03	1869	24112	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	Tatoeba	v2021-07-22	1869	23813	1	.05	0
 ELRC-1020-collection_about_Cyp	v1	Tatoeba	v2021-03-10	1869	23365	1	.05	0
@@ -82,8 +90,13 @@ ELRC-1020-collection_about_Cyp	v1	ELRC-3856-PRESS	v1	1869	35	1	.05	2.85
 ELRC-1020-collection_about_Cyp	v1	ELRC-416-Swedish_Social_Secur	v1	1869	30	1	.05	3.33
 ELRC-1020-collection_about_Cyp	v1	ELRC-1021-Commitment_Property_	v1	1869	23	1	.05	4.34
 ELRC-1020-collection_about_Cyp	v1	ELRC-403-Rights_Arrested	v1	1869	22	1	.05	4.54
+ELRC-1020-collection_about_Cyp	v1	ParaCrawl	v7.1	1869	9402608	0	0	0
+ELRC-1020-collection_about_Cyp	v1	ParaCrawl	v5	1869	3803749	0	0	0
+ELRC-1020-collection_about_Cyp	v1	ParaCrawl	v4	1869	1976986	0	0	0
 ELRC-1020-collection_about_Cyp	v1	Europarl	v8	1869	1260921	0	0	0
+ELRC-1020-collection_about_Cyp	v1	Europarl	v7	1869	1260526	0	0	0
 ELRC-1020-collection_about_Cyp	v1	ELRC_2682	v1	1869	774829	0	0	0
+ELRC-1020-collection_about_Cyp	v1	Europarl	v3	1869	646689	0	0	0
 ELRC-1020-collection_about_Cyp	v1	QED	v2.0a	1869	496445	0	0	0
 ELRC-1020-collection_about_Cyp	v1	EMEA	v3	1869	368049	0	0	0
 ELRC-1020-collection_about_Cyp	v1	SETIMES	v2	1869	224806	0	0	0

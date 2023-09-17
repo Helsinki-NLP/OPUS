@@ -1,8 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	2035	6033	2019	99.21	33.46
+wikimedia	v20210402	NLLB	v1	2035	14726004	283	13.90	0
 wikimedia	v20210402	wikimedia	v20190628	2035	90	31	1.52	34.44
+wikimedia	v20210402	ParaCrawl	v8	2035	1604136	15	.73	0
 wikimedia	v20210402	ParaCrawl	v9	2035	1207761	12	.58	0
 wikimedia	v20210402	TildeMODEL	v2018	2035	1944924	9	.44	0
 wikimedia	v20210402	DGT	v2019	2035	2737811	8	.39	0
+wikimedia	v20210402	DGT	v4	2035	1097225	6	.29	0
 wikimedia	v20210402	ELRC-2709-EMEA	v1	2035	405848	6	.29	0
 wikimedia	v20210402	ELRC-EMEA	v1	2035	405848	6	.29	0
 wikimedia	v20210402	EUbookshop	v2	2035	241067	5	.24	0
@@ -14,6 +18,7 @@ wikimedia	v20210402	ELRC-2870-EU_publications_medi	v1	2035	3086	3	.14	.09
 wikimedia	v20210402	ELRC-EU_publications	v1	2035	3086	3	.14	.09
 wikimedia	v20210402	ELRC-3560-EUR_LEX_covid	v1	2035	4710	2	.09	.04
 wikimedia	v20210402	ELRC-EUR_LEX	v1	2035	4710	2	.09	.04
+wikimedia	v20210402	MultiParaCrawl	v7.1	2035	856984	1	.04	0
 wikimedia	v20210402	ELITR-ECA	v1	2035	261509	1	.04	0
 wikimedia	v20210402	JRC-Acquis	v3.0	2035	12383	1	.04	0
 wikimedia	v20210402	ELRC-807-Malta_Government_Gaz	v1	2035	4005	1	.04	.02
@@ -26,6 +31,7 @@ wikimedia	v20210402	ELRC-2746-vaccination	v1	2035	472	1	.04	.21
 wikimedia	v20210402	ELRC-vaccination	v1	2035	472	1	.04	.21
 wikimedia	v20210402	ELRC-3197-antibiotic	v1	2035	392	1	.04	.25
 wikimedia	v20210402	ELRC-antibiotic	v1	2035	392	1	.04	.25
+wikimedia	v20210402	Tatoeba	v2023-04-12	2035	253	1	.04	.39
 wikimedia	v20210402	Tatoeba	v2022-03-03	2035	206	1	.04	.48
 wikimedia	v20210402	Tatoeba	v2020-11-09	2035	205	1	.04	.48
 wikimedia	v20210402	Tatoeba	v2021-03-10	2035	205	1	.04	.48
@@ -34,6 +40,10 @@ wikimedia	v20210402	TED2020	v1	2035	171	1	.04	.58
 wikimedia	v20210402	ELRC-3288-EUROPARL_covid	v1	2035	142	1	.04	.70
 wikimedia	v20210402	ELRC-EUROPARL_covid	v1	2035	142	1	.04	.70
 wikimedia	v20210402	CCAligned	v1	2035	27	1	.04	3.70
+wikimedia	v20210402	MultiCCAligned	v1	2035	27	1	.04	3.70
+wikimedia	v20210402	ParaCrawl	v7.1	2035	856983	0	0	0
+wikimedia	v20210402	ParaCrawl	v4	2035	193983	0	0	0
+wikimedia	v20210402	ParaCrawl	v5	2035	176423	0	0	0
 wikimedia	v20210402	QED	v2.0a	2035	17978	0	0	0
 wikimedia	v20210402	ELRA-W0234	v1	2035	7172	0	0	0
 wikimedia	v20210402	EUconst	v1	2035	6717	0	0	0

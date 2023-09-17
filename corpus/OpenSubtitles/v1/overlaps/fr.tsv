@@ -1,19 +1,32 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+OpenSubtitles	v1	OpenSubtitles	v2012	535394	18177724	425223	79.42	2.33
 OpenSubtitles	v1	OpenSubtitles	v2018	535394	42876478	405726	75.78	.94
+OpenSubtitles	v1	OpenSubtitles	v2016	535394	36854261	403337	75.33	1.09
+OpenSubtitles	v1	OpenSubtitles	v2013	535394	17694776	164590	30.74	.93
 OpenSubtitles	v1	MultiParaCrawl	v9	535394	187085885	22746	4.24	.01
 OpenSubtitles	v1	MultiParaCrawl	v9b	535394	187085885	22746	4.24	.01
 OpenSubtitles	v1	ParaCrawl	v9	535394	187085885	22746	4.24	.01
 OpenSubtitles	v1	MultiParaCrawl	v8	535394	199141573	22689	4.23	.01
+OpenSubtitles	v1	ParaCrawl	v8	535394	199141573	22689	4.23	.01
 OpenSubtitles	v1	CCMatrix	v1	535394	798656090	22118	4.13	0
+OpenSubtitles	v1	MultiParaCrawl	v7.1	535394	102000359	19468	3.63	.01
+OpenSubtitles	v1	ParaCrawl	v7.1	535394	102000359	19468	3.63	.01
 OpenSubtitles	v1	MultiCCAligned	v1.1	535394	102410788	17073	3.18	.01
+OpenSubtitles	v1	MultiCCAligned	v1	535394	102410788	17073	3.18	.01
 OpenSubtitles	v1	CCAligned	v1	535394	102410685	17073	3.18	.01
 OpenSubtitles	v1	QED	v2.0a	535394	1265895	13749	2.56	1.08
+OpenSubtitles	v1	ParaCrawl	v1	535394	27422308	11990	2.23	.04
+OpenSubtitles	v1	Tatoeba	v2023-04-12	535394	554763	9665	1.80	1.74
+OpenSubtitles	v1	MultiParaCrawl	v5	535394	52742733	9599	1.79	.01
+OpenSubtitles	v1	ParaCrawl	v5	535394	52742733	9599	1.79	.01
 OpenSubtitles	v1	Tatoeba	v2022-03-03	535394	509441	9049	1.69	1.77
+OpenSubtitles	v1	ParaCrawl	v4	535394	35218228	8657	1.61	.02
 OpenSubtitles	v1	Tatoeba	v2021-03-10	535394	469229	8537	1.59	1.81
 OpenSubtitles	v1	Tatoeba	v2020-11-09	535394	452708	8308	1.55	1.83
 OpenSubtitles	v1	Tatoeba	v2021-07-22	535394	444821	8191	1.52	1.84
 OpenSubtitles	v1	Tatoeba	v2020-05-31	535394	435694	7988	1.49	1.83
 OpenSubtitles	v1	Tatoeba	v20190709	535394	394746	7409	1.38	1.87
+OpenSubtitles	v1	NLLB	v1	535394	179205345	5511	1.02	0
 OpenSubtitles	v1	Tatoeba	v2	535394	224269	4187	.78	1.86
 OpenSubtitles	v1	EhuHac	v1	535394	602206	2976	.55	.49
 OpenSubtitles	v1	TED2020	v1	535394	437124	2879	.53	.65
@@ -23,8 +36,11 @@ OpenSubtitles	v1	EUbookshop	v2	535394	13922861	2097	.39	.01
 OpenSubtitles	v1	ELRC-4159-NTEU_TierA	v1	535394	11724160	2127	.39	.01
 OpenSubtitles	v1	ELRC-4166-NTEU_TierA	v1	535394	9514731	2111	.39	.02
 OpenSubtitles	v1	Europarl	v8	535394	2180255	1763	.32	.08
+OpenSubtitles	v1	Europarl	v7	535394	2179933	1753	.32	.08
+OpenSubtitles	v1	NeuLab-TedTalks	v1	535394	234635	1732	.32	.73
 OpenSubtitles	v1	giga-fren	v2	535394	21270622	1702	.31	0
 OpenSubtitles	v1	UNPC	v1.0	535394	24410320	1370	.25	0
+OpenSubtitles	v1	Europarl	v3	535394	1444898	1374	.25	.09
 OpenSubtitles	v1	ELRC-4227-NTEU_TierA	v1	535394	7414675	1191	.22	.01
 OpenSubtitles	v1	ELRC-4250-NTEU_TierA	v1	535394	7092287	1168	.21	.01
 OpenSubtitles	v1	ELRC-4212-NTEU_TierA	v1	535394	6955376	1161	.21	.01
@@ -35,7 +51,10 @@ OpenSubtitles	v1	GlobalVoices	v2015	535394	364202	943	.17	.25
 OpenSubtitles	v1	TildeMODEL	v2018	535394	5592948	777	.14	.01
 OpenSubtitles	v1	TED2013	v1.1	535394	158664	773	.14	.48
 OpenSubtitles	v1	XLEnt	v1.1	535394	6760567	693	.12	.01
+OpenSubtitles	v1	XLEnt	v1.2	535394	6760567	693	.12	.01
 OpenSubtitles	v1	XLEnt	v1	535394	6760567	693	.12	.01
+OpenSubtitles	v1	LinguaTools-WikiTitles	v2014	535394	2720213	691	.12	.02
+OpenSubtitles	v1	wikimedia	v20230407	535394	2676731	602	.11	.02
 OpenSubtitles	v1	wikimedia	v20210402	535394	1749281	458	.08	.02
 OpenSubtitles	v1	Books	v1	535394	161963	455	.08	.28
 OpenSubtitles	v1	WikiTitles	v3	535394	895267	414	.07	.04
@@ -47,6 +66,7 @@ OpenSubtitles	v1	News-Commentary	v16	535394	428439	249	.04	.05
 OpenSubtitles	v1	News-Commentary	v14	535394	375202	233	.04	.06
 OpenSubtitles	v1	ELRC-5174-French_Polish_Ukrain	v1	535394	33759	238	.04	.70
 OpenSubtitles	v1	EuroPat	v2	535394	11489429	161	.03	0
+OpenSubtitles	v1	DGT	v4	535394	1884522	188	.03	0
 OpenSubtitles	v1	News-Commentary	v11	535394	268393	200	.03	.07
 OpenSubtitles	v1	KDE4	v2	535394	166905	179	.03	.10
 OpenSubtitles	v1	ELRC-2410-Portal_oficial_turis	v1	535394	147965	179	.03	.12
@@ -76,6 +96,7 @@ OpenSubtitles	v1	ELRC-CORDIS_Results	v1	535394	259815	10	0	0
 OpenSubtitles	v1	ELRC-1118-CORDIS_News	v1	535394	132399	38	0	.02
 OpenSubtitles	v1	ELRC-CORDIS_News	v1	535394	132399	38	0	.02
 OpenSubtitles	v1	ELRC-5179-acts_Ukrainian	v1	535394	126028	33	0	.02
+OpenSubtitles	v1	FFR	v2	535394	60892	48	0	.07
 OpenSubtitles	v1	UN	v20090831	535394	59831	4	0	0
 OpenSubtitles	v1	ELRC-EUIPO_list	v1	535394	53568	3	0	0
 OpenSubtitles	v1	ELRA-W0148	v1	535394	44242	2	0	0
@@ -123,6 +144,7 @@ OpenSubtitles	v1	ELRC-398-Portuguese_legislati	v1	535394	2714	2	0	.07
 OpenSubtitles	v1	ELRC-1796-Coalition_Agreement_	v1	535394	2589	1	0	.03
 OpenSubtitles	v1	ELRC-3468-EC_EUROPA_covid	v1	535394	2567	4	0	.15
 OpenSubtitles	v1	ELRC-EC_EUROPA	v1	535394	2567	4	0	.15
+OpenSubtitles	v1	ECDC	v2016-03-16	535394	2532	1	0	.03
 OpenSubtitles	v1	ELRC-422-Portuguese_legislati	v1	535394	2446	1	0	.04
 OpenSubtitles	v1	ELRC-1797-Budget_Belgium	v1	535394	2087	1	0	.04
 OpenSubtitles	v1	ELRC-Localidades_2007	v1	535394	1852	0	0	0
@@ -181,6 +203,7 @@ OpenSubtitles	v1	ELRC-2625-Patrimnio_Aores_2006	v1	535394	64	0	0	0
 OpenSubtitles	v1	ELRC-2579-Avian_influenza_bios	v1	535394	56	0	0	0
 OpenSubtitles	v1	Ubuntu	v14.10	535394	46	1	0	2.17
 OpenSubtitles	v1	liv4ever	v1	535394	28	0	0	0
+OpenSubtitles	v1	ELRC-5220-Information_crime_vi	v1	535394	27	0	0	0
 OpenSubtitles	v1	ELRA-W0301	v1	535394	23	0	0	0
 OpenSubtitles	v1	ELRC-403-Rights_Arrested	v1	535394	23	0	0	0
 OpenSubtitles	v1	ELRC-417-Swedish_Work_Environ	v1	535394	19	0	0	0

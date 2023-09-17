@@ -1,6 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-496-Convention_transfer_	v1	ELRA-W0196	v1	112	111	111	99.10	100.00
 ELRC-496-Convention_transfer_	v1	ParaCrawl	v9	112	21402043	4	3.57	0
+ELRC-496-Convention_transfer_	v1	ParaCrawl	v8	112	34585108	3	2.67	0
+ELRC-496-Convention_transfer_	v1	MultiParaCrawl	v7.1	112	9402609	2	1.78	0
+ELRC-496-Convention_transfer_	v1	MultiCCAligned	v1	112	8792897	2	1.78	0
 ELRC-496-Convention_transfer_	v1	CCAligned	v1	112	8792737	2	1.78	0
 ELRC-496-Convention_transfer_	v1	EUbookshop	v2	112	3606516	2	1.78	0
 ELRC-496-Convention_transfer_	v1	XLEnt	v1.1	112	2799832	2	1.78	0
@@ -9,17 +12,24 @@ ELRC-496-Convention_transfer_	v1	XLEnt	v1.2	112	2799832	2	1.78	0
 ELRC-496-Convention_transfer_	v1	ELRC-1984-Hellenic_Gaming_Comm	v1	112	3870	2	1.78	.05
 ELRC-496-Convention_transfer_	v1	ELRC-1970-governmental_about_M	v1	112	1432	2	1.78	.13
 ELRC-496-Convention_transfer_	v1	OpenSubtitles	v2018	112	33318146	1	.89	0
+ELRC-496-Convention_transfer_	v1	OpenSubtitles	v2016	112	26021007	1	.89	0
+ELRC-496-Convention_transfer_	v1	ParaCrawl	v7.1	112	9402608	1	.89	0
+ELRC-496-Convention_transfer_	v1	ParaCrawl	v5	112	3803749	1	.89	0
 ELRC-496-Convention_transfer_	v1	DGT	v2019	112	3679234	1	.89	0
+ELRC-496-Convention_transfer_	v1	DGT	v4	112	2027952	1	.89	0
+ELRC-496-Convention_transfer_	v1	ParaCrawl	v4	112	1976986	1	.89	0
 ELRC-496-Convention_transfer_	v1	LinguaTools-WikiTitles	v2014	112	1795210	1	.89	0
 ELRC-496-Convention_transfer_	v1	ELRC-EMEA	v1	112	774830	1	.89	0
 ELRC-496-Convention_transfer_	v1	ELRC-2711-EMEA	v1	112	774829	1	.89	0
 ELRC-496-Convention_transfer_	v1	ELRC-5067-SciPar	v1	112	742987	1	.89	0
 ELRC-496-Convention_transfer_	v1	WikiMatrix	v1	112	620802	1	.89	0
+ELRC-496-Convention_transfer_	v1	wikimedia	v20230407	112	549337	1	.89	0
 ELRC-496-Convention_transfer_	v1	ELITR-ECA	v1	112	329071	1	.89	0
 ELRC-496-Convention_transfer_	v1	TED2020	v1	112	262648	1	.89	0
 ELRC-496-Convention_transfer_	v1	wikimedia	v20210402	112	229838	1	.89	0
 ELRC-496-Convention_transfer_	v1	NeuLab-TedTalks	v1	112	149750	1	.89	0
 ELRC-496-Convention_transfer_	v1	GlobalVoices	v2018q4	112	112880	1	.89	0
+ELRC-496-Convention_transfer_	v1	Tatoeba	v2023-04-12	112	25970	1	.89	0
 ELRC-496-Convention_transfer_	v1	Tatoeba	v2022-03-03	112	24112	1	.89	0
 ELRC-496-Convention_transfer_	v1	Tatoeba	v2021-07-22	112	23813	1	.89	0
 ELRC-496-Convention_transfer_	v1	Tatoeba	v2021-03-10	112	23365	1	.89	0
@@ -74,8 +84,11 @@ ELRC-496-Convention_transfer_	v1	ELRC-416-Swedish_Social_Secur	v1	112	30	1	.89	3
 ELRC-496-Convention_transfer_	v1	ELRC-1021-Commitment_Property_	v1	112	23	1	.89	4.34
 ELRC-496-Convention_transfer_	v1	ELRC-403-Rights_Arrested	v1	112	22	1	.89	4.54
 ELRC-496-Convention_transfer_	v1	CCMatrix	v1	112	48860900	0	0	0
+ELRC-496-Convention_transfer_	v1	NLLB	v1	112	48859850	0	0	0
 ELRC-496-Convention_transfer_	v1	Europarl	v8	112	1260921	0	0	0
+ELRC-496-Convention_transfer_	v1	Europarl	v7	112	1260526	0	0	0
 ELRC-496-Convention_transfer_	v1	ELRC_2682	v1	112	774829	0	0	0
+ELRC-496-Convention_transfer_	v1	Europarl	v3	112	646689	0	0	0
 ELRC-496-Convention_transfer_	v1	QED	v2.0a	112	496445	0	0	0
 ELRC-496-Convention_transfer_	v1	EMEA	v3	112	368049	0	0	0
 ELRC-496-Convention_transfer_	v1	SETIMES	v2	112	224806	0	0	0

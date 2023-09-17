@@ -1,13 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	Europarl	v7	607267	606871	606868	99.93	99.99
+Europarl	v8	ParaCrawl	v8	607267	12681301	14442	2.37	.11
 Europarl	v8	ParaCrawl	v9	607267	36432545	14380	2.36	.03
 Europarl	v8	CCMatrix	v1	607267	36215097	7067	1.16	.01
+Europarl	v8	NLLB	v1	607267	36214340	7067	1.16	.01
 Europarl	v8	OpenSubtitles	v2018	607267	34466630	1092	.17	0
+Europarl	v8	OpenSubtitles	v2016	607267	27507360	1006	.16	0
+Europarl	v8	MultiParaCrawl	v7.1	607267	6693019	195	.03	0
+Europarl	v8	ParaCrawl	v7.1	607267	6693018	195	.03	0
 Europarl	v8	QED	v2.0a	607267	309930	209	.03	.06
+Europarl	v8	MultiCCAligned	v1	607267	11529935	129	.02	0
 Europarl	v8	CCAligned	v1	607267	11529736	129	.02	0
 Europarl	v8	TED2020	v1	607267	300676	141	.02	.04
 Europarl	v8	TildeMODEL	v2018	607267	1937632	77	.01	0
 Europarl	v8	JRC-Acquis	v3.0	607267	349092	65	.01	.01
 Europarl	v8	NeuLab-TedTalks	v1	607267	155678	90	.01	.05
+Europarl	v8	Tatoeba	v2023-04-12	607267	116753	92	.01	.07
 Europarl	v8	Tatoeba	v2022-03-03	607267	113410	92	.01	.08
 Europarl	v8	Tatoeba	v2021-07-22	607267	110158	92	.01	.08
 Europarl	v8	Tatoeba	v2021-03-10	607267	109023	92	.01	.08
@@ -15,11 +23,14 @@ Europarl	v8	Tatoeba	v2020-11-09	607267	107116	92	.01	.08
 Europarl	v8	OpenSubtitles	v1	607267	106871	73	.01	.06
 Europarl	v8	Tatoeba	v2020-05-31	607267	105928	92	.01	.08
 Europarl	v8	Tatoeba	v20190709	607267	102930	91	.01	.08
+Europarl	v8	ParaCrawl	v5	607267	4171097	36	0	0
 Europarl	v8	DGT	v2019	607267	3673722	46	0	0
 Europarl	v8	LinguaTools-WikiTitles	v2014	607267	3548953	29	0	0
 Europarl	v8	XLEnt	v1.1	607267	3427854	20	0	0
 Europarl	v8	XLEnt	v1.2	607267	3427854	20	0	0
 Europarl	v8	XLEnt	v1	607267	3427854	20	0	0
+Europarl	v8	DGT	v4	607267	1988362	41	0	0
+Europarl	v8	ParaCrawl	v4	607267	1892152	10	0	0
 Europarl	v8	ELRC-2715-EMEA	v1	607267	765041	9	0	0
 Europarl	v8	ELRC-EMEA	v1	607267	765041	9	0	0
 Europarl	v8	WikiMatrix	v1	607267	488277	4	0	0
@@ -28,6 +39,7 @@ Europarl	v8	EMEA	v3	607267	344006	54	0	.01
 Europarl	v8	ELITR-ECA	v1	607267	256227	58	0	.02
 Europarl	v8	Books	v1	607267	136383	26	0	.01
 Europarl	v8	KDE4	v2	607267	108840	30	0	.02
+Europarl	v8	wikimedia	v20230407	607267	87709	3	0	0
 Europarl	v8	ECB	v1	607267	71947	3	0	0
 Europarl	v8	bible-uedin	v1	607267	61585	0	0	0
 Europarl	v8	Wikipedia	v1.0	607267	55935	34	0	.06

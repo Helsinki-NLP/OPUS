@@ -1,18 +1,28 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 NeuLab-TedTalks	v1	TED2020	v1	108494	166657	84859	78.21	50.91
 NeuLab-TedTalks	v1	QED	v2.0a	108494	422723	51079	47.08	12.08
+NeuLab-TedTalks	v1	ParaCrawl	v8	108494	50152198	13785	12.70	.02
 NeuLab-TedTalks	v1	StanfordNLP-NMT	v1.0	108494	11065607	12863	11.85	.11
+NeuLab-TedTalks	v1	MultiParaCrawl	v7.1	108494	14083301	10550	9.72	.07
+NeuLab-TedTalks	v1	ParaCrawl	v7.1	108494	14083300	10543	9.71	.07
 NeuLab-TedTalks	v1	ParaCrawl	v9	108494	50632491	9355	8.62	.01
 NeuLab-TedTalks	v1	CCMatrix	v1	108494	55956324	2457	2.26	0
+NeuLab-TedTalks	v1	NLLB	v1	108494	55955382	2457	2.26	0
 NeuLab-TedTalks	v1	OpenSubtitles	v2018	108494	33781924	969	.89	0
+NeuLab-TedTalks	v1	OpenSubtitles	v2016	108494	27473068	890	.82	0
+NeuLab-TedTalks	v1	MultiCCAligned	v1	108494	12660555	709	.65	0
 NeuLab-TedTalks	v1	CCAligned	v1	108494	12660340	709	.65	0
 NeuLab-TedTalks	v1	OpenSubtitles	v1	108494	343652	229	.21	.06
 NeuLab-TedTalks	v1	Europarl	v8	108494	628484	79	.07	.01
+NeuLab-TedTalks	v1	Europarl	v7	108494	628103	79	.07	.01
+NeuLab-TedTalks	v1	ParaCrawl	v1	108494	9987509	67	.06	0
 NeuLab-TedTalks	v1	News-Commentary	v14	108494	212212	29	.02	.01
 NeuLab-TedTalks	v1	News-Commentary	v16	108494	212206	27	.02	.01
 NeuLab-TedTalks	v1	News-Commentary	v11	108494	177020	25	.02	.01
 NeuLab-TedTalks	v1	News-Commentary	v9.0	108494	145950	24	.02	.01
 NeuLab-TedTalks	v1	News-Commentary	v9.1	108494	145950	24	.02	.01
+NeuLab-TedTalks	v1	ParaCrawl	v5	108494	5224048	15	.01	0
+NeuLab-TedTalks	v1	Tatoeba	v2023-04-12	108494	34622	15	.01	.04
 NeuLab-TedTalks	v1	Tatoeba	v2022-03-03	108494	31506	15	.01	.04
 NeuLab-TedTalks	v1	Tatoeba	v2021-07-22	108494	30011	15	.01	.04
 NeuLab-TedTalks	v1	Tatoeba	v2021-03-10	108494	28263	15	.01	.05
@@ -24,6 +34,8 @@ NeuLab-TedTalks	v1	XLEnt	v1	108494	3667457	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1.1	108494	3667457	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1.2	108494	3667457	1	0	0
 NeuLab-TedTalks	v1	DGT	v2019	108494	3659771	4	0	0
+NeuLab-TedTalks	v1	ParaCrawl	v4	108494	2963676	4	0	0
+NeuLab-TedTalks	v1	DGT	v4	108494	1963085	4	0	0
 NeuLab-TedTalks	v1	ELRC-5067-SciPar	v1	108494	1064385	3	0	0
 NeuLab-TedTalks	v1	JRC-Acquis	v3.0	108494	816159	1	0	0
 NeuLab-TedTalks	v1	ELRC-2713-EMEA	v1	108494	771908	6	0	0
@@ -35,6 +47,7 @@ NeuLab-TedTalks	v1	EUbookshop	v2	108494	381430	5	0	0
 NeuLab-TedTalks	v1	EMEA	v3	108494	331060	2	0	0
 NeuLab-TedTalks	v1	ELITR-ECA	v1	108494	255266	3	0	0
 NeuLab-TedTalks	v1	Tanzil	v1	108494	228637	0	0	0
+NeuLab-TedTalks	v1	wikimedia	v20230407	108494	140767	3	0	0
 NeuLab-TedTalks	v1	KDE4	v2	108494	112389	1	0	0
 NeuLab-TedTalks	v1	wikimedia	v20210402	108494	96741	2	0	0
 NeuLab-TedTalks	v1	ECB	v1	108494	63677	1	0	0

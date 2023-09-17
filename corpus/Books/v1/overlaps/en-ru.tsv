@@ -1,10 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Books	v1	OpenSubtitles	v2018	17255	21152745	57	.33	0
+Books	v1	OpenSubtitles	v2016	17255	15393688	53	.30	0
+Books	v1	ParaCrawl	v1	17255	12015289	36	.20	0
+Books	v1	MultiParaCrawl	v7.1	17255	5364010	35	.20	0
+Books	v1	ParaCrawl	v8	17255	5364010	35	.20	0
 Books	v1	ParaCrawl	v9	17255	5364010	35	.20	0
+Books	v1	ParaCrawl	v7.1	17255	5364009	35	.20	0
+Books	v1	MultiCCAligned	v1	17255	68711166	25	.14	0
 Books	v1	CCMatrix	v1	17255	138875110	24	.13	0
+Books	v1	NLLB	v1	17255	138865867	24	.13	0
 Books	v1	QED	v2.0a	17255	522751	22	.12	0
 Books	v1	CCAligned	v1	17255	13738750	19	.11	0
 Books	v1	UNPC	v1.0	17255	19744553	16	.09	0
+Books	v1	Tatoeba	v2023-04-12	17255	540539	17	.09	0
 Books	v1	Tatoeba	v2022-03-03	17255	529043	17	.09	0
 Books	v1	Tatoeba	v2021-07-22	17255	523544	17	.09	0
 Books	v1	Tatoeba	v2021-03-10	17255	519222	17	.09	0
@@ -33,6 +41,7 @@ Books	v1	XLEnt	v1.2	17255	7479613	1	0	0
 Books	v1	WikiMatrix	v1	17255	1661904	0	0	0
 Books	v1	WikiTitles	v3	17255	1123821	0	0	0
 Books	v1	Tanzil	v1	17255	1011655	0	0	0
+Books	v1	wikimedia	v20230407	17255	506264	1	0	0
 Books	v1	wikimedia	v20210402	17255	316871	1	0	0
 Books	v1	KDE4	v2	17255	159404	0	0	0
 Books	v1	ELRC-5183-SciPar_Ukraine	v1	17255	126237	0	0	0

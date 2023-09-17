@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 OpenSubtitles	v1	OpenSubtitles	v2018	7991	1212456	4508	56.41	.37
+OpenSubtitles	v1	OpenSubtitles	v2016	7991	1023613	4150	51.93	.40
 OpenSubtitles	v1	QED	v2.0a	7991	79727	130	1.62	.16
+OpenSubtitles	v1	Tatoeba	v2023-04-12	7991	8229	45	.56	.54
 OpenSubtitles	v1	Tatoeba	v2022-03-03	7991	8176	45	.56	.55
 OpenSubtitles	v1	Tatoeba	v2021-07-22	7991	8172	45	.56	.55
 OpenSubtitles	v1	Tatoeba	v2021-03-10	7991	8167	45	.56	.55
@@ -9,11 +11,16 @@ OpenSubtitles	v1	Tatoeba	v2020-05-31	7991	8143	45	.56	.55
 OpenSubtitles	v1	Tatoeba	v20190709	7991	8129	45	.56	.55
 OpenSubtitles	v1	ParaCrawl	v9	7991	13191974	44	.55	0
 OpenSubtitles	v1	TED2020	v1	7991	73635	40	.50	.05
+OpenSubtitles	v1	MultiCCAligned	v1	7991	5183742	38	.47	0
 OpenSubtitles	v1	CCAligned	v1	7991	5183648	38	.47	0
 OpenSubtitles	v1	ELRC-4270-NTEU_TierA	v1	7991	7890285	35	.43	0
 OpenSubtitles	v1	Tatoeba	v2	7991	6300	34	.42	.53
 OpenSubtitles	v1	NeuLab-TedTalks	v1	7991	44740	33	.41	.07
 OpenSubtitles	v1	Europarl	v8	7991	616663	32	.40	0
+OpenSubtitles	v1	Europarl	v7	7991	616275	32	.40	0
+OpenSubtitles	v1	ParaCrawl	v8	7991	8043262	28	.35	0
+OpenSubtitles	v1	MultiParaCrawl	v7.1	7991	4433563	28	.35	0
+OpenSubtitles	v1	ParaCrawl	v7.1	7991	4433562	28	.35	0
 OpenSubtitles	v1	TildeMODEL	v2018	7991	2053491	6	.07	0
 OpenSubtitles	v1	EUbookshop	v2	7991	373431	6	.07	0
 OpenSubtitles	v1	XLEnt	v1.1	7991	1562418	4	.05	0
@@ -26,6 +33,7 @@ OpenSubtitles	v1	ELITR-ECA	v1	7991	128135	3	.03	0
 OpenSubtitles	v1	ELRC-3467-EC_EUROPA_covid	v1	7991	2438	3	.03	.12
 OpenSubtitles	v1	ELRC-EC_EUROPA	v1	7991	2438	3	.03	.12
 OpenSubtitles	v1	DGT	v2019	7991	3648865	2	.02	0
+OpenSubtitles	v1	DGT	v4	7991	1967340	2	.02	0
 OpenSubtitles	v1	ELRC-2717-EMEA	v1	7991	757666	2	.02	0
 OpenSubtitles	v1	ELRC-EMEA	v1	7991	757666	2	.02	0
 OpenSubtitles	v1	JRC-Acquis	v3.0	7991	500372	1	.01	0
@@ -43,6 +51,9 @@ OpenSubtitles	v1	ELRC-3296-EUROPARL_covid	v1	7991	552	1	.01	.18
 OpenSubtitles	v1	ELRC-EUROPARL_covid	v1	7991	552	1	.01	.18
 OpenSubtitles	v1	ELRC_2923	v1	7991	383	1	.01	.26
 OpenSubtitles	v1	CCMatrix	v1	7991	23162636	0	0	0
+OpenSubtitles	v1	NLLB	v1	7991	23162019	0	0	0
+OpenSubtitles	v1	ParaCrawl	v5	7991	1263838	0	0	0
+OpenSubtitles	v1	ParaCrawl	v4	7991	841635	0	0	0
 OpenSubtitles	v1	ELRC-5067-SciPar	v1	7991	177437	0	0	0
 OpenSubtitles	v1	ELRC-425-Lithuanian_legislati	v1	7991	129128	0	0	0
 OpenSubtitles	v1	bible-uedin	v1	7991	61544	0	0	0
@@ -52,6 +63,7 @@ OpenSubtitles	v1	ELRC-EUR_LEX	v1	7991	21385	0	0	0
 OpenSubtitles	v1	ELRC-2021-EUIPO_2017	v1	7991	17133	0	0	0
 OpenSubtitles	v1	ELRC-EUIPO_2017	v1	7991	17133	0	0	0
 OpenSubtitles	v1	GNOME	v1	7991	15800	0	0	0
+OpenSubtitles	v1	wikimedia	v20230407	7991	13796	0	0	0
 OpenSubtitles	v1	ELRC-592-kam.lt	v1	7991	8028	0	0	0
 OpenSubtitles	v1	wikimedia	v20210402	7991	7387	0	0	0
 OpenSubtitles	v1	WMT-News	v2019	7991	3998	0	0	0

@@ -1,8 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-antibiotic	v1	ELRC-3206-antibiotic	v1	816	816	816	100.00	100.00
+ELRC-antibiotic	v1	ParaCrawl	v8	816	5724257	248	30.39	0
 ELRC-antibiotic	v1	ParaCrawl	v9	816	2967520	165	20.22	0
 ELRC-antibiotic	v1	CCMatrix	v1	816	8678395	76	9.31	0
+ELRC-antibiotic	v1	NLLB	v1	816	8678252	76	9.31	0
+ELRC-antibiotic	v1	MultiCCAligned	v1	816	1186757	4	.49	0
 ELRC-antibiotic	v1	CCAligned	v1	816	1186739	4	.49	0
+ELRC-antibiotic	v1	MultiParaCrawl	v7.1	816	2392423	1	.12	0
 ELRC-antibiotic	v1	ParIce	v1	816	1480222	1	.12	0
 ELRC-antibiotic	v1	XLEnt	v1.1	816	930819	1	.12	0
 ELRC-antibiotic	v1	XLEnt	v1.2	816	930819	1	.12	0
@@ -19,10 +23,12 @@ ELRC-antibiotic	v1	ELRC-4324-Government_Offices_I	v1	816	18176	1	.12	0
 ELRC-antibiotic	v1	ELRC-4295-www.malfong.is	v1	816	12225	1	.12	0
 ELRC-antibiotic	v1	ELRC-4334-Rkiskaup_2020	v1	816	10220	1	.12	0
 ELRC-antibiotic	v1	ELRC-4338-University_Iceland	v1	816	9808	1	.12	.01
+ELRC-antibiotic	v1	Tatoeba	v2023-04-12	816	9595	1	.12	.01
 ELRC-antibiotic	v1	Tatoeba	v2022-03-03	816	9518	1	.12	.01
 ELRC-antibiotic	v1	Tatoeba	v2021-03-10	816	9440	1	.12	.01
 ELRC-antibiotic	v1	Tatoeba	v2021-07-22	816	9440	1	.12	.01
 ELRC-antibiotic	v1	Tatoeba	v2020-11-09	816	9438	1	.12	.01
+ELRC-antibiotic	v1	wikimedia	v20230407	816	4394	1	.12	.02
 ELRC-antibiotic	v1	ELRC-505-www.pfs.is	v1	816	2866	1	.12	.03
 ELRC-antibiotic	v1	ECDC	v2016-03-16	816	2427	1	.12	.04
 ELRC-antibiotic	v1	ELRC-508-Tilde_Statistics_Ice	v1	816	2426	1	.12	.04
@@ -39,7 +45,9 @@ ELRC-antibiotic	v1	ELRC-504-www.iceida.is	v1	816	1055	1	.12	.09
 ELRC-antibiotic	v1	ELRC-516-Icelandic_Medicines	v1	816	711	1	.12	.14
 ELRC-antibiotic	v1	ELRC-509-Gallery_Iceland	v1	816	577	1	.12	.17
 ELRC-antibiotic	v1	ELRC-511-bokmenntaborgin_is	v1	816	330	1	.12	.30
+ELRC-antibiotic	v1	ParaCrawl	v7.1	816	2392422	0	0	0
 ELRC-antibiotic	v1	OpenSubtitles	v2018	816	1361307	0	0	0
+ELRC-antibiotic	v1	OpenSubtitles	v2016	816	1195814	0	0	0
 ELRC-antibiotic	v1	TildeMODEL	v2018	816	413200	0	0	0
 ELRC-antibiotic	v1	KDE4	v2	816	87445	0	0	0
 ELRC-antibiotic	v1	bible-uedin	v1	816	61464	0	0	0

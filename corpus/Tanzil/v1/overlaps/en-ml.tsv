@@ -1,12 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Tanzil	v1	Samanantar	v0.2	184529	5881175	102047	55.30	1.73
+Tanzil	v1	MultiCCAligned	v1	184529	559355	5775	3.12	1.03
 Tanzil	v1	CCAligned	v1	184529	559344	5775	3.12	1.03
 Tanzil	v1	CCMatrix	v1	184529	6780561	1307	.70	.01
+Tanzil	v1	NLLB	v1	184529	43627223	29	.01	0
 Tanzil	v1	Anuvaad	v1	184529	1445240	0	0	0
 Tanzil	v1	XLEnt	v1.1	184529	730647	2	0	0
 Tanzil	v1	XLEnt	v1	184529	730647	2	0	0
 Tanzil	v1	XLEnt	v1.2	184529	730647	2	0	0
 Tanzil	v1	OpenSubtitles	v2018	184529	354795	0	0	0
+Tanzil	v1	OpenSubtitles	v2016	184529	209866	0	0	0
+Tanzil	v1	wikimedia	v20230407	184529	90667	0	0	0
 Tanzil	v1	WikiMatrix	v1	184529	71509	0	0	0
 Tanzil	v1	bible-uedin	v1	184529	60767	0	0	0
 Tanzil	v1	wikimedia	v20210402	184529	49201	0	0	0
@@ -21,6 +25,7 @@ Tanzil	v1	Tatoeba	v2020-11-09	184529	803	0	0	0
 Tanzil	v1	Tatoeba	v2021-03-10	184529	803	0	0	0
 Tanzil	v1	Tatoeba	v2021-07-22	184529	803	0	0	0
 Tanzil	v1	Tatoeba	v2022-03-03	184529	803	0	0	0
+Tanzil	v1	Tatoeba	v2023-04-12	184529	803	0	0	0
 Tanzil	v1	Tatoeba	v20190709	184529	802	0	0	0
 Tanzil	v1	Tatoeba	v2020-05-31	184529	802	0	0	0
 Tanzil	v1	Tatoeba	v2	184529	668	0	0	0

@@ -1,14 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	337100	337105	337100	100.00	99.99
 CCAligned	v1	Tanzil	v1	337100	125302	2750	.81	2.19
 CCAligned	v1	CCMatrix	v1	337100	5851948	467	.13	0
+CCAligned	v1	NLLB	v1	337100	2374535	393	.11	.01
 CCAligned	v1	XLEnt	v1.1	337100	425848	376	.11	.08
 CCAligned	v1	XLEnt	v1.2	337100	425848	376	.11	.08
 CCAligned	v1	XLEnt	v1	337100	425848	376	.11	.08
+CCAligned	v1	GoURMET	v2	337100	19896	81	.02	.40
+CCAligned	v1	MultiParaCrawl	v7.1	337100	19695	70	.02	.35
+CCAligned	v1	ParaCrawl	v7.1	337100	19694	71	.02	.36
+CCAligned	v1	wikimedia	v20230407	337100	170286	15	0	0
 CCAligned	v1	wikimedia	v20210402	337100	20385	6	0	.02
 CCAligned	v1	WikiTitles	v3	337100	7350	1	0	.01
 CCAligned	v1	tico-19	v2020-10-28	337100	3070	0	0	0
 CCAligned	v1	KDE4	v2	337100	1485	0	0	0
 CCAligned	v1	GNOME	v1	337100	1026	1	0	.09
+CCAligned	v1	Tatoeba	v2023-04-12	337100	257	1	0	.38
 CCAligned	v1	wikimedia	v20190628	337100	256	2	0	.78
 CCAligned	v1	Ubuntu	v14.10	337100	223	0	0	0
 CCAligned	v1	Tatoeba	v2020-11-09	337100	57	1	0	1.75

@@ -1,9 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	243870	21877049	63094	25.87	.28
+WikiMatrix	v1	NLLB	v1	243870	21876691	63094	25.87	.28
 WikiMatrix	v1	ParaCrawl	v9	243870	8539880	30583	12.54	.35
+WikiMatrix	v1	ParaCrawl	v8	243870	8585187	30232	12.39	.35
+WikiMatrix	v1	MultiParaCrawl	v7.1	243870	3180465	1932	.79	.06
+WikiMatrix	v1	ParaCrawl	v7.1	243870	3180464	1928	.79	.06
+WikiMatrix	v1	wikimedia	v20230407	243870	23146	1203	.49	5.19
 WikiMatrix	v1	wikimedia	v20210402	243870	17145	1202	.49	7.01
 WikiMatrix	v1	OpenSubtitles	v2018	243870	10204743	93	.03	0
+WikiMatrix	v1	OpenSubtitles	v2016	243870	8489455	92	.03	0
 WikiMatrix	v1	ELRC-4271-NTEU_TierA	v1	243870	7730635	67	.02	0
+WikiMatrix	v1	MultiCCAligned	v1	243870	4086863	52	.02	0
 WikiMatrix	v1	CCAligned	v1	243870	4086794	52	.02	0
 WikiMatrix	v1	XLEnt	v1.1	243870	1677851	26	.01	0
 WikiMatrix	v1	XLEnt	v1.2	243870	1677851	26	.01	0
@@ -14,10 +21,15 @@ WikiMatrix	v1	ELRC-wikipedia_health	v1	243870	278	37	.01	13.30
 WikiMatrix	v1	ELRC_2922	v1	243870	277	36	.01	12.99
 WikiMatrix	v1	DGT	v2019	243870	3620944	21	0	0
 WikiMatrix	v1	TildeMODEL	v2018	243870	2032695	21	0	0
+WikiMatrix	v1	DGT	v4	243870	1954038	20	0	0
+WikiMatrix	v1	ParaCrawl	v5	243870	1379164	8	0	0
+WikiMatrix	v1	ParaCrawl	v1	243870	1289766	9	0	0
+WikiMatrix	v1	ParaCrawl	v4	243870	848980	4	0	0
 WikiMatrix	v1	ELRC-2723-EMEA	v1	243870	762693	8	0	0
 WikiMatrix	v1	ELRC-EMEA	v1	243870	762693	8	0	0
 WikiMatrix	v1	ELRC_2682	v1	243870	762692	7	0	0
 WikiMatrix	v1	Europarl	v8	243870	632077	7	0	0
+WikiMatrix	v1	Europarl	v7	243870	631699	7	0	0
 WikiMatrix	v1	JRC-Acquis	v3.0	243870	484378	2	0	0
 WikiMatrix	v1	EMEA	v3	243870	329076	3	0	0
 WikiMatrix	v1	KDE4	v2	243870	191995	12	0	0
@@ -67,6 +79,7 @@ WikiMatrix	v1	WMT-News	v2019	243870	4000	0	0	0
 WikiMatrix	v1	ELRC_3382	v1	243870	3693	0	0	0
 WikiMatrix	v1	ELRC-3471-EC_EUROPA_covid	v1	243870	2707	1	0	.03
 WikiMatrix	v1	ELRC-EC_EUROPA	v1	243870	2707	1	0	.03
+WikiMatrix	v1	Tatoeba	v2023-04-12	243870	2538	2	0	.07
 WikiMatrix	v1	ECDC	v2016-03-16	243870	2484	2	0	.08
 WikiMatrix	v1	Tatoeba	v2021-07-22	243870	2448	2	0	.08
 WikiMatrix	v1	Tatoeba	v2022-03-03	243870	2448	2	0	.08

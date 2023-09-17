@@ -1,13 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+EUbookshop	v2	NLLB	v1	2855	18811071	10	.35	0
+EUbookshop	v2	MultiCCAligned	v1	2855	835084	5	.17	0
 EUbookshop	v2	CCAligned	v1	2855	835069	5	.17	0
 EUbookshop	v2	XLEnt	v1.1	2855	214170	4	.14	0
 EUbookshop	v2	XLEnt	v1.2	2855	214170	4	.14	0
 EUbookshop	v2	XLEnt	v1	2855	214170	4	.14	0
+EUbookshop	v2	wikimedia	v20230407	2855	68611	4	.14	0
 EUbookshop	v2	KDE4	v2	2855	61505	4	.14	0
 EUbookshop	v2	wikimedia	v20210402	2855	36468	4	.14	.01
 EUbookshop	v2	Ubuntu	v14.10	2855	20783	4	.14	.01
 EUbookshop	v2	GNOME	v1	2855	42889	2	.07	0
 EUbookshop	v2	QED	v2.0a	2855	18278	0	0	0
+EUbookshop	v2	Tatoeba	v2023-04-12	2855	1027	0	0	0
 EUbookshop	v2	Tatoeba	v2022-03-03	2855	989	0	0	0
 EUbookshop	v2	Tatoeba	v2020-11-09	2855	838	0	0	0
 EUbookshop	v2	Tatoeba	v2021-03-10	2855	838	0	0	0

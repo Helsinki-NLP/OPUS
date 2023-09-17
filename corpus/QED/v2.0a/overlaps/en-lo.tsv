@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 QED	v2.0a	TED2020	v1	300	453	3	1.00	.66
+QED	v2.0a	NLLB	v1	300	4148938	0	0	0
+QED	v2.0a	MultiCCAligned	v1	300	159435	0	0	0
 QED	v2.0a	CCAligned	v1	300	159432	0	0	0
 QED	v2.0a	XLEnt	v1.1	300	28506	0	0	0
 QED	v2.0a	XLEnt	v1.2	300	28506	0	0	0
 QED	v2.0a	XLEnt	v1	300	28506	0	0	0
+QED	v2.0a	wikimedia	v20230407	300	919	0	0	0
 QED	v2.0a	wikimedia	v20210402	300	616	0	0	0
 QED	v2.0a	wikimedia	v20190628	300	388	0	0	0
 QED	v2.0a	Ubuntu	v14.10	300	363	0	0	0
@@ -11,6 +14,7 @@ QED	v2.0a	Tatoeba	v2020-11-09	300	195	0	0	0
 QED	v2.0a	Tatoeba	v2021-03-10	300	195	0	0	0
 QED	v2.0a	Tatoeba	v2021-07-22	300	195	0	0	0
 QED	v2.0a	Tatoeba	v2022-03-03	300	195	0	0	0
+QED	v2.0a	Tatoeba	v2023-04-12	300	195	0	0	0
 QED	v2.0a	GNOME	v1	300	137	0	0	0
 QED	v2.0a	Tatoeba	v20190709	300	36	0	0	0
 QED	v2.0a	Tatoeba	v2020-05-31	300	36	0	0	0

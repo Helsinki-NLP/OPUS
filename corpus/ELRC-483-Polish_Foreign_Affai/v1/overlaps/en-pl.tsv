@@ -1,12 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-483-Polish_Foreign_Affai	v1	ELRA-W0184	v1	3459	3458	3454	99.85	99.88
+ELRC-483-Polish_Foreign_Affai	v1	ParaCrawl	v1	3459	1270691	4	.11	0
 ELRC-483-Polish_Foreign_Affai	v1	GlobalVoices	v2018q4	3459	48868	3	.08	0
 ELRC-483-Polish_Foreign_Affai	v1	ParaCrawl	v9	3459	40082038	2	.05	0
+ELRC-483-Polish_Foreign_Affai	v1	MultiCCAligned	v1	3459	25790086	2	.05	0
 ELRC-483-Polish_Foreign_Affai	v1	CCAligned	v1	3459	12846330	2	.05	0
 ELRC-483-Polish_Foreign_Affai	v1	JRC-Acquis	v3.0	3459	1048242	2	.05	0
 ELRC-483-Polish_Foreign_Affai	v1	QED	v2.0a	3459	482625	2	.05	0
 ELRC-483-Polish_Foreign_Affai	v1	TED2020	v1	3459	293265	2	.05	0
 ELRC-483-Polish_Foreign_Affai	v1	NeuLab-TedTalks	v1	3459	185955	2	.05	0
+ELRC-483-Polish_Foreign_Affai	v1	wikimedia	v20230407	3459	72787	2	.05	0
+ELRC-483-Polish_Foreign_Affai	v1	Tatoeba	v2023-04-12	3459	55895	2	.05	0
 ELRC-483-Polish_Foreign_Affai	v1	Tatoeba	v2022-03-03	3459	54736	2	.05	0
 ELRC-483-Polish_Foreign_Affai	v1	Tatoeba	v2021-07-22	3459	54279	2	.05	0
 ELRC-483-Polish_Foreign_Affai	v1	Tatoeba	v2021-03-10	3459	54235	2	.05	0
@@ -19,7 +23,10 @@ ELRC-483-Polish_Foreign_Affai	v1	ELRC-945-Business_Poland	v1	3459	5491	2	.05	.03
 ELRC-483-Polish_Foreign_Affai	v1	ELRC-478-Polish_Food_4	v1	3459	4305	2	.05	.04
 ELRC-483-Polish_Foreign_Affai	v1	ELRC-480-Polish_Food_3	v1	3459	2839	2	.05	.07
 ELRC-483-Polish_Foreign_Affai	v1	ELRC-979-Audiovisual_Institut	v1	3459	803	2	.05	.24
+ELRC-483-Polish_Foreign_Affai	v1	ParaCrawl	v8	3459	45358407	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	OpenSubtitles	v2018	3459	34512858	1	.02	0
+ELRC-483-Polish_Foreign_Affai	v1	OpenSubtitles	v2016	3459	22955941	1	.02	0
+ELRC-483-Polish_Foreign_Affai	v1	MultiParaCrawl	v7.1	3459	13744836	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	LinguaTools-WikiTitles	v2014	3459	8003882	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	XLEnt	v1.1	3459	5202602	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	XLEnt	v1.2	3459	5202602	1	.02	0
@@ -30,6 +37,7 @@ ELRC-483-Polish_Foreign_Affai	v1	ELRC-2726-EMEA	v1	3459	756950	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	ELRC-EMEA	v1	3459	756950	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	WikiMatrix	v1	3459	668647	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	Europarl	v8	3459	613356	1	.02	0
+ELRC-483-Polish_Foreign_Affai	v1	Europarl	v7	3459	612713	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	EUbookshop	v2	3459	461498	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	EuroPat	v3	3459	332120	1	.02	0
 ELRC-483-Polish_Foreign_Affai	v1	ELITR-ECA	v1	3459	257916	1	.02	0
@@ -130,7 +138,12 @@ ELRC-483-Polish_Foreign_Affai	v1	ELRC-873-Development	v1	3459	82	1	.02	1.21
 ELRC-483-Polish_Foreign_Affai	v1	ELRC-648-Letter_rights_person	v1	3459	63	1	.02	1.58
 ELRC-483-Polish_Foreign_Affai	v1	ELRC-403-Rights_Arrested	v1	3459	24	1	.02	4.16
 ELRC-483-Polish_Foreign_Affai	v1	CCMatrix	v1	3459	73625347	0	0	0
+ELRC-483-Polish_Foreign_Affai	v1	NLLB	v1	3459	73623674	0	0	0
+ELRC-483-Polish_Foreign_Affai	v1	ParaCrawl	v7.1	3459	13744835	0	0	0
+ELRC-483-Polish_Foreign_Affai	v1	ParaCrawl	v5	3459	6336749	0	0	0
 ELRC-483-Polish_Foreign_Affai	v1	DGT	v2019	3459	3659053	0	0	0
+ELRC-483-Polish_Foreign_Affai	v1	ParaCrawl	v4	3459	3483752	0	0	0
+ELRC-483-Polish_Foreign_Affai	v1	DGT	v4	3459	1966769	0	0	0
 ELRC-483-Polish_Foreign_Affai	v1	EMEA	v3	3459	343975	0	0	0
 ELRC-483-Polish_Foreign_Affai	v1	Wikipedia	v1.0	3459	168603	0	0	0
 ELRC-483-Polish_Foreign_Affai	v1	KDE4	v2	3459	160232	0	0	0

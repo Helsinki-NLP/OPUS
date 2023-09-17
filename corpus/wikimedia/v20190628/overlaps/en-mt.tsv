@@ -1,16 +1,24 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 wikimedia	v20190628	wikimedia	v20210402	90	2035	31	34.44	1.52
+wikimedia	v20190628	wikimedia	v20230407	90	6033	30	33.33	.49
+wikimedia	v20190628	ParaCrawl	v8	90	1604136	3	3.33	0
 wikimedia	v20190628	ParaCrawl	v9	90	1207761	3	3.33	0
+wikimedia	v20190628	NLLB	v1	90	14726004	2	2.22	0
 wikimedia	v20190628	DGT	v2019	90	2737811	2	2.22	0
 wikimedia	v20190628	TildeMODEL	v2018	90	1944924	2	2.22	0
+wikimedia	v20190628	DGT	v4	90	1097225	2	2.22	0
 wikimedia	v20190628	ELRC-2709-EMEA	v1	90	405848	2	2.22	0
 wikimedia	v20190628	ELRC-EMEA	v1	90	405848	2	2.22	0
 wikimedia	v20190628	EUbookshop	v2	90	241067	2	2.22	0
 wikimedia	v20190628	ELRC-2023-EUIPO_2017	v1	90	17330	2	2.22	.01
 wikimedia	v20190628	ELRC-EUIPO_2017	v1	90	17330	2	2.22	.01
 wikimedia	v20190628	ECB	v1	90	101332	1	1.11	0
+wikimedia	v20190628	MultiParaCrawl	v7.1	90	856984	0	0	0
+wikimedia	v20190628	ParaCrawl	v7.1	90	856983	0	0	0
 wikimedia	v20190628	EMEA	v3	90	317524	0	0	0
 wikimedia	v20190628	ELITR-ECA	v1	90	261509	0	0	0
+wikimedia	v20190628	ParaCrawl	v4	90	193983	0	0	0
+wikimedia	v20190628	ParaCrawl	v5	90	176423	0	0	0
 wikimedia	v20190628	QED	v2.0a	90	17978	0	0	0
 wikimedia	v20190628	JRC-Acquis	v3.0	90	12383	0	0	0
 wikimedia	v20190628	ELRA-W0234	v1	90	7172	0	0	0
@@ -33,6 +41,7 @@ wikimedia	v20190628	ELRC-vaccination	v1	90	472	0	0	0
 wikimedia	v20190628	ELRC-3197-antibiotic	v1	90	392	0	0	0
 wikimedia	v20190628	ELRC-antibiotic	v1	90	392	0	0	0
 wikimedia	v20190628	KDE4	v2	90	303	0	0	0
+wikimedia	v20190628	Tatoeba	v2023-04-12	90	253	0	0	0
 wikimedia	v20190628	Tatoeba	v2022-03-03	90	206	0	0	0
 wikimedia	v20190628	Tatoeba	v2020-11-09	90	205	0	0	0
 wikimedia	v20190628	Tatoeba	v2021-03-10	90	205	0	0	0
@@ -46,3 +55,4 @@ wikimedia	v20190628	ELRC-EUROPARL_covid	v1	90	142	0	0	0
 wikimedia	v20190628	Tatoeba	v2	90	107	0	0	0
 wikimedia	v20190628	ELRC_2923	v1	90	95	0	0	0
 wikimedia	v20190628	CCAligned	v1	90	27	0	0	0
+wikimedia	v20190628	MultiCCAligned	v1	90	27	0	0	0

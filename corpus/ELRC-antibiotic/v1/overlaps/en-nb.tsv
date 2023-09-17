@@ -1,12 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-antibiotic	v1	ELRC-3207-antibiotic	v1	604	604	604	100.00	100.00
 ELRC-antibiotic	v1	ParaCrawl	v9	604	19281148	93	15.39	0
+ELRC-antibiotic	v1	wikimedia	v20230407	604	83703	3	.49	0
 ELRC-antibiotic	v1	wikimedia	v20210402	604	59485	3	.49	0
+ELRC-antibiotic	v1	MultiParaCrawl	v7.1	604	17582870	2	.33	0
 ELRC-antibiotic	v1	ELRC-396-Foreign_Affairs_Norw	v1	604	685539	2	.33	0
 ELRC-antibiotic	v1	ELRC-1806-Norwegian_Bokml_Ames	v1	604	281360	2	.33	0
 ELRC-antibiotic	v1	ELRC-1977-Standard_Norge	v1	604	126146	2	.33	0
 ELRC-antibiotic	v1	ELRC-1805-Norwegian_Bokml_Ames	v1	604	47433	2	.33	0
 ELRC-antibiotic	v1	ELRC-1081-Forbruker_Europa	v1	604	4116	2	.33	.04
+ELRC-antibiotic	v1	ParaCrawl	v7.1	604	17582868	1	.16	0
 ELRC-antibiotic	v1	ELRC-518-www.regjeringen.no	v1	604	143960	1	.16	0
 ELRC-antibiotic	v1	QED	v2.0a	604	127536	1	.16	0
 ELRC-antibiotic	v1	ELRC-534-www.norges_bank.no	v1	604	72833	1	.16	0
@@ -18,6 +21,7 @@ ELRC-antibiotic	v1	EUbookshop	v2	604	26885	1	.16	0
 ELRC-antibiotic	v1	ELRC-559-www.npd.no	v1	604	18589	1	.16	0
 ELRC-antibiotic	v1	NeuLab-TedTalks	v1	604	16753	1	.16	0
 ELRC-antibiotic	v1	ELRC-494-forbrukereuropa.no	v1	604	13019	1	.16	0
+ELRC-antibiotic	v1	Tatoeba	v2023-04-12	604	10294	1	.16	0
 ELRC-antibiotic	v1	Tatoeba	v2022-03-03	604	9755	1	.16	.01
 ELRC-antibiotic	v1	Tatoeba	v2021-07-22	604	9737	1	.16	.01
 ELRC-antibiotic	v1	Tatoeba	v2021-03-10	604	9736	1	.16	.01

@@ -1,12 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-845-Corpora_legal_text	v1	ELITR-ECA	v1	907	57473	121	13.34	.21
+ELRC-845-Corpora_legal_text	v1	ParaCrawl	v1	907	8279864	120	13.23	0
 ELRC-845-Corpora_legal_text	v1	OpenSubtitles	v2018	907	28718593	116	12.78	0
+ELRC-845-Corpora_legal_text	v1	OpenSubtitles	v2016	907	21818449	111	12.23	0
 ELRC-845-Corpora_legal_text	v1	JRC-Acquis	v3.0	907	504433	103	11.35	.02
 ELRC-845-Corpora_legal_text	v1	DGT	v2019	907	3638405	87	9.59	0
 ELRC-845-Corpora_legal_text	v1	EMEA	v3	907	352671	64	7.05	.01
 ELRC-845-Corpora_legal_text	v1	Wikipedia	v1.0	907	944270	51	5.62	0
 ELRC-845-Corpora_legal_text	v1	EUconst	v1	907	6657	47	5.18	.70
 ELRC-845-Corpora_legal_text	v1	Europarl	v8	907	1906929	45	4.96	0
+ELRC-845-Corpora_legal_text	v1	Europarl	v7	907	1906482	45	4.96	0
 ELRC-845-Corpora_legal_text	v1	ELRC-1078-EUIPO_law	v1	907	26535	39	4.29	.14
 ELRC-845-Corpora_legal_text	v1	ELRC-EUIPO_law	v1	907	26535	39	4.29	.14
 ELRC-845-Corpora_legal_text	v1	GlobalVoices	v2018q4	907	123507	26	2.86	.02
@@ -14,8 +17,12 @@ ELRC-845-Corpora_legal_text	v1	QED	v2.0a	907	542823	21	2.31	0
 ELRC-845-Corpora_legal_text	v1	ECB	v1	907	192767	20	2.20	.01
 ELRC-845-Corpora_legal_text	v1	GlobalVoices	v2017q3	907	96725	19	2.09	.01
 ELRC-845-Corpora_legal_text	v1	GlobalVoices	v2015	907	80254	19	2.09	.02
+ELRC-845-Corpora_legal_text	v1	MultiCCAligned	v1	907	57577191	10	1.10	0
 ELRC-845-Corpora_legal_text	v1	CCAligned	v1	907	14341296	10	1.10	0
 ELRC-845-Corpora_legal_text	v1	TildeMODEL	v2018	907	3693634	8	.88	0
+ELRC-845-Corpora_legal_text	v1	DGT	v4	907	1985734	7	.77	0
+ELRC-845-Corpora_legal_text	v1	Europarl	v3	907	1229621	6	.66	0
+ELRC-845-Corpora_legal_text	v1	wikimedia	v20230407	907	520955	6	.66	0
 ELRC-845-Corpora_legal_text	v1	wikimedia	v20210402	907	331197	6	.66	0
 ELRC-845-Corpora_legal_text	v1	News-Commentary	v14	907	78536	6	.66	0
 ELRC-845-Corpora_legal_text	v1	News-Commentary	v16	907	78535	6	.66	0
@@ -27,12 +34,15 @@ ELRC-845-Corpora_legal_text	v1	News-Commentary	v9.1	907	18489	5	.55	.02
 ELRC-845-Corpora_legal_text	v1	EUbookshop	v2	907	5801342	4	.44	0
 ELRC-845-Corpora_legal_text	v1	ELRC-2871-EU_publications_medi	v1	907	13048	4	.44	.03
 ELRC-845-Corpora_legal_text	v1	ELRC-EU_publications	v1	907	13048	4	.44	.03
+ELRC-845-Corpora_legal_text	v1	ParaCrawl	v8	907	120118828	3	.33	0
 ELRC-845-Corpora_legal_text	v1	ParaCrawl	v9	907	96975992	3	.33	0
+ELRC-845-Corpora_legal_text	v1	MultiParaCrawl	v7.1	907	40798275	3	.33	0
 ELRC-845-Corpora_legal_text	v1	LinguaTools-WikiTitles	v2014	907	11048442	3	.33	0
 ELRC-845-Corpora_legal_text	v1	ELRC-2710-EMEA	v1	907	771346	3	.33	0
 ELRC-845-Corpora_legal_text	v1	ELRC-EMEA	v1	907	771346	3	.33	0
 ELRC-845-Corpora_legal_text	v1	ELRC-837-Legal	v1	907	950	3	.33	.31
 ELRC-845-Corpora_legal_text	v1	ELRC-416-Swedish_Social_Secur	v1	907	56	3	.33	5.35
+ELRC-845-Corpora_legal_text	v1	ParaCrawl	v7.1	907	40798274	2	.22	0
 ELRC-845-Corpora_legal_text	v1	XLEnt	v1.1	907	5645064	2	.22	0
 ELRC-845-Corpora_legal_text	v1	XLEnt	v1.2	907	5645064	2	.22	0
 ELRC-845-Corpora_legal_text	v1	XLEnt	v1	907	5645064	2	.22	0
@@ -42,7 +52,9 @@ ELRC-845-Corpora_legal_text	v1	ELRC-3460-EC_EUROPA_covid	v1	907	2841	2	.22	.07
 ELRC-845-Corpora_legal_text	v1	ELRC-EC_EUROPA	v1	907	2841	2	.22	.07
 ELRC-845-Corpora_legal_text	v1	ELRC-832-CHARTER_VALUES_CITIZ	v1	907	62	2	.22	3.22
 ELRC-845-Corpora_legal_text	v1	ELRC_416	v1	907	55	2	.22	3.63
+ELRC-845-Corpora_legal_text	v1	ParaCrawl	v5	907	21939518	1	.11	0
 ELRC-845-Corpora_legal_text	v1	WikiMatrix	v1	907	2126084	1	.11	0
+ELRC-845-Corpora_legal_text	v1	Tatoeba	v2023-04-12	907	502190	1	.11	0
 ELRC-845-Corpora_legal_text	v1	Tatoeba	v2022-03-03	907	492666	1	.11	0
 ELRC-845-Corpora_legal_text	v1	Tatoeba	v2021-07-22	907	490263	1	.11	0
 ELRC-845-Corpora_legal_text	v1	Tatoeba	v2021-03-10	907	486354	1	.11	0
@@ -81,6 +93,8 @@ ELRC-845-Corpora_legal_text	v1	ELRC-2480-Estatuto_dos_Deputad	v1	907	2	1	.11	50.
 ELRC-845-Corpora_legal_text	v1	ELRC-2614-Localidades_2007	v1	907	2	1	.11	50.00
 ELRC-845-Corpora_legal_text	v1	ELRC-Localidades_2007	v1	907	2	1	.11	50.00
 ELRC-845-Corpora_legal_text	v1	CCMatrix	v1	907	145080018	0	0	0
+ELRC-845-Corpora_legal_text	v1	NLLB	v1	907	145077265	0	0	0
+ELRC-845-Corpora_legal_text	v1	ParaCrawl	v4	907	12085749	0	0	0
 ELRC-845-Corpora_legal_text	v1	Tatoeba	v2020-05-31	907	480007	0	0	0
 ELRC-845-Corpora_legal_text	v1	Tatoeba	v20190709	907	468411	0	0	0
 ELRC-845-Corpora_legal_text	v1	TED2013	v1.1	907	158226	0	0	0

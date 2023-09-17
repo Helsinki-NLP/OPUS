@@ -1,5 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	49201	90667	48685	98.95	53.69
 wikimedia	v20210402	Samanantar	v0.2	49201	5881175	498	1.01	0
+wikimedia	v20210402	NLLB	v1	49201	43627223	418	.84	0
+wikimedia	v20210402	MultiCCAligned	v1	49201	559355	183	.37	.03
 wikimedia	v20210402	CCAligned	v1	49201	559344	183	.37	.03
 wikimedia	v20210402	XLEnt	v1.1	49201	730647	167	.33	.02
 wikimedia	v20210402	XLEnt	v1.2	49201	730647	167	.33	.02
@@ -12,6 +15,7 @@ wikimedia	v20210402	Anuvaad	v1	49201	1445240	54	.10	0
 wikimedia	v20210402	Ubuntu	v14.10	49201	11215	26	.05	.23
 wikimedia	v20210402	GNOME	v1	49201	3931	12	.02	.30
 wikimedia	v20210402	OpenSubtitles	v2018	49201	354795	2	0	0
+wikimedia	v20210402	OpenSubtitles	v2016	49201	209866	0	0	0
 wikimedia	v20210402	Tanzil	v1	49201	184529	0	0	0
 wikimedia	v20210402	bible-uedin	v1	49201	60767	0	0	0
 wikimedia	v20210402	pmindia	v1	49201	33662	4	0	.01
@@ -21,6 +25,7 @@ wikimedia	v20210402	Tatoeba	v2020-11-09	49201	803	1	0	.12
 wikimedia	v20210402	Tatoeba	v2021-03-10	49201	803	1	0	.12
 wikimedia	v20210402	Tatoeba	v2021-07-22	49201	803	1	0	.12
 wikimedia	v20210402	Tatoeba	v2022-03-03	49201	803	1	0	.12
+wikimedia	v20210402	Tatoeba	v2023-04-12	49201	803	1	0	.12
 wikimedia	v20210402	Tatoeba	v20190709	49201	802	0	0	0
 wikimedia	v20210402	Tatoeba	v2020-05-31	49201	802	0	0	0
 wikimedia	v20210402	Tatoeba	v2	49201	668	0	0	0

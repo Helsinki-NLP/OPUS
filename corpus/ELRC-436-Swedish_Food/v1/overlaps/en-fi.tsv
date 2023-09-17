@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-436-Swedish_Food	v1	ELRA-W0305	v1	16	15	15	93.75	100.00
 ELRC-436-Swedish_Food	v1	ParaCrawl	v9	16	31315288	1	6.25	0
+ELRC-436-Swedish_Food	v1	ParaCrawl	v8	16	15301964	1	6.25	0
 ELRC-436-Swedish_Food	v1	ELRC-4239-NTEU_TierA	v1	16	12577938	1	6.25	0
+ELRC-436-Swedish_Food	v1	MultiCCAligned	v1	16	9646186	1	6.25	0
 ELRC-436-Swedish_Food	v1	CCAligned	v1	16	9646025	1	6.25	0
+ELRC-436-Swedish_Food	v1	MultiParaCrawl	v7.1	16	7268809	1	6.25	0
 ELRC-436-Swedish_Food	v1	LinguaTools-WikiTitles	v2014	16	4873168	1	6.25	0
 ELRC-436-Swedish_Food	v1	XLEnt	v1.1	16	2501315	1	6.25	0
 ELRC-436-Swedish_Food	v1	XLEnt	v1	16	2501315	1	6.25	0
@@ -12,6 +15,7 @@ ELRC-436-Swedish_Food	v1	ELRC-EMEA	v1	16	746684	1	6.25	0
 ELRC-436-Swedish_Food	v1	ELRC-5067-SciPar	v1	16	457342	1	6.25	0
 ELRC-436-Swedish_Food	v1	WikiMatrix	v1	16	375724	1	6.25	0
 ELRC-436-Swedish_Food	v1	ELITR-ECA	v1	16	321871	1	6.25	0
+ELRC-436-Swedish_Food	v1	Tatoeba	v2023-04-12	16	81642	1	6.25	0
 ELRC-436-Swedish_Food	v1	Tatoeba	v2022-03-03	16	81194	1	6.25	0
 ELRC-436-Swedish_Food	v1	Tatoeba	v2021-07-22	16	80545	1	6.25	0
 ELRC-436-Swedish_Food	v1	Tatoeba	v2021-03-10	16	80040	1	6.25	0
@@ -24,6 +28,7 @@ ELRC-436-Swedish_Food	v1	ELRC-735-www.norden.org	v1	16	42742	1	6.25	0
 ELRC-436-Swedish_Food	v1	ELRC-www.norden.org	v1	16	42742	1	6.25	0
 ELRC-436-Swedish_Food	v1	ELRC-1127-www.vtv.fi	v1	16	42629	1	6.25	0
 ELRC-436-Swedish_Food	v1	ELRC-www.vtv.fi	v1	16	42629	1	6.25	0
+ELRC-436-Swedish_Food	v1	wikimedia	v20230407	16	41022	1	6.25	0
 ELRC-436-Swedish_Food	v1	wikimedia	v20210402	16	32290	1	6.25	0
 ELRC-436-Swedish_Food	v1	ELRC-1771-vnk.fi	v1	16	31527	1	6.25	0
 ELRC-436-Swedish_Food	v1	ELRC-vnk.fi	v1	16	31527	1	6.25	0
@@ -62,11 +67,20 @@ ELRC-436-Swedish_Food	v1	ELRC-Swedish_Labour	v1	16	211	1	6.25	.47
 ELRC-436-Swedish_Food	v1	ELRC-401-Swedish_Labour_Part2	v1	16	171	1	6.25	.58
 ELRC-436-Swedish_Food	v1	ELRC-406-Swedish_Labour_Part1	v1	16	41	1	6.25	2.43
 ELRC-436-Swedish_Food	v1	CCMatrix	v1	16	35804134	0	0	0
+ELRC-436-Swedish_Food	v1	NLLB	v1	16	35803625	0	0	0
 ELRC-436-Swedish_Food	v1	OpenSubtitles	v2018	16	23382097	0	0	0
+ELRC-436-Swedish_Food	v1	OpenSubtitles	v2016	16	16640273	0	0	0
+ELRC-436-Swedish_Food	v1	ParaCrawl	v7.1	16	7268808	0	0	0
 ELRC-436-Swedish_Food	v1	DGT	v2019	16	3624390	0	0	0
+ELRC-436-Swedish_Food	v1	ParaCrawl	v5	16	3076136	0	0	0
 ELRC-436-Swedish_Food	v1	TildeMODEL	v2018	16	3022117	0	0	0
+ELRC-436-Swedish_Food	v1	ParaCrawl	v4	16	2142942	0	0	0
+ELRC-436-Swedish_Food	v1	DGT	v4	16	1951585	0	0	0
 ELRC-436-Swedish_Food	v1	Europarl	v8	16	1920092	0	0	0
+ELRC-436-Swedish_Food	v1	Europarl	v7	16	1919709	0	0	0
 ELRC-436-Swedish_Food	v1	EUbookshop	v2	16	1828277	0	0	0
+ELRC-436-Swedish_Food	v1	Europarl	v3	16	1233965	0	0	0
+ELRC-436-Swedish_Food	v1	ParaCrawl	v1	16	618374	0	0	0
 ELRC-436-Swedish_Food	v1	EMEA	v3	16	352115	0	0	0
 ELRC-436-Swedish_Food	v1	ECB	v1	16	157318	0	0	0
 ELRC-436-Swedish_Food	v1	OpenSubtitles	v1	16	103215	0	0	0

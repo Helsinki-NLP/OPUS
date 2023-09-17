@@ -1,6 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-Artigos_visitportuga	v1	ELRC-2612-Artigos_visitportuga	v1	4	4	4	100.00	100.00
+ELRC-Artigos_visitportuga	v1	ParaCrawl	v8	4	98473905	1	25.00	0
 ELRC-Artigos_visitportuga	v1	ParaCrawl	v9	4	89135870	1	25.00	0
+ELRC-Artigos_visitportuga	v1	MultiCCAligned	v1	4	36001309	1	25.00	0
+ELRC-Artigos_visitportuga	v1	MultiParaCrawl	v7.1	4	31295016	1	25.00	0
 ELRC-Artigos_visitportuga	v1	CCAligned	v1	4	13043190	1	25.00	0
 ELRC-Artigos_visitportuga	v1	LinguaTools-WikiTitles	v2014	4	6757629	1	25.00	0
 ELRC-Artigos_visitportuga	v1	XLEnt	v1.1	4	5789605	1	25.00	0
@@ -12,6 +15,8 @@ ELRC-Artigos_visitportuga	v1	ELRC-EMEA	v1	4	755014	1	25.00	0
 ELRC-Artigos_visitportuga	v1	TED2020	v1	4	312281	1	25.00	0
 ELRC-Artigos_visitportuga	v1	ELITR-ECA	v1	4	249246	1	25.00	0
 ELRC-Artigos_visitportuga	v1	NeuLab-TedTalks	v1	4	200570	1	25.00	0
+ELRC-Artigos_visitportuga	v1	wikimedia	v20230407	4	106677	1	25.00	0
+ELRC-Artigos_visitportuga	v1	Tatoeba	v2023-04-12	4	79518	1	25.00	0
 ELRC-Artigos_visitportuga	v1	Tatoeba	v2022-03-03	4	75815	1	25.00	0
 ELRC-Artigos_visitportuga	v1	Tatoeba	v2021-07-22	4	75072	1	25.00	0
 ELRC-Artigos_visitportuga	v1	Tatoeba	v2021-03-10	4	74031	1	25.00	0
@@ -45,11 +50,20 @@ ELRC-Artigos_visitportuga	v1	ELRC-2638-monumentos_2007	v1	4	4	1	25.00	25.00
 ELRC-Artigos_visitportuga	v1	ELRC-2614-Localidades_2007	v1	4	3	1	25.00	33.33
 ELRC-Artigos_visitportuga	v1	ELRC-Localidades_2007	v1	4	3	1	25.00	33.33
 ELRC-Artigos_visitportuga	v1	CCMatrix	v1	4	106106500	0	0	0
+ELRC-Artigos_visitportuga	v1	NLLB	v1	4	106104992	0	0	0
+ELRC-Artigos_visitportuga	v1	ParaCrawl	v7.1	4	31295015	0	0	0
 ELRC-Artigos_visitportuga	v1	OpenSubtitles	v2018	4	30779675	0	0	0
+ELRC-Artigos_visitportuga	v1	OpenSubtitles	v2016	4	24279928	0	0	0
+ELRC-Artigos_visitportuga	v1	ParaCrawl	v5	4	10509072	0	0	0
+ELRC-Artigos_visitportuga	v1	ParaCrawl	v4	4	5630021	0	0	0
 ELRC-Artigos_visitportuga	v1	EUbookshop	v2	4	5367397	0	0	0
 ELRC-Artigos_visitportuga	v1	DGT	v2019	4	3543639	0	0	0
 ELRC-Artigos_visitportuga	v1	TildeMODEL	v2018	4	3481744	0	0	0
+ELRC-Artigos_visitportuga	v1	ParaCrawl	v1	4	2552000	0	0	0
 ELRC-Artigos_visitportuga	v1	Europarl	v8	4	1986220	0	0	0
+ELRC-Artigos_visitportuga	v1	Europarl	v7	4	1985837	0	0	0
+ELRC-Artigos_visitportuga	v1	DGT	v4	4	1945115	0	0	0
+ELRC-Artigos_visitportuga	v1	Europarl	v3	4	1291768	0	0	0
 ELRC-Artigos_visitportuga	v1	Wikipedia	v1.0	4	791459	0	0	0
 ELRC-Artigos_visitportuga	v1	JRC-Acquis	v3.0	4	502276	0	0	0
 ELRC-Artigos_visitportuga	v1	QED	v2.0a	4	385191	0	0	0

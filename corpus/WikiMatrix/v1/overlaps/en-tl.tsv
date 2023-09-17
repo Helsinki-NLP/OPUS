@@ -1,16 +1,24 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+WikiMatrix	v1	NLLB	v1	75447	63325255	9992	13.24	.01
 WikiMatrix	v1	CCMatrix	v1	75447	3100965	5866	7.77	.18
+WikiMatrix	v1	wikimedia	v20230407	75447	69292	1177	1.56	1.69
 WikiMatrix	v1	wikimedia	v20210402	75447	40716	1177	1.56	2.89
 WikiMatrix	v1	ELRC-3067-wikipedia_health	v1	75447	358	73	.09	20.39
 WikiMatrix	v1	ELRC-wikipedia_health	v1	75447	358	73	.09	20.39
 WikiMatrix	v1	ELRC_2922	v1	75447	357	72	.09	20.16
+WikiMatrix	v1	MultiCCAligned	v1	75447	6516373	1	0	0
 WikiMatrix	v1	CCAligned	v1	75447	6516255	1	0	0
 WikiMatrix	v1	XLEnt	v1.1	75447	1062507	1	0	0
 WikiMatrix	v1	XLEnt	v1.2	75447	1062507	1	0	0
 WikiMatrix	v1	XLEnt	v1	75447	1062507	1	0	0
+WikiMatrix	v1	MultiParaCrawl	v7.1	75447	243178	1	0	0
+WikiMatrix	v1	ParaCrawl	v8	75447	243178	1	0	0
 WikiMatrix	v1	ParaCrawl	v9	75447	243178	1	0	0
+WikiMatrix	v1	ParaCrawl	v7.1	75447	243177	0	0	0
 WikiMatrix	v1	bible-uedin	v1	75447	61599	0	0	0
 WikiMatrix	v1	OpenSubtitles	v2018	75447	14704	0	0	0
+WikiMatrix	v1	Tatoeba	v2023-04-12	75447	8775	1	0	.01
+WikiMatrix	v1	OpenSubtitles	v2016	75447	7495	0	0	0
 WikiMatrix	v1	Tatoeba	v2022-03-03	75447	7347	1	0	.01
 WikiMatrix	v1	Tatoeba	v2021-07-22	75447	7297	1	0	.01
 WikiMatrix	v1	Tatoeba	v2021-03-10	75447	7277	1	0	.01

@@ -1,16 +1,27 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	Europarl	v7	632077	631699	631698	99.94	99.99
 Europarl	v8	ELRC-4271-NTEU_TierA	v1	632077	7730635	455528	72.06	5.89
 Europarl	v8	ParaCrawl	v9	632077	8539880	13592	2.15	.15
+Europarl	v8	ParaCrawl	v8	632077	8585187	13274	2.10	.15
 Europarl	v8	CCMatrix	v1	632077	21877049	8887	1.40	.04
+Europarl	v8	NLLB	v1	632077	21876691	8888	1.40	.04
 Europarl	v8	OpenSubtitles	v2018	632077	10204743	948	.14	0
+Europarl	v8	OpenSubtitles	v2016	632077	8489455	866	.13	.01
+Europarl	v8	MultiParaCrawl	v7.1	632077	3180465	161	.02	0
+Europarl	v8	ParaCrawl	v7.1	632077	3180464	161	.02	0
+Europarl	v8	ParaCrawl	v1	632077	1289766	128	.02	0
+Europarl	v8	MultiCCAligned	v1	632077	4086863	88	.01	0
 Europarl	v8	CCAligned	v1	632077	4086794	88	.01	0
 Europarl	v8	TildeMODEL	v2018	632077	2032695	89	.01	0
 Europarl	v8	JRC-Acquis	v3.0	632077	484378	71	.01	.01
 Europarl	v8	QED	v2.0a	632077	159715	112	.01	.07
 Europarl	v8	DGT	v2019	632077	3620944	51	0	0
+Europarl	v8	DGT	v4	632077	1954038	47	0	0
 Europarl	v8	XLEnt	v1.1	632077	1677851	23	0	0
 Europarl	v8	XLEnt	v1.2	632077	1677851	23	0	0
 Europarl	v8	XLEnt	v1	632077	1677851	23	0	0
+Europarl	v8	ParaCrawl	v5	632077	1379164	30	0	0
+Europarl	v8	ParaCrawl	v4	632077	848980	12	0	0
 Europarl	v8	ELRC-2723-EMEA	v1	632077	762693	6	0	0
 Europarl	v8	ELRC-EMEA	v1	632077	762693	6	0	0
 Europarl	v8	ELRC_2682	v1	632077	762692	6	0	0
@@ -29,6 +40,7 @@ Europarl	v8	ELRC-431-Estonian_Foreign_Aff	v1	632077	27797	14	0	.05
 Europarl	v8	ELRA-W0168	v1	632077	27796	14	0	.05
 Europarl	v8	OpenSubtitles	v1	632077	27563	56	0	.20
 Europarl	v8	ELRC-938-vp2001_2006.presiden	v1	632077	25557	13	0	.05
+Europarl	v8	wikimedia	v20230407	632077	23146	1	0	0
 Europarl	v8	TED2020	v1	632077	22985	43	0	.18
 Europarl	v8	ELRC-3572-EUR_LEX_covid	v1	632077	22028	1	0	0
 Europarl	v8	ELRC-EUR_LEX	v1	632077	22028	1	0	0
@@ -64,6 +76,7 @@ Europarl	v8	WMT-News	v2019	632077	4000	0	0	0
 Europarl	v8	ELRC_3382	v1	632077	3693	2	0	.05
 Europarl	v8	ELRC-3471-EC_EUROPA_covid	v1	632077	2707	1	0	.03
 Europarl	v8	ELRC-EC_EUROPA	v1	632077	2707	1	0	.03
+Europarl	v8	Tatoeba	v2023-04-12	632077	2538	11	0	.43
 Europarl	v8	ECDC	v2016-03-16	632077	2484	1	0	.04
 Europarl	v8	Tatoeba	v2021-07-22	632077	2448	11	0	.44
 Europarl	v8	Tatoeba	v2022-03-03	632077	2448	11	0	.44

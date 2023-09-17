@@ -1,5 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+bible-uedin	v1	NLLB	v1	60440	15462695	828	1.36	0
 bible-uedin	v1	GoURMET	v1	60440	57836	68	.11	.11
+bible-uedin	v1	GoURMET	v2	60440	57836	68	.11	.11
+bible-uedin	v1	MultiCCAligned	v1	60440	345215	0	0	0
 bible-uedin	v1	CCAligned	v1	60440	345209	0	0	0
 bible-uedin	v1	Tanzil	v1	60440	92286	0	0	0
 bible-uedin	v1	XLEnt	v1.1	60440	69037	0	0	0
@@ -11,8 +14,10 @@ bible-uedin	v1	GlobalVoices	v2018q4	60440	1718	0	0	0
 bible-uedin	v1	GlobalVoices	v2017q3	60440	1594	0	0	0
 bible-uedin	v1	GlobalVoices	v2015	60440	1196	0	0	0
 bible-uedin	v1	TED2020	v1	60440	1018	0	0	0
+bible-uedin	v1	wikimedia	v20230407	60440	934	0	0	0
 bible-uedin	v1	wikimedia	v20210402	60440	482	0	0	0
 bible-uedin	v1	wikimedia	v20190628	60440	286	0	0	0
+bible-uedin	v1	Tatoeba	v2023-04-12	60440	201	0	0	0
 bible-uedin	v1	Tatoeba	v2020-11-09	60440	200	0	0	0
 bible-uedin	v1	Tatoeba	v2021-03-10	60440	200	0	0	0
 bible-uedin	v1	Tatoeba	v2021-07-22	60440	200	0	0	0

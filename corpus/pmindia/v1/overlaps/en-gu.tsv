@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 pmindia	v1	Samanantar	v0.2	49819	3058364	26413	53.01	.86
 pmindia	v1	Anuvaad	v1	49819	1652499	17195	34.51	1.04
+pmindia	v1	NLLB	v1	49819	39130800	13581	27.26	.03
+pmindia	v1	MultiCCAligned	v1	49819	168760	1	0	0
 pmindia	v1	CCAligned	v1	49819	168757	1	0	0
 pmindia	v1	GNOME	v1	49819	63057	0	0	0
 pmindia	v1	Ubuntu	v14.10	49819	52780	1	0	0
@@ -8,6 +10,7 @@ pmindia	v1	KDE4	v2	49819	31327	0	0	0
 pmindia	v1	XLEnt	v1.1	49819	30074	2	0	0
 pmindia	v1	XLEnt	v1.2	49819	30074	2	0	0
 pmindia	v1	XLEnt	v1	49819	30074	2	0	0
+pmindia	v1	wikimedia	v20230407	49819	16301	2	0	.01
 pmindia	v1	bible-uedin	v1	49819	15570	0	0	0
 pmindia	v1	TED2020	v1	49819	15568	2	0	.01
 pmindia	v1	wikimedia	v20210402	49819	14928	2	0	.01
@@ -17,5 +20,6 @@ pmindia	v1	Tatoeba	v2020-11-09	49819	155	1	0	.64
 pmindia	v1	Tatoeba	v2021-03-10	49819	155	1	0	.64
 pmindia	v1	Tatoeba	v2021-07-22	49819	155	1	0	.64
 pmindia	v1	Tatoeba	v2022-03-03	49819	155	1	0	.64
+pmindia	v1	Tatoeba	v2023-04-12	49819	155	1	0	.64
 pmindia	v1	Tatoeba	v20190709	49819	154	0	0	0
 pmindia	v1	Tatoeba	v2020-05-31	49819	154	0	0	0

@@ -1,17 +1,27 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 bible-uedin	v1	ParaCrawl	v9	61585	36432545	6023	9.77	.01
+bible-uedin	v1	MultiParaCrawl	v7.1	61585	6693019	3671	5.96	.05
+bible-uedin	v1	ParaCrawl	v7.1	61585	6693018	3672	5.96	.05
+bible-uedin	v1	ParaCrawl	v5	61585	4171097	3530	5.73	.08
+bible-uedin	v1	ParaCrawl	v4	61585	1892152	2496	4.05	.13
+bible-uedin	v1	ParaCrawl	v8	61585	12681301	180	.29	0
 bible-uedin	v1	CCMatrix	v1	61585	36215097	40	.06	0
+bible-uedin	v1	NLLB	v1	61585	36214340	40	.06	0
 bible-uedin	v1	OpenSubtitles	v2018	61585	34466630	9	.01	0
+bible-uedin	v1	OpenSubtitles	v2016	61585	27507360	8	.01	0
+bible-uedin	v1	MultiCCAligned	v1	61585	11529935	2	0	0
 bible-uedin	v1	CCAligned	v1	61585	11529736	2	0	0
 bible-uedin	v1	DGT	v2019	61585	3673722	0	0	0
 bible-uedin	v1	LinguaTools-WikiTitles	v2014	61585	3548953	0	0	0
 bible-uedin	v1	XLEnt	v1.1	61585	3427854	0	0	0
 bible-uedin	v1	XLEnt	v1.2	61585	3427854	0	0	0
 bible-uedin	v1	XLEnt	v1	61585	3427854	0	0	0
+bible-uedin	v1	DGT	v4	61585	1988362	0	0	0
 bible-uedin	v1	TildeMODEL	v2018	61585	1937632	0	0	0
 bible-uedin	v1	ELRC-2715-EMEA	v1	61585	765041	0	0	0
 bible-uedin	v1	ELRC-EMEA	v1	61585	765041	0	0	0
 bible-uedin	v1	Europarl	v8	61585	607267	0	0	0
+bible-uedin	v1	Europarl	v7	61585	606871	0	0	0
 bible-uedin	v1	WikiMatrix	v1	61585	488277	1	0	0
 bible-uedin	v1	EUbookshop	v2	61585	369917	0	0	0
 bible-uedin	v1	JRC-Acquis	v3.0	61585	349092	0	0	0
@@ -21,6 +31,7 @@ bible-uedin	v1	TED2020	v1	61585	300676	0	0	0
 bible-uedin	v1	ELITR-ECA	v1	61585	256227	0	0	0
 bible-uedin	v1	NeuLab-TedTalks	v1	61585	155678	0	0	0
 bible-uedin	v1	Books	v1	61585	136383	0	0	0
+bible-uedin	v1	Tatoeba	v2023-04-12	61585	116753	1	0	0
 bible-uedin	v1	Tatoeba	v2022-03-03	61585	113410	1	0	0
 bible-uedin	v1	Tatoeba	v2021-07-22	61585	110158	1	0	0
 bible-uedin	v1	Tatoeba	v2021-03-10	61585	109023	1	0	0
@@ -29,6 +40,7 @@ bible-uedin	v1	Tatoeba	v2020-11-09	61585	107116	1	0	0
 bible-uedin	v1	OpenSubtitles	v1	61585	106871	0	0	0
 bible-uedin	v1	Tatoeba	v2020-05-31	61585	105928	1	0	0
 bible-uedin	v1	Tatoeba	v20190709	61585	102930	1	0	0
+bible-uedin	v1	wikimedia	v20230407	61585	87709	0	0	0
 bible-uedin	v1	ECB	v1	61585	71947	0	0	0
 bible-uedin	v1	Wikipedia	v1.0	61585	55935	0	0	0
 bible-uedin	v1	wikimedia	v20210402	61585	52996	0	0	0

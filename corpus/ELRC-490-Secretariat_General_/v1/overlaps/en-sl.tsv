@@ -2,9 +2,17 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-490-Secretariat_General_	v1	ELRA-W0191	v1	62951	62950	59171	93.99	93.99
 ELRC-490-Secretariat_General_	v1	ParaCrawl	v9	62951	9516069	4278	6.79	.04
 ELRC-490-Secretariat_General_	v1	CCMatrix	v1	62951	27249324	3219	5.11	.01
+ELRC-490-Secretariat_General_	v1	NLLB	v1	62951	27248871	3219	5.11	.01
 ELRC-490-Secretariat_General_	v1	DGT	v2019	62951	3618655	2662	4.22	.07
+ELRC-490-Secretariat_General_	v1	DGT	v4	62951	1958354	2617	4.15	.13
+ELRC-490-Secretariat_General_	v1	ParaCrawl	v8	62951	7536844	1231	1.95	.01
+ELRC-490-Secretariat_General_	v1	MultiParaCrawl	v7.1	62951	3737733	509	.80	.01
+ELRC-490-Secretariat_General_	v1	ParaCrawl	v7.1	62951	3737732	508	.80	.01
 ELRC-490-Secretariat_General_	v1	TildeMODEL	v2018	62951	2019848	450	.71	.02
+ELRC-490-Secretariat_General_	v1	MultiCCAligned	v1	62951	4346713	376	.59	0
 ELRC-490-Secretariat_General_	v1	CCAligned	v1	62951	4346640	376	.59	0
+ELRC-490-Secretariat_General_	v1	ParaCrawl	v4	62951	656409	348	.55	.05
+ELRC-490-Secretariat_General_	v1	ParaCrawl	v5	62951	1395048	288	.45	.02
 ELRC-490-Secretariat_General_	v1	ELRC-489-Secretariat_General_	v1	62951	55183	274	.43	.49
 ELRC-490-Secretariat_General_	v1	ELRA-W0190	v1	62951	55182	263	.41	.47
 ELRC-490-Secretariat_General_	v1	JRC-Acquis	v3.0	62951	30983	230	.36	.74
@@ -20,7 +28,9 @@ ELRC-490-Secretariat_General_	v1	KDE4	v2	62951	106508	7	.01	0
 ELRC-490-Secretariat_General_	v1	ELRC-2886-EU_publications_medi	v1	62951	13192	11	.01	.08
 ELRC-490-Secretariat_General_	v1	ELRC-EU_publications	v1	62951	13192	11	.01	.08
 ELRC-490-Secretariat_General_	v1	OpenSubtitles	v2018	62951	16322093	4	0	0
+ELRC-490-Secretariat_General_	v1	OpenSubtitles	v2016	62951	13659351	3	0	0
 ELRC-490-Secretariat_General_	v1	Europarl	v8	62951	604779	0	0	0
+ELRC-490-Secretariat_General_	v1	Europarl	v7	62951	604395	0	0	0
 ELRC-490-Secretariat_General_	v1	EMEA	v3	62951	333756	2	0	0
 ELRC-490-Secretariat_General_	v1	WikiMatrix	v1	62951	318028	2	0	0
 ELRC-490-Secretariat_General_	v1	OpenSubtitles	v1	62951	317270	0	0	0
@@ -28,6 +38,7 @@ ELRC-490-Secretariat_General_	v1	ELRC-5067-SciPar	v1	62951	300017	1	0	0
 ELRC-490-Secretariat_General_	v1	ELITR-ECA	v1	62951	90081	3	0	0
 ELRC-490-Secretariat_General_	v1	Wikipedia	v1.0	62951	81374	0	0	0
 ELRC-490-Secretariat_General_	v1	QED	v2.0a	62951	74807	0	0	0
+ELRC-490-Secretariat_General_	v1	wikimedia	v20230407	62951	69985	3	0	0
 ELRC-490-Secretariat_General_	v1	bible-uedin	v1	62951	61647	0	0	0
 ELRC-490-Secretariat_General_	v1	TED2020	v1	62951	43251	1	0	0
 ELRC-490-Secretariat_General_	v1	wikimedia	v20210402	62951	29488	3	0	.01
@@ -44,6 +55,7 @@ ELRC-490-Secretariat_General_	v1	ELRC-3617-presscorner_covid	v1	62951	6991	2	0	.
 ELRC-490-Secretariat_General_	v1	ELRC-presscorner_covid	v1	62951	6991	2	0	.02
 ELRC-490-Secretariat_General_	v1	Ubuntu	v14.10	62951	6911	0	0	0
 ELRC-490-Secretariat_General_	v1	ELRC-923-chapters_Youth_2010	v1	62951	5855	1	0	.01
+ELRC-490-Secretariat_General_	v1	Tatoeba	v2023-04-12	62951	4293	1	0	.02
 ELRC-490-Secretariat_General_	v1	Tatoeba	v2022-03-03	62951	4159	1	0	.02
 ELRC-490-Secretariat_General_	v1	Tatoeba	v2021-07-22	62951	4107	1	0	.02
 ELRC-490-Secretariat_General_	v1	PHP	v1	62951	3742	0	0	0

@@ -1,19 +1,30 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiSource	v1	bible-uedin	v1	32032	61422	18734	58.48	30.50
 WikiSource	v1	ParaCrawl	v9	32032	49109340	11292	35.25	.02
+WikiSource	v1	MultiParaCrawl	v7.1	32032	11645803	7166	22.37	.06
+WikiSource	v1	ParaCrawl	v7.1	32032	11645802	7165	22.36	.06
+WikiSource	v1	ParaCrawl	v5	32032	6027448	5822	18.17	.09
+WikiSource	v1	ParaCrawl	v8	32032	44066654	5734	17.90	.01
+WikiSource	v1	ParaCrawl	v4	32032	3456794	3596	11.22	.10
 WikiSource	v1	CCMatrix	v1	32032	76586290	138	.43	0
+WikiSource	v1	NLLB	v1	32032	76584927	138	.43	0
 WikiSource	v1	ELRC-4268-NTEU_TierA	v1	32032	12468100	52	.16	0
 WikiSource	v1	TildeMODEL	v2018	32032	3185574	42	.13	0
 WikiSource	v1	DGT	v2019	32032	3635425	39	.12	0
+WikiSource	v1	DGT	v4	32032	1968717	39	.12	0
 WikiSource	v1	OpenSubtitles	v2018	32032	14904885	8	.02	0
+WikiSource	v1	OpenSubtitles	v2016	32032	10237744	8	.02	0
 WikiSource	v1	JRC-Acquis	v3.0	32032	493351	8	.02	0
+WikiSource	v1	MultiCCAligned	v1	32032	12482516	1	0	0
 WikiSource	v1	CCAligned	v1	32032	12482304	1	0	0
 WikiSource	v1	LinguaTools-WikiTitles	v2014	32032	7759117	1	0	0
 WikiSource	v1	XLEnt	v1.1	32032	3403994	3	0	0
 WikiSource	v1	XLEnt	v1.2	32032	3403994	3	0	0
 WikiSource	v1	XLEnt	v1	32032	3403994	3	0	0
 WikiSource	v1	Europarl	v8	32032	1846661	0	0	0
+WikiSource	v1	Europarl	v7	32032	1846286	0	0	0
 WikiSource	v1	EUbookshop	v2	32032	1753373	0	0	0
+WikiSource	v1	Europarl	v3	32032	1136242	0	0	0
 WikiSource	v1	ELRC-2725-EMEA	v1	32032	752045	0	0	0
 WikiSource	v1	ELRC-EMEA	v1	32032	752045	0	0	0
 WikiSource	v1	ELRC-5067-SciPar	v1	32032	670816	0	0	0
@@ -26,6 +37,7 @@ WikiSource	v1	QED	v2.0a	32032	160782	1	0	0
 WikiSource	v1	Tanzil	v1	32032	124111	0	0	0
 WikiSource	v1	TED2020	v1	32032	117646	0	0	0
 WikiSource	v1	NeuLab-TedTalks	v1	32032	67599	0	0	0
+WikiSource	v1	wikimedia	v20230407	32032	59125	0	0	0
 WikiSource	v1	ELRC-1770-valtioneuvosto.fi	v1	32032	49084	0	0	0
 WikiSource	v1	ELRC-valtioneuvosto.fi	v1	32032	49084	0	0	0
 WikiSource	v1	ELRC-1133-www.vtv.fi	v1	32032	46345	0	0	0
@@ -37,6 +49,7 @@ WikiSource	v1	ELRC-vnk.fi	v1	32032	33625	0	0	0
 WikiSource	v1	OpenOffice	v2	32032	32770	0	0	0
 WikiSource	v1	wikimedia	v20210402	32032	29811	0	0	0
 WikiSource	v1	ELRC-817-Swedish_Audit_Riksre	v1	32032	28944	0	0	0
+WikiSource	v1	Tatoeba	v2023-04-12	32032	26957	1	0	0
 WikiSource	v1	Tatoeba	v2022-03-03	32032	26220	1	0	0
 WikiSource	v1	Tatoeba	v2021-07-22	32032	25865	1	0	0
 WikiSource	v1	Tatoeba	v2021-03-10	32032	25646	1	0	0

@@ -1,8 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+bible-uedin	v1	ParaCrawl	v8	61464	5724257	308	.50	0
+bible-uedin	v1	MultiParaCrawl	v7.1	61464	2392423	287	.46	.01
+bible-uedin	v1	ParaCrawl	v7.1	61464	2392422	287	.46	.01
 bible-uedin	v1	ParaCrawl	v9	61464	2967520	259	.42	0
 bible-uedin	v1	CCMatrix	v1	61464	8678395	49	.07	0
+bible-uedin	v1	NLLB	v1	61464	8678252	49	.07	0
 bible-uedin	v1	ParIce	v1	61464	1480222	0	0	0
 bible-uedin	v1	OpenSubtitles	v2018	61464	1361307	0	0	0
+bible-uedin	v1	OpenSubtitles	v2016	61464	1195814	0	0	0
+bible-uedin	v1	MultiCCAligned	v1	61464	1186757	2	0	0
 bible-uedin	v1	CCAligned	v1	61464	1186739	2	0	0
 bible-uedin	v1	XLEnt	v1.1	61464	930819	0	0	0
 bible-uedin	v1	XLEnt	v1.2	61464	930819	0	0	0
@@ -22,6 +28,7 @@ bible-uedin	v1	ELRC-4324-Government_Offices_I	v1	61464	18176	0	0	0
 bible-uedin	v1	ELRC-4295-www.malfong.is	v1	61464	12225	0	0	0
 bible-uedin	v1	ELRC-4334-Rkiskaup_2020	v1	61464	10220	0	0	0
 bible-uedin	v1	ELRC-4338-University_Iceland	v1	61464	9808	0	0	0
+bible-uedin	v1	Tatoeba	v2023-04-12	61464	9595	0	0	0
 bible-uedin	v1	Tatoeba	v2022-03-03	61464	9518	0	0	0
 bible-uedin	v1	Tatoeba	v2021-03-10	61464	9440	0	0	0
 bible-uedin	v1	Tatoeba	v2021-07-22	61464	9440	0	0	0
@@ -32,6 +39,7 @@ bible-uedin	v1	EUbookshop	v2	61464	9221	0	0	0
 bible-uedin	v1	Tatoeba	v2	61464	8139	0	0	0
 bible-uedin	v1	OpenSubtitles	v1	61464	6782	0	0	0
 bible-uedin	v1	GNOME	v1	61464	5424	0	0	0
+bible-uedin	v1	wikimedia	v20230407	61464	4394	0	0	0
 bible-uedin	v1	ELRC-505-www.pfs.is	v1	61464	2866	0	0	0
 bible-uedin	v1	ECDC	v2016-03-16	61464	2427	0	0	0
 bible-uedin	v1	ELRC-508-Tilde_Statistics_Ice	v1	61464	2426	0	0	0

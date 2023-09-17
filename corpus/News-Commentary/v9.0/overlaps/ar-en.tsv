@@ -1,11 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v9.0	News-Commentary	v9.1	174557	174557	174557	100.00	100.00
 News-Commentary	v9.0	CCMatrix	v1	174557	49234443	27118	15.53	.05
+News-Commentary	v9.0	NLLB	v1	174557	49233705	27118	15.53	.05
 News-Commentary	v9.0	News-Commentary	v14	174557	90173	8804	5.04	9.76
 News-Commentary	v9.0	News-Commentary	v16	174557	90173	8466	4.84	9.38
 News-Commentary	v9.0	News-Commentary	v11	174557	83163	8195	4.69	9.85
 News-Commentary	v9.0	OpenSubtitles	v2018	174557	25630788	21	.01	0
 News-Commentary	v9.0	MultiUN	v1	174557	8210447	18	.01	0
+News-Commentary	v9.0	MultiCCAligned	v1	174557	25031776	14	0	0
+News-Commentary	v9.0	OpenSubtitles	v2016	174557	19600850	17	0	0
 News-Commentary	v9.0	UNPC	v1.0	174557	16579281	15	0	0
 News-Commentary	v9.0	CCAligned	v1	174557	12951374	14	0	0
 News-Commentary	v9.0	XLEnt	v1.1	174557	5553958	15	0	0
@@ -13,6 +16,7 @@ News-Commentary	v9.0	XLEnt	v1	174557	5553958	15	0	0
 News-Commentary	v9.0	XLEnt	v1.2	174557	5553958	15	0	0
 News-Commentary	v9.0	LinguaTools-WikiTitles	v2014	174557	4598982	3	0	0
 News-Commentary	v9.0	WikiMatrix	v1	174557	999761	2	0	0
+News-Commentary	v9.0	wikimedia	v20230407	174557	570493	2	0	0
 News-Commentary	v9.0	QED	v2.0a	174557	474973	6	0	0
 News-Commentary	v9.0	TED2020	v1	174557	397855	3	0	0
 News-Commentary	v9.0	wikimedia	v20210402	174557	374343	2	0	0
@@ -26,6 +30,7 @@ News-Commentary	v9.0	bible-uedin	v1	174557	61540	0	0	0
 News-Commentary	v9.0	GlobalVoices	v2018q4	174557	58258	1	0	0
 News-Commentary	v9.0	GlobalVoices	v2017q3	174557	51838	1	0	0
 News-Commentary	v9.0	GlobalVoices	v2015	174557	40382	1	0	0
+News-Commentary	v9.0	Tatoeba	v2023-04-12	174557	30845	3	0	0
 News-Commentary	v9.0	Tatoeba	v2022-03-03	174557	29294	3	0	.01
 News-Commentary	v9.0	Tatoeba	v2021-07-22	174557	27887	3	0	.01
 News-Commentary	v9.0	Tatoeba	v2021-03-10	174557	27848	3	0	.01

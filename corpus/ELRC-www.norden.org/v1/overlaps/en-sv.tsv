@@ -2,11 +2,18 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-www.norden.org	v1	ELRC-4268-NTEU_TierA	v1	37760	12468100	37760	100.00	.30
 ELRC-www.norden.org	v1	ELRC-734-www.norden.org	v1	37760	37760	37760	100.00	100.00
 ELRC-www.norden.org	v1	CCMatrix	v1	37760	76586290	2484	6.57	0
+ELRC-www.norden.org	v1	NLLB	v1	37760	76584927	2484	6.57	0
 ELRC-www.norden.org	v1	ParaCrawl	v9	37760	49109340	2440	6.46	0
+ELRC-www.norden.org	v1	ParaCrawl	v8	37760	44066654	1944	5.14	0
+ELRC-www.norden.org	v1	MultiParaCrawl	v7.1	37760	11645803	1216	3.22	.01
+ELRC-www.norden.org	v1	ParaCrawl	v7.1	37760	11645802	1210	3.20	.01
+ELRC-www.norden.org	v1	ParaCrawl	v5	37760	6027448	662	1.75	.01
+ELRC-www.norden.org	v1	MultiCCAligned	v1	37760	12482516	121	.32	0
 ELRC-www.norden.org	v1	CCAligned	v1	37760	12482304	121	.32	0
 ELRC-www.norden.org	v1	TildeMODEL	v2018	37760	3185574	99	.26	0
 ELRC-www.norden.org	v1	LinguaTools-WikiTitles	v2014	37760	7759117	88	.23	0
 ELRC-www.norden.org	v1	DGT	v2019	37760	3635425	80	.21	0
+ELRC-www.norden.org	v1	DGT	v4	37760	1968717	79	.20	0
 ELRC-www.norden.org	v1	XLEnt	v1.1	37760	3403994	70	.18	0
 ELRC-www.norden.org	v1	XLEnt	v1.2	37760	3403994	70	.18	0
 ELRC-www.norden.org	v1	XLEnt	v1	37760	3403994	70	.18	0
@@ -16,6 +23,9 @@ ELRC-www.norden.org	v1	OpenSubtitles	v2018	37760	14904885	20	.05	0
 ELRC-www.norden.org	v1	ELRC-2725-EMEA	v1	37760	752045	21	.05	0
 ELRC-www.norden.org	v1	ELRC-EMEA	v1	37760	752045	21	.05	0
 ELRC-www.norden.org	v1	JRC-Acquis	v3.0	37760	493351	20	.05	0
+ELRC-www.norden.org	v1	wikimedia	v20230407	37760	59125	22	.05	.03
+ELRC-www.norden.org	v1	OpenSubtitles	v2016	37760	10237744	18	.04	0
+ELRC-www.norden.org	v1	ParaCrawl	v4	37760	3456794	17	.04	0
 ELRC-www.norden.org	v1	OpenOffice	v2	37760	32770	17	.04	.05
 ELRC-www.norden.org	v1	wikimedia	v20210402	37760	29811	17	.04	.05
 ELRC-www.norden.org	v1	ELRC-817-Swedish_Audit_Riksre	v1	37760	28944	17	.04	.05
@@ -27,6 +37,8 @@ ELRC-www.norden.org	v1	ELRC-vnk.fi	v1	37760	33625	11	.02	.03
 ELRC-www.norden.org	v1	ELRC-2884-EU_publications_medi	v1	37760	13089	8	.02	.06
 ELRC-www.norden.org	v1	ELRC-EU_publications	v1	37760	13089	8	.02	.06
 ELRC-www.norden.org	v1	Europarl	v8	37760	1846661	7	.01	0
+ELRC-www.norden.org	v1	Europarl	v7	37760	1846286	7	.01	0
+ELRC-www.norden.org	v1	Europarl	v3	37760	1136242	4	.01	0
 ELRC-www.norden.org	v1	WikiMatrix	v1	37760	546289	7	.01	0
 ELRC-www.norden.org	v1	ELRC-1770-valtioneuvosto.fi	v1	37760	49084	7	.01	.01
 ELRC-www.norden.org	v1	ELRC-valtioneuvosto.fi	v1	37760	49084	7	.01	.01
@@ -57,6 +69,7 @@ ELRC-www.norden.org	v1	TED2020	v1	37760	117646	2	0	0
 ELRC-www.norden.org	v1	NeuLab-TedTalks	v1	37760	67599	2	0	0
 ELRC-www.norden.org	v1	bible-uedin	v1	37760	61422	0	0	0
 ELRC-www.norden.org	v1	WikiSource	v1	37760	32032	0	0	0
+ELRC-www.norden.org	v1	Tatoeba	v2023-04-12	37760	26957	3	0	.01
 ELRC-www.norden.org	v1	Tatoeba	v2022-03-03	37760	26220	3	0	.01
 ELRC-www.norden.org	v1	Tatoeba	v2021-07-22	37760	25865	3	0	.01
 ELRC-www.norden.org	v1	Tatoeba	v2021-03-10	37760	25646	3	0	.01

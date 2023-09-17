@@ -1,18 +1,29 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	Europarl	v7	1846661	1846286	1846283	99.97	99.99
 Europarl	v8	ELRC-4268-NTEU_TierA	v1	1846661	12468100	1613949	87.39	12.94
+Europarl	v8	Europarl	v3	1846661	1136242	911498	49.35	80.22
 Europarl	v8	EUbookshop	v2	1846661	1753373	88411	4.78	5.04
+Europarl	v8	ParaCrawl	v8	1846661	44066654	13692	.74	.03
 Europarl	v8	ParaCrawl	v9	1846661	49109340	13402	.72	.02
 Europarl	v8	CCMatrix	v1	1846661	76586290	6846	.37	0
+Europarl	v8	NLLB	v1	1846661	76584927	6846	.37	0
 Europarl	v8	OpenSubtitles	v2018	1846661	14904885	1951	.10	.01
+Europarl	v8	OpenSubtitles	v2016	1846661	10237744	1650	.08	.01
+Europarl	v8	MultiParaCrawl	v7.1	1846661	11645803	679	.03	0
+Europarl	v8	ParaCrawl	v7.1	1846661	11645802	679	.03	0
 Europarl	v8	TildeMODEL	v2018	1846661	3185574	501	.02	.01
+Europarl	v8	MultiCCAligned	v1	1846661	12482516	280	.01	0
 Europarl	v8	CCAligned	v1	1846661	12482304	280	.01	0
 Europarl	v8	DGT	v2019	1846661	3635425	240	.01	0
 Europarl	v8	OpenSubtitles	v1	1846661	298889	318	.01	.10
 Europarl	v8	QED	v2.0a	1846661	160782	227	.01	.14
 Europarl	v8	LinguaTools-WikiTitles	v2014	1846661	7759117	182	0	0
+Europarl	v8	ParaCrawl	v5	1846661	6027448	170	0	0
+Europarl	v8	ParaCrawl	v4	1846661	3456794	115	0	0
 Europarl	v8	XLEnt	v1.1	1846661	3403994	128	0	0
 Europarl	v8	XLEnt	v1	1846661	3403994	128	0	0
 Europarl	v8	XLEnt	v1.2	1846661	3403994	128	0	0
+Europarl	v8	DGT	v4	1846661	1968717	176	0	0
 Europarl	v8	ELRC-2725-EMEA	v1	1846661	752045	17	0	0
 Europarl	v8	ELRC-EMEA	v1	1846661	752045	17	0	0
 Europarl	v8	ELRC-5067-SciPar	v1	1846661	670816	18	0	0
@@ -25,6 +36,7 @@ Europarl	v8	Tanzil	v1	1846661	124111	4	0	0
 Europarl	v8	TED2020	v1	1846661	117646	146	0	.12
 Europarl	v8	NeuLab-TedTalks	v1	1846661	67599	111	0	.16
 Europarl	v8	bible-uedin	v1	1846661	61422	0	0	0
+Europarl	v8	wikimedia	v20230407	1846661	59125	13	0	.02
 Europarl	v8	ELRC-1770-valtioneuvosto.fi	v1	1846661	49084	19	0	.03
 Europarl	v8	ELRC-valtioneuvosto.fi	v1	1846661	49084	19	0	.03
 Europarl	v8	ELRC-1133-www.vtv.fi	v1	1846661	46345	1	0	0
@@ -37,6 +49,7 @@ Europarl	v8	OpenOffice	v2	1846661	32770	20	0	.06
 Europarl	v8	WikiSource	v1	1846661	32032	0	0	0
 Europarl	v8	wikimedia	v20210402	1846661	29811	11	0	.03
 Europarl	v8	ELRC-817-Swedish_Audit_Riksre	v1	1846661	28944	6	0	.02
+Europarl	v8	Tatoeba	v2023-04-12	1846661	26957	103	0	.38
 Europarl	v8	Tatoeba	v2022-03-03	1846661	26220	102	0	.38
 Europarl	v8	Tatoeba	v2021-07-22	1846661	25865	102	0	.39
 Europarl	v8	Tatoeba	v2021-03-10	1846661	25646	102	0	.39

@@ -1,12 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+ELRC-2405-Czech_Supreme_Audit	v1	MultiParaCrawl	v7.1	2868	14083301	9	.31	0
+ELRC-2405-Czech_Supreme_Audit	v1	ParaCrawl	v7.1	2868	14083300	8	.27	0
+ELRC-2405-Czech_Supreme_Audit	v1	MultiCCAligned	v1	2868	12660555	8	.27	0
 ELRC-2405-Czech_Supreme_Audit	v1	CCAligned	v1	2868	12660340	8	.27	0
 ELRC-2405-Czech_Supreme_Audit	v1	ParaCrawl	v9	2868	50632491	7	.24	0
+ELRC-2405-Czech_Supreme_Audit	v1	ParaCrawl	v8	2868	50152198	6	.20	0
 ELRC-2405-Czech_Supreme_Audit	v1	StanfordNLP-NMT	v1.0	2868	11065607	6	.20	0
 ELRC-2405-Czech_Supreme_Audit	v1	XLEnt	v1.1	2868	3667457	6	.20	0
 ELRC-2405-Czech_Supreme_Audit	v1	XLEnt	v1.2	2868	3667457	6	.20	0
 ELRC-2405-Czech_Supreme_Audit	v1	XLEnt	v1	2868	3667457	6	.20	0
+ELRC-2405-Czech_Supreme_Audit	v1	ParaCrawl	v1	2868	9987509	4	.13	0
 ELRC-2405-Czech_Supreme_Audit	v1	CCMatrix	v1	2868	55956324	2	.06	0
+ELRC-2405-Czech_Supreme_Audit	v1	NLLB	v1	2868	55955382	2	.06	0
 ELRC-2405-Czech_Supreme_Audit	v1	DGT	v2019	2868	3659771	2	.06	0
+ELRC-2405-Czech_Supreme_Audit	v1	ParaCrawl	v4	2868	2963676	2	.06	0
+ELRC-2405-Czech_Supreme_Audit	v1	DGT	v4	2868	1963085	2	.06	0
+ELRC-2405-Czech_Supreme_Audit	v1	ParaCrawl	v5	2868	5224048	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	LinguaTools-WikiTitles	v2014	2868	4637372	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	ELRC-5067-SciPar	v1	2868	1064385	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	JRC-Acquis	v3.0	2868	816159	1	.03	0
@@ -19,8 +28,10 @@ ELRC-2405-Czech_Supreme_Audit	v1	ELITR-ECA	v1	2868	255266	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	News-Commentary	v14	2868	212212	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	News-Commentary	v16	2868	212206	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	TED2020	v1	2868	166657	1	.03	0
+ELRC-2405-Czech_Supreme_Audit	v1	wikimedia	v20230407	2868	140767	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	NeuLab-TedTalks	v1	2868	108494	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	wikimedia	v20210402	2868	96741	1	.03	0
+ELRC-2405-Czech_Supreme_Audit	v1	Tatoeba	v2023-04-12	2868	34622	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	Tatoeba	v2022-03-03	2868	31506	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	Tatoeba	v2021-07-22	2868	30011	1	.03	0
 ELRC-2405-Czech_Supreme_Audit	v1	Tatoeba	v2021-03-10	2868	28263	1	.03	0
@@ -52,8 +63,10 @@ ELRC-2405-Czech_Supreme_Audit	v1	ELRC-vaccination	v1	2868	519	1	.03	.19
 ELRC-2405-Czech_Supreme_Audit	v1	ELRC-2404-Czech_Supreme_Audit	v1	2868	403	1	.03	.24
 ELRC-2405-Czech_Supreme_Audit	v1	ELRC-2407-Czech_Supreme_Audit	v1	2868	234	1	.03	.42
 ELRC-2405-Czech_Supreme_Audit	v1	OpenSubtitles	v2018	2868	33781924	0	0	0
+ELRC-2405-Czech_Supreme_Audit	v1	OpenSubtitles	v2016	2868	27473068	0	0	0
 ELRC-2405-Czech_Supreme_Audit	v1	ELRC_2682	v1	2868	771907	0	0	0
 ELRC-2405-Czech_Supreme_Audit	v1	Europarl	v8	2868	628484	0	0	0
+ELRC-2405-Czech_Supreme_Audit	v1	Europarl	v7	2868	628103	0	0	0
 ELRC-2405-Czech_Supreme_Audit	v1	QED	v2.0a	2868	422723	0	0	0
 ELRC-2405-Czech_Supreme_Audit	v1	OpenSubtitles	v1	2868	343652	0	0	0
 ELRC-2405-Czech_Supreme_Audit	v1	EMEA	v3	2868	331060	0	0	0

@@ -1,11 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	Europarl	v7	628484	628103	628102	99.93	99.99
 Europarl	v8	StanfordNLP-NMT	v1.0	628484	11065607	627199	99.79	5.66
 Europarl	v8	ParaCrawl	v9	628484	50632491	11241	1.78	.02
+Europarl	v8	ParaCrawl	v8	628484	50152198	10437	1.66	.02
 Europarl	v8	CCMatrix	v1	628484	55956324	7455	1.18	.01
+Europarl	v8	NLLB	v1	628484	55955382	7455	1.18	.01
 Europarl	v8	OpenSubtitles	v2018	628484	33781924	1266	.20	0
+Europarl	v8	OpenSubtitles	v2016	628484	27473068	1161	.18	0
+Europarl	v8	MultiParaCrawl	v7.1	628484	14083301	289	.04	0
+Europarl	v8	ParaCrawl	v7.1	628484	14083300	289	.04	0
+Europarl	v8	ParaCrawl	v1	628484	9987509	229	.03	0
 Europarl	v8	QED	v2.0a	628484	422723	195	.03	.04
+Europarl	v8	MultiCCAligned	v1	628484	12660555	141	.02	0
 Europarl	v8	CCAligned	v1	628484	12660340	141	.02	0
 Europarl	v8	OpenSubtitles	v1	628484	343652	181	.02	.05
+Europarl	v8	ParaCrawl	v5	628484	5224048	67	.01	0
 Europarl	v8	JRC-Acquis	v3.0	628484	816159	86	.01	.01
 Europarl	v8	News-Commentary	v14	628484	212212	117	.01	.05
 Europarl	v8	News-Commentary	v16	628484	212206	113	.01	.05
@@ -19,6 +28,8 @@ Europarl	v8	XLEnt	v1.1	628484	3667457	22	0	0
 Europarl	v8	XLEnt	v1.2	628484	3667457	22	0	0
 Europarl	v8	XLEnt	v1	628484	3667457	22	0	0
 Europarl	v8	DGT	v2019	628484	3659771	49	0	0
+Europarl	v8	ParaCrawl	v4	628484	2963676	22	0	0
+Europarl	v8	DGT	v4	628484	1963085	47	0	0
 Europarl	v8	ELRC-5067-SciPar	v1	628484	1064385	4	0	0
 Europarl	v8	ELRC-2713-EMEA	v1	628484	771908	10	0	0
 Europarl	v8	ELRC-EMEA	v1	628484	771908	10	0	0
@@ -29,10 +40,12 @@ Europarl	v8	EUbookshop	v2	628484	381430	21	0	0
 Europarl	v8	EMEA	v3	628484	331060	52	0	.01
 Europarl	v8	ELITR-ECA	v1	628484	255266	60	0	.02
 Europarl	v8	Tanzil	v1	628484	228637	0	0	0
+Europarl	v8	wikimedia	v20230407	628484	140767	2	0	0
 Europarl	v8	KDE4	v2	628484	112389	34	0	.03
 Europarl	v8	wikimedia	v20210402	628484	96741	1	0	0
 Europarl	v8	ECB	v1	628484	63677	2	0	0
 Europarl	v8	bible-uedin	v1	628484	61625	0	0	0
+Europarl	v8	Tatoeba	v2023-04-12	628484	34622	14	0	.04
 Europarl	v8	WMT-News	v2019	628484	33161	10	0	.03
 Europarl	v8	Tatoeba	v2022-03-03	628484	31506	13	0	.04
 Europarl	v8	Tatoeba	v2021-07-22	628484	30011	13	0	.04

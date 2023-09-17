@@ -1,11 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	27	27	27	100.00	100.00
 CCAligned	v1	DGT	v2019	27	2737811	1	3.70	0
+CCAligned	v1	ParaCrawl	v8	27	1604136	1	3.70	0
 CCAligned	v1	ParaCrawl	v9	27	1207761	1	3.70	0
+CCAligned	v1	DGT	v4	27	1097225	1	3.70	0
+CCAligned	v1	MultiParaCrawl	v7.1	27	856984	1	3.70	0
 CCAligned	v1	ELRC-2709-EMEA	v1	27	405848	1	3.70	0
 CCAligned	v1	ELRC-EMEA	v1	27	405848	1	3.70	0
 CCAligned	v1	ELITR-ECA	v1	27	261509	1	3.70	0
 CCAligned	v1	ELRC-2023-EUIPO_2017	v1	27	17330	1	3.70	0
 CCAligned	v1	ELRC-EUIPO_2017	v1	27	17330	1	3.70	0
+CCAligned	v1	wikimedia	v20230407	27	6033	1	3.70	.01
 CCAligned	v1	ELRC-3560-EUR_LEX_covid	v1	27	4710	1	3.70	.02
 CCAligned	v1	ELRC-EUR_LEX	v1	27	4710	1	3.70	.02
 CCAligned	v1	ELRC-807-Malta_Government_Gaz	v1	27	4005	1	3.70	.02
@@ -21,6 +26,7 @@ CCAligned	v1	ELRC-2746-vaccination	v1	27	472	1	3.70	.21
 CCAligned	v1	ELRC-vaccination	v1	27	472	1	3.70	.21
 CCAligned	v1	ELRC-3197-antibiotic	v1	27	392	1	3.70	.25
 CCAligned	v1	ELRC-antibiotic	v1	27	392	1	3.70	.25
+CCAligned	v1	Tatoeba	v2023-04-12	27	253	1	3.70	.39
 CCAligned	v1	Tatoeba	v2022-03-03	27	206	1	3.70	.48
 CCAligned	v1	Tatoeba	v2020-11-09	27	205	1	3.70	.48
 CCAligned	v1	Tatoeba	v2021-03-10	27	205	1	3.70	.48
@@ -28,9 +34,13 @@ CCAligned	v1	Tatoeba	v2021-07-22	27	205	1	3.70	.48
 CCAligned	v1	TED2020	v1	27	171	1	3.70	.58
 CCAligned	v1	ELRC-3288-EUROPARL_covid	v1	27	142	1	3.70	.70
 CCAligned	v1	ELRC-EUROPARL_covid	v1	27	142	1	3.70	.70
+CCAligned	v1	NLLB	v1	27	14726004	0	0	0
 CCAligned	v1	TildeMODEL	v2018	27	1944924	0	0	0
+CCAligned	v1	ParaCrawl	v7.1	27	856983	0	0	0
 CCAligned	v1	EMEA	v3	27	317524	0	0	0
 CCAligned	v1	EUbookshop	v2	27	241067	0	0	0
+CCAligned	v1	ParaCrawl	v4	27	193983	0	0	0
+CCAligned	v1	ParaCrawl	v5	27	176423	0	0	0
 CCAligned	v1	ECB	v1	27	101332	0	0	0
 CCAligned	v1	QED	v2.0a	27	17978	0	0	0
 CCAligned	v1	JRC-Acquis	v3.0	27	12383	0	0	0

@@ -1,12 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 NeuLab-TedTalks	v1	TED2020	v1	47296	70497	36096	76.31	51.20
 NeuLab-TedTalks	v1	QED	v2.0a	47296	165595	22966	48.55	13.86
+NeuLab-TedTalks	v1	ParaCrawl	v8	47296	41939064	6940	14.67	.01
+NeuLab-TedTalks	v1	MultiParaCrawl	v7.1	47296	10407633	5934	12.54	.05
+NeuLab-TedTalks	v1	ParaCrawl	v7.1	47296	10407632	5931	12.54	.05
 NeuLab-TedTalks	v1	ParaCrawl	v9	47296	34207153	2871	6.07	0
 NeuLab-TedTalks	v1	CCMatrix	v1	47296	51996397	871	1.84	0
+NeuLab-TedTalks	v1	NLLB	v1	47296	51995658	871	1.84	0
+NeuLab-TedTalks	v1	MultiCCAligned	v1	47296	10687333	775	1.63	0
 NeuLab-TedTalks	v1	CCAligned	v1	47296	10687146	775	1.63	0
 NeuLab-TedTalks	v1	OpenSubtitles	v2018	47296	12095471	421	.89	0
+NeuLab-TedTalks	v1	OpenSubtitles	v2016	47296	9378053	392	.82	0
 NeuLab-TedTalks	v1	ELRC-4248-NTEU_TierA	v1	47296	13598397	70	.14	0
 NeuLab-TedTalks	v1	Europarl	v8	47296	1949878	61	.12	0
+NeuLab-TedTalks	v1	Europarl	v7	47296	1949502	61	.12	0
+NeuLab-TedTalks	v1	Europarl	v3	47296	1276675	44	.09	0
+NeuLab-TedTalks	v1	Tatoeba	v2023-04-12	47296	32727	39	.08	.11
 NeuLab-TedTalks	v1	Tatoeba	v2022-03-03	47296	31862	39	.08	.12
 NeuLab-TedTalks	v1	Tatoeba	v2021-07-22	47296	30835	38	.08	.12
 NeuLab-TedTalks	v1	Tatoeba	v2021-03-10	47296	30475	38	.08	.12
@@ -15,13 +24,16 @@ NeuLab-TedTalks	v1	OpenSubtitles	v1	47296	23525	42	.08	.17
 NeuLab-TedTalks	v1	Tatoeba	v2020-05-31	47296	29626	37	.07	.12
 NeuLab-TedTalks	v1	Tatoeba	v20190709	47296	27912	36	.07	.12
 NeuLab-TedTalks	v1	EUbookshop	v2	47296	4495240	23	.04	0
+NeuLab-TedTalks	v1	ParaCrawl	v5	47296	4569268	15	.03	0
 NeuLab-TedTalks	v1	ELRA-W0214	v1	47296	16241	15	.03	.09
 NeuLab-TedTalks	v1	Tatoeba	v2	47296	8658	12	.02	.13
+NeuLab-TedTalks	v1	ParaCrawl	v4	47296	2395328	6	.01	0
 NeuLab-TedTalks	v1	DGT	v2019	47296	3567131	1	0	0
 NeuLab-TedTalks	v1	LinguaTools-WikiTitles	v2014	47296	2968008	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1.1	47296	2832109	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1.2	47296	2832109	1	0	0
 NeuLab-TedTalks	v1	XLEnt	v1	47296	2832109	1	0	0
+NeuLab-TedTalks	v1	DGT	v4	47296	1946755	1	0	0
 NeuLab-TedTalks	v1	ELRC-2716-EMEA	v1	47296	767928	2	0	0
 NeuLab-TedTalks	v1	ELRC-EMEA	v1	47296	767928	2	0	0
 NeuLab-TedTalks	v1	ELRC_2682	v1	47296	767927	1	0	0
@@ -31,6 +43,7 @@ NeuLab-TedTalks	v1	EMEA	v3	47296	355116	1	0	0
 NeuLab-TedTalks	v1	KDE4	v2	47296	165984	1	0	0
 NeuLab-TedTalks	v1	ECB	v1	47296	137975	1	0	0
 NeuLab-TedTalks	v1	ELITR-ECA	v1	47296	117419	1	0	0
+NeuLab-TedTalks	v1	wikimedia	v20230407	47296	67071	1	0	0
 NeuLab-TedTalks	v1	bible-uedin	v1	47296	61447	0	0	0
 NeuLab-TedTalks	v1	wikimedia	v20210402	47296	40624	1	0	0
 NeuLab-TedTalks	v1	ELRC-847-mst.dk	v1	47296	36733	1	0	0

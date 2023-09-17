@@ -1,12 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ada83	v1	CCMatrix	v1	3966	138875110	13	.32	0
+ada83	v1	NLLB	v1	3966	138865867	13	.32	0
+ada83	v1	MultiCCAligned	v1	3966	68711166	4	.10	0
 ada83	v1	UNPC	v1.0	3966	19744553	3	.07	0
 ada83	v1	CCAligned	v1	3966	13738750	3	.07	0
+ada83	v1	ParaCrawl	v1	3966	12015289	3	.07	0
 ada83	v1	MultiUN	v1	3966	9466296	3	.07	0
+ada83	v1	MultiParaCrawl	v7.1	3966	5364010	2	.05	0
+ada83	v1	ParaCrawl	v8	3966	5364010	2	.05	0
 ada83	v1	ParaCrawl	v9	3966	5364010	2	.05	0
+ada83	v1	ParaCrawl	v7.1	3966	5364009	2	.05	0
 ada83	v1	KDE4	v2	3966	159404	2	.05	0
 ada83	v1	OpenSubtitles	v2018	3966	21152745	1	.02	0
+ada83	v1	OpenSubtitles	v2016	3966	15393688	1	.02	0
 ada83	v1	QED	v2.0a	3966	522751	1	.02	0
+ada83	v1	wikimedia	v20230407	3966	506264	1	.02	0
 ada83	v1	wikimedia	v20210402	3966	316871	1	.02	0
 ada83	v1	News-Commentary	v16	3966	257993	1	.02	0
 ada83	v1	News-Commentary	v14	3966	257991	1	.02	0
@@ -26,6 +34,7 @@ ada83	v1	WikiMatrix	v1	3966	1661904	0	0	0
 ada83	v1	WikiTitles	v3	3966	1123821	0	0	0
 ada83	v1	Tanzil	v1	3966	1011655	0	0	0
 ada83	v1	Wikipedia	v1.0	3966	541331	0	0	0
+ada83	v1	Tatoeba	v2023-04-12	3966	540539	0	0	0
 ada83	v1	Tatoeba	v2022-03-03	3966	529043	0	0	0
 ada83	v1	Tatoeba	v2021-07-22	3966	523544	0	0	0
 ada83	v1	Tatoeba	v2021-03-10	3966	519222	0	0	0

@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	28592	58813	28132	98.39	47.83
 wikimedia	v20210402	CCMatrix	v1	28592	13095932	2049	7.16	.01
+wikimedia	v20210402	NLLB	v1	28592	13095689	2049	7.16	.01
 wikimedia	v20210402	WikiMatrix	v1	28592	446151	1246	4.35	.27
 wikimedia	v20210402	XLEnt	v1.1	28592	1632238	34	.11	0
 wikimedia	v20210402	XLEnt	v1.2	28592	1632238	34	.11	0
@@ -10,10 +12,12 @@ wikimedia	v20210402	ELRC-wikipedia_health	v1	28592	958	6	.02	.62
 wikimedia	v20210402	Ubuntu	v14.10	28592	8172	3	.01	.03
 wikimedia	v20210402	ELRC_2922	v1	28592	957	5	.01	.52
 wikimedia	v20210402	OpenSubtitles	v2018	28592	190387	2	0	0
+wikimedia	v20210402	OpenSubtitles	v2016	28592	145223	1	0	0
 wikimedia	v20210402	QED	v2.0a	28592	34003	1	0	0
 wikimedia	v20210402	TED2020	v1	28592	33573	2	0	0
 wikimedia	v20210402	NeuLab-TedTalks	v1	28592	11095	1	0	0
 wikimedia	v20210402	GNOME	v1	28592	1610	2	0	.12
+wikimedia	v20210402	Tatoeba	v2023-04-12	28592	1022	1	0	.09
 wikimedia	v20210402	Tatoeba	v2021-03-10	28592	1018	1	0	.09
 wikimedia	v20210402	Tatoeba	v2021-07-22	28592	1018	1	0	.09
 wikimedia	v20210402	Tatoeba	v2022-03-03	28592	1018	1	0	.09

@@ -1,7 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-876-Justice	v1	ELRA-W0254	v1	225	224	222	98.66	99.10
 ELRC-876-Justice	v1	CCMatrix	v1	225	73625347	41	18.22	0
+ELRC-876-Justice	v1	NLLB	v1	225	73623674	41	18.22	0
+ELRC-876-Justice	v1	ParaCrawl	v8	225	45358407	30	13.33	0
 ELRC-876-Justice	v1	ParaCrawl	v9	225	40082038	28	12.44	0
+ELRC-876-Justice	v1	MultiCCAligned	v1	225	25790086	1	.44	0
+ELRC-876-Justice	v1	MultiParaCrawl	v7.1	225	13744836	1	.44	0
 ELRC-876-Justice	v1	CCAligned	v1	225	12846330	1	.44	0
 ELRC-876-Justice	v1	LinguaTools-WikiTitles	v2014	225	8003882	1	.44	0
 ELRC-876-Justice	v1	XLEnt	v1.1	225	5202602	1	.44	0
@@ -20,6 +24,8 @@ ELRC-876-Justice	v1	NeuLab-TedTalks	v1	225	185955	1	.44	0
 ELRC-876-Justice	v1	EuroPat	v2	225	88959	1	.44	0
 ELRC-876-Justice	v1	ELRC-1120-CORDIS_News	v1	225	87745	1	.44	0
 ELRC-876-Justice	v1	ELRC-CORDIS_News	v1	225	87745	1	.44	0
+ELRC-876-Justice	v1	wikimedia	v20230407	225	72787	1	.44	0
+ELRC-876-Justice	v1	Tatoeba	v2023-04-12	225	55895	1	.44	0
 ELRC-876-Justice	v1	Tatoeba	v2022-03-03	225	54736	1	.44	0
 ELRC-876-Justice	v1	Tatoeba	v2021-07-22	225	54279	1	.44	0
 ELRC-876-Justice	v1	Tatoeba	v2021-03-10	225	54235	1	.44	0
@@ -113,10 +119,17 @@ ELRC-876-Justice	v1	ELRC-873-Development	v1	225	82	1	.44	1.21
 ELRC-876-Justice	v1	ELRC-648-Letter_rights_person	v1	225	63	1	.44	1.58
 ELRC-876-Justice	v1	ELRC-403-Rights_Arrested	v1	225	24	1	.44	4.16
 ELRC-876-Justice	v1	OpenSubtitles	v2018	225	34512858	0	0	0
+ELRC-876-Justice	v1	OpenSubtitles	v2016	225	22955941	0	0	0
+ELRC-876-Justice	v1	ParaCrawl	v7.1	225	13744835	0	0	0
+ELRC-876-Justice	v1	ParaCrawl	v5	225	6336749	0	0	0
 ELRC-876-Justice	v1	DGT	v2019	225	3659053	0	0	0
+ELRC-876-Justice	v1	ParaCrawl	v4	225	3483752	0	0	0
 ELRC-876-Justice	v1	TildeMODEL	v2018	225	2124677	0	0	0
+ELRC-876-Justice	v1	DGT	v4	225	1966769	0	0	0
+ELRC-876-Justice	v1	ParaCrawl	v1	225	1270691	0	0	0
 ELRC-876-Justice	v1	JRC-Acquis	v3.0	225	1048242	0	0	0
 ELRC-876-Justice	v1	Europarl	v8	225	613356	0	0	0
+ELRC-876-Justice	v1	Europarl	v7	225	612713	0	0	0
 ELRC-876-Justice	v1	QED	v2.0a	225	482625	0	0	0
 ELRC-876-Justice	v1	EUbookshop	v2	225	461498	0	0	0
 ELRC-876-Justice	v1	EMEA	v3	225	343975	0	0	0

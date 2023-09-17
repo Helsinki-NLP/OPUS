@@ -1,13 +1,19 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EUbookshop	v2	ELRC-4270-NTEU_TierA	v1	373431	7890285	371737	99.54	4.71
 EUbookshop	v2	DGT	v2019	373431	3648865	8348	2.23	.22
+EUbookshop	v2	DGT	v4	373431	1967340	8287	2.21	.42
 EUbookshop	v2	ParaCrawl	v9	373431	13191974	7118	1.90	.05
+EUbookshop	v2	ParaCrawl	v8	373431	8043262	6370	1.70	.07
 EUbookshop	v2	CCMatrix	v1	373431	23162636	6197	1.65	.02
+EUbookshop	v2	NLLB	v1	373431	23162019	6197	1.65	.02
 EUbookshop	v2	TildeMODEL	v2018	373431	2053491	4038	1.08	.19
 EUbookshop	v2	ELITR-ECA	v1	373431	128135	3166	.84	2.47
+EUbookshop	v2	MultiParaCrawl	v7.1	373431	4433563	2980	.79	.06
+EUbookshop	v2	ParaCrawl	v7.1	373431	4433562	2965	.79	.06
 EUbookshop	v2	EUconst	v1	373431	6692	2250	.60	33.62
 EUbookshop	v2	ECB	v1	373431	69759	2114	.56	3.03
 EUbookshop	v2	JRC-Acquis	v3.0	373431	500372	1885	.50	.37
+EUbookshop	v2	MultiCCAligned	v1	373431	5183742	995	.26	.01
 EUbookshop	v2	CCAligned	v1	373431	5183648	995	.26	.01
 EUbookshop	v2	ELRC-425-Lithuanian_legislati	v1	373431	129128	416	.11	.32
 EUbookshop	v2	XLEnt	v1.1	373431	1562418	258	.06	.01
@@ -15,6 +21,8 @@ EUbookshop	v2	XLEnt	v1.2	373431	1562418	258	.06	.01
 EUbookshop	v2	XLEnt	v1	373431	1562418	258	.06	.01
 EUbookshop	v2	ELRC-2717-EMEA	v1	373431	757666	175	.04	.02
 EUbookshop	v2	ELRC-EMEA	v1	373431	757666	175	.04	.02
+EUbookshop	v2	ParaCrawl	v5	373431	1263838	147	.03	.01
+EUbookshop	v2	ParaCrawl	v4	373431	841635	124	.03	.01
 EUbookshop	v2	KDE4	v2	373431	89827	129	.03	.14
 EUbookshop	v2	EMEA	v3	373431	335483	75	.02	.02
 EUbookshop	v2	ELRC-2878-EU_publications_medi	v1	373431	12573	79	.02	.62
@@ -23,7 +31,9 @@ EUbookshop	v2	ELRC-2021-EUIPO_2017	v1	373431	17133	59	.01	.34
 EUbookshop	v2	ELRC-EUIPO_2017	v1	373431	17133	59	.01	.34
 EUbookshop	v2	GNOME	v1	373431	15800	63	.01	.39
 EUbookshop	v2	OpenSubtitles	v2018	373431	1212456	31	0	0
+EUbookshop	v2	OpenSubtitles	v2016	373431	1023613	30	0	0
 EUbookshop	v2	Europarl	v8	373431	616663	24	0	0
+EUbookshop	v2	Europarl	v7	373431	616275	24	0	0
 EUbookshop	v2	ELRC-5067-SciPar	v1	373431	177437	0	0	0
 EUbookshop	v2	WikiMatrix	v1	373431	157526	10	0	0
 EUbookshop	v2	QED	v2.0a	373431	79727	11	0	.01
@@ -33,8 +43,10 @@ EUbookshop	v2	NeuLab-TedTalks	v1	373431	44740	5	0	.01
 EUbookshop	v2	ELRC-591-www.lb.lt	v1	373431	33241	11	0	.03
 EUbookshop	v2	ELRC-3568-EUR_LEX_covid	v1	373431	21385	14	0	.06
 EUbookshop	v2	ELRC-EUR_LEX	v1	373431	21385	14	0	.06
+EUbookshop	v2	wikimedia	v20230407	373431	13796	25	0	.18
 EUbookshop	v2	ELRC-405-President_Lithuania	v1	373431	12704	3	0	.02
 EUbookshop	v2	ELRA-W0160	v1	373431	12703	3	0	.02
+EUbookshop	v2	Tatoeba	v2023-04-12	373431	8229	3	0	.03
 EUbookshop	v2	Tatoeba	v2022-03-03	373431	8176	3	0	.03
 EUbookshop	v2	Tatoeba	v2021-07-22	373431	8172	3	0	.03
 EUbookshop	v2	Tatoeba	v2021-03-10	373431	8167	3	0	.03

@@ -1,8 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tanzil	v1	MultiParaCrawl	v7.1	128168	40798275	5018	3.91	.01
+Tanzil	v1	ParaCrawl	v7.1	128168	40798274	5017	3.91	.01
 Tanzil	v1	ParaCrawl	v9	128168	96975992	4306	3.35	0
+Tanzil	v1	ParaCrawl	v8	128168	120118828	3315	2.58	0
 Tanzil	v1	CCMatrix	v1	128168	145080018	2903	2.26	0
+Tanzil	v1	NLLB	v1	128168	145077265	2903	2.26	0
+Tanzil	v1	MultiCCAligned	v1	128168	57577191	2094	1.63	0
 Tanzil	v1	CCAligned	v1	128168	14341296	1886	1.47	.01
+Tanzil	v1	ParaCrawl	v4	128168	12085749	444	.34	0
+Tanzil	v1	ParaCrawl	v5	128168	21939518	426	.33	0
+Tanzil	v1	ParaCrawl	v1	128168	8279864	110	.08	0
 Tanzil	v1	OpenSubtitles	v2018	128168	28718593	16	.01	0
+Tanzil	v1	OpenSubtitles	v2016	128168	21818449	16	.01	0
 Tanzil	v1	LinguaTools-WikiTitles	v2014	128168	11048442	1	0	0
 Tanzil	v1	EUbookshop	v2	128168	5801342	0	0	0
 Tanzil	v1	XLEnt	v1.1	128168	5645064	0	0	0
@@ -11,12 +20,17 @@ Tanzil	v1	XLEnt	v1.2	128168	5645064	0	0	0
 Tanzil	v1	TildeMODEL	v2018	128168	3693634	0	0	0
 Tanzil	v1	DGT	v2019	128168	3638405	0	0	0
 Tanzil	v1	WikiMatrix	v1	128168	2126084	7	0	0
+Tanzil	v1	DGT	v4	128168	1985734	0	0	0
 Tanzil	v1	Europarl	v8	128168	1906929	3	0	0
+Tanzil	v1	Europarl	v7	128168	1906482	3	0	0
+Tanzil	v1	Europarl	v3	128168	1229621	2	0	0
 Tanzil	v1	Wikipedia	v1.0	128168	944270	2	0	0
 Tanzil	v1	ELRC-2710-EMEA	v1	128168	771346	0	0	0
 Tanzil	v1	ELRC-EMEA	v1	128168	771346	0	0	0
 Tanzil	v1	QED	v2.0a	128168	542823	5	0	0
+Tanzil	v1	wikimedia	v20230407	128168	520955	0	0	0
 Tanzil	v1	JRC-Acquis	v3.0	128168	504433	0	0	0
+Tanzil	v1	Tatoeba	v2023-04-12	128168	502190	2	0	0
 Tanzil	v1	Tatoeba	v2022-03-03	128168	492666	2	0	0
 Tanzil	v1	Tatoeba	v2021-07-22	128168	490263	2	0	0
 Tanzil	v1	Tatoeba	v2021-03-10	128168	486354	2	0	0

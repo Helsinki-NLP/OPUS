@@ -1,15 +1,26 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tanzil	v1	NLLB	v1	118260	407525371	31836	26.92	0
 Tanzil	v1	CCMatrix	v1	118260	107495399	21190	17.91	.01
 Tanzil	v1	CCAligned	v1	118260	72184499	11894	10.05	.01
 Tanzil	v1	MultiCCAligned	v1.1	118260	72184380	11894	10.05	.01
+Tanzil	v1	MultiCCAligned	v1	118260	72184380	11894	10.05	.01
+Tanzil	v1	ParaCrawl	v1	118260	9893906	8707	7.36	.08
+Tanzil	v1	MultiParaCrawl	v7.1	118260	5497548	2770	2.34	.05
 Tanzil	v1	MultiParaCrawl	v8	118260	5497548	2770	2.34	.05
 Tanzil	v1	MultiParaCrawl	v9	118260	5497548	2770	2.34	.05
 Tanzil	v1	MultiParaCrawl	v9b	118260	5497548	2770	2.34	.05
+Tanzil	v1	ParaCrawl	v7.1	118260	5497548	2770	2.34	.05
+Tanzil	v1	ParaCrawl	v8	118260	5497548	2770	2.34	.05
 Tanzil	v1	ParaCrawl	v9	118260	5497548	2770	2.34	.05
 Tanzil	v1	WikiMatrix	v1	118260	17796859	421	.35	0
 Tanzil	v1	OpenSubtitles	v2018	118260	25317409	286	.24	0
+Tanzil	v1	OpenSubtitles	v2016	118260	18909647	268	.22	0
+Tanzil	v1	OpenSubtitles	v2013	118260	5721569	225	.19	0
+Tanzil	v1	OpenSubtitles	v2012	118260	6098634	220	.18	0
+Tanzil	v1	wikimedia	v20230407	118260	3472691	181	.15	0
 Tanzil	v1	QED	v2.0a	118260	841910	164	.13	.01
 Tanzil	v1	ChuBiCo	v1	118260	1000235	123	.10	.01
+Tanzil	v1	Tatoeba	v2023-04-12	118260	992838	79	.06	0
 Tanzil	v1	Tatoeba	v2022-03-03	118260	915518	78	.06	0
 Tanzil	v1	Tatoeba	v2021-03-10	118260	848702	75	.06	0
 Tanzil	v1	Tatoeba	v2020-11-09	118260	827336	75	.06	0
@@ -24,6 +35,7 @@ Tanzil	v1	UNPC	v1.0	118260	21234699	52	.04	0
 Tanzil	v1	TED2020	v1	118260	426136	55	.04	.01
 Tanzil	v1	GlobalVoices	v2017q3	118260	157414	49	.04	.03
 Tanzil	v1	komi	v1	118260	22715	55	.04	.24
+Tanzil	v1	NeuLab-TedTalks	v1	118260	253570	36	.03	.01
 Tanzil	v1	Tatoeba	v2	118260	154660	31	.02	.02
 Tanzil	v1	GlobalVoices	v2015	118260	103572	28	.02	.02
 Tanzil	v1	wikimedia	v20190628	118260	39686	30	.02	.07
@@ -35,6 +47,8 @@ Tanzil	v1	News-Commentary	v11	118260	224379	18	.01	0
 Tanzil	v1	MultiUN	v1	118260	10186416	0	0	0
 Tanzil	v1	XLEnt	v1.1	118260	6553510	2	0	0
 Tanzil	v1	XLEnt	v1	118260	6553510	2	0	0
+Tanzil	v1	XLEnt	v1.2	118260	6553510	2	0	0
+Tanzil	v1	LinguaTools-WikiTitles	v2014	118260	1935298	9	0	0
 Tanzil	v1	WikiTitles	v3	118260	1034886	2	0	0
 Tanzil	v1	ELRC-5183-SciPar_Ukraine	v1	118260	139599	3	0	0
 Tanzil	v1	KDE4	v2	118260	138754	8	0	0
@@ -47,6 +61,7 @@ Tanzil	v1	TildeMODEL	v2018	118260	40309	3	0	0
 Tanzil	v1	bible-uedin	v1	118260	34670	3	0	0
 Tanzil	v1	Books	v1	118260	26812	8	0	.02
 Tanzil	v1	GoURMET	v1	118260	23461	1	0	0
+Tanzil	v1	GoURMET	v2	118260	23461	1	0	0
 Tanzil	v1	infopankki	v1	118260	21525	3	0	.01
 Tanzil	v1	ELRC_2922	v1	118260	4074	0	0	0
 Tanzil	v1	ELRC-3075-wikipedia_health	v1	118260	4074	0	0	0

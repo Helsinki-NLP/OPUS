@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 CCMatrix	v1	WikiMatrix	v1	453011	16903	182	.04	1.07
+CCMatrix	v1	MultiCCAligned	v1	453011	114276	1	0	0
 CCMatrix	v1	CCAligned	v1	453011	114274	1	0	0
 CCMatrix	v1	XLEnt	v1.1	453011	107767	4	0	0
 CCMatrix	v1	XLEnt	v1.2	453011	107767	4	0	0
@@ -7,8 +8,11 @@ CCMatrix	v1	XLEnt	v1	453011	107767	4	0	0
 CCMatrix	v1	KDE4	v2	453011	64131	0	0	0
 CCMatrix	v1	Ubuntu	v14.10	453011	24850	0	0	0
 CCMatrix	v1	OpenSubtitles	v2018	453011	17778	2	0	.01
+CCMatrix	v1	OpenSubtitles	v2016	453011	17693	2	0	.01
 CCMatrix	v1	GNOME	v1	453011	8788	0	0	0
+CCMatrix	v1	wikimedia	v20230407	453011	2384	0	0	0
 CCMatrix	v1	Tatoeba	v2022-03-03	453011	385	0	0	0
+CCMatrix	v1	Tatoeba	v2023-04-12	453011	385	0	0	0
 CCMatrix	v1	Tatoeba	v2020-11-09	453011	383	0	0	0
 CCMatrix	v1	Tatoeba	v2021-03-10	453011	383	0	0	0
 CCMatrix	v1	Tatoeba	v2021-07-22	453011	383	0	0	0

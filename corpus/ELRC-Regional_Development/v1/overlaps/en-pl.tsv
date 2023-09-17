@@ -1,10 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-Regional_Development	v1	ELRC-962-Regional_Development	v1	1356	1356	1356	100.00	100.00
 ELRC-Regional_Development	v1	ELRA-W0282	v1	1356	1355	1341	98.89	98.96
+ELRC-Regional_Development	v1	MultiCCAligned	v1	1356	25790086	18	1.32	0
 ELRC-Regional_Development	v1	CCAligned	v1	1356	12846330	17	1.25	0
 ELRC-Regional_Development	v1	DGT	v2019	1356	3659053	16	1.17	0
+ELRC-Regional_Development	v1	DGT	v4	1356	1966769	16	1.17	0
 ELRC-Regional_Development	v1	TildeMODEL	v2018	1356	2124677	15	1.10	0
 ELRC-Regional_Development	v1	CCMatrix	v1	1356	73625347	14	1.03	0
+ELRC-Regional_Development	v1	NLLB	v1	1356	73623674	14	1.03	0
 ELRC-Regional_Development	v1	XLEnt	v1.1	1356	5202602	13	.95	0
 ELRC-Regional_Development	v1	XLEnt	v1	1356	5202602	13	.95	0
 ELRC-Regional_Development	v1	XLEnt	v1.2	1356	5202602	13	.95	0
@@ -12,12 +15,16 @@ ELRC-Regional_Development	v1	JRC-Acquis	v3.0	1356	1048242	9	.66	0
 ELRC-Regional_Development	v1	EUbookshop	v2	1356	461498	9	.66	0
 ELRC-Regional_Development	v1	ParaCrawl	v9	1356	40082038	7	.51	0
 ELRC-Regional_Development	v1	LinguaTools-WikiTitles	v2014	1356	8003882	7	.51	0
+ELRC-Regional_Development	v1	ParaCrawl	v8	1356	45358407	6	.44	0
 ELRC-Regional_Development	v1	KDE4	v2	1356	160232	6	.44	0
+ELRC-Regional_Development	v1	ParaCrawl	v1	1356	1270691	5	.36	0
 ELRC-Regional_Development	v1	ELRC-2726-EMEA	v1	1356	756950	3	.22	0
 ELRC-Regional_Development	v1	ELRC-EMEA	v1	1356	756950	3	.22	0
 ELRC-Regional_Development	v1	ELRC-2885-EU_publications_medi	v1	1356	12751	3	.22	.02
 ELRC-Regional_Development	v1	ELRC-EU_publications	v1	1356	12751	3	.22	.02
 ELRC-Regional_Development	v1	ELRC-3852-Development_Funds_Re	v1	1356	2641	3	.22	.11
+ELRC-Regional_Development	v1	MultiParaCrawl	v7.1	1356	13744836	2	.14	0
+ELRC-Regional_Development	v1	wikimedia	v20230407	1356	72787	2	.14	0
 ELRC-Regional_Development	v1	wikimedia	v20210402	1356	51386	2	.14	0
 ELRC-Regional_Development	v1	ELRC-1178-EUIPO_2017	v1	1356	17489	2	.14	.01
 ELRC-Regional_Development	v1	ELRC-EUIPO_2017	v1	1356	17489	2	.14	.01
@@ -30,6 +37,8 @@ ELRC-Regional_Development	v1	ELRC-474-Natolin_Centre	v1	1356	2022	2	.14	.09
 ELRC-Regional_Development	v1	ELRC-3855-SWPS_University_Soci	v1	1356	1260	2	.14	.15
 ELRC-Regional_Development	v1	ELRC-968-Digital_Affairs	v1	1356	949	2	.14	.21
 ELRC-Regional_Development	v1	OpenSubtitles	v2018	1356	34512858	1	.07	0
+ELRC-Regional_Development	v1	OpenSubtitles	v2016	1356	22955941	1	.07	0
+ELRC-Regional_Development	v1	ParaCrawl	v7.1	1356	13744835	1	.07	0
 ELRC-Regional_Development	v1	ELRC-5067-SciPar	v1	1356	862076	1	.07	0
 ELRC-Regional_Development	v1	WikiMatrix	v1	1356	668647	1	.07	0
 ELRC-Regional_Development	v1	EMEA	v3	1356	343975	1	.07	0
@@ -43,6 +52,7 @@ ELRC-Regional_Development	v1	EuroPat	v2	1356	88959	1	.07	0
 ELRC-Regional_Development	v1	ELRC-1120-CORDIS_News	v1	1356	87745	1	.07	0
 ELRC-Regional_Development	v1	ELRC-CORDIS_News	v1	1356	87745	1	.07	0
 ELRC-Regional_Development	v1	ECB	v1	1356	73127	1	.07	0
+ELRC-Regional_Development	v1	Tatoeba	v2023-04-12	1356	55895	1	.07	0
 ELRC-Regional_Development	v1	Tatoeba	v2022-03-03	1356	54736	1	.07	0
 ELRC-Regional_Development	v1	Tatoeba	v2021-07-22	1356	54279	1	.07	0
 ELRC-Regional_Development	v1	Tatoeba	v2021-03-10	1356	54235	1	.07	0
@@ -125,7 +135,10 @@ ELRC-Regional_Development	v1	ELRC-416-Swedish_Social_Secur	v1	1356	111	1	.07	.90
 ELRC-Regional_Development	v1	ELRC-873-Development	v1	1356	82	1	.07	1.21
 ELRC-Regional_Development	v1	ELRC-648-Letter_rights_person	v1	1356	63	1	.07	1.58
 ELRC-Regional_Development	v1	ELRC-403-Rights_Arrested	v1	1356	24	1	.07	4.16
+ELRC-Regional_Development	v1	ParaCrawl	v5	1356	6336749	0	0	0
+ELRC-Regional_Development	v1	ParaCrawl	v4	1356	3483752	0	0	0
 ELRC-Regional_Development	v1	Europarl	v8	1356	613356	0	0	0
+ELRC-Regional_Development	v1	Europarl	v7	1356	612713	0	0	0
 ELRC-Regional_Development	v1	QED	v2.0a	1356	482625	0	0	0
 ELRC-Regional_Development	v1	Wikipedia	v1.0	1356	168603	0	0	0
 ELRC-Regional_Development	v1	TED2013	v1.1	1356	148046	0	0	0

@@ -1,8 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-798-Financial_Stability_	v1	ELRC-799-Financial_Stability_	v1	2138	3558	31	1.44	.87
+ELRC-798-Financial_Stability_	v1	ParaCrawl	v8	2138	45358407	3	.14	0
 ELRC-798-Financial_Stability_	v1	ParaCrawl	v9	2138	40082038	3	.14	0
+ELRC-798-Financial_Stability_	v1	MultiCCAligned	v1	2138	25790086	2	.09	0
+ELRC-798-Financial_Stability_	v1	MultiParaCrawl	v7.1	2138	13744836	2	.09	0
 ELRC-798-Financial_Stability_	v1	CCAligned	v1	2138	12846330	2	.09	0
+ELRC-798-Financial_Stability_	v1	ParaCrawl	v7.1	2138	13744835	1	.04	0
 ELRC-798-Financial_Stability_	v1	LinguaTools-WikiTitles	v2014	2138	8003882	1	.04	0
+ELRC-798-Financial_Stability_	v1	ParaCrawl	v5	2138	6336749	1	.04	0
 ELRC-798-Financial_Stability_	v1	XLEnt	v1.1	2138	5202602	1	.04	0
 ELRC-798-Financial_Stability_	v1	XLEnt	v1	2138	5202602	1	.04	0
 ELRC-798-Financial_Stability_	v1	XLEnt	v1.2	2138	5202602	1	.04	0
@@ -20,6 +25,8 @@ ELRC-798-Financial_Stability_	v1	NeuLab-TedTalks	v1	2138	185955	1	.04	0
 ELRC-798-Financial_Stability_	v1	EuroPat	v2	2138	88959	1	.04	0
 ELRC-798-Financial_Stability_	v1	ELRC-1120-CORDIS_News	v1	2138	87745	1	.04	0
 ELRC-798-Financial_Stability_	v1	ELRC-CORDIS_News	v1	2138	87745	1	.04	0
+ELRC-798-Financial_Stability_	v1	wikimedia	v20230407	2138	72787	1	.04	0
+ELRC-798-Financial_Stability_	v1	Tatoeba	v2023-04-12	2138	55895	1	.04	0
 ELRC-798-Financial_Stability_	v1	Tatoeba	v2022-03-03	2138	54736	1	.04	0
 ELRC-798-Financial_Stability_	v1	Tatoeba	v2021-07-22	2138	54279	1	.04	0
 ELRC-798-Financial_Stability_	v1	Tatoeba	v2021-03-10	2138	54235	1	.04	0
@@ -112,10 +119,16 @@ ELRC-798-Financial_Stability_	v1	ELRC-873-Development	v1	2138	82	1	.04	1.21
 ELRC-798-Financial_Stability_	v1	ELRC-648-Letter_rights_person	v1	2138	63	1	.04	1.58
 ELRC-798-Financial_Stability_	v1	ELRC-403-Rights_Arrested	v1	2138	24	1	.04	4.16
 ELRC-798-Financial_Stability_	v1	CCMatrix	v1	2138	73625347	0	0	0
+ELRC-798-Financial_Stability_	v1	NLLB	v1	2138	73623674	0	0	0
 ELRC-798-Financial_Stability_	v1	OpenSubtitles	v2018	2138	34512858	0	0	0
+ELRC-798-Financial_Stability_	v1	OpenSubtitles	v2016	2138	22955941	0	0	0
 ELRC-798-Financial_Stability_	v1	DGT	v2019	2138	3659053	0	0	0
+ELRC-798-Financial_Stability_	v1	ParaCrawl	v4	2138	3483752	0	0	0
+ELRC-798-Financial_Stability_	v1	DGT	v4	2138	1966769	0	0	0
+ELRC-798-Financial_Stability_	v1	ParaCrawl	v1	2138	1270691	0	0	0
 ELRC-798-Financial_Stability_	v1	JRC-Acquis	v3.0	2138	1048242	0	0	0
 ELRC-798-Financial_Stability_	v1	Europarl	v8	2138	613356	0	0	0
+ELRC-798-Financial_Stability_	v1	Europarl	v7	2138	612713	0	0	0
 ELRC-798-Financial_Stability_	v1	QED	v2.0a	2138	482625	0	0	0
 ELRC-798-Financial_Stability_	v1	EUbookshop	v2	2138	461498	0	0	0
 ELRC-798-Financial_Stability_	v1	EMEA	v3	2138	343975	0	0	0

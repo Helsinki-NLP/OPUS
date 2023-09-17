@@ -1,8 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-884-Interior_Administrat	v1	ELRA-W0258	v1	611	610	609	99.67	99.83
 ELRC-884-Interior_Administrat	v1	CCMatrix	v1	611	73625347	26	4.25	0
+ELRC-884-Interior_Administrat	v1	NLLB	v1	611	73623674	26	4.25	0
 ELRC-884-Interior_Administrat	v1	ParaCrawl	v9	611	40082038	4	.65	0
+ELRC-884-Interior_Administrat	v1	ParaCrawl	v8	611	45358407	3	.49	0
+ELRC-884-Interior_Administrat	v1	MultiCCAligned	v1	611	25790086	3	.49	0
+ELRC-884-Interior_Administrat	v1	MultiParaCrawl	v7.1	611	13744836	3	.49	0
 ELRC-884-Interior_Administrat	v1	CCAligned	v1	611	12846330	3	.49	0
+ELRC-884-Interior_Administrat	v1	ParaCrawl	v7.1	611	13744835	2	.32	0
 ELRC-884-Interior_Administrat	v1	LinguaTools-WikiTitles	v2014	611	8003882	2	.32	0
 ELRC-884-Interior_Administrat	v1	XLEnt	v1.1	611	5202602	2	.32	0
 ELRC-884-Interior_Administrat	v1	XLEnt	v1.2	611	5202602	2	.32	0
@@ -10,6 +15,8 @@ ELRC-884-Interior_Administrat	v1	XLEnt	v1	611	5202602	2	.32	0
 ELRC-884-Interior_Administrat	v1	ELRC-947-Polish_Aid	v1	611	4568	2	.32	.04
 ELRC-884-Interior_Administrat	v1	OpenSubtitles	v2018	611	34512858	1	.16	0
 ELRC-884-Interior_Administrat	v1	DGT	v2019	611	3659053	1	.16	0
+ELRC-884-Interior_Administrat	v1	DGT	v4	611	1966769	1	.16	0
+ELRC-884-Interior_Administrat	v1	ParaCrawl	v1	611	1270691	1	.16	0
 ELRC-884-Interior_Administrat	v1	ELRC-5067-SciPar	v1	611	862076	1	.16	0
 ELRC-884-Interior_Administrat	v1	ELRC-2726-EMEA	v1	611	756950	1	.16	0
 ELRC-884-Interior_Administrat	v1	ELRC-EMEA	v1	611	756950	1	.16	0
@@ -23,6 +30,8 @@ ELRC-884-Interior_Administrat	v1	NeuLab-TedTalks	v1	611	185955	1	.16	0
 ELRC-884-Interior_Administrat	v1	EuroPat	v2	611	88959	1	.16	0
 ELRC-884-Interior_Administrat	v1	ELRC-1120-CORDIS_News	v1	611	87745	1	.16	0
 ELRC-884-Interior_Administrat	v1	ELRC-CORDIS_News	v1	611	87745	1	.16	0
+ELRC-884-Interior_Administrat	v1	wikimedia	v20230407	611	72787	1	.16	0
+ELRC-884-Interior_Administrat	v1	Tatoeba	v2023-04-12	611	55895	1	.16	0
 ELRC-884-Interior_Administrat	v1	Tatoeba	v2022-03-03	611	54736	1	.16	0
 ELRC-884-Interior_Administrat	v1	Tatoeba	v2021-07-22	611	54279	1	.16	0
 ELRC-884-Interior_Administrat	v1	Tatoeba	v2021-03-10	611	54235	1	.16	0
@@ -115,9 +124,13 @@ ELRC-884-Interior_Administrat	v1	ELRC-416-Swedish_Social_Secur	v1	611	111	1	.16	
 ELRC-884-Interior_Administrat	v1	ELRC-873-Development	v1	611	82	1	.16	1.21
 ELRC-884-Interior_Administrat	v1	ELRC-648-Letter_rights_person	v1	611	63	1	.16	1.58
 ELRC-884-Interior_Administrat	v1	ELRC-403-Rights_Arrested	v1	611	24	1	.16	4.16
+ELRC-884-Interior_Administrat	v1	OpenSubtitles	v2016	611	22955941	0	0	0
+ELRC-884-Interior_Administrat	v1	ParaCrawl	v5	611	6336749	0	0	0
+ELRC-884-Interior_Administrat	v1	ParaCrawl	v4	611	3483752	0	0	0
 ELRC-884-Interior_Administrat	v1	TildeMODEL	v2018	611	2124677	0	0	0
 ELRC-884-Interior_Administrat	v1	JRC-Acquis	v3.0	611	1048242	0	0	0
 ELRC-884-Interior_Administrat	v1	Europarl	v8	611	613356	0	0	0
+ELRC-884-Interior_Administrat	v1	Europarl	v7	611	612713	0	0	0
 ELRC-884-Interior_Administrat	v1	QED	v2.0a	611	482625	0	0	0
 ELRC-884-Interior_Administrat	v1	EUbookshop	v2	611	461498	0	0	0
 ELRC-884-Interior_Administrat	v1	EMEA	v3	611	343975	0	0	0

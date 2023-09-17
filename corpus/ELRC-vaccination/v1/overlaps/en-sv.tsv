@@ -1,18 +1,25 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-vaccination	v1	ELRC-2752-vaccination	v1	496	496	496	100.00	100.00
 ELRC-vaccination	v1	ParaCrawl	v9	496	49109340	6	1.20	0
+ELRC-vaccination	v1	ParaCrawl	v8	496	44066654	6	1.20	0
+ELRC-vaccination	v1	MultiParaCrawl	v7.1	496	11645803	4	.80	0
 ELRC-vaccination	v1	ELRC-2725-EMEA	v1	496	752045	4	.80	0
 ELRC-vaccination	v1	ELRC-EMEA	v1	496	752045	4	.80	0
 ELRC-vaccination	v1	ELRC-4268-NTEU_TierA	v1	496	12468100	3	.60	0
+ELRC-vaccination	v1	ParaCrawl	v7.1	496	11645802	3	.60	0
 ELRC-vaccination	v1	LinguaTools-WikiTitles	v2014	496	7759117	3	.60	0
+ELRC-vaccination	v1	MultiCCAligned	v1	496	12482516	2	.40	0
 ELRC-vaccination	v1	CCAligned	v1	496	12482304	2	.40	0
 ELRC-vaccination	v1	DGT	v2019	496	3635425	2	.40	0
 ELRC-vaccination	v1	XLEnt	v1.1	496	3403994	2	.40	0
 ELRC-vaccination	v1	XLEnt	v1.2	496	3403994	2	.40	0
 ELRC-vaccination	v1	XLEnt	v1	496	3403994	2	.40	0
+ELRC-vaccination	v1	DGT	v4	496	1968717	2	.40	0
 ELRC-vaccination	v1	EUbookshop	v2	496	1753373	2	.40	0
 ELRC-vaccination	v1	ELRC-3615-presscorner_covid	v1	496	6855	2	.40	.02
 ELRC-vaccination	v1	ELRC-presscorner_covid	v1	496	6855	2	.40	.02
+ELRC-vaccination	v1	ParaCrawl	v5	496	6027448	1	.20	0
+ELRC-vaccination	v1	ParaCrawl	v4	496	3456794	1	.20	0
 ELRC-vaccination	v1	TildeMODEL	v2018	496	3185574	1	.20	0
 ELRC-vaccination	v1	ELRC-5067-SciPar	v1	496	670816	1	.20	0
 ELRC-vaccination	v1	WikiMatrix	v1	496	546289	1	.20	0
@@ -20,6 +27,7 @@ ELRC-vaccination	v1	EMEA	v3	496	347727	1	.20	0
 ELRC-vaccination	v1	ELITR-ECA	v1	496	336379	1	.20	0
 ELRC-vaccination	v1	TED2020	v1	496	117646	1	.20	0
 ELRC-vaccination	v1	NeuLab-TedTalks	v1	496	67599	1	.20	0
+ELRC-vaccination	v1	wikimedia	v20230407	496	59125	1	.20	0
 ELRC-vaccination	v1	ELRC-1770-valtioneuvosto.fi	v1	496	49084	1	.20	0
 ELRC-vaccination	v1	ELRC-valtioneuvosto.fi	v1	496	49084	1	.20	0
 ELRC-vaccination	v1	ELRC-1133-www.vtv.fi	v1	496	46345	1	.20	0
@@ -30,6 +38,7 @@ ELRC-vaccination	v1	ELRC-1772-vnk.fi	v1	496	33625	1	.20	0
 ELRC-vaccination	v1	ELRC-vnk.fi	v1	496	33625	1	.20	0
 ELRC-vaccination	v1	wikimedia	v20210402	496	29811	1	.20	0
 ELRC-vaccination	v1	ELRC-817-Swedish_Audit_Riksre	v1	496	28944	1	.20	0
+ELRC-vaccination	v1	Tatoeba	v2023-04-12	496	26957	1	.20	0
 ELRC-vaccination	v1	Tatoeba	v2022-03-03	496	26220	1	.20	0
 ELRC-vaccination	v1	Tatoeba	v2021-07-22	496	25865	1	.20	0
 ELRC-vaccination	v1	Tatoeba	v2021-03-10	496	25646	1	.20	0
@@ -74,8 +83,12 @@ ELRC-vaccination	v1	ELRC-EUROPARL_covid	v1	496	844	1	.20	.11
 ELRC-vaccination	v1	ELRC-3082-wikipedia_health	v1	496	535	1	.20	.18
 ELRC-vaccination	v1	ELRC-wikipedia_health	v1	496	535	1	.20	.18
 ELRC-vaccination	v1	CCMatrix	v1	496	76586290	0	0	0
+ELRC-vaccination	v1	NLLB	v1	496	76584927	0	0	0
 ELRC-vaccination	v1	OpenSubtitles	v2018	496	14904885	0	0	0
+ELRC-vaccination	v1	OpenSubtitles	v2016	496	10237744	0	0	0
 ELRC-vaccination	v1	Europarl	v8	496	1846661	0	0	0
+ELRC-vaccination	v1	Europarl	v7	496	1846286	0	0	0
+ELRC-vaccination	v1	Europarl	v3	496	1136242	0	0	0
 ELRC-vaccination	v1	JRC-Acquis	v3.0	496	493351	0	0	0
 ELRC-vaccination	v1	OpenSubtitles	v1	496	298889	0	0	0
 ELRC-vaccination	v1	KDE4	v2	496	192221	0	0	0
