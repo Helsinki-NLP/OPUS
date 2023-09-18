@@ -1,18 +1,30 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+WikiTitles	v3	LinguaTools-WikiTitles	v2014	1034886	1935298	613972	59.32	31.72
 WikiTitles	v3	XLEnt	v1	1034886	6553510	140574	13.58	2.14
 WikiTitles	v3	XLEnt	v1.1	1034886	6553510	140574	13.58	2.14
+WikiTitles	v3	XLEnt	v1.2	1034886	6553510	140574	13.58	2.14
+WikiTitles	v3	NLLB	v1	1034886	407525371	132451	12.79	.03
 WikiTitles	v3	CCAligned	v1	1034886	72184499	88353	8.53	.12
+WikiTitles	v3	MultiCCAligned	v1	1034886	72184380	88358	8.53	.12
 WikiTitles	v3	MultiCCAligned	v1.1	1034886	72184380	88358	8.53	.12
 WikiTitles	v3	CCMatrix	v1	1034886	107495399	69352	6.70	.06
+WikiTitles	v3	ParaCrawl	v1	1034886	9893906	25956	2.50	.26
 WikiTitles	v3	UNPC	v1.0	1034886	21234699	19551	1.88	.09
+WikiTitles	v3	wikimedia	v20230407	1034886	3472691	15624	1.50	.44
 WikiTitles	v3	wikimedia	v20210402	1034886	2066455	12914	1.24	.62
+WikiTitles	v3	MultiParaCrawl	v7.1	1034886	5497548	12765	1.23	.23
 WikiTitles	v3	MultiParaCrawl	v8	1034886	5497548	12765	1.23	.23
 WikiTitles	v3	MultiParaCrawl	v9	1034886	5497548	12765	1.23	.23
 WikiTitles	v3	MultiParaCrawl	v9b	1034886	5497548	12765	1.23	.23
+WikiTitles	v3	ParaCrawl	v7.1	1034886	5497548	12765	1.23	.23
+WikiTitles	v3	ParaCrawl	v8	1034886	5497548	12765	1.23	.23
 WikiTitles	v3	ParaCrawl	v9	1034886	5497548	12765	1.23	.23
 WikiTitles	v3	OpenSubtitles	v2018	1034886	25317409	8580	.82	.03
 WikiTitles	v3	WikiMatrix	v1	1034886	17796859	7554	.72	.04
+WikiTitles	v3	OpenSubtitles	v2016	1034886	18909647	6990	.67	.03
 WikiTitles	v3	KDE4	v2	1034886	138754	3728	.36	2.68
+WikiTitles	v3	OpenSubtitles	v2012	1034886	6098634	3526	.34	.05
+WikiTitles	v3	OpenSubtitles	v2013	1034886	5721569	3032	.29	.05
 WikiTitles	v3	Mozilla-I10n	v1	1034886	50942	1634	.15	3.20
 WikiTitles	v3	QED	v2.0a	1034886	841910	832	.08	.09
 WikiTitles	v3	OpenOffice	v3	1034886	46793	887	.08	1.89
@@ -22,6 +34,7 @@ WikiTitles	v3	ChuBiCo	v1	1034886	1000235	315	.03	.03
 WikiTitles	v3	Wikipedia	v1.0	1034886	659214	361	.03	.05
 WikiTitles	v3	GlobalVoices	v2018q4	1034886	199016	340	.03	.17
 WikiTitles	v3	GlobalVoices	v2017q3	1034886	157414	252	.02	.16
+WikiTitles	v3	Tatoeba	v2023-04-12	1034886	992838	112	.01	.01
 WikiTitles	v3	Tatoeba	v2022-03-03	1034886	915518	107	.01	.01
 WikiTitles	v3	TED2013	v1.1	1034886	132320	163	.01	.12
 WikiTitles	v3	GlobalVoices	v2015	1034886	103572	198	.01	.19
@@ -39,6 +52,7 @@ WikiTitles	v3	Tatoeba	v20190709	1034886	707362	98	0	.01
 WikiTitles	v3	TED2020	v1	1034886	426136	60	0	.01
 WikiTitles	v3	News-Commentary	v16	1034886	387244	91	0	.02
 WikiTitles	v3	News-Commentary	v14	1034886	332801	77	0	.02
+WikiTitles	v3	NeuLab-TedTalks	v1	1034886	253570	52	0	.02
 WikiTitles	v3	News-Commentary	v9.0	1034886	240944	56	0	.02
 WikiTitles	v3	News-Commentary	v9.1	1034886	240944	56	0	.02
 WikiTitles	v3	News-Commentary	v11	1034886	224379	66	0	.02
@@ -48,6 +62,7 @@ WikiTitles	v3	Tanzil	v1	1034886	118260	2	0	0
 WikiTitles	v3	bible-uedin	v1	1034886	34670	1	0	0
 WikiTitles	v3	Books	v1	1034886	26812	35	0	.13
 WikiTitles	v3	GoURMET	v1	1034886	23461	46	0	.19
+WikiTitles	v3	GoURMET	v2	1034886	23461	46	0	.19
 WikiTitles	v3	komi	v1	1034886	22715	43	0	.18
 WikiTitles	v3	ELRC_2922	v1	1034886	4074	5	0	.12
 WikiTitles	v3	ELRC-3075-wikipedia_health	v1	1034886	4074	5	0	.12

@@ -1,11 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-932-Hellenic_Foreign_Aff	v1	ELRA-W0271	v1	3428	3427	3423	99.85	99.88
+ELRC-932-Hellenic_Foreign_Aff	v1	ParaCrawl	v8	3428	34585108	631	18.40	0
 ELRC-932-Hellenic_Foreign_Aff	v1	CCMatrix	v1	3428	48860900	566	16.51	0
+ELRC-932-Hellenic_Foreign_Aff	v1	NLLB	v1	3428	48859850	566	16.51	0
 ELRC-932-Hellenic_Foreign_Aff	v1	ParaCrawl	v9	3428	21402043	417	12.16	0
+ELRC-932-Hellenic_Foreign_Aff	v1	MultiParaCrawl	v7.1	3428	9402609	99	2.88	0
+ELRC-932-Hellenic_Foreign_Aff	v1	ParaCrawl	v7.1	3428	9402608	98	2.85	0
+ELRC-932-Hellenic_Foreign_Aff	v1	ParaCrawl	v5	3428	3803749	85	2.47	0
+ELRC-932-Hellenic_Foreign_Aff	v1	ParaCrawl	v4	3428	1976986	41	1.19	0
 ELRC-932-Hellenic_Foreign_Aff	v1	OpenSubtitles	v2018	3428	33318146	19	.55	0
+ELRC-932-Hellenic_Foreign_Aff	v1	OpenSubtitles	v2016	3428	26021007	18	.52	0
 ELRC-932-Hellenic_Foreign_Aff	v1	QED	v2.0a	3428	496445	11	.32	0
 ELRC-932-Hellenic_Foreign_Aff	v1	Europarl	v8	3428	1260921	10	.29	0
+ELRC-932-Hellenic_Foreign_Aff	v1	Europarl	v7	3428	1260526	10	.29	0
 ELRC-932-Hellenic_Foreign_Aff	v1	TED2020	v1	3428	262648	8	.23	0
+ELRC-932-Hellenic_Foreign_Aff	v1	Europarl	v3	3428	646689	7	.20	0
 ELRC-932-Hellenic_Foreign_Aff	v1	OpenSubtitles	v1	3428	220324	6	.17	0
 ELRC-932-Hellenic_Foreign_Aff	v1	NeuLab-TedTalks	v1	3428	149750	6	.17	0
 ELRC-932-Hellenic_Foreign_Aff	v1	EUbookshop	v2	3428	3606516	5	.14	0
@@ -16,15 +25,18 @@ ELRC-932-Hellenic_Foreign_Aff	v1	ELRC-1787-Press_Releases_PIO	v1	3428	5131	4	.11
 ELRC-932-Hellenic_Foreign_Aff	v1	GlobalVoices	v2018q4	3428	112880	3	.08	0
 ELRC-932-Hellenic_Foreign_Aff	v1	ELRC-EMEA	v1	3428	774830	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	ELRC-2711-EMEA	v1	3428	774829	2	.05	0
+ELRC-932-Hellenic_Foreign_Aff	v1	wikimedia	v20230407	3428	549337	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	wikimedia	v20210402	3428	229838	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	ECB	v1	3428	102932	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	GlobalVoices	v2017q3	3428	88305	2	.05	0
+ELRC-932-Hellenic_Foreign_Aff	v1	Tatoeba	v2023-04-12	3428	25970	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	Tatoeba	v2022-03-03	3428	24112	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	Tatoeba	v2021-07-22	3428	23813	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	Tatoeba	v2021-03-10	3428	23365	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	Tatoeba	v2020-11-09	3428	22908	2	.05	0
 ELRC-932-Hellenic_Foreign_Aff	v1	ELRC-649-Greek_administration	v1	3428	12510	2	.05	.01
 ELRC-932-Hellenic_Foreign_Aff	v1	ELRC-1020-collection_about_Cyp	v1	3428	1869	2	.05	.10
+ELRC-932-Hellenic_Foreign_Aff	v1	MultiCCAligned	v1	3428	8792897	1	.02	0
 ELRC-932-Hellenic_Foreign_Aff	v1	CCAligned	v1	3428	8792737	1	.02	0
 ELRC-932-Hellenic_Foreign_Aff	v1	XLEnt	v1.1	3428	2799832	1	.02	0
 ELRC-932-Hellenic_Foreign_Aff	v1	XLEnt	v1.2	3428	2799832	1	.02	0
@@ -86,6 +98,7 @@ ELRC-932-Hellenic_Foreign_Aff	v1	ELRC-416-Swedish_Social_Secur	v1	3428	30	1	.02	
 ELRC-932-Hellenic_Foreign_Aff	v1	ELRC-1021-Commitment_Property_	v1	3428	23	1	.02	4.34
 ELRC-932-Hellenic_Foreign_Aff	v1	ELRC-403-Rights_Arrested	v1	3428	22	1	.02	4.54
 ELRC-932-Hellenic_Foreign_Aff	v1	DGT	v2019	3428	3679234	0	0	0
+ELRC-932-Hellenic_Foreign_Aff	v1	DGT	v4	3428	2027952	0	0	0
 ELRC-932-Hellenic_Foreign_Aff	v1	EMEA	v3	3428	368049	0	0	0
 ELRC-932-Hellenic_Foreign_Aff	v1	SETIMES	v1	3428	165530	0	0	0
 ELRC-932-Hellenic_Foreign_Aff	v1	KDE4	v2	3428	125457	0	0	0

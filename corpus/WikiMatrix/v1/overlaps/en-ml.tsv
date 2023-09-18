@@ -1,13 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	Samanantar	v0.2	71509	5881175	61043	85.36	1.03
+WikiMatrix	v1	NLLB	v1	71509	43627223	1155	1.61	0
 WikiMatrix	v1	CCMatrix	v1	71509	6780561	887	1.24	.01
+WikiMatrix	v1	wikimedia	v20230407	71509	90667	77	.10	.08
 WikiMatrix	v1	wikimedia	v20210402	71509	49201	77	.10	.15
 WikiMatrix	v1	Anuvaad	v1	71509	1445240	3	0	0
 WikiMatrix	v1	XLEnt	v1.1	71509	730647	1	0	0
 WikiMatrix	v1	XLEnt	v1.2	71509	730647	1	0	0
 WikiMatrix	v1	XLEnt	v1	71509	730647	1	0	0
+WikiMatrix	v1	MultiCCAligned	v1	71509	559355	4	0	0
 WikiMatrix	v1	CCAligned	v1	71509	559344	4	0	0
 WikiMatrix	v1	OpenSubtitles	v2018	71509	354795	3	0	0
+WikiMatrix	v1	OpenSubtitles	v2016	71509	209866	3	0	0
 WikiMatrix	v1	Tanzil	v1	71509	184529	0	0	0
 WikiMatrix	v1	bible-uedin	v1	71509	60767	0	0	0
 WikiMatrix	v1	KDE4	v2	71509	39364	0	0	0
@@ -21,6 +25,7 @@ WikiMatrix	v1	Tatoeba	v2020-11-09	71509	803	1	0	.12
 WikiMatrix	v1	Tatoeba	v2021-03-10	71509	803	1	0	.12
 WikiMatrix	v1	Tatoeba	v2021-07-22	71509	803	1	0	.12
 WikiMatrix	v1	Tatoeba	v2022-03-03	71509	803	1	0	.12
+WikiMatrix	v1	Tatoeba	v2023-04-12	71509	803	1	0	.12
 WikiMatrix	v1	Tatoeba	v20190709	71509	802	0	0	0
 WikiMatrix	v1	Tatoeba	v2020-05-31	71509	802	0	0	0
 WikiMatrix	v1	Tatoeba	v2	71509	668	0	0	0

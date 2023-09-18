@@ -1,19 +1,25 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-977-State_Marine_Acciden	v1	ELRA-W0288	v1	721	720	706	97.91	98.05
+ELRC-977-State_Marine_Acciden	v1	MultiCCAligned	v1	721	25790086	28	3.88	0
 ELRC-977-State_Marine_Acciden	v1	CCAligned	v1	721	12846330	24	3.32	0
 ELRC-977-State_Marine_Acciden	v1	TildeMODEL	v2018	721	2124677	13	1.80	0
 ELRC-977-State_Marine_Acciden	v1	DGT	v2019	721	3659053	12	1.66	0
+ELRC-977-State_Marine_Acciden	v1	DGT	v4	721	1966769	12	1.66	0
 ELRC-977-State_Marine_Acciden	v1	KDE4	v2	721	160232	8	1.10	0
 ELRC-977-State_Marine_Acciden	v1	XLEnt	v1.1	721	5202602	6	.83	0
 ELRC-977-State_Marine_Acciden	v1	XLEnt	v1.2	721	5202602	6	.83	0
 ELRC-977-State_Marine_Acciden	v1	XLEnt	v1	721	5202602	6	.83	0
+ELRC-977-State_Marine_Acciden	v1	ParaCrawl	v8	721	45358407	5	.69	0
 ELRC-977-State_Marine_Acciden	v1	LinguaTools-WikiTitles	v2014	721	8003882	5	.69	0
+ELRC-977-State_Marine_Acciden	v1	ParaCrawl	v1	721	1270691	5	.69	0
 ELRC-977-State_Marine_Acciden	v1	JRC-Acquis	v3.0	721	1048242	4	.55	0
 ELRC-977-State_Marine_Acciden	v1	ELRC-2726-EMEA	v1	721	756950	4	.55	0
 ELRC-977-State_Marine_Acciden	v1	ELRC-EMEA	v1	721	756950	4	.55	0
 ELRC-977-State_Marine_Acciden	v1	ParaCrawl	v9	721	40082038	3	.41	0
+ELRC-977-State_Marine_Acciden	v1	MultiParaCrawl	v7.1	721	13744836	3	.41	0
 ELRC-977-State_Marine_Acciden	v1	EUbookshop	v2	721	461498	3	.41	0
 ELRC-977-State_Marine_Acciden	v1	OpenSubtitles	v2018	721	34512858	2	.27	0
+ELRC-977-State_Marine_Acciden	v1	ParaCrawl	v7.1	721	13744835	2	.27	0
 ELRC-977-State_Marine_Acciden	v1	EMEA	v3	721	343975	2	.27	0
 ELRC-977-State_Marine_Acciden	v1	ELRC-1178-EUIPO_2017	v1	721	17489	2	.27	.01
 ELRC-977-State_Marine_Acciden	v1	ELRC-EUIPO_2017	v1	721	17489	2	.27	.01
@@ -22,6 +28,8 @@ ELRC-977-State_Marine_Acciden	v1	ELRC-EU_publications	v1	721	12751	2	.27	.01
 ELRC-977-State_Marine_Acciden	v1	ELRC-949-Polish_Tourism_Organ	v1	721	4565	2	.27	.04
 ELRC-977-State_Marine_Acciden	v1	ELRC-3555-Law_Higher_Education	v1	721	2680	2	.27	.07
 ELRC-977-State_Marine_Acciden	v1	ELRC-3855-SWPS_University_Soci	v1	721	1260	2	.27	.15
+ELRC-977-State_Marine_Acciden	v1	ParaCrawl	v5	721	6336749	1	.13	0
+ELRC-977-State_Marine_Acciden	v1	ParaCrawl	v4	721	3483752	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	ELRC-5067-SciPar	v1	721	862076	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	WikiMatrix	v1	721	668647	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	EuroPat	v3	721	332120	1	.13	0
@@ -33,6 +41,8 @@ ELRC-977-State_Marine_Acciden	v1	NeuLab-TedTalks	v1	721	185955	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	EuroPat	v2	721	88959	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	ELRC-1120-CORDIS_News	v1	721	87745	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	ELRC-CORDIS_News	v1	721	87745	1	.13	0
+ELRC-977-State_Marine_Acciden	v1	wikimedia	v20230407	721	72787	1	.13	0
+ELRC-977-State_Marine_Acciden	v1	Tatoeba	v2023-04-12	721	55895	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	Tatoeba	v2022-03-03	721	54736	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	Tatoeba	v2021-07-22	721	54279	1	.13	0
 ELRC-977-State_Marine_Acciden	v1	Tatoeba	v2021-03-10	721	54235	1	.13	0
@@ -120,7 +130,10 @@ ELRC-977-State_Marine_Acciden	v1	ELRC-873-Development	v1	721	82	1	.13	1.21
 ELRC-977-State_Marine_Acciden	v1	ELRC-648-Letter_rights_person	v1	721	63	1	.13	1.58
 ELRC-977-State_Marine_Acciden	v1	ELRC-403-Rights_Arrested	v1	721	24	1	.13	4.16
 ELRC-977-State_Marine_Acciden	v1	CCMatrix	v1	721	73625347	0	0	0
+ELRC-977-State_Marine_Acciden	v1	NLLB	v1	721	73623674	0	0	0
+ELRC-977-State_Marine_Acciden	v1	OpenSubtitles	v2016	721	22955941	0	0	0
 ELRC-977-State_Marine_Acciden	v1	Europarl	v8	721	613356	0	0	0
+ELRC-977-State_Marine_Acciden	v1	Europarl	v7	721	612713	0	0	0
 ELRC-977-State_Marine_Acciden	v1	QED	v2.0a	721	482625	0	0	0
 ELRC-977-State_Marine_Acciden	v1	Wikipedia	v1.0	721	168603	0	0	0
 ELRC-977-State_Marine_Acciden	v1	TED2013	v1.1	721	148046	0	0	0

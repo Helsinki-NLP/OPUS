@@ -1,12 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	32290	41022	31648	98.01	77.14
 wikimedia	v20210402	WikiMatrix	v1	32290	375724	1783	5.52	.47
 wikimedia	v20210402	CCMatrix	v1	32290	35804134	1050	3.25	0
+wikimedia	v20210402	NLLB	v1	32290	35803625	1050	3.25	0
 wikimedia	v20210402	ParaCrawl	v9	32290	31315288	389	1.20	0
+wikimedia	v20210402	MultiCCAligned	v1	32290	9646186	335	1.03	0
 wikimedia	v20210402	CCAligned	v1	32290	9646025	335	1.03	0
+wikimedia	v20210402	ParaCrawl	v8	32290	15301964	280	.86	0
 wikimedia	v20210402	ELRC-4239-NTEU_TierA	v1	32290	12577938	236	.73	0
 wikimedia	v20210402	LinguaTools-WikiTitles	v2014	32290	4873168	167	.51	0
 wikimedia	v20210402	TildeMODEL	v2018	32290	3022117	153	.47	0
 wikimedia	v20210402	DGT	v2019	32290	3624390	142	.43	0
+wikimedia	v20210402	DGT	v4	32290	1951585	140	.43	0
 wikimedia	v20210402	XLEnt	v1.1	32290	2501315	89	.27	0
 wikimedia	v20210402	XLEnt	v1.2	32290	2501315	89	.27	0
 wikimedia	v20210402	XLEnt	v1	32290	2501315	89	.27	0
@@ -19,8 +24,10 @@ wikimedia	v20210402	EMEA	v3	32290	352115	20	.06	0
 wikimedia	v20210402	ELRC-1127-www.vtv.fi	v1	32290	42629	18	.05	.04
 wikimedia	v20210402	ELRC-www.vtv.fi	v1	32290	42629	18	.05	.04
 wikimedia	v20210402	OpenSubtitles	v2018	32290	23382097	13	.04	0
+wikimedia	v20210402	ParaCrawl	v1	32290	618374	15	.04	0
 wikimedia	v20210402	ECB	v1	32290	157318	15	.04	0
 wikimedia	v20210402	infopankki	v1	32290	21264	16	.04	.07
+wikimedia	v20210402	OpenSubtitles	v2016	32290	16640273	11	.03	0
 wikimedia	v20210402	ELRC-724-Hallituskausi_2007_2	v1	32290	53844	10	.03	.01
 wikimedia	v20210402	ELRC-1771-vnk.fi	v1	32290	31527	11	.03	.03
 wikimedia	v20210402	ELRC-vnk.fi	v1	32290	31527	11	.03	.03
@@ -29,6 +36,8 @@ wikimedia	v20210402	ELRC-2032-www.turku.fi	v1	32290	17670	11	.03	.06
 wikimedia	v20210402	ELRC-www.turku.fi	v1	32290	17670	11	.03	.06
 wikimedia	v20210402	ELRC-2017-EUIPO_2017	v1	32290	16802	10	.03	.05
 wikimedia	v20210402	ELRC-EUIPO_2017	v1	32290	16802	10	.03	.05
+wikimedia	v20210402	MultiParaCrawl	v7.1	32290	7268809	8	.02	0
+wikimedia	v20210402	ParaCrawl	v7.1	32290	7268808	7	.02	0
 wikimedia	v20210402	ELRA-W0220	v1	32290	53843	9	.02	.01
 wikimedia	v20210402	ELRC-1769-valtioneuvosto.fi	v1	32290	49316	7	.02	.01
 wikimedia	v20210402	ELRC-valtioneuvosto.fi	v1	32290	49316	7	.02	.01
@@ -38,6 +47,8 @@ wikimedia	v20210402	ELRC-716-Finnish_Information_	v1	32290	9941	8	.02	.08
 wikimedia	v20210402	ELRC-Finnish_Information	v1	32290	9941	8	.02	.08
 wikimedia	v20210402	ELRA-W0217	v1	32290	9940	7	.02	.07
 wikimedia	v20210402	Europarl	v8	32290	1920092	5	.01	0
+wikimedia	v20210402	Europarl	v7	32290	1919709	5	.01	0
+wikimedia	v20210402	Europarl	v3	32290	1233965	5	.01	0
 wikimedia	v20210402	ELRC-2036-www.vero.fi	v1	32290	21285	4	.01	.01
 wikimedia	v20210402	ELRC-www.vero.fi	v1	32290	21285	4	.01	.01
 wikimedia	v20210402	ELRC-1128-www.visitestonia.com	v1	32290	14606	4	.01	.02
@@ -47,10 +58,13 @@ wikimedia	v20210402	ELRC-2869-EU_publications_medi	v1	32290	12933	4	.01	.03
 wikimedia	v20210402	ELRC-EU_publications	v1	32290	12933	4	.01	.03
 wikimedia	v20210402	Ubuntu	v14.10	32290	8138	5	.01	.06
 wikimedia	v20210402	ECDC	v2016-03-16	32290	2545	4	.01	.15
+wikimedia	v20210402	ParaCrawl	v5	32290	3076136	1	0	0
+wikimedia	v20210402	ParaCrawl	v4	32290	2142942	0	0	0
 wikimedia	v20210402	ELRC-5067-SciPar	v1	32290	457342	1	0	0
 wikimedia	v20210402	ELITR-ECA	v1	32290	321871	1	0	0
 wikimedia	v20210402	OpenSubtitles	v1	32290	103215	0	0	0
 wikimedia	v20210402	QED	v2.0a	32290	96483	2	0	0
+wikimedia	v20210402	Tatoeba	v2023-04-12	32290	81642	2	0	0
 wikimedia	v20210402	Tatoeba	v2022-03-03	32290	81194	2	0	0
 wikimedia	v20210402	Tatoeba	v2021-07-22	32290	80545	2	0	0
 wikimedia	v20210402	Tatoeba	v2021-03-10	32290	80040	2	0	0

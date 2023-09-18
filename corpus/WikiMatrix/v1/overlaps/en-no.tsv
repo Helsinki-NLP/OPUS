@@ -1,10 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	636472	47571364	178600	28.06	.37
+WikiMatrix	v1	NLLB	v1	636472	47570737	178600	28.06	.37
+WikiMatrix	v1	ParaCrawl	v8	636472	59090055	140093	22.01	.23
+WikiMatrix	v1	MultiCCAligned	v1	636472	9133068	65	.01	0
 WikiMatrix	v1	CCAligned	v1	636472	9132909	65	.01	0
 WikiMatrix	v1	ELRC-3071-wikipedia_health	v1	636472	686	101	.01	14.72
 WikiMatrix	v1	ELRC-wikipedia_health	v1	636472	686	101	.01	14.72
 WikiMatrix	v1	ELRC_2922	v1	636472	685	100	.01	14.59
 WikiMatrix	v1	OpenSubtitles	v2018	636472	7354902	60	0	0
+WikiMatrix	v1	OpenSubtitles	v2016	636472	4876710	47	0	0
 WikiMatrix	v1	EuroPat	v3	636472	4341459	2	0	0
 WikiMatrix	v1	EuroPat	v2	636472	4050341	2	0	0
 WikiMatrix	v1	XLEnt	v1.1	636472	2048811	10	0	0
@@ -24,6 +28,7 @@ WikiMatrix	v1	Books	v1	636472	3482	0	0	0
 WikiMatrix	v1	ECDC	v2016-03-16	636472	2443	2	0	.08
 WikiMatrix	v1	ELRC-4996-Norwegian_Financial_	v1	636472	2000	1	0	.05
 WikiMatrix	v1	ELRC-4992-Customer_Support_MT	v1	636472	1368	1	0	.07
+WikiMatrix	v1	wikimedia	v20230407	636472	252	14	0	5.55
 WikiMatrix	v1	wikimedia	v20210402	636472	213	14	0	6.57
 WikiMatrix	v1	wikimedia	v20190628	636472	86	1	0	1.16
 WikiMatrix	v1	ELRC-2638-monumentos_2007	v1	636472	4	1	0	25.00

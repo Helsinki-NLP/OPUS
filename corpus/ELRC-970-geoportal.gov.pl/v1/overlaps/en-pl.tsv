@@ -1,9 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-970-geoportal.gov.pl	v1	ELRA-W0285	v1	641	640	636	99.21	99.37
+ELRC-970-geoportal.gov.pl	v1	ParaCrawl	v8	641	45358407	307	47.89	0
 ELRC-970-geoportal.gov.pl	v1	ParaCrawl	v9	641	40082038	276	43.05	0
+ELRC-970-geoportal.gov.pl	v1	MultiCCAligned	v1	641	25790086	20	3.12	0
 ELRC-970-geoportal.gov.pl	v1	CCAligned	v1	641	12846330	16	2.49	0
 ELRC-970-geoportal.gov.pl	v1	DGT	v2019	641	3659053	3	.46	0
 ELRC-970-geoportal.gov.pl	v1	TildeMODEL	v2018	641	2124677	3	.46	0
+ELRC-970-geoportal.gov.pl	v1	DGT	v4	641	1966769	3	.46	0
+ELRC-970-geoportal.gov.pl	v1	ParaCrawl	v1	641	1270691	3	.46	0
 ELRC-970-geoportal.gov.pl	v1	LinguaTools-WikiTitles	v2014	641	8003882	2	.31	0
 ELRC-970-geoportal.gov.pl	v1	XLEnt	v1.1	641	5202602	2	.31	0
 ELRC-970-geoportal.gov.pl	v1	XLEnt	v1.2	641	5202602	2	.31	0
@@ -17,6 +21,8 @@ ELRC-970-geoportal.gov.pl	v1	ELRC-956-Central_Statistical	v1	641	2690	2	.31	.07
 ELRC-970-geoportal.gov.pl	v1	ELRC-981-Digital_Archives	v1	641	647	2	.31	.30
 ELRC-970-geoportal.gov.pl	v1	ELRC-785-Compendium_Social_In	v1	641	429	2	.31	.46
 ELRC-970-geoportal.gov.pl	v1	OpenSubtitles	v2018	641	34512858	1	.15	0
+ELRC-970-geoportal.gov.pl	v1	OpenSubtitles	v2016	641	22955941	1	.15	0
+ELRC-970-geoportal.gov.pl	v1	MultiParaCrawl	v7.1	641	13744836	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	JRC-Acquis	v3.0	641	1048242	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	ELRC-5067-SciPar	v1	641	862076	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	WikiMatrix	v1	641	668647	1	.15	0
@@ -29,6 +35,8 @@ ELRC-970-geoportal.gov.pl	v1	NeuLab-TedTalks	v1	641	185955	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	EuroPat	v2	641	88959	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	ELRC-1120-CORDIS_News	v1	641	87745	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	ELRC-CORDIS_News	v1	641	87745	1	.15	0
+ELRC-970-geoportal.gov.pl	v1	wikimedia	v20230407	641	72787	1	.15	0
+ELRC-970-geoportal.gov.pl	v1	Tatoeba	v2023-04-12	641	55895	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	Tatoeba	v2022-03-03	641	54736	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	Tatoeba	v2021-07-22	641	54279	1	.15	0
 ELRC-970-geoportal.gov.pl	v1	Tatoeba	v2021-03-10	641	54235	1	.15	0
@@ -123,7 +131,12 @@ ELRC-970-geoportal.gov.pl	v1	ELRC-873-Development	v1	641	82	1	.15	1.21
 ELRC-970-geoportal.gov.pl	v1	ELRC-648-Letter_rights_person	v1	641	63	1	.15	1.58
 ELRC-970-geoportal.gov.pl	v1	ELRC-403-Rights_Arrested	v1	641	24	1	.15	4.16
 ELRC-970-geoportal.gov.pl	v1	CCMatrix	v1	641	73625347	0	0	0
+ELRC-970-geoportal.gov.pl	v1	NLLB	v1	641	73623674	0	0	0
+ELRC-970-geoportal.gov.pl	v1	ParaCrawl	v7.1	641	13744835	0	0	0
+ELRC-970-geoportal.gov.pl	v1	ParaCrawl	v5	641	6336749	0	0	0
+ELRC-970-geoportal.gov.pl	v1	ParaCrawl	v4	641	3483752	0	0	0
 ELRC-970-geoportal.gov.pl	v1	Europarl	v8	641	613356	0	0	0
+ELRC-970-geoportal.gov.pl	v1	Europarl	v7	641	612713	0	0	0
 ELRC-970-geoportal.gov.pl	v1	QED	v2.0a	641	482625	0	0	0
 ELRC-970-geoportal.gov.pl	v1	EMEA	v3	641	343975	0	0	0
 ELRC-970-geoportal.gov.pl	v1	Wikipedia	v1.0	641	168603	0	0	0

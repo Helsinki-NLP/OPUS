@@ -1,13 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	6516255	6516373	6516255	100.00	99.99
+CCAligned	v1	NLLB	v1	6516255	63325255	26225	.40	.04
 CCAligned	v1	CCMatrix	v1	6516255	3100965	15510	.23	.50
+CCAligned	v1	MultiParaCrawl	v7.1	6516255	243178	11250	.17	4.62
+CCAligned	v1	ParaCrawl	v8	6516255	243178	11250	.17	4.62
 CCAligned	v1	ParaCrawl	v9	6516255	243178	11250	.17	4.62
+CCAligned	v1	ParaCrawl	v7.1	6516255	243177	11240	.17	4.62
 CCAligned	v1	XLEnt	v1.1	6516255	1062507	3409	.05	.32
 CCAligned	v1	XLEnt	v1.2	6516255	1062507	3409	.05	.32
 CCAligned	v1	XLEnt	v1	6516255	1062507	3409	.05	.32
 CCAligned	v1	WikiMatrix	v1	6516255	75447	1	0	0
+CCAligned	v1	wikimedia	v20230407	6516255	69292	69	0	.09
 CCAligned	v1	bible-uedin	v1	6516255	61599	9	0	.01
 CCAligned	v1	wikimedia	v20210402	6516255	40716	54	0	.13
 CCAligned	v1	OpenSubtitles	v2018	6516255	14704	15	0	.10
+CCAligned	v1	Tatoeba	v2023-04-12	6516255	8775	7	0	.07
+CCAligned	v1	OpenSubtitles	v2016	6516255	7495	10	0	.13
 CCAligned	v1	Tatoeba	v2022-03-03	6516255	7347	7	0	.09
 CCAligned	v1	Tatoeba	v2021-07-22	6516255	7297	7	0	.09
 CCAligned	v1	Tatoeba	v2021-03-10	6516255	7277	7	0	.09

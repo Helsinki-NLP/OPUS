@@ -1,6 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Ubuntu	v14.10	GNOME	v1	654	194	86	13.14	44.32
 Ubuntu	v14.10	DGT	v2019	654	2737811	17	2.59	0
+Ubuntu	v14.10	DGT	v4	654	1097225	17	2.59	0
 Ubuntu	v14.10	TildeMODEL	v2018	654	1944924	14	2.14	0
 Ubuntu	v14.10	EUbookshop	v2	654	241067	4	.61	0
 Ubuntu	v14.10	ELRC-2709-EMEA	v1	654	405848	3	.45	0
@@ -10,12 +11,19 @@ Ubuntu	v14.10	EMEA	v3	654	317524	2	.30	0
 Ubuntu	v14.10	ECDC	v2016-03-16	654	2489	2	.30	.08
 Ubuntu	v14.10	ELRC-2023-EUIPO_2017	v1	654	17330	1	.15	0
 Ubuntu	v14.10	ELRC-EUIPO_2017	v1	654	17330	1	.15	0
+Ubuntu	v14.10	NLLB	v1	654	14726004	0	0	0
+Ubuntu	v14.10	ParaCrawl	v8	654	1604136	0	0	0
 Ubuntu	v14.10	ParaCrawl	v9	654	1207761	0	0	0
+Ubuntu	v14.10	MultiParaCrawl	v7.1	654	856984	0	0	0
+Ubuntu	v14.10	ParaCrawl	v7.1	654	856983	0	0	0
 Ubuntu	v14.10	ELITR-ECA	v1	654	261509	0	0	0
+Ubuntu	v14.10	ParaCrawl	v4	654	193983	0	0	0
+Ubuntu	v14.10	ParaCrawl	v5	654	176423	0	0	0
 Ubuntu	v14.10	QED	v2.0a	654	17978	0	0	0
 Ubuntu	v14.10	JRC-Acquis	v3.0	654	12383	0	0	0
 Ubuntu	v14.10	ELRA-W0234	v1	654	7172	0	0	0
 Ubuntu	v14.10	EUconst	v1	654	6717	0	0	0
+Ubuntu	v14.10	wikimedia	v20230407	654	6033	0	0	0
 Ubuntu	v14.10	ELRC-3560-EUR_LEX_covid	v1	654	4710	0	0	0
 Ubuntu	v14.10	ELRC-EUR_LEX	v1	654	4710	0	0	0
 Ubuntu	v14.10	ELRC-807-Malta_Government_Gaz	v1	654	4005	0	0	0
@@ -33,6 +41,7 @@ Ubuntu	v14.10	ELRC-vaccination	v1	654	472	0	0	0
 Ubuntu	v14.10	ELRC-3197-antibiotic	v1	654	392	0	0	0
 Ubuntu	v14.10	ELRC-antibiotic	v1	654	392	0	0	0
 Ubuntu	v14.10	KDE4	v2	654	303	0	0	0
+Ubuntu	v14.10	Tatoeba	v2023-04-12	654	253	0	0	0
 Ubuntu	v14.10	Tatoeba	v2022-03-03	654	206	0	0	0
 Ubuntu	v14.10	Tatoeba	v2020-11-09	654	205	0	0	0
 Ubuntu	v14.10	Tatoeba	v2021-03-10	654	205	0	0	0
@@ -46,3 +55,4 @@ Ubuntu	v14.10	Tatoeba	v2	654	107	0	0	0
 Ubuntu	v14.10	ELRC_2923	v1	654	95	0	0	0
 Ubuntu	v14.10	wikimedia	v20190628	654	90	0	0	0
 Ubuntu	v14.10	CCAligned	v1	654	27	0	0	0
+Ubuntu	v14.10	MultiCCAligned	v1	654	27	0	0	0

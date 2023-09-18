@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+pmindia	v1	NLLB	v1	29557	61779590	0	0	0
 pmindia	v1	CCMatrix	v1	29557	9919500	0	0	0
+pmindia	v1	MultiCCAligned	v1	29557	3450488	1	0	0
 pmindia	v1	CCAligned	v1	29557	3450421	1	0	0
 pmindia	v1	XLEnt	v1.1	29557	1574182	1	0	0
 pmindia	v1	XLEnt	v1.2	29557	1574182	1	0	0
@@ -7,16 +9,19 @@ pmindia	v1	XLEnt	v1	29557	1574182	1	0	0
 pmindia	v1	Anuvaad	v1	29557	783571	1	0	0
 pmindia	v1	OpenSubtitles	v2018	29557	370084	0	0	0
 pmindia	v1	WikiMatrix	v1	29557	280561	1	0	0
+pmindia	v1	wikimedia	v20230407	29557	192618	1	0	0
 pmindia	v1	Tanzil	v1	29557	184475	0	0	0
 pmindia	v1	GlobalVoices	v2018q4	29557	137864	1	0	0
 pmindia	v1	GlobalVoices	v2017q3	29557	135700	0	0	0
 pmindia	v1	GlobalVoices	v2015	29557	128724	0	0	0
 pmindia	v1	wikimedia	v20210402	29557	96355	1	0	0
+pmindia	v1	OpenSubtitles	v2016	29557	66388	0	0	0
 pmindia	v1	KDE4	v2	29557	34816	0	0	0
 pmindia	v1	GNOME	v1	29557	22922	0	0	0
 pmindia	v1	Joshua-IPC	v1	29557	19175	1	0	0
 pmindia	v1	TED2020	v1	29557	10256	1	0	0
 pmindia	v1	Ubuntu	v14.10	29557	5625	0	0	0
+pmindia	v1	Tatoeba	v2023-04-12	29557	5562	1	0	.01
 pmindia	v1	Tatoeba	v2021-07-22	29557	5147	1	0	.01
 pmindia	v1	Tatoeba	v2022-03-03	29557	5147	1	0	.01
 pmindia	v1	Tatoeba	v2021-03-10	29557	5146	1	0	.01

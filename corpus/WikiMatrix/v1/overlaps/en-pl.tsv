@@ -1,9 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	668647	73625347	105949	15.84	.14
+WikiMatrix	v1	NLLB	v1	668647	73623674	105949	15.84	.14
+WikiMatrix	v1	ParaCrawl	v8	668647	45358407	45414	6.79	.10
 WikiMatrix	v1	ParaCrawl	v9	668647	40082038	32032	4.79	.07
 WikiMatrix	v1	Wikipedia	v1.0	668647	168603	21026	3.14	12.47
+WikiMatrix	v1	MultiParaCrawl	v7.1	668647	13744836	3994	.59	.02
+WikiMatrix	v1	ParaCrawl	v7.1	668647	13744835	3986	.59	.02
+WikiMatrix	v1	wikimedia	v20230407	668647	72787	2176	.32	2.98
 WikiMatrix	v1	wikimedia	v20210402	668647	51386	2172	.32	4.22
+WikiMatrix	v1	ParaCrawl	v5	668647	6336749	2025	.30	.03
 WikiMatrix	v1	OpenSubtitles	v2018	668647	34512858	435	.06	0
+WikiMatrix	v1	OpenSubtitles	v2016	668647	22955941	343	.05	0
+WikiMatrix	v1	MultiCCAligned	v1	668647	25790086	192	.02	0
 WikiMatrix	v1	CCAligned	v1	668647	12846330	173	.02	0
 WikiMatrix	v1	LinguaTools-WikiTitles	v2014	668647	8003882	86	.01	0
 WikiMatrix	v1	XLEnt	v1.1	668647	5202602	71	.01	0
@@ -12,12 +20,16 @@ WikiMatrix	v1	XLEnt	v1	668647	5202602	71	.01	0
 WikiMatrix	v1	ELRC-3084-wikipedia_health	v1	668647	693	68	.01	9.81
 WikiMatrix	v1	ELRC-wikipedia_health	v1	668647	693	68	.01	9.81
 WikiMatrix	v1	DGT	v2019	668647	3659053	48	0	0
+WikiMatrix	v1	ParaCrawl	v4	668647	3483752	29	0	0
 WikiMatrix	v1	TildeMODEL	v2018	668647	2124677	42	0	0
+WikiMatrix	v1	DGT	v4	668647	1966769	48	0	0
+WikiMatrix	v1	ParaCrawl	v1	668647	1270691	52	0	0
 WikiMatrix	v1	JRC-Acquis	v3.0	668647	1048242	28	0	0
 WikiMatrix	v1	ELRC-5067-SciPar	v1	668647	862076	6	0	0
 WikiMatrix	v1	ELRC-2726-EMEA	v1	668647	756950	20	0	0
 WikiMatrix	v1	ELRC-EMEA	v1	668647	756950	20	0	0
 WikiMatrix	v1	Europarl	v8	668647	613356	4	0	0
+WikiMatrix	v1	Europarl	v7	668647	612713	4	0	0
 WikiMatrix	v1	QED	v2.0a	668647	482625	34	0	0
 WikiMatrix	v1	EUbookshop	v2	668647	461498	16	0	0
 WikiMatrix	v1	EMEA	v3	668647	343975	14	0	0
@@ -36,6 +48,7 @@ WikiMatrix	v1	ELRC-CORDIS_News	v1	668647	87745	1	0	0
 WikiMatrix	v1	ECB	v1	668647	73127	3	0	0
 WikiMatrix	v1	bible-uedin	v1	668647	60374	0	0	0
 WikiMatrix	v1	ELRA-W0241	v1	668647	57206	3	0	0
+WikiMatrix	v1	Tatoeba	v2023-04-12	668647	55895	14	0	.02
 WikiMatrix	v1	Tatoeba	v2022-03-03	668647	54736	14	0	.02
 WikiMatrix	v1	Tatoeba	v2021-07-22	668647	54279	14	0	.02
 WikiMatrix	v1	Tatoeba	v2021-03-10	668647	54235	14	0	.02

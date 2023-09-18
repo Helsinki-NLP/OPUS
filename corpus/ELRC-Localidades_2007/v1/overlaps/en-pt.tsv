@@ -1,7 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-Localidades_2007	v1	ELRC-2614-Localidades_2007	v1	1416	1416	1416	100.00	100.00
+ELRC-Localidades_2007	v1	ParaCrawl	v8	1416	102630613	124	8.75	0
 ELRC-Localidades_2007	v1	ParaCrawl	v9	1416	84925921	86	6.07	0
 ELRC-Localidades_2007	v1	CCMatrix	v1	1416	172208300	50	3.53	0
+ELRC-Localidades_2007	v1	NLLB	v1	1416	172204569	50	3.53	0
+ELRC-Localidades_2007	v1	MultiParaCrawl	v7.1	1416	31486943	45	3.17	0
+ELRC-Localidades_2007	v1	ParaCrawl	v7.1	1416	31486942	44	3.10	0
+ELRC-Localidades_2007	v1	ParaCrawl	v5	1416	13783238	42	2.96	0
+ELRC-Localidades_2007	v1	ParaCrawl	v4	1416	8111908	24	1.69	0
+ELRC-Localidades_2007	v1	ParaCrawl	v1	1416	2801742	14	.98	0
+ELRC-Localidades_2007	v1	MultiCCAligned	v1	1416	46096787	11	.77	0
 ELRC-Localidades_2007	v1	CCAligned	v1	1416	13523846	7	.49	0
 ELRC-Localidades_2007	v1	ELRC-2638-monumentos_2007	v1	1416	2530	2	.14	.07
 ELRC-Localidades_2007	v1	ELRC-Museus_2007	v1	1416	832	2	.14	.24
@@ -14,11 +22,13 @@ ELRC-Localidades_2007	v1	XLEnt	v1	1416	5417987	1	.07	0
 ELRC-Localidades_2007	v1	XLEnt	v1.2	1416	5417987	1	.07	0
 ELRC-Localidades_2007	v1	WikiMatrix	v1	1416	2461553	1	.07	0
 ELRC-Localidades_2007	v1	ELRC-5067-SciPar	v1	1416	974168	1	.07	0
+ELRC-Localidades_2007	v1	wikimedia	v20230407	1416	787133	1	.07	0
 ELRC-Localidades_2007	v1	ELRC-2724-EMEA	v1	1416	768690	1	.07	0
 ELRC-Localidades_2007	v1	ELRC-EMEA	v1	1416	768690	1	.07	0
 ELRC-Localidades_2007	v1	wikimedia	v20210402	1416	485721	1	.07	0
 ELRC-Localidades_2007	v1	ELITR-ECA	v1	1416	342089	1	.07	0
 ELRC-Localidades_2007	v1	TED2020	v1	1416	320285	1	.07	0
+ELRC-Localidades_2007	v1	Tatoeba	v2023-04-12	1416	227632	1	.07	0
 ELRC-Localidades_2007	v1	Tatoeba	v2022-03-03	1416	219187	1	.07	0
 ELRC-Localidades_2007	v1	Tatoeba	v2021-07-22	1416	217627	1	.07	0
 ELRC-Localidades_2007	v1	Tatoeba	v2021-03-10	1416	215977	1	.07	0
@@ -72,11 +82,15 @@ ELRC-Localidades_2007	v1	ELRC-2410-Portal_oficial_turis	v1	1416	33	1	.07	3.03
 ELRC-Localidades_2007	v1	ELRC-2473-do_Consumidor	v1	1416	10	1	.07	10.00
 ELRC-Localidades_2007	v1	ELRC-2617-Museus_2007_Part2	v1	1416	7	1	.07	14.28
 ELRC-Localidades_2007	v1	OpenSubtitles	v2018	1416	26685270	0	0	0
+ELRC-Localidades_2007	v1	OpenSubtitles	v2016	1416	20373196	0	0	0
 ELRC-Localidades_2007	v1	EUbookshop	v2	1416	3772762	0	0	0
 ELRC-Localidades_2007	v1	DGT	v2019	1416	3617153	0	0	0
 ELRC-Localidades_2007	v1	SciELO	v1	1416	2746160	0	0	0
+ELRC-Localidades_2007	v1	DGT	v4	1416	1963751	0	0	0
 ELRC-Localidades_2007	v1	Europarl	v8	1416	1957999	0	0	0
+ELRC-Localidades_2007	v1	Europarl	v7	1416	1957604	0	0	0
 ELRC-Localidades_2007	v1	Wikipedia	v1.0	1416	1694174	0	0	0
+ELRC-Localidades_2007	v1	Europarl	v3	1416	1266094	0	0	0
 ELRC-Localidades_2007	v1	CAPES	v1	1416	1155914	0	0	0
 ELRC-Localidades_2007	v1	TildeMODEL	v2018	1416	1114245	0	0	0
 ELRC-Localidades_2007	v1	JRC-Acquis	v3.0	1416	1040014	0	0	0

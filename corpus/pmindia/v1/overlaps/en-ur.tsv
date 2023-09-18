@@ -1,16 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 pmindia	v1	Anuvaad	v1	11166	160565	389	3.48	.24
+pmindia	v1	NLLB	v1	11166	25242795	75	.67	0
 pmindia	v1	CCMatrix	v1	11166	6053255	4	.03	0
 pmindia	v1	XLEnt	v1.1	11166	730332	2	.01	0
 pmindia	v1	XLEnt	v1	11166	730332	2	.01	0
 pmindia	v1	XLEnt	v1.2	11166	730332	2	.01	0
 pmindia	v1	TED2020	v1	11166	15331	2	.01	.01
+pmindia	v1	MultiCCAligned	v1	11166	1365314	1	0	0
 pmindia	v1	CCAligned	v1	11166	1365289	1	0	0
 pmindia	v1	Tanzil	v1	11166	736126	0	0	0
+pmindia	v1	wikimedia	v20230407	11166	87066	1	0	0
 pmindia	v1	wikimedia	v20210402	11166	41018	1	0	0
 pmindia	v1	Joshua-IPC	v1	11166	32076	1	0	0
 pmindia	v1	OpenSubtitles	v2018	11166	26235	0	0	0
 pmindia	v1	QED	v2.0a	11166	18508	0	0	0
+pmindia	v1	OpenSubtitles	v2016	11166	13164	0	0	0
 pmindia	v1	NeuLab-TedTalks	v1	11166	6426	1	0	.01
 pmindia	v1	GlobalVoices	v2018q4	11166	3860	1	0	.02
 pmindia	v1	GlobalVoices	v2017q3	11166	3547	0	0	0
@@ -18,6 +22,7 @@ pmindia	v1	tico-19	v2020-10-28	11166	3070	0	0	0
 pmindia	v1	GNOME	v1	11166	2744	0	0	0
 pmindia	v1	GlobalVoices	v2015	11166	2647	0	0	0
 pmindia	v1	Ubuntu	v14.10	11166	2584	0	0	0
+pmindia	v1	Tatoeba	v2023-04-12	11166	1667	1	0	.05
 pmindia	v1	Tatoeba	v2021-03-10	11166	1665	1	0	.06
 pmindia	v1	Tatoeba	v2021-07-22	11166	1665	1	0	.06
 pmindia	v1	Tatoeba	v2022-03-03	11166	1665	1	0	.06

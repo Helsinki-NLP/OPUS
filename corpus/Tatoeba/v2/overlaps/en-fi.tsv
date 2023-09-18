@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tatoeba	v2	Tatoeba	v2023-04-12	12207	81642	11809	96.73	14.46
 Tatoeba	v2	Tatoeba	v2022-03-03	12207	81194	11809	96.73	14.54
 Tatoeba	v2	Tatoeba	v2021-07-22	12207	80545	11809	96.73	14.66
 Tatoeba	v2	Tatoeba	v2021-03-10	12207	80040	11809	96.73	14.75
@@ -6,19 +7,30 @@ Tatoeba	v2	Tatoeba	v2020-11-09	12207	79854	11809	96.73	14.78
 Tatoeba	v2	Tatoeba	v20190709	12207	78808	11809	96.73	14.98
 Tatoeba	v2	Tatoeba	v2020-05-31	12207	79685	11806	96.71	14.81
 Tatoeba	v2	OpenSubtitles	v2018	12207	23382097	944	7.73	0
+Tatoeba	v2	OpenSubtitles	v2016	12207	16640273	843	6.90	0
 Tatoeba	v2	ParaCrawl	v9	12207	31315288	249	2.03	0
 Tatoeba	v2	OpenSubtitles	v1	12207	103215	98	.80	.09
 Tatoeba	v2	CCMatrix	v1	12207	35804134	74	.60	0
+Tatoeba	v2	NLLB	v1	12207	35803625	74	.60	0
+Tatoeba	v2	ParaCrawl	v8	12207	15301964	68	.55	0
+Tatoeba	v2	MultiParaCrawl	v7.1	12207	7268809	66	.54	0
+Tatoeba	v2	ParaCrawl	v7.1	12207	7268808	66	.54	0
 Tatoeba	v2	QED	v2.0a	12207	96483	62	.50	.06
+Tatoeba	v2	MultiCCAligned	v1	12207	9646186	39	.31	0
 Tatoeba	v2	CCAligned	v1	12207	9646025	39	.31	0
+Tatoeba	v2	ParaCrawl	v1	12207	618374	38	.31	0
 Tatoeba	v2	ELRC-4239-NTEU_TierA	v1	12207	12577938	27	.22	0
 Tatoeba	v2	Europarl	v8	12207	1920092	20	.16	0
+Tatoeba	v2	Europarl	v7	12207	1919709	20	.16	0
+Tatoeba	v2	Europarl	v3	12207	1233965	11	.09	0
 Tatoeba	v2	TED2020	v1	12207	43555	8	.06	.01
 Tatoeba	v2	NeuLab-TedTalks	v1	12207	26177	7	.05	.02
+Tatoeba	v2	ParaCrawl	v5	12207	3076136	6	.04	0
 Tatoeba	v2	EUbookshop	v2	12207	1828277	6	.04	0
 Tatoeba	v2	TildeMODEL	v2018	12207	3022117	4	.03	0
 Tatoeba	v2	ELRC-2032-www.turku.fi	v1	12207	17670	4	.03	.02
 Tatoeba	v2	ELRC-www.turku.fi	v1	12207	17670	4	.03	.02
+Tatoeba	v2	ParaCrawl	v4	12207	2142942	3	.02	0
 Tatoeba	v2	WikiMatrix	v1	12207	375724	3	.02	0
 Tatoeba	v2	WMT-News	v2019	12207	18820	3	.02	.01
 Tatoeba	v2	ELRC-2708-EMEA	v1	12207	746684	2	.01	0
@@ -30,6 +42,7 @@ Tatoeba	v2	DGT	v2019	12207	3624390	1	0	0
 Tatoeba	v2	XLEnt	v1.1	12207	2501315	0	0	0
 Tatoeba	v2	XLEnt	v1	12207	2501315	0	0	0
 Tatoeba	v2	XLEnt	v1.2	12207	2501315	0	0	0
+Tatoeba	v2	DGT	v4	12207	1951585	1	0	0
 Tatoeba	v2	ELRC-5067-SciPar	v1	12207	457342	0	0	0
 Tatoeba	v2	EMEA	v3	12207	352115	1	0	0
 Tatoeba	v2	ELITR-ECA	v1	12207	321871	0	0	0
@@ -43,6 +56,7 @@ Tatoeba	v2	ELRC-735-www.norden.org	v1	12207	42742	1	0	0
 Tatoeba	v2	ELRC-www.norden.org	v1	12207	42742	1	0	0
 Tatoeba	v2	ELRC-1127-www.vtv.fi	v1	12207	42629	0	0	0
 Tatoeba	v2	ELRC-www.vtv.fi	v1	12207	42629	0	0	0
+Tatoeba	v2	wikimedia	v20230407	12207	41022	0	0	0
 Tatoeba	v2	wikimedia	v20210402	12207	32290	0	0	0
 Tatoeba	v2	ELRC-1771-vnk.fi	v1	12207	31527	0	0	0
 Tatoeba	v2	ELRC-vnk.fi	v1	12207	31527	0	0	0

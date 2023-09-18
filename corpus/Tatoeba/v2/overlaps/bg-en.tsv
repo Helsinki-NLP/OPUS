@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tatoeba	v2	Tatoeba	v2023-04-12	11226	17835	11017	98.13	61.77
 Tatoeba	v2	Tatoeba	v2022-03-03	11226	17803	11017	98.13	61.88
 Tatoeba	v2	Tatoeba	v2021-07-22	11226	17800	11017	98.13	61.89
 Tatoeba	v2	Tatoeba	v2020-11-09	11226	17794	11017	98.13	61.91
@@ -6,14 +7,23 @@ Tatoeba	v2	Tatoeba	v2021-03-10	11226	17794	11017	98.13	61.91
 Tatoeba	v2	Tatoeba	v2020-05-31	11226	17753	11017	98.13	62.05
 Tatoeba	v2	Tatoeba	v20190709	11226	17732	11017	98.13	62.13
 Tatoeba	v2	OpenSubtitles	v2018	11226	32563039	1295	11.53	0
+Tatoeba	v2	OpenSubtitles	v2016	11226	26838705	1199	10.68	0
 Tatoeba	v2	ParaCrawl	v9	11226	13264298	156	1.38	0
 Tatoeba	v2	QED	v2.0a	11226	492589	134	1.19	.02
 Tatoeba	v2	OpenSubtitles	v1	11226	204640	130	1.15	.06
+Tatoeba	v2	ParaCrawl	v8	11226	11927055	45	.40	0
+Tatoeba	v2	MultiCCAligned	v1	11226	10351609	41	.36	0
 Tatoeba	v2	CCAligned	v1	11226	10351428	41	.36	0
 Tatoeba	v2	CCMatrix	v1	11226	44333768	40	.35	0
+Tatoeba	v2	NLLB	v1	11226	44332999	40	.35	0
+Tatoeba	v2	MultiParaCrawl	v7.1	11226	6470710	36	.32	0
+Tatoeba	v2	ParaCrawl	v7.1	11226	6470709	36	.32	0
 Tatoeba	v2	Europarl	v8	11226	394736	9	.08	0
+Tatoeba	v2	Europarl	v7	11226	394341	9	.08	0
+Tatoeba	v2	ParaCrawl	v5	11226	2569578	7	.06	0
 Tatoeba	v2	TED2020	v1	11226	243925	6	.05	0
 Tatoeba	v2	NeuLab-TedTalks	v1	11226	178322	3	.02	0
+Tatoeba	v2	ParaCrawl	v4	11226	1033746	2	.01	0
 Tatoeba	v2	WikiMatrix	v1	11226	357970	2	.01	0
 Tatoeba	v2	SETIMES	v2	11226	211181	2	.01	0
 Tatoeba	v2	EUbookshop	v2	11226	186306	2	.01	0
@@ -22,6 +32,7 @@ Tatoeba	v2	LinguaTools-WikiTitles	v2014	11226	2444290	0	0	0
 Tatoeba	v2	XLEnt	v1.1	11226	2394543	0	0	0
 Tatoeba	v2	XLEnt	v1	11226	2394543	0	0	0
 Tatoeba	v2	XLEnt	v1.2	11226	2394543	0	0	0
+Tatoeba	v2	DGT	v4	11226	1077223	0	0	0
 Tatoeba	v2	ELRC-2712-EMEA	v1	11226	766010	1	0	0
 Tatoeba	v2	ELRC_2682	v1	11226	766009	1	0	0
 Tatoeba	v2	ELRC-EMEA	v1	11226	766008	1	0	0
@@ -32,6 +43,7 @@ Tatoeba	v2	Tanzil	v1	11226	131265	0	0	0
 Tatoeba	v2	KDE4	v2	11226	102046	1	0	0
 Tatoeba	v2	Wikipedia	v1.0	11226	77040	0	0	0
 Tatoeba	v2	bible-uedin	v1	11226	61559	0	0	0
+Tatoeba	v2	wikimedia	v20230407	11226	60073	0	0	0
 Tatoeba	v2	ELRC-768-corpora_State_Admini	v1	11226	50413	0	0	0
 Tatoeba	v2	wikimedia	v20210402	11226	32277	0	0	0
 Tatoeba	v2	JRC-Acquis	v3.0	11226	28494	0	0	0

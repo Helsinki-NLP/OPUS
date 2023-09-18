@@ -1,6 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-867-Defence	v1	CCMatrix	v1	2448	73625347	9	.36	0
+ELRC-867-Defence	v1	NLLB	v1	2448	73623674	9	.36	0
 ELRC-867-Defence	v1	ParaCrawl	v9	2448	40082038	8	.32	0
+ELRC-867-Defence	v1	ParaCrawl	v8	2448	45358407	4	.16	0
+ELRC-867-Defence	v1	MultiCCAligned	v1	2448	25790086	1	.04	0
+ELRC-867-Defence	v1	MultiParaCrawl	v7.1	2448	13744836	1	.04	0
 ELRC-867-Defence	v1	CCAligned	v1	2448	12846330	1	.04	0
 ELRC-867-Defence	v1	LinguaTools-WikiTitles	v2014	2448	8003882	1	.04	0
 ELRC-867-Defence	v1	XLEnt	v1.1	2448	5202602	1	.04	0
@@ -19,6 +23,8 @@ ELRC-867-Defence	v1	NeuLab-TedTalks	v1	2448	185955	1	.04	0
 ELRC-867-Defence	v1	EuroPat	v2	2448	88959	1	.04	0
 ELRC-867-Defence	v1	ELRC-1120-CORDIS_News	v1	2448	87745	1	.04	0
 ELRC-867-Defence	v1	ELRC-CORDIS_News	v1	2448	87745	1	.04	0
+ELRC-867-Defence	v1	wikimedia	v20230407	2448	72787	1	.04	0
+ELRC-867-Defence	v1	Tatoeba	v2023-04-12	2448	55895	1	.04	0
 ELRC-867-Defence	v1	Tatoeba	v2022-03-03	2448	54736	1	.04	0
 ELRC-867-Defence	v1	Tatoeba	v2021-07-22	2448	54279	1	.04	0
 ELRC-867-Defence	v1	Tatoeba	v2021-03-10	2448	54235	1	.04	0
@@ -112,10 +118,17 @@ ELRC-867-Defence	v1	ELRC-873-Development	v1	2448	82	1	.04	1.21
 ELRC-867-Defence	v1	ELRC-648-Letter_rights_person	v1	2448	63	1	.04	1.58
 ELRC-867-Defence	v1	ELRC-403-Rights_Arrested	v1	2448	24	1	.04	4.16
 ELRC-867-Defence	v1	OpenSubtitles	v2018	2448	34512858	0	0	0
+ELRC-867-Defence	v1	OpenSubtitles	v2016	2448	22955941	0	0	0
+ELRC-867-Defence	v1	ParaCrawl	v7.1	2448	13744835	0	0	0
+ELRC-867-Defence	v1	ParaCrawl	v5	2448	6336749	0	0	0
 ELRC-867-Defence	v1	DGT	v2019	2448	3659053	0	0	0
+ELRC-867-Defence	v1	ParaCrawl	v4	2448	3483752	0	0	0
 ELRC-867-Defence	v1	TildeMODEL	v2018	2448	2124677	0	0	0
+ELRC-867-Defence	v1	DGT	v4	2448	1966769	0	0	0
+ELRC-867-Defence	v1	ParaCrawl	v1	2448	1270691	0	0	0
 ELRC-867-Defence	v1	JRC-Acquis	v3.0	2448	1048242	0	0	0
 ELRC-867-Defence	v1	Europarl	v8	2448	613356	0	0	0
+ELRC-867-Defence	v1	Europarl	v7	2448	612713	0	0	0
 ELRC-867-Defence	v1	QED	v2.0a	2448	482625	0	0	0
 ELRC-867-Defence	v1	EUbookshop	v2	2448	461498	0	0	0
 ELRC-867-Defence	v1	EMEA	v3	2448	343975	0	0	0

@@ -1,7 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	96355	192618	94677	98.25	49.15
+wikimedia	v20210402	NLLB	v1	96355	61779590	692	.71	0
 wikimedia	v20210402	XLEnt	v1.1	96355	1574182	647	.67	.04
 wikimedia	v20210402	XLEnt	v1.2	96355	1574182	647	.67	.04
 wikimedia	v20210402	XLEnt	v1	96355	1574182	647	.67	.04
+wikimedia	v20210402	MultiCCAligned	v1	96355	3450488	590	.61	.01
 wikimedia	v20210402	CCAligned	v1	96355	3450421	590	.61	.01
 wikimedia	v20210402	CCMatrix	v1	96355	9919500	312	.32	0
 wikimedia	v20210402	WikiMatrix	v1	96355	280561	95	.09	.03
@@ -14,9 +17,11 @@ wikimedia	v20210402	GlobalVoices	v2015	96355	128724	31	.03	.02
 wikimedia	v20210402	Anuvaad	v1	96355	783571	2	0	0
 wikimedia	v20210402	OpenSubtitles	v2018	96355	370084	7	0	0
 wikimedia	v20210402	Tanzil	v1	96355	184475	0	0	0
+wikimedia	v20210402	OpenSubtitles	v2016	96355	66388	0	0	0
 wikimedia	v20210402	pmindia	v1	96355	29557	1	0	0
 wikimedia	v20210402	TED2020	v1	96355	10256	1	0	0
 wikimedia	v20210402	Ubuntu	v14.10	96355	5625	8	0	.14
+wikimedia	v20210402	Tatoeba	v2023-04-12	96355	5562	1	0	.01
 wikimedia	v20210402	Tatoeba	v2021-07-22	96355	5147	1	0	.01
 wikimedia	v20210402	Tatoeba	v2022-03-03	96355	5147	1	0	.01
 wikimedia	v20210402	Tatoeba	v2021-03-10	96355	5146	1	0	.01

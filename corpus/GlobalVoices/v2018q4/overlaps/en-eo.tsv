@@ -1,13 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2018q4	GlobalVoices	v2017q3	3276	2929	2878	87.85	98.25
 GlobalVoices	v2018q4	GlobalVoices	v2015	3276	2401	2330	71.12	97.04
+GlobalVoices	v2018q4	NLLB	v1	3276	62259523	729	22.25	0
 GlobalVoices	v2018q4	CCMatrix	v1	3276	15205865	554	16.91	0
 GlobalVoices	v2018q4	KDE4	v2	3276	78256	8	.24	.01
+GlobalVoices	v2018q4	Tatoeba	v2023-04-12	3276	271141	3	.09	0
 GlobalVoices	v2018q4	Tatoeba	v2022-03-03	3276	263939	3	.09	0
 GlobalVoices	v2018q4	Tatoeba	v2021-07-22	3276	259260	3	.09	0
 GlobalVoices	v2018q4	Tatoeba	v2021-03-10	3276	255803	3	.09	0
 GlobalVoices	v2018q4	Tatoeba	v2020-11-09	3276	251565	3	.09	0
 GlobalVoices	v2018q4	OpenSubtitles	v2018	3276	60893	3	.09	0
+GlobalVoices	v2018q4	OpenSubtitles	v2016	3276	49984	3	.09	0
 GlobalVoices	v2018q4	Tatoeba	v2020-05-31	3276	245736	2	.06	0
 GlobalVoices	v2018q4	Tatoeba	v20190709	3276	238570	2	.06	0
 GlobalVoices	v2018q4	Tatoeba	v2	3276	109559	2	.06	0
@@ -15,6 +18,7 @@ GlobalVoices	v2018q4	XLEnt	v1.1	3276	2292715	1	.03	0
 GlobalVoices	v2018q4	XLEnt	v1.2	3276	2292715	1	.03	0
 GlobalVoices	v2018q4	XLEnt	v1	3276	2292715	1	.03	0
 GlobalVoices	v2018q4	WikiMatrix	v1	3276	298201	1	.03	0
+GlobalVoices	v2018q4	wikimedia	v20230407	3276	24399	1	.03	0
 GlobalVoices	v2018q4	QED	v2.0a	3276	18569	1	.03	0
 GlobalVoices	v2018q4	wikimedia	v20210402	3276	12837	1	.03	0
 GlobalVoices	v2018q4	TED2020	v1	3276	10945	1	.03	0

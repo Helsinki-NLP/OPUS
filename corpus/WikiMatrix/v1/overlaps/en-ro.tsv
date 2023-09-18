@@ -1,11 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	631486	55211939	185606	29.39	.33
+WikiMatrix	v1	NLLB	v1	631486	55210599	185606	29.39	.33
 WikiMatrix	v1	ParaCrawl	v9	631486	25048458	105029	16.63	.41
+WikiMatrix	v1	ParaCrawl	v8	631486	13376411	77572	12.28	.57
 WikiMatrix	v1	Wikipedia	v1.0	631486	355116	69232	10.96	19.49
+WikiMatrix	v1	wikimedia	v20230407	631486	304464	28827	4.56	9.46
 WikiMatrix	v1	wikimedia	v20210402	631486	227392	28813	4.56	12.67
+WikiMatrix	v1	MultiParaCrawl	v7.1	631486	6160526	13837	2.19	.22
+WikiMatrix	v1	ParaCrawl	v7.1	631486	6160525	13776	2.18	.22
 WikiMatrix	v1	ELRC-492-Romanian_Wikipedia	v1	631486	132217	2510	.39	1.89
 WikiMatrix	v1	ELRA-W0193	v1	631486	132216	2506	.39	1.89
 WikiMatrix	v1	OpenSubtitles	v2018	631486	39424613	176	.02	0
+WikiMatrix	v1	OpenSubtitles	v2016	631486	31406516	154	.02	0
+WikiMatrix	v1	MultiCCAligned	v1	631486	10463174	128	.02	0
 WikiMatrix	v1	CCAligned	v1	631486	10462991	128	.02	0
 WikiMatrix	v1	ELRC-3087-wikipedia_health	v1	631486	693	188	.02	27.12
 WikiMatrix	v1	ELRC-wikipedia_health	v1	631486	693	188	.02	27.12
@@ -14,12 +21,17 @@ WikiMatrix	v1	LinguaTools-WikiTitles	v2014	631486	3330895	39	0	0
 WikiMatrix	v1	XLEnt	v1.1	631486	3120821	18	0	0
 WikiMatrix	v1	XLEnt	v1.2	631486	3120821	18	0	0
 WikiMatrix	v1	XLEnt	v1	631486	3120821	18	0	0
+WikiMatrix	v1	ParaCrawl	v5	631486	2855026	20	0	0
 WikiMatrix	v1	DGT	v2019	631486	2753976	9	0	0
+WikiMatrix	v1	ParaCrawl	v1	631486	2454740	18	0	0
+WikiMatrix	v1	ParaCrawl	v4	631486	1944574	11	0	0
 WikiMatrix	v1	TildeMODEL	v2018	631486	1895503	13	0	0
+WikiMatrix	v1	DGT	v4	631486	1073269	9	0	0
 WikiMatrix	v1	ELRC-2728-EMEA	v1	631486	777379	6	0	0
 WikiMatrix	v1	ELRC-EMEA	v1	631486	777379	6	0	0
 WikiMatrix	v1	QED	v2.0a	631486	412194	17	0	0
 WikiMatrix	v1	Europarl	v8	631486	386478	4	0	0
+WikiMatrix	v1	Europarl	v7	631486	386074	4	0	0
 WikiMatrix	v1	TED2020	v1	631486	320760	15	0	0
 WikiMatrix	v1	EMEA	v3	631486	316762	3	0	0
 WikiMatrix	v1	JRC-Acquis	v3.0	631486	314553	1	0	0
@@ -39,6 +51,7 @@ WikiMatrix	v1	ELRC-3577-EUR_LEX_covid	v1	631486	23170	1	0	0
 WikiMatrix	v1	ELRC-EUR_LEX	v1	631486	23170	1	0	0
 WikiMatrix	v1	ELRC-1177-EUIPO_2017	v1	631486	20296	1	0	0
 WikiMatrix	v1	ELRC-EUIPO_2017	v1	631486	20296	1	0	0
+WikiMatrix	v1	Tatoeba	v2023-04-12	631486	16283	4	0	.02
 WikiMatrix	v1	Tatoeba	v2022-03-03	631486	15250	4	0	.02
 WikiMatrix	v1	Tatoeba	v2021-07-22	631486	15159	4	0	.02
 WikiMatrix	v1	Tatoeba	v2021-03-10	631486	15138	4	0	.02

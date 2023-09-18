@@ -1,7 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3215-antibiotic	v1	ELRC-antibiotic	v1	986	986	986	100.00	100.00
 ELRC-3215-antibiotic	v1	CCMatrix	v1	986	27249324	255	25.86	0
+ELRC-3215-antibiotic	v1	NLLB	v1	986	27248871	255	25.86	0
+ELRC-3215-antibiotic	v1	ParaCrawl	v8	986	7536844	220	22.31	0
 ELRC-3215-antibiotic	v1	ParaCrawl	v9	986	9516069	182	18.45	0
+ELRC-3215-antibiotic	v1	MultiCCAligned	v1	986	4346713	4	.40	0
 ELRC-3215-antibiotic	v1	CCAligned	v1	986	4346640	4	.40	0
 ELRC-3215-antibiotic	v1	ELRC-2727-EMEA	v1	986	760104	3	.30	0
 ELRC-3215-antibiotic	v1	ELRC-EMEA	v1	986	760104	3	.30	0
@@ -10,13 +13,17 @@ ELRC-3215-antibiotic	v1	ELITR-ECA	v1	986	90081	2	.20	0
 ELRC-3215-antibiotic	v1	ELRC-2737-vaccination	v1	986	491	2	.20	.40
 ELRC-3215-antibiotic	v1	ELRC-vaccination	v1	986	491	2	.20	.40
 ELRC-3215-antibiotic	v1	OpenSubtitles	v2018	986	16322093	1	.10	0
+ELRC-3215-antibiotic	v1	OpenSubtitles	v2016	986	13659351	1	.10	0
+ELRC-3215-antibiotic	v1	MultiParaCrawl	v7.1	986	3737733	1	.10	0
 ELRC-3215-antibiotic	v1	XLEnt	v1.1	986	817858	1	.10	0
 ELRC-3215-antibiotic	v1	XLEnt	v1.2	986	817858	1	.10	0
 ELRC-3215-antibiotic	v1	XLEnt	v1	986	817858	1	.10	0
 ELRC-3215-antibiotic	v1	Europarl	v8	986	604779	1	.10	0
+ELRC-3215-antibiotic	v1	Europarl	v7	986	604395	1	.10	0
 ELRC-3215-antibiotic	v1	WikiMatrix	v1	986	318028	1	.10	0
 ELRC-3215-antibiotic	v1	ELRC-5067-SciPar	v1	986	300017	1	.10	0
 ELRC-3215-antibiotic	v1	KDE4	v2	986	106508	1	.10	0
+ELRC-3215-antibiotic	v1	wikimedia	v20230407	986	69985	1	.10	0
 ELRC-3215-antibiotic	v1	ELRC-490-Secretariat_General_	v1	986	62951	1	.10	0
 ELRC-3215-antibiotic	v1	ELRC-489-Secretariat_General_	v1	986	55183	1	.10	0
 ELRC-3215-antibiotic	v1	TED2020	v1	986	43251	1	.10	0
@@ -33,6 +40,7 @@ ELRC-3215-antibiotic	v1	ELRC-statistical_reports	v1	986	11810	1	.10	0
 ELRC-3215-antibiotic	v1	ELRC-3617-presscorner_covid	v1	986	6991	1	.10	.01
 ELRC-3215-antibiotic	v1	ELRC-presscorner_covid	v1	986	6991	1	.10	.01
 ELRC-3215-antibiotic	v1	ELRC-923-chapters_Youth_2010	v1	986	5855	1	.10	.01
+ELRC-3215-antibiotic	v1	Tatoeba	v2023-04-12	986	4293	1	.10	.02
 ELRC-3215-antibiotic	v1	Tatoeba	v2022-03-03	986	4159	1	.10	.02
 ELRC-3215-antibiotic	v1	Tatoeba	v2021-07-22	986	4107	1	.10	.02
 ELRC-3215-antibiotic	v1	Tatoeba	v2021-03-10	986	3287	1	.10	.03
@@ -45,7 +53,11 @@ ELRC-3215-antibiotic	v1	ELRC-3085-wikipedia_health	v1	986	960	1	.10	.10
 ELRC-3215-antibiotic	v1	ELRC-wikipedia_health	v1	986	960	1	.10	.10
 ELRC-3215-antibiotic	v1	ELRC-3304-EUROPARL_covid	v1	986	816	1	.10	.12
 ELRC-3215-antibiotic	v1	ELRC-EUROPARL_covid	v1	986	816	1	.10	.12
+ELRC-3215-antibiotic	v1	ParaCrawl	v7.1	986	3737732	0	0	0
 ELRC-3215-antibiotic	v1	DGT	v2019	986	3618655	0	0	0
+ELRC-3215-antibiotic	v1	DGT	v4	986	1958354	0	0	0
+ELRC-3215-antibiotic	v1	ParaCrawl	v5	986	1395048	0	0	0
+ELRC-3215-antibiotic	v1	ParaCrawl	v4	986	656409	0	0	0
 ELRC-3215-antibiotic	v1	EUbookshop	v2	986	340004	0	0	0
 ELRC-3215-antibiotic	v1	EMEA	v3	986	333756	0	0	0
 ELRC-3215-antibiotic	v1	OpenSubtitles	v1	986	317270	0	0	0

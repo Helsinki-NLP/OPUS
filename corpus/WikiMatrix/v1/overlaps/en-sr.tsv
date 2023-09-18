@@ -1,15 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	395569	26373997	96171	24.31	.36
+WikiMatrix	v1	NLLB	v1	395569	26373614	96171	24.31	.36
+WikiMatrix	v1	wikimedia	v20230407	395569	211270	2978	.75	1.40
 WikiMatrix	v1	wikimedia	v20210402	395569	86696	2961	.74	3.41
 WikiMatrix	v1	ELRC-3041-wikipedia_health	v1	395569	744	248	.06	33.33
 WikiMatrix	v1	ELRC-wikipedia_health	v1	395569	744	248	.06	33.33
 WikiMatrix	v1	ELRC_2922	v1	395569	743	247	.06	33.24
 WikiMatrix	v1	OpenSubtitles	v2018	395569	34892472	77	.01	0
+WikiMatrix	v1	OpenSubtitles	v2016	395569	18645057	42	.01	0
+WikiMatrix	v1	MultiCCAligned	v1	395569	1986759	44	.01	0
 WikiMatrix	v1	CCAligned	v1	395569	1986729	44	.01	0
 WikiMatrix	v1	XLEnt	v1.1	395569	1409606	30	0	0
 WikiMatrix	v1	XLEnt	v1.2	395569	1409606	30	0	0
 WikiMatrix	v1	XLEnt	v1	395569	1409606	30	0	0
 WikiMatrix	v1	GoURMET	v1	395569	326997	2	0	0
+WikiMatrix	v1	GoURMET	v2	395569	326997	2	0	0
 WikiMatrix	v1	QED	v2.0a	395569	265752	4	0	0
 WikiMatrix	v1	TED2020	v1	395569	254256	2	0	0
 WikiMatrix	v1	SETIMES	v2	395569	222803	0	0	0
@@ -17,6 +22,7 @@ WikiMatrix	v1	SETIMES	v1	395569	163519	0	0	0
 WikiMatrix	v1	NeuLab-TedTalks	v1	395569	148611	1	0	0
 WikiMatrix	v1	bible-uedin	v1	395569	61507	0	0	0
 WikiMatrix	v1	KDE4	v2	395569	51909	2	0	0
+WikiMatrix	v1	Tatoeba	v2023-04-12	395569	21750	3	0	.01
 WikiMatrix	v1	Tatoeba	v2022-03-03	395569	21293	3	0	.01
 WikiMatrix	v1	Tatoeba	v2021-07-22	395569	21292	3	0	.01
 WikiMatrix	v1	Tatoeba	v2021-03-10	395569	21289	3	0	.01

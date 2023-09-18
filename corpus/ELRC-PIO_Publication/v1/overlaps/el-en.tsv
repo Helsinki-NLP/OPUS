@@ -2,6 +2,8 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-PIO_Publication	v1	ELRC-1067-PIO_Publication_Wind	v1	3945	2628	2625	66.53	99.88
 ELRC-PIO_Publication	v1	ELRC-1065-PIO_Publication_Cypr	v1	3945	1321	1319	33.43	99.84
 ELRC-PIO_Publication	v1	CCMatrix	v1	3945	48860900	53	1.34	0
+ELRC-PIO_Publication	v1	NLLB	v1	3945	48859850	53	1.34	0
+ELRC-PIO_Publication	v1	ParaCrawl	v8	3945	34585108	51	1.29	0
 ELRC-PIO_Publication	v1	ParaCrawl	v9	3945	21402043	50	1.26	0
 ELRC-PIO_Publication	v1	XLEnt	v1.1	3945	2799832	23	.58	0
 ELRC-PIO_Publication	v1	XLEnt	v1.2	3945	2799832	23	.58	0
@@ -9,10 +11,15 @@ ELRC-PIO_Publication	v1	XLEnt	v1	3945	2799832	23	.58	0
 ELRC-PIO_Publication	v1	LinguaTools-WikiTitles	v2014	3945	1795210	16	.40	0
 ELRC-PIO_Publication	v1	DGT	v2019	3945	3679234	14	.35	0
 ELRC-PIO_Publication	v1	EUbookshop	v2	3945	3606516	14	.35	0
+ELRC-PIO_Publication	v1	DGT	v4	3945	2027952	14	.35	0
+ELRC-PIO_Publication	v1	MultiCCAligned	v1	3945	8792897	10	.25	0
 ELRC-PIO_Publication	v1	CCAligned	v1	3945	8792737	10	.25	0
 ELRC-PIO_Publication	v1	ELRC-1070-Press_Information_Cy	v1	3945	1862	10	.25	.53
+ELRC-PIO_Publication	v1	MultiParaCrawl	v7.1	3945	9402609	6	.15	0
+ELRC-PIO_Publication	v1	ParaCrawl	v7.1	3945	9402608	5	.12	0
 ELRC-PIO_Publication	v1	ELRC-EMEA	v1	3945	774830	3	.07	0
 ELRC-PIO_Publication	v1	ELRC-2711-EMEA	v1	3945	774829	3	.07	0
+ELRC-PIO_Publication	v1	wikimedia	v20230407	3945	549337	3	.07	0
 ELRC-PIO_Publication	v1	EMEA	v3	3945	368049	3	.07	0
 ELRC-PIO_Publication	v1	ELRC_2682	v1	3945	774829	2	.05	0
 ELRC-PIO_Publication	v1	QED	v2.0a	3945	496445	2	.05	0
@@ -22,6 +29,7 @@ ELRC-PIO_Publication	v1	ELRC-649-Greek_administration	v1	3945	12510	2	.05	.01
 ELRC-PIO_Publication	v1	ECDC	v2016-03-16	3945	2431	2	.05	.08
 ELRC-PIO_Publication	v1	ELRC-1970-governmental_about_M	v1	3945	1432	2	.05	.13
 ELRC-PIO_Publication	v1	OpenSubtitles	v2018	3945	33318146	1	.02	0
+ELRC-PIO_Publication	v1	OpenSubtitles	v2016	3945	26021007	1	.02	0
 ELRC-PIO_Publication	v1	ELRC-5067-SciPar	v1	3945	742987	1	.02	0
 ELRC-PIO_Publication	v1	WikiMatrix	v1	3945	620802	1	.02	0
 ELRC-PIO_Publication	v1	ELITR-ECA	v1	3945	329071	1	.02	0
@@ -29,6 +37,7 @@ ELRC-PIO_Publication	v1	TED2020	v1	3945	262648	1	.02	0
 ELRC-PIO_Publication	v1	SETIMES	v2	3945	224806	1	.02	0
 ELRC-PIO_Publication	v1	NeuLab-TedTalks	v1	3945	149750	1	.02	0
 ELRC-PIO_Publication	v1	GlobalVoices	v2018q4	3945	112880	1	.02	0
+ELRC-PIO_Publication	v1	Tatoeba	v2023-04-12	3945	25970	1	.02	0
 ELRC-PIO_Publication	v1	Tatoeba	v2022-03-03	3945	24112	1	.02	0
 ELRC-PIO_Publication	v1	Tatoeba	v2021-07-22	3945	23813	1	.02	0
 ELRC-PIO_Publication	v1	Tatoeba	v2021-03-10	3945	23365	1	.02	0
@@ -81,7 +90,11 @@ ELRC-PIO_Publication	v1	ELRC-3856-PRESS	v1	3945	35	1	.02	2.85
 ELRC-PIO_Publication	v1	ELRC-416-Swedish_Social_Secur	v1	3945	30	1	.02	3.33
 ELRC-PIO_Publication	v1	ELRC-1021-Commitment_Property_	v1	3945	23	1	.02	4.34
 ELRC-PIO_Publication	v1	ELRC-403-Rights_Arrested	v1	3945	22	1	.02	4.54
+ELRC-PIO_Publication	v1	ParaCrawl	v5	3945	3803749	0	0	0
+ELRC-PIO_Publication	v1	ParaCrawl	v4	3945	1976986	0	0	0
 ELRC-PIO_Publication	v1	Europarl	v8	3945	1260921	0	0	0
+ELRC-PIO_Publication	v1	Europarl	v7	3945	1260526	0	0	0
+ELRC-PIO_Publication	v1	Europarl	v3	3945	646689	0	0	0
 ELRC-PIO_Publication	v1	OpenSubtitles	v1	3945	220324	0	0	0
 ELRC-PIO_Publication	v1	SETIMES	v1	3945	165530	0	0	0
 ELRC-PIO_Publication	v1	KDE4	v2	3945	125457	0	0	0

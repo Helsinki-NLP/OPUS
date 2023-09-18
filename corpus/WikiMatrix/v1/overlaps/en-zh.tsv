@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+WikiMatrix	v1	NLLB	v1	786512	68401005	132787	16.88	.19
 WikiMatrix	v1	CCMatrix	v1	786512	70040162	132690	16.87	.18
 WikiMatrix	v1	ParaCrawl	v9	786512	14170210	5627	.71	.03
+WikiMatrix	v1	wikimedia	v20230407	786512	273375	693	.08	.25
 WikiMatrix	v1	wikimedia	v20210402	786512	165894	691	.08	.41
 WikiMatrix	v1	UNPC	v1.0	786512	14168056	20	0	0
+WikiMatrix	v1	OpenSubtitles	v2016	786512	8320010	39	0	0
 WikiMatrix	v1	MultiUN	v1	786512	8022150	18	0	0
 WikiMatrix	v1	LinguaTools-WikiTitles	v2014	786512	6398548	45	0	0
 WikiMatrix	v1	XLEnt	v1.1	786512	5979316	14	0	0

@@ -1,15 +1,22 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	20385	170286	20311	99.63	11.92
+wikimedia	v20210402	NLLB	v1	20385	2374535	116	.56	0
 wikimedia	v20210402	wikimedia	v20190628	20385	256	43	.21	16.79
 wikimedia	v20210402	XLEnt	v1.1	20385	425848	6	.02	0
 wikimedia	v20210402	XLEnt	v1	20385	425848	6	.02	0
 wikimedia	v20210402	XLEnt	v1.2	20385	425848	6	.02	0
+wikimedia	v20210402	MultiCCAligned	v1	20385	337105	6	.02	0
 wikimedia	v20210402	CCAligned	v1	20385	337100	6	.02	0
 wikimedia	v20210402	GNOME	v1	20385	1026	3	.01	.29
 wikimedia	v20210402	CCMatrix	v1	20385	5851948	1	0	0
 wikimedia	v20210402	Tanzil	v1	20385	125302	0	0	0
+wikimedia	v20210402	GoURMET	v2	20385	19896	1	0	0
+wikimedia	v20210402	MultiParaCrawl	v7.1	20385	19695	1	0	0
+wikimedia	v20210402	ParaCrawl	v7.1	20385	19694	0	0	0
 wikimedia	v20210402	WikiTitles	v3	20385	7350	1	0	.01
 wikimedia	v20210402	tico-19	v2020-10-28	20385	3070	0	0	0
 wikimedia	v20210402	KDE4	v2	20385	1485	0	0	0
+wikimedia	v20210402	Tatoeba	v2023-04-12	20385	257	1	0	.38
 wikimedia	v20210402	Ubuntu	v14.10	20385	223	2	0	.89
 wikimedia	v20210402	Tatoeba	v2020-11-09	20385	57	1	0	1.75
 wikimedia	v20210402	Tatoeba	v2021-03-10	20385	57	1	0	1.75

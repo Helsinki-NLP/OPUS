@@ -1,9 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 infopankki	v1	ParaCrawl	v9	14749	49109340	7615	51.63	.01
+infopankki	v1	ParaCrawl	v8	14749	44066654	5531	37.50	.01
+infopankki	v1	ParaCrawl	v7.1	14749	11645802	4862	32.96	.04
+infopankki	v1	MultiParaCrawl	v7.1	14749	11645803	4766	32.31	.04
 infopankki	v1	ELRC-744-Finnish_Information_	v1	14749	6818	4071	27.60	59.70
 infopankki	v1	ELRC-Finnish_Information	v1	14749	6818	4071	27.60	59.70
 infopankki	v1	ELRA-W0222	v1	14749	6817	4056	27.50	59.49
 infopankki	v1	CCMatrix	v1	14749	76586290	3768	25.54	0
+infopankki	v1	NLLB	v1	14749	76584927	3768	25.54	0
+infopankki	v1	ParaCrawl	v5	14749	6027448	3113	21.10	.05
+infopankki	v1	ParaCrawl	v4	14749	3456794	2995	20.30	.08
+infopankki	v1	MultiCCAligned	v1	14749	12482516	239	1.62	0
 infopankki	v1	CCAligned	v1	14749	12482304	239	1.62	0
 infopankki	v1	ELRC-4268-NTEU_TierA	v1	14749	12468100	164	1.11	0
 infopankki	v1	LinguaTools-WikiTitles	v2014	14749	7759117	127	.86	0
@@ -12,9 +19,11 @@ infopankki	v1	XLEnt	v1	14749	3403994	79	.53	0
 infopankki	v1	XLEnt	v1.2	14749	3403994	79	.53	0
 infopankki	v1	TildeMODEL	v2018	14749	3185574	73	.49	0
 infopankki	v1	DGT	v2019	14749	3635425	62	.42	0
+infopankki	v1	DGT	v4	14749	1968717	59	.40	0
 infopankki	v1	EUbookshop	v2	14749	1753373	39	.26	0
 infopankki	v1	KDE4	v2	14749	192221	27	.18	.01
 infopankki	v1	OpenSubtitles	v2018	14749	14904885	20	.13	0
+infopankki	v1	OpenSubtitles	v2016	14749	10237744	19	.12	0
 infopankki	v1	ELRC-2725-EMEA	v1	14749	752045	18	.12	0
 infopankki	v1	ELRC-EMEA	v1	14749	752045	18	.12	0
 infopankki	v1	ELRC-2033-www.turku.fi	v1	14749	9704	17	.11	.17
@@ -24,12 +33,15 @@ infopankki	v1	ELRC-www.vtv.fi	v1	14749	46345	15	.10	.03
 infopankki	v1	ELRC-2037-www.vero.fi	v1	14749	22317	15	.10	.06
 infopankki	v1	ELRC-www.vero.fi	v1	14749	22317	15	.10	.06
 infopankki	v1	JRC-Acquis	v3.0	14749	493351	14	.09	0
+infopankki	v1	wikimedia	v20230407	14749	59125	11	.07	.01
 infopankki	v1	OpenSubtitles	v1	14749	298889	9	.06	0
 infopankki	v1	QED	v2.0a	14749	160782	9	.06	0
 infopankki	v1	ELRC-1772-vnk.fi	v1	14749	33625	10	.06	.02
 infopankki	v1	ELRC-vnk.fi	v1	14749	33625	10	.06	.02
 infopankki	v1	wikimedia	v20210402	14749	29811	10	.06	.03
 infopankki	v1	Europarl	v8	14749	1846661	8	.05	0
+infopankki	v1	Europarl	v7	14749	1846286	8	.05	0
+infopankki	v1	Tatoeba	v2023-04-12	14749	26957	8	.05	.02
 infopankki	v1	Tatoeba	v2022-03-03	14749	26220	8	.05	.03
 infopankki	v1	Tatoeba	v2021-07-22	14749	25865	8	.05	.03
 infopankki	v1	Tatoeba	v2021-03-10	14749	25646	8	.05	.03
@@ -44,6 +56,7 @@ infopankki	v1	ELRC-817-Swedish_Audit_Riksre	v1	14749	28944	6	.04	.02
 infopankki	v1	ELRC-823-Swedish_Swedish_Crim	v1	14749	1503	6	.04	.39
 infopankki	v1	ELRC-416-Swedish_Social_Secur	v1	14749	863	7	.04	.81
 infopankki	v1	ELRC_416	v1	14749	862	7	.04	.81
+infopankki	v1	Europarl	v3	14749	1136242	5	.03	0
 infopankki	v1	ELRC-1770-valtioneuvosto.fi	v1	14749	49084	5	.03	.01
 infopankki	v1	ELRC-valtioneuvosto.fi	v1	14749	49084	5	.03	.01
 infopankki	v1	WikiMatrix	v1	14749	546289	3	.02	0

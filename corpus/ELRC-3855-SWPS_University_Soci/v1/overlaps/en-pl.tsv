@@ -1,8 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3855-SWPS_University_Soci	v1	DGT	v2019	1260	3659053	62	4.92	0
+ELRC-3855-SWPS_University_Soci	v1	DGT	v4	1260	1966769	62	4.92	0
+ELRC-3855-SWPS_University_Soci	v1	MultiCCAligned	v1	1260	25790086	35	2.77	0
 ELRC-3855-SWPS_University_Soci	v1	CCAligned	v1	1260	12846330	33	2.61	0
 ELRC-3855-SWPS_University_Soci	v1	CCMatrix	v1	1260	73625347	25	1.98	0
+ELRC-3855-SWPS_University_Soci	v1	NLLB	v1	1260	73623674	25	1.98	0
 ELRC-3855-SWPS_University_Soci	v1	ParaCrawl	v9	1260	40082038	25	1.98	0
+ELRC-3855-SWPS_University_Soci	v1	ParaCrawl	v8	1260	45358407	21	1.66	0
 ELRC-3855-SWPS_University_Soci	v1	JRC-Acquis	v3.0	1260	1048242	21	1.66	0
 ELRC-3855-SWPS_University_Soci	v1	TildeMODEL	v2018	1260	2124677	18	1.42	0
 ELRC-3855-SWPS_University_Soci	v1	EUbookshop	v2	1260	461498	18	1.42	0
@@ -12,7 +16,11 @@ ELRC-3855-SWPS_University_Soci	v1	XLEnt	v1.2	1260	5202602	7	.55	0
 ELRC-3855-SWPS_University_Soci	v1	ELRC-3555-Law_Higher_Education	v1	1260	2680	7	.55	.26
 ELRC-3855-SWPS_University_Soci	v1	OpenSubtitles	v2018	1260	34512858	4	.31	0
 ELRC-3855-SWPS_University_Soci	v1	LinguaTools-WikiTitles	v2014	1260	8003882	4	.31	0
+ELRC-3855-SWPS_University_Soci	v1	ParaCrawl	v1	1260	1270691	4	.31	0
+ELRC-3855-SWPS_University_Soci	v1	MultiParaCrawl	v7.1	1260	13744836	3	.23	0
 ELRC-3855-SWPS_University_Soci	v1	KDE4	v2	1260	160232	3	.23	0
+ELRC-3855-SWPS_University_Soci	v1	OpenSubtitles	v2016	1260	22955941	2	.15	0
+ELRC-3855-SWPS_University_Soci	v1	ParaCrawl	v7.1	1260	13744835	2	.15	0
 ELRC-3855-SWPS_University_Soci	v1	ELRC-2885-EU_publications_medi	v1	1260	12751	2	.15	.01
 ELRC-3855-SWPS_University_Soci	v1	ELRC-EU_publications	v1	1260	12751	2	.15	.01
 ELRC-3855-SWPS_University_Soci	v1	ELRC-953-Centre_Nuclear_Resea	v1	1260	2756	2	.15	.07
@@ -37,6 +45,8 @@ ELRC-3855-SWPS_University_Soci	v1	EuroPat	v2	1260	88959	1	.07	0
 ELRC-3855-SWPS_University_Soci	v1	ELRC-1120-CORDIS_News	v1	1260	87745	1	.07	0
 ELRC-3855-SWPS_University_Soci	v1	ELRC-CORDIS_News	v1	1260	87745	1	.07	0
 ELRC-3855-SWPS_University_Soci	v1	ECB	v1	1260	73127	1	.07	0
+ELRC-3855-SWPS_University_Soci	v1	wikimedia	v20230407	1260	72787	1	.07	0
+ELRC-3855-SWPS_University_Soci	v1	Tatoeba	v2023-04-12	1260	55895	1	.07	0
 ELRC-3855-SWPS_University_Soci	v1	Tatoeba	v2022-03-03	1260	54736	1	.07	0
 ELRC-3855-SWPS_University_Soci	v1	Tatoeba	v2021-07-22	1260	54279	1	.07	0
 ELRC-3855-SWPS_University_Soci	v1	Tatoeba	v2021-03-10	1260	54235	1	.07	0
@@ -125,7 +135,10 @@ ELRC-3855-SWPS_University_Soci	v1	ELRC-416-Swedish_Social_Secur	v1	1260	111	1	.0
 ELRC-3855-SWPS_University_Soci	v1	ELRC-873-Development	v1	1260	82	1	.07	1.21
 ELRC-3855-SWPS_University_Soci	v1	ELRC-648-Letter_rights_person	v1	1260	63	1	.07	1.58
 ELRC-3855-SWPS_University_Soci	v1	ELRC-403-Rights_Arrested	v1	1260	24	1	.07	4.16
+ELRC-3855-SWPS_University_Soci	v1	ParaCrawl	v5	1260	6336749	0	0	0
+ELRC-3855-SWPS_University_Soci	v1	ParaCrawl	v4	1260	3483752	0	0	0
 ELRC-3855-SWPS_University_Soci	v1	Europarl	v8	1260	613356	0	0	0
+ELRC-3855-SWPS_University_Soci	v1	Europarl	v7	1260	612713	0	0	0
 ELRC-3855-SWPS_University_Soci	v1	QED	v2.0a	1260	482625	0	0	0
 ELRC-3855-SWPS_University_Soci	v1	Wikipedia	v1.0	1260	168603	0	0	0
 ELRC-3855-SWPS_University_Soci	v1	TED2013	v1.1	1260	148046	0	0	0

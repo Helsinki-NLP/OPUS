@@ -2,9 +2,14 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2017q3	GlobalVoices	v2018q4	3589	4265	3542	98.69	83.04
 GlobalVoices	v2017q3	GlobalVoices	v2015	3589	2573	2505	69.79	97.35
 GlobalVoices	v2017q3	CCMatrix	v1	3589	55211939	689	19.19	0
+GlobalVoices	v2017q3	NLLB	v1	3589	55210599	689	19.19	0
 GlobalVoices	v2017q3	ParaCrawl	v9	3589	25048458	652	18.16	0
+GlobalVoices	v2017q3	ParaCrawl	v8	3589	13376411	387	10.78	0
 GlobalVoices	v2017q3	OpenSubtitles	v2018	3589	39424613	18	.50	0
+GlobalVoices	v2017q3	OpenSubtitles	v2016	3589	31406516	17	.47	0
+GlobalVoices	v2017q3	ParaCrawl	v1	3589	2454740	8	.22	0
 GlobalVoices	v2017q3	Europarl	v8	3589	386478	8	.22	0
+GlobalVoices	v2017q3	Europarl	v7	3589	386074	8	.22	0
 GlobalVoices	v2017q3	XLEnt	v1.1	3589	3120821	7	.19	0
 GlobalVoices	v2017q3	XLEnt	v1.2	3589	3120821	7	.19	0
 GlobalVoices	v2017q3	XLEnt	v1	3589	3120821	7	.19	0
@@ -19,6 +24,7 @@ GlobalVoices	v2017q3	SETIMES	v2	3589	211067	5	.13	0
 GlobalVoices	v2017q3	ELITR-ECA	v1	3589	81205	5	.13	0
 GlobalVoices	v2017q3	OpenSubtitles	v1	3589	253380	4	.11	0
 GlobalVoices	v2017q3	TED2020	v1	3589	320760	3	.08	0
+GlobalVoices	v2017q3	MultiCCAligned	v1	3589	10463174	2	.05	0
 GlobalVoices	v2017q3	CCAligned	v1	3589	10462991	2	.05	0
 GlobalVoices	v2017q3	TildeMODEL	v2018	3589	1895503	2	.05	0
 GlobalVoices	v2017q3	NeuLab-TedTalks	v1	3589	191770	2	.05	0
@@ -26,9 +32,14 @@ GlobalVoices	v2017q3	TED2013	v1.1	3589	157384	2	.05	0
 GlobalVoices	v2017q3	ELRC-435-Romanian_New_Crimina	v1	3589	6231	2	.05	.03
 GlobalVoices	v2017q3	ELRA-W0170	v1	3589	6230	2	.05	.03
 GlobalVoices	v2017q3	ELRC-1819-EIR	v1	3589	4991	2	.05	.04
+GlobalVoices	v2017q3	MultiParaCrawl	v7.1	3589	6160526	1	.02	0
+GlobalVoices	v2017q3	ParaCrawl	v7.1	3589	6160525	1	.02	0
+GlobalVoices	v2017q3	DGT	v4	3589	1073269	1	.02	0
 GlobalVoices	v2017q3	ELRC-2728-EMEA	v1	3589	777379	1	.02	0
 GlobalVoices	v2017q3	ELRC-EMEA	v1	3589	777379	1	.02	0
+GlobalVoices	v2017q3	wikimedia	v20230407	3589	304464	1	.02	0
 GlobalVoices	v2017q3	Tanzil	v1	3589	131605	1	.02	0
+GlobalVoices	v2017q3	Tatoeba	v2023-04-12	3589	16283	1	.02	0
 GlobalVoices	v2017q3	Tatoeba	v2022-03-03	3589	15250	1	.02	0
 GlobalVoices	v2017q3	Tatoeba	v2021-07-22	3589	15159	1	.02	0
 GlobalVoices	v2017q3	Tatoeba	v2021-03-10	3589	15138	1	.02	0
@@ -41,6 +52,8 @@ GlobalVoices	v2017q3	WMT-News	v2019	3589	3998	1	.02	.02
 GlobalVoices	v2017q3	Tatoeba	v2	3589	3535	1	.02	.02
 GlobalVoices	v2017q3	ELRC-3305-EUROPARL_covid	v1	3589	546	1	.02	.18
 GlobalVoices	v2017q3	ELRC-EUROPARL_covid	v1	3589	546	1	.02	.18
+GlobalVoices	v2017q3	ParaCrawl	v5	3589	2855026	0	0	0
+GlobalVoices	v2017q3	ParaCrawl	v4	3589	1944574	0	0	0
 GlobalVoices	v2017q3	WikiMatrix	v1	3589	631486	0	0	0
 GlobalVoices	v2017q3	EUbookshop	v2	3589	278716	0	0	0
 GlobalVoices	v2017q3	wikimedia	v20210402	3589	227392	0	0	0

@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-Swedish_Labour	v1	41	211	41	100.00	19.43
 ELRC-406-Swedish_Labour_Part1	v1	ParaCrawl	v9	41	31315288	1	2.43	0
+ELRC-406-Swedish_Labour_Part1	v1	ParaCrawl	v8	41	15301964	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-4239-NTEU_TierA	v1	41	12577938	1	2.43	0
+ELRC-406-Swedish_Labour_Part1	v1	MultiCCAligned	v1	41	9646186	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	CCAligned	v1	41	9646025	1	2.43	0
+ELRC-406-Swedish_Labour_Part1	v1	MultiParaCrawl	v7.1	41	7268809	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	LinguaTools-WikiTitles	v2014	41	4873168	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	XLEnt	v1.1	41	2501315	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	XLEnt	v1.2	41	2501315	1	2.43	0
@@ -12,6 +15,7 @@ ELRC-406-Swedish_Labour_Part1	v1	ELRC-EMEA	v1	41	746684	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-5067-SciPar	v1	41	457342	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	WikiMatrix	v1	41	375724	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	ELITR-ECA	v1	41	321871	1	2.43	0
+ELRC-406-Swedish_Labour_Part1	v1	Tatoeba	v2023-04-12	41	81642	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	Tatoeba	v2022-03-03	41	81194	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	Tatoeba	v2021-07-22	41	80545	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	Tatoeba	v2021-03-10	41	80040	1	2.43	0
@@ -24,6 +28,7 @@ ELRC-406-Swedish_Labour_Part1	v1	ELRC-735-www.norden.org	v1	41	42742	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-www.norden.org	v1	41	42742	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-1127-www.vtv.fi	v1	41	42629	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-www.vtv.fi	v1	41	42629	1	2.43	0
+ELRC-406-Swedish_Labour_Part1	v1	wikimedia	v20230407	41	41022	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	wikimedia	v20210402	41	32290	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-1771-vnk.fi	v1	41	31527	1	2.43	0
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-vnk.fi	v1	41	31527	1	2.43	0
@@ -61,11 +66,20 @@ ELRC-406-Swedish_Labour_Part1	v1	ELRC-wikipedia_health	v1	41	334	1	2.43	.29
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-401-Swedish_Labour_Part2	v1	41	171	1	2.43	.58
 ELRC-406-Swedish_Labour_Part1	v1	ELRC-436-Swedish_Food	v1	41	16	1	2.43	6.25
 ELRC-406-Swedish_Labour_Part1	v1	CCMatrix	v1	41	35804134	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	NLLB	v1	41	35803625	0	0	0
 ELRC-406-Swedish_Labour_Part1	v1	OpenSubtitles	v2018	41	23382097	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	OpenSubtitles	v2016	41	16640273	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	ParaCrawl	v7.1	41	7268808	0	0	0
 ELRC-406-Swedish_Labour_Part1	v1	DGT	v2019	41	3624390	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	ParaCrawl	v5	41	3076136	0	0	0
 ELRC-406-Swedish_Labour_Part1	v1	TildeMODEL	v2018	41	3022117	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	ParaCrawl	v4	41	2142942	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	DGT	v4	41	1951585	0	0	0
 ELRC-406-Swedish_Labour_Part1	v1	Europarl	v8	41	1920092	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	Europarl	v7	41	1919709	0	0	0
 ELRC-406-Swedish_Labour_Part1	v1	EUbookshop	v2	41	1828277	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	Europarl	v3	41	1233965	0	0	0
+ELRC-406-Swedish_Labour_Part1	v1	ParaCrawl	v1	41	618374	0	0	0
 ELRC-406-Swedish_Labour_Part1	v1	EMEA	v3	41	352115	0	0	0
 ELRC-406-Swedish_Labour_Part1	v1	ECB	v1	41	157318	0	0	0
 ELRC-406-Swedish_Labour_Part1	v1	OpenSubtitles	v1	41	103215	0	0	0

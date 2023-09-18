@@ -2,12 +2,20 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 TedTalks	v1	QED	v2.0a	81962	196487	60368	73.65	30.72
 TedTalks	v1	TED2020	v1	81962	192409	58638	71.54	30.47
 TedTalks	v1	NeuLab-TedTalks	v1	81962	124970	42875	52.31	34.30
+TedTalks	v1	ParaCrawl	v8	81962	11063124	3265	3.98	.02
 TedTalks	v1	CCMatrix	v1	81962	18694537	1839	2.24	0
+TedTalks	v1	NLLB	v1	81962	18694206	1839	2.24	0
 TedTalks	v1	OpenSubtitles	v2018	81962	28591047	1490	1.81	0
+TedTalks	v1	OpenSubtitles	v2016	81962	22002428	1374	1.67	0
+TedTalks	v1	ParaCrawl	v7.1	81962	6959288	872	1.06	.01
+TedTalks	v1	MultiParaCrawl	v7.1	81962	6959286	872	1.06	.01
+TedTalks	v1	MultiCCAligned	v1	81962	9327209	662	.80	0
 TedTalks	v1	CCAligned	v1	81962	9327047	662	.80	0
 TedTalks	v1	ParaCrawl	v9	81962	3240421	619	.75	.01
 TedTalks	v1	ELRC-4142-NTEU_TierA	v1	81962	2273079	25	.03	0
 TedTalks	v1	OpenSubtitles	v1	81962	6635	32	.03	.48
+TedTalks	v1	ParaCrawl	v5	81962	1846962	22	.02	0
+TedTalks	v1	ParaCrawl	v4	81962	995511	9	.01	0
 TedTalks	v1	TildeMODEL	v2018	81962	736487	11	.01	0
 TedTalks	v1	SETIMES	v2	81962	204109	12	.01	0
 TedTalks	v1	hrenWaC	v1	81962	96379	15	.01	.01
@@ -26,6 +34,7 @@ TedTalks	v1	KDE4	v2	81962	81410	1	0	0
 TedTalks	v1	EuroPat	v2	81962	75105	0	0	0
 TedTalks	v1	ELRC-2542-Agriculture	v1	81962	68113	2	0	0
 TedTalks	v1	bible-uedin	v1	81962	61623	0	0	0
+TedTalks	v1	wikimedia	v20230407	81962	40443	2	0	0
 TedTalks	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	81962	40102	0	0	0
 TedTalks	v1	ELRC-3556-EUR_LEX_covid	v1	81962	21997	0	0	0
 TedTalks	v1	ELRC-EUR_LEX	v1	81962	21997	0	0	0
@@ -63,6 +72,7 @@ TedTalks	v1	ELRC-Foreign_Affairs	v1	81962	3103	0	0	0
 TedTalks	v1	ELRA-W0293	v1	81962	3102	0	0	0
 TedTalks	v1	ELRC-3478-EC_EUROPA_covid	v1	81962	2595	1	0	.03
 TedTalks	v1	ELRC-EC_EUROPA	v1	81962	2595	1	0	.03
+TedTalks	v1	Tatoeba	v2023-04-12	81962	2444	7	0	.28
 TedTalks	v1	Tatoeba	v2022-03-03	81962	2431	7	0	.28
 TedTalks	v1	Tatoeba	v2021-07-22	81962	2428	7	0	.28
 TedTalks	v1	Tatoeba	v2021-03-10	81962	2416	7	0	.28

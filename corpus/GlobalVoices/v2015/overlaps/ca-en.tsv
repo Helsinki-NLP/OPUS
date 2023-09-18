@@ -2,13 +2,17 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2015	GlobalVoices	v2017q3	19645	20884	19555	99.54	93.63
 GlobalVoices	v2015	GlobalVoices	v2018q4	19645	6878	6824	34.73	99.21
 GlobalVoices	v2015	CCMatrix	v1	19645	21161566	2335	11.88	.01
+GlobalVoices	v2015	NLLB	v1	19645	21161243	2335	11.88	.01
 GlobalVoices	v2015	OpenSubtitles	v2018	19645	427132	34	.17	0
+GlobalVoices	v2015	OpenSubtitles	v2016	19645	350371	30	.15	0
+GlobalVoices	v2015	MultiCCAligned	v1	19645	5774694	18	.09	0
 GlobalVoices	v2015	CCAligned	v1	19645	5774598	18	.09	0
 GlobalVoices	v2015	XLEnt	v1.1	19645	2809447	16	.08	0
 GlobalVoices	v2015	XLEnt	v1	19645	2809447	16	.08	0
 GlobalVoices	v2015	XLEnt	v1.2	19645	2809447	16	.08	0
 GlobalVoices	v2015	KDE4	v2	19645	143938	16	.08	.01
 GlobalVoices	v2015	QED	v2.0a	19645	69816	16	.08	.02
+GlobalVoices	v2015	wikimedia	v20230407	19645	386194	9	.04	0
 GlobalVoices	v2015	wikimedia	v20210402	19645	208067	8	.04	0
 GlobalVoices	v2015	TED2020	v1	19645	51400	7	.03	.01
 GlobalVoices	v2015	WikiMatrix	v1	19645	1205909	2	.01	0
@@ -18,6 +22,7 @@ GlobalVoices	v2015	Books	v1	19645	4580	1	0	.02
 GlobalVoices	v2015	EUbookshop	v2	19645	3740	0	0	0
 GlobalVoices	v2015	ELRC-5189-Catalan_WMT2013_Mach	v1	19645	2999	1	0	.03
 GlobalVoices	v2015	GNOME	v1	19645	2179	0	0	0
+GlobalVoices	v2015	Tatoeba	v2023-04-12	19645	1884	1	0	.05
 GlobalVoices	v2015	Tatoeba	v2022-03-03	19645	1860	1	0	.05
 GlobalVoices	v2015	Tatoeba	v2021-07-22	19645	1855	1	0	.05
 GlobalVoices	v2015	Tatoeba	v2021-03-10	19645	1843	1	0	.05

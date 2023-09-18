@@ -1,8 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EuroPat	v3	EuroPat	v2	4341459	4050341	3881622	89.40	95.83
+EuroPat	v3	ParaCrawl	v8	4341459	59090055	30	0	0
 EuroPat	v3	CCMatrix	v1	4341459	47571364	15	0	0
+EuroPat	v3	NLLB	v1	4341459	47570737	15	0	0
+EuroPat	v3	MultiCCAligned	v1	4341459	9133068	7	0	0
 EuroPat	v3	CCAligned	v1	4341459	9132909	7	0	0
 EuroPat	v3	OpenSubtitles	v2018	4341459	7354902	8	0	0
+EuroPat	v3	OpenSubtitles	v2016	4341459	4876710	3	0	0
 EuroPat	v3	XLEnt	v1.1	4341459	2048811	1	0	0
 EuroPat	v3	XLEnt	v1.2	4341459	2048811	1	0	0
 EuroPat	v3	XLEnt	v1	4341459	2048811	1	0	0
@@ -24,6 +28,7 @@ EuroPat	v3	ELRC-4992-Customer_Support_MT	v1	4341459	1368	1	0	.07
 EuroPat	v3	ELRC-3071-wikipedia_health	v1	4341459	686	1	0	.14
 EuroPat	v3	ELRC-wikipedia_health	v1	4341459	686	1	0	.14
 EuroPat	v3	ELRC_2922	v1	4341459	685	0	0	0
+EuroPat	v3	wikimedia	v20230407	4341459	252	1	0	.39
 EuroPat	v3	wikimedia	v20210402	4341459	213	1	0	.46
 EuroPat	v3	wikimedia	v20190628	4341459	86	0	0	0
 EuroPat	v3	ELRC-2638-monumentos_2007	v1	4341459	4	1	0	25.00

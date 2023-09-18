@@ -1,8 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-854-www.geus.dk	v1	ELRC-4248-NTEU_TierA	v1	1654	13598397	1654	100.00	.01
 ELRC-854-www.geus.dk	v1	CCMatrix	v1	1654	51996397	450	27.20	0
+ELRC-854-www.geus.dk	v1	NLLB	v1	1654	51995658	450	27.20	0
 ELRC-854-www.geus.dk	v1	ParaCrawl	v9	1654	34207153	406	24.54	0
+ELRC-854-www.geus.dk	v1	ParaCrawl	v8	1654	41939064	405	24.48	0
+ELRC-854-www.geus.dk	v1	MultiCCAligned	v1	1654	10687333	18	1.08	0
 ELRC-854-www.geus.dk	v1	CCAligned	v1	1654	10687146	18	1.08	0
+ELRC-854-www.geus.dk	v1	MultiParaCrawl	v7.1	1654	10407633	2	.12	0
+ELRC-854-www.geus.dk	v1	ParaCrawl	v7.1	1654	10407632	1	.06	0
 ELRC-854-www.geus.dk	v1	LinguaTools-WikiTitles	v2014	1654	2968008	1	.06	0
 ELRC-854-www.geus.dk	v1	XLEnt	v1.1	1654	2832109	1	.06	0
 ELRC-854-www.geus.dk	v1	XLEnt	v1	1654	2832109	1	.06	0
@@ -12,11 +17,13 @@ ELRC-854-www.geus.dk	v1	ELRC-EMEA	v1	1654	767928	1	.06	0
 ELRC-854-www.geus.dk	v1	WikiMatrix	v1	1654	436050	1	.06	0
 ELRC-854-www.geus.dk	v1	ELITR-ECA	v1	1654	117419	1	.06	0
 ELRC-854-www.geus.dk	v1	TED2020	v1	1654	70497	1	.06	0
+ELRC-854-www.geus.dk	v1	wikimedia	v20230407	1654	67071	1	.06	0
 ELRC-854-www.geus.dk	v1	NeuLab-TedTalks	v1	1654	47296	1	.06	0
 ELRC-854-www.geus.dk	v1	wikimedia	v20210402	1654	40624	1	.06	0
 ELRC-854-www.geus.dk	v1	ELRC-847-mst.dk	v1	1654	36733	1	.06	0
 ELRC-854-www.geus.dk	v1	ELRC-730-www.norden.org	v1	1654	36624	1	.06	0
 ELRC-854-www.geus.dk	v1	ELRC-www.norden.org	v1	1654	36624	1	.06	0
+ELRC-854-www.geus.dk	v1	Tatoeba	v2023-04-12	1654	32727	1	.06	0
 ELRC-854-www.geus.dk	v1	Tatoeba	v2022-03-03	1654	31862	1	.06	0
 ELRC-854-www.geus.dk	v1	Tatoeba	v2021-07-22	1654	30835	1	.06	0
 ELRC-854-www.geus.dk	v1	Tatoeba	v2021-03-10	1654	30475	1	.06	0
@@ -70,9 +77,15 @@ ELRC-854-www.geus.dk	v1	ELRC-wikipedia_health	v1	1654	523	1	.06	.19
 ELRC-854-www.geus.dk	v1	ELRC-2754-vaccination	v1	1654	461	1	.06	.21
 ELRC-854-www.geus.dk	v1	ELRC-vaccination	v1	1654	461	1	.06	.21
 ELRC-854-www.geus.dk	v1	OpenSubtitles	v2018	1654	12095471	0	0	0
+ELRC-854-www.geus.dk	v1	OpenSubtitles	v2016	1654	9378053	0	0	0
+ELRC-854-www.geus.dk	v1	ParaCrawl	v5	1654	4569268	0	0	0
 ELRC-854-www.geus.dk	v1	EUbookshop	v2	1654	4495240	0	0	0
 ELRC-854-www.geus.dk	v1	DGT	v2019	1654	3567131	0	0	0
+ELRC-854-www.geus.dk	v1	ParaCrawl	v4	1654	2395328	0	0	0
 ELRC-854-www.geus.dk	v1	Europarl	v8	1654	1949878	0	0	0
+ELRC-854-www.geus.dk	v1	Europarl	v7	1654	1949502	0	0	0
+ELRC-854-www.geus.dk	v1	DGT	v4	1654	1946755	0	0	0
+ELRC-854-www.geus.dk	v1	Europarl	v3	1654	1276675	0	0	0
 ELRC-854-www.geus.dk	v1	ELRC_2682	v1	1654	767927	0	0	0
 ELRC-854-www.geus.dk	v1	JRC-Acquis	v3.0	1654	502171	0	0	0
 ELRC-854-www.geus.dk	v1	EMEA	v3	1654	355116	0	0	0

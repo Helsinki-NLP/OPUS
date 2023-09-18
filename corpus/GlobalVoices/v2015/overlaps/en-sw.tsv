@@ -1,15 +1,22 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2015	GlobalVoices	v2017q3	25687	29276	25520	99.34	87.17
 GlobalVoices	v2015	GlobalVoices	v2018q4	25687	30334	24636	95.90	81.21
+GlobalVoices	v2015	NLLB	v1	25687	23433143	4408	17.16	.01
 GlobalVoices	v2015	CCMatrix	v1	25687	5718273	3651	14.21	.06
+GlobalVoices	v2015	GoURMET	v2	25687	104123	647	2.51	.62
 GlobalVoices	v2015	XLEnt	v1.1	25687	846392	19	.07	0
 GlobalVoices	v2015	XLEnt	v1.2	25687	846392	19	.07	0
 GlobalVoices	v2015	XLEnt	v1	25687	846392	19	.07	0
+GlobalVoices	v2015	MultiCCAligned	v1	25687	2035176	8	.03	0
 GlobalVoices	v2015	CCAligned	v1	25687	2035139	8	.03	0
 GlobalVoices	v2015	TED2020	v1	25687	9473	3	.01	.03
 GlobalVoices	v2015	Tanzil	v1	25687	134382	0	0	0
+GlobalVoices	v2015	MultiParaCrawl	v7.1	25687	131579	0	0	0
+GlobalVoices	v2015	ParaCrawl	v8	25687	131579	0	0	0
 GlobalVoices	v2015	ParaCrawl	v9	25687	131579	0	0	0
+GlobalVoices	v2015	ParaCrawl	v7.1	25687	131578	0	0	0
 GlobalVoices	v2015	WikiMatrix	v1	25687	51387	0	0	0
+GlobalVoices	v2015	wikimedia	v20230407	25687	14789	0	0	0
 GlobalVoices	v2015	wikimedia	v20210402	25687	3626	0	0	0
 GlobalVoices	v2015	tico-19	v2020-10-28	25687	3070	0	0	0
 GlobalVoices	v2015	Ubuntu	v14.10	25687	971	0	0	0

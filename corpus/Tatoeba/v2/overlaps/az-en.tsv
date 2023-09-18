@@ -1,12 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tatoeba	v2	Tatoeba	v2023-04-12	392	3695	364	92.85	9.85
 Tatoeba	v2	Tatoeba	v2022-03-03	392	3673	364	92.85	9.91
 Tatoeba	v2	Tatoeba	v2021-07-22	392	3672	364	92.85	9.91
 Tatoeba	v2	Tatoeba	v2021-03-10	392	3671	364	92.85	9.91
 Tatoeba	v2	Tatoeba	v2020-11-09	392	3667	364	92.85	9.92
 Tatoeba	v2	Tatoeba	v2020-05-31	392	3659	364	92.85	9.94
 Tatoeba	v2	Tatoeba	v20190709	392	3648	364	92.85	9.97
+Tatoeba	v2	NLLB	v1	392	74261845	13	3.31	0
 Tatoeba	v2	QED	v2.0a	392	15551	2	.51	.01
 Tatoeba	v2	TED2020	v1	392	11355	1	.25	0
+Tatoeba	v2	MultiCCAligned	v1	392	1169961	0	0	0
 Tatoeba	v2	CCAligned	v1	392	1169942	0	0	0
 Tatoeba	v2	CCMatrix	v1	392	1148843	0	0	0
 Tatoeba	v2	XLEnt	v1.1	392	290950	0	0	0
@@ -14,6 +17,7 @@ Tatoeba	v2	XLEnt	v1.2	392	290950	0	0	0
 Tatoeba	v2	XLEnt	v1	392	290950	0	0	0
 Tatoeba	v2	Tanzil	v1	392	267308	0	0	0
 Tatoeba	v2	WikiMatrix	v1	392	71277	0	0	0
+Tatoeba	v2	wikimedia	v20230407	392	24794	0	0	0
 Tatoeba	v2	wikimedia	v20210402	392	10041	0	0	0
 Tatoeba	v2	GNOME	v1	392	9529	0	0	0
 Tatoeba	v2	NeuLab-TedTalks	v1	392	6341	0	0	0

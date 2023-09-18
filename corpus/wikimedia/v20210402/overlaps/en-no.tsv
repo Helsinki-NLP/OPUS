@@ -1,16 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	213	252	213	100.00	84.52
 wikimedia	v20210402	wikimedia	v20190628	213	86	39	18.30	45.34
 wikimedia	v20210402	WikiMatrix	v1	213	636472	14	6.57	0
 wikimedia	v20210402	CCMatrix	v1	213	47571364	4	1.87	0
+wikimedia	v20210402	NLLB	v1	213	47570737	4	1.87	0
 wikimedia	v20210402	XLEnt	v1.1	213	2048811	3	1.40	0
 wikimedia	v20210402	XLEnt	v1	213	2048811	3	1.40	0
 wikimedia	v20210402	XLEnt	v1.2	213	2048811	3	1.40	0
+wikimedia	v20210402	MultiCCAligned	v1	213	9133068	2	.93	0
 wikimedia	v20210402	CCAligned	v1	213	9132909	2	.93	0
 wikimedia	v20210402	ELRC-2719-EMEA	v1	213	574124	2	.93	0
 wikimedia	v20210402	ELRC-EMEA	v1	213	574124	2	.93	0
 wikimedia	v20210402	ELRC-729-www.norden.org	v1	213	28541	2	.93	0
 wikimedia	v20210402	ELRC-www.norden.org	v1	213	28541	2	.93	0
 wikimedia	v20210402	ECDC	v2016-03-16	213	2443	2	.93	.08
+wikimedia	v20210402	ParaCrawl	v8	213	59090055	1	.46	0
 wikimedia	v20210402	EuroPat	v3	213	4341459	1	.46	0
 wikimedia	v20210402	EuroPat	v2	213	4050341	1	.46	0
 wikimedia	v20210402	GNOME	v1	213	8910	1	.46	.01
@@ -22,6 +26,7 @@ wikimedia	v20210402	ELRC-2638-monumentos_2007	v1	213	4	1	.46	25.00
 wikimedia	v20210402	ELRC-2612-Artigos_visitportuga	v1	213	2	1	.46	50.00
 wikimedia	v20210402	ELRC-Artigos_visitportuga	v1	213	2	1	.46	50.00
 wikimedia	v20210402	OpenSubtitles	v2018	213	7354902	0	0	0
+wikimedia	v20210402	OpenSubtitles	v2016	213	4876710	0	0	0
 wikimedia	v20210402	TildeMODEL	v2018	213	341163	0	0	0
 wikimedia	v20210402	Tanzil	v1	213	132704	0	0	0
 wikimedia	v20210402	OpenSubtitles	v1	213	65399	0	0	0

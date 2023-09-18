@@ -1,9 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2037-www.vero.fi	v1	ELRC-www.vero.fi	v1	22317	22317	22317	100.00	100.00
 ELRC-2037-www.vero.fi	v1	ParaCrawl	v9	22317	49109340	7241	32.44	.01
+ELRC-2037-www.vero.fi	v1	ParaCrawl	v8	22317	44066654	4085	18.30	0
 ELRC-2037-www.vero.fi	v1	CCMatrix	v1	22317	76586290	3063	13.72	0
+ELRC-2037-www.vero.fi	v1	NLLB	v1	22317	76584927	3063	13.72	0
+ELRC-2037-www.vero.fi	v1	MultiParaCrawl	v7.1	22317	11645803	2643	11.84	.02
+ELRC-2037-www.vero.fi	v1	ParaCrawl	v7.1	22317	11645802	2632	11.79	.02
 ELRC-2037-www.vero.fi	v1	ELRC-4268-NTEU_TierA	v1	22317	12468100	168	.75	0
 ELRC-2037-www.vero.fi	v1	DGT	v2019	22317	3635425	128	.57	0
+ELRC-2037-www.vero.fi	v1	DGT	v4	22317	1968717	125	.56	0
+ELRC-2037-www.vero.fi	v1	MultiCCAligned	v1	22317	12482516	101	.45	0
 ELRC-2037-www.vero.fi	v1	CCAligned	v1	22317	12482304	101	.45	0
 ELRC-2037-www.vero.fi	v1	LinguaTools-WikiTitles	v2014	22317	7759117	64	.28	0
 ELRC-2037-www.vero.fi	v1	TildeMODEL	v2018	22317	3185574	60	.26	0
@@ -11,6 +17,7 @@ ELRC-2037-www.vero.fi	v1	KDE4	v2	22317	192221	48	.21	.02
 ELRC-2037-www.vero.fi	v1	XLEnt	v1.1	22317	3403994	44	.19	0
 ELRC-2037-www.vero.fi	v1	XLEnt	v1.2	22317	3403994	44	.19	0
 ELRC-2037-www.vero.fi	v1	XLEnt	v1	22317	3403994	44	.19	0
+ELRC-2037-www.vero.fi	v1	ParaCrawl	v5	22317	6027448	31	.13	0
 ELRC-2037-www.vero.fi	v1	EUbookshop	v2	22317	1753373	24	.10	0
 ELRC-2037-www.vero.fi	v1	ELRC-2725-EMEA	v1	22317	752045	18	.08	0
 ELRC-2037-www.vero.fi	v1	ELRC-EMEA	v1	22317	752045	18	.08	0
@@ -20,6 +27,7 @@ ELRC-2037-www.vero.fi	v1	ELRC-www.vtv.fi	v1	22317	46345	19	.08	.04
 ELRC-2037-www.vero.fi	v1	OpenOffice	v2	22317	32770	18	.08	.05
 ELRC-2037-www.vero.fi	v1	infopankki	v1	22317	14749	15	.06	.10
 ELRC-2037-www.vero.fi	v1	EMEA	v3	22317	347727	11	.04	0
+ELRC-2037-www.vero.fi	v1	wikimedia	v20230407	22317	59125	11	.04	.01
 ELRC-2037-www.vero.fi	v1	ELRC-2026-EUIPO_2017	v1	22317	16947	11	.04	.06
 ELRC-2037-www.vero.fi	v1	ELRC-EUIPO_2017	v1	22317	16947	11	.04	.06
 ELRC-2037-www.vero.fi	v1	ELRC-2884-EU_publications_medi	v1	22317	13089	11	.04	.08
@@ -37,12 +45,15 @@ ELRC-2037-www.vero.fi	v1	wikimedia	v20210402	22317	29811	7	.03	.02
 ELRC-2037-www.vero.fi	v1	ELRC-817-Swedish_Audit_Riksre	v1	22317	28944	7	.03	.02
 ELRC-2037-www.vero.fi	v1	ELRC-2033-www.turku.fi	v1	22317	9704	8	.03	.08
 ELRC-2037-www.vero.fi	v1	ELRC-www.turku.fi	v1	22317	9704	8	.03	.08
+ELRC-2037-www.vero.fi	v1	OpenSubtitles	v2016	22317	10237744	5	.02	0
 ELRC-2037-www.vero.fi	v1	Europarl	v8	22317	1846661	5	.02	0
+ELRC-2037-www.vero.fi	v1	Europarl	v7	22317	1846286	5	.02	0
 ELRC-2037-www.vero.fi	v1	ELRC-1772-vnk.fi	v1	22317	33625	6	.02	.01
 ELRC-2037-www.vero.fi	v1	ELRC-vnk.fi	v1	22317	33625	6	.02	.01
 ELRC-2037-www.vero.fi	v1	ECDC	v2016-03-16	22317	2436	5	.02	.20
 ELRC-2037-www.vero.fi	v1	ELRC-416-Swedish_Social_Secur	v1	22317	863	6	.02	.69
 ELRC-2037-www.vero.fi	v1	ELRC_416	v1	22317	862	5	.02	.58
+ELRC-2037-www.vero.fi	v1	Europarl	v3	22317	1136242	4	.01	0
 ELRC-2037-www.vero.fi	v1	ELRC-928-Annual_Reports_Swedi	v1	22317	10224	3	.01	.02
 ELRC-2037-www.vero.fi	v1	ELRC-829-Swedish_Migration_Bo	v1	22317	8361	3	.01	.03
 ELRC-2037-www.vero.fi	v1	ELRC-Swedish_Migration	v1	22317	8361	3	.01	.03
@@ -51,6 +62,7 @@ ELRC-2037-www.vero.fi	v1	Ubuntu	v14.10	22317	6832	3	.01	.04
 ELRC-2037-www.vero.fi	v1	EUconst	v1	22317	6598	4	.01	.06
 ELRC-2037-www.vero.fi	v1	ELRC-712-Social_Insurance_Frs	v1	22317	1953	3	.01	.15
 ELRC-2037-www.vero.fi	v1	ELRC-823-Swedish_Swedish_Crim	v1	22317	1503	3	.01	.19
+ELRC-2037-www.vero.fi	v1	ParaCrawl	v4	22317	3456794	2	0	0
 ELRC-2037-www.vero.fi	v1	ELRC-5067-SciPar	v1	22317	670816	1	0	0
 ELRC-2037-www.vero.fi	v1	WikiMatrix	v1	22317	546289	1	0	0
 ELRC-2037-www.vero.fi	v1	ELITR-ECA	v1	22317	336379	1	0	0
@@ -61,6 +73,7 @@ ELRC-2037-www.vero.fi	v1	TED2020	v1	22317	117646	1	0	0
 ELRC-2037-www.vero.fi	v1	NeuLab-TedTalks	v1	22317	67599	1	0	0
 ELRC-2037-www.vero.fi	v1	bible-uedin	v1	22317	61422	0	0	0
 ELRC-2037-www.vero.fi	v1	WikiSource	v1	22317	32032	0	0	0
+ELRC-2037-www.vero.fi	v1	Tatoeba	v2023-04-12	22317	26957	1	0	0
 ELRC-2037-www.vero.fi	v1	Tatoeba	v2022-03-03	22317	26220	1	0	0
 ELRC-2037-www.vero.fi	v1	Tatoeba	v2021-07-22	22317	25865	1	0	0
 ELRC-2037-www.vero.fi	v1	Tatoeba	v2021-03-10	22317	25646	1	0	0

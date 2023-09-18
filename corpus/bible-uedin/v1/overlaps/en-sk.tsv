@@ -1,17 +1,27 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 bible-uedin	v1	ParaCrawl	v9	61539	22901691	1774	2.88	0
+bible-uedin	v1	MultiParaCrawl	v7.1	61539	4883370	194	.31	0
+bible-uedin	v1	ParaCrawl	v7.1	61539	4883369	194	.31	0
 bible-uedin	v1	CCMatrix	v1	61539	37874215	184	.29	0
+bible-uedin	v1	NLLB	v1	61539	37873653	184	.29	0
+bible-uedin	v1	ParaCrawl	v4	61539	1576398	94	.15	0
+bible-uedin	v1	ParaCrawl	v5	61539	2337731	83	.13	0
+bible-uedin	v1	ParaCrawl	v8	61539	13010368	39	.06	0
 bible-uedin	v1	ELRC-4154-NTEU_TierA	v1	61539	7753851	0	0	0
 bible-uedin	v1	OpenSubtitles	v2018	61539	7267912	0	0	0
+bible-uedin	v1	MultiCCAligned	v1	61539	6902007	0	0	0
 bible-uedin	v1	CCAligned	v1	61539	6901883	0	0	0
+bible-uedin	v1	OpenSubtitles	v2016	61539	5866246	0	0	0
 bible-uedin	v1	DGT	v2019	61539	3664713	0	0	0
 bible-uedin	v1	XLEnt	v1.1	61539	2448949	0	0	0
 bible-uedin	v1	XLEnt	v1.2	61539	2448949	0	0	0
 bible-uedin	v1	XLEnt	v1	61539	2448949	0	0	0
 bible-uedin	v1	TildeMODEL	v2018	61539	2133398	0	0	0
+bible-uedin	v1	DGT	v4	61539	1989770	0	0	0
 bible-uedin	v1	ELRC-2721-EMEA	v1	61539	774311	0	0	0
 bible-uedin	v1	ELRC-EMEA	v1	61539	774311	0	0	0
 bible-uedin	v1	Europarl	v8	61539	620170	0	0	0
+bible-uedin	v1	Europarl	v7	61539	619796	0	0	0
 bible-uedin	v1	EUbookshop	v2	61539	391461	0	0	0
 bible-uedin	v1	EMEA	v3	61539	334130	0	0	0
 bible-uedin	v1	ELITR-ECA	v1	61539	252908	0	0	0
@@ -25,6 +35,7 @@ bible-uedin	v1	ELRC-5067-SciPar	v1	61539	60468	0	0	0
 bible-uedin	v1	ELRC-3570-EUR_LEX_covid	v1	61539	22470	0	0	0
 bible-uedin	v1	ELRC-EUR_LEX	v1	61539	22470	0	0	0
 bible-uedin	v1	JRC-Acquis	v3.0	61539	21661	0	0	0
+bible-uedin	v1	wikimedia	v20230407	61539	18334	0	0	0
 bible-uedin	v1	ELRC-1179-EUIPO_2017	v1	61539	16311	0	0	0
 bible-uedin	v1	ELRC-EUIPO_2017	v1	61539	16311	0	0	0
 bible-uedin	v1	ELRC-2880-EU_publications_medi	v1	61539	12920	0	0	0

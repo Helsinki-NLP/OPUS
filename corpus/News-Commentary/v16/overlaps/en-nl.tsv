@@ -1,12 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v16	News-Commentary	v14	57086	57085	56031	98.15	98.15
 News-Commentary	v16	CCMatrix	v1	57086	106106500	19444	34.06	.01
+News-Commentary	v16	NLLB	v1	57086	106104992	19444	34.06	.01
 News-Commentary	v16	News-Commentary	v11	57086	19392	17382	30.44	89.63
+News-Commentary	v16	ParaCrawl	v8	57086	98473905	15718	27.53	.01
 News-Commentary	v16	ParaCrawl	v9	57086	89135870	11578	20.28	.01
+News-Commentary	v16	MultiParaCrawl	v7.1	57086	31295016	1580	2.76	0
+News-Commentary	v16	ParaCrawl	v7.1	57086	31295015	1572	2.75	0
 News-Commentary	v16	News-Commentary	v9.0	57086	1808	1033	1.80	57.13
 News-Commentary	v16	News-Commentary	v9.1	57086	1808	1033	1.80	57.13
+News-Commentary	v16	ParaCrawl	v5	57086	10509072	354	.62	0
+News-Commentary	v16	ParaCrawl	v4	57086	5630021	327	.57	0
+News-Commentary	v16	ParaCrawl	v1	57086	2552000	330	.57	.01
 News-Commentary	v16	OpenSubtitles	v2018	57086	30779675	74	.12	0
+News-Commentary	v16	OpenSubtitles	v2016	57086	24279928	71	.12	0
 News-Commentary	v16	Europarl	v8	57086	1986220	31	.05	0
+News-Commentary	v16	Europarl	v7	57086	1985837	31	.05	0
+News-Commentary	v16	Europarl	v3	57086	1291768	25	.04	0
+News-Commentary	v16	MultiCCAligned	v1	57086	36001309	14	.02	0
 News-Commentary	v16	CCAligned	v1	57086	13043190	14	.02	0
 News-Commentary	v16	QED	v2.0a	57086	385191	14	.02	0
 News-Commentary	v16	TED2020	v1	57086	312281	15	.02	0
@@ -20,6 +31,7 @@ News-Commentary	v16	XLEnt	v1.2	57086	5789605	1	0	0
 News-Commentary	v16	XLEnt	v1	57086	5789605	1	0	0
 News-Commentary	v16	DGT	v2019	57086	3543639	0	0	0
 News-Commentary	v16	TildeMODEL	v2018	57086	3481744	5	0	0
+News-Commentary	v16	DGT	v4	57086	1945115	0	0	0
 News-Commentary	v16	WikiMatrix	v1	57086	796508	5	0	0
 News-Commentary	v16	Wikipedia	v1.0	57086	791459	1	0	0
 News-Commentary	v16	ELRC-2707-EMEA	v1	57086	755014	1	0	0
@@ -31,6 +43,8 @@ News-Commentary	v16	ELITR-ECA	v1	57086	249246	1	0	0
 News-Commentary	v16	KDE4	v2	57086	161655	0	0	0
 News-Commentary	v16	ECB	v1	57086	126344	0	0	0
 News-Commentary	v16	Ubuntu	v14.10	57086	110108	0	0	0
+News-Commentary	v16	wikimedia	v20230407	57086	106677	1	0	0
+News-Commentary	v16	Tatoeba	v2023-04-12	57086	79518	5	0	0
 News-Commentary	v16	Tatoeba	v2022-03-03	57086	75815	5	0	0
 News-Commentary	v16	Tatoeba	v2021-07-22	57086	75072	5	0	0
 News-Commentary	v16	Tatoeba	v2021-03-10	57086	74031	5	0	0

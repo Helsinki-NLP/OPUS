@@ -2,14 +2,18 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2015	GlobalVoices	v2017q3	40382	51838	37829	93.67	72.97
 GlobalVoices	v2015	GlobalVoices	v2018q4	40382	58258	37399	92.61	64.19
 GlobalVoices	v2015	CCMatrix	v1	40382	49234443	4358	10.79	0
+GlobalVoices	v2015	NLLB	v1	40382	49233705	4358	10.79	0
+GlobalVoices	v2015	MultiCCAligned	v1	40382	25031776	94	.23	0
 GlobalVoices	v2015	CCAligned	v1	40382	12951374	84	.20	0
 GlobalVoices	v2015	OpenSubtitles	v2018	40382	25630788	78	.19	0
+GlobalVoices	v2015	OpenSubtitles	v2016	40382	19600850	71	.17	0
 GlobalVoices	v2015	UNPC	v1.0	40382	16579281	60	.14	0
 GlobalVoices	v2015	XLEnt	v1.1	40382	5553958	55	.13	0
 GlobalVoices	v2015	XLEnt	v1.2	40382	5553958	55	.13	0
 GlobalVoices	v2015	XLEnt	v1	40382	5553958	55	.13	0
 GlobalVoices	v2015	LinguaTools-WikiTitles	v2014	40382	4598982	47	.11	0
 GlobalVoices	v2015	MultiUN	v1	40382	8210447	35	.08	0
+GlobalVoices	v2015	wikimedia	v20230407	40382	570493	31	.07	0
 GlobalVoices	v2015	wikimedia	v20210402	40382	374343	29	.07	0
 GlobalVoices	v2015	KDE4	v2	40382	105144	28	.06	.02
 GlobalVoices	v2015	Wikipedia	v1.0	40382	146081	17	.04	.01
@@ -26,6 +30,7 @@ GlobalVoices	v2015	News-Commentary	v16	40382	90173	0	0	0
 GlobalVoices	v2015	News-Commentary	v11	40382	83163	0	0	0
 GlobalVoices	v2015	UN	v20090831	40382	63742	1	0	0
 GlobalVoices	v2015	bible-uedin	v1	40382	61540	0	0	0
+GlobalVoices	v2015	Tatoeba	v2023-04-12	40382	30845	3	0	0
 GlobalVoices	v2015	Tatoeba	v2022-03-03	40382	29294	3	0	.01
 GlobalVoices	v2015	Tatoeba	v2021-07-22	40382	27887	3	0	.01
 GlobalVoices	v2015	Tatoeba	v2021-03-10	40382	27848	3	0	.01

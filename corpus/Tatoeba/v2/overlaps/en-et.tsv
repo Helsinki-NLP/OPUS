@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tatoeba	v2	Tatoeba	v2023-04-12	679	2538	622	91.60	24.50
 Tatoeba	v2	Tatoeba	v2021-07-22	679	2448	622	91.60	25.40
 Tatoeba	v2	Tatoeba	v2022-03-03	679	2448	622	91.60	25.40
 Tatoeba	v2	Tatoeba	v2021-03-10	679	2438	622	91.60	25.51
@@ -6,14 +7,23 @@ Tatoeba	v2	Tatoeba	v2020-11-09	679	2426	622	91.60	25.63
 Tatoeba	v2	Tatoeba	v2020-05-31	679	2351	622	91.60	26.45
 Tatoeba	v2	Tatoeba	v20190709	679	2344	622	91.60	26.53
 Tatoeba	v2	OpenSubtitles	v2018	679	10204743	107	15.75	0
+Tatoeba	v2	OpenSubtitles	v2016	679	8489455	98	14.43	0
 Tatoeba	v2	QED	v2.0a	679	159715	15	2.20	0
 Tatoeba	v2	ParaCrawl	v9	679	8539880	12	1.76	0
+Tatoeba	v2	ParaCrawl	v8	679	8585187	11	1.62	0
 Tatoeba	v2	OpenSubtitles	v1	679	27563	11	1.62	.03
+Tatoeba	v2	MultiCCAligned	v1	679	4086863	9	1.32	0
 Tatoeba	v2	CCAligned	v1	679	4086794	9	1.32	0
+Tatoeba	v2	MultiParaCrawl	v7.1	679	3180465	9	1.32	0
+Tatoeba	v2	ParaCrawl	v7.1	679	3180464	9	1.32	0
 Tatoeba	v2	ELRC-4271-NTEU_TierA	v1	679	7730635	7	1.03	0
 Tatoeba	v2	Europarl	v8	679	632077	6	.88	0
+Tatoeba	v2	Europarl	v7	679	631699	6	.88	0
+Tatoeba	v2	ParaCrawl	v1	679	1289766	5	.73	0
 Tatoeba	v2	CCMatrix	v1	679	21877049	3	.44	0
+Tatoeba	v2	NLLB	v1	679	21876691	3	.44	0
 Tatoeba	v2	TildeMODEL	v2018	679	2032695	2	.29	0
+Tatoeba	v2	ParaCrawl	v5	679	1379164	2	.29	0
 Tatoeba	v2	EUbookshop	v2	679	365564	2	.29	0
 Tatoeba	v2	KDE4	v2	679	191995	2	.29	0
 Tatoeba	v2	ELRC-939-vp2006_2016.presiden	v1	679	29520	2	.29	0
@@ -23,12 +33,14 @@ Tatoeba	v2	ELRC-2461-press_releases_Forei	v1	679	15997	2	.29	.01
 Tatoeba	v2	NeuLab-TedTalks	v1	679	11827	2	.29	.01
 Tatoeba	v2	ELRC-393-Estonian_Cabinet_Min	v1	679	11530	2	.29	.01
 Tatoeba	v2	ELRA-W0154	v1	679	11529	2	.29	.01
+Tatoeba	v2	ParaCrawl	v4	679	848980	1	.14	0
 Tatoeba	v2	ELRC-2723-EMEA	v1	679	762693	1	.14	0
 Tatoeba	v2	ELRC-EMEA	v1	679	762693	1	.14	0
 Tatoeba	v2	ELRC_2682	v1	679	762692	1	.14	0
 Tatoeba	v2	EMEA	v3	679	329076	1	.14	0
 Tatoeba	v2	ELRC-431-Estonian_Foreign_Aff	v1	679	27797	1	.14	0
 Tatoeba	v2	ELRA-W0168	v1	679	27796	1	.14	0
+Tatoeba	v2	wikimedia	v20230407	679	23146	1	.14	0
 Tatoeba	v2	wikimedia	v20210402	679	17145	1	.14	0
 Tatoeba	v2	infopankki	v1	679	16764	1	.14	0
 Tatoeba	v2	ELRC-1129-www.visitestonia.com	v1	679	13904	1	.14	0
@@ -42,6 +54,7 @@ Tatoeba	v2	ELRC-3300-EUROPARL_covid	v1	679	632	1	.14	.15
 Tatoeba	v2	ELRC-EUROPARL_covid	v1	679	632	1	.14	.15
 Tatoeba	v2	ELRC_2923	v1	679	393	1	.14	.25
 Tatoeba	v2	DGT	v2019	679	3620944	0	0	0
+Tatoeba	v2	DGT	v4	679	1954038	0	0	0
 Tatoeba	v2	XLEnt	v1.1	679	1677851	0	0	0
 Tatoeba	v2	XLEnt	v1.2	679	1677851	0	0	0
 Tatoeba	v2	XLEnt	v1	679	1677851	0	0	0

@@ -1,8 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+bible-uedin	v1	ParaCrawl	v1	61559	12015289	2500	4.06	.02
+bible-uedin	v1	MultiParaCrawl	v7.1	61559	5364010	2402	3.90	.04
+bible-uedin	v1	ParaCrawl	v8	61559	5364010	2402	3.90	.04
 bible-uedin	v1	ParaCrawl	v9	61559	5364010	2402	3.90	.04
+bible-uedin	v1	ParaCrawl	v7.1	61559	5364009	2403	3.90	.04
+bible-uedin	v1	MultiCCAligned	v1	61559	68711166	773	1.25	0
 bible-uedin	v1	CCMatrix	v1	61559	138875110	593	.96	0
+bible-uedin	v1	NLLB	v1	61559	138865867	593	.96	0
 bible-uedin	v1	CCAligned	v1	61559	13738750	440	.71	0
 bible-uedin	v1	WikiMatrix	v1	61559	1661904	14	.02	0
+bible-uedin	v1	Tatoeba	v2023-04-12	61559	540539	13	.02	0
 bible-uedin	v1	Tatoeba	v2022-03-03	61559	529043	13	.02	0
 bible-uedin	v1	Tatoeba	v2021-07-22	61559	523544	13	.02	0
 bible-uedin	v1	Tatoeba	v2021-03-10	61559	519222	13	.02	0
@@ -12,6 +19,7 @@ bible-uedin	v1	Tatoeba	v20190709	61559	487111	13	.02	0
 bible-uedin	v1	OpenSubtitles	v2018	61559	21152745	9	.01	0
 bible-uedin	v1	Tatoeba	v2	61559	97202	10	.01	.01
 bible-uedin	v1	UNPC	v1.0	61559	19744553	1	0	0
+bible-uedin	v1	OpenSubtitles	v2016	61559	15393688	6	0	0
 bible-uedin	v1	LinguaTools-WikiTitles	v2014	61559	13046006	0	0	0
 bible-uedin	v1	MultiUN	v1	61559	9466296	1	0	0
 bible-uedin	v1	XLEnt	v1.1	61559	7479613	0	0	0
@@ -21,6 +29,7 @@ bible-uedin	v1	WikiTitles	v3	61559	1123821	0	0	0
 bible-uedin	v1	Tanzil	v1	61559	1011655	0	0	0
 bible-uedin	v1	Wikipedia	v1.0	61559	541331	0	0	0
 bible-uedin	v1	QED	v2.0a	61559	522751	0	0	0
+bible-uedin	v1	wikimedia	v20230407	61559	506264	6	0	0
 bible-uedin	v1	TED2020	v1	61559	380258	0	0	0
 bible-uedin	v1	wikimedia	v20210402	61559	316871	0	0	0
 bible-uedin	v1	News-Commentary	v16	61559	257993	0	0	0

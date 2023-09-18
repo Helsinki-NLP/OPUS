@@ -1,7 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1970-governmental_about_M	v1	DGT	v2019	1432	3679234	84	5.86	0
+ELRC-1970-governmental_about_M	v1	DGT	v4	1432	2027952	83	5.79	0
 ELRC-1970-governmental_about_M	v1	EUbookshop	v2	1432	3606516	53	3.70	0
 ELRC-1970-governmental_about_M	v1	JRC-Acquis	v3.0	1432	11923	44	3.07	.36
+ELRC-1970-governmental_about_M	v1	MultiCCAligned	v1	1432	8792897	42	2.93	0
 ELRC-1970-governmental_about_M	v1	CCAligned	v1	1432	8792737	42	2.93	0
 ELRC-1970-governmental_about_M	v1	EUconst	v1	1432	6666	39	2.72	.58
 ELRC-1970-governmental_about_M	v1	ELRC-1986-Constitution_Greece	v1	1432	1022	35	2.44	3.42
@@ -18,20 +20,26 @@ ELRC-1970-governmental_about_M	v1	XLEnt	v1	1432	2799832	9	.62	0
 ELRC-1970-governmental_about_M	v1	XLEnt	v1.2	1432	2799832	9	.62	0
 ELRC-1970-governmental_about_M	v1	ELRC-1020-collection_about_Cyp	v1	1432	1869	9	.62	.48
 ELRC-1970-governmental_about_M	v1	CCMatrix	v1	1432	48860900	6	.41	0
+ELRC-1970-governmental_about_M	v1	NLLB	v1	1432	48859850	6	.41	0
 ELRC-1970-governmental_about_M	v1	LinguaTools-WikiTitles	v2014	1432	1795210	6	.41	0
 ELRC-1970-governmental_about_M	v1	KDE4	v2	1432	125457	5	.34	0
 ELRC-1970-governmental_about_M	v1	ELRC-842-Quarterly_Reports_Pa	v1	1432	16713	5	.34	.02
 ELRC-1970-governmental_about_M	v1	SPC	v1	1432	7034	5	.34	.07
 ELRC-1970-governmental_about_M	v1	ELRA-W0243	v1	1432	16712	4	.27	.02
 ELRC-1970-governmental_about_M	v1	OpenSubtitles	v2018	1432	33318146	3	.20	0
+ELRC-1970-governmental_about_M	v1	OpenSubtitles	v2016	1432	26021007	3	.20	0
+ELRC-1970-governmental_about_M	v1	MultiParaCrawl	v7.1	1432	9402609	3	.20	0
 ELRC-1970-governmental_about_M	v1	EMEA	v3	1432	368049	3	.20	0
 ELRC-1970-governmental_about_M	v1	ELRC-1175-EUIPO_2017	v1	1432	20025	3	.20	.01
 ELRC-1970-governmental_about_M	v1	ELRC-EUIPO_2017	v1	1432	20025	3	.20	.01
 ELRC-1970-governmental_about_M	v1	ELRC-Press_Releases	v1	1432	6058	3	.20	.04
 ELRC-1970-governmental_about_M	v1	ELRC-1787-Press_Releases_PIO	v1	1432	5131	3	.20	.05
 ELRC-1970-governmental_about_M	v1	ELRC-1984-Hellenic_Gaming_Comm	v1	1432	3870	3	.20	.07
+ELRC-1970-governmental_about_M	v1	ParaCrawl	v8	1432	34585108	2	.13	0
 ELRC-1970-governmental_about_M	v1	ParaCrawl	v9	1432	21402043	2	.13	0
+ELRC-1970-governmental_about_M	v1	ParaCrawl	v7.1	1432	9402608	2	.13	0
 ELRC-1970-governmental_about_M	v1	WikiMatrix	v1	1432	620802	2	.13	0
+ELRC-1970-governmental_about_M	v1	wikimedia	v20230407	1432	549337	2	.13	0
 ELRC-1970-governmental_about_M	v1	wikimedia	v20210402	1432	229838	2	.13	0
 ELRC-1970-governmental_about_M	v1	ELRC-PIO_Publication	v1	1432	3945	2	.13	.05
 ELRC-1970-governmental_about_M	v1	ELRC-1067-PIO_Publication_Wind	v1	1432	2628	2	.13	.07
@@ -43,6 +51,7 @@ ELRC-1970-governmental_about_M	v1	ELITR-ECA	v1	1432	329071	1	.06	0
 ELRC-1970-governmental_about_M	v1	TED2020	v1	1432	262648	1	.06	0
 ELRC-1970-governmental_about_M	v1	NeuLab-TedTalks	v1	1432	149750	1	.06	0
 ELRC-1970-governmental_about_M	v1	GlobalVoices	v2018q4	1432	112880	1	.06	0
+ELRC-1970-governmental_about_M	v1	Tatoeba	v2023-04-12	1432	25970	1	.06	0
 ELRC-1970-governmental_about_M	v1	Tatoeba	v2022-03-03	1432	24112	1	.06	0
 ELRC-1970-governmental_about_M	v1	Tatoeba	v2021-07-22	1432	23813	1	.06	0
 ELRC-1970-governmental_about_M	v1	Tatoeba	v2021-03-10	1432	23365	1	.06	0
@@ -85,7 +94,11 @@ ELRC-1970-governmental_about_M	v1	ELRC-3856-PRESS	v1	1432	35	1	.06	2.85
 ELRC-1970-governmental_about_M	v1	ELRC-416-Swedish_Social_Secur	v1	1432	30	1	.06	3.33
 ELRC-1970-governmental_about_M	v1	ELRC-1021-Commitment_Property_	v1	1432	23	1	.06	4.34
 ELRC-1970-governmental_about_M	v1	ELRC-403-Rights_Arrested	v1	1432	22	1	.06	4.54
+ELRC-1970-governmental_about_M	v1	ParaCrawl	v5	1432	3803749	0	0	0
+ELRC-1970-governmental_about_M	v1	ParaCrawl	v4	1432	1976986	0	0	0
 ELRC-1970-governmental_about_M	v1	Europarl	v8	1432	1260921	0	0	0
+ELRC-1970-governmental_about_M	v1	Europarl	v7	1432	1260526	0	0	0
+ELRC-1970-governmental_about_M	v1	Europarl	v3	1432	646689	0	0	0
 ELRC-1970-governmental_about_M	v1	SETIMES	v2	1432	224806	0	0	0
 ELRC-1970-governmental_about_M	v1	OpenSubtitles	v1	1432	220324	0	0	0
 ELRC-1970-governmental_about_M	v1	SETIMES	v1	1432	165530	0	0	0

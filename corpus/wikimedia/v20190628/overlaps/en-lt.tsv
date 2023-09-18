@@ -1,13 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20190628	wikimedia	v20230407	2402	13796	969	40.34	7.02
 wikimedia	v20190628	wikimedia	v20210402	2402	7387	969	40.34	13.11
 wikimedia	v20190628	ELRC-4270-NTEU_TierA	v1	2402	7890285	58	2.41	0
+wikimedia	v20190628	MultiCCAligned	v1	2402	5183742	56	2.33	0
 wikimedia	v20190628	CCAligned	v1	2402	5183648	56	2.33	0
 wikimedia	v20190628	TildeMODEL	v2018	2402	2053491	42	1.74	0
 wikimedia	v20190628	DGT	v2019	2402	3648865	38	1.58	0
+wikimedia	v20190628	DGT	v4	2402	1967340	37	1.54	0
 wikimedia	v20190628	XLEnt	v1.1	2402	1562418	25	1.04	0
 wikimedia	v20190628	XLEnt	v1.2	2402	1562418	25	1.04	0
 wikimedia	v20190628	XLEnt	v1	2402	1562418	25	1.04	0
 wikimedia	v20190628	CCMatrix	v1	2402	23162636	24	.99	0
+wikimedia	v20190628	NLLB	v1	2402	23162019	24	.99	0
 wikimedia	v20190628	KDE4	v2	2402	89827	19	.79	.02
 wikimedia	v20190628	ELRC-2717-EMEA	v1	2402	757666	13	.54	0
 wikimedia	v20190628	ELRC-EMEA	v1	2402	757666	13	.54	0
@@ -15,6 +19,7 @@ wikimedia	v20190628	JRC-Acquis	v3.0	2402	500372	13	.54	0
 wikimedia	v20190628	GNOME	v1	2402	15800	11	.45	.06
 wikimedia	v20190628	ParaCrawl	v9	2402	13191974	9	.37	0
 wikimedia	v20190628	EUbookshop	v2	2402	373431	9	.37	0
+wikimedia	v20190628	ParaCrawl	v8	2402	8043262	7	.29	0
 wikimedia	v20190628	WikiMatrix	v1	2402	157526	7	.29	0
 wikimedia	v20190628	ECB	v1	2402	69759	6	.24	0
 wikimedia	v20190628	ELRC-2021-EUIPO_2017	v1	2402	17133	4	.16	.02
@@ -25,9 +30,15 @@ wikimedia	v20190628	ELRC-2878-EU_publications_medi	v1	2402	12573	2	.08	.01
 wikimedia	v20190628	ELRC-EU_publications	v1	2402	12573	2	.08	.01
 wikimedia	v20190628	Ubuntu	v14.10	2402	3827	2	.08	.05
 wikimedia	v20190628	OpenSubtitles	v2018	2402	1212456	1	.04	0
+wikimedia	v20190628	OpenSubtitles	v2016	2402	1023613	1	.04	0
 wikimedia	v20190628	ELRC-405-President_Lithuania	v1	2402	12704	1	.04	0
 wikimedia	v20190628	ELRA-W0160	v1	2402	12703	1	.04	0
+wikimedia	v20190628	MultiParaCrawl	v7.1	2402	4433563	0	0	0
+wikimedia	v20190628	ParaCrawl	v7.1	2402	4433562	0	0	0
+wikimedia	v20190628	ParaCrawl	v5	2402	1263838	0	0	0
+wikimedia	v20190628	ParaCrawl	v4	2402	841635	0	0	0
 wikimedia	v20190628	Europarl	v8	2402	616663	0	0	0
+wikimedia	v20190628	Europarl	v7	2402	616275	0	0	0
 wikimedia	v20190628	ELRC-5067-SciPar	v1	2402	177437	0	0	0
 wikimedia	v20190628	ELITR-ECA	v1	2402	128135	0	0	0
 wikimedia	v20190628	QED	v2.0a	2402	79727	0	0	0
@@ -37,6 +48,7 @@ wikimedia	v20190628	NeuLab-TedTalks	v1	2402	44740	0	0	0
 wikimedia	v20190628	ELRC-591-www.lb.lt	v1	2402	33241	0	0	0
 wikimedia	v20190628	ELRC-3568-EUR_LEX_covid	v1	2402	21385	0	0	0
 wikimedia	v20190628	ELRC-EUR_LEX	v1	2402	21385	0	0	0
+wikimedia	v20190628	Tatoeba	v2023-04-12	2402	8229	0	0	0
 wikimedia	v20190628	Tatoeba	v2022-03-03	2402	8176	0	0	0
 wikimedia	v20190628	Tatoeba	v2021-07-22	2402	8172	0	0	0
 wikimedia	v20190628	Tatoeba	v2021-03-10	2402	8167	0	0	0

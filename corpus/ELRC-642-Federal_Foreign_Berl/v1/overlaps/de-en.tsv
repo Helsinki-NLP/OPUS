@@ -1,8 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-642-Federal_Foreign_Berl	v1	ParaCrawl	v9	53842	278310902	22173	41.18	0
+ELRC-642-Federal_Foreign_Berl	v1	ParaCrawl	v8	53842	261106742	20128	37.38	0
+ELRC-642-Federal_Foreign_Berl	v1	MultiParaCrawl	v7.1	53842	82638070	18677	34.68	.02
+ELRC-642-Federal_Foreign_Berl	v1	ParaCrawl	v7.1	53842	82638069	18665	34.66	.02
+ELRC-642-Federal_Foreign_Berl	v1	ParaCrawl	v4	53842	16173851	13722	25.48	.08
 ELRC-642-Federal_Foreign_Berl	v1	CCMatrix	v1	53842	245958729	12634	23.46	0
+ELRC-642-Federal_Foreign_Berl	v1	NLLB	v1	53842	245954214	12634	23.46	0
+ELRC-642-Federal_Foreign_Berl	v1	ParaCrawl	v5	53842	36657324	11672	21.67	.03
 ELRC-642-Federal_Foreign_Berl	v1	ELRC-1089-German_Foreign_Offic	v1	53842	24725	525	.97	2.12
 ELRC-642-Federal_Foreign_Berl	v1	ELRC-1088-German_Foreign_Offic	v1	53842	12554	518	.96	4.12
+ELRC-642-Federal_Foreign_Berl	v1	MultiCCAligned	v1	53842	91967663	217	.40	0
+ELRC-642-Federal_Foreign_Berl	v1	ParaCrawl	v1	53842	36203700	163	.30	0
 ELRC-642-Federal_Foreign_Berl	v1	CCAligned	v1	53842	15192790	141	.26	0
 ELRC-642-Federal_Foreign_Berl	v1	TildeMODEL	v2018	53842	4184303	106	.19	0
 ELRC-642-Federal_Foreign_Berl	v1	LinguaTools-WikiTitles	v2014	53842	15812874	81	.15	0
@@ -11,13 +19,18 @@ ELRC-642-Federal_Foreign_Berl	v1	XLEnt	v1.1	53842	3802840	61	.11	0
 ELRC-642-Federal_Foreign_Berl	v1	XLEnt	v1.2	53842	3802840	61	.11	0
 ELRC-642-Federal_Foreign_Berl	v1	XLEnt	v1	53842	3802840	61	.11	0
 ELRC-642-Federal_Foreign_Berl	v1	DGT	v2019	53842	3598219	62	.11	0
+ELRC-642-Federal_Foreign_Berl	v1	DGT	v4	53842	1949796	60	.11	0
 ELRC-642-Federal_Foreign_Berl	v1	EUbookshop	v2	53842	8268818	59	.10	0
 ELRC-642-Federal_Foreign_Berl	v1	WikiTitles	v3	53842	1386531	52	.09	0
 ELRC-642-Federal_Foreign_Berl	v1	OpenSubtitles	v2018	53842	18698900	27	.05	0
+ELRC-642-Federal_Foreign_Berl	v1	wikimedia	v20230407	53842	161399	23	.04	.01
+ELRC-642-Federal_Foreign_Berl	v1	OpenSubtitles	v2016	53842	11777113	21	.03	0
 ELRC-642-Federal_Foreign_Berl	v1	Europarl	v8	53842	1916512	21	.03	0
+ELRC-642-Federal_Foreign_Berl	v1	Europarl	v7	53842	1915803	21	.03	0
 ELRC-642-Federal_Foreign_Berl	v1	JRC-Acquis	v3.0	53842	503393	18	.03	0
 ELRC-642-Federal_Foreign_Berl	v1	KDE4	v2	53842	187849	20	.03	.01
 ELRC-642-Federal_Foreign_Berl	v1	wikimedia	v20210402	53842	103209	21	.03	.02
+ELRC-642-Federal_Foreign_Berl	v1	Europarl	v3	53842	1285340	15	.02	0
 ELRC-642-Federal_Foreign_Berl	v1	ELRC-2714-EMEA	v1	53842	752887	15	.02	0
 ELRC-642-Federal_Foreign_Berl	v1	ELRC-EMEA	v1	53842	752887	15	.02	0
 ELRC-642-Federal_Foreign_Berl	v1	ELRC_2682	v1	53842	620450	14	.02	0
@@ -44,6 +57,7 @@ ELRC-642-Federal_Foreign_Berl	v1	EuroPat	v1	53842	12614161	1	0	0
 ELRC-642-Federal_Foreign_Berl	v1	Wikipedia	v1.0	53842	2413702	0	0	0
 ELRC-642-Federal_Foreign_Berl	v1	ELRC-5067-SciPar	v1	53842	890185	1	0	0
 ELRC-642-Federal_Foreign_Berl	v1	Tanzil	v1	53842	516835	0	0	0
+ELRC-642-Federal_Foreign_Berl	v1	Tatoeba	v2023-04-12	53842	322298	5	0	0
 ELRC-642-Federal_Foreign_Berl	v1	Tatoeba	v2022-03-03	53842	313068	5	0	0
 ELRC-642-Federal_Foreign_Berl	v1	Tatoeba	v2021-07-22	53842	307276	5	0	0
 ELRC-642-Federal_Foreign_Berl	v1	Tatoeba	v2021-03-10	53842	302363	5	0	0

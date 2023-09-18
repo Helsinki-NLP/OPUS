@@ -1,7 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-776-by_Presidency_Counci	v1	ELRC-by_Presidency	v1	4771	9344	4771	100.00	51.05
+ELRC-776-by_Presidency_Counci	v1	NLLB	v1	4771	534495313	2559	53.63	0
 ELRC-776-by_Presidency_Counci	v1	CCMatrix	v1	4771	534914327	2557	53.59	0
 ELRC-776-by_Presidency_Counci	v1	MultiParaCrawl	v8	4771	182106158	1517	31.79	0
+ELRC-776-by_Presidency_Counci	v1	ParaCrawl	v8	4771	182106158	1517	31.79	0
 ELRC-776-by_Presidency_Counci	v1	MultiParaCrawl	v9	4771	220731737	1437	30.11	0
 ELRC-776-by_Presidency_Counci	v1	MultiParaCrawl	v9b	4771	220731737	1437	30.11	0
 ELRC-776-by_Presidency_Counci	v1	ParaCrawl	v9	4771	220731737	1437	30.11	0
@@ -13,18 +15,29 @@ ELRC-776-by_Presidency_Counci	v1	ELRC-4171-NTEU_TierA	v1	4771	6198455	101	2.11	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-4149-NTEU_TierA	v1	4771	6413624	99	2.07	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-4217-NTEU_TierA	v1	4771	13752401	98	2.05	0
 ELRC-776-by_Presidency_Counci	v1	TildeMODEL	v2018	4771	5030606	98	2.05	0
+ELRC-776-by_Presidency_Counci	v1	MultiParaCrawl	v7.1	4771	80061241	94	1.97	0
+ELRC-776-by_Presidency_Counci	v1	ParaCrawl	v7.1	4771	80061241	94	1.97	0
 ELRC-776-by_Presidency_Counci	v1	MultiCCAligned	v1.1	4771	94952359	90	1.88	0
+ELRC-776-by_Presidency_Counci	v1	MultiCCAligned	v1	4771	94952359	90	1.88	0
 ELRC-776-by_Presidency_Counci	v1	CCAligned	v1	4771	94952271	90	1.88	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-4198-NTEU_TierA	v1	4771	1702436	88	1.84	0
+ELRC-776-by_Presidency_Counci	v1	ParaCrawl	v1	4771	30443329	70	1.46	0
 ELRC-776-by_Presidency_Counci	v1	JRC-Acquis	v3.0	4771	1997955	55	1.15	0
+ELRC-776-by_Presidency_Counci	v1	DGT	v4	4771	1835860	53	1.11	0
+ELRC-776-by_Presidency_Counci	v1	LinguaTools-WikiTitles	v2014	4771	2446335	52	1.08	0
 ELRC-776-by_Presidency_Counci	v1	XLEnt	v1.1	4771	3364773	49	1.02	0
+ELRC-776-by_Presidency_Counci	v1	XLEnt	v1.2	4771	3364773	49	1.02	0
 ELRC-776-by_Presidency_Counci	v1	XLEnt	v1	4771	3364773	49	1.02	0
 ELRC-776-by_Presidency_Counci	v1	KDE4	v2	4771	172442	46	.96	.02
 ELRC-776-by_Presidency_Counci	v1	EUbookshop	v2	4771	13681030	45	.94	0
+ELRC-776-by_Presidency_Counci	v1	ParaCrawl	v4	4771	18589563	42	.88	0
 ELRC-776-by_Presidency_Counci	v1	WikiTitles	v3	4771	1349474	42	.88	0
 ELRC-776-by_Presidency_Counci	v1	EMEA	v3	4771	349705	42	.88	.01
+ELRC-776-by_Presidency_Counci	v1	MultiParaCrawl	v5	4771	38758629	40	.83	0
+ELRC-776-by_Presidency_Counci	v1	ParaCrawl	v5	4771	38758629	40	.83	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-2410-Portal_oficial_turis	v1	4771	132023	35	.73	.02
 ELRC-776-by_Presidency_Counci	v1	Mozilla-I10n	v1	4771	49522	35	.73	.07
+ELRC-776-by_Presidency_Counci	v1	wikimedia	v20230407	4771	822350	34	.71	0
 ELRC-776-by_Presidency_Counci	v1	ELRA-W0201	v1	4771	36665	34	.71	.09
 ELRC-776-by_Presidency_Counci	v1	ELRC-638-Luxembourg.lu	v1	4771	36665	34	.71	.09
 ELRC-776-by_Presidency_Counci	v1	wikimedia	v20210402	4771	456248	33	.69	0
@@ -33,6 +46,7 @@ ELRC-776-by_Presidency_Counci	v1	EUconst	v1	4771	6570	28	.58	.42
 ELRC-776-by_Presidency_Counci	v1	ELRC-2714-EMEA	v1	4771	713209	27	.56	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-EMEA	v1	4771	713209	27	.56	0
 ELRC-776-by_Presidency_Counci	v1	ELRC_2682	v1	4771	589704	27	.56	0
+ELRC-776-by_Presidency_Counci	v1	StanfordNLP-NMT	v1.0	4771	4761770	26	.54	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-5179-acts_Ukrainian	v1	4771	126107	23	.48	.01
 ELRC-776-by_Presidency_Counci	v1	ELRC-2875-EU_publications_medi	v1	4771	13419	23	.48	.17
 ELRC-776-by_Presidency_Counci	v1	ELRC-EU_publications	v1	4771	13419	23	.48	.17
@@ -44,12 +58,17 @@ ELRC-776-by_Presidency_Counci	v1	News-Commentary	v11	4771	269009	16	.33	0
 ELRC-776-by_Presidency_Counci	v1	News-Commentary	v9.0	4771	273047	15	.31	0
 ELRC-776-by_Presidency_Counci	v1	News-Commentary	v9.1	4771	273046	15	.31	0
 ELRC-776-by_Presidency_Counci	v1	OpenSubtitles	v2018	4771	21227082	14	.29	0
+ELRC-776-by_Presidency_Counci	v1	OpenSubtitles	v2016	4771	13674348	14	.29	0
 ELRC-776-by_Presidency_Counci	v1	Europarl	v8	4771	2110612	13	.27	0
+ELRC-776-by_Presidency_Counci	v1	Europarl	v7	4771	2110469	13	.27	0
+ELRC-776-by_Presidency_Counci	v1	Europarl	v3	4771	1443880	13	.27	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-German_Foreign	v1	4771	72183	12	.25	.01
+ELRC-776-by_Presidency_Counci	v1	OpenSubtitles	v2012	4771	4892213	11	.23	0
 ELRC-776-by_Presidency_Counci	v1	WikiMatrix	v1	4771	23734871	10	.20	0
 ELRC-776-by_Presidency_Counci	v1	QED	v2.0a	4771	684273	10	.20	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-Italian_legal	v1	4771	41426	10	.20	.02
 ELRC-776-by_Presidency_Counci	v1	ELRC-1240-Austrian_Research_Te	v1	4771	3049	10	.20	.32
+ELRC-776-by_Presidency_Counci	v1	OpenSubtitles	v2013	4771	4079127	8	.16	0
 ELRC-776-by_Presidency_Counci	v1	OpenOffice	v3	4771	48451	8	.16	.01
 ELRC-776-by_Presidency_Counci	v1	KDEdoc	v1	4771	26622	8	.16	.03
 ELRC-776-by_Presidency_Counci	v1	wikimedia	v20190628	4771	37543	7	.14	.01
@@ -73,6 +92,7 @@ ELRC-776-by_Presidency_Counci	v1	ELRC-1087-German_Foreign_Offic	v1	4771	25366	4	
 ELRC-776-by_Presidency_Counci	v1	ELRC-1089-German_Foreign_Offic	v1	4771	24921	4	.08	.01
 ELRC-776-by_Presidency_Counci	v1	ELRC-774-Presidency	v1	4771	16555	4	.08	.02
 ELRC-776-by_Presidency_Counci	v1	ELRC-641-Federal_Foreign_Berl	v1	4771	12029	4	.08	.03
+ELRC-776-by_Presidency_Counci	v1	ECDC	v2016-03-16	4771	2513	4	.08	.15
 ELRC-776-by_Presidency_Counci	v1	ELRC-416-Swedish_Social_Secur	v1	4771	354	4	.08	1.12
 ELRC-776-by_Presidency_Counci	v1	ELRC_416	v1	4771	354	4	.08	1.12
 ELRC-776-by_Presidency_Counci	v1	ELRC-5067-SciPar	v1	4771	894816	3	.06	0
@@ -85,6 +105,7 @@ ELRC-776-by_Presidency_Counci	v1	ELRC-CORDIS_Results	v1	4771	182160	2	.04	0
 ELRC-776-by_Presidency_Counci	v1	GlobalVoices	v2015	4771	71300	2	.04	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-3464-EC_EUROPA_covid	v1	4771	2501	2	.04	.07
 ELRC-776-by_Presidency_Counci	v1	ELRC-EC_EUROPA	v1	4771	2501	2	.04	.07
+ELRC-776-by_Presidency_Counci	v1	Tatoeba	v2023-04-12	4771	634009	1	.02	0
 ELRC-776-by_Presidency_Counci	v1	Tatoeba	v2022-03-03	4771	602838	1	.02	0
 ELRC-776-by_Presidency_Counci	v1	Tatoeba	v2021-03-10	4771	556720	1	.02	0
 ELRC-776-by_Presidency_Counci	v1	Tatoeba	v2020-11-09	4771	545306	1	.02	0
@@ -112,6 +133,7 @@ ELRC-776-by_Presidency_Counci	v1	ELRC-Swedish_Labour	v1	4771	376	1	.02	.26
 ELRC-776-by_Presidency_Counci	v1	ELRC-401-Swedish_Labour_Part2	v1	4771	185	1	.02	.54
 ELRC-776-by_Presidency_Counci	v1	ELRC-832-CHARTER_VALUES_CITIZ	v1	4771	88	1	.02	1.13
 ELRC-776-by_Presidency_Counci	v1	Ubuntu	v14.10	4771	47	1	.02	2.12
+ELRC-776-by_Presidency_Counci	v1	NeuLab-TedTalks	v1	4771	211159	0	0	0
 ELRC-776-by_Presidency_Counci	v1	MultiUN	v1	4771	157784	0	0	0
 ELRC-776-by_Presidency_Counci	v1	Tanzil	v1	4771	41133	0	0	0
 ELRC-776-by_Presidency_Counci	v1	bible-uedin	v1	4771	37421	0	0	0
@@ -175,5 +197,6 @@ ELRC-776-by_Presidency_Counci	v1	ELRC-Arquitectura_2007	v1	4771	153	0	0	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-3852-Development_Funds_Re	v1	4771	106	0	0	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-2623-Patrimnio_Aores_2006	v1	4771	62	0	0	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-Patrimnio_Aores	v1	4771	62	0	0	0
+ELRC-776-by_Presidency_Counci	v1	ELRC-5220-Information_crime_vi	v1	4771	57	0	0	0
 ELRC-776-by_Presidency_Counci	v1	ELRC-403-Rights_Arrested	v1	4771	24	0	0	0
 ELRC-776-by_Presidency_Counci	v1	ELRA-W0301	v1	4771	23	0	0	0

@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-991-Croatian_Journal_Fis	v1	ELRA-W0294	v1	2408	2407	2341	97.21	97.25
+ELRC-991-Croatian_Journal_Fis	v1	MultiCCAligned	v1	2408	9327209	20	.83	0
 ELRC-991-Croatian_Journal_Fis	v1	CCAligned	v1	2408	9327047	20	.83	0
+ELRC-991-Croatian_Journal_Fis	v1	ParaCrawl	v8	2408	11063124	6	.24	0
 ELRC-991-Croatian_Journal_Fis	v1	ParaCrawl	v9	2408	3240421	3	.12	0
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-5067-SciPar	v1	2408	806581	2	.08	0
+ELRC-991-Croatian_Journal_Fis	v1	MultiParaCrawl	v7.1	2408	6959286	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	XLEnt	v1.1	2408	2717963	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	XLEnt	v1.2	2408	2717963	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	XLEnt	v1	2408	2717963	1	.04	0
@@ -16,6 +19,7 @@ ELRC-991-Croatian_Journal_Fis	v1	EuroPat	v3	2408	154775	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	NeuLab-TedTalks	v1	2408	124970	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	EuroPat	v2	2408	75105	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-2542-Agriculture	v1	2408	68113	1	.04	0
+ELRC-991-Croatian_Journal_Fis	v1	wikimedia	v20230407	2408	40443	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	2408	40102	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-3556-EUR_LEX_covid	v1	2408	21997	1	.04	0
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-EUR_LEX	v1	2408	21997	1	.04	0
@@ -42,6 +46,7 @@ ELRC-991-Croatian_Journal_Fis	v1	ELRC-989-Foreign_Affairs_Croa	v1	2408	3103	1	.0
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-Foreign_Affairs	v1	2408	3103	1	.04	.03
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-3478-EC_EUROPA_covid	v1	2408	2595	1	.04	.03
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-EC_EUROPA	v1	2408	2595	1	.04	.03
+ELRC-991-Croatian_Journal_Fis	v1	Tatoeba	v2023-04-12	2408	2444	1	.04	.04
 ELRC-991-Croatian_Journal_Fis	v1	Tatoeba	v2022-03-03	2408	2431	1	.04	.04
 ELRC-991-Croatian_Journal_Fis	v1	Tatoeba	v2021-07-22	2408	2428	1	.04	.04
 ELRC-991-Croatian_Journal_Fis	v1	Tatoeba	v2021-03-10	2408	2416	1	.04	.04
@@ -61,7 +66,12 @@ ELRC-991-Croatian_Journal_Fis	v1	ELRC-vaccination	v1	2408	508	1	.04	.19
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-3284-EUROPARL_covid	v1	2408	475	1	.04	.21
 ELRC-991-Croatian_Journal_Fis	v1	ELRC-EUROPARL_covid	v1	2408	475	1	.04	.21
 ELRC-991-Croatian_Journal_Fis	v1	OpenSubtitles	v2018	2408	28591047	0	0	0
+ELRC-991-Croatian_Journal_Fis	v1	OpenSubtitles	v2016	2408	22002428	0	0	0
 ELRC-991-Croatian_Journal_Fis	v1	CCMatrix	v1	2408	18694537	0	0	0
+ELRC-991-Croatian_Journal_Fis	v1	NLLB	v1	2408	18694206	0	0	0
+ELRC-991-Croatian_Journal_Fis	v1	ParaCrawl	v7.1	2408	6959288	0	0	0
+ELRC-991-Croatian_Journal_Fis	v1	ParaCrawl	v5	2408	1846962	0	0	0
+ELRC-991-Croatian_Journal_Fis	v1	ParaCrawl	v4	2408	995511	0	0	0
 ELRC-991-Croatian_Journal_Fis	v1	TildeMODEL	v2018	2408	736487	0	0	0
 ELRC-991-Croatian_Journal_Fis	v1	DGT	v2019	2408	668790	0	0	0
 ELRC-991-Croatian_Journal_Fis	v1	SETIMES	v2	2408	204109	0	0	0

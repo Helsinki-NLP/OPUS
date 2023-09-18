@@ -1,11 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	293880	293884	293880	100.00	99.99
+CCAligned	v1	MultiParaCrawl	v7.1	293880	31047	1710	.58	5.50
+CCAligned	v1	ParaCrawl	v8	293880	31047	1710	.58	5.50
 CCAligned	v1	ParaCrawl	v9	293880	31047	1710	.58	5.50
+CCAligned	v1	ParaCrawl	v7.1	293880	31046	1659	.56	5.34
+CCAligned	v1	NLLB	v1	293880	9933519	323	.10	0
 CCAligned	v1	XLEnt	v1.1	293880	57906	197	.06	.34
 CCAligned	v1	XLEnt	v1.2	293880	57906	197	.06	.34
 CCAligned	v1	XLEnt	v1	293880	57906	197	.06	.34
 CCAligned	v1	bible-uedin	v1	293880	61322	0	0	0
 CCAligned	v1	TED2020	v1	293880	61319	26	0	.04
 CCAligned	v1	NeuLab-TedTalks	v1	293880	22649	17	0	.07
+CCAligned	v1	ALT	v2019	293880	18086	1	0	0
+CCAligned	v1	wikimedia	v20230407	293880	16523	13	0	.07
 CCAligned	v1	wikimedia	v20210402	293880	13572	11	0	.08
 CCAligned	v1	QED	v2.0a	293880	7516	4	0	.05
 CCAligned	v1	GNOME	v1	293880	5012	15	0	.29
@@ -14,7 +21,9 @@ CCAligned	v1	GlobalVoices	v2018q4	293880	2359	1	0	.04
 CCAligned	v1	GlobalVoices	v2017q3	293880	2256	0	0	0
 CCAligned	v1	Ubuntu	v14.10	293880	2108	6	0	.28
 CCAligned	v1	GlobalVoices	v2015	293880	1725	0	0	0
+CCAligned	v1	GoURMET	v2	293880	1034	5	0	.48
 CCAligned	v1	Tatoeba	v2022-03-03	293880	221	1	0	.45
+CCAligned	v1	Tatoeba	v2023-04-12	293880	221	1	0	.45
 CCAligned	v1	Tatoeba	v2020-11-09	293880	217	1	0	.46
 CCAligned	v1	Tatoeba	v2021-03-10	293880	217	1	0	.46
 CCAligned	v1	Tatoeba	v2021-07-22	293880	217	1	0	.46

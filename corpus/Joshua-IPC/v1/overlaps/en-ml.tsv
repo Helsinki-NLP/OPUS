@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Joshua-IPC	v1	Samanantar	v0.2	28410	5881175	25397	89.39	.43
+Joshua-IPC	v1	wikimedia	v20230407	28410	90667	57	.20	.06
 Joshua-IPC	v1	wikimedia	v20210402	28410	49201	56	.19	.11
+Joshua-IPC	v1	MultiCCAligned	v1	28410	559355	52	.18	0
 Joshua-IPC	v1	CCAligned	v1	28410	559344	52	.18	0
 Joshua-IPC	v1	XLEnt	v1.1	28410	730647	35	.12	0
 Joshua-IPC	v1	XLEnt	v1.2	28410	730647	35	.12	0
@@ -8,8 +10,10 @@ Joshua-IPC	v1	XLEnt	v1	28410	730647	35	.12	0
 Joshua-IPC	v1	KDE4	v2	28410	39364	15	.05	.03
 Joshua-IPC	v1	Anuvaad	v1	28410	1445240	12	.04	0
 Joshua-IPC	v1	Ubuntu	v14.10	28410	11215	14	.04	.12
+Joshua-IPC	v1	NLLB	v1	28410	43627223	9	.03	0
 Joshua-IPC	v1	CCMatrix	v1	28410	6780561	1	0	0
 Joshua-IPC	v1	OpenSubtitles	v2018	28410	354795	1	0	0
+Joshua-IPC	v1	OpenSubtitles	v2016	28410	209866	0	0	0
 Joshua-IPC	v1	Tanzil	v1	28410	184529	0	0	0
 Joshua-IPC	v1	WikiMatrix	v1	28410	71509	1	0	0
 Joshua-IPC	v1	bible-uedin	v1	28410	60767	0	0	0
@@ -21,6 +25,7 @@ Joshua-IPC	v1	Tatoeba	v2020-11-09	28410	803	1	0	.12
 Joshua-IPC	v1	Tatoeba	v2021-03-10	28410	803	1	0	.12
 Joshua-IPC	v1	Tatoeba	v2021-07-22	28410	803	1	0	.12
 Joshua-IPC	v1	Tatoeba	v2022-03-03	28410	803	1	0	.12
+Joshua-IPC	v1	Tatoeba	v2023-04-12	28410	803	1	0	.12
 Joshua-IPC	v1	Tatoeba	v20190709	28410	802	0	0	0
 Joshua-IPC	v1	Tatoeba	v2020-05-31	28410	802	0	0	0
 Joshua-IPC	v1	Tatoeba	v2	28410	668	0	0	0

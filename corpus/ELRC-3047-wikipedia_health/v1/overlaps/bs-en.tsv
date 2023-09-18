@@ -1,19 +1,24 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3047-wikipedia_health	v1	ELRC-wikipedia_health	v1	205	205	205	100.00	100.00
 ELRC-3047-wikipedia_health	v1	ELRC_2922	v1	205	204	203	99.02	99.50
+ELRC-3047-wikipedia_health	v1	NLLB	v1	205	78968180	30	14.63	0
 ELRC-3047-wikipedia_health	v1	WikiMatrix	v1	205	210679	28	13.65	.01
 ELRC-3047-wikipedia_health	v1	XLEnt	v1.1	205	259341	1	.48	0
 ELRC-3047-wikipedia_health	v1	XLEnt	v1	205	259341	1	.48	0
 ELRC-3047-wikipedia_health	v1	XLEnt	v1.2	205	259341	1	.48	0
+ELRC-3047-wikipedia_health	v1	MultiCCAligned	v1	205	191706	1	.48	0
 ELRC-3047-wikipedia_health	v1	CCAligned	v1	205	191704	1	.48	0
+ELRC-3047-wikipedia_health	v1	wikimedia	v20230407	205	27254	1	.48	0
 ELRC-3047-wikipedia_health	v1	TED2020	v1	205	11378	1	.48	0
 ELRC-3047-wikipedia_health	v1	wikimedia	v20210402	205	10915	1	.48	0
 ELRC-3047-wikipedia_health	v1	NeuLab-TedTalks	v1	205	6008	1	.48	.01
+ELRC-3047-wikipedia_health	v1	Tatoeba	v2023-04-12	205	509	1	.48	.19
 ELRC-3047-wikipedia_health	v1	Tatoeba	v2021-07-22	205	502	1	.48	.19
 ELRC-3047-wikipedia_health	v1	Tatoeba	v2022-03-03	205	502	1	.48	.19
 ELRC-3047-wikipedia_health	v1	Tatoeba	v2020-11-09	205	501	1	.48	.19
 ELRC-3047-wikipedia_health	v1	Tatoeba	v2021-03-10	205	501	1	.48	.19
 ELRC-3047-wikipedia_health	v1	OpenSubtitles	v2018	205	11750487	0	0	0
+ELRC-3047-wikipedia_health	v1	OpenSubtitles	v2016	205	9457057	0	0	0
 ELRC-3047-wikipedia_health	v1	Tanzil	v1	205	239903	0	0	0
 ELRC-3047-wikipedia_health	v1	SETIMES	v2	205	138052	0	0	0
 ELRC-3047-wikipedia_health	v1	GNOME	v1	205	30123	0	0	0

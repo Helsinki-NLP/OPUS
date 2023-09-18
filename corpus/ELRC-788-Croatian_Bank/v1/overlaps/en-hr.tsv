@@ -1,8 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-788-Croatian_Bank	v1	ELRC-4142-NTEU_TierA	v1	11708	2273079	11708	100.00	.51
 ELRC-788-Croatian_Bank	v1	ELRA-W0226	v1	11708	11707	11657	99.56	99.57
+ELRC-788-Croatian_Bank	v1	ParaCrawl	v8	11708	11063124	1799	15.36	.01
+ELRC-788-Croatian_Bank	v1	MultiParaCrawl	v7.1	11708	6959286	1500	12.81	.02
+ELRC-788-Croatian_Bank	v1	ParaCrawl	v7.1	11708	6959288	1497	12.78	.02
 ELRC-788-Croatian_Bank	v1	ParaCrawl	v9	11708	3240421	1226	10.47	.03
+ELRC-788-Croatian_Bank	v1	ParaCrawl	v5	11708	1846962	1120	9.56	.06
 ELRC-788-Croatian_Bank	v1	CCMatrix	v1	11708	18694537	626	5.34	0
+ELRC-788-Croatian_Bank	v1	NLLB	v1	11708	18694206	626	5.34	0
+ELRC-788-Croatian_Bank	v1	MultiCCAligned	v1	11708	9327209	248	2.11	0
 ELRC-788-Croatian_Bank	v1	CCAligned	v1	11708	9327047	248	2.11	0
 ELRC-788-Croatian_Bank	v1	ELRC-915-statistical_reports_	v1	11708	11660	81	.69	.69
 ELRC-788-Croatian_Bank	v1	ELRC-statistical_reports	v1	11708	11660	81	.69	.69
@@ -17,6 +23,7 @@ ELRC-788-Croatian_Bank	v1	KDE4	v2	11708	81410	34	.29	.04
 ELRC-788-Croatian_Bank	v1	ELRC-2706-EMEA	v1	11708	644560	27	.23	0
 ELRC-788-Croatian_Bank	v1	ELRC-EMEA	v1	11708	644560	27	.23	0
 ELRC-788-Croatian_Bank	v1	OpenSubtitles	v2018	11708	28591047	19	.16	0
+ELRC-788-Croatian_Bank	v1	OpenSubtitles	v2016	11708	22002428	19	.16	0
 ELRC-788-Croatian_Bank	v1	ELRC-2541-Regional_Development	v1	11708	7903	19	.16	.24
 ELRC-788-Croatian_Bank	v1	ELRC-Regional_Development	v1	11708	7903	19	.16	.24
 ELRC-788-Croatian_Bank	v1	ELRC-943-Journal_Croatian_Ass	v1	11708	18478	17	.14	.09
@@ -26,6 +33,7 @@ ELRC-788-Croatian_Bank	v1	GNOME	v1	11708	8921	15	.12	.16
 ELRC-788-Croatian_Bank	v1	ELRC-2866-EU_publications_medi	v1	11708	12820	14	.11	.10
 ELRC-788-Croatian_Bank	v1	ELRC-EU_publications	v1	11708	12820	14	.11	.10
 ELRC-788-Croatian_Bank	v1	QED	v2.0a	11708	196487	11	.09	0
+ELRC-788-Croatian_Bank	v1	wikimedia	v20230407	11708	40443	8	.06	.01
 ELRC-788-Croatian_Bank	v1	TED2020	v1	11708	192409	7	.05	0
 ELRC-788-Croatian_Bank	v1	NeuLab-TedTalks	v1	11708	124970	7	.05	0
 ELRC-788-Croatian_Bank	v1	TedTalks	v1	11708	81962	6	.05	0
@@ -49,6 +57,7 @@ ELRC-788-Croatian_Bank	v1	ELRC-3193-antibiotic	v1	11708	1070	2	.01	.18
 ELRC-788-Croatian_Bank	v1	ELRC-antibiotic	v1	11708	1070	2	.01	.18
 ELRC-788-Croatian_Bank	v1	ELRC-2753-vaccination	v1	11708	508	2	.01	.39
 ELRC-788-Croatian_Bank	v1	ELRC-vaccination	v1	11708	508	2	.01	.39
+ELRC-788-Croatian_Bank	v1	ParaCrawl	v4	11708	995511	0	0	0
 ELRC-788-Croatian_Bank	v1	WikiMatrix	v1	11708	259499	1	0	0
 ELRC-788-Croatian_Bank	v1	SETIMES	v1	11708	158180	0	0	0
 ELRC-788-Croatian_Bank	v1	ELITR-ECA	v1	11708	157728	1	0	0
@@ -69,6 +78,7 @@ ELRC-788-Croatian_Bank	v1	ELRC-Foreign_Affairs	v1	11708	3103	1	0	.03
 ELRC-788-Croatian_Bank	v1	ELRA-W0293	v1	11708	3102	0	0	0
 ELRC-788-Croatian_Bank	v1	ELRC-3478-EC_EUROPA_covid	v1	11708	2595	1	0	.03
 ELRC-788-Croatian_Bank	v1	ELRC-EC_EUROPA	v1	11708	2595	1	0	.03
+ELRC-788-Croatian_Bank	v1	Tatoeba	v2023-04-12	11708	2444	1	0	.04
 ELRC-788-Croatian_Bank	v1	Tatoeba	v2022-03-03	11708	2431	1	0	.04
 ELRC-788-Croatian_Bank	v1	Tatoeba	v2021-07-22	11708	2428	1	0	.04
 ELRC-788-Croatian_Bank	v1	Tatoeba	v2021-03-10	11708	2416	1	0	.04

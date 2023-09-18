@@ -1,8 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+hrenWaC	v1	ParaCrawl	v8	96379	11063124	4462	4.62	.04
+hrenWaC	v1	MultiParaCrawl	v7.1	96379	6959286	3683	3.82	.05
+hrenWaC	v1	ParaCrawl	v7.1	96379	6959288	3670	3.80	.05
 hrenWaC	v1	ParaCrawl	v9	96379	3240421	2741	2.84	.08
+hrenWaC	v1	ParaCrawl	v5	96379	1846962	2174	2.25	.11
 hrenWaC	v1	CCMatrix	v1	96379	18694537	1868	1.93	0
+hrenWaC	v1	NLLB	v1	96379	18694206	1868	1.93	0
+hrenWaC	v1	ParaCrawl	v4	96379	995511	927	.96	.09
+hrenWaC	v1	MultiCCAligned	v1	96379	9327209	728	.75	0
 hrenWaC	v1	CCAligned	v1	96379	9327047	728	.75	0
 hrenWaC	v1	OpenSubtitles	v2018	96379	28591047	155	.16	0
+hrenWaC	v1	OpenSubtitles	v2016	96379	22002428	141	.14	0
 hrenWaC	v1	ELRC-4142-NTEU_TierA	v1	96379	2273079	82	.08	0
 hrenWaC	v1	QED	v2.0a	96379	196487	33	.03	.01
 hrenWaC	v1	ELRC-651-government_websites_	v1	96379	21334	36	.03	.16
@@ -30,6 +38,7 @@ hrenWaC	v1	EuroPat	v3	96379	154775	0	0	0
 hrenWaC	v1	KDE4	v2	96379	81410	6	0	0
 hrenWaC	v1	EuroPat	v2	96379	75105	0	0	0
 hrenWaC	v1	bible-uedin	v1	96379	61623	0	0	0
+hrenWaC	v1	wikimedia	v20230407	96379	40443	0	0	0
 hrenWaC	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	96379	40102	0	0	0
 hrenWaC	v1	ELRC-3556-EUR_LEX_covid	v1	96379	21997	0	0	0
 hrenWaC	v1	ELRC-EUR_LEX	v1	96379	21997	0	0	0
@@ -63,6 +72,7 @@ hrenWaC	v1	ELRC-Foreign_Affairs	v1	96379	3103	0	0	0
 hrenWaC	v1	ELRA-W0293	v1	96379	3102	0	0	0
 hrenWaC	v1	ELRC-3478-EC_EUROPA_covid	v1	96379	2595	0	0	0
 hrenWaC	v1	ELRC-EC_EUROPA	v1	96379	2595	0	0	0
+hrenWaC	v1	Tatoeba	v2023-04-12	96379	2444	2	0	.08
 hrenWaC	v1	Tatoeba	v2022-03-03	96379	2431	2	0	.08
 hrenWaC	v1	Tatoeba	v2021-07-22	96379	2428	2	0	.08
 hrenWaC	v1	Tatoeba	v2021-03-10	96379	2416	2	0	.08

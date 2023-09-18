@@ -11,7 +11,7 @@
 | [bible-uedin](http://opus.nlpl.eu/bible-uedin.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/bible-uedin/v1)  |
 | [Books](http://opus.nlpl.eu/Books-2018-03.php) | [2018-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Books/2018-03-03) [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Books/v1)  |
 | [CAPES](http://opus.nlpl.eu/CAPES.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/CAPES/v1)  |
-| [CCAligned](http://opus.nlpl.eu/CCAligned.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/CCAligned/v1)  |
+| [CCAligned](https://opus.nlpl.eu/CCAligned.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/CCAligned/v1)  |
 | [CCMatrix](http://opus.nlpl.eu/CCMatrix.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/CCMatrix/v1)  |
 | [ChuBiCo](http://opus.nlpl.eu/ChuBiCo.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ChuBiCo/v1)  |
 | [DGT](http://opus.nlpl.eu/DGT.php) | [v2019](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DGT/v2019) [v4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DGT/v4)  |
@@ -58,6 +58,7 @@
 | [MultiUN](http://opus.nlpl.eu/MultiUN.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiUN/v1)  |
 | [NeuLab-TedTalks](http://opus.nlpl.eu/NeuLab-TedTalks.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/NeuLab-TedTalks/v1)  |
 | [News-Commentary](http://opus.nlpl.eu/News-Commentary.php) | [v11](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v11) [v14](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v14) [v16](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v16) [v9.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v9.0) [v9.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/News-Commentary/v9.1)  |
+| [NLLB](http://opus.nlpl.eu/NLLB.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/NLLB/v1)  |
 | [Nunavut_Hansard](http://opus.nlpl.eu/Nunavut_Hansard.php) | [v3.0.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Nunavut_Hansard/v3.0.1)  |
 | [OfisPublik](http://opus.nlpl.eu/OfisPublik.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OfisPublik/v1)  |
 | [OpenOffice](http://opus.nlpl.eu/OpenOffice.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenOffice/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/OpenOffice/v3)  |
@@ -77,7 +78,7 @@
 | [StanfordNLP-NMT](http://opus.nlpl.eu/StanfordNLP-NMT.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/StanfordNLP-NMT/v1.0)  |
 | [SUMMA](http://opus.nlpl.eu/SUMMA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SUMMA/v1)  |
 | [Tanzil](http://opus.nlpl.eu/Tanzil.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tanzil/v1)  |
-| [Tatoeba](http://opus.nlpl.eu/Tatoeba-v2021-03.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2) [v20190709](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v20190709) [v2020-05-31](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-05-31) [v2020-11-09](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-11-09) [v2021-03-10](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-03-10) [v2021-07-22](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-07-22) [v2022-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2022-03-03) [v2023-04-12](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2023-04-12)  |
+| [Tatoeba](http://opus.nlpl.eu/Tatoeba.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2) [v20190709](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v20190709) [v2020-05-31](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-05-31) [v2020-11-09](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2020-11-09) [v2021-03-10](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-03-10) [v2021-07-22](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2021-07-22) [v2022-03-03](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2022-03-03) [v2023-04-12](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Tatoeba/v2023-04-12)  |
 | [TED2013](http://opus.nlpl.eu/TED2013.php) | [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TED2013/v1.1)  |
 | [TED2020](http://opus.nlpl.eu/TED2020.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TED2020/v1)  |
 | [TedTalks](http://opus.nlpl.eu/TedTalks.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TedTalks/v1)  |

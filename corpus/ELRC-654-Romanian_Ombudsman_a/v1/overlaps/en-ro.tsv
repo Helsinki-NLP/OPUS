@@ -1,12 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-654-Romanian_Ombudsman_a	v1	ELRA-W0206	v1	3930	3929	3924	99.84	99.87
+ELRC-654-Romanian_Ombudsman_a	v1	ParaCrawl	v1	3930	2454740	37	.94	0
 ELRC-654-Romanian_Ombudsman_a	v1	OpenSubtitles	v2018	3930	39424613	34	.86	0
+ELRC-654-Romanian_Ombudsman_a	v1	OpenSubtitles	v2016	3930	31406516	31	.78	0
 ELRC-654-Romanian_Ombudsman_a	v1	ELITR-ECA	v1	3930	81205	31	.78	.03
 ELRC-654-Romanian_Ombudsman_a	v1	EMEA	v3	3930	316762	26	.66	0
 ELRC-654-Romanian_Ombudsman_a	v1	JRC-Acquis	v3.0	3930	314553	24	.61	0
+ELRC-654-Romanian_Ombudsman_a	v1	MultiCCAligned	v1	3930	10463174	17	.43	0
 ELRC-654-Romanian_Ombudsman_a	v1	CCAligned	v1	3930	10462991	17	.43	0
 ELRC-654-Romanian_Ombudsman_a	v1	DGT	v2019	3930	2753976	17	.43	0
 ELRC-654-Romanian_Ombudsman_a	v1	TildeMODEL	v2018	3930	1895503	16	.40	0
+ELRC-654-Romanian_Ombudsman_a	v1	DGT	v4	3930	1073269	14	.35	0
 ELRC-654-Romanian_Ombudsman_a	v1	XLEnt	v1.1	3930	3120821	12	.30	0
 ELRC-654-Romanian_Ombudsman_a	v1	XLEnt	v1.2	3930	3120821	12	.30	0
 ELRC-654-Romanian_Ombudsman_a	v1	XLEnt	v1	3930	3120821	12	.30	0
@@ -16,6 +20,7 @@ ELRC-654-Romanian_Ombudsman_a	v1	ELRC-2728-EMEA	v1	3930	777379	6	.15	0
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-EMEA	v1	3930	777379	6	.15	0
 ELRC-654-Romanian_Ombudsman_a	v1	ParaCrawl	v9	3930	25048458	5	.12	0
 ELRC-654-Romanian_Ombudsman_a	v1	Wikipedia	v1.0	3930	355116	5	.12	0
+ELRC-654-Romanian_Ombudsman_a	v1	wikimedia	v20230407	3930	304464	5	.12	0
 ELRC-654-Romanian_Ombudsman_a	v1	wikimedia	v20210402	3930	227392	5	.12	0
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-1177-EUIPO_2017	v1	3930	20296	5	.12	.02
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-EUIPO_2017	v1	3930	20296	5	.12	.02
@@ -24,8 +29,12 @@ ELRC-654-Romanian_Ombudsman_a	v1	ELRC-EU_publications	v1	3930	13150	5	.12	.03
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-1819-EIR	v1	3930	4991	5	.12	.10
 ELRC-654-Romanian_Ombudsman_a	v1	QED	v2.0a	3930	412194	4	.10	0
 ELRC-654-Romanian_Ombudsman_a	v1	EUbookshop	v2	3930	278716	4	.10	0
+ELRC-654-Romanian_Ombudsman_a	v1	ParaCrawl	v8	3930	13376411	3	.07	0
+ELRC-654-Romanian_Ombudsman_a	v1	MultiParaCrawl	v7.1	3930	6160526	2	.05	0
 ELRC-654-Romanian_Ombudsman_a	v1	Europarl	v8	3930	386478	2	.05	0
+ELRC-654-Romanian_Ombudsman_a	v1	Europarl	v7	3930	386074	2	.05	0
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-1814-EIR_SPOS	v1	3930	3247	2	.05	.06
+ELRC-654-Romanian_Ombudsman_a	v1	ParaCrawl	v7.1	3930	6160525	1	.02	0
 ELRC-654-Romanian_Ombudsman_a	v1	WikiMatrix	v1	3930	631486	1	.02	0
 ELRC-654-Romanian_Ombudsman_a	v1	TED2020	v1	3930	320760	1	.02	0
 ELRC-654-Romanian_Ombudsman_a	v1	SETIMES	v2	3930	211067	1	.02	0
@@ -35,6 +44,7 @@ ELRC-654-Romanian_Ombudsman_a	v1	ELRC-492-Romanian_Wikipedia	v1	3930	132217	1	.0
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-493-Romanian_news	v1	3930	98099	1	.02	0
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-3577-EUR_LEX_covid	v1	3930	23170	1	.02	0
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-EUR_LEX	v1	3930	23170	1	.02	0
+ELRC-654-Romanian_Ombudsman_a	v1	Tatoeba	v2023-04-12	3930	16283	1	.02	0
 ELRC-654-Romanian_Ombudsman_a	v1	Tatoeba	v2022-03-03	3930	15250	1	.02	0
 ELRC-654-Romanian_Ombudsman_a	v1	Tatoeba	v2021-07-22	3930	15159	1	.02	0
 ELRC-654-Romanian_Ombudsman_a	v1	Tatoeba	v2021-03-10	3930	15138	1	.02	0
@@ -66,6 +76,9 @@ ELRC-654-Romanian_Ombudsman_a	v1	ELRC-648-Letter_rights_person	v1	3930	77	1	.02	
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-403-Rights_Arrested	v1	3930	24	1	.02	4.16
 ELRC-654-Romanian_Ombudsman_a	v1	ELRC-417-Swedish_Work_Environ	v1	3930	8	1	.02	12.50
 ELRC-654-Romanian_Ombudsman_a	v1	CCMatrix	v1	3930	55211939	0	0	0
+ELRC-654-Romanian_Ombudsman_a	v1	NLLB	v1	3930	55210599	0	0	0
+ELRC-654-Romanian_Ombudsman_a	v1	ParaCrawl	v5	3930	2855026	0	0	0
+ELRC-654-Romanian_Ombudsman_a	v1	ParaCrawl	v4	3930	1944574	0	0	0
 ELRC-654-Romanian_Ombudsman_a	v1	OpenSubtitles	v1	3930	253380	0	0	0
 ELRC-654-Romanian_Ombudsman_a	v1	SETIMES	v1	3930	171661	0	0	0
 ELRC-654-Romanian_Ombudsman_a	v1	ELRA-W0193	v1	3930	132216	0	0	0

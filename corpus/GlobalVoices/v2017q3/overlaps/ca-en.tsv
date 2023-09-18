@@ -2,13 +2,17 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2017q3	GlobalVoices	v2015	20884	19645	19555	93.63	99.54
 GlobalVoices	v2017q3	GlobalVoices	v2018q4	20884	6878	6844	32.77	99.50
 GlobalVoices	v2017q3	CCMatrix	v1	20884	21161566	2378	11.38	.01
+GlobalVoices	v2017q3	NLLB	v1	20884	21161243	2378	11.38	.01
 GlobalVoices	v2017q3	OpenSubtitles	v2018	20884	427132	47	.22	.01
+GlobalVoices	v2017q3	OpenSubtitles	v2016	20884	350371	42	.20	.01
 GlobalVoices	v2017q3	XLEnt	v1.1	20884	2809447	30	.14	0
 GlobalVoices	v2017q3	XLEnt	v1	20884	2809447	30	.14	0
 GlobalVoices	v2017q3	XLEnt	v1.2	20884	2809447	30	.14	0
 GlobalVoices	v2017q3	KDE4	v2	20884	143938	28	.13	.01
+GlobalVoices	v2017q3	MultiCCAligned	v1	20884	5774694	21	.10	0
 GlobalVoices	v2017q3	CCAligned	v1	20884	5774598	21	.10	0
 GlobalVoices	v2017q3	QED	v2.0a	20884	69816	19	.09	.02
+GlobalVoices	v2017q3	wikimedia	v20230407	20884	386194	9	.04	0
 GlobalVoices	v2017q3	wikimedia	v20210402	20884	208067	8	.03	0
 GlobalVoices	v2017q3	TED2020	v1	20884	51400	8	.03	.01
 GlobalVoices	v2017q3	WikiMatrix	v1	20884	1205909	4	.01	0
@@ -18,6 +22,7 @@ GlobalVoices	v2017q3	Books	v1	20884	4580	1	0	.02
 GlobalVoices	v2017q3	EUbookshop	v2	20884	3740	0	0	0
 GlobalVoices	v2017q3	ELRC-5189-Catalan_WMT2013_Mach	v1	20884	2999	2	0	.06
 GlobalVoices	v2017q3	GNOME	v1	20884	2179	0	0	0
+GlobalVoices	v2017q3	Tatoeba	v2023-04-12	20884	1884	1	0	.05
 GlobalVoices	v2017q3	Tatoeba	v2022-03-03	20884	1860	1	0	.05
 GlobalVoices	v2017q3	Tatoeba	v2021-07-22	20884	1855	1	0	.05
 GlobalVoices	v2017q3	Tatoeba	v2021-03-10	20884	1843	1	0	.05

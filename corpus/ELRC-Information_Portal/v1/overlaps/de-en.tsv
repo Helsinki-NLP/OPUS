@@ -1,7 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-Information_Portal	v1	ELRC-1086-Information_Portal_G	v1	11281	11281	11281	100.00	100.00
 ELRC-Information_Portal	v1	CCMatrix	v1	11281	245958729	1055	9.35	0
+ELRC-Information_Portal	v1	NLLB	v1	11281	245954214	1055	9.35	0
+ELRC-Information_Portal	v1	ParaCrawl	v8	11281	261106742	371	3.28	0
 ELRC-Information_Portal	v1	ParaCrawl	v9	11281	278310902	359	3.18	0
+ELRC-Information_Portal	v1	MultiParaCrawl	v7.1	11281	82638070	89	.78	0
+ELRC-Information_Portal	v1	ParaCrawl	v7.1	11281	82638069	88	.78	0
+ELRC-Information_Portal	v1	MultiCCAligned	v1	11281	91967663	56	.49	0
+ELRC-Information_Portal	v1	ParaCrawl	v1	11281	36203700	46	.40	0
 ELRC-Information_Portal	v1	CCAligned	v1	11281	15192790	42	.37	0
 ELRC-Information_Portal	v1	TildeMODEL	v2018	11281	4184303	41	.36	0
 ELRC-Information_Portal	v1	LinguaTools-WikiTitles	v2014	11281	15812874	28	.24	0
@@ -11,10 +17,17 @@ ELRC-Information_Portal	v1	DGT	v2019	11281	3598219	15	.13	0
 ELRC-Information_Portal	v1	XLEnt	v1.1	11281	3802840	14	.12	0
 ELRC-Information_Portal	v1	XLEnt	v1	11281	3802840	14	.12	0
 ELRC-Information_Portal	v1	XLEnt	v1.2	11281	3802840	14	.12	0
+ELRC-Information_Portal	v1	ParaCrawl	v5	11281	36657324	13	.11	0
+ELRC-Information_Portal	v1	DGT	v4	11281	1949796	13	.11	0
 ELRC-Information_Portal	v1	Europarl	v8	11281	1916512	13	.11	0
+ELRC-Information_Portal	v1	Europarl	v7	11281	1915803	13	.11	0
 ELRC-Information_Portal	v1	OpenSubtitles	v2018	11281	18698900	11	.09	0
+ELRC-Information_Portal	v1	OpenSubtitles	v2016	11281	11777113	11	.09	0
+ELRC-Information_Portal	v1	Europarl	v3	11281	1285340	11	.09	0
+ELRC-Information_Portal	v1	wikimedia	v20230407	11281	161399	10	.08	0
 ELRC-Information_Portal	v1	wikimedia	v20210402	11281	103209	10	.08	0
 ELRC-Information_Portal	v1	ELRC-642-Federal_Foreign_Berl	v1	11281	53842	10	.08	.01
+ELRC-Information_Portal	v1	ParaCrawl	v4	11281	16173851	9	.07	0
 ELRC-Information_Portal	v1	TED2020	v1	11281	289362	8	.07	0
 ELRC-Information_Portal	v1	ELRC-1089-German_Foreign_Offic	v1	11281	24725	9	.07	.03
 ELRC-Information_Portal	v1	ELRC-1088-German_Foreign_Offic	v1	11281	12554	9	.07	.07
@@ -30,6 +43,7 @@ ELRC-Information_Portal	v1	ELRC-638-Luxembourg.lu	v1	11281	35970	5	.04	.01
 ELRC-Information_Portal	v1	JRC-Acquis	v3.0	11281	503393	4	.03	0
 ELRC-Information_Portal	v1	ELRA-W0201	v1	11281	35973	4	.03	.01
 ELRC-Information_Portal	v1	WikiMatrix	v1	11281	1573421	3	.02	0
+ELRC-Information_Portal	v1	Tatoeba	v2023-04-12	11281	322298	3	.02	0
 ELRC-Information_Portal	v1	Tatoeba	v2022-03-03	11281	313068	3	.02	0
 ELRC-Information_Portal	v1	Tatoeba	v2021-07-22	11281	307276	3	.02	0
 ELRC-Information_Portal	v1	Tatoeba	v2021-03-10	11281	302363	3	.02	0

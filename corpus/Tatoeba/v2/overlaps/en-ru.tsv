@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tatoeba	v2	Tatoeba	v2023-04-12	97202	540539	92769	95.43	17.16
 Tatoeba	v2	Tatoeba	v2022-03-03	97202	529043	92769	95.43	17.53
 Tatoeba	v2	Tatoeba	v2021-07-22	97202	523544	92769	95.43	17.71
 Tatoeba	v2	Tatoeba	v2021-03-10	97202	519222	92769	95.43	17.86
@@ -6,10 +7,17 @@ Tatoeba	v2	Tatoeba	v2020-11-09	97202	514093	92769	95.43	18.04
 Tatoeba	v2	Tatoeba	v2020-05-31	97202	501391	92763	95.43	18.50
 Tatoeba	v2	Tatoeba	v20190709	97202	487111	92769	95.43	19.04
 Tatoeba	v2	OpenSubtitles	v2018	97202	21152745	8951	9.20	.04
+Tatoeba	v2	OpenSubtitles	v2016	97202	15393688	8041	8.27	.05
+Tatoeba	v2	MultiCCAligned	v1	97202	68711166	1390	1.43	0
 Tatoeba	v2	CCAligned	v1	97202	13738750	937	.96	0
 Tatoeba	v2	QED	v2.0a	97202	522751	727	.74	.13
 Tatoeba	v2	CCMatrix	v1	97202	138875110	637	.65	0
+Tatoeba	v2	NLLB	v1	97202	138865867	637	.65	0
+Tatoeba	v2	ParaCrawl	v1	97202	12015289	269	.27	0
+Tatoeba	v2	MultiParaCrawl	v7.1	97202	5364010	254	.26	0
+Tatoeba	v2	ParaCrawl	v8	97202	5364010	254	.26	0
 Tatoeba	v2	ParaCrawl	v9	97202	5364010	254	.26	0
+Tatoeba	v2	ParaCrawl	v7.1	97202	5364009	254	.26	0
 Tatoeba	v2	OpenSubtitles	v1	97202	22333	214	.22	.95
 Tatoeba	v2	TED2020	v1	97202	380258	174	.17	.04
 Tatoeba	v2	NeuLab-TedTalks	v1	97202	216889	110	.11	.05
@@ -26,6 +34,7 @@ Tatoeba	v2	News-Commentary	v11	97202	189831	34	.03	.01
 Tatoeba	v2	News-Commentary	v9.0	97202	163747	31	.03	.01
 Tatoeba	v2	News-Commentary	v9.1	97202	163747	31	.03	.01
 Tatoeba	v2	Wikipedia	v1.0	97202	541331	16	.01	0
+Tatoeba	v2	wikimedia	v20230407	97202	506264	11	.01	0
 Tatoeba	v2	bible-uedin	v1	97202	61559	10	.01	.01
 Tatoeba	v2	WMT-News	v2019	97202	24817	10	.01	.04
 Tatoeba	v2	LinguaTools-WikiTitles	v2014	97202	13046006	6	0	0

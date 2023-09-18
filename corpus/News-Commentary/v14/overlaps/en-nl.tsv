@@ -1,12 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v14	News-Commentary	v16	57085	57086	56031	98.15	98.15
 News-Commentary	v14	CCMatrix	v1	57085	106106500	19636	34.39	.01
+News-Commentary	v14	NLLB	v1	57085	106104992	19636	34.39	.01
 News-Commentary	v14	News-Commentary	v11	57085	19392	17850	31.26	92.04
+News-Commentary	v14	ParaCrawl	v8	57085	98473905	15977	27.98	.01
 News-Commentary	v14	ParaCrawl	v9	57085	89135870	11740	20.56	.01
+News-Commentary	v14	MultiParaCrawl	v7.1	57085	31295016	1582	2.77	0
+News-Commentary	v14	ParaCrawl	v7.1	57085	31295015	1574	2.75	0
 News-Commentary	v14	News-Commentary	v9.0	57085	1808	1068	1.87	59.07
 News-Commentary	v14	News-Commentary	v9.1	57085	1808	1068	1.87	59.07
+News-Commentary	v14	ParaCrawl	v5	57085	10509072	354	.62	0
+News-Commentary	v14	ParaCrawl	v1	57085	2552000	332	.58	.01
+News-Commentary	v14	ParaCrawl	v4	57085	5630021	327	.57	0
 News-Commentary	v14	OpenSubtitles	v2018	57085	30779675	77	.13	0
+News-Commentary	v14	OpenSubtitles	v2016	57085	24279928	74	.12	0
 News-Commentary	v14	Europarl	v8	57085	1986220	34	.05	0
+News-Commentary	v14	Europarl	v7	57085	1985837	34	.05	0
+News-Commentary	v14	Europarl	v3	57085	1291768	28	.04	0
+News-Commentary	v14	MultiCCAligned	v1	57085	36001309	15	.02	0
 News-Commentary	v14	CCAligned	v1	57085	13043190	15	.02	0
 News-Commentary	v14	EUbookshop	v2	57085	5367397	13	.02	0
 News-Commentary	v14	QED	v2.0a	57085	385191	16	.02	0
@@ -20,6 +31,7 @@ News-Commentary	v14	XLEnt	v1.2	57085	5789605	1	0	0
 News-Commentary	v14	XLEnt	v1	57085	5789605	1	0	0
 News-Commentary	v14	DGT	v2019	57085	3543639	0	0	0
 News-Commentary	v14	TildeMODEL	v2018	57085	3481744	5	0	0
+News-Commentary	v14	DGT	v4	57085	1945115	0	0	0
 News-Commentary	v14	WikiMatrix	v1	57085	796508	5	0	0
 News-Commentary	v14	Wikipedia	v1.0	57085	791459	1	0	0
 News-Commentary	v14	ELRC-2707-EMEA	v1	57085	755014	1	0	0
@@ -31,6 +43,8 @@ News-Commentary	v14	ELITR-ECA	v1	57085	249246	1	0	0
 News-Commentary	v14	KDE4	v2	57085	161655	0	0	0
 News-Commentary	v14	ECB	v1	57085	126344	0	0	0
 News-Commentary	v14	Ubuntu	v14.10	57085	110108	0	0	0
+News-Commentary	v14	wikimedia	v20230407	57085	106677	2	0	0
+News-Commentary	v14	Tatoeba	v2023-04-12	57085	79518	5	0	0
 News-Commentary	v14	Tatoeba	v2022-03-03	57085	75815	5	0	0
 News-Commentary	v14	Tatoeba	v2021-07-22	57085	75072	5	0	0
 News-Commentary	v14	Tatoeba	v2021-03-10	57085	74031	5	0	0

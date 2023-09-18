@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 JRC-Acquis	v3.0	DGT	v2019	12383	2737811	408	3.29	.01
+JRC-Acquis	v3.0	NLLB	v1	12383	14726004	357	2.88	0
+JRC-Acquis	v3.0	DGT	v4	12383	1097225	337	2.72	.03
 JRC-Acquis	v3.0	TildeMODEL	v2018	12383	1944924	266	2.14	.01
 JRC-Acquis	v3.0	EUbookshop	v2	12383	241067	152	1.22	.06
 JRC-Acquis	v3.0	EUconst	v1	12383	6717	125	1.00	1.86
@@ -16,8 +18,14 @@ JRC-Acquis	v3.0	ELRC-2709-EMEA	v1	12383	405848	12	.09	0
 JRC-Acquis	v3.0	ELRC-EMEA	v1	12383	405848	12	.09	0
 JRC-Acquis	v3.0	ELRC-2023-EUIPO_2017	v1	12383	17330	10	.08	.05
 JRC-Acquis	v3.0	ELRC-EUIPO_2017	v1	12383	17330	10	.08	.05
+JRC-Acquis	v3.0	ParaCrawl	v8	12383	1604136	9	.07	0
+JRC-Acquis	v3.0	MultiParaCrawl	v7.1	12383	856984	5	.04	0
+JRC-Acquis	v3.0	ParaCrawl	v7.1	12383	856983	5	.04	0
 JRC-Acquis	v3.0	ECDC	v2016-03-16	12383	2489	2	.01	.08
+JRC-Acquis	v3.0	ParaCrawl	v4	12383	193983	0	0	0
+JRC-Acquis	v3.0	ParaCrawl	v5	12383	176423	0	0	0
 JRC-Acquis	v3.0	QED	v2.0a	12383	17978	0	0	0
+JRC-Acquis	v3.0	wikimedia	v20230407	12383	6033	1	0	.01
 JRC-Acquis	v3.0	ELRC-3560-EUR_LEX_covid	v1	12383	4710	1	0	.02
 JRC-Acquis	v3.0	ELRC-EUR_LEX	v1	12383	4710	1	0	.02
 JRC-Acquis	v3.0	wikimedia	v20210402	12383	2035	1	0	.04
@@ -32,6 +40,7 @@ JRC-Acquis	v3.0	ELRC-vaccination	v1	12383	472	0	0	0
 JRC-Acquis	v3.0	ELRC-3197-antibiotic	v1	12383	392	0	0	0
 JRC-Acquis	v3.0	ELRC-antibiotic	v1	12383	392	0	0	0
 JRC-Acquis	v3.0	KDE4	v2	12383	303	0	0	0
+JRC-Acquis	v3.0	Tatoeba	v2023-04-12	12383	253	0	0	0
 JRC-Acquis	v3.0	Tatoeba	v2022-03-03	12383	206	0	0	0
 JRC-Acquis	v3.0	Tatoeba	v2020-11-09	12383	205	0	0	0
 JRC-Acquis	v3.0	Tatoeba	v2021-03-10	12383	205	0	0	0
@@ -46,3 +55,4 @@ JRC-Acquis	v3.0	Tatoeba	v2	12383	107	0	0	0
 JRC-Acquis	v3.0	ELRC_2923	v1	12383	95	0	0	0
 JRC-Acquis	v3.0	wikimedia	v20190628	12383	90	0	0	0
 JRC-Acquis	v3.0	CCAligned	v1	12383	27	0	0	0
+JRC-Acquis	v3.0	MultiCCAligned	v1	12383	27	0	0	0

@@ -1,10 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-885-www.aarhus2017.dk	v1	ELRC-4248-NTEU_TierA	v1	4708	13598397	4708	100.00	.03
 ELRC-885-www.aarhus2017.dk	v1	ParaCrawl	v9	4708	34207153	397	8.43	0
+ELRC-885-www.aarhus2017.dk	v1	ParaCrawl	v8	4708	41939064	296	6.28	0
 ELRC-885-www.aarhus2017.dk	v1	CCMatrix	v1	4708	51996397	81	1.72	0
+ELRC-885-www.aarhus2017.dk	v1	NLLB	v1	4708	51995658	81	1.72	0
+ELRC-885-www.aarhus2017.dk	v1	MultiParaCrawl	v7.1	4708	10407633	13	.27	0
+ELRC-885-www.aarhus2017.dk	v1	MultiCCAligned	v1	4708	10687333	12	.25	0
 ELRC-885-www.aarhus2017.dk	v1	CCAligned	v1	4708	10687146	12	.25	0
+ELRC-885-www.aarhus2017.dk	v1	ParaCrawl	v7.1	4708	10407632	12	.25	0
+ELRC-885-www.aarhus2017.dk	v1	ParaCrawl	v5	4708	4569268	7	.14	0
 ELRC-885-www.aarhus2017.dk	v1	ELRC-852-www.dma.dk	v1	4708	3010	3	.06	.09
 ELRC-885-www.aarhus2017.dk	v1	OpenSubtitles	v2018	4708	12095471	2	.04	0
+ELRC-885-www.aarhus2017.dk	v1	OpenSubtitles	v2016	4708	9378053	2	.04	0
+ELRC-885-www.aarhus2017.dk	v1	ParaCrawl	v4	4708	2395328	2	.04	0
 ELRC-885-www.aarhus2017.dk	v1	WikiMatrix	v1	4708	436050	2	.04	0
 ELRC-885-www.aarhus2017.dk	v1	ELRC-892-slks.dk	v1	4708	4956	2	.04	.04
 ELRC-885-www.aarhus2017.dk	v1	ELRC-3466-EC_EUROPA_covid	v1	4708	2802	2	.04	.07
@@ -19,11 +27,13 @@ ELRC-885-www.aarhus2017.dk	v1	ELRC-2716-EMEA	v1	4708	767928	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	ELRC-EMEA	v1	4708	767928	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	ELITR-ECA	v1	4708	117419	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	TED2020	v1	4708	70497	1	.02	0
+ELRC-885-www.aarhus2017.dk	v1	wikimedia	v20230407	4708	67071	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	NeuLab-TedTalks	v1	4708	47296	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	wikimedia	v20210402	4708	40624	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	ELRC-847-mst.dk	v1	4708	36733	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	ELRC-730-www.norden.org	v1	4708	36624	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	ELRC-www.norden.org	v1	4708	36624	1	.02	0
+ELRC-885-www.aarhus2017.dk	v1	Tatoeba	v2023-04-12	4708	32727	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	Tatoeba	v2022-03-03	4708	31862	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	Tatoeba	v2021-07-22	4708	30835	1	.02	0
 ELRC-885-www.aarhus2017.dk	v1	Tatoeba	v2021-03-10	4708	30475	1	.02	0
@@ -73,6 +83,9 @@ ELRC-885-www.aarhus2017.dk	v1	ELRC-2754-vaccination	v1	4708	461	1	.02	.21
 ELRC-885-www.aarhus2017.dk	v1	ELRC-vaccination	v1	4708	461	1	.02	.21
 ELRC-885-www.aarhus2017.dk	v1	DGT	v2019	4708	3567131	0	0	0
 ELRC-885-www.aarhus2017.dk	v1	Europarl	v8	4708	1949878	0	0	0
+ELRC-885-www.aarhus2017.dk	v1	Europarl	v7	4708	1949502	0	0	0
+ELRC-885-www.aarhus2017.dk	v1	DGT	v4	4708	1946755	0	0	0
+ELRC-885-www.aarhus2017.dk	v1	Europarl	v3	4708	1276675	0	0	0
 ELRC-885-www.aarhus2017.dk	v1	ELRC_2682	v1	4708	767927	0	0	0
 ELRC-885-www.aarhus2017.dk	v1	JRC-Acquis	v3.0	4708	502171	0	0	0
 ELRC-885-www.aarhus2017.dk	v1	EMEA	v3	4708	355116	0	0	0

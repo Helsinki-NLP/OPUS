@@ -1,0 +1,12 @@
+---
+cite: "Please, cite the following papers: <ul><li>Holger Schwenk, Guillaume Wenzek, Sergey Edunov, Edouard Grave, Armand Joulin and Angela Fan, <a href=\"https://arxiv.org/abs/1911.04944\">CCMatrix: Mining Billions of High-Quality Parallel Sentences on the WEB</a></li> <li>Angela Fan, Shruti Bhosale, Holger Schwenk, Zhiyi Ma, Ahmed El-Kishky, Siddharth Goyal, Mandeep Baines, Onur Celebi, Guillaume Wenzek, Vishrav Chaudhary, Naman Goyal, Tom Birch, Vitaliy Liptchinsky, Sergey Edunov, Edouard Grave, Michael Auli, and Armand Joulin. <a href=\"https://arxiv.org/abs/2010.11125\">Beyond English-Centric Multilingual Machine Translation</a></li></ul> and also acknowledge OPUS for the service provided here by citing <a href=\"https://www.aclweb.org/anthology/L12-1246/\">Jörg Tiedemann, <it>Parallel Data, Tools and Interfaces in OPUS</it></a> (<a href=\"https://www.aclweb.org/anthology/L12-1246.bib\">bib</a>, <a href=\"http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf\">pdf</a>)\n"
+description: |
+  This dataset was created based on metadata for mined bitext released by Meta AI.  It contains bitext for 148 English-centric and 1465 non-English-centric language pairs using the stopes mining library and the LASER3 encoders (Heffernan et al., 2022). The complete dataset is ~450GB.This release is based on the data package released at huggingfaceny AllenAI. More information about instances for each language pair in the original data can be found in the dataset_infos.json file. Data was filtered based on language identification, emoji based filtering, and for some high-resource languages using a language model. For more details on data filtering please refer to Section 5.2 (NLLB Team et al., 2022).
+  Mappings between the original NLLB language IDs and OPUS language IDs can be found in this table. The sentence alignments include LASER3 scores (see XCES align files), language ID scores, source information and URLs from where the data has been extracted (see language XML files).
+latest_release: v1
+license: '<a href=https://opendatacommons.org/licenses/by/1-0/>ODC-By</a>'
+name: NLLB
+releases:
+  v1: Sun Sep  3 16:45:14 EEST 2023
+source: https://huggingface.co/datasets/allenai/nllb
+website: http://opus.nlpl.eu/NLLB.php

@@ -1,10 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Ubuntu	v14.10	GNOME	v1	9263	12480	4125	44.53	33.05
+Ubuntu	v14.10	MultiCCAligned	v1	9263	239929	25	.26	.01
 Ubuntu	v14.10	CCAligned	v1	9263	239925	25	.26	.01
+Ubuntu	v14.10	wikimedia	v20230407	9263	1375	13	.14	.94
+Ubuntu	v14.10	NLLB	v1	9263	21126444	1	.01	0
 Ubuntu	v14.10	QED	v2.0a	9263	1460	1	.01	.06
 Ubuntu	v14.10	TED2020	v1	9263	694	1	.01	.14
 Ubuntu	v14.10	wikimedia	v20210402	9263	317	1	.01	.31
 Ubuntu	v14.10	GoURMET	v1	9263	14469	0	0	0
+Ubuntu	v14.10	GoURMET	v2	9263	14469	0	0	0
+Ubuntu	v14.10	Tatoeba	v2023-04-12	9263	124	0	0	0
 Ubuntu	v14.10	Tatoeba	v2022-03-03	9263	118	0	0	0
 Ubuntu	v14.10	Tatoeba	v2020-11-09	9263	117	0	0	0
 Ubuntu	v14.10	Tatoeba	v2021-03-10	9263	117	0	0	0

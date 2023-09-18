@@ -1,14 +1,19 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 infopankki	v1	CCMatrix	v1	13164	46757033	1959	14.88	0
+infopankki	v1	NLLB	v1	13164	46756357	1959	14.88	0
+infopankki	v1	MultiCCAligned	v1	13164	20085783	158	1.20	0
 infopankki	v1	CCAligned	v1	13164	13511958	140	1.06	0
 infopankki	v1	LinguaTools-WikiTitles	v2014	13164	3757493	91	.69	0
 infopankki	v1	XLEnt	v1.1	13164	3624602	63	.47	0
 infopankki	v1	XLEnt	v1	13164	3624602	63	.47	0
 infopankki	v1	XLEnt	v1.2	13164	3624602	63	.47	0
+infopankki	v1	wikimedia	v20230407	13164	618388	38	.28	0
 infopankki	v1	wikimedia	v20210402	13164	278474	30	.22	.01
 infopankki	v1	OpenSubtitles	v2018	13164	35657527	28	.21	0
+infopankki	v1	OpenSubtitles	v2016	13164	29870130	28	.21	0
 infopankki	v1	KDE4	v2	13164	130514	27	.20	.02
 infopankki	v1	QED	v2.0a	13164	454090	9	.06	0
+infopankki	v1	Tatoeba	v2023-04-12	13164	676784	6	.04	0
 infopankki	v1	Tatoeba	v2022-03-03	13164	674238	6	.04	0
 infopankki	v1	Tatoeba	v2021-07-22	13164	672102	6	.04	0
 infopankki	v1	Tatoeba	v2021-03-10	13164	669921	6	.04	0
@@ -26,6 +31,7 @@ infopankki	v1	NeuLab-TedTalks	v1	13164	191216	2	.01	0
 infopankki	v1	Ubuntu	v14.10	13164	7285	2	.01	.02
 infopankki	v1	Tanzil	v1	13164	1145312	0	0	0
 infopankki	v1	GoURMET	v1	13164	778173	1	0	0
+infopankki	v1	GoURMET	v2	13164	778173	1	0	0
 infopankki	v1	SETIMES	v1	13164	165712	0	0	0
 infopankki	v1	Wikipedia	v1.0	13164	157248	0	0	0
 infopankki	v1	TED2013	v1.1	13164	136068	1	0	0

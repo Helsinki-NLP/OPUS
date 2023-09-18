@@ -1,10 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-www.norden.org	v1	ELRC-730-www.norden.org	v1	36624	36624	36624	100.00	100.00
 ELRC-www.norden.org	v1	ELRC-4248-NTEU_TierA	v1	36624	13598397	36621	99.99	.26
+ELRC-www.norden.org	v1	ParaCrawl	v8	36624	41939064	2930	8.00	0
 ELRC-www.norden.org	v1	ParaCrawl	v9	36624	34207153	2926	7.98	0
 ELRC-www.norden.org	v1	CCMatrix	v1	36624	51996397	2226	6.07	0
+ELRC-www.norden.org	v1	NLLB	v1	36624	51995658	2226	6.07	0
+ELRC-www.norden.org	v1	MultiParaCrawl	v7.1	36624	10407633	2168	5.91	.02
+ELRC-www.norden.org	v1	ParaCrawl	v7.1	36624	10407632	2158	5.89	.02
+ELRC-www.norden.org	v1	ParaCrawl	v5	36624	4569268	1399	3.81	.03
+ELRC-www.norden.org	v1	MultiCCAligned	v1	36624	10687333	110	.30	0
 ELRC-www.norden.org	v1	CCAligned	v1	36624	10687146	110	.30	0
 ELRC-www.norden.org	v1	DGT	v2019	36624	3567131	79	.21	0
+ELRC-www.norden.org	v1	DGT	v4	36624	1946755	76	.20	0
 ELRC-www.norden.org	v1	LinguaTools-WikiTitles	v2014	36624	2968008	55	.15	0
 ELRC-www.norden.org	v1	XLEnt	v1.1	36624	2832109	51	.13	0
 ELRC-www.norden.org	v1	XLEnt	v1.2	36624	2832109	51	.13	0
@@ -13,14 +20,19 @@ ELRC-www.norden.org	v1	KDE4	v2	36624	165984	39	.10	.02
 ELRC-www.norden.org	v1	EUbookshop	v2	36624	4495240	31	.08	0
 ELRC-www.norden.org	v1	JRC-Acquis	v3.0	36624	502171	27	.07	0
 ELRC-www.norden.org	v1	OpenSubtitles	v2018	36624	12095471	22	.06	0
+ELRC-www.norden.org	v1	OpenSubtitles	v2016	36624	9378053	19	.05	0
 ELRC-www.norden.org	v1	ELRC-2716-EMEA	v1	36624	767928	16	.04	0
 ELRC-www.norden.org	v1	ELRC-EMEA	v1	36624	767928	16	.04	0
 ELRC-www.norden.org	v1	ELRC_2682	v1	36624	767927	15	.04	0
 ELRC-www.norden.org	v1	ELRC-850-www.dst.dk	v1	36624	22814	17	.04	.07
 ELRC-www.norden.org	v1	ECB	v1	36624	137975	14	.03	.01
+ELRC-www.norden.org	v1	wikimedia	v20230407	36624	67071	11	.03	.01
 ELRC-www.norden.org	v1	ELRC-848-laegemiddelstyrelsen	v1	36624	22502	12	.03	.05
+ELRC-www.norden.org	v1	ParaCrawl	v4	36624	2395328	10	.02	0
 ELRC-www.norden.org	v1	wikimedia	v20210402	36624	40624	9	.02	.02
 ELRC-www.norden.org	v1	Europarl	v8	36624	1949878	5	.01	0
+ELRC-www.norden.org	v1	Europarl	v7	36624	1949502	5	.01	0
+ELRC-www.norden.org	v1	Europarl	v3	36624	1276675	4	.01	0
 ELRC-www.norden.org	v1	EMEA	v3	36624	355116	4	.01	0
 ELRC-www.norden.org	v1	QED	v2.0a	36624	165595	4	.01	0
 ELRC-www.norden.org	v1	ELRC-2013-EUIPO_2017	v1	36624	17269	5	.01	.02
@@ -40,6 +52,7 @@ ELRC-www.norden.org	v1	TED2020	v1	36624	70497	2	0	0
 ELRC-www.norden.org	v1	bible-uedin	v1	36624	61447	0	0	0
 ELRC-www.norden.org	v1	NeuLab-TedTalks	v1	36624	47296	1	0	0
 ELRC-www.norden.org	v1	ELRC-847-mst.dk	v1	36624	36733	1	0	0
+ELRC-www.norden.org	v1	Tatoeba	v2023-04-12	36624	32727	3	0	0
 ELRC-www.norden.org	v1	Tatoeba	v2022-03-03	36624	31862	3	0	0
 ELRC-www.norden.org	v1	Tatoeba	v2021-07-22	36624	30835	3	0	0
 ELRC-www.norden.org	v1	Tatoeba	v2021-03-10	36624	30475	3	0	0

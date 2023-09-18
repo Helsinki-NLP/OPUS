@@ -1,8 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 bible-uedin	v1	ParaCrawl	v9	61310	31315288	13573	22.13	.04
+bible-uedin	v1	ParaCrawl	v7.1	61310	7268808	6971	11.37	.09
+bible-uedin	v1	MultiParaCrawl	v7.1	61310	7268809	6970	11.36	.09
+bible-uedin	v1	ParaCrawl	v5	61310	3076136	6065	9.89	.19
+bible-uedin	v1	ParaCrawl	v4	61310	2142942	5815	9.48	.27
+bible-uedin	v1	ParaCrawl	v1	61310	618374	2006	3.27	.32
+bible-uedin	v1	ParaCrawl	v8	61310	15301964	1938	3.16	.01
 bible-uedin	v1	CCMatrix	v1	61310	35804134	162	.26	0
+bible-uedin	v1	NLLB	v1	61310	35803625	162	.26	0
 bible-uedin	v1	OpenSubtitles	v2018	61310	23382097	4	0	0
+bible-uedin	v1	OpenSubtitles	v2016	61310	16640273	3	0	0
 bible-uedin	v1	ELRC-4239-NTEU_TierA	v1	61310	12577938	0	0	0
+bible-uedin	v1	MultiCCAligned	v1	61310	9646186	2	0	0
 bible-uedin	v1	CCAligned	v1	61310	9646025	2	0	0
 bible-uedin	v1	LinguaTools-WikiTitles	v2014	61310	4873168	0	0	0
 bible-uedin	v1	DGT	v2019	61310	3624390	0	0	0
@@ -10,8 +19,11 @@ bible-uedin	v1	TildeMODEL	v2018	61310	3022117	0	0	0
 bible-uedin	v1	XLEnt	v1.1	61310	2501315	0	0	0
 bible-uedin	v1	XLEnt	v1.2	61310	2501315	0	0	0
 bible-uedin	v1	XLEnt	v1	61310	2501315	0	0	0
+bible-uedin	v1	DGT	v4	61310	1951585	0	0	0
 bible-uedin	v1	Europarl	v8	61310	1920092	0	0	0
+bible-uedin	v1	Europarl	v7	61310	1919709	0	0	0
 bible-uedin	v1	EUbookshop	v2	61310	1828277	0	0	0
+bible-uedin	v1	Europarl	v3	61310	1233965	0	0	0
 bible-uedin	v1	ELRC-2708-EMEA	v1	61310	746684	0	0	0
 bible-uedin	v1	ELRC-EMEA	v1	61310	746684	0	0	0
 bible-uedin	v1	ELRC-5067-SciPar	v1	61310	457342	0	0	0
@@ -22,6 +34,7 @@ bible-uedin	v1	ECB	v1	61310	157318	0	0	0
 bible-uedin	v1	OpenSubtitles	v1	61310	103215	0	0	0
 bible-uedin	v1	KDE4	v2	61310	97623	0	0	0
 bible-uedin	v1	QED	v2.0a	61310	96483	0	0	0
+bible-uedin	v1	Tatoeba	v2023-04-12	61310	81642	1	0	0
 bible-uedin	v1	Tatoeba	v2022-03-03	61310	81194	1	0	0
 bible-uedin	v1	Tatoeba	v2021-07-22	61310	80545	1	0	0
 bible-uedin	v1	Tatoeba	v2021-03-10	61310	80040	1	0	0
@@ -37,6 +50,7 @@ bible-uedin	v1	ELRC-735-www.norden.org	v1	61310	42742	0	0	0
 bible-uedin	v1	ELRC-www.norden.org	v1	61310	42742	0	0	0
 bible-uedin	v1	ELRC-1127-www.vtv.fi	v1	61310	42629	0	0	0
 bible-uedin	v1	ELRC-www.vtv.fi	v1	61310	42629	0	0	0
+bible-uedin	v1	wikimedia	v20230407	61310	41022	0	0	0
 bible-uedin	v1	wikimedia	v20210402	61310	32290	0	0	0
 bible-uedin	v1	ELRC-1771-vnk.fi	v1	61310	31527	0	0	0
 bible-uedin	v1	ELRC-vnk.fi	v1	61310	31527	0	0	0

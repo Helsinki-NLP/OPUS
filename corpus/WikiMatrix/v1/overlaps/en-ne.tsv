@@ -1,14 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	15016	695105	29	.19	0
+WikiMatrix	v1	NLLB	v1	15016	19418676	24	.15	0
+WikiMatrix	v1	MultiCCAligned	v1	15016	484499	2	.01	0
 WikiMatrix	v1	CCAligned	v1	15016	484491	2	.01	0
 WikiMatrix	v1	XLEnt	v1.1	15016	314840	2	.01	0
 WikiMatrix	v1	XLEnt	v1	15016	314840	2	.01	0
 WikiMatrix	v1	XLEnt	v1.2	15016	314840	2	.01	0
+WikiMatrix	v1	MultiParaCrawl	v7.1	15016	90427	1	0	0
+WikiMatrix	v1	ParaCrawl	v8	15016	90427	1	0	0
 WikiMatrix	v1	ParaCrawl	v9	15016	90427	1	0	0
+WikiMatrix	v1	ParaCrawl	v7.1	15016	90426	0	0	0
 WikiMatrix	v1	KDE4	v2	15016	81763	0	0	0
 WikiMatrix	v1	GNOME	v1	15016	77626	0	0	0
 WikiMatrix	v1	bible-uedin	v1	15016	60651	0	0	0
 WikiMatrix	v1	Ubuntu	v14.10	15016	29280	0	0	0
+WikiMatrix	v1	wikimedia	v20230407	15016	6429	1	0	.01
 WikiMatrix	v1	TED2020	v1	15016	4104	1	0	.02
 WikiMatrix	v1	wikimedia	v20210402	15016	3121	1	0	.03
 WikiMatrix	v1	tico-19	v2020-10-28	15016	3070	0	0	0

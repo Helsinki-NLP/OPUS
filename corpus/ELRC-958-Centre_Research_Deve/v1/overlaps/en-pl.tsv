@@ -1,8 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-958-Centre_Research_Deve	v1	ELRA-W0280	v1	1782	1781	1566	87.87	87.92
+ELRC-958-Centre_Research_Deve	v1	ParaCrawl	v8	1782	45358407	138	7.74	0
 ELRC-958-Centre_Research_Deve	v1	ParaCrawl	v9	1782	40082038	127	7.12	0
 ELRC-958-Centre_Research_Deve	v1	CCMatrix	v1	1782	73625347	57	3.19	0
+ELRC-958-Centre_Research_Deve	v1	NLLB	v1	1782	73623674	57	3.19	0
+ELRC-958-Centre_Research_Deve	v1	MultiParaCrawl	v7.1	1782	13744836	50	2.80	0
+ELRC-958-Centre_Research_Deve	v1	ParaCrawl	v7.1	1782	13744835	45	2.52	0
+ELRC-958-Centre_Research_Deve	v1	ParaCrawl	v5	1782	6336749	25	1.40	0
+ELRC-958-Centre_Research_Deve	v1	MultiCCAligned	v1	1782	25790086	8	.44	0
 ELRC-958-Centre_Research_Deve	v1	CCAligned	v1	1782	12846330	8	.44	0
+ELRC-958-Centre_Research_Deve	v1	ParaCrawl	v1	1782	1270691	7	.39	0
+ELRC-958-Centre_Research_Deve	v1	ParaCrawl	v4	1782	3483752	5	.28	0
 ELRC-958-Centre_Research_Deve	v1	XLEnt	v1.1	1782	5202602	2	.11	0
 ELRC-958-Centre_Research_Deve	v1	XLEnt	v1	1782	5202602	2	.11	0
 ELRC-958-Centre_Research_Deve	v1	XLEnt	v1.2	1782	5202602	2	.11	0
@@ -12,6 +20,7 @@ ELRC-958-Centre_Research_Deve	v1	ELRC-898-Science_Centre	v1	1782	2296	2	.11	.08
 ELRC-958-Centre_Research_Deve	v1	ELRC-966-Institute_Mathematic	v1	1782	1342	2	.11	.14
 ELRC-958-Centre_Research_Deve	v1	LinguaTools-WikiTitles	v2014	1782	8003882	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	DGT	v2019	1782	3659053	1	.05	0
+ELRC-958-Centre_Research_Deve	v1	DGT	v4	1782	1966769	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	ELRC-5067-SciPar	v1	1782	862076	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	ELRC-2726-EMEA	v1	1782	756950	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	ELRC-EMEA	v1	1782	756950	1	.05	0
@@ -27,6 +36,8 @@ ELRC-958-Centre_Research_Deve	v1	KDE4	v2	1782	160232	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	EuroPat	v2	1782	88959	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	ELRC-1120-CORDIS_News	v1	1782	87745	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	ELRC-CORDIS_News	v1	1782	87745	1	.05	0
+ELRC-958-Centre_Research_Deve	v1	wikimedia	v20230407	1782	72787	1	.05	0
+ELRC-958-Centre_Research_Deve	v1	Tatoeba	v2023-04-12	1782	55895	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	Tatoeba	v2022-03-03	1782	54736	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	Tatoeba	v2021-07-22	1782	54279	1	.05	0
 ELRC-958-Centre_Research_Deve	v1	Tatoeba	v2021-03-10	1782	54235	1	.05	0
@@ -120,8 +131,10 @@ ELRC-958-Centre_Research_Deve	v1	ELRC-873-Development	v1	1782	82	1	.05	1.21
 ELRC-958-Centre_Research_Deve	v1	ELRC-648-Letter_rights_person	v1	1782	63	1	.05	1.58
 ELRC-958-Centre_Research_Deve	v1	ELRC-403-Rights_Arrested	v1	1782	24	1	.05	4.16
 ELRC-958-Centre_Research_Deve	v1	OpenSubtitles	v2018	1782	34512858	0	0	0
+ELRC-958-Centre_Research_Deve	v1	OpenSubtitles	v2016	1782	22955941	0	0	0
 ELRC-958-Centre_Research_Deve	v1	JRC-Acquis	v3.0	1782	1048242	0	0	0
 ELRC-958-Centre_Research_Deve	v1	Europarl	v8	1782	613356	0	0	0
+ELRC-958-Centre_Research_Deve	v1	Europarl	v7	1782	612713	0	0	0
 ELRC-958-Centre_Research_Deve	v1	QED	v2.0a	1782	482625	0	0	0
 ELRC-958-Centre_Research_Deve	v1	EMEA	v3	1782	343975	0	0	0
 ELRC-958-Centre_Research_Deve	v1	Wikipedia	v1.0	1782	168603	0	0	0

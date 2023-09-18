@@ -1,13 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2015	GlobalVoices	v2017q3	2647	3547	2242	84.69	63.20
 GlobalVoices	v2015	GlobalVoices	v2018q4	2647	3860	2087	78.84	54.06
+GlobalVoices	v2015	NLLB	v1	2647	25242795	119	4.49	0
 GlobalVoices	v2015	CCMatrix	v1	2647	6053255	55	2.07	0
 GlobalVoices	v2015	XLEnt	v1.1	2647	730332	8	.30	0
 GlobalVoices	v2015	XLEnt	v1.2	2647	730332	8	.30	0
 GlobalVoices	v2015	XLEnt	v1	2647	730332	8	.30	0
+GlobalVoices	v2015	MultiCCAligned	v1	2647	1365314	7	.26	0
 GlobalVoices	v2015	CCAligned	v1	2647	1365289	7	.26	0
+GlobalVoices	v2015	wikimedia	v20230407	2647	87066	1	.03	0
 GlobalVoices	v2015	wikimedia	v20210402	2647	41018	1	.03	0
 GlobalVoices	v2015	OpenSubtitles	v2018	2647	26235	1	.03	0
+GlobalVoices	v2015	OpenSubtitles	v2016	2647	13164	1	.03	0
 GlobalVoices	v2015	Tanzil	v1	2647	736126	0	0	0
 GlobalVoices	v2015	Anuvaad	v1	2647	160565	0	0	0
 GlobalVoices	v2015	Joshua-IPC	v1	2647	32076	0	0	0
@@ -18,6 +22,7 @@ GlobalVoices	v2015	NeuLab-TedTalks	v1	2647	6426	0	0	0
 GlobalVoices	v2015	tico-19	v2020-10-28	2647	3070	0	0	0
 GlobalVoices	v2015	GNOME	v1	2647	2744	0	0	0
 GlobalVoices	v2015	Ubuntu	v14.10	2647	2584	0	0	0
+GlobalVoices	v2015	Tatoeba	v2023-04-12	2647	1667	0	0	0
 GlobalVoices	v2015	Tatoeba	v2021-03-10	2647	1665	0	0	0
 GlobalVoices	v2015	Tatoeba	v2021-07-22	2647	1665	0	0	0
 GlobalVoices	v2015	Tatoeba	v2022-03-03	2647	1665	0	0	0

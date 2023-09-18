@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	579735	579746	579735	100.00	99.99
+CCAligned	v1	NLLB	v1	579735	46208096	9506	1.63	.02
 CCAligned	v1	XLEnt	v1.1	579735	141795	1340	.23	.94
 CCAligned	v1	XLEnt	v1.2	579735	141795	1340	.23	.94
 CCAligned	v1	XLEnt	v1	579735	141795	1340	.23	.94
 CCAligned	v1	Samanantar	v0.2	579735	4911406	468	.08	0
 CCAligned	v1	Anuvaad	v1	579735	1563069	188	.03	.01
+CCAligned	v1	wikimedia	v20230407	579735	61616	76	.01	.12
 CCAligned	v1	wikimedia	v20210402	579735	30406	67	.01	.22
 CCAligned	v1	KDE4	v2	579735	14214	72	.01	.50
 CCAligned	v1	Ubuntu	v14.10	579735	4213	71	.01	1.68
@@ -12,8 +15,10 @@ CCAligned	v1	bible-uedin	v1	579735	61752	1	0	0
 CCAligned	v1	Joshua-IPC	v1	579735	41307	55	0	.13
 CCAligned	v1	pmindia	v1	579735	40254	3	0	0
 CCAligned	v1	OpenSubtitles	v2018	579735	22639	33	0	.14
+CCAligned	v1	OpenSubtitles	v2016	579735	22441	34	0	.15
 CCAligned	v1	QED	v2.0a	579735	6045	0	0	0
 CCAligned	v1	TED2020	v1	579735	5208	4	0	.07
+CCAligned	v1	Tatoeba	v2023-04-12	579735	263	2	0	.76
 CCAligned	v1	Tatoeba	v2020-11-09	579735	262	2	0	.76
 CCAligned	v1	Tatoeba	v2021-03-10	579735	262	2	0	.76
 CCAligned	v1	Tatoeba	v2021-07-22	579735	262	2	0	.76

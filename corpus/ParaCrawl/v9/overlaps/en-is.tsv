@@ -1,5 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+ParaCrawl	v9	ParaCrawl	v8	2967520	5724257	1449372	48.84	25.31
+ParaCrawl	v9	MultiParaCrawl	v7.1	2967520	2392423	327369	11.03	13.68
+ParaCrawl	v9	ParaCrawl	v7.1	2967520	2392422	325126	10.95	13.58
 ParaCrawl	v9	CCMatrix	v1	2967520	8678395	56430	1.90	.65
+ParaCrawl	v9	NLLB	v1	2967520	8678252	56432	1.90	.65
+ParaCrawl	v9	MultiCCAligned	v1	2967520	1186757	32540	1.09	2.74
 ParaCrawl	v9	CCAligned	v1	2967520	1186739	32540	1.09	2.74
 ParaCrawl	v9	TildeMODEL	v2018	2967520	413200	12608	.42	3.05
 ParaCrawl	v9	ParIce	v1	2967520	1480222	12451	.41	.84
@@ -12,6 +17,7 @@ ParaCrawl	v9	ELRC-728-www.norden.org	v1	2967520	41073	2017	.06	4.91
 ParaCrawl	v9	ELRC-www.norden.org	v1	2967520	41073	2017	.06	4.91
 ParaCrawl	v9	ELRC-517-Icelandic_Directorat	v1	2967520	1535	600	.02	39.08
 ParaCrawl	v9	OpenSubtitles	v2018	2967520	1361307	295	0	.02
+ParaCrawl	v9	OpenSubtitles	v2016	2967520	1195814	159	0	.01
 ParaCrawl	v9	XLEnt	v1.1	2967520	930819	138	0	.01
 ParaCrawl	v9	XLEnt	v1.2	2967520	930819	138	0	.01
 ParaCrawl	v9	XLEnt	v1	2967520	930819	138	0	.01
@@ -23,6 +29,7 @@ ParaCrawl	v9	QED	v2.0a	2967520	26217	157	0	.59
 ParaCrawl	v9	ELRC-4324-Government_Offices_I	v1	2967520	18176	10	0	.05
 ParaCrawl	v9	ELRC-4334-Rkiskaup_2020	v1	2967520	10220	12	0	.11
 ParaCrawl	v9	ELRC-4338-University_Iceland	v1	2967520	9808	92	0	.93
+ParaCrawl	v9	Tatoeba	v2023-04-12	2967520	9595	56	0	.58
 ParaCrawl	v9	Tatoeba	v2022-03-03	2967520	9518	56	0	.58
 ParaCrawl	v9	Tatoeba	v2021-03-10	2967520	9440	56	0	.59
 ParaCrawl	v9	Tatoeba	v2021-07-22	2967520	9440	56	0	.59
@@ -33,6 +40,7 @@ ParaCrawl	v9	EUbookshop	v2	2967520	9221	174	0	1.88
 ParaCrawl	v9	Tatoeba	v2	2967520	8139	38	0	.46
 ParaCrawl	v9	OpenSubtitles	v1	2967520	6782	10	0	.14
 ParaCrawl	v9	GNOME	v1	2967520	5424	1	0	.01
+ParaCrawl	v9	wikimedia	v20230407	2967520	4394	78	0	1.77
 ParaCrawl	v9	ELRC-505-www.pfs.is	v1	2967520	2866	1	0	.03
 ParaCrawl	v9	ECDC	v2016-03-16	2967520	2427	4	0	.16
 ParaCrawl	v9	ELRC-508-Tilde_Statistics_Ice	v1	2967520	2426	23	0	.94

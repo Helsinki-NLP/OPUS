@@ -1,7 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+OpenSubtitles	v2018	OpenSubtitles	v2016	42367	16162	14426	34.05	89.25
+OpenSubtitles	v2018	NLLB	v1	42367	39177332	445	1.05	0
 OpenSubtitles	v2018	QED	v2.0a	42367	26639	109	.25	.40
+OpenSubtitles	v2018	MultiCCAligned	v1	42367	1497460	50	.11	0
 OpenSubtitles	v2018	CCAligned	v1	42367	1497433	50	.11	0
 OpenSubtitles	v2018	CCMatrix	v1	42367	8635507	22	.05	0
+OpenSubtitles	v2018	Tatoeba	v2023-04-12	42367	2429	16	.03	.65
 OpenSubtitles	v2018	Tatoeba	v2022-03-03	42367	2417	16	.03	.66
 OpenSubtitles	v2018	Tatoeba	v2021-07-22	42367	2382	16	.03	.67
 OpenSubtitles	v2018	Tatoeba	v2020-11-09	42367	2381	16	.03	.67
@@ -16,6 +20,7 @@ OpenSubtitles	v2018	TED2020	v1	42367	2254	7	.01	.31
 OpenSubtitles	v2018	XLEnt	v1.1	42367	219543	4	0	0
 OpenSubtitles	v2018	XLEnt	v1.2	42367	219543	4	0	0
 OpenSubtitles	v2018	XLEnt	v1	42367	219543	4	0	0
+OpenSubtitles	v2018	wikimedia	v20230407	42367	76284	1	0	0
 OpenSubtitles	v2018	wikimedia	v20210402	42367	64218	1	0	0
 OpenSubtitles	v2018	bible-uedin	v1	42367	61459	0	0	0
 OpenSubtitles	v2018	Ubuntu	v14.10	42367	12699	3	0	.02

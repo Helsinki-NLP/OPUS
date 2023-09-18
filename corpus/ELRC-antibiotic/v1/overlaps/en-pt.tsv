@@ -1,15 +1,25 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-antibiotic	v1	ELRC-3212-antibiotic	v1	837	837	837	100.00	100.00
 ELRC-antibiotic	v1	CCMatrix	v1	837	172208300	235	28.07	0
+ELRC-antibiotic	v1	NLLB	v1	837	172204569	235	28.07	0
+ELRC-antibiotic	v1	ParaCrawl	v8	837	102630613	170	20.31	0
 ELRC-antibiotic	v1	ParaCrawl	v9	837	84925921	154	18.39	0
+ELRC-antibiotic	v1	MultiCCAligned	v1	837	46096787	4	.47	0
 ELRC-antibiotic	v1	CCAligned	v1	837	13523846	4	.47	0
 ELRC-antibiotic	v1	ELRC-2724-EMEA	v1	837	768690	4	.47	0
 ELRC-antibiotic	v1	ELRC-EMEA	v1	837	768690	4	.47	0
+ELRC-antibiotic	v1	ParaCrawl	v1	837	2801742	3	.35	0
 ELRC-antibiotic	v1	TildeMODEL	v2018	837	1114245	3	.35	0
+ELRC-antibiotic	v1	wikimedia	v20230407	837	787133	3	.35	0
 ELRC-antibiotic	v1	wikimedia	v20210402	837	485721	3	.35	0
+ELRC-antibiotic	v1	MultiParaCrawl	v7.1	837	31486943	2	.23	0
 ELRC-antibiotic	v1	OpenSubtitles	v2018	837	26685270	2	.23	0
+ELRC-antibiotic	v1	OpenSubtitles	v2016	837	20373196	2	.23	0
 ELRC-antibiotic	v1	Europarl	v8	837	1957999	2	.23	0
+ELRC-antibiotic	v1	Europarl	v7	837	1957604	2	.23	0
+ELRC-antibiotic	v1	Europarl	v3	837	1266094	2	.23	0
 ELRC-antibiotic	v1	EMEA	v3	837	356528	2	.23	0
+ELRC-antibiotic	v1	Tatoeba	v2023-04-12	837	227632	2	.23	0
 ELRC-antibiotic	v1	Tatoeba	v2022-03-03	837	219187	2	.23	0
 ELRC-antibiotic	v1	Tatoeba	v2021-07-22	837	217627	2	.23	0
 ELRC-antibiotic	v1	Tatoeba	v2021-03-10	837	215977	2	.23	0
@@ -19,6 +29,9 @@ ELRC-antibiotic	v1	News-Commentary	v14	837	53135	2	.23	0
 ELRC-antibiotic	v1	News-Commentary	v16	837	53135	2	.23	0
 ELRC-antibiotic	v1	ELRC-2025-EUIPO_2017	v1	837	17108	2	.23	.01
 ELRC-antibiotic	v1	ELRC-EUIPO_2017	v1	837	17108	2	.23	.01
+ELRC-antibiotic	v1	ParaCrawl	v7.1	837	31486942	1	.11	0
+ELRC-antibiotic	v1	ParaCrawl	v5	837	13783238	1	.11	0
+ELRC-antibiotic	v1	ParaCrawl	v4	837	8111908	1	.11	0
 ELRC-antibiotic	v1	LinguaTools-WikiTitles	v2014	837	7955215	1	.11	0
 ELRC-antibiotic	v1	XLEnt	v1.1	837	5417987	1	.11	0
 ELRC-antibiotic	v1	XLEnt	v1.2	837	5417987	1	.11	0
@@ -27,6 +40,7 @@ ELRC-antibiotic	v1	EUbookshop	v2	837	3772762	1	.11	0
 ELRC-antibiotic	v1	DGT	v2019	837	3617153	1	.11	0
 ELRC-antibiotic	v1	SciELO	v1	837	2746160	1	.11	0
 ELRC-antibiotic	v1	WikiMatrix	v1	837	2461553	1	.11	0
+ELRC-antibiotic	v1	DGT	v4	837	1963751	1	.11	0
 ELRC-antibiotic	v1	JRC-Acquis	v3.0	837	1040014	1	.11	0
 ELRC-antibiotic	v1	ELRC-5067-SciPar	v1	837	974168	1	.11	0
 ELRC-antibiotic	v1	QED	v2.0a	837	414174	1	.11	0

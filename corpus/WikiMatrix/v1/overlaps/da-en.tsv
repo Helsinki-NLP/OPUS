@@ -1,12 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	436050	51996397	110500	25.34	.21
+WikiMatrix	v1	NLLB	v1	436050	51995658	110501	25.34	.21
+WikiMatrix	v1	ParaCrawl	v8	436050	41939064	71560	16.41	.17
 WikiMatrix	v1	ParaCrawl	v9	436050	34207153	64466	14.78	.18
+WikiMatrix	v1	MultiParaCrawl	v7.1	436050	10407633	15577	3.57	.14
+WikiMatrix	v1	ParaCrawl	v7.1	436050	10407632	15539	3.56	.14
+WikiMatrix	v1	ParaCrawl	v5	436050	4569268	7304	1.67	.15
+WikiMatrix	v1	wikimedia	v20230407	436050	67071	2520	.57	3.75
 WikiMatrix	v1	wikimedia	v20210402	436050	40624	2522	.57	6.20
 WikiMatrix	v1	OpenSubtitles	v2018	436050	12095471	279	.06	0
+WikiMatrix	v1	OpenSubtitles	v2016	436050	9378053	237	.05	0
 WikiMatrix	v1	ELRC-3066-wikipedia_health	v1	436050	523	182	.04	34.79
 WikiMatrix	v1	ELRC-wikipedia_health	v1	436050	523	182	.04	34.79
 WikiMatrix	v1	ELRC_2922	v1	436050	522	176	.04	33.71
 WikiMatrix	v1	ELRC-4248-NTEU_TierA	v1	436050	13598397	104	.02	0
+WikiMatrix	v1	MultiCCAligned	v1	436050	10687333	112	.02	0
 WikiMatrix	v1	CCAligned	v1	436050	10687146	112	.02	0
 WikiMatrix	v1	LinguaTools-WikiTitles	v2014	436050	2968008	106	.02	0
 WikiMatrix	v1	XLEnt	v1.1	436050	2832109	98	.02	0
@@ -14,7 +22,11 @@ WikiMatrix	v1	XLEnt	v1.2	436050	2832109	98	.02	0
 WikiMatrix	v1	XLEnt	v1	436050	2832109	98	.02	0
 WikiMatrix	v1	EUbookshop	v2	436050	4495240	28	0	0
 WikiMatrix	v1	DGT	v2019	436050	3567131	12	0	0
+WikiMatrix	v1	ParaCrawl	v4	436050	2395328	16	0	0
 WikiMatrix	v1	Europarl	v8	436050	1949878	24	0	0
+WikiMatrix	v1	Europarl	v7	436050	1949502	24	0	0
+WikiMatrix	v1	DGT	v4	436050	1946755	12	0	0
+WikiMatrix	v1	Europarl	v3	436050	1276675	13	0	0
 WikiMatrix	v1	ELRC-2716-EMEA	v1	436050	767928	5	0	0
 WikiMatrix	v1	ELRC-EMEA	v1	436050	767928	5	0	0
 WikiMatrix	v1	ELRC_2682	v1	436050	767927	4	0	0
@@ -30,6 +42,7 @@ WikiMatrix	v1	NeuLab-TedTalks	v1	436050	47296	4	0	0
 WikiMatrix	v1	ELRC-847-mst.dk	v1	436050	36733	1	0	0
 WikiMatrix	v1	ELRC-730-www.norden.org	v1	436050	36624	2	0	0
 WikiMatrix	v1	ELRC-www.norden.org	v1	436050	36624	2	0	0
+WikiMatrix	v1	Tatoeba	v2023-04-12	436050	32727	19	0	.05
 WikiMatrix	v1	Tatoeba	v2022-03-03	436050	31862	19	0	.05
 WikiMatrix	v1	Tatoeba	v2021-07-22	436050	30835	19	0	.06
 WikiMatrix	v1	Tatoeba	v2021-03-10	436050	30475	19	0	.06

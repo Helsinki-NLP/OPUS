@@ -1,6 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	13960	1721265	876	6.27	.05
+WikiMatrix	v1	NLLB	v1	13960	2326323	55	.39	0
+WikiMatrix	v1	wikimedia	v20230407	13960	538	12	.08	2.23
 WikiMatrix	v1	wikimedia	v20210402	13960	482	12	.08	2.48
+WikiMatrix	v1	MultiCCAligned	v1	13960	378831	5	.03	0
 WikiMatrix	v1	CCAligned	v1	13960	378824	5	.03	0
 WikiMatrix	v1	GlobalVoices	v2018q4	13960	343853	3	.02	0
 WikiMatrix	v1	XLEnt	v1.1	13960	310769	3	.02	0
@@ -15,6 +18,7 @@ WikiMatrix	v1	Tatoeba	v2020-11-09	13960	52	1	0	1.92
 WikiMatrix	v1	Tatoeba	v2021-03-10	13960	52	1	0	1.92
 WikiMatrix	v1	Tatoeba	v2021-07-22	13960	52	1	0	1.92
 WikiMatrix	v1	Tatoeba	v2022-03-03	13960	52	1	0	1.92
+WikiMatrix	v1	Tatoeba	v2023-04-12	13960	52	1	0	1.92
 WikiMatrix	v1	Tatoeba	v20190709	13960	51	0	0	0
 WikiMatrix	v1	Tatoeba	v2020-05-31	13960	51	0	0	0
 WikiMatrix	v1	Tatoeba	v2	13960	19	0	0	0

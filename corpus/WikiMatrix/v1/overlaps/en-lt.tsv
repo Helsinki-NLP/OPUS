@@ -1,11 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	157526	23162636	30163	19.14	.13
+WikiMatrix	v1	NLLB	v1	157526	23162019	30163	19.14	.13
 WikiMatrix	v1	ParaCrawl	v9	157526	13191974	19009	12.06	.14
+WikiMatrix	v1	ParaCrawl	v8	157526	8043262	8991	5.70	.11
+WikiMatrix	v1	MultiParaCrawl	v7.1	157526	4433563	388	.24	0
+WikiMatrix	v1	ParaCrawl	v7.1	157526	4433562	387	.24	0
+WikiMatrix	v1	wikimedia	v20230407	157526	13796	262	.16	1.89
 WikiMatrix	v1	wikimedia	v20210402	157526	7387	262	.16	3.54
 WikiMatrix	v1	ELRC-4270-NTEU_TierA	v1	157526	7890285	36	.02	0
+WikiMatrix	v1	MultiCCAligned	v1	157526	5183742	36	.02	0
 WikiMatrix	v1	CCAligned	v1	157526	5183648	36	.02	0
 WikiMatrix	v1	DGT	v2019	157526	3648865	18	.01	0
 WikiMatrix	v1	TildeMODEL	v2018	157526	2053491	24	.01	0
+WikiMatrix	v1	DGT	v4	157526	1967340	18	.01	0
 WikiMatrix	v1	OpenSubtitles	v2018	157526	1212456	19	.01	0
 WikiMatrix	v1	ELRC-3069-wikipedia_health	v1	157526	136	28	.01	20.58
 WikiMatrix	v1	ELRC-wikipedia_health	v1	157526	136	28	.01	20.58
@@ -13,9 +20,13 @@ WikiMatrix	v1	ELRC_2922	v1	157526	135	27	.01	20.00
 WikiMatrix	v1	XLEnt	v1.1	157526	1562418	8	0	0
 WikiMatrix	v1	XLEnt	v1	157526	1562418	8	0	0
 WikiMatrix	v1	XLEnt	v1.2	157526	1562418	8	0	0
+WikiMatrix	v1	ParaCrawl	v5	157526	1263838	7	0	0
+WikiMatrix	v1	OpenSubtitles	v2016	157526	1023613	15	0	0
+WikiMatrix	v1	ParaCrawl	v4	157526	841635	7	0	0
 WikiMatrix	v1	ELRC-2717-EMEA	v1	157526	757666	5	0	0
 WikiMatrix	v1	ELRC-EMEA	v1	157526	757666	5	0	0
 WikiMatrix	v1	Europarl	v8	157526	616663	2	0	0
+WikiMatrix	v1	Europarl	v7	157526	616275	2	0	0
 WikiMatrix	v1	JRC-Acquis	v3.0	157526	500372	2	0	0
 WikiMatrix	v1	EUbookshop	v2	157526	373431	10	0	0
 WikiMatrix	v1	EMEA	v3	157526	335483	1	0	0
@@ -38,6 +49,7 @@ WikiMatrix	v1	ELRC-405-President_Lithuania	v1	157526	12704	1	0	0
 WikiMatrix	v1	ELRA-W0160	v1	157526	12703	0	0	0
 WikiMatrix	v1	ELRC-2878-EU_publications_medi	v1	157526	12573	3	0	.02
 WikiMatrix	v1	ELRC-EU_publications	v1	157526	12573	3	0	.02
+WikiMatrix	v1	Tatoeba	v2023-04-12	157526	8229	2	0	.02
 WikiMatrix	v1	Tatoeba	v2022-03-03	157526	8176	2	0	.02
 WikiMatrix	v1	Tatoeba	v2021-07-22	157526	8172	2	0	.02
 WikiMatrix	v1	Tatoeba	v2021-03-10	157526	8167	2	0	.02

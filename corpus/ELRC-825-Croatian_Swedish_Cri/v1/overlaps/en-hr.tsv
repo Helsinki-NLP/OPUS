@@ -1,6 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-4142-NTEU_TierA	v1	907	2273079	906	99.88	.03
 ELRC-825-Croatian_Swedish_Cri	v1	ELRA-W0238	v1	907	906	901	99.33	99.44
+ELRC-825-Croatian_Swedish_Cri	v1	MultiCCAligned	v1	907	9327209	5	.55	0
 ELRC-825-Croatian_Swedish_Cri	v1	CCAligned	v1	907	9327047	5	.55	0
 ELRC-825-Croatian_Swedish_Cri	v1	XLEnt	v1.1	907	2717963	3	.33	0
 ELRC-825-Croatian_Swedish_Cri	v1	XLEnt	v1.2	907	2717963	3	.33	0
@@ -8,6 +9,8 @@ ELRC-825-Croatian_Swedish_Cri	v1	XLEnt	v1	907	2717963	3	.33	0
 ELRC-825-Croatian_Swedish_Cri	v1	TildeMODEL	v2018	907	736487	3	.33	0
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-2541-Regional_Development	v1	907	7903	2	.22	.02
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-Regional_Development	v1	907	7903	2	.22	.02
+ELRC-825-Croatian_Swedish_Cri	v1	ParaCrawl	v8	907	11063124	1	.11	0
+ELRC-825-Croatian_Swedish_Cri	v1	MultiParaCrawl	v7.1	907	6959286	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	ParaCrawl	v9	907	3240421	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-5067-SciPar	v1	907	806581	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-2706-EMEA	v1	907	644560	1	.11	0
@@ -19,6 +22,7 @@ ELRC-825-Croatian_Swedish_Cri	v1	EuroPat	v3	907	154775	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	NeuLab-TedTalks	v1	907	124970	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	EuroPat	v2	907	75105	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-2542-Agriculture	v1	907	68113	1	.11	0
+ELRC-825-Croatian_Swedish_Cri	v1	wikimedia	v20230407	907	40443	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	907	40102	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-3556-EUR_LEX_covid	v1	907	21997	1	.11	0
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-EUR_LEX	v1	907	21997	1	.11	0
@@ -43,6 +47,7 @@ ELRC-825-Croatian_Swedish_Cri	v1	ELRC-989-Foreign_Affairs_Croa	v1	907	3103	1	.11
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-Foreign_Affairs	v1	907	3103	1	.11	.03
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-3478-EC_EUROPA_covid	v1	907	2595	1	.11	.03
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-EC_EUROPA	v1	907	2595	1	.11	.03
+ELRC-825-Croatian_Swedish_Cri	v1	Tatoeba	v2023-04-12	907	2444	1	.11	.04
 ELRC-825-Croatian_Swedish_Cri	v1	Tatoeba	v2022-03-03	907	2431	1	.11	.04
 ELRC-825-Croatian_Swedish_Cri	v1	Tatoeba	v2021-07-22	907	2428	1	.11	.04
 ELRC-825-Croatian_Swedish_Cri	v1	Tatoeba	v2021-03-10	907	2416	1	.11	.04
@@ -62,7 +67,12 @@ ELRC-825-Croatian_Swedish_Cri	v1	ELRC-vaccination	v1	907	508	1	.11	.19
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-3284-EUROPARL_covid	v1	907	475	1	.11	.21
 ELRC-825-Croatian_Swedish_Cri	v1	ELRC-EUROPARL_covid	v1	907	475	1	.11	.21
 ELRC-825-Croatian_Swedish_Cri	v1	OpenSubtitles	v2018	907	28591047	0	0	0
+ELRC-825-Croatian_Swedish_Cri	v1	OpenSubtitles	v2016	907	22002428	0	0	0
 ELRC-825-Croatian_Swedish_Cri	v1	CCMatrix	v1	907	18694537	0	0	0
+ELRC-825-Croatian_Swedish_Cri	v1	NLLB	v1	907	18694206	0	0	0
+ELRC-825-Croatian_Swedish_Cri	v1	ParaCrawl	v7.1	907	6959288	0	0	0
+ELRC-825-Croatian_Swedish_Cri	v1	ParaCrawl	v5	907	1846962	0	0	0
+ELRC-825-Croatian_Swedish_Cri	v1	ParaCrawl	v4	907	995511	0	0	0
 ELRC-825-Croatian_Swedish_Cri	v1	DGT	v2019	907	668790	0	0	0
 ELRC-825-Croatian_Swedish_Cri	v1	SETIMES	v2	907	204109	0	0	0
 ELRC-825-Croatian_Swedish_Cri	v1	QED	v2.0a	907	196487	0	0	0

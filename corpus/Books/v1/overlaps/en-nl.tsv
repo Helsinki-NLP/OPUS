@@ -1,14 +1,26 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Books	v1	ParaCrawl	v9	38507	89135870	6850	17.78	0
+Books	v1	MultiParaCrawl	v7.1	38507	31295016	4259	11.06	.01
+Books	v1	ParaCrawl	v7.1	38507	31295015	4258	11.05	.01
+Books	v1	ParaCrawl	v5	38507	10509072	2880	7.47	.02
+Books	v1	ParaCrawl	v8	38507	98473905	2274	5.90	0
+Books	v1	ParaCrawl	v4	38507	5630021	1861	4.83	.03
+Books	v1	MultiCCAligned	v1	38507	36001309	422	1.09	0
 Books	v1	CCMatrix	v1	38507	106106500	342	.88	0
+Books	v1	NLLB	v1	38507	106104992	342	.88	0
 Books	v1	CCAligned	v1	38507	13043190	288	.74	0
+Books	v1	ParaCrawl	v1	38507	2552000	201	.52	0
 Books	v1	OpenSubtitles	v2018	38507	30779675	62	.16	0
+Books	v1	OpenSubtitles	v2016	38507	24279928	53	.13	0
 Books	v1	QED	v2.0a	38507	385191	26	.06	0
 Books	v1	OpenSubtitles	v1	38507	275351	20	.05	0
 Books	v1	EUbookshop	v2	38507	5367397	12	.03	0
 Books	v1	Europarl	v8	38507	1986220	14	.03	0
+Books	v1	Europarl	v7	38507	1985837	14	.03	0
+Books	v1	Europarl	v3	38507	1291768	12	.03	0
 Books	v1	TED2020	v1	38507	312281	11	.02	0
 Books	v1	NeuLab-TedTalks	v1	38507	200570	9	.02	0
+Books	v1	Tatoeba	v2023-04-12	38507	79518	9	.02	.01
 Books	v1	Tatoeba	v2022-03-03	38507	75815	9	.02	.01
 Books	v1	Tatoeba	v2021-07-22	38507	75072	9	.02	.01
 Books	v1	Tatoeba	v2021-03-10	38507	74031	9	.02	.01
@@ -21,6 +33,7 @@ Books	v1	XLEnt	v1.2	38507	5789605	5	.01	0
 Books	v1	XLEnt	v1	38507	5789605	5	.01	0
 Books	v1	DGT	v2019	38507	3543639	4	.01	0
 Books	v1	TildeMODEL	v2018	38507	3481744	6	.01	0
+Books	v1	DGT	v4	38507	1945115	4	.01	0
 Books	v1	TED2013	v1.1	38507	144900	5	.01	0
 Books	v1	GlobalVoices	v2017q3	38507	37839	4	.01	.01
 Books	v1	WikiMatrix	v1	38507	796508	2	0	0
@@ -34,6 +47,7 @@ Books	v1	ELITR-ECA	v1	38507	249246	0	0	0
 Books	v1	KDE4	v2	38507	161655	0	0	0
 Books	v1	ECB	v1	38507	126344	0	0	0
 Books	v1	Ubuntu	v14.10	38507	110108	0	0	0
+Books	v1	wikimedia	v20230407	38507	106677	0	0	0
 Books	v1	wikimedia	v20210402	38507	68829	0	0	0
 Books	v1	GNOME	v1	38507	60856	0	0	0
 Books	v1	bible-uedin	v1	38507	57722	0	0	0

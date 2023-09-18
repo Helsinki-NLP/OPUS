@@ -1,6 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	83	1073	83	100.00	7.73
 wikimedia	v20210402	wikimedia	v20190628	83	57	8	9.63	14.03
+wikimedia	v20210402	NLLB	v1	83	9266200	3	3.61	0
+wikimedia	v20210402	MultiCCAligned	v1	83	86663	1	1.20	0
 wikimedia	v20210402	CCAligned	v1	83	86662	1	1.20	0
+wikimedia	v20210402	Tatoeba	v2023-04-12	83	43	1	1.20	2.32
 wikimedia	v20210402	Tatoeba	v2020-11-09	83	42	1	1.20	2.38
 wikimedia	v20210402	Tatoeba	v2021-03-10	83	42	1	1.20	2.38
 wikimedia	v20210402	Tatoeba	v2021-07-22	83	42	1	1.20	2.38

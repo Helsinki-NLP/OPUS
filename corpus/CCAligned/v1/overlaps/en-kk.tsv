@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	687353	687365	687353	100.00	99.99
+CCAligned	v1	NLLB	v1	687353	34443405	3684	.53	.01
 CCAligned	v1	XLEnt	v1.1	687353	157242	687	.09	.43
 CCAligned	v1	XLEnt	v1.2	687353	157242	687	.09	.43
 CCAligned	v1	XLEnt	v1	687353	157242	687	.09	.43
 CCAligned	v1	KDE4	v2	687353	64497	124	.01	.19
 CCAligned	v1	WikiMatrix	v1	687353	20054	3	0	.01
+CCAligned	v1	wikimedia	v20230407	687353	11206	11	0	.09
 CCAligned	v1	News-Commentary	v14	687353	9573	1	0	.01
 CCAligned	v1	News-Commentary	v16	687353	9573	1	0	.01
 CCAligned	v1	TED2020	v1	687353	9395	2	0	.02
@@ -13,8 +16,10 @@ CCAligned	v1	WMT-News	v2019	687353	4063	0	0	0
 CCAligned	v1	NeuLab-TedTalks	v1	687353	3612	1	0	.02
 CCAligned	v1	OpenSubtitles	v2018	687353	3528	4	0	.11
 CCAligned	v1	GNOME	v1	687353	3431	30	0	.87
+CCAligned	v1	OpenSubtitles	v2016	687353	1875	2	0	.10
 CCAligned	v1	wikimedia	v20190628	687353	1198	1	0	.08
 CCAligned	v1	ELRC-5042-Kazakh_Legal_MT	v1	687353	1000	1	0	.10
+CCAligned	v1	Tatoeba	v2023-04-12	687353	438	3	0	.68
 CCAligned	v1	Tatoeba	v2022-03-03	687353	409	3	0	.73
 CCAligned	v1	Tatoeba	v2021-03-10	687353	407	3	0	.73
 CCAligned	v1	Tatoeba	v2021-07-22	687353	407	3	0	.73

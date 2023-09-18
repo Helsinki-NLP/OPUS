@@ -1,4 +1,5 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+ELRC-3554-www.kriis.ee	v1	MultiCCAligned	v1	433	4086863	13	3.00	0
 ELRC-3554-www.kriis.ee	v1	CCAligned	v1	433	4086794	13	3.00	0
 ELRC-3554-www.kriis.ee	v1	ELRC-4271-NTEU_TierA	v1	433	7730635	8	1.84	0
 ELRC-3554-www.kriis.ee	v1	XLEnt	v1.1	433	1677851	8	1.84	0
@@ -6,8 +7,10 @@ ELRC-3554-www.kriis.ee	v1	XLEnt	v1.2	433	1677851	8	1.84	0
 ELRC-3554-www.kriis.ee	v1	XLEnt	v1	433	1677851	8	1.84	0
 ELRC-3554-www.kriis.ee	v1	ParaCrawl	v9	433	8539880	4	.92	0
 ELRC-3554-www.kriis.ee	v1	DGT	v2019	433	3620944	4	.92	0
+ELRC-3554-www.kriis.ee	v1	DGT	v4	433	1954038	3	.69	0
 ELRC-3554-www.kriis.ee	v1	ELRC-429-Legal_Estonian_Justi	v1	433	47215	3	.69	0
 ELRC-3554-www.kriis.ee	v1	ELRC-938-vp2001_2006.presiden	v1	433	25557	3	.69	.01
+ELRC-3554-www.kriis.ee	v1	ParaCrawl	v8	433	8585187	2	.46	0
 ELRC-3554-www.kriis.ee	v1	TildeMODEL	v2018	433	2032695	2	.46	0
 ELRC-3554-www.kriis.ee	v1	ELRC-2723-EMEA	v1	433	762693	2	.46	0
 ELRC-3554-www.kriis.ee	v1	ELRC-EMEA	v1	433	762693	2	.46	0
@@ -15,8 +18,11 @@ ELRC-3554-www.kriis.ee	v1	EUbookshop	v2	433	365564	2	.46	0
 ELRC-3554-www.kriis.ee	v1	KDE4	v2	433	191995	2	.46	0
 ELRC-3554-www.kriis.ee	v1	ECB	v1	433	119327	2	.46	0
 ELRC-3554-www.kriis.ee	v1	ELRA-W0167	v1	433	47214	2	.46	0
+ELRC-3554-www.kriis.ee	v1	wikimedia	v20230407	433	23146	2	.46	0
 ELRC-3554-www.kriis.ee	v1	wikimedia	v20210402	433	17145	2	.46	.01
 ELRC-3554-www.kriis.ee	v1	ELRC-393-Estonian_Cabinet_Min	v1	433	11530	2	.46	.01
+ELRC-3554-www.kriis.ee	v1	MultiParaCrawl	v7.1	433	3180465	1	.23	0
+ELRC-3554-www.kriis.ee	v1	ParaCrawl	v1	433	1289766	1	.23	0
 ELRC-3554-www.kriis.ee	v1	ELRC_2682	v1	433	762692	1	.23	0
 ELRC-3554-www.kriis.ee	v1	EMEA	v3	433	329076	1	.23	0
 ELRC-3554-www.kriis.ee	v1	WikiMatrix	v1	433	243870	1	.23	0
@@ -51,6 +57,7 @@ ELRC-3554-www.kriis.ee	v1	Ubuntu	v14.10	433	6161	1	.23	.01
 ELRC-3554-www.kriis.ee	v1	ELRC-714-Parliament_Estonia	v1	433	5326	1	.23	.01
 ELRC-3554-www.kriis.ee	v1	ELRC-3471-EC_EUROPA_covid	v1	433	2707	1	.23	.03
 ELRC-3554-www.kriis.ee	v1	ELRC-EC_EUROPA	v1	433	2707	1	.23	.03
+ELRC-3554-www.kriis.ee	v1	Tatoeba	v2023-04-12	433	2538	1	.23	.03
 ELRC-3554-www.kriis.ee	v1	ECDC	v2016-03-16	433	2484	1	.23	.04
 ELRC-3554-www.kriis.ee	v1	Tatoeba	v2021-07-22	433	2448	1	.23	.04
 ELRC-3554-www.kriis.ee	v1	Tatoeba	v2022-03-03	433	2448	1	.23	.04
@@ -66,8 +73,14 @@ ELRC-3554-www.kriis.ee	v1	ELRC-vaccination	v1	433	464	1	.23	.21
 ELRC-3554-www.kriis.ee	v1	ELRC-3079-wikipedia_health	v1	433	278	1	.23	.35
 ELRC-3554-www.kriis.ee	v1	ELRC-wikipedia_health	v1	433	278	1	.23	.35
 ELRC-3554-www.kriis.ee	v1	CCMatrix	v1	433	21877049	0	0	0
+ELRC-3554-www.kriis.ee	v1	NLLB	v1	433	21876691	0	0	0
 ELRC-3554-www.kriis.ee	v1	OpenSubtitles	v2018	433	10204743	0	0	0
+ELRC-3554-www.kriis.ee	v1	OpenSubtitles	v2016	433	8489455	0	0	0
+ELRC-3554-www.kriis.ee	v1	ParaCrawl	v7.1	433	3180464	0	0	0
+ELRC-3554-www.kriis.ee	v1	ParaCrawl	v5	433	1379164	0	0	0
+ELRC-3554-www.kriis.ee	v1	ParaCrawl	v4	433	848980	0	0	0
 ELRC-3554-www.kriis.ee	v1	Europarl	v8	433	632077	0	0	0
+ELRC-3554-www.kriis.ee	v1	Europarl	v7	433	631699	0	0	0
 ELRC-3554-www.kriis.ee	v1	JRC-Acquis	v3.0	433	484378	0	0	0
 ELRC-3554-www.kriis.ee	v1	QED	v2.0a	433	159715	0	0	0
 ELRC-3554-www.kriis.ee	v1	bible-uedin	v1	433	61542	0	0	0

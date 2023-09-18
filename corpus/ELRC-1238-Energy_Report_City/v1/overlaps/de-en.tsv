@@ -1,19 +1,28 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+ELRC-1238-Energy_Report_City	v1	MultiCCAligned	v1	482	91967663	5	1.03	0
 ELRC-1238-Energy_Report_City	v1	CCAligned	v1	482	15192790	5	1.03	0
+ELRC-1238-Energy_Report_City	v1	ParaCrawl	v1	482	36203700	4	.82	0
 ELRC-1238-Energy_Report_City	v1	EUbookshop	v2	482	8268818	4	.82	0
 ELRC-1238-Energy_Report_City	v1	TildeMODEL	v2018	482	4184303	4	.82	0
 ELRC-1238-Energy_Report_City	v1	DGT	v2019	482	3598219	4	.82	0
+ELRC-1238-Energy_Report_City	v1	DGT	v4	482	1949796	4	.82	0
 ELRC-1238-Energy_Report_City	v1	XLEnt	v1.1	482	3802840	3	.62	0
 ELRC-1238-Energy_Report_City	v1	XLEnt	v1.2	482	3802840	3	.62	0
 ELRC-1238-Energy_Report_City	v1	XLEnt	v1	482	3802840	3	.62	0
 ELRC-1238-Energy_Report_City	v1	ParaCrawl	v9	482	278310902	2	.41	0
+ELRC-1238-Energy_Report_City	v1	MultiParaCrawl	v7.1	482	82638070	2	.41	0
 ELRC-1238-Energy_Report_City	v1	ELRC-2714-EMEA	v1	482	752887	2	.41	0
 ELRC-1238-Energy_Report_City	v1	ELRC-EMEA	v1	482	752887	2	.41	0
 ELRC-1238-Energy_Report_City	v1	ELRC-2875-EU_publications_medi	v1	482	13280	2	.41	.01
 ELRC-1238-Energy_Report_City	v1	ELRC-EU_publications	v1	482	13280	2	.41	.01
 ELRC-1238-Energy_Report_City	v1	ELRC-1240-Austrian_Research_Te	v1	482	2709	2	.41	.07
+ELRC-1238-Energy_Report_City	v1	ParaCrawl	v8	482	261106742	1	.20	0
 ELRC-1238-Energy_Report_City	v1	CCMatrix	v1	482	245958729	1	.20	0
+ELRC-1238-Energy_Report_City	v1	NLLB	v1	482	245954214	1	.20	0
+ELRC-1238-Energy_Report_City	v1	ParaCrawl	v7.1	482	82638069	1	.20	0
+ELRC-1238-Energy_Report_City	v1	ParaCrawl	v5	482	36657324	1	.20	0
 ELRC-1238-Energy_Report_City	v1	EuroPat	v3	482	19734743	1	.20	0
+ELRC-1238-Energy_Report_City	v1	ParaCrawl	v4	482	16173851	1	.20	0
 ELRC-1238-Energy_Report_City	v1	LinguaTools-WikiTitles	v2014	482	15812874	1	.20	0
 ELRC-1238-Energy_Report_City	v1	EuroPat	v2	482	15571045	1	.20	0
 ELRC-1238-Energy_Report_City	v1	WikiMatrix	v1	482	1573421	1	.20	0
@@ -22,6 +31,7 @@ ELRC-1238-Energy_Report_City	v1	ELRC-5067-SciPar	v1	482	890185	1	.20	0
 ELRC-1238-Energy_Report_City	v1	ELRC_2682	v1	482	620450	1	.20	0
 ELRC-1238-Energy_Report_City	v1	JRC-Acquis	v3.0	482	503393	1	.20	0
 ELRC-1238-Energy_Report_City	v1	EMEA	v3	482	357190	1	.20	0
+ELRC-1238-Energy_Report_City	v1	Tatoeba	v2023-04-12	482	322298	1	.20	0
 ELRC-1238-Energy_Report_City	v1	Tatoeba	v2022-03-03	482	313068	1	.20	0
 ELRC-1238-Energy_Report_City	v1	Tatoeba	v2021-07-22	482	307276	1	.20	0
 ELRC-1238-Energy_Report_City	v1	Tatoeba	v2021-03-10	482	302363	1	.20	0
@@ -36,6 +46,7 @@ ELRC-1238-Energy_Report_City	v1	KDE4	v2	482	187849	1	.20	0
 ELRC-1238-Energy_Report_City	v1	NeuLab-TedTalks	v1	482	182085	1	.20	0
 ELRC-1238-Energy_Report_City	v1	ELRC-1121-CORDIS_Results_Brief	v1	482	182066	1	.20	0
 ELRC-1238-Energy_Report_City	v1	ELRC-CORDIS_Results	v1	482	182066	1	.20	0
+ELRC-1238-Energy_Report_City	v1	wikimedia	v20230407	482	161399	1	.20	0
 ELRC-1238-Energy_Report_City	v1	ECB	v1	482	113033	1	.20	0
 ELRC-1238-Energy_Report_City	v1	ELRC-1117-CORDIS_News	v1	482	111275	1	.20	0
 ELRC-1238-Energy_Report_City	v1	ELRC-CORDIS_News	v1	482	111275	1	.20	0
@@ -111,8 +122,11 @@ ELRC-1238-Energy_Report_City	v1	ELRC-417-Swedish_Work_Environ	v1	482	11	1	.20	9.
 ELRC-1238-Energy_Report_City	v1	ELRC-TERMITUR	v1	482	3	1	.20	33.33
 ELRC-1238-Energy_Report_City	v1	OpenSubtitles	v2018	482	18698900	0	0	0
 ELRC-1238-Energy_Report_City	v1	EuroPat	v1	482	12614161	0	0	0
+ELRC-1238-Energy_Report_City	v1	OpenSubtitles	v2016	482	11777113	0	0	0
 ELRC-1238-Energy_Report_City	v1	Wikipedia	v1.0	482	2413702	0	0	0
 ELRC-1238-Energy_Report_City	v1	Europarl	v8	482	1916512	0	0	0
+ELRC-1238-Energy_Report_City	v1	Europarl	v7	482	1915803	0	0	0
+ELRC-1238-Energy_Report_City	v1	Europarl	v3	482	1285340	0	0	0
 ELRC-1238-Energy_Report_City	v1	Tanzil	v1	482	516835	0	0	0
 ELRC-1238-Energy_Report_City	v1	QED	v2.0a	482	492321	0	0	0
 ELRC-1238-Energy_Report_City	v1	Tatoeba	v2020-05-31	482	294740	0	0	0

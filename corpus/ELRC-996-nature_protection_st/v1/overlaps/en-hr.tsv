@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-996-nature_protection_st	v1	ELRC-4142-NTEU_TierA	v1	970	2273079	970	100.00	.04
 ELRC-996-nature_protection_st	v1	CCMatrix	v1	970	18694537	23	2.37	0
+ELRC-996-nature_protection_st	v1	NLLB	v1	970	18694206	23	2.37	0
+ELRC-996-nature_protection_st	v1	MultiCCAligned	v1	970	9327209	7	.72	0
 ELRC-996-nature_protection_st	v1	CCAligned	v1	970	9327047	7	.72	0
 ELRC-996-nature_protection_st	v1	ELRC-2542-Agriculture	v1	970	68113	6	.61	0
 ELRC-996-nature_protection_st	v1	TildeMODEL	v2018	970	736487	5	.51	0
@@ -13,11 +15,14 @@ ELRC-996-nature_protection_st	v1	ELRC-Regional_Development	v1	970	7903	3	.30	.03
 ELRC-996-nature_protection_st	v1	DGT	v2019	970	668790	2	.20	0
 ELRC-996-nature_protection_st	v1	ELRC-2706-EMEA	v1	970	644560	2	.20	0
 ELRC-996-nature_protection_st	v1	ELRC-EMEA	v1	970	644560	2	.20	0
+ELRC-996-nature_protection_st	v1	wikimedia	v20230407	970	40443	2	.20	0
 ELRC-996-nature_protection_st	v1	wikimedia	v20210402	970	18939	2	.20	.01
 ELRC-996-nature_protection_st	v1	ELRC-943-Journal_Croatian_Ass	v1	970	18478	2	.20	.01
 ELRC-996-nature_protection_st	v1	ELRC-921-studies_challenges_C	v1	970	11780	2	.20	.01
 ELRC-996-nature_protection_st	v1	ELRC-3193-antibiotic	v1	970	1070	2	.20	.18
 ELRC-996-nature_protection_st	v1	ELRC-antibiotic	v1	970	1070	2	.20	.18
+ELRC-996-nature_protection_st	v1	ParaCrawl	v8	970	11063124	1	.10	0
+ELRC-996-nature_protection_st	v1	MultiParaCrawl	v7.1	970	6959286	1	.10	0
 ELRC-996-nature_protection_st	v1	ParaCrawl	v9	970	3240421	1	.10	0
 ELRC-996-nature_protection_st	v1	ELRC-5067-SciPar	v1	970	806581	1	.10	0
 ELRC-996-nature_protection_st	v1	WikiMatrix	v1	970	259499	1	.10	0
@@ -51,6 +56,7 @@ ELRC-996-nature_protection_st	v1	ELRC-989-Foreign_Affairs_Croa	v1	970	3103	1	.10
 ELRC-996-nature_protection_st	v1	ELRC-Foreign_Affairs	v1	970	3103	1	.10	.03
 ELRC-996-nature_protection_st	v1	ELRC-3478-EC_EUROPA_covid	v1	970	2595	1	.10	.03
 ELRC-996-nature_protection_st	v1	ELRC-EC_EUROPA	v1	970	2595	1	.10	.03
+ELRC-996-nature_protection_st	v1	Tatoeba	v2023-04-12	970	2444	1	.10	.04
 ELRC-996-nature_protection_st	v1	Tatoeba	v2022-03-03	970	2431	1	.10	.04
 ELRC-996-nature_protection_st	v1	Tatoeba	v2021-07-22	970	2428	1	.10	.04
 ELRC-996-nature_protection_st	v1	Tatoeba	v2021-03-10	970	2416	1	.10	.04
@@ -68,6 +74,10 @@ ELRC-996-nature_protection_st	v1	ELRC-vaccination	v1	970	508	1	.10	.19
 ELRC-996-nature_protection_st	v1	ELRC-3284-EUROPARL_covid	v1	970	475	1	.10	.21
 ELRC-996-nature_protection_st	v1	ELRC-EUROPARL_covid	v1	970	475	1	.10	.21
 ELRC-996-nature_protection_st	v1	OpenSubtitles	v2018	970	28591047	0	0	0
+ELRC-996-nature_protection_st	v1	OpenSubtitles	v2016	970	22002428	0	0	0
+ELRC-996-nature_protection_st	v1	ParaCrawl	v7.1	970	6959288	0	0	0
+ELRC-996-nature_protection_st	v1	ParaCrawl	v5	970	1846962	0	0	0
+ELRC-996-nature_protection_st	v1	ParaCrawl	v4	970	995511	0	0	0
 ELRC-996-nature_protection_st	v1	SETIMES	v2	970	204109	0	0	0
 ELRC-996-nature_protection_st	v1	QED	v2.0a	970	196487	0	0	0
 ELRC-996-nature_protection_st	v1	SETIMES	v1	970	158180	0	0	0

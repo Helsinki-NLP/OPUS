@@ -1,14 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EUbookshop	v2	ELRC-4271-NTEU_TierA	v1	365564	7730635	364767	99.78	4.71
 EUbookshop	v2	CCMatrix	v1	365564	21877049	8350	2.28	.03
+EUbookshop	v2	NLLB	v1	365564	21876691	8350	2.28	.03
 EUbookshop	v2	DGT	v2019	365564	3620944	7915	2.16	.21
+EUbookshop	v2	DGT	v4	365564	1954038	7820	2.13	.40
+EUbookshop	v2	ParaCrawl	v8	365564	8585187	6879	1.88	.08
 EUbookshop	v2	ParaCrawl	v9	365564	8539880	6674	1.82	.07
 EUbookshop	v2	TildeMODEL	v2018	365564	2032695	3948	1.07	.19
 EUbookshop	v2	ELITR-ECA	v1	365564	118459	2888	.79	2.43
 EUbookshop	v2	EUconst	v1	365564	6669	2021	.55	30.30
+EUbookshop	v2	MultiParaCrawl	v7.1	365564	3180465	1983	.54	.06
+EUbookshop	v2	ParaCrawl	v7.1	365564	3180464	1983	.54	.06
 EUbookshop	v2	ECB	v1	365564	119327	1822	.49	1.52
 EUbookshop	v2	JRC-Acquis	v3.0	365564	484378	1489	.40	.30
+EUbookshop	v2	MultiCCAligned	v1	365564	4086863	819	.22	.02
 EUbookshop	v2	CCAligned	v1	365564	4086794	819	.22	.02
+EUbookshop	v2	ParaCrawl	v1	365564	1289766	301	.08	.02
 EUbookshop	v2	XLEnt	v1.1	365564	1677851	261	.07	.01
 EUbookshop	v2	XLEnt	v1.2	365564	1677851	261	.07	.01
 EUbookshop	v2	XLEnt	v1	365564	1677851	261	.07	.01
@@ -17,6 +24,9 @@ EUbookshop	v2	ELRC-EMEA	v1	365564	762693	152	.04	.01
 EUbookshop	v2	ELRC_2682	v1	365564	762692	152	.04	.01
 EUbookshop	v2	KDE4	v2	365564	191995	148	.04	.07
 EUbookshop	v2	OpenSubtitles	v2018	365564	10204743	100	.02	0
+EUbookshop	v2	OpenSubtitles	v2016	365564	8489455	95	.02	0
+EUbookshop	v2	ParaCrawl	v5	365564	1379164	104	.02	0
+EUbookshop	v2	ParaCrawl	v4	365564	848980	88	.02	.01
 EUbookshop	v2	EMEA	v3	365564	329076	78	.02	.02
 EUbookshop	v2	ELRC-429-Legal_Estonian_Justi	v1	365564	47215	104	.02	.22
 EUbookshop	v2	ELRA-W0167	v1	365564	47214	104	.02	.22
@@ -25,6 +35,7 @@ EUbookshop	v2	ELRC-EUIPO_2017	v1	365564	16864	49	.01	.29
 EUbookshop	v2	ELRC-2882-EU_publications_medi	v1	365564	13006	73	.01	.56
 EUbookshop	v2	ELRC-EU_publications	v1	365564	13006	73	.01	.56
 EUbookshop	v2	Europarl	v8	365564	632077	30	0	0
+EUbookshop	v2	Europarl	v7	365564	631699	30	0	0
 EUbookshop	v2	WikiMatrix	v1	365564	243870	26	0	.01
 EUbookshop	v2	QED	v2.0a	365564	159715	15	0	0
 EUbookshop	v2	ELRC-5067-SciPar	v1	365564	83479	0	0	0
@@ -34,6 +45,7 @@ EUbookshop	v2	ELRC-431-Estonian_Foreign_Aff	v1	365564	27797	1	0	0
 EUbookshop	v2	ELRA-W0168	v1	365564	27796	1	0	0
 EUbookshop	v2	OpenSubtitles	v1	365564	27563	18	0	.06
 EUbookshop	v2	ELRC-938-vp2001_2006.presiden	v1	365564	25557	7	0	.02
+EUbookshop	v2	wikimedia	v20230407	365564	23146	28	0	.12
 EUbookshop	v2	TED2020	v1	365564	22985	2	0	0
 EUbookshop	v2	ELRC-3572-EUR_LEX_covid	v1	365564	22028	18	0	.08
 EUbookshop	v2	ELRC-EUR_LEX	v1	365564	22028	18	0	.08
@@ -64,6 +76,7 @@ EUbookshop	v2	WMT-News	v2019	365564	4000	0	0	0
 EUbookshop	v2	ELRC_3382	v1	365564	3693	1	0	.02
 EUbookshop	v2	ELRC-3471-EC_EUROPA_covid	v1	365564	2707	5	0	.18
 EUbookshop	v2	ELRC-EC_EUROPA	v1	365564	2707	5	0	.18
+EUbookshop	v2	Tatoeba	v2023-04-12	365564	2538	6	0	.23
 EUbookshop	v2	ECDC	v2016-03-16	365564	2484	13	0	.52
 EUbookshop	v2	Tatoeba	v2021-07-22	365564	2448	6	0	.24
 EUbookshop	v2	Tatoeba	v2022-03-03	365564	2448	6	0	.24

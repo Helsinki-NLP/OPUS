@@ -1,8 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Tanzil	v1	MultiCCAligned	v1	124111	12482516	3842	3.09	.03
 Tanzil	v1	CCAligned	v1	124111	12482304	3842	3.09	.03
 Tanzil	v1	CCMatrix	v1	124111	76586290	2639	2.12	0
+Tanzil	v1	NLLB	v1	124111	76584927	2639	2.12	0
 Tanzil	v1	ParaCrawl	v9	124111	49109340	1129	.90	0
+Tanzil	v1	ParaCrawl	v4	124111	3456794	117	.09	0
+Tanzil	v1	ParaCrawl	v5	124111	6027448	86	.06	0
+Tanzil	v1	ParaCrawl	v8	124111	44066654	38	.03	0
 Tanzil	v1	OpenSubtitles	v2018	124111	14904885	15	.01	0
+Tanzil	v1	MultiParaCrawl	v7.1	124111	11645803	16	.01	0
+Tanzil	v1	ParaCrawl	v7.1	124111	11645802	16	.01	0
+Tanzil	v1	OpenSubtitles	v2016	124111	10237744	13	.01	0
 Tanzil	v1	ELRC-4268-NTEU_TierA	v1	124111	12468100	4	0	0
 Tanzil	v1	LinguaTools-WikiTitles	v2014	124111	7759117	0	0	0
 Tanzil	v1	DGT	v2019	124111	3635425	0	0	0
@@ -10,8 +18,11 @@ Tanzil	v1	XLEnt	v1.1	124111	3403994	0	0	0
 Tanzil	v1	XLEnt	v1	124111	3403994	0	0	0
 Tanzil	v1	XLEnt	v1.2	124111	3403994	0	0	0
 Tanzil	v1	TildeMODEL	v2018	124111	3185574	0	0	0
+Tanzil	v1	DGT	v4	124111	1968717	0	0	0
 Tanzil	v1	Europarl	v8	124111	1846661	4	0	0
+Tanzil	v1	Europarl	v7	124111	1846286	4	0	0
 Tanzil	v1	EUbookshop	v2	124111	1753373	0	0	0
+Tanzil	v1	Europarl	v3	124111	1136242	4	0	0
 Tanzil	v1	ELRC-2725-EMEA	v1	124111	752045	0	0	0
 Tanzil	v1	ELRC-EMEA	v1	124111	752045	0	0	0
 Tanzil	v1	ELRC-5067-SciPar	v1	124111	670816	0	0	0
@@ -25,6 +36,7 @@ Tanzil	v1	QED	v2.0a	124111	160782	4	0	0
 Tanzil	v1	TED2020	v1	124111	117646	1	0	0
 Tanzil	v1	NeuLab-TedTalks	v1	124111	67599	0	0	0
 Tanzil	v1	bible-uedin	v1	124111	61422	0	0	0
+Tanzil	v1	wikimedia	v20230407	124111	59125	2	0	0
 Tanzil	v1	ELRC-1770-valtioneuvosto.fi	v1	124111	49084	0	0	0
 Tanzil	v1	ELRC-valtioneuvosto.fi	v1	124111	49084	0	0	0
 Tanzil	v1	ELRC-1133-www.vtv.fi	v1	124111	46345	0	0	0
@@ -37,6 +49,7 @@ Tanzil	v1	OpenOffice	v2	124111	32770	0	0	0
 Tanzil	v1	WikiSource	v1	124111	32032	0	0	0
 Tanzil	v1	wikimedia	v20210402	124111	29811	0	0	0
 Tanzil	v1	ELRC-817-Swedish_Audit_Riksre	v1	124111	28944	0	0	0
+Tanzil	v1	Tatoeba	v2023-04-12	124111	26957	0	0	0
 Tanzil	v1	Tatoeba	v2022-03-03	124111	26220	0	0	0
 Tanzil	v1	Tatoeba	v2021-07-22	124111	25865	0	0	0
 Tanzil	v1	Tatoeba	v2021-03-10	124111	25646	0	0	0

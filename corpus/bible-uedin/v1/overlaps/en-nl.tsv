@@ -1,8 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 bible-uedin	v1	ParaCrawl	v9	57722	89135870	31	.05	0
+bible-uedin	v1	ParaCrawl	v8	57722	98473905	6	.01	0
+bible-uedin	v1	MultiParaCrawl	v7.1	57722	31295016	9	.01	0
+bible-uedin	v1	ParaCrawl	v7.1	57722	31295015	9	.01	0
+bible-uedin	v1	ParaCrawl	v4	57722	5630021	7	.01	0
 bible-uedin	v1	CCMatrix	v1	57722	106106500	5	0	0
+bible-uedin	v1	NLLB	v1	57722	106104992	5	0	0
+bible-uedin	v1	MultiCCAligned	v1	57722	36001309	0	0	0
 bible-uedin	v1	OpenSubtitles	v2018	57722	30779675	1	0	0
+bible-uedin	v1	OpenSubtitles	v2016	57722	24279928	1	0	0
 bible-uedin	v1	CCAligned	v1	57722	13043190	0	0	0
+bible-uedin	v1	ParaCrawl	v5	57722	10509072	3	0	0
 bible-uedin	v1	LinguaTools-WikiTitles	v2014	57722	6757629	0	0	0
 bible-uedin	v1	XLEnt	v1.1	57722	5789605	0	0	0
 bible-uedin	v1	XLEnt	v1.2	57722	5789605	0	0	0
@@ -10,7 +18,11 @@ bible-uedin	v1	XLEnt	v1	57722	5789605	0	0	0
 bible-uedin	v1	EUbookshop	v2	57722	5367397	0	0	0
 bible-uedin	v1	DGT	v2019	57722	3543639	0	0	0
 bible-uedin	v1	TildeMODEL	v2018	57722	3481744	0	0	0
+bible-uedin	v1	ParaCrawl	v1	57722	2552000	5	0	0
 bible-uedin	v1	Europarl	v8	57722	1986220	0	0	0
+bible-uedin	v1	Europarl	v7	57722	1985837	0	0	0
+bible-uedin	v1	DGT	v4	57722	1945115	0	0	0
+bible-uedin	v1	Europarl	v3	57722	1291768	0	0	0
 bible-uedin	v1	WikiMatrix	v1	57722	796508	0	0	0
 bible-uedin	v1	Wikipedia	v1.0	57722	791459	0	0	0
 bible-uedin	v1	ELRC-2707-EMEA	v1	57722	755014	0	0	0
@@ -27,6 +39,8 @@ bible-uedin	v1	KDE4	v2	57722	161655	0	0	0
 bible-uedin	v1	TED2013	v1.1	57722	144900	0	0	0
 bible-uedin	v1	ECB	v1	57722	126344	0	0	0
 bible-uedin	v1	Ubuntu	v14.10	57722	110108	0	0	0
+bible-uedin	v1	wikimedia	v20230407	57722	106677	0	0	0
+bible-uedin	v1	Tatoeba	v2023-04-12	57722	79518	1	0	0
 bible-uedin	v1	Tatoeba	v2022-03-03	57722	75815	1	0	0
 bible-uedin	v1	Tatoeba	v2021-07-22	57722	75072	1	0	0
 bible-uedin	v1	Tatoeba	v2021-03-10	57722	74031	1	0	0

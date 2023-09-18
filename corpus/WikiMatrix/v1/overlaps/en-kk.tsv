@@ -1,5 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+WikiMatrix	v1	NLLB	v1	20054	34443405	108	.53	0
+WikiMatrix	v1	wikimedia	v20230407	20054	11206	8	.03	.07
 WikiMatrix	v1	wikimedia	v20210402	20054	8813	8	.03	.09
+WikiMatrix	v1	MultiCCAligned	v1	20054	687365	3	.01	0
 WikiMatrix	v1	CCAligned	v1	20054	687353	3	.01	0
 WikiMatrix	v1	XLEnt	v1.1	20054	157242	2	0	0
 WikiMatrix	v1	XLEnt	v1	20054	157242	2	0	0
@@ -13,8 +16,10 @@ WikiMatrix	v1	WMT-News	v2019	20054	4063	0	0	0
 WikiMatrix	v1	NeuLab-TedTalks	v1	20054	3612	1	0	.02
 WikiMatrix	v1	OpenSubtitles	v2018	20054	3528	0	0	0
 WikiMatrix	v1	GNOME	v1	20054	3431	0	0	0
+WikiMatrix	v1	OpenSubtitles	v2016	20054	1875	0	0	0
 WikiMatrix	v1	wikimedia	v20190628	20054	1198	0	0	0
 WikiMatrix	v1	ELRC-5042-Kazakh_Legal_MT	v1	20054	1000	1	0	.10
+WikiMatrix	v1	Tatoeba	v2023-04-12	20054	438	1	0	.22
 WikiMatrix	v1	Tatoeba	v2022-03-03	20054	409	1	0	.24
 WikiMatrix	v1	Tatoeba	v2021-03-10	20054	407	1	0	.24
 WikiMatrix	v1	Tatoeba	v2021-07-22	20054	407	1	0	.24

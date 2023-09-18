@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+infopankki	v1	MultiCCAligned	v1	15941	25031776	4608	28.90	.01
 infopankki	v1	CCMatrix	v1	15941	49234443	2951	18.51	0
+infopankki	v1	NLLB	v1	15941	49233705	2951	18.51	0
 infopankki	v1	CCAligned	v1	15941	12951374	2934	18.40	.02
 infopankki	v1	LinguaTools-WikiTitles	v2014	15941	4598982	110	.69	0
 infopankki	v1	UNPC	v1.0	15941	16579281	101	.63	0
@@ -7,8 +9,10 @@ infopankki	v1	XLEnt	v1.1	15941	5553958	86	.53	0
 infopankki	v1	XLEnt	v1	15941	5553958	86	.53	0
 infopankki	v1	XLEnt	v1.2	15941	5553958	86	.53	0
 infopankki	v1	MultiUN	v1	15941	8210447	68	.42	0
+infopankki	v1	wikimedia	v20230407	15941	570493	50	.31	0
 infopankki	v1	wikimedia	v20210402	15941	374343	45	.28	.01
 infopankki	v1	OpenSubtitles	v2018	15941	25630788	18	.11	0
+infopankki	v1	OpenSubtitles	v2016	15941	19600850	16	.10	0
 infopankki	v1	KDE4	v2	15941	105144	13	.08	.01
 infopankki	v1	WikiMatrix	v1	15941	999761	6	.03	0
 infopankki	v1	Ubuntu	v14.10	15941	5847	4	.02	.06
@@ -28,6 +32,7 @@ infopankki	v1	bible-uedin	v1	15941	61540	0	0	0
 infopankki	v1	GlobalVoices	v2018q4	15941	58258	1	0	0
 infopankki	v1	GlobalVoices	v2017q3	15941	51838	1	0	0
 infopankki	v1	GlobalVoices	v2015	15941	40382	1	0	0
+infopankki	v1	Tatoeba	v2023-04-12	15941	30845	1	0	0
 infopankki	v1	Tatoeba	v2022-03-03	15941	29294	1	0	0
 infopankki	v1	Tatoeba	v2021-07-22	15941	27887	1	0	0
 infopankki	v1	Tatoeba	v2021-03-10	15941	27848	1	0	0

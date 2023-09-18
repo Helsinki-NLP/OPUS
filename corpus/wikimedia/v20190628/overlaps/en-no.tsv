@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20190628	wikimedia	v20230407	86	252	39	45.34	15.47
 wikimedia	v20190628	wikimedia	v20210402	86	213	39	45.34	18.30
+wikimedia	v20190628	MultiCCAligned	v1	86	9133068	1	1.16	0
 wikimedia	v20190628	CCAligned	v1	86	9132909	1	1.16	0
 wikimedia	v20190628	XLEnt	v1.1	86	2048811	1	1.16	0
 wikimedia	v20190628	XLEnt	v1.2	86	2048811	1	1.16	0
@@ -10,8 +12,11 @@ wikimedia	v20190628	ELRC-EMEA	v1	86	574124	1	1.16	0
 wikimedia	v20190628	ELRC-729-www.norden.org	v1	86	28541	1	1.16	0
 wikimedia	v20190628	ELRC-www.norden.org	v1	86	28541	1	1.16	0
 wikimedia	v20190628	GNOME	v1	86	8910	1	1.16	.01
+wikimedia	v20190628	ParaCrawl	v8	86	59090055	0	0	0
 wikimedia	v20190628	CCMatrix	v1	86	47571364	0	0	0
+wikimedia	v20190628	NLLB	v1	86	47570737	0	0	0
 wikimedia	v20190628	OpenSubtitles	v2018	86	7354902	0	0	0
+wikimedia	v20190628	OpenSubtitles	v2016	86	4876710	0	0	0
 wikimedia	v20190628	EuroPat	v3	86	4341459	0	0	0
 wikimedia	v20190628	EuroPat	v2	86	4050341	0	0	0
 wikimedia	v20190628	TildeMODEL	v2018	86	341163	0	0	0

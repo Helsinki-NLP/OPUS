@@ -1,3 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	75	75	75	100.00	100.00
+CCAligned	v1	wikimedia	v20230407	75	22	1	1.33	4.54
+CCAligned	v1	NLLB	v1	75	2202147	0	0	0
 CCAligned	v1	GNOME	v1	75	1712	0	0	0
 CCAligned	v1	Ubuntu	v14.10	75	427	0	0	0

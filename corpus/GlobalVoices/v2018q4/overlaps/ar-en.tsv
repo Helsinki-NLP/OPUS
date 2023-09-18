@@ -2,14 +2,18 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2018q4	GlobalVoices	v2017q3	58258	51838	49787	85.45	96.04
 GlobalVoices	v2018q4	GlobalVoices	v2015	58258	40382	37399	64.19	92.61
 GlobalVoices	v2018q4	CCMatrix	v1	58258	49234443	7639	13.11	.01
+GlobalVoices	v2018q4	NLLB	v1	58258	49233705	7639	13.11	.01
+GlobalVoices	v2018q4	MultiCCAligned	v1	58258	25031776	110	.18	0
 GlobalVoices	v2018q4	CCAligned	v1	58258	12951374	98	.16	0
 GlobalVoices	v2018q4	OpenSubtitles	v2018	58258	25630788	91	.15	0
+GlobalVoices	v2018q4	OpenSubtitles	v2016	58258	19600850	82	.14	0
 GlobalVoices	v2018q4	UNPC	v1.0	58258	16579281	68	.11	0
 GlobalVoices	v2018q4	XLEnt	v1.1	58258	5553958	67	.11	0
 GlobalVoices	v2018q4	XLEnt	v1.2	58258	5553958	67	.11	0
 GlobalVoices	v2018q4	XLEnt	v1	58258	5553958	67	.11	0
 GlobalVoices	v2018q4	LinguaTools-WikiTitles	v2014	58258	4598982	56	.09	0
 GlobalVoices	v2018q4	MultiUN	v1	58258	8210447	39	.06	0
+GlobalVoices	v2018q4	wikimedia	v20230407	58258	570493	35	.06	0
 GlobalVoices	v2018q4	wikimedia	v20210402	58258	374343	33	.05	0
 GlobalVoices	v2018q4	KDE4	v2	58258	105144	31	.05	.02
 GlobalVoices	v2018q4	QED	v2.0a	58258	474973	16	.02	0
@@ -26,6 +30,7 @@ GlobalVoices	v2018q4	News-Commentary	v16	58258	90173	1	0	0
 GlobalVoices	v2018q4	News-Commentary	v11	58258	83163	0	0	0
 GlobalVoices	v2018q4	UN	v20090831	58258	63742	1	0	0
 GlobalVoices	v2018q4	bible-uedin	v1	58258	61540	0	0	0
+GlobalVoices	v2018q4	Tatoeba	v2023-04-12	58258	30845	5	0	.01
 GlobalVoices	v2018q4	Tatoeba	v2022-03-03	58258	29294	5	0	.01
 GlobalVoices	v2018q4	Tatoeba	v2021-07-22	58258	27887	5	0	.01
 GlobalVoices	v2018q4	Tatoeba	v2021-03-10	58258	27848	5	0	.01

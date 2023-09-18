@@ -1,10 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+OpenSubtitles	v1	OpenSubtitles	v2016	204640	26838705	88170	43.08	.32
 OpenSubtitles	v1	OpenSubtitles	v2018	204640	32563039	85972	42.01	.26
 OpenSubtitles	v1	QED	v2.0a	204640	492589	3052	1.49	.61
 OpenSubtitles	v1	ParaCrawl	v9	204640	13264298	1135	.55	0
+OpenSubtitles	v1	MultiCCAligned	v1	204640	10351609	455	.22	0
 OpenSubtitles	v1	CCAligned	v1	204640	10351428	455	.22	0
+OpenSubtitles	v1	ParaCrawl	v8	204640	11927055	411	.20	0
+OpenSubtitles	v1	MultiParaCrawl	v7.1	204640	6470710	361	.17	0
+OpenSubtitles	v1	ParaCrawl	v7.1	204640	6470709	361	.17	0
 OpenSubtitles	v1	TED2020	v1	204640	243925	368	.17	.15
 OpenSubtitles	v1	NeuLab-TedTalks	v1	204640	178322	279	.13	.15
+OpenSubtitles	v1	Tatoeba	v2023-04-12	204640	17835	253	.12	1.41
 OpenSubtitles	v1	Tatoeba	v2022-03-03	204640	17803	253	.12	1.42
 OpenSubtitles	v1	Tatoeba	v2021-07-22	204640	17800	253	.12	1.42
 OpenSubtitles	v1	Tatoeba	v2020-11-09	204640	17794	253	.12	1.42
@@ -12,14 +18,19 @@ OpenSubtitles	v1	Tatoeba	v2021-03-10	204640	17794	253	.12	1.42
 OpenSubtitles	v1	Tatoeba	v2020-05-31	204640	17753	253	.12	1.42
 OpenSubtitles	v1	Tatoeba	v20190709	204640	17732	253	.12	1.42
 OpenSubtitles	v1	Europarl	v8	204640	394736	130	.06	.03
+OpenSubtitles	v1	Europarl	v7	204640	394341	130	.06	.03
 OpenSubtitles	v1	Tatoeba	v2	204640	11226	130	.06	1.15
 OpenSubtitles	v1	CCMatrix	v1	204640	44333768	88	.04	0
+OpenSubtitles	v1	NLLB	v1	204640	44332999	88	.04	0
 OpenSubtitles	v1	WikiMatrix	v1	204640	357970	22	.01	0
 OpenSubtitles	v1	DGT	v2019	204640	2739551	18	0	0
+OpenSubtitles	v1	ParaCrawl	v5	204640	2569578	18	0	0
 OpenSubtitles	v1	LinguaTools-WikiTitles	v2014	204640	2444290	5	0	0
 OpenSubtitles	v1	XLEnt	v1.1	204640	2394543	6	0	0
 OpenSubtitles	v1	XLEnt	v1	204640	2394543	6	0	0
 OpenSubtitles	v1	XLEnt	v1.2	204640	2394543	6	0	0
+OpenSubtitles	v1	DGT	v4	204640	1077223	13	0	0
+OpenSubtitles	v1	ParaCrawl	v4	204640	1033746	6	0	0
 OpenSubtitles	v1	ELRC-2712-EMEA	v1	204640	766010	12	0	0
 OpenSubtitles	v1	ELRC_2682	v1	204640	766009	12	0	0
 OpenSubtitles	v1	ELRC-EMEA	v1	204640	766008	12	0	0
@@ -32,6 +43,7 @@ OpenSubtitles	v1	Tanzil	v1	204640	131265	4	0	0
 OpenSubtitles	v1	KDE4	v2	204640	102046	18	0	.01
 OpenSubtitles	v1	Wikipedia	v1.0	204640	77040	9	0	.01
 OpenSubtitles	v1	bible-uedin	v1	204640	61559	0	0	0
+OpenSubtitles	v1	wikimedia	v20230407	204640	60073	3	0	0
 OpenSubtitles	v1	ELRC-768-corpora_State_Admini	v1	204640	50413	0	0	0
 OpenSubtitles	v1	wikimedia	v20210402	204640	32277	0	0	0
 OpenSubtitles	v1	JRC-Acquis	v3.0	204640	28494	3	0	.01

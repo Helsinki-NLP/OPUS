@@ -2,11 +2,18 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2018q4	GlobalVoices	v2017q3	48868	45318	45018	92.12	99.33
 GlobalVoices	v2018q4	GlobalVoices	v2015	48868	42295	41922	85.78	99.11
 GlobalVoices	v2018q4	ELRA-W0241	v1	48868	57206	25012	51.18	43.72
+GlobalVoices	v2018q4	ParaCrawl	v8	48868	45358407	10389	21.25	.02
 GlobalVoices	v2018q4	ParaCrawl	v9	48868	40082038	9693	19.83	.02
 GlobalVoices	v2018q4	CCMatrix	v1	48868	73625347	7776	15.91	.01
+GlobalVoices	v2018q4	NLLB	v1	48868	73623674	7776	15.91	.01
 GlobalVoices	v2018q4	OpenSubtitles	v2018	48868	34512858	283	.57	0
+GlobalVoices	v2018q4	OpenSubtitles	v2016	48868	22955941	257	.52	0
+GlobalVoices	v2018q4	ParaCrawl	v1	48868	1270691	72	.14	0
+GlobalVoices	v2018q4	MultiCCAligned	v1	48868	25790086	67	.13	0
 GlobalVoices	v2018q4	QED	v2.0a	48868	482625	66	.13	.01
+GlobalVoices	v2018q4	MultiParaCrawl	v7.1	48868	13744836	59	.12	0
 GlobalVoices	v2018q4	CCAligned	v1	48868	12846330	60	.12	0
+GlobalVoices	v2018q4	ParaCrawl	v7.1	48868	13744835	58	.11	0
 GlobalVoices	v2018q4	LinguaTools-WikiTitles	v2014	48868	8003882	35	.07	0
 GlobalVoices	v2018q4	XLEnt	v1.1	48868	5202602	35	.07	0
 GlobalVoices	v2018q4	XLEnt	v1.2	48868	5202602	35	.07	0
@@ -15,10 +22,12 @@ GlobalVoices	v2018q4	TED2020	v1	48868	293265	36	.07	.01
 GlobalVoices	v2018q4	TildeMODEL	v2018	48868	2124677	30	.06	0
 GlobalVoices	v2018q4	JRC-Acquis	v3.0	48868	1048242	30	.06	0
 GlobalVoices	v2018q4	Europarl	v8	48868	613356	32	.06	0
+GlobalVoices	v2018q4	Europarl	v7	48868	612713	32	.06	0
 GlobalVoices	v2018q4	NeuLab-TedTalks	v1	48868	185955	27	.05	.01
 GlobalVoices	v2018q4	KDE4	v2	48868	160232	28	.05	.01
 GlobalVoices	v2018q4	OpenSubtitles	v1	48868	48573	28	.05	.05
 GlobalVoices	v2018q4	TED2013	v1.1	48868	148046	22	.04	.01
+GlobalVoices	v2018q4	Tatoeba	v2023-04-12	48868	55895	23	.04	.04
 GlobalVoices	v2018q4	Tatoeba	v2022-03-03	48868	54736	23	.04	.04
 GlobalVoices	v2018q4	Tatoeba	v2021-07-22	48868	54279	23	.04	.04
 GlobalVoices	v2018q4	Tatoeba	v2021-03-10	48868	54235	23	.04	.04
@@ -26,6 +35,7 @@ GlobalVoices	v2018q4	Tatoeba	v2020-11-09	48868	54179	23	.04	.04
 GlobalVoices	v2018q4	Tatoeba	v2020-05-31	48868	54143	22	.04	.04
 GlobalVoices	v2018q4	Tatoeba	v20190709	48868	53938	22	.04	.04
 GlobalVoices	v2018q4	DGT	v2019	48868	3659053	19	.03	0
+GlobalVoices	v2018q4	DGT	v4	48868	1966769	19	.03	0
 GlobalVoices	v2018q4	EMEA	v3	48868	343975	19	.03	0
 GlobalVoices	v2018q4	ELITR-ECA	v1	48868	257916	15	.03	0
 GlobalVoices	v2018q4	Wikipedia	v1.0	48868	168603	17	.03	.01
@@ -44,6 +54,8 @@ GlobalVoices	v2018q4	ELRC-813-Polish_Foreign_Affai	v1	48868	3442	8	.01	.23
 GlobalVoices	v2018q4	ELRA-W0235	v1	48868	3441	7	.01	.20
 GlobalVoices	v2018q4	ELRC-474-Natolin_Centre	v1	48868	2022	7	.01	.34
 GlobalVoices	v2018q4	ELRA-W0176	v1	48868	2021	6	.01	.29
+GlobalVoices	v2018q4	ParaCrawl	v5	48868	6336749	3	0	0
+GlobalVoices	v2018q4	ParaCrawl	v4	48868	3483752	2	0	0
 GlobalVoices	v2018q4	ELRC-5067-SciPar	v1	48868	862076	2	0	0
 GlobalVoices	v2018q4	EuroPat	v3	48868	332120	1	0	0
 GlobalVoices	v2018q4	ELRC-1124-CORDIS_Results_Brief	v1	48868	201566	2	0	0
@@ -51,6 +63,7 @@ GlobalVoices	v2018q4	ELRC-CORDIS_Results	v1	48868	201566	2	0	0
 GlobalVoices	v2018q4	Tanzil	v1	48868	132995	0	0	0
 GlobalVoices	v2018q4	EuroPat	v2	48868	88959	1	0	0
 GlobalVoices	v2018q4	ECB	v1	48868	73127	2	0	0
+GlobalVoices	v2018q4	wikimedia	v20230407	48868	72787	4	0	0
 GlobalVoices	v2018q4	bible-uedin	v1	48868	60374	0	0	0
 GlobalVoices	v2018q4	wikimedia	v20210402	48868	51386	4	0	0
 GlobalVoices	v2018q4	ELRC-975-Science_Poland	v1	48868	28134	2	0	0

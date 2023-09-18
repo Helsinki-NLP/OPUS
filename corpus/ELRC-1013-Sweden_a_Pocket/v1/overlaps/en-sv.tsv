@@ -2,8 +2,12 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-4268-NTEU_TierA	v1	2200	12468100	2200	100.00	.01
 ELRC-1013-Sweden_a_Pocket	v1	ELRA-W0130	v1	2200	2199	2197	99.86	99.90
 ELRC-1013-Sweden_a_Pocket	v1	OpenSubtitles	v2018	2200	14904885	6	.27	0
+ELRC-1013-Sweden_a_Pocket	v1	OpenSubtitles	v2016	2200	10237744	4	.18	0
 ELRC-1013-Sweden_a_Pocket	v1	ParaCrawl	v9	2200	49109340	3	.13	0
+ELRC-1013-Sweden_a_Pocket	v1	ParaCrawl	v8	2200	44066654	3	.13	0
+ELRC-1013-Sweden_a_Pocket	v1	MultiCCAligned	v1	2200	12482516	3	.13	0
 ELRC-1013-Sweden_a_Pocket	v1	CCAligned	v1	2200	12482304	3	.13	0
+ELRC-1013-Sweden_a_Pocket	v1	MultiParaCrawl	v7.1	2200	11645803	2	.09	0
 ELRC-1013-Sweden_a_Pocket	v1	TildeMODEL	v2018	2200	3185574	2	.09	0
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-1133-www.vtv.fi	v1	2200	46345	2	.09	0
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-www.vtv.fi	v1	2200	46345	2	.09	0
@@ -16,12 +20,16 @@ ELRC-1013-Sweden_a_Pocket	v1	ELRC-2884-EU_publications_medi	v1	2200	13089	2	.09	
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-EU_publications	v1	2200	13089	2	.09	.01
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-802-Swedish_Competition_	v1	2200	9354	2	.09	.02
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-417-Swedish_Work_Environ	v1	2200	6999	2	.09	.02
+ELRC-1013-Sweden_a_Pocket	v1	ParaCrawl	v7.1	2200	11645802	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	LinguaTools-WikiTitles	v2014	2200	7759117	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	DGT	v2019	2200	3635425	1	.04	0
+ELRC-1013-Sweden_a_Pocket	v1	ParaCrawl	v4	2200	3456794	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	XLEnt	v1.1	2200	3403994	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	XLEnt	v1	2200	3403994	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	XLEnt	v1.2	2200	3403994	1	.04	0
+ELRC-1013-Sweden_a_Pocket	v1	DGT	v4	2200	1968717	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	Europarl	v8	2200	1846661	1	.04	0
+ELRC-1013-Sweden_a_Pocket	v1	Europarl	v7	2200	1846286	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	EUbookshop	v2	2200	1753373	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-2725-EMEA	v1	2200	752045	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-EMEA	v1	2200	752045	1	.04	0
@@ -34,6 +42,7 @@ ELRC-1013-Sweden_a_Pocket	v1	KDE4	v2	2200	192221	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	QED	v2.0a	2200	160782	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	TED2020	v1	2200	117646	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	NeuLab-TedTalks	v1	2200	67599	1	.04	0
+ELRC-1013-Sweden_a_Pocket	v1	wikimedia	v20230407	2200	59125	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-1770-valtioneuvosto.fi	v1	2200	49084	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-valtioneuvosto.fi	v1	2200	49084	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-734-www.norden.org	v1	2200	37760	1	.04	0
@@ -42,6 +51,7 @@ ELRC-1013-Sweden_a_Pocket	v1	ELRC-1772-vnk.fi	v1	2200	33625	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-vnk.fi	v1	2200	33625	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	OpenOffice	v2	2200	32770	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	wikimedia	v20210402	2200	29811	1	.04	0
+ELRC-1013-Sweden_a_Pocket	v1	Tatoeba	v2023-04-12	2200	26957	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	Tatoeba	v2022-03-03	2200	26220	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	Tatoeba	v2021-07-22	2200	25865	1	.04	0
 ELRC-1013-Sweden_a_Pocket	v1	Tatoeba	v2021-03-10	2200	25646	1	.04	0
@@ -81,6 +91,9 @@ ELRC-1013-Sweden_a_Pocket	v1	ELRC-wikipedia_health	v1	2200	535	1	.04	.18
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-2752-vaccination	v1	2200	496	1	.04	.20
 ELRC-1013-Sweden_a_Pocket	v1	ELRC-vaccination	v1	2200	496	1	.04	.20
 ELRC-1013-Sweden_a_Pocket	v1	CCMatrix	v1	2200	76586290	0	0	0
+ELRC-1013-Sweden_a_Pocket	v1	NLLB	v1	2200	76584927	0	0	0
+ELRC-1013-Sweden_a_Pocket	v1	ParaCrawl	v5	2200	6027448	0	0	0
+ELRC-1013-Sweden_a_Pocket	v1	Europarl	v3	2200	1136242	0	0	0
 ELRC-1013-Sweden_a_Pocket	v1	EMEA	v3	2200	347727	0	0	0
 ELRC-1013-Sweden_a_Pocket	v1	Tanzil	v1	2200	124111	0	0	0
 ELRC-1013-Sweden_a_Pocket	v1	bible-uedin	v1	2200	61422	0	0	0

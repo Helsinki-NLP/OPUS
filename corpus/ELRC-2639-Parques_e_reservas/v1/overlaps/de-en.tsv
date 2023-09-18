@@ -1,8 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2639-Parques_e_reservas	v1	ELRC-Parques_e	v1	118	118	118	100.00	100.00
+ELRC-2639-Parques_e_reservas	v1	ParaCrawl	v8	118	261106742	3	2.54	0
 ELRC-2639-Parques_e_reservas	v1	ParaCrawl	v9	118	278310902	2	1.69	0
 ELRC-2639-Parques_e_reservas	v1	CCMatrix	v1	118	245958729	2	1.69	0
+ELRC-2639-Parques_e_reservas	v1	NLLB	v1	118	245954214	2	1.69	0
+ELRC-2639-Parques_e_reservas	v1	MultiCCAligned	v1	118	91967663	1	.84	0
+ELRC-2639-Parques_e_reservas	v1	MultiParaCrawl	v7.1	118	82638070	1	.84	0
+ELRC-2639-Parques_e_reservas	v1	ParaCrawl	v5	118	36657324	1	.84	0
+ELRC-2639-Parques_e_reservas	v1	ParaCrawl	v1	118	36203700	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	EuroPat	v3	118	19734743	1	.84	0
+ELRC-2639-Parques_e_reservas	v1	ParaCrawl	v4	118	16173851	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	LinguaTools-WikiTitles	v2014	118	15812874	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	EuroPat	v2	118	15571045	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	CCAligned	v1	118	15192790	1	.84	0
@@ -14,6 +21,7 @@ ELRC-2639-Parques_e_reservas	v1	WikiTitles	v3	118	1386531	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	ELRC-5067-SciPar	v1	118	890185	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	ELRC-2714-EMEA	v1	118	752887	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	ELRC-EMEA	v1	118	752887	1	.84	0
+ELRC-2639-Parques_e_reservas	v1	Tatoeba	v2023-04-12	118	322298	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	Tatoeba	v2022-03-03	118	313068	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	Tatoeba	v2021-07-22	118	307276	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	Tatoeba	v2021-03-10	118	302363	1	.84	0
@@ -27,6 +35,7 @@ ELRC-2639-Parques_e_reservas	v1	ELRC-EUIPO_law	v1	118	233271	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	NeuLab-TedTalks	v1	118	182085	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	ELRC-1121-CORDIS_Results_Brief	v1	118	182066	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	ELRC-CORDIS_Results	v1	118	182066	1	.84	0
+ELRC-2639-Parques_e_reservas	v1	wikimedia	v20230407	118	161399	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	ELRC-1117-CORDIS_News	v1	118	111275	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	ELRC-CORDIS_News	v1	118	111275	1	.84	0
 ELRC-2639-Parques_e_reservas	v1	wikimedia	v20210402	118	103209	1	.84	0
@@ -99,13 +108,18 @@ ELRC-2639-Parques_e_reservas	v1	ELRC-5220-Information_crime_vi	v1	118	41	1	.84	2
 ELRC-2639-Parques_e_reservas	v1	ELRC-403-Rights_Arrested	v1	118	24	1	.84	4.16
 ELRC-2639-Parques_e_reservas	v1	ELRC-417-Swedish_Work_Environ	v1	118	11	1	.84	9.09
 ELRC-2639-Parques_e_reservas	v1	ELRC-TERMITUR	v1	118	3	1	.84	33.33
+ELRC-2639-Parques_e_reservas	v1	ParaCrawl	v7.1	118	82638069	0	0	0
 ELRC-2639-Parques_e_reservas	v1	OpenSubtitles	v2018	118	18698900	0	0	0
 ELRC-2639-Parques_e_reservas	v1	EuroPat	v1	118	12614161	0	0	0
+ELRC-2639-Parques_e_reservas	v1	OpenSubtitles	v2016	118	11777113	0	0	0
 ELRC-2639-Parques_e_reservas	v1	EUbookshop	v2	118	8268818	0	0	0
 ELRC-2639-Parques_e_reservas	v1	TildeMODEL	v2018	118	4184303	0	0	0
 ELRC-2639-Parques_e_reservas	v1	DGT	v2019	118	3598219	0	0	0
 ELRC-2639-Parques_e_reservas	v1	Wikipedia	v1.0	118	2413702	0	0	0
+ELRC-2639-Parques_e_reservas	v1	DGT	v4	118	1949796	0	0	0
 ELRC-2639-Parques_e_reservas	v1	Europarl	v8	118	1916512	0	0	0
+ELRC-2639-Parques_e_reservas	v1	Europarl	v7	118	1915803	0	0	0
+ELRC-2639-Parques_e_reservas	v1	Europarl	v3	118	1285340	0	0	0
 ELRC-2639-Parques_e_reservas	v1	ELRC_2682	v1	118	620450	0	0	0
 ELRC-2639-Parques_e_reservas	v1	Tanzil	v1	118	516835	0	0	0
 ELRC-2639-Parques_e_reservas	v1	JRC-Acquis	v3.0	118	503393	0	0	0

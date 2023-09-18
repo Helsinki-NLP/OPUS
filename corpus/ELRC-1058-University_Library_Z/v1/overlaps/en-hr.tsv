@@ -1,14 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1058-University_Library_Z	v1	ELRC-4142-NTEU_TierA	v1	2310	2273079	2309	99.95	.10
 ELRC-1058-University_Library_Z	v1	ELRA-W0135	v1	2310	2309	2296	99.39	99.43
+ELRC-1058-University_Library_Z	v1	MultiParaCrawl	v7.1	2310	6959286	572	24.76	0
+ELRC-1058-University_Library_Z	v1	ParaCrawl	v7.1	2310	6959288	565	24.45	0
+ELRC-1058-University_Library_Z	v1	ParaCrawl	v8	2310	11063124	447	19.35	0
 ELRC-1058-University_Library_Z	v1	ParaCrawl	v9	2310	3240421	363	15.71	.01
+ELRC-1058-University_Library_Z	v1	ParaCrawl	v5	2310	1846962	327	14.15	.01
 ELRC-1058-University_Library_Z	v1	CCMatrix	v1	2310	18694537	28	1.21	0
+ELRC-1058-University_Library_Z	v1	NLLB	v1	2310	18694206	28	1.21	0
 ELRC-1058-University_Library_Z	v1	WikiMatrix	v1	2310	259499	5	.21	0
+ELRC-1058-University_Library_Z	v1	MultiCCAligned	v1	2310	9327209	2	.08	0
 ELRC-1058-University_Library_Z	v1	CCAligned	v1	2310	9327047	2	.08	0
 ELRC-1058-University_Library_Z	v1	ELITR-ECA	v1	2310	157728	2	.08	0
 ELRC-1058-University_Library_Z	v1	ELRC-651-government_websites_	v1	2310	21334	2	.08	0
 ELRC-1058-University_Library_Z	v1	ELRC-government_websites	v1	2310	21334	2	.08	0
 ELRC-1058-University_Library_Z	v1	OpenSubtitles	v2018	2310	28591047	1	.04	0
+ELRC-1058-University_Library_Z	v1	OpenSubtitles	v2016	2310	22002428	1	.04	0
 ELRC-1058-University_Library_Z	v1	XLEnt	v1.1	2310	2717963	1	.04	0
 ELRC-1058-University_Library_Z	v1	XLEnt	v1.2	2310	2717963	1	.04	0
 ELRC-1058-University_Library_Z	v1	XLEnt	v1	2310	2717963	1	.04	0
@@ -21,6 +28,7 @@ ELRC-1058-University_Library_Z	v1	NeuLab-TedTalks	v1	2310	124970	1	.04	0
 ELRC-1058-University_Library_Z	v1	hrenWaC	v1	2310	96379	1	.04	0
 ELRC-1058-University_Library_Z	v1	EuroPat	v2	2310	75105	1	.04	0
 ELRC-1058-University_Library_Z	v1	ELRC-2542-Agriculture	v1	2310	68113	1	.04	0
+ELRC-1058-University_Library_Z	v1	wikimedia	v20230407	2310	40443	1	.04	0
 ELRC-1058-University_Library_Z	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	2310	40102	1	.04	0
 ELRC-1058-University_Library_Z	v1	ELRC-3556-EUR_LEX_covid	v1	2310	21997	1	.04	0
 ELRC-1058-University_Library_Z	v1	ELRC-EUR_LEX	v1	2310	21997	1	.04	0
@@ -46,6 +54,7 @@ ELRC-1058-University_Library_Z	v1	ELRC-989-Foreign_Affairs_Croa	v1	2310	3103	1	.
 ELRC-1058-University_Library_Z	v1	ELRC-Foreign_Affairs	v1	2310	3103	1	.04	.03
 ELRC-1058-University_Library_Z	v1	ELRC-3478-EC_EUROPA_covid	v1	2310	2595	1	.04	.03
 ELRC-1058-University_Library_Z	v1	ELRC-EC_EUROPA	v1	2310	2595	1	.04	.03
+ELRC-1058-University_Library_Z	v1	Tatoeba	v2023-04-12	2310	2444	1	.04	.04
 ELRC-1058-University_Library_Z	v1	Tatoeba	v2022-03-03	2310	2431	1	.04	.04
 ELRC-1058-University_Library_Z	v1	Tatoeba	v2021-07-22	2310	2428	1	.04	.04
 ELRC-1058-University_Library_Z	v1	Tatoeba	v2021-03-10	2310	2416	1	.04	.04
@@ -64,6 +73,7 @@ ELRC-1058-University_Library_Z	v1	ELRC-2753-vaccination	v1	2310	508	1	.04	.19
 ELRC-1058-University_Library_Z	v1	ELRC-vaccination	v1	2310	508	1	.04	.19
 ELRC-1058-University_Library_Z	v1	ELRC-3284-EUROPARL_covid	v1	2310	475	1	.04	.21
 ELRC-1058-University_Library_Z	v1	ELRC-EUROPARL_covid	v1	2310	475	1	.04	.21
+ELRC-1058-University_Library_Z	v1	ParaCrawl	v4	2310	995511	0	0	0
 ELRC-1058-University_Library_Z	v1	TildeMODEL	v2018	2310	736487	0	0	0
 ELRC-1058-University_Library_Z	v1	DGT	v2019	2310	668790	0	0	0
 ELRC-1058-University_Library_Z	v1	SETIMES	v2	2310	204109	0	0	0

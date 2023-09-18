@@ -1,14 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3059-wikipedia_health	v1	ELRC-wikipedia_health	v1	130	130	130	100.00	100.00
 ELRC-3059-wikipedia_health	v1	ELRC_2922	v1	130	129	128	98.46	99.22
+ELRC-3059-wikipedia_health	v1	NLLB	v1	130	74261845	7	5.38	0
+ELRC-3059-wikipedia_health	v1	MultiCCAligned	v1	130	1169961	1	.76	0
 ELRC-3059-wikipedia_health	v1	CCAligned	v1	130	1169942	1	.76	0
 ELRC-3059-wikipedia_health	v1	XLEnt	v1.1	130	290950	1	.76	0
 ELRC-3059-wikipedia_health	v1	XLEnt	v1	130	290950	1	.76	0
 ELRC-3059-wikipedia_health	v1	XLEnt	v1.2	130	290950	1	.76	0
 ELRC-3059-wikipedia_health	v1	WikiMatrix	v1	130	71277	1	.76	0
+ELRC-3059-wikipedia_health	v1	wikimedia	v20230407	130	24794	1	.76	0
 ELRC-3059-wikipedia_health	v1	TED2020	v1	130	11355	1	.76	0
 ELRC-3059-wikipedia_health	v1	wikimedia	v20210402	130	10041	1	.76	0
 ELRC-3059-wikipedia_health	v1	NeuLab-TedTalks	v1	130	6341	1	.76	.01
+ELRC-3059-wikipedia_health	v1	Tatoeba	v2023-04-12	130	3695	1	.76	.02
 ELRC-3059-wikipedia_health	v1	Tatoeba	v2022-03-03	130	3673	1	.76	.02
 ELRC-3059-wikipedia_health	v1	Tatoeba	v2021-07-22	130	3672	1	.76	.02
 ELRC-3059-wikipedia_health	v1	Tatoeba	v2021-03-10	130	3671	1	.76	.02

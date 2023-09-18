@@ -2,11 +2,15 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3039-wikipedia_health	v1	ELRC-wikipedia_health	v1	404	404	404	100.00	100.00
 ELRC-3039-wikipedia_health	v1	ELRC_2922	v1	404	403	402	99.50	99.75
 ELRC-3039-wikipedia_health	v1	CCMatrix	v1	404	8635507	60	14.85	0
+ELRC-3039-wikipedia_health	v1	NLLB	v1	404	39177332	18	4.45	0
+ELRC-3039-wikipedia_health	v1	wikimedia	v20230407	404	76284	16	3.96	.02
 ELRC-3039-wikipedia_health	v1	wikimedia	v20210402	404	64218	16	3.96	.02
+ELRC-3039-wikipedia_health	v1	MultiCCAligned	v1	404	1497460	1	.24	0
 ELRC-3039-wikipedia_health	v1	CCAligned	v1	404	1497433	1	.24	0
 ELRC-3039-wikipedia_health	v1	XLEnt	v1.1	404	219543	1	.24	0
 ELRC-3039-wikipedia_health	v1	XLEnt	v1.2	404	219543	1	.24	0
 ELRC-3039-wikipedia_health	v1	XLEnt	v1	404	219543	1	.24	0
+ELRC-3039-wikipedia_health	v1	Tatoeba	v2023-04-12	404	2429	1	.24	.04
 ELRC-3039-wikipedia_health	v1	Tatoeba	v2022-03-03	404	2417	1	.24	.04
 ELRC-3039-wikipedia_health	v1	Tatoeba	v2021-07-22	404	2382	1	.24	.04
 ELRC-3039-wikipedia_health	v1	Tatoeba	v2020-11-09	404	2381	1	.24	.04
@@ -21,6 +25,7 @@ ELRC-3039-wikipedia_health	v1	SPC	v1	404	51989	0	0	0
 ELRC-3039-wikipedia_health	v1	OpenSubtitles	v2018	404	42367	0	0	0
 ELRC-3039-wikipedia_health	v1	QED	v2.0a	404	26639	0	0	0
 ELRC-3039-wikipedia_health	v1	GNOME	v1	404	21732	0	0	0
+ELRC-3039-wikipedia_health	v1	OpenSubtitles	v2016	404	16162	0	0	0
 ELRC-3039-wikipedia_health	v1	Ubuntu	v14.10	404	12699	0	0	0
 ELRC-3039-wikipedia_health	v1	Tatoeba	v2020-05-31	404	2374	0	0	0
 ELRC-3039-wikipedia_health	v1	Tatoeba	v20190709	404	2345	0	0	0

@@ -1,8 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Books	v1	OpenSubtitles	v2018	3482	7354902	7	.20	0
+Books	v1	OpenSubtitles	v2016	3482	4876710	7	.20	0
+Books	v1	MultiCCAligned	v1	3482	9133068	1	.02	0
 Books	v1	CCAligned	v1	3482	9132909	1	.02	0
 Books	v1	OpenSubtitles	v1	3482	65399	1	.02	0
+Books	v1	ParaCrawl	v8	3482	59090055	0	0	0
 Books	v1	CCMatrix	v1	3482	47571364	0	0	0
+Books	v1	NLLB	v1	3482	47570737	0	0	0
 Books	v1	EuroPat	v3	3482	4341459	0	0	0
 Books	v1	EuroPat	v2	3482	4050341	0	0	0
 Books	v1	XLEnt	v1.1	3482	2048811	0	0	0
@@ -24,6 +28,7 @@ Books	v1	ELRC-4992-Customer_Support_MT	v1	3482	1368	0	0	0
 Books	v1	ELRC-3071-wikipedia_health	v1	3482	686	0	0	0
 Books	v1	ELRC-wikipedia_health	v1	3482	686	0	0	0
 Books	v1	ELRC_2922	v1	3482	685	0	0	0
+Books	v1	wikimedia	v20230407	3482	252	0	0	0
 Books	v1	wikimedia	v20210402	3482	213	0	0	0
 Books	v1	wikimedia	v20190628	3482	86	0	0	0
 Books	v1	ELRC-2638-monumentos_2007	v1	3482	4	0	0	0

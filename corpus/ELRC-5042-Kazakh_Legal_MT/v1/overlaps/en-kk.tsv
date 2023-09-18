@@ -1,14 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+ELRC-5042-Kazakh_Legal_MT	v1	NLLB	v1	1000	34443405	67	6.70	0
+ELRC-5042-Kazakh_Legal_MT	v1	MultiCCAligned	v1	1000	687365	1	.10	0
 ELRC-5042-Kazakh_Legal_MT	v1	CCAligned	v1	1000	687353	1	.10	0
 ELRC-5042-Kazakh_Legal_MT	v1	XLEnt	v1	1000	157242	1	.10	0
 ELRC-5042-Kazakh_Legal_MT	v1	XLEnt	v1.1	1000	157242	1	.10	0
 ELRC-5042-Kazakh_Legal_MT	v1	XLEnt	v1.2	1000	157242	1	.10	0
 ELRC-5042-Kazakh_Legal_MT	v1	WikiMatrix	v1	1000	20054	1	.10	0
+ELRC-5042-Kazakh_Legal_MT	v1	wikimedia	v20230407	1000	11206	1	.10	0
 ELRC-5042-Kazakh_Legal_MT	v1	News-Commentary	v14	1000	9573	1	.10	.01
 ELRC-5042-Kazakh_Legal_MT	v1	News-Commentary	v16	1000	9573	1	.10	.01
 ELRC-5042-Kazakh_Legal_MT	v1	TED2020	v1	1000	9395	1	.10	.01
 ELRC-5042-Kazakh_Legal_MT	v1	wikimedia	v20210402	1000	8813	1	.10	.01
 ELRC-5042-Kazakh_Legal_MT	v1	NeuLab-TedTalks	v1	1000	3612	1	.10	.02
+ELRC-5042-Kazakh_Legal_MT	v1	Tatoeba	v2023-04-12	1000	438	1	.10	.22
 ELRC-5042-Kazakh_Legal_MT	v1	Tatoeba	v2022-03-03	1000	409	1	.10	.24
 ELRC-5042-Kazakh_Legal_MT	v1	Tatoeba	v2021-03-10	1000	407	1	.10	.24
 ELRC-5042-Kazakh_Legal_MT	v1	Tatoeba	v2021-07-22	1000	407	1	.10	.24
@@ -18,6 +22,7 @@ ELRC-5042-Kazakh_Legal_MT	v1	QED	v2.0a	1000	5084	0	0	0
 ELRC-5042-Kazakh_Legal_MT	v1	WMT-News	v2019	1000	4063	0	0	0
 ELRC-5042-Kazakh_Legal_MT	v1	OpenSubtitles	v2018	1000	3528	0	0	0
 ELRC-5042-Kazakh_Legal_MT	v1	GNOME	v1	1000	3431	0	0	0
+ELRC-5042-Kazakh_Legal_MT	v1	OpenSubtitles	v2016	1000	1875	0	0	0
 ELRC-5042-Kazakh_Legal_MT	v1	wikimedia	v20190628	1000	1198	0	0	0
 ELRC-5042-Kazakh_Legal_MT	v1	Tatoeba	v2020-05-31	1000	397	0	0	0
 ELRC-5042-Kazakh_Legal_MT	v1	Tatoeba	v20190709	1000	386	0	0	0

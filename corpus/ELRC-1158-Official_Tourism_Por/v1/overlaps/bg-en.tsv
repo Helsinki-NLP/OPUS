@@ -1,11 +1,19 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1158-Official_Tourism_Por	v1	ParaCrawl	v9	10617	13264298	4008	37.75	.03
+ELRC-1158-Official_Tourism_Por	v1	MultiParaCrawl	v7.1	10617	6470710	2307	21.72	.03
+ELRC-1158-Official_Tourism_Por	v1	ParaCrawl	v7.1	10617	6470709	2305	21.71	.03
+ELRC-1158-Official_Tourism_Por	v1	ParaCrawl	v4	10617	1033746	2048	19.28	.19
+ELRC-1158-Official_Tourism_Por	v1	ParaCrawl	v8	10617	11927055	1989	18.73	.01
+ELRC-1158-Official_Tourism_Por	v1	ParaCrawl	v5	10617	2569578	1943	18.30	.07
 ELRC-1158-Official_Tourism_Por	v1	CCMatrix	v1	10617	44333768	1288	12.13	0
+ELRC-1158-Official_Tourism_Por	v1	NLLB	v1	10617	44332999	1288	12.13	0
+ELRC-1158-Official_Tourism_Por	v1	MultiCCAligned	v1	10617	10351609	455	4.28	0
 ELRC-1158-Official_Tourism_Por	v1	CCAligned	v1	10617	10351428	455	4.28	0
 ELRC-1158-Official_Tourism_Por	v1	DGT	v2019	10617	2739551	6	.05	0
 ELRC-1158-Official_Tourism_Por	v1	XLEnt	v1	10617	2394543	5	.04	0
 ELRC-1158-Official_Tourism_Por	v1	XLEnt	v1.1	10617	2394543	5	.04	0
 ELRC-1158-Official_Tourism_Por	v1	XLEnt	v1.2	10617	2394543	5	.04	0
+ELRC-1158-Official_Tourism_Por	v1	DGT	v4	10617	1077223	5	.04	0
 ELRC-1158-Official_Tourism_Por	v1	LinguaTools-WikiTitles	v2014	10617	2444290	3	.02	0
 ELRC-1158-Official_Tourism_Por	v1	ELRC-2712-EMEA	v1	10617	766010	3	.02	0
 ELRC-1158-Official_Tourism_Por	v1	ELRC-EMEA	v1	10617	766008	3	.02	0
@@ -14,8 +22,10 @@ ELRC-1158-Official_Tourism_Por	v1	ELRC_2682	v1	10617	766009	2	.01	0
 ELRC-1158-Official_Tourism_Por	v1	WikiMatrix	v1	10617	357970	2	.01	0
 ELRC-1158-Official_Tourism_Por	v1	EMEA	v3	10617	328304	2	.01	0
 ELRC-1158-Official_Tourism_Por	v1	OpenSubtitles	v2018	10617	32563039	1	0	0
+ELRC-1158-Official_Tourism_Por	v1	OpenSubtitles	v2016	10617	26838705	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	QED	v2.0a	10617	492589	0	0	0
 ELRC-1158-Official_Tourism_Por	v1	Europarl	v8	10617	394736	0	0	0
+ELRC-1158-Official_Tourism_Por	v1	Europarl	v7	10617	394341	0	0	0
 ELRC-1158-Official_Tourism_Por	v1	TED2020	v1	10617	243925	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	ELITR-ECA	v1	10617	228660	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	SETIMES	v2	10617	211181	0	0	0
@@ -26,6 +36,7 @@ ELRC-1158-Official_Tourism_Por	v1	SETIMES	v1	10617	160602	0	0	0
 ELRC-1158-Official_Tourism_Por	v1	Tanzil	v1	10617	131265	0	0	0
 ELRC-1158-Official_Tourism_Por	v1	Wikipedia	v1.0	10617	77040	0	0	0
 ELRC-1158-Official_Tourism_Por	v1	bible-uedin	v1	10617	61559	0	0	0
+ELRC-1158-Official_Tourism_Por	v1	wikimedia	v20230407	10617	60073	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	ELRC-768-corpora_State_Admini	v1	10617	50413	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	wikimedia	v20210402	10617	32277	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	JRC-Acquis	v3.0	10617	28494	1	0	0
@@ -33,6 +44,7 @@ ELRC-1158-Official_Tourism_Por	v1	ELRC-3563-EUR_LEX_covid	v1	10617	23000	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	ELRC-EUR_LEX	v1	10617	23000	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	ELRC-1176-EUIPO_2017	v1	10617	19606	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	ELRC-EUIPO_2017	v1	10617	19606	1	0	0
+ELRC-1158-Official_Tourism_Por	v1	Tatoeba	v2023-04-12	10617	17835	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	Tatoeba	v2022-03-03	10617	17803	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	Tatoeba	v2021-07-22	10617	17800	1	0	0
 ELRC-1158-Official_Tourism_Por	v1	Tatoeba	v2020-11-09	10617	17794	1	0	0

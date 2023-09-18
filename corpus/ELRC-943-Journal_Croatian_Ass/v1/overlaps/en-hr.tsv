@@ -1,7 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-4142-NTEU_TierA	v1	18478	2273079	18475	99.98	.81
 ELRC-943-Journal_Croatian_Ass	v1	ELRA-W0273	v1	18478	18477	18298	99.02	99.03
+ELRC-943-Journal_Croatian_Ass	v1	ParaCrawl	v8	18478	11063124	612	3.31	0
+ELRC-943-Journal_Croatian_Ass	v1	MultiParaCrawl	v7.1	18478	6959286	526	2.84	0
+ELRC-943-Journal_Croatian_Ass	v1	ParaCrawl	v7.1	18478	6959288	521	2.81	0
 ELRC-943-Journal_Croatian_Ass	v1	ParaCrawl	v9	18478	3240421	329	1.78	.01
+ELRC-943-Journal_Croatian_Ass	v1	ParaCrawl	v5	18478	1846962	300	1.62	.01
+ELRC-943-Journal_Croatian_Ass	v1	MultiCCAligned	v1	18478	9327209	156	.84	0
 ELRC-943-Journal_Croatian_Ass	v1	CCAligned	v1	18478	9327047	156	.84	0
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-5067-SciPar	v1	18478	806581	67	.36	0
 ELRC-943-Journal_Croatian_Ass	v1	KDE4	v2	18478	81410	67	.36	.08
@@ -16,12 +21,16 @@ ELRC-943-Journal_Croatian_Ass	v1	DGT	v2019	18478	668790	27	.14	0
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-2541-Regional_Development	v1	18478	7903	25	.13	.31
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-Regional_Development	v1	18478	7903	25	.13	.31
 ELRC-943-Journal_Croatian_Ass	v1	CCMatrix	v1	18478	18694537	24	.12	0
+ELRC-943-Journal_Croatian_Ass	v1	NLLB	v1	18478	18694206	24	.12	0
+ELRC-943-Journal_Croatian_Ass	v1	ParaCrawl	v4	18478	995511	24	.12	0
 ELRC-943-Journal_Croatian_Ass	v1	Ubuntu	v14.10	18478	13128	23	.12	.17
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-2866-EU_publications_medi	v1	18478	12820	17	.09	.13
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-EU_publications	v1	18478	12820	17	.09	.13
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-788-Croatian_Bank	v1	18478	11708	17	.09	.14
 ELRC-943-Journal_Croatian_Ass	v1	GNOME	v1	18478	8921	18	.09	.20
 ELRC-943-Journal_Croatian_Ass	v1	ELRA-W0226	v1	18478	11707	16	.08	.13
+ELRC-943-Journal_Croatian_Ass	v1	OpenSubtitles	v2016	18478	22002428	9	.04	0
+ELRC-943-Journal_Croatian_Ass	v1	wikimedia	v20230407	18478	40443	9	.04	.02
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	18478	40102	6	.03	.01
 ELRC-943-Journal_Croatian_Ass	v1	wikimedia	v20210402	18478	18939	7	.03	.03
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-1174-EUIPO_2017	v1	18478	17203	6	.03	.03
@@ -69,6 +78,7 @@ ELRC-943-Journal_Croatian_Ass	v1	ELRC-Foreign_Affairs	v1	18478	3103	1	0	.03
 ELRC-943-Journal_Croatian_Ass	v1	ELRA-W0293	v1	18478	3102	0	0	0
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-3478-EC_EUROPA_covid	v1	18478	2595	1	0	.03
 ELRC-943-Journal_Croatian_Ass	v1	ELRC-EC_EUROPA	v1	18478	2595	1	0	.03
+ELRC-943-Journal_Croatian_Ass	v1	Tatoeba	v2023-04-12	18478	2444	1	0	.04
 ELRC-943-Journal_Croatian_Ass	v1	Tatoeba	v2022-03-03	18478	2431	1	0	.04
 ELRC-943-Journal_Croatian_Ass	v1	Tatoeba	v2021-07-22	18478	2428	1	0	.04
 ELRC-943-Journal_Croatian_Ass	v1	Tatoeba	v2021-03-10	18478	2416	1	0	.04

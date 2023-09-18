@@ -2,12 +2,18 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EUconst	v1	ELRC-4270-NTEU_TierA	v1	6692	7890285	4200	62.76	.05
 EUconst	v1	EUbookshop	v2	6692	373431	2250	33.62	.60
 EUconst	v1	ParaCrawl	v9	6692	13191974	617	9.21	0
+EUconst	v1	ParaCrawl	v8	6692	8043262	500	7.47	0
 EUconst	v1	CCMatrix	v1	6692	23162636	493	7.36	0
+EUconst	v1	NLLB	v1	6692	23162019	493	7.36	0
 EUconst	v1	DGT	v2019	6692	3648865	392	5.85	.01
+EUconst	v1	DGT	v4	6692	1967340	301	4.49	.01
 EUconst	v1	TildeMODEL	v2018	6692	2053491	280	4.18	.01
 EUconst	v1	JRC-Acquis	v3.0	6692	500372	277	4.13	.05
 EUconst	v1	ECB	v1	6692	69759	270	4.03	.38
+EUconst	v1	MultiParaCrawl	v7.1	6692	4433563	231	3.45	0
+EUconst	v1	ParaCrawl	v7.1	6692	4433562	231	3.45	0
 EUconst	v1	EMEA	v3	6692	335483	185	2.76	.05
+EUconst	v1	MultiCCAligned	v1	6692	5183742	150	2.24	0
 EUconst	v1	CCAligned	v1	6692	5183648	150	2.24	0
 EUconst	v1	XLEnt	v1.1	6692	1562418	125	1.86	0
 EUconst	v1	XLEnt	v1.2	6692	1562418	125	1.86	0
@@ -16,6 +22,7 @@ EUconst	v1	ELRC-425-Lithuanian_legislati	v1	6692	129128	106	1.58	.08
 EUconst	v1	KDE4	v2	6692	89827	79	1.18	.08
 EUconst	v1	ELITR-ECA	v1	6692	128135	64	.95	.04
 EUconst	v1	Europarl	v8	6692	616663	53	.79	0
+EUconst	v1	Europarl	v7	6692	616275	49	.73	0
 EUconst	v1	ELRC-2878-EU_publications_medi	v1	6692	12573	46	.68	.36
 EUconst	v1	ELRC-EU_publications	v1	6692	12573	46	.68	.36
 EUconst	v1	ELRC-2717-EMEA	v1	6692	757666	37	.55	0
@@ -25,7 +32,11 @@ EUconst	v1	ELRC-2021-EUIPO_2017	v1	6692	17133	32	.47	.18
 EUconst	v1	ELRC-EUIPO_2017	v1	6692	17133	32	.47	.18
 EUconst	v1	ELRC-405-President_Lithuania	v1	6692	12704	30	.44	.23
 EUconst	v1	ELRA-W0160	v1	6692	12703	30	.44	.23
+EUconst	v1	OpenSubtitles	v2016	6692	1023613	29	.43	0
+EUconst	v1	ParaCrawl	v5	6692	1263838	25	.37	0
+EUconst	v1	wikimedia	v20230407	6692	13796	15	.22	.10
 EUconst	v1	wikimedia	v20210402	6692	7387	12	.17	.16
+EUconst	v1	ParaCrawl	v4	6692	841635	8	.11	0
 EUconst	v1	GNOME	v1	6692	15800	8	.11	.05
 EUconst	v1	ELRC-592-kam.lt	v1	6692	8028	7	.10	.08
 EUconst	v1	QED	v2.0a	6692	79727	3	.04	0
@@ -39,6 +50,7 @@ EUconst	v1	TED2020	v1	6692	73635	0	0	0
 EUconst	v1	bible-uedin	v1	6692	61544	0	0	0
 EUconst	v1	NeuLab-TedTalks	v1	6692	44740	0	0	0
 EUconst	v1	ELRC-591-www.lb.lt	v1	6692	33241	0	0	0
+EUconst	v1	Tatoeba	v2023-04-12	6692	8229	0	0	0
 EUconst	v1	Tatoeba	v2022-03-03	6692	8176	0	0	0
 EUconst	v1	Tatoeba	v2021-07-22	6692	8172	0	0	0
 EUconst	v1	Tatoeba	v2021-03-10	6692	8167	0	0	0

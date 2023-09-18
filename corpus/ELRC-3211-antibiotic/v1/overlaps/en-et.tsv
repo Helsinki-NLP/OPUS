@@ -1,7 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3211-antibiotic	v1	ELRC-antibiotic	v1	721	721	721	100.00	100.00
+ELRC-3211-antibiotic	v1	ParaCrawl	v8	721	8585187	213	29.54	0
 ELRC-3211-antibiotic	v1	ParaCrawl	v9	721	8539880	180	24.96	0
 ELRC-3211-antibiotic	v1	CCMatrix	v1	721	21877049	134	18.58	0
+ELRC-3211-antibiotic	v1	NLLB	v1	721	21876691	134	18.58	0
+ELRC-3211-antibiotic	v1	MultiCCAligned	v1	721	4086863	5	.69	0
 ELRC-3211-antibiotic	v1	CCAligned	v1	721	4086794	5	.69	0
 ELRC-3211-antibiotic	v1	ELRC-4271-NTEU_TierA	v1	721	7730635	4	.55	0
 ELRC-3211-antibiotic	v1	TildeMODEL	v2018	721	2032695	3	.41	0
@@ -12,6 +15,8 @@ ELRC-3211-antibiotic	v1	ELRC-EC_EUROPA	v1	721	2707	2	.27	.07
 ELRC-3211-antibiotic	v1	ELRC-2751-vaccination	v1	721	464	2	.27	.43
 ELRC-3211-antibiotic	v1	ELRC-vaccination	v1	721	464	2	.27	.43
 ELRC-3211-antibiotic	v1	OpenSubtitles	v2018	721	10204743	1	.13	0
+ELRC-3211-antibiotic	v1	OpenSubtitles	v2016	721	8489455	1	.13	0
+ELRC-3211-antibiotic	v1	MultiParaCrawl	v7.1	721	3180465	1	.13	0
 ELRC-3211-antibiotic	v1	XLEnt	v1.1	721	1677851	1	.13	0
 ELRC-3211-antibiotic	v1	XLEnt	v1.2	721	1677851	1	.13	0
 ELRC-3211-antibiotic	v1	XLEnt	v1	721	1677851	1	.13	0
@@ -24,6 +29,7 @@ ELRC-3211-antibiotic	v1	ELRC-429-Legal_Estonian_Justi	v1	721	47215	1	.13	0
 ELRC-3211-antibiotic	v1	ELRC-939-vp2006_2016.presiden	v1	721	29520	1	.13	0
 ELRC-3211-antibiotic	v1	ELRC-431-Estonian_Foreign_Aff	v1	721	27797	1	.13	0
 ELRC-3211-antibiotic	v1	ELRC-938-vp2001_2006.presiden	v1	721	25557	1	.13	0
+ELRC-3211-antibiotic	v1	wikimedia	v20230407	721	23146	1	.13	0
 ELRC-3211-antibiotic	v1	TED2020	v1	721	22985	1	.13	0
 ELRC-3211-antibiotic	v1	ELRC-3572-EUR_LEX_covid	v1	721	22028	1	.13	0
 ELRC-3211-antibiotic	v1	ELRC-EUR_LEX	v1	721	22028	1	.13	0
@@ -47,6 +53,7 @@ ELRC-3211-antibiotic	v1	ELRC-presscorner_covid	v1	721	7084	1	.13	.01
 ELRC-3211-antibiotic	v1	ELRC-940-president.ee	v1	721	6933	1	.13	.01
 ELRC-3211-antibiotic	v1	ELRC-2457-Estonian_Classificat	v1	721	6438	1	.13	.01
 ELRC-3211-antibiotic	v1	ELRC-714-Parliament_Estonia	v1	721	5326	1	.13	.01
+ELRC-3211-antibiotic	v1	Tatoeba	v2023-04-12	721	2538	1	.13	.03
 ELRC-3211-antibiotic	v1	ECDC	v2016-03-16	721	2484	1	.13	.04
 ELRC-3211-antibiotic	v1	Tatoeba	v2021-07-22	721	2448	1	.13	.04
 ELRC-3211-antibiotic	v1	Tatoeba	v2022-03-03	721	2448	1	.13	.04
@@ -59,7 +66,13 @@ ELRC-3211-antibiotic	v1	ELRC-3554-www.kriis.ee	v1	721	433	1	.13	.23
 ELRC-3211-antibiotic	v1	ELRC-3079-wikipedia_health	v1	721	278	1	.13	.35
 ELRC-3211-antibiotic	v1	ELRC-wikipedia_health	v1	721	278	1	.13	.35
 ELRC-3211-antibiotic	v1	DGT	v2019	721	3620944	0	0	0
+ELRC-3211-antibiotic	v1	ParaCrawl	v7.1	721	3180464	0	0	0
+ELRC-3211-antibiotic	v1	DGT	v4	721	1954038	0	0	0
+ELRC-3211-antibiotic	v1	ParaCrawl	v5	721	1379164	0	0	0
+ELRC-3211-antibiotic	v1	ParaCrawl	v1	721	1289766	0	0	0
+ELRC-3211-antibiotic	v1	ParaCrawl	v4	721	848980	0	0	0
 ELRC-3211-antibiotic	v1	Europarl	v8	721	632077	0	0	0
+ELRC-3211-antibiotic	v1	Europarl	v7	721	631699	0	0	0
 ELRC-3211-antibiotic	v1	EUbookshop	v2	721	365564	0	0	0
 ELRC-3211-antibiotic	v1	EMEA	v3	721	329076	0	0	0
 ELRC-3211-antibiotic	v1	KDE4	v2	721	191995	0	0	0

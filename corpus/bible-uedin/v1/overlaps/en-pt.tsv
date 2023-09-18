@@ -1,7 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+bible-uedin	v1	ParaCrawl	v4	61621	8111908	25675	41.66	.31
+bible-uedin	v1	ParaCrawl	v5	61621	13783238	24135	39.16	.17
+bible-uedin	v1	MultiParaCrawl	v7.1	61621	31486943	19861	32.23	.06
+bible-uedin	v1	ParaCrawl	v7.1	61621	31486942	19865	32.23	.06
+bible-uedin	v1	MultiCCAligned	v1	61621	46096787	15498	25.15	.03
 bible-uedin	v1	CCAligned	v1	61621	13523846	10413	16.89	.07
+bible-uedin	v1	ParaCrawl	v8	61621	102630613	10348	16.79	.01
 bible-uedin	v1	ParaCrawl	v9	61621	84925921	10069	16.34	.01
+bible-uedin	v1	ParaCrawl	v1	61621	2801742	4184	6.78	.14
 bible-uedin	v1	CCMatrix	v1	61621	172208300	225	.36	0
+bible-uedin	v1	NLLB	v1	61621	172204569	225	.36	0
+bible-uedin	v1	wikimedia	v20230407	61621	787133	14	.02	0
+bible-uedin	v1	OpenSubtitles	v2016	61621	20373196	7	.01	0
 bible-uedin	v1	OpenSubtitles	v2018	61621	26685270	6	0	0
 bible-uedin	v1	LinguaTools-WikiTitles	v2014	61621	7955215	0	0	0
 bible-uedin	v1	XLEnt	v1.1	61621	5417987	0	0	0
@@ -11,8 +21,11 @@ bible-uedin	v1	EUbookshop	v2	61621	3772762	0	0	0
 bible-uedin	v1	DGT	v2019	61621	3617153	0	0	0
 bible-uedin	v1	SciELO	v1	61621	2746160	0	0	0
 bible-uedin	v1	WikiMatrix	v1	61621	2461553	1	0	0
+bible-uedin	v1	DGT	v4	61621	1963751	0	0	0
 bible-uedin	v1	Europarl	v8	61621	1957999	0	0	0
+bible-uedin	v1	Europarl	v7	61621	1957604	0	0	0
 bible-uedin	v1	Wikipedia	v1.0	61621	1694174	0	0	0
+bible-uedin	v1	Europarl	v3	61621	1266094	0	0	0
 bible-uedin	v1	CAPES	v1	61621	1155914	0	0	0
 bible-uedin	v1	TildeMODEL	v2018	61621	1114245	0	0	0
 bible-uedin	v1	JRC-Acquis	v3.0	61621	1040014	0	0	0
@@ -25,6 +38,7 @@ bible-uedin	v1	EMEA	v3	61621	356528	0	0	0
 bible-uedin	v1	ELITR-ECA	v1	61621	342089	0	0	0
 bible-uedin	v1	TED2020	v1	61621	320285	0	0	0
 bible-uedin	v1	OpenSubtitles	v1	61621	317261	0	0	0
+bible-uedin	v1	Tatoeba	v2023-04-12	61621	227632	2	0	0
 bible-uedin	v1	Tatoeba	v2022-03-03	61621	219187	2	0	0
 bible-uedin	v1	Tatoeba	v2021-07-22	61621	217627	2	0	0
 bible-uedin	v1	Tatoeba	v2021-03-10	61621	215977	2	0	0

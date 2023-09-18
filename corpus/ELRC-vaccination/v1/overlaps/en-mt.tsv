@@ -1,15 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-vaccination	v1	ELRC-2746-vaccination	v1	472	472	472	100.00	100.00
+ELRC-vaccination	v1	NLLB	v1	472	14726004	128	27.11	0
 ELRC-vaccination	v1	TildeMODEL	v2018	472	1944924	2	.42	0
 ELRC-vaccination	v1	ELRC-2709-EMEA	v1	472	405848	2	.42	0
 ELRC-vaccination	v1	ELRC-EMEA	v1	472	405848	2	.42	0
 ELRC-vaccination	v1	DGT	v2019	472	2737811	1	.21	0
+ELRC-vaccination	v1	ParaCrawl	v8	472	1604136	1	.21	0
 ELRC-vaccination	v1	ParaCrawl	v9	472	1207761	1	.21	0
+ELRC-vaccination	v1	DGT	v4	472	1097225	1	.21	0
+ELRC-vaccination	v1	MultiParaCrawl	v7.1	472	856984	1	.21	0
 ELRC-vaccination	v1	EMEA	v3	472	317524	1	.21	0
 ELRC-vaccination	v1	ELITR-ECA	v1	472	261509	1	.21	0
 ELRC-vaccination	v1	EUbookshop	v2	472	241067	1	.21	0
 ELRC-vaccination	v1	ELRC-2023-EUIPO_2017	v1	472	17330	1	.21	0
 ELRC-vaccination	v1	ELRC-EUIPO_2017	v1	472	17330	1	.21	0
+ELRC-vaccination	v1	wikimedia	v20230407	472	6033	1	.21	.01
 ELRC-vaccination	v1	ELRC-3560-EUR_LEX_covid	v1	472	4710	1	.21	.02
 ELRC-vaccination	v1	ELRC-EUR_LEX	v1	472	4710	1	.21	.02
 ELRC-vaccination	v1	ELRC-807-Malta_Government_Gaz	v1	472	4005	1	.21	.02
@@ -23,6 +28,7 @@ ELRC-vaccination	v1	ELRC-3459-EC_EUROPA_covid	v1	472	554	1	.21	.18
 ELRC-vaccination	v1	ELRC-EC_EUROPA	v1	472	554	1	.21	.18
 ELRC-vaccination	v1	ELRC-3197-antibiotic	v1	472	392	1	.21	.25
 ELRC-vaccination	v1	ELRC-antibiotic	v1	472	392	1	.21	.25
+ELRC-vaccination	v1	Tatoeba	v2023-04-12	472	253	1	.21	.39
 ELRC-vaccination	v1	Tatoeba	v2022-03-03	472	206	1	.21	.48
 ELRC-vaccination	v1	Tatoeba	v2020-11-09	472	205	1	.21	.48
 ELRC-vaccination	v1	Tatoeba	v2021-03-10	472	205	1	.21	.48
@@ -31,6 +37,10 @@ ELRC-vaccination	v1	TED2020	v1	472	171	1	.21	.58
 ELRC-vaccination	v1	ELRC-3288-EUROPARL_covid	v1	472	142	1	.21	.70
 ELRC-vaccination	v1	ELRC-EUROPARL_covid	v1	472	142	1	.21	.70
 ELRC-vaccination	v1	CCAligned	v1	472	27	1	.21	3.70
+ELRC-vaccination	v1	MultiCCAligned	v1	472	27	1	.21	3.70
+ELRC-vaccination	v1	ParaCrawl	v7.1	472	856983	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v4	472	193983	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v5	472	176423	0	0	0
 ELRC-vaccination	v1	ECB	v1	472	101332	0	0	0
 ELRC-vaccination	v1	QED	v2.0a	472	17978	0	0	0
 ELRC-vaccination	v1	JRC-Acquis	v3.0	472	12383	0	0	0

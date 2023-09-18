@@ -1,16 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2753-vaccination	v1	ELRC-vaccination	v1	508	508	508	100.00	100.00
+ELRC-2753-vaccination	v1	ParaCrawl	v8	508	11063124	4	.78	0
 ELRC-2753-vaccination	v1	ELRC-4142-NTEU_TierA	v1	508	2273079	4	.78	0
+ELRC-2753-vaccination	v1	MultiCCAligned	v1	508	9327209	3	.59	0
 ELRC-2753-vaccination	v1	CCAligned	v1	508	9327047	3	.59	0
 ELRC-2753-vaccination	v1	XLEnt	v1.1	508	2717963	3	.59	0
 ELRC-2753-vaccination	v1	XLEnt	v1.2	508	2717963	3	.59	0
 ELRC-2753-vaccination	v1	XLEnt	v1	508	2717963	3	.59	0
 ELRC-2753-vaccination	v1	ELRC-2706-EMEA	v1	508	644560	3	.59	0
 ELRC-2753-vaccination	v1	ELRC-EMEA	v1	508	644560	3	.59	0
+ELRC-2753-vaccination	v1	MultiParaCrawl	v7.1	508	6959286	2	.39	0
 ELRC-2753-vaccination	v1	ParaCrawl	v9	508	3240421	2	.39	0
 ELRC-2753-vaccination	v1	TildeMODEL	v2018	508	736487	2	.39	0
+ELRC-2753-vaccination	v1	wikimedia	v20230407	508	40443	2	.39	0
 ELRC-2753-vaccination	v1	wikimedia	v20210402	508	18939	2	.39	.01
 ELRC-2753-vaccination	v1	ELRC-788-Croatian_Bank	v1	508	11708	2	.39	.01
+ELRC-2753-vaccination	v1	ParaCrawl	v7.1	508	6959288	1	.19	0
 ELRC-2753-vaccination	v1	ELRC-5067-SciPar	v1	508	806581	1	.19	0
 ELRC-2753-vaccination	v1	WikiMatrix	v1	508	259499	1	.19	0
 ELRC-2753-vaccination	v1	TED2020	v1	508	192409	1	.19	0
@@ -44,6 +49,7 @@ ELRC-2753-vaccination	v1	ELRC-989-Foreign_Affairs_Croa	v1	508	3103	1	.19	.03
 ELRC-2753-vaccination	v1	ELRC-Foreign_Affairs	v1	508	3103	1	.19	.03
 ELRC-2753-vaccination	v1	ELRC-3478-EC_EUROPA_covid	v1	508	2595	1	.19	.03
 ELRC-2753-vaccination	v1	ELRC-EC_EUROPA	v1	508	2595	1	.19	.03
+ELRC-2753-vaccination	v1	Tatoeba	v2023-04-12	508	2444	1	.19	.04
 ELRC-2753-vaccination	v1	Tatoeba	v2022-03-03	508	2431	1	.19	.04
 ELRC-2753-vaccination	v1	Tatoeba	v2021-07-22	508	2428	1	.19	.04
 ELRC-2753-vaccination	v1	Tatoeba	v2021-03-10	508	2416	1	.19	.04
@@ -62,7 +68,11 @@ ELRC-2753-vaccination	v1	ELRC-825-Croatian_Swedish_Cri	v1	508	907	1	.19	.11
 ELRC-2753-vaccination	v1	ELRC-3284-EUROPARL_covid	v1	508	475	1	.19	.21
 ELRC-2753-vaccination	v1	ELRC-EUROPARL_covid	v1	508	475	1	.19	.21
 ELRC-2753-vaccination	v1	OpenSubtitles	v2018	508	28591047	0	0	0
+ELRC-2753-vaccination	v1	OpenSubtitles	v2016	508	22002428	0	0	0
 ELRC-2753-vaccination	v1	CCMatrix	v1	508	18694537	0	0	0
+ELRC-2753-vaccination	v1	NLLB	v1	508	18694206	0	0	0
+ELRC-2753-vaccination	v1	ParaCrawl	v5	508	1846962	0	0	0
+ELRC-2753-vaccination	v1	ParaCrawl	v4	508	995511	0	0	0
 ELRC-2753-vaccination	v1	DGT	v2019	508	668790	0	0	0
 ELRC-2753-vaccination	v1	SETIMES	v2	508	204109	0	0	0
 ELRC-2753-vaccination	v1	QED	v2.0a	508	196487	0	0	0

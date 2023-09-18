@@ -1,17 +1,27 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	Europarl	v7	604779	604395	604392	99.93	99.99
+Europarl	v8	ParaCrawl	v8	604779	7536844	10587	1.75	.14
 Europarl	v8	ParaCrawl	v9	604779	9516069	10107	1.67	.10
 Europarl	v8	CCMatrix	v1	604779	27249324	5732	.94	.02
+Europarl	v8	NLLB	v1	604779	27248871	5732	.94	.02
 Europarl	v8	OpenSubtitles	v2018	604779	16322093	985	.16	0
+Europarl	v8	OpenSubtitles	v2016	604779	13659351	933	.15	0
+Europarl	v8	MultiParaCrawl	v7.1	604779	3737733	191	.03	0
+Europarl	v8	ParaCrawl	v7.1	604779	3737732	191	.03	0
 Europarl	v8	OpenSubtitles	v1	604779	317270	196	.03	.06
 Europarl	v8	DGT	v2019	604779	3618655	101	.01	0
 Europarl	v8	TildeMODEL	v2018	604779	2019848	98	.01	0
 Europarl	v8	QED	v2.0a	604779	74807	80	.01	.10
+Europarl	v8	MultiCCAligned	v1	604779	4346713	56	0	0
 Europarl	v8	CCAligned	v1	604779	4346640	56	0	0
+Europarl	v8	DGT	v4	604779	1958354	48	0	0
+Europarl	v8	ParaCrawl	v5	604779	1395048	28	0	0
 Europarl	v8	XLEnt	v1.1	604779	817858	22	0	0
 Europarl	v8	XLEnt	v1.2	604779	817858	22	0	0
 Europarl	v8	XLEnt	v1	604779	817858	22	0	0
 Europarl	v8	ELRC-2727-EMEA	v1	604779	760104	7	0	0
 Europarl	v8	ELRC-EMEA	v1	604779	760104	7	0	0
+Europarl	v8	ParaCrawl	v4	604779	656409	15	0	0
 Europarl	v8	EUbookshop	v2	604779	340004	24	0	0
 Europarl	v8	EMEA	v3	604779	333756	52	0	.01
 Europarl	v8	WikiMatrix	v1	604779	318028	2	0	0
@@ -20,6 +30,7 @@ Europarl	v8	KDE4	v2	604779	106508	34	0	.03
 Europarl	v8	ELITR-ECA	v1	604779	90081	57	0	.06
 Europarl	v8	ECB	v1	604779	89567	6	0	0
 Europarl	v8	Wikipedia	v1.0	604779	81374	1	0	0
+Europarl	v8	wikimedia	v20230407	604779	69985	5	0	0
 Europarl	v8	ELRC-490-Secretariat_General_	v1	604779	62951	0	0	0
 Europarl	v8	ELRA-W0191	v1	604779	62950	0	0	0
 Europarl	v8	bible-uedin	v1	604779	61647	0	0	0
@@ -44,6 +55,7 @@ Europarl	v8	ELRC-presscorner_covid	v1	604779	6991	2	0	.02
 Europarl	v8	Ubuntu	v14.10	604779	6911	0	0	0
 Europarl	v8	EUconst	v1	604779	6255	53	0	.84
 Europarl	v8	ELRC-923-chapters_Youth_2010	v1	604779	5855	4	0	.06
+Europarl	v8	Tatoeba	v2023-04-12	604779	4293	4	0	.09
 Europarl	v8	Tatoeba	v2022-03-03	604779	4159	4	0	.09
 Europarl	v8	Tatoeba	v2021-07-22	604779	4107	4	0	.09
 Europarl	v8	PHP	v1	604779	3742	1	0	.02

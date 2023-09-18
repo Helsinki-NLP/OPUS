@@ -2,10 +2,18 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2017q3	GlobalVoices	v2018q4	13557	14618	13428	99.04	91.85
 GlobalVoices	v2017q3	GlobalVoices	v2015	13557	11123	10977	80.96	98.68
 GlobalVoices	v2017q3	ParaCrawl	v9	13557	36432545	3794	27.98	.01
+GlobalVoices	v2017q3	ParaCrawl	v8	13557	12681301	2528	18.64	.01
 GlobalVoices	v2017q3	CCMatrix	v1	13557	36215097	2109	15.55	0
+GlobalVoices	v2017q3	NLLB	v1	13557	36214340	2109	15.55	0
+GlobalVoices	v2017q3	MultiParaCrawl	v7.1	13557	6693019	800	5.90	.01
+GlobalVoices	v2017q3	ParaCrawl	v7.1	13557	6693018	800	5.90	.01
+GlobalVoices	v2017q3	ParaCrawl	v5	13557	4171097	515	3.79	.01
 GlobalVoices	v2017q3	OpenSubtitles	v2018	13557	34466630	100	.73	0
+GlobalVoices	v2017q3	OpenSubtitles	v2016	13557	27507360	96	.70	0
 GlobalVoices	v2017q3	QED	v2.0a	13557	309930	30	.22	0
 GlobalVoices	v2017q3	Europarl	v8	13557	607267	29	.21	0
+GlobalVoices	v2017q3	Europarl	v7	13557	606871	29	.21	0
+GlobalVoices	v2017q3	MultiCCAligned	v1	13557	11529935	26	.19	0
 GlobalVoices	v2017q3	CCAligned	v1	13557	11529736	26	.19	0
 GlobalVoices	v2017q3	JRC-Acquis	v3.0	13557	349092	21	.15	0
 GlobalVoices	v2017q3	EMEA	v3	13557	344006	21	.15	0
@@ -20,7 +28,9 @@ GlobalVoices	v2017q3	Wikipedia	v1.0	13557	55935	18	.13	.03
 GlobalVoices	v2017q3	DGT	v2019	13557	3673722	15	.11	0
 GlobalVoices	v2017q3	LinguaTools-WikiTitles	v2014	13557	3548953	15	.11	0
 GlobalVoices	v2017q3	KDE4	v2	13557	108840	16	.11	.01
+GlobalVoices	v2017q3	DGT	v4	13557	1988362	13	.09	0
 GlobalVoices	v2017q3	TED2020	v1	13557	300676	13	.09	0
+GlobalVoices	v2017q3	Tatoeba	v2023-04-12	13557	116753	11	.08	0
 GlobalVoices	v2017q3	Tatoeba	v2022-03-03	13557	113410	11	.08	0
 GlobalVoices	v2017q3	Tatoeba	v2021-07-22	13557	110158	11	.08	0
 GlobalVoices	v2017q3	Tatoeba	v2021-03-10	13557	109023	11	.08	.01
@@ -32,6 +42,7 @@ GlobalVoices	v2017q3	EUbookshop	v2	13557	369917	4	.02	0
 GlobalVoices	v2017q3	Books	v1	13557	136383	4	.02	0
 GlobalVoices	v2017q3	ELRC-2715-EMEA	v1	13557	765041	2	.01	0
 GlobalVoices	v2017q3	ELRC-EMEA	v1	13557	765041	2	.01	0
+GlobalVoices	v2017q3	wikimedia	v20230407	13557	87709	2	.01	0
 GlobalVoices	v2017q3	wikimedia	v20210402	13557	52996	2	.01	0
 GlobalVoices	v2017q3	ELRC-2019-EUIPO_2017	v1	13557	17038	2	.01	.01
 GlobalVoices	v2017q3	ELRC-EUIPO_2017	v1	13557	17038	2	.01	.01
@@ -39,6 +50,7 @@ GlobalVoices	v2017q3	ELRC-2876-EU_publications_medi	v1	13557	13013	2	.01	.01
 GlobalVoices	v2017q3	ELRC-EU_publications	v1	13557	13013	2	.01	.01
 GlobalVoices	v2017q3	Tatoeba	v2	13557	9975	2	.01	.02
 GlobalVoices	v2017q3	PHP	v1	13557	7832	2	.01	.02
+GlobalVoices	v2017q3	ParaCrawl	v4	13557	1892152	0	0	0
 GlobalVoices	v2017q3	WikiMatrix	v1	13557	488277	0	0	0
 GlobalVoices	v2017q3	ECB	v1	13557	71947	1	0	0
 GlobalVoices	v2017q3	bible-uedin	v1	13557	61585	0	0	0

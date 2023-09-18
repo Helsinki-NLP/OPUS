@@ -1,13 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 News-Commentary	v11	News-Commentary	v14	25918	53135	24394	94.11	45.90
 News-Commentary	v11	News-Commentary	v16	25918	53135	23877	92.12	44.93
+News-Commentary	v11	ParaCrawl	v8	25918	102630613	5844	22.54	0
 News-Commentary	v11	News-Commentary	v9.0	25918	7231	5384	20.77	74.45
 News-Commentary	v11	News-Commentary	v9.1	25918	7231	5384	20.77	74.45
 News-Commentary	v11	CCMatrix	v1	25918	172208300	5139	19.82	0
+News-Commentary	v11	NLLB	v1	25918	172204569	5139	19.82	0
 News-Commentary	v11	ParaCrawl	v9	25918	84925921	3484	13.44	0
+News-Commentary	v11	MultiParaCrawl	v7.1	25918	31486943	326	1.25	0
+News-Commentary	v11	ParaCrawl	v7.1	25918	31486942	326	1.25	0
+News-Commentary	v11	ParaCrawl	v1	25918	2801742	220	.84	0
+News-Commentary	v11	ParaCrawl	v4	25918	8111908	192	.74	0
+News-Commentary	v11	ParaCrawl	v5	25918	13783238	183	.70	0
 News-Commentary	v11	OpenSubtitles	v2018	25918	26685270	38	.14	0
+News-Commentary	v11	OpenSubtitles	v2016	25918	20373196	33	.12	0
 News-Commentary	v11	Europarl	v8	25918	1957999	25	.09	0
+News-Commentary	v11	Europarl	v7	25918	1957604	25	.09	0
 News-Commentary	v11	QED	v2.0a	25918	414174	16	.06	0
+News-Commentary	v11	Europarl	v3	25918	1266094	15	.05	0
 News-Commentary	v11	OpenSubtitles	v1	25918	317261	11	.04	0
 News-Commentary	v11	SciELO	v1	25918	2746160	9	.03	0
 News-Commentary	v11	Wikipedia	v1.0	25918	1694174	8	.03	0
@@ -15,6 +25,7 @@ News-Commentary	v11	TED2020	v1	25918	320285	10	.03	0
 News-Commentary	v11	GlobalVoices	v2018q4	25918	85532	9	.03	.01
 News-Commentary	v11	GlobalVoices	v2017q3	25918	70584	8	.03	.01
 News-Commentary	v11	GlobalVoices	v2015	25918	58384	8	.03	.01
+News-Commentary	v11	MultiCCAligned	v1	25918	46096787	7	.02	0
 News-Commentary	v11	CCAligned	v1	25918	13523846	6	.02	0
 News-Commentary	v11	EUbookshop	v2	25918	3772762	7	.02	0
 News-Commentary	v11	JRC-Acquis	v3.0	25918	1040014	7	.02	0
@@ -22,7 +33,9 @@ News-Commentary	v11	EMEA	v3	25918	356528	6	.02	0
 News-Commentary	v11	ELITR-ECA	v1	25918	342089	6	.02	0
 News-Commentary	v11	KDE4	v2	25918	186890	7	.02	0
 News-Commentary	v11	TildeMODEL	v2018	25918	1114245	3	.01	0
+News-Commentary	v11	wikimedia	v20230407	25918	787133	4	.01	0
 News-Commentary	v11	wikimedia	v20210402	25918	485721	4	.01	0
+News-Commentary	v11	Tatoeba	v2023-04-12	25918	227632	5	.01	0
 News-Commentary	v11	Tatoeba	v2022-03-03	25918	219187	5	.01	0
 News-Commentary	v11	Tatoeba	v2021-07-22	25918	217627	5	.01	0
 News-Commentary	v11	Tatoeba	v2021-03-10	25918	215977	5	.01	0
@@ -39,6 +52,7 @@ News-Commentary	v11	XLEnt	v1.2	25918	5417987	0	0	0
 News-Commentary	v11	XLEnt	v1	25918	5417987	0	0	0
 News-Commentary	v11	DGT	v2019	25918	3617153	1	0	0
 News-Commentary	v11	WikiMatrix	v1	25918	2461553	1	0	0
+News-Commentary	v11	DGT	v4	25918	1963751	1	0	0
 News-Commentary	v11	CAPES	v1	25918	1155914	0	0	0
 News-Commentary	v11	ELRC-5067-SciPar	v1	25918	974168	0	0	0
 News-Commentary	v11	ELRC-2724-EMEA	v1	25918	768690	1	0	0

@@ -1,13 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Books	v1	MultiParaCrawl	v7.1	26812	5497548	7573	28.24	.13
 Books	v1	MultiParaCrawl	v8	26812	5497548	7573	28.24	.13
 Books	v1	MultiParaCrawl	v9	26812	5497548	7573	28.24	.13
 Books	v1	MultiParaCrawl	v9b	26812	5497548	7573	28.24	.13
+Books	v1	ParaCrawl	v7.1	26812	5497548	7573	28.24	.13
+Books	v1	ParaCrawl	v8	26812	5497548	7573	28.24	.13
 Books	v1	ParaCrawl	v9	26812	5497548	7573	28.24	.13
+Books	v1	ParaCrawl	v1	26812	9893906	5402	20.14	.05
+Books	v1	NLLB	v1	26812	407525371	3619	13.49	0
 Books	v1	CCMatrix	v1	26812	107495399	2009	7.49	0
 Books	v1	CCAligned	v1	26812	72184499	1718	6.40	0
 Books	v1	MultiCCAligned	v1.1	26812	72184380	1718	6.40	0
+Books	v1	MultiCCAligned	v1	26812	72184380	1718	6.40	0
 Books	v1	OpenSubtitles	v2018	26812	25317409	1021	3.80	0
+Books	v1	OpenSubtitles	v2016	26812	18909647	977	3.64	0
+Books	v1	OpenSubtitles	v2012	26812	6098634	732	2.73	.01
+Books	v1	OpenSubtitles	v2013	26812	5721569	694	2.58	.01
 Books	v1	ChuBiCo	v1	26812	1000235	294	1.09	.02
+Books	v1	Tatoeba	v2023-04-12	26812	992838	291	1.08	.02
 Books	v1	QED	v2.0a	26812	841910	284	1.05	.03
 Books	v1	Tatoeba	v2022-03-03	26812	915518	279	1.04	.03
 Books	v1	Tatoeba	v2021-03-10	26812	848702	265	.98	.03
@@ -20,9 +30,13 @@ Books	v1	OpenSubtitles	v1	26812	83473	167	.62	.20
 Books	v1	Tatoeba	v2	26812	154660	127	.47	.08
 Books	v1	UNPC	v1.0	26812	21234699	119	.44	0
 Books	v1	TED2020	v1	26812	426136	114	.42	.02
+Books	v1	NeuLab-TedTalks	v1	26812	253570	95	.35	.03
+Books	v1	wikimedia	v20230407	26812	3472691	81	.30	0
 Books	v1	wikimedia	v20210402	26812	2066455	67	.24	0
+Books	v1	LinguaTools-WikiTitles	v2014	26812	1935298	58	.21	0
 Books	v1	GlobalVoices	v2018q4	26812	199016	47	.17	.02
 Books	v1	XLEnt	v1.1	26812	6553510	45	.16	0
+Books	v1	XLEnt	v1.2	26812	6553510	45	.16	0
 Books	v1	XLEnt	v1	26812	6553510	45	.16	0
 Books	v1	GlobalVoices	v2017q3	26812	157414	45	.16	.02
 Books	v1	TED2013	v1.1	26812	132320	41	.15	.03
@@ -41,6 +55,7 @@ Books	v1	KDE4	v2	26812	138754	9	.03	0
 Books	v1	Tanzil	v1	26812	118260	8	.02	0
 Books	v1	OpenOffice	v3	26812	46793	6	.02	.01
 Books	v1	GoURMET	v1	26812	23461	6	.02	.02
+Books	v1	GoURMET	v2	26812	23461	6	.02	.02
 Books	v1	wikimedia	v20190628	26812	39686	4	.01	.01
 Books	v1	bible-uedin	v1	26812	34670	3	.01	0
 Books	v1	infopankki	v1	26812	21525	3	.01	.01

@@ -1,17 +1,25 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 infopankki	v1	CCMatrix	v1	13632	863648009	6633	48.65	0
+infopankki	v1	NLLB	v1	13632	861713400	6630	48.63	0
 infopankki	v1	MultiParaCrawl	v9	13632	227109648	6072	44.54	0
 infopankki	v1	MultiParaCrawl	v9b	13632	227109648	6072	44.54	0
 infopankki	v1	ParaCrawl	v9	13632	227109648	6072	44.54	0
 infopankki	v1	MultiParaCrawl	v8	13632	264638796	5729	42.02	0
+infopankki	v1	ParaCrawl	v8	13632	264638796	5729	42.02	0
+infopankki	v1	MultiParaCrawl	v7.1	13632	80995876	3344	24.53	0
+infopankki	v1	ParaCrawl	v7.1	13632	80995876	3344	24.53	0
 infopankki	v1	MultiCCAligned	v1.1	13632	88133854	540	3.96	0
+infopankki	v1	MultiCCAligned	v1	13632	88133854	540	3.96	0
 infopankki	v1	CCAligned	v1	13632	88133814	540	3.96	0
 infopankki	v1	UNPC	v1.0	13632	21411299	306	2.24	0
+infopankki	v1	ParaCrawl	v1	13632	16494775	299	2.19	0
 infopankki	v1	ELRC-4140-NTEU_TierA	v1	13632	11847174	231	1.69	0
 infopankki	v1	ELRC-4153-NTEU_TierA	v1	13632	9409919	222	1.62	0
 infopankki	v1	ELRC-4168-NTEU_TierA	v1	13632	8944148	221	1.62	0
 infopankki	v1	XLEnt	v1.1	13632	7597956	212	1.55	0
 infopankki	v1	XLEnt	v1	13632	7597956	212	1.55	0
+infopankki	v1	XLEnt	v1.2	13632	7597956	212	1.55	0
+infopankki	v1	LinguaTools-WikiTitles	v2014	13632	2406984	200	1.46	0
 infopankki	v1	ELRC-4255-NTEU_TierA	v1	13632	5518741	183	1.34	0
 infopankki	v1	ELRC-4233-NTEU_TierA	v1	13632	5911242	182	1.33	0
 infopankki	v1	ELRC-4158-NTEU_TierA	v1	13632	6001855	180	1.32	0
@@ -21,10 +29,18 @@ infopankki	v1	TildeMODEL	v2018	13632	3824504	160	1.17	0
 infopankki	v1	OpenSubtitles	v2018	13632	74593385	144	1.05	0
 infopankki	v1	WikiTitles	v3	13632	813027	142	1.04	.01
 infopankki	v1	EUbookshop	v2	13632	6731577	140	1.02	0
+infopankki	v1	OpenSubtitles	v2016	13632	63725756	139	1.01	0
+infopankki	v1	DGT	v4	13632	1867954	124	.90	0
 infopankki	v1	Elhuyar	v1	13632	584951	123	.90	.02
 infopankki	v1	ELRC-4236-NTEU_TierA	v1	13632	1385002	119	.87	0
+infopankki	v1	wikimedia	v20230407	13632	3896792	116	.85	0
 infopankki	v1	DOGC	v3	13632	8128208	115	.84	0
+infopankki	v1	MultiParaCrawl	v5	13632	38651240	104	.76	0
+infopankki	v1	ParaCrawl	v5	13632	38651240	104	.76	0
+infopankki	v1	OpenSubtitles	v2012	13632	33714648	103	.75	0
+infopankki	v1	ParaCrawl	v4	13632	23657111	102	.74	0
 infopankki	v1	wikimedia	v20210402	13632	2577143	95	.69	0
+infopankki	v1	OpenSubtitles	v2013	13632	22788458	87	.63	0
 infopankki	v1	JRC-Acquis	v3.0	13632	2003965	85	.62	0
 infopankki	v1	ELRC-2410-Portal_oficial_turis	v1	13632	207285	83	.60	.04
 infopankki	v1	EiTB-ParCC	v1	13632	632746	57	.41	0
@@ -48,6 +64,8 @@ infopankki	v1	ELRC_2682	v1	13632	236111	18	.13	0
 infopankki	v1	ELRC-5179-acts_Ukrainian	v1	13632	127790	18	.13	.01
 infopankki	v1	ELRC-EUIPO_list	v1	13632	54143	17	.12	.03
 infopankki	v1	Europarl	v8	13632	2106876	15	.11	0
+infopankki	v1	Europarl	v7	13632	2106740	15	.11	0
+infopankki	v1	Tatoeba	v2023-04-12	13632	395021	15	.11	0
 infopankki	v1	Tatoeba	v2022-03-03	13632	376749	15	.11	0
 infopankki	v1	Tatoeba	v2021-03-10	13632	339154	15	.11	0
 infopankki	v1	Tatoeba	v2020-11-09	13632	330705	15	.11	0
@@ -60,6 +78,7 @@ infopankki	v1	ELRC-1098-EUIPO_list	v1	13632	44426	15	.11	.03
 infopankki	v1	ELRA-W0147	v1	13632	32158	15	.11	.04
 infopankki	v1	ELRC-1096-EUIPO_list	v1	13632	32158	15	.11	.04
 infopankki	v1	OpenOffice	v2	13632	32897	14	.10	.04
+infopankki	v1	Europarl	v3	13632	1429951	13	.09	0
 infopankki	v1	ELRA-W0151	v1	13632	45016	12	.08	.02
 infopankki	v1	ELRC-1102-EUIPO_list	v1	13632	45016	12	.08	.02
 infopankki	v1	KDEdoc	v1	13632	25010	11	.08	.04
@@ -69,6 +88,7 @@ infopankki	v1	TED2020	v1	13632	442831	9	.06	0
 infopankki	v1	wikimedia	v20190628	13632	20799	9	.06	.04
 infopankki	v1	ELRC-1256-government_websites_	v1	13632	15721	9	.06	.05
 infopankki	v1	SciELO	v1	13632	426084	7	.05	0
+infopankki	v1	NeuLab-TedTalks	v1	13632	237861	8	.05	0
 infopankki	v1	ELRA-W0144	v1	13632	29828	8	.05	.02
 infopankki	v1	ELRC-1093-EUIPO_list	v1	13632	29828	8	.05	.02
 infopankki	v1	ELRC-1084-Agencia_Tributaria	v1	13632	17216	7	.05	.04
@@ -101,6 +121,7 @@ infopankki	v1	News-Commentary	v11	13632	287713	2	.01	0
 infopankki	v1	News-Commentary	v9.0	13632	275065	2	.01	0
 infopankki	v1	News-Commentary	v9.1	13632	275065	2	.01	0
 infopankki	v1	UN	v20090831	13632	60409	2	.01	0
+infopankki	v1	ECDC	v2016-03-16	13632	2469	2	.01	.08
 infopankki	v1	ELRC-2544-TERMITUR	v1	13632	2174	2	.01	.09
 infopankki	v1	ELRC-4992-Customer_Support_MT	v1	13632	1351	2	.01	.14
 infopankki	v1	MultiUN	v1	13632	9835864	0	0	0
@@ -168,6 +189,7 @@ infopankki	v1	ELRC-Patrimnio_Aores	v1	13632	66	0	0	0
 infopankki	v1	ELRC-2623-Patrimnio_Aores_2006	v1	13632	65	0	0	0
 infopankki	v1	ELRC-2625-Patrimnio_Aores_2006	v1	13632	63	0	0	0
 infopankki	v1	Ubuntu	v14.10	13632	46	0	0	0
+infopankki	v1	ELRC-5220-Information_crime_vi	v1	13632	38	0	0	0
 infopankki	v1	RF	v1	13632	28	0	0	0
 infopankki	v1	ELRC-2481-Constituio_da_Repbli	v1	13632	26	0	0	0
 infopankki	v1	ELRC-2478-Glossrio_PT_EN	v1	13632	2	0	0	0

@@ -1,12 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	7387	13796	7332	99.25	53.14
 wikimedia	v20210402	wikimedia	v20190628	7387	2402	969	13.11	40.34
 wikimedia	v20210402	WikiMatrix	v1	7387	157526	262	3.54	.16
 wikimedia	v20210402	CCMatrix	v1	7387	23162636	231	3.12	0
+wikimedia	v20210402	NLLB	v1	7387	23162019	231	3.12	0
+wikimedia	v20210402	MultiCCAligned	v1	7387	5183742	99	1.34	0
 wikimedia	v20210402	CCAligned	v1	7387	5183648	99	1.34	0
 wikimedia	v20210402	ELRC-4270-NTEU_TierA	v1	7387	7890285	96	1.29	0
 wikimedia	v20210402	ParaCrawl	v9	7387	13191974	95	1.28	0
+wikimedia	v20210402	ParaCrawl	v8	7387	8043262	73	.98	0
 wikimedia	v20210402	TildeMODEL	v2018	7387	2053491	72	.97	0
 wikimedia	v20210402	DGT	v2019	7387	3648865	67	.90	0
+wikimedia	v20210402	DGT	v4	7387	1967340	66	.89	0
 wikimedia	v20210402	XLEnt	v1.1	7387	1562418	43	.58	0
 wikimedia	v20210402	XLEnt	v1.2	7387	1562418	43	.58	0
 wikimedia	v20210402	XLEnt	v1	7387	1562418	43	.58	0
@@ -24,9 +29,12 @@ wikimedia	v20210402	GNOME	v1	7387	15800	12	.16	.07
 wikimedia	v20210402	ELRC-2878-EU_publications_medi	v1	7387	12573	12	.16	.09
 wikimedia	v20210402	ELRC-EU_publications	v1	7387	12573	12	.16	.09
 wikimedia	v20210402	EUconst	v1	7387	6692	12	.16	.17
+wikimedia	v20210402	MultiParaCrawl	v7.1	7387	4433563	2	.02	0
 wikimedia	v20210402	OpenSubtitles	v2018	7387	1212456	2	.02	0
+wikimedia	v20210402	OpenSubtitles	v2016	7387	1023613	2	.02	0
 wikimedia	v20210402	ELRC-405-President_Lithuania	v1	7387	12704	2	.02	.01
 wikimedia	v20210402	Ubuntu	v14.10	7387	3827	2	.02	.05
+wikimedia	v20210402	ParaCrawl	v7.1	7387	4433562	1	.01	0
 wikimedia	v20210402	ELRC-5067-SciPar	v1	7387	177437	1	.01	0
 wikimedia	v20210402	ELITR-ECA	v1	7387	128135	1	.01	0
 wikimedia	v20210402	TED2020	v1	7387	73635	1	.01	0
@@ -35,6 +43,7 @@ wikimedia	v20210402	ELRC-591-www.lb.lt	v1	7387	33241	1	.01	0
 wikimedia	v20210402	ELRC-3568-EUR_LEX_covid	v1	7387	21385	1	.01	0
 wikimedia	v20210402	ELRC-EUR_LEX	v1	7387	21385	1	.01	0
 wikimedia	v20210402	ELRA-W0160	v1	7387	12703	1	.01	0
+wikimedia	v20210402	Tatoeba	v2023-04-12	7387	8229	1	.01	.01
 wikimedia	v20210402	Tatoeba	v2022-03-03	7387	8176	1	.01	.01
 wikimedia	v20210402	Tatoeba	v2021-07-22	7387	8172	1	.01	.01
 wikimedia	v20210402	Tatoeba	v2021-03-10	7387	8167	1	.01	.01
@@ -54,7 +63,10 @@ wikimedia	v20210402	ELRC-2740-vaccination	v1	7387	546	1	.01	.18
 wikimedia	v20210402	ELRC-vaccination	v1	7387	546	1	.01	.18
 wikimedia	v20210402	ELRC-3069-wikipedia_health	v1	7387	136	1	.01	.73
 wikimedia	v20210402	ELRC-wikipedia_health	v1	7387	136	1	.01	.73
+wikimedia	v20210402	ParaCrawl	v5	7387	1263838	0	0	0
+wikimedia	v20210402	ParaCrawl	v4	7387	841635	0	0	0
 wikimedia	v20210402	Europarl	v8	7387	616663	0	0	0
+wikimedia	v20210402	Europarl	v7	7387	616275	0	0	0
 wikimedia	v20210402	QED	v2.0a	7387	79727	0	0	0
 wikimedia	v20210402	bible-uedin	v1	7387	61544	0	0	0
 wikimedia	v20210402	Tatoeba	v2020-05-31	7387	8143	0	0	0

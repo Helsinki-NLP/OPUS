@@ -2,12 +2,20 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2015	GlobalVoices	v2017q3	42295	45318	42081	99.49	92.85
 GlobalVoices	v2015	GlobalVoices	v2018q4	42295	48868	41922	99.11	85.78
 GlobalVoices	v2015	ELRA-W0241	v1	42295	57206	24986	59.07	43.67
+GlobalVoices	v2015	ParaCrawl	v8	42295	45358407	8960	21.18	.01
 GlobalVoices	v2015	ParaCrawl	v9	42295	40082038	8038	19.00	.02
 GlobalVoices	v2015	CCMatrix	v1	42295	73625347	6182	14.61	0
+GlobalVoices	v2015	NLLB	v1	42295	73623674	6182	14.61	0
 GlobalVoices	v2015	OpenSubtitles	v2018	42295	34512858	249	.58	0
+GlobalVoices	v2015	OpenSubtitles	v2016	42295	22955941	227	.53	0
+GlobalVoices	v2015	ParaCrawl	v1	42295	1270691	69	.16	0
 GlobalVoices	v2015	QED	v2.0a	42295	482625	62	.14	.01
+GlobalVoices	v2015	MultiCCAligned	v1	42295	25790086	59	.13	0
+GlobalVoices	v2015	MultiParaCrawl	v7.1	42295	13744836	54	.12	0
+GlobalVoices	v2015	ParaCrawl	v7.1	42295	13744835	54	.12	0
 GlobalVoices	v2015	CCAligned	v1	42295	12846330	53	.12	0
 GlobalVoices	v2015	Europarl	v8	42295	613356	32	.07	0
+GlobalVoices	v2015	Europarl	v7	42295	612713	32	.07	0
 GlobalVoices	v2015	TED2020	v1	42295	293265	33	.07	.01
 GlobalVoices	v2015	LinguaTools-WikiTitles	v2014	42295	8003882	27	.06	0
 GlobalVoices	v2015	XLEnt	v1.1	42295	5202602	27	.06	0
@@ -21,6 +29,7 @@ GlobalVoices	v2015	EMEA	v3	42295	343975	20	.04	0
 GlobalVoices	v2015	Wikipedia	v1.0	42295	168603	18	.04	.01
 GlobalVoices	v2015	KDE4	v2	42295	160232	20	.04	.01
 GlobalVoices	v2015	TED2013	v1.1	42295	148046	21	.04	.01
+GlobalVoices	v2015	Tatoeba	v2023-04-12	42295	55895	20	.04	.03
 GlobalVoices	v2015	Tatoeba	v2022-03-03	42295	54736	20	.04	.03
 GlobalVoices	v2015	Tatoeba	v2021-07-22	42295	54279	20	.04	.03
 GlobalVoices	v2015	Tatoeba	v2021-03-10	42295	54235	20	.04	.03
@@ -28,6 +37,7 @@ GlobalVoices	v2015	Tatoeba	v2020-11-09	42295	54179	20	.04	.03
 GlobalVoices	v2015	Tatoeba	v2020-05-31	42295	54143	20	.04	.03
 GlobalVoices	v2015	Tatoeba	v20190709	42295	53938	20	.04	.03
 GlobalVoices	v2015	DGT	v2019	42295	3659053	16	.03	0
+GlobalVoices	v2015	DGT	v4	42295	1966769	15	.03	0
 GlobalVoices	v2015	ELITR-ECA	v1	42295	257916	15	.03	0
 GlobalVoices	v2015	EUconst	v1	42295	6623	15	.03	.22
 GlobalVoices	v2015	ELRC-484-Procurement_2	v1	42295	1812	13	.03	.71
@@ -39,6 +49,8 @@ GlobalVoices	v2015	ELRC-813-Polish_Foreign_Affai	v1	42295	3442	7	.01	.20
 GlobalVoices	v2015	ELRA-W0235	v1	42295	3441	7	.01	.20
 GlobalVoices	v2015	ELRC-474-Natolin_Centre	v1	42295	2022	6	.01	.29
 GlobalVoices	v2015	ELRA-W0176	v1	42295	2021	6	.01	.29
+GlobalVoices	v2015	ParaCrawl	v5	42295	6336749	3	0	0
+GlobalVoices	v2015	ParaCrawl	v4	42295	3483752	2	0	0
 GlobalVoices	v2015	ELRC-5067-SciPar	v1	42295	862076	1	0	0
 GlobalVoices	v2015	ELRC-2726-EMEA	v1	42295	756950	4	0	0
 GlobalVoices	v2015	ELRC-EMEA	v1	42295	756950	4	0	0
@@ -51,6 +63,7 @@ GlobalVoices	v2015	EuroPat	v2	42295	88959	0	0	0
 GlobalVoices	v2015	ELRC-1120-CORDIS_News	v1	42295	87745	4	0	0
 GlobalVoices	v2015	ELRC-CORDIS_News	v1	42295	87745	4	0	0
 GlobalVoices	v2015	ECB	v1	42295	73127	2	0	0
+GlobalVoices	v2015	wikimedia	v20230407	42295	72787	2	0	0
 GlobalVoices	v2015	bible-uedin	v1	42295	60374	0	0	0
 GlobalVoices	v2015	wikimedia	v20210402	42295	51386	2	0	0
 GlobalVoices	v2015	ELRC-975-Science_Poland	v1	42295	28134	1	0	0

@@ -1,12 +1,22 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-674-Polish_Investment_Tr	v1	ELRA-W0212	v1	14736	14735	14369	97.50	97.51
+ELRC-674-Polish_Investment_Tr	v1	ParaCrawl	v8	14736	45358407	6376	43.26	.01
 ELRC-674-Polish_Investment_Tr	v1	ParaCrawl	v9	14736	40082038	6167	41.84	.01
+ELRC-674-Polish_Investment_Tr	v1	MultiParaCrawl	v7.1	14736	13744836	5810	39.42	.04
+ELRC-674-Polish_Investment_Tr	v1	ParaCrawl	v7.1	14736	13744835	5666	38.45	.04
+ELRC-674-Polish_Investment_Tr	v1	ParaCrawl	v5	14736	6336749	4013	27.23	.06
+ELRC-674-Polish_Investment_Tr	v1	ParaCrawl	v4	14736	3483752	314	2.13	0
+ELRC-674-Polish_Investment_Tr	v1	ParaCrawl	v1	14736	1270691	202	1.37	.01
 ELRC-674-Polish_Investment_Tr	v1	CCMatrix	v1	14736	73625347	147	.99	0
+ELRC-674-Polish_Investment_Tr	v1	NLLB	v1	14736	73623674	147	.99	0
+ELRC-674-Polish_Investment_Tr	v1	MultiCCAligned	v1	14736	25790086	29	.19	0
 ELRC-674-Polish_Investment_Tr	v1	CCAligned	v1	14736	12846330	26	.17	0
 ELRC-674-Polish_Investment_Tr	v1	XLEnt	v1.1	14736	5202602	7	.04	0
 ELRC-674-Polish_Investment_Tr	v1	XLEnt	v1	14736	5202602	7	.04	0
 ELRC-674-Polish_Investment_Tr	v1	XLEnt	v1.2	14736	5202602	7	.04	0
 ELRC-674-Polish_Investment_Tr	v1	LinguaTools-WikiTitles	v2014	14736	8003882	3	.02	0
+ELRC-674-Polish_Investment_Tr	v1	OpenSubtitles	v2016	14736	22955941	2	.01	0
+ELRC-674-Polish_Investment_Tr	v1	Tatoeba	v2023-04-12	14736	55895	2	.01	0
 ELRC-674-Polish_Investment_Tr	v1	Tatoeba	v2022-03-03	14736	54736	2	.01	0
 ELRC-674-Polish_Investment_Tr	v1	Tatoeba	v2021-07-22	14736	54279	2	.01	0
 ELRC-674-Polish_Investment_Tr	v1	Tatoeba	v2021-03-10	14736	54235	2	.01	0
@@ -18,12 +28,14 @@ ELRC-674-Polish_Investment_Tr	v1	ELRC-953-Centre_Nuclear_Resea	v1	14736	2756	2	.
 ELRC-674-Polish_Investment_Tr	v1	OpenSubtitles	v2018	14736	34512858	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	DGT	v2019	14736	3659053	0	0	0
 ELRC-674-Polish_Investment_Tr	v1	TildeMODEL	v2018	14736	2124677	0	0	0
+ELRC-674-Polish_Investment_Tr	v1	DGT	v4	14736	1966769	0	0	0
 ELRC-674-Polish_Investment_Tr	v1	JRC-Acquis	v3.0	14736	1048242	0	0	0
 ELRC-674-Polish_Investment_Tr	v1	ELRC-5067-SciPar	v1	14736	862076	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	ELRC-2726-EMEA	v1	14736	756950	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	ELRC-EMEA	v1	14736	756950	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	WikiMatrix	v1	14736	668647	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	Europarl	v8	14736	613356	1	0	0
+ELRC-674-Polish_Investment_Tr	v1	Europarl	v7	14736	612713	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	QED	v2.0a	14736	482625	0	0	0
 ELRC-674-Polish_Investment_Tr	v1	EUbookshop	v2	14736	461498	0	0	0
 ELRC-674-Polish_Investment_Tr	v1	EMEA	v3	14736	343975	0	0	0
@@ -41,6 +53,7 @@ ELRC-674-Polish_Investment_Tr	v1	EuroPat	v2	14736	88959	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	ELRC-1120-CORDIS_News	v1	14736	87745	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	ELRC-CORDIS_News	v1	14736	87745	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	ECB	v1	14736	73127	0	0	0
+ELRC-674-Polish_Investment_Tr	v1	wikimedia	v20230407	14736	72787	1	0	0
 ELRC-674-Polish_Investment_Tr	v1	bible-uedin	v1	14736	60374	0	0	0
 ELRC-674-Polish_Investment_Tr	v1	ELRA-W0241	v1	14736	57206	0	0	0
 ELRC-674-Polish_Investment_Tr	v1	Tatoeba	v2020-05-31	14736	54143	1	0	0

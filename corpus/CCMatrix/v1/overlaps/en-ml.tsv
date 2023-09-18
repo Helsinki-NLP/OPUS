@@ -1,4 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCMatrix	v1	NLLB	v1	6780561	43627223	55528	.81	.12
+CCMatrix	v1	MultiCCAligned	v1	6780561	559355	7388	.10	1.32
 CCMatrix	v1	CCAligned	v1	6780561	559344	7388	.10	1.32
 CCMatrix	v1	Samanantar	v0.2	6780561	5881175	5693	.08	.09
 CCMatrix	v1	Tanzil	v1	6780561	184529	1307	.01	.70
@@ -8,6 +10,8 @@ CCMatrix	v1	XLEnt	v1.1	6780561	730647	83	0	.01
 CCMatrix	v1	XLEnt	v1.2	6780561	730647	83	0	.01
 CCMatrix	v1	XLEnt	v1	6780561	730647	83	0	.01
 CCMatrix	v1	OpenSubtitles	v2018	6780561	354795	53	0	.01
+CCMatrix	v1	OpenSubtitles	v2016	6780561	209866	31	0	.01
+CCMatrix	v1	wikimedia	v20230407	6780561	90667	55	0	.06
 CCMatrix	v1	bible-uedin	v1	6780561	60767	51	0	.08
 CCMatrix	v1	wikimedia	v20210402	6780561	49201	55	0	.11
 CCMatrix	v1	KDE4	v2	6780561	39364	0	0	0
@@ -21,6 +25,7 @@ CCMatrix	v1	Tatoeba	v2020-11-09	6780561	803	6	0	.74
 CCMatrix	v1	Tatoeba	v2021-03-10	6780561	803	6	0	.74
 CCMatrix	v1	Tatoeba	v2021-07-22	6780561	803	6	0	.74
 CCMatrix	v1	Tatoeba	v2022-03-03	6780561	803	6	0	.74
+CCMatrix	v1	Tatoeba	v2023-04-12	6780561	803	6	0	.74
 CCMatrix	v1	Tatoeba	v20190709	6780561	802	6	0	.74
 CCMatrix	v1	Tatoeba	v2020-05-31	6780561	802	6	0	.74
 CCMatrix	v1	Tatoeba	v2	6780561	668	6	0	.89

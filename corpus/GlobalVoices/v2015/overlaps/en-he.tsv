@@ -2,10 +2,14 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2015	GlobalVoices	v2018q4	696	1028	665	95.54	64.68
 GlobalVoices	v2015	GlobalVoices	v2017q3	696	1027	665	95.54	64.75
 GlobalVoices	v2015	CCMatrix	v1	696	25107653	122	17.52	0
+GlobalVoices	v2015	NLLB	v1	696	25107405	122	17.52	0
 GlobalVoices	v2015	OpenSubtitles	v2018	696	23483920	3	.43	0
+GlobalVoices	v2015	OpenSubtitles	v2016	696	18997272	3	.43	0
 GlobalVoices	v2015	QED	v2.0a	696	444585	2	.28	0
 GlobalVoices	v2015	Wikipedia	v1.0	696	138033	2	.28	0
+GlobalVoices	v2015	wikimedia	v20230407	696	305523	1	.14	0
 GlobalVoices	v2015	wikimedia	v20210402	696	192544	1	.14	0
+GlobalVoices	v2015	MultiCCAligned	v1	696	5302760	0	0	0
 GlobalVoices	v2015	CCAligned	v1	696	5302657	0	0	0
 GlobalVoices	v2015	XLEnt	v1.1	696	3057963	0	0	0
 GlobalVoices	v2015	XLEnt	v1.2	696	3057963	0	0	0
@@ -13,6 +17,7 @@ GlobalVoices	v2015	XLEnt	v1	696	3057963	0	0	0
 GlobalVoices	v2015	WikiMatrix	v1	696	545745	0	0	0
 GlobalVoices	v2015	TED2020	v1	696	343526	0	0	0
 GlobalVoices	v2015	NeuLab-TedTalks	v1	696	218152	0	0	0
+GlobalVoices	v2015	Tatoeba	v2023-04-12	696	164483	0	0	0
 GlobalVoices	v2015	Tatoeba	v2022-03-03	696	164186	0	0	0
 GlobalVoices	v2015	Tatoeba	v2021-07-22	696	164086	0	0	0
 GlobalVoices	v2015	Tatoeba	v2021-03-10	696	163933	0	0	0

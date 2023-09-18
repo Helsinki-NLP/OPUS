@@ -1,10 +1,19 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-433-State_Latvian	v1	ELRA-W0169	v1	6862	6861	6818	99.35	99.37
 ELRC-433-State_Latvian	v1	ParaCrawl	v9	6862	13063805	1282	18.68	0
+ELRC-433-State_Latvian	v1	ParaCrawl	v8	6862	8177648	837	12.19	.01
+ELRC-433-State_Latvian	v1	MultiParaCrawl	v7.1	6862	3950245	411	5.98	.01
+ELRC-433-State_Latvian	v1	ParaCrawl	v7.1	6862	3950244	410	5.97	.01
+ELRC-433-State_Latvian	v1	ParaCrawl	v5	6862	1012317	234	3.41	.02
+ELRC-433-State_Latvian	v1	ParaCrawl	v4	6862	550999	132	1.92	.02
+ELRC-433-State_Latvian	v1	MultiCCAligned	v1	6862	4821363	111	1.61	0
 ELRC-433-State_Latvian	v1	CCAligned	v1	6862	4821281	111	1.61	0
+ELRC-433-State_Latvian	v1	ParaCrawl	v1	6862	241289	97	1.41	.04
 ELRC-433-State_Latvian	v1	CCMatrix	v1	6862	16609664	61	.88	0
+ELRC-433-State_Latvian	v1	NLLB	v1	6862	16609458	61	.88	0
 ELRC-433-State_Latvian	v1	ELRC-4269-NTEU_TierA	v1	6862	7895523	59	.85	0
 ELRC-433-State_Latvian	v1	DGT	v2019	6862	3671728	33	.48	0
+ELRC-433-State_Latvian	v1	DGT	v4	6862	1991420	32	.46	0
 ELRC-433-State_Latvian	v1	TildeMODEL	v2018	6862	2075987	18	.26	0
 ELRC-433-State_Latvian	v1	XLEnt	v1.1	6862	1256487	17	.24	0
 ELRC-433-State_Latvian	v1	XLEnt	v1.2	6862	1256487	17	.24	0
@@ -17,6 +26,7 @@ ELRC-433-State_Latvian	v1	KDE4	v2	6862	81206	11	.16	.01
 ELRC-433-State_Latvian	v1	ECB	v1	6862	65318	9	.13	.01
 ELRC-433-State_Latvian	v1	ELRC-399-International_Agreem	v1	6862	40897	8	.11	.01
 ELRC-433-State_Latvian	v1	OpenSubtitles	v2018	6862	452998	7	.10	0
+ELRC-433-State_Latvian	v1	OpenSubtitles	v2016	6862	369945	7	.10	0
 ELRC-433-State_Latvian	v1	EMEA	v3	6862	331993	7	.10	0
 ELRC-433-State_Latvian	v1	ELRA-W0158	v1	6862	40896	7	.10	.01
 ELRC-433-State_Latvian	v1	ELRC-402-MFA_Latvia	v1	6862	7194	6	.08	.08
@@ -31,9 +41,11 @@ ELRC-433-State_Latvian	v1	ELRC-EU_publications	v1	6862	13034	2	.02	.01
 ELRC-433-State_Latvian	v1	ELRC-3477-EC_EUROPA_covid	v1	6862	2405	2	.02	.08
 ELRC-433-State_Latvian	v1	ELRC-EC_EUROPA	v1	6862	2405	2	.02	.08
 ELRC-433-State_Latvian	v1	Europarl	v8	6862	621253	1	.01	0
+ELRC-433-State_Latvian	v1	Europarl	v7	6862	620874	1	.01	0
 ELRC-433-State_Latvian	v1	ELRC-5067-SciPar	v1	6862	347473	1	.01	0
 ELRC-433-State_Latvian	v1	ELRC-3578-EUR_LEX_covid	v1	6862	22466	1	.01	0
 ELRC-433-State_Latvian	v1	ELRC-EUR_LEX	v1	6862	22466	1	.01	0
+ELRC-433-State_Latvian	v1	wikimedia	v20230407	6862	20758	1	.01	0
 ELRC-433-State_Latvian	v1	ELRC-2022-EUIPO_2017	v1	6862	17255	1	.01	0
 ELRC-433-State_Latvian	v1	ELRC-EUIPO_2017	v1	6862	17255	1	.01	0
 ELRC-433-State_Latvian	v1	ELRC-1130-www.visitestonia.com	v1	6862	13834	1	.01	0
@@ -44,6 +56,7 @@ ELRC-433-State_Latvian	v1	ELRC-3619-presscorner_covid	v1	6862	6681	1	.01	.01
 ELRC-433-State_Latvian	v1	ELRC-presscorner_covid	v1	6862	6681	1	.01	.01
 ELRC-433-State_Latvian	v1	ECDC	v2016-03-16	6862	2452	1	.01	.04
 ELRC-433-State_Latvian	v1	ELRC-4994-Latvian_Financial_MT	v1	6862	2001	1	.01	.04
+ELRC-433-State_Latvian	v1	Tatoeba	v2023-04-12	6862	1807	1	.01	.05
 ELRC-433-State_Latvian	v1	Tatoeba	v2022-03-03	6862	1651	1	.01	.06
 ELRC-433-State_Latvian	v1	Tatoeba	v2020-11-09	6862	1633	1	.01	.06
 ELRC-433-State_Latvian	v1	Tatoeba	v2021-03-10	6862	1633	1	.01	.06

@@ -1,8 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 OpenOffice	v3	OpenOffice	v2	48451	36684	8806	18.17	24.00
 OpenOffice	v3	MultiCCAligned	v1.1	48451	94952359	3361	6.93	0
+OpenOffice	v3	MultiCCAligned	v1	48451	94952359	3361	6.93	0
 OpenOffice	v3	CCAligned	v1	48451	94952271	3361	6.93	0
 OpenOffice	v3	MultiParaCrawl	v8	48451	182106158	3060	6.31	0
+OpenOffice	v3	ParaCrawl	v8	48451	182106158	3060	6.31	0
 OpenOffice	v3	MultiParaCrawl	v9	48451	220731737	2870	5.92	0
 OpenOffice	v3	MultiParaCrawl	v9b	48451	220731737	2870	5.92	0
 OpenOffice	v3	ParaCrawl	v9	48451	220731737	2870	5.92	0
@@ -10,9 +12,15 @@ OpenOffice	v3	ELRC-4217-NTEU_TierA	v1	48451	13752401	2830	5.84	.02
 OpenOffice	v3	ELRC-4244-NTEU_TierA	v1	48451	12025211	2595	5.35	.02
 OpenOffice	v3	ELRC-4258-NTEU_TierA	v1	48451	11002908	2580	5.32	.02
 OpenOffice	v3	KDE4	v2	48451	172442	1880	3.88	1.09
+OpenOffice	v3	MultiParaCrawl	v7.1	48451	80061241	1878	3.87	0
+OpenOffice	v3	ParaCrawl	v7.1	48451	80061241	1878	3.87	0
+OpenOffice	v3	ParaCrawl	v1	48451	30443329	1749	3.60	0
 OpenOffice	v3	ELRC-4198-NTEU_TierA	v1	48451	1702436	1693	3.49	.09
 OpenOffice	v3	XLEnt	v1.1	48451	3364773	1676	3.45	.04
+OpenOffice	v3	XLEnt	v1.2	48451	3364773	1676	3.45	.04
 OpenOffice	v3	XLEnt	v1	48451	3364773	1676	3.45	.04
+OpenOffice	v3	LinguaTools-WikiTitles	v2014	48451	2446335	1643	3.39	.06
+OpenOffice	v3	NLLB	v1	48451	534495313	1391	2.87	0
 OpenOffice	v3	CCMatrix	v1	48451	534914327	1367	2.82	0
 OpenOffice	v3	ELRC-4240-NTEU_TierA	v1	48451	6884759	1357	2.80	.01
 OpenOffice	v3	ELRC-4189-NTEU_TierA	v1	48451	6763579	1154	2.38	.01
@@ -21,10 +29,16 @@ OpenOffice	v3	ELRC-4171-NTEU_TierA	v1	48451	6198455	1125	2.32	.01
 OpenOffice	v3	WikiTitles	v3	48451	1349474	1056	2.17	.07
 OpenOffice	v3	TildeMODEL	v2018	48451	5030606	947	1.95	.01
 OpenOffice	v3	Mozilla-I10n	v1	48451	49522	806	1.66	1.62
+OpenOffice	v3	MultiParaCrawl	v5	48451	38758629	794	1.63	0
+OpenOffice	v3	ParaCrawl	v5	48451	38758629	794	1.63	0
+OpenOffice	v3	ParaCrawl	v4	48451	18589563	760	1.56	0
 OpenOffice	v3	EUbookshop	v2	48451	13681030	753	1.55	0
+OpenOffice	v3	DGT	v4	48451	1835860	667	1.37	.03
 OpenOffice	v3	JRC-Acquis	v3.0	48451	1997955	573	1.18	.02
 OpenOffice	v3	OpenSubtitles	v2018	48451	21227082	523	1.07	0
+OpenOffice	v3	OpenSubtitles	v2016	48451	13674348	442	.91	0
 OpenOffice	v3	EMEA	v3	48451	349705	423	.87	.12
+OpenOffice	v3	wikimedia	v20230407	48451	822350	331	.68	.04
 OpenOffice	v3	KDEdoc	v1	48451	26622	331	.68	1.24
 OpenOffice	v3	EuroPat	v3	48451	19387517	288	.59	0
 OpenOffice	v3	ELRC-2714-EMEA	v1	48451	713209	279	.57	.03
@@ -34,9 +48,12 @@ OpenOffice	v3	wikimedia	v20210402	48451	456248	269	.55	.05
 OpenOffice	v3	ELRC_2682	v1	48451	589704	257	.53	.04
 OpenOffice	v3	EuroPat	v2	48451	15421689	256	.52	0
 OpenOffice	v3	EuroPat	v1	48451	12583619	255	.52	0
+OpenOffice	v3	OpenSubtitles	v2012	48451	4892213	247	.50	0
+OpenOffice	v3	OpenSubtitles	v2013	48451	4079127	192	.39	0
 OpenOffice	v3	QED	v2.0a	48451	684273	185	.38	.02
 OpenOffice	v3	ECB	v1	48451	350988	177	.36	.05
 OpenOffice	v3	GNOME	v1	48451	4428	175	.36	3.95
+OpenOffice	v3	StanfordNLP-NMT	v1.0	48451	4761770	152	.31	0
 OpenOffice	v3	ELRC-5179-acts_Ukrainian	v1	48451	126107	142	.29	.11
 OpenOffice	v3	WikiMatrix	v1	48451	23734871	97	.20	0
 OpenOffice	v3	Wikipedia	v1.0	48451	2478076	97	.20	0
@@ -64,12 +81,15 @@ OpenOffice	v3	ELRC-German_Foreign	v1	48451	72183	32	.06	.04
 OpenOffice	v3	TED2020	v1	48451	329147	26	.05	0
 OpenOffice	v3	ELITR-ECA	v1	48451	14537	26	.05	.17
 OpenOffice	v3	Europarl	v8	48451	2110612	20	.04	0
+OpenOffice	v3	Europarl	v7	48451	2110469	20	.04	0
+OpenOffice	v3	Europarl	v3	48451	1443880	18	.03	0
 OpenOffice	v3	ELRC-1117-CORDIS_News	v1	48451	111380	15	.03	.01
 OpenOffice	v3	ELRC-CORDIS_News	v1	48451	111380	15	.03	.01
 OpenOffice	v3	GlobalVoices	v2018q4	48451	88834	18	.03	.02
 OpenOffice	v3	ELRC-Federal_Foreign	v1	48451	59738	16	.03	.02
 OpenOffice	v3	ELRC-EUIPO_list	v1	48451	41820	17	.03	.04
 OpenOffice	v3	ELRC-1240-Austrian_Research_Te	v1	48451	3049	18	.03	.59
+OpenOffice	v3	NeuLab-TedTalks	v1	48451	211159	13	.02	0
 OpenOffice	v3	GlobalVoices	v2017q3	48451	82965	14	.02	.01
 OpenOffice	v3	GlobalVoices	v2015	48451	71300	14	.02	.01
 OpenOffice	v3	Books	v1	48451	70054	11	.02	.01
@@ -82,6 +102,7 @@ OpenOffice	v3	ELRC-1090-German_Foreign_Offic	v1	48451	20734	14	.02	.06
 OpenOffice	v3	ELRC-774-Presidency	v1	48451	16555	12	.02	.07
 OpenOffice	v3	ELRC-2875-EU_publications_medi	v1	48451	13419	12	.02	.08
 OpenOffice	v3	ELRC-EU_publications	v1	48451	13419	12	.02	.08
+OpenOffice	v3	ECDC	v2016-03-16	48451	2513	13	.02	.51
 OpenOffice	v3	ELRC-416-Swedish_Social_Secur	v1	48451	354	13	.02	3.67
 OpenOffice	v3	ELRC_416	v1	48451	354	13	.02	3.67
 OpenOffice	v3	ELRC-417-Swedish_Work_Environ	v1	48451	314	14	.02	4.45
@@ -109,6 +130,7 @@ OpenOffice	v3	ELRC-1257-government_websites_	v1	48451	2675	8	.01	.29
 OpenOffice	v3	ELRC-government_websites	v1	48451	2675	8	.01	.29
 OpenOffice	v3	DGT	v2019	48451	963	5	.01	.51
 OpenOffice	v3	ELRC-832-CHARTER_VALUES_CITIZ	v1	48451	88	7	.01	7.95
+OpenOffice	v3	Tatoeba	v2023-04-12	48451	634009	3	0	0
 OpenOffice	v3	Tatoeba	v2022-03-03	48451	602838	3	0	0
 OpenOffice	v3	Tatoeba	v2021-03-10	48451	556720	2	0	0
 OpenOffice	v3	Tatoeba	v2020-11-09	48451	545306	2	0	0
@@ -175,5 +197,6 @@ OpenOffice	v3	ELRC-Arquitectura_2007	v1	48451	153	0	0	0
 OpenOffice	v3	ELRC-3852-Development_Funds_Re	v1	48451	106	0	0	0
 OpenOffice	v3	ELRC-2623-Patrimnio_Aores_2006	v1	48451	62	0	0	0
 OpenOffice	v3	ELRC-Patrimnio_Aores	v1	48451	62	0	0	0
+OpenOffice	v3	ELRC-5220-Information_crime_vi	v1	48451	57	1	0	1.75
 OpenOffice	v3	ELRC-403-Rights_Arrested	v1	48451	24	0	0	0
 OpenOffice	v3	ELRA-W0301	v1	48451	23	0	0	0

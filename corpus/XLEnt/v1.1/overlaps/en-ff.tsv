@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 XLEnt	v1.1	XLEnt	v1.2	7076	7076	7076	100.00	100.00
 XLEnt	v1.1	XLEnt	v1	7076	7076	7076	100.00	100.00
+XLEnt	v1.1	MultiCCAligned	v1	7076	72451	32	.45	.04
 XLEnt	v1.1	CCAligned	v1	7076	72450	32	.45	.04
+XLEnt	v1.1	wikimedia	v20230407	7076	3	1	.01	33.33
 XLEnt	v1.1	wikimedia	v20210402	7076	2	1	.01	50.00
+XLEnt	v1.1	NLLB	v1	7076	1501644	0	0	0
 XLEnt	v1.1	Ubuntu	v14.10	7076	105	0	0	0
 XLEnt	v1.1	QED	v2.0a	7076	53	0	0	0
 XLEnt	v1.1	wikimedia	v20190628	7076	2	0	0	0

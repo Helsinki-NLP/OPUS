@@ -1,10 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Ubuntu	v14.10	KDE4	v2	5036	39809	104	2.06	.26
+Ubuntu	v14.10	MultiCCAligned	v1	5036	12230118	89	1.76	0
 Ubuntu	v14.10	CCAligned	v1	5036	12229912	89	1.76	0
+Ubuntu	v14.10	wikimedia	v20230407	5036	613874	10	.19	0
 Ubuntu	v14.10	wikimedia	v20210402	5036	549683	10	.19	0
 Ubuntu	v14.10	OpenSubtitles	v2018	5036	3046635	9	.17	0
+Ubuntu	v14.10	OpenSubtitles	v2016	5036	1990878	9	.17	0
 Ubuntu	v14.10	GNOME	v1	5036	148	7	.13	4.72
 Ubuntu	v14.10	CCMatrix	v1	5036	49682115	3	.05	0
+Ubuntu	v14.10	NLLB	v1	5036	49681154	3	.05	0
 Ubuntu	v14.10	QED	v2.0a	5036	315775	3	.05	0
 Ubuntu	v14.10	WikiMatrix	v1	5036	1073752	0	0	0
 Ubuntu	v14.10	TED2020	v1	5036	319120	0	0	0
@@ -12,6 +16,7 @@ Ubuntu	v14.10	NeuLab-TedTalks	v1	5036	180861	0	0	0
 Ubuntu	v14.10	StanfordNLP-NMT	v1.0	5036	133039	0	0	0
 Ubuntu	v14.10	bible-uedin	v1	5036	119297	0	0	0
 Ubuntu	v14.10	Wikipedia	v1.0	5036	36186	0	0	0
+Ubuntu	v14.10	Tatoeba	v2023-04-12	5036	6849	0	0	0
 Ubuntu	v14.10	Tatoeba	v2022-03-03	5036	5689	0	0	0
 Ubuntu	v14.10	Tatoeba	v2021-07-22	5036	5633	0	0	0
 Ubuntu	v14.10	Tatoeba	v2021-03-10	5036	5630	0	0	0

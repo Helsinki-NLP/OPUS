@@ -1,12 +1,19 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+OpenSubtitles	v2018	OpenSubtitles	v2016	537560	355268	295607	54.99	83.20
 OpenSubtitles	v2018	CCMatrix	v1	537560	6246221	349	.06	0
+OpenSubtitles	v2018	NLLB	v1	537560	24088614	77	.01	0
+OpenSubtitles	v2018	MultiCCAligned	v1	537560	616352	78	.01	.01
 OpenSubtitles	v2018	CCAligned	v1	537560	616340	78	.01	.01
 OpenSubtitles	v2018	XLEnt	v1.1	537560	679741	33	0	0
 OpenSubtitles	v2018	XLEnt	v1.2	537560	679741	33	0	0
 OpenSubtitles	v2018	XLEnt	v1	537560	679741	33	0	0
+OpenSubtitles	v2018	MultiParaCrawl	v7.1	537560	210613	31	0	.01
+OpenSubtitles	v2018	ParaCrawl	v8	537560	210613	31	0	.01
 OpenSubtitles	v2018	ParaCrawl	v9	537560	210613	31	0	.01
+OpenSubtitles	v2018	ParaCrawl	v7.1	537560	210612	31	0	.01
 OpenSubtitles	v2018	WikiMatrix	v1	537560	115045	3	0	0
 OpenSubtitles	v2018	KDE4	v2	537560	25287	10	0	.03
+OpenSubtitles	v2018	wikimedia	v20230407	537560	10766	1	0	0
 OpenSubtitles	v2018	wikimedia	v20210402	537560	7439	1	0	.01
 OpenSubtitles	v2018	wikimedia	v20190628	537560	6301	6	0	.09
 OpenSubtitles	v2018	Ubuntu	v14.10	537560	5727	9	0	.15
@@ -15,6 +22,7 @@ OpenSubtitles	v2018	QED	v2.0a	537560	1557	5	0	.32
 OpenSubtitles	v2018	TED2020	v1	537560	1027	5	0	.48
 OpenSubtitles	v2018	Tatoeba	v2021-07-22	537560	48	3	0	6.25
 OpenSubtitles	v2018	Tatoeba	v2022-03-03	537560	48	3	0	6.25
+OpenSubtitles	v2018	Tatoeba	v2023-04-12	537560	48	3	0	6.25
 OpenSubtitles	v2018	Tatoeba	v2020-11-09	537560	46	3	0	6.52
 OpenSubtitles	v2018	Tatoeba	v2021-03-10	537560	46	3	0	6.52
 OpenSubtitles	v2018	Tatoeba	v20190709	537560	45	3	0	6.66

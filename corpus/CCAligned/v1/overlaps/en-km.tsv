@@ -1,10 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+CCAligned	v1	MultiCCAligned	v1	410132	410140	410132	100.00	99.99
+CCAligned	v1	MultiParaCrawl	v7.1	410132	62782	6513	1.58	10.37
+CCAligned	v1	ParaCrawl	v8	410132	62782	6513	1.58	10.37
 CCAligned	v1	ParaCrawl	v9	410132	62782	6513	1.58	10.37
+CCAligned	v1	ParaCrawl	v7.1	410132	62781	6452	1.57	10.27
+CCAligned	v1	NLLB	v1	410132	5774305	503	.12	0
 CCAligned	v1	XLEnt	v1.1	410132	76953	188	.04	.24
 CCAligned	v1	XLEnt	v1.2	410132	76953	188	.04	.24
 CCAligned	v1	XLEnt	v1	410132	76953	188	.04	.24
 CCAligned	v1	KDE4	v2	410132	105312	113	.02	.10
 CCAligned	v1	Ubuntu	v14.10	410132	6976	16	0	.22
+CCAligned	v1	wikimedia	v20230407	410132	4212	4	0	.09
 CCAligned	v1	tico-19	v2020-10-28	410132	3070	0	0	0
 CCAligned	v1	QED	v2.0a	410132	1101	0	0	0
 CCAligned	v1	TED2020	v1	410132	1059	5	0	.47
@@ -12,6 +18,7 @@ CCAligned	v1	wikimedia	v20190628	410132	924	2	0	.21
 CCAligned	v1	GlobalVoices	v2018q4	410132	790	1	0	.12
 CCAligned	v1	GlobalVoices	v2015	410132	787	0	0	0
 CCAligned	v1	GlobalVoices	v2017q3	410132	787	0	0	0
+CCAligned	v1	Tatoeba	v2023-04-12	410132	779	3	0	.38
 CCAligned	v1	wikimedia	v20210402	410132	778	3	0	.38
 CCAligned	v1	Tatoeba	v2020-11-09	410132	753	3	0	.39
 CCAligned	v1	Tatoeba	v2021-03-10	410132	753	3	0	.39

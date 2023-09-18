@@ -1,12 +1,19 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EUbookshop	v2	CCMatrix	v1	461498	73625347	8338	1.80	.01
+EUbookshop	v2	NLLB	v1	461498	73623674	8338	1.80	.01
 EUbookshop	v2	DGT	v2019	461498	3659053	8047	1.74	.21
+EUbookshop	v2	DGT	v4	461498	1966769	7938	1.72	.40
+EUbookshop	v2	ParaCrawl	v8	461498	45358407	6936	1.50	.01
 EUbookshop	v2	ParaCrawl	v9	461498	40082038	6444	1.39	.01
 EUbookshop	v2	ELITR-ECA	v1	461498	257916	4243	.91	1.64
 EUbookshop	v2	TildeMODEL	v2018	461498	2124677	4010	.86	.18
 EUbookshop	v2	JRC-Acquis	v3.0	461498	1048242	3843	.83	.36
 EUbookshop	v2	EUconst	v1	461498	6623	1912	.41	28.86
+EUbookshop	v2	MultiCCAligned	v1	461498	25790086	1769	.38	0
+EUbookshop	v2	MultiParaCrawl	v7.1	461498	13744836	1703	.36	.01
+EUbookshop	v2	ParaCrawl	v7.1	461498	13744835	1693	.36	.01
 EUbookshop	v2	CCAligned	v1	461498	12846330	1507	.32	.01
+EUbookshop	v2	ParaCrawl	v1	461498	1270691	720	.15	.05
 EUbookshop	v2	ECB	v1	461498	73127	714	.15	.97
 EUbookshop	v2	LinguaTools-WikiTitles	v2014	461498	8003882	526	.11	0
 EUbookshop	v2	XLEnt	v1.1	461498	5202602	356	.07	0
@@ -16,12 +23,17 @@ EUbookshop	v2	ELRC-2726-EMEA	v1	461498	756950	179	.03	.02
 EUbookshop	v2	ELRC-EMEA	v1	461498	756950	179	.03	.02
 EUbookshop	v2	KDE4	v2	461498	160232	177	.03	.11
 EUbookshop	v2	OpenSubtitles	v2018	461498	34512858	123	.02	0
+EUbookshop	v2	OpenSubtitles	v2016	461498	22955941	99	.02	0
+EUbookshop	v2	ParaCrawl	v5	461498	6336749	116	.02	0
+EUbookshop	v2	ParaCrawl	v4	461498	3483752	136	.02	0
 EUbookshop	v2	EMEA	v3	461498	343975	81	.01	.02
+EUbookshop	v2	wikimedia	v20230407	461498	72787	52	.01	.07
 EUbookshop	v2	ELRC-2885-EU_publications_medi	v1	461498	12751	85	.01	.66
 EUbookshop	v2	ELRC-EU_publications	v1	461498	12751	85	.01	.66
 EUbookshop	v2	ELRC-5067-SciPar	v1	461498	862076	3	0	0
 EUbookshop	v2	WikiMatrix	v1	461498	668647	16	0	0
 EUbookshop	v2	Europarl	v8	461498	613356	23	0	0
+EUbookshop	v2	Europarl	v7	461498	612713	23	0	0
 EUbookshop	v2	QED	v2.0a	461498	482625	41	0	0
 EUbookshop	v2	EuroPat	v3	461498	332120	2	0	0
 EUbookshop	v2	TED2020	v1	461498	293265	12	0	0
@@ -36,6 +48,7 @@ EUbookshop	v2	ELRC-1120-CORDIS_News	v1	461498	87745	13	0	.01
 EUbookshop	v2	ELRC-CORDIS_News	v1	461498	87745	13	0	.01
 EUbookshop	v2	bible-uedin	v1	461498	60374	0	0	0
 EUbookshop	v2	ELRA-W0241	v1	461498	57206	6	0	.01
+EUbookshop	v2	Tatoeba	v2023-04-12	461498	55895	5	0	0
 EUbookshop	v2	Tatoeba	v2022-03-03	461498	54736	5	0	0
 EUbookshop	v2	Tatoeba	v2021-07-22	461498	54279	5	0	0
 EUbookshop	v2	Tatoeba	v2021-03-10	461498	54235	5	0	0

@@ -1,7 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1080-Acts_Biological_Land	v1	ELRC-4142-NTEU_TierA	v1	2329	2273079	2329	100.00	.10
 ELRC-1080-Acts_Biological_Land	v1	ELRA-W0142	v1	2329	2328	2326	99.87	99.91
+ELRC-1080-Acts_Biological_Land	v1	ParaCrawl	v8	2329	11063124	1	.04	0
+ELRC-1080-Acts_Biological_Land	v1	MultiCCAligned	v1	2329	9327209	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	CCAligned	v1	2329	9327047	1	.04	0
+ELRC-1080-Acts_Biological_Land	v1	MultiParaCrawl	v7.1	2329	6959286	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	ParaCrawl	v9	2329	3240421	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	XLEnt	v1.1	2329	2717963	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	XLEnt	v1.2	2329	2717963	1	.04	0
@@ -16,6 +19,7 @@ ELRC-1080-Acts_Biological_Land	v1	EuroPat	v3	2329	154775	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	NeuLab-TedTalks	v1	2329	124970	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	EuroPat	v2	2329	75105	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	ELRC-2542-Agriculture	v1	2329	68113	1	.04	0
+ELRC-1080-Acts_Biological_Land	v1	wikimedia	v20230407	2329	40443	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	ELRC-4329-PRINCIPLE_MVEP_legal	v1	2329	40102	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	ELRC-3556-EUR_LEX_covid	v1	2329	21997	1	.04	0
 ELRC-1080-Acts_Biological_Land	v1	ELRC-EUR_LEX	v1	2329	21997	1	.04	0
@@ -42,6 +46,7 @@ ELRC-1080-Acts_Biological_Land	v1	ELRC-989-Foreign_Affairs_Croa	v1	2329	3103	1	.
 ELRC-1080-Acts_Biological_Land	v1	ELRC-Foreign_Affairs	v1	2329	3103	1	.04	.03
 ELRC-1080-Acts_Biological_Land	v1	ELRC-3478-EC_EUROPA_covid	v1	2329	2595	1	.04	.03
 ELRC-1080-Acts_Biological_Land	v1	ELRC-EC_EUROPA	v1	2329	2595	1	.04	.03
+ELRC-1080-Acts_Biological_Land	v1	Tatoeba	v2023-04-12	2329	2444	1	.04	.04
 ELRC-1080-Acts_Biological_Land	v1	Tatoeba	v2022-03-03	2329	2431	1	.04	.04
 ELRC-1080-Acts_Biological_Land	v1	Tatoeba	v2021-07-22	2329	2428	1	.04	.04
 ELRC-1080-Acts_Biological_Land	v1	Tatoeba	v2021-03-10	2329	2416	1	.04	.04
@@ -61,7 +66,12 @@ ELRC-1080-Acts_Biological_Land	v1	ELRC-vaccination	v1	2329	508	1	.04	.19
 ELRC-1080-Acts_Biological_Land	v1	ELRC-3284-EUROPARL_covid	v1	2329	475	1	.04	.21
 ELRC-1080-Acts_Biological_Land	v1	ELRC-EUROPARL_covid	v1	2329	475	1	.04	.21
 ELRC-1080-Acts_Biological_Land	v1	OpenSubtitles	v2018	2329	28591047	0	0	0
+ELRC-1080-Acts_Biological_Land	v1	OpenSubtitles	v2016	2329	22002428	0	0	0
 ELRC-1080-Acts_Biological_Land	v1	CCMatrix	v1	2329	18694537	0	0	0
+ELRC-1080-Acts_Biological_Land	v1	NLLB	v1	2329	18694206	0	0	0
+ELRC-1080-Acts_Biological_Land	v1	ParaCrawl	v7.1	2329	6959288	0	0	0
+ELRC-1080-Acts_Biological_Land	v1	ParaCrawl	v5	2329	1846962	0	0	0
+ELRC-1080-Acts_Biological_Land	v1	ParaCrawl	v4	2329	995511	0	0	0
 ELRC-1080-Acts_Biological_Land	v1	TildeMODEL	v2018	2329	736487	0	0	0
 ELRC-1080-Acts_Biological_Land	v1	DGT	v2019	2329	668790	0	0	0
 ELRC-1080-Acts_Biological_Land	v1	SETIMES	v2	2329	204109	0	0	0

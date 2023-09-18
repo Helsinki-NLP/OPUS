@@ -1,11 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EUconst	v1	EUbookshop	v2	6717	241067	696	10.36	.28
 EUconst	v1	DGT	v2019	6717	2737811	402	5.98	.01
+EUconst	v1	DGT	v4	6717	1097225	254	3.78	.02
 EUconst	v1	TildeMODEL	v2018	6717	1944924	240	3.57	.01
 EUconst	v1	EMEA	v3	6717	317524	189	2.81	.05
+EUconst	v1	NLLB	v1	6717	14726004	160	2.38	0
+EUconst	v1	ParaCrawl	v8	6717	1604136	150	2.23	0
 EUconst	v1	ParaCrawl	v9	6717	1207761	147	2.18	.01
 EUconst	v1	ECB	v1	6717	101332	132	1.96	.13
 EUconst	v1	JRC-Acquis	v3.0	6717	12383	125	1.86	1.00
+EUconst	v1	MultiParaCrawl	v7.1	6717	856984	96	1.42	.01
+EUconst	v1	ParaCrawl	v7.1	6717	856983	96	1.42	.01
 EUconst	v1	ELITR-ECA	v1	6717	261509	78	1.16	.02
 EUconst	v1	ELRA-W0234	v1	6717	7172	66	.98	.92
 EUconst	v1	ELRC-2709-EMEA	v1	6717	405848	31	.46	0
@@ -14,11 +19,14 @@ EUconst	v1	ELRC-807-Malta_Government_Gaz	v1	6717	4005	19	.28	.47
 EUconst	v1	ELRA-W0233	v1	6717	4004	19	.28	.47
 EUconst	v1	ELRC-2870-EU_publications_medi	v1	6717	3086	18	.26	.58
 EUconst	v1	ELRC-EU_publications	v1	6717	3086	18	.26	.58
+EUconst	v1	ParaCrawl	v5	6717	176423	16	.23	0
 EUconst	v1	ELRC-2023-EUIPO_2017	v1	6717	17330	7	.10	.04
 EUconst	v1	ELRC-EUIPO_2017	v1	6717	17330	7	.10	.04
+EUconst	v1	ParaCrawl	v4	6717	193983	6	.08	0
 EUconst	v1	QED	v2.0a	6717	17978	3	.04	.01
 EUconst	v1	ELRC-3459-EC_EUROPA_covid	v1	6717	554	1	.01	.18
 EUconst	v1	ELRC-EC_EUROPA	v1	6717	554	1	.01	.18
+EUconst	v1	wikimedia	v20230407	6717	6033	0	0	0
 EUconst	v1	ELRC-3560-EUR_LEX_covid	v1	6717	4710	0	0	0
 EUconst	v1	ELRC-EUR_LEX	v1	6717	4710	0	0	0
 EUconst	v1	ECDC	v2016-03-16	6717	2489	0	0	0
@@ -32,6 +40,7 @@ EUconst	v1	ELRC-vaccination	v1	6717	472	0	0	0
 EUconst	v1	ELRC-3197-antibiotic	v1	6717	392	0	0	0
 EUconst	v1	ELRC-antibiotic	v1	6717	392	0	0	0
 EUconst	v1	KDE4	v2	6717	303	0	0	0
+EUconst	v1	Tatoeba	v2023-04-12	6717	253	0	0	0
 EUconst	v1	Tatoeba	v2022-03-03	6717	206	0	0	0
 EUconst	v1	Tatoeba	v2020-11-09	6717	205	0	0	0
 EUconst	v1	Tatoeba	v2021-03-10	6717	205	0	0	0
@@ -46,3 +55,4 @@ EUconst	v1	Tatoeba	v2	6717	107	0	0	0
 EUconst	v1	ELRC_2923	v1	6717	95	0	0	0
 EUconst	v1	wikimedia	v20190628	6717	90	0	0	0
 EUconst	v1	CCAligned	v1	6717	27	0	0	0
+EUconst	v1	MultiCCAligned	v1	6717	27	0	0	0

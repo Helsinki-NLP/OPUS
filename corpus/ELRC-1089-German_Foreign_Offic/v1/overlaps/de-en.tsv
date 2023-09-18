@@ -1,7 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1089-German_Foreign_Offic	v1	ParaCrawl	v9	24725	278310902	11713	47.37	0
+ELRC-1089-German_Foreign_Offic	v1	ParaCrawl	v8	24725	261106742	10415	42.12	0
 ELRC-1089-German_Foreign_Offic	v1	CCMatrix	v1	24725	245958729	9202	37.21	0
+ELRC-1089-German_Foreign_Offic	v1	NLLB	v1	24725	245954214	9202	37.21	0
+ELRC-1089-German_Foreign_Offic	v1	MultiParaCrawl	v7.1	24725	82638070	2934	11.86	0
+ELRC-1089-German_Foreign_Offic	v1	ParaCrawl	v7.1	24725	82638069	2931	11.85	0
+ELRC-1089-German_Foreign_Offic	v1	ParaCrawl	v5	24725	36657324	1448	5.85	0
 ELRC-1089-German_Foreign_Offic	v1	ELRC-642-Federal_Foreign_Berl	v1	24725	53842	525	2.12	.97
+ELRC-1089-German_Foreign_Offic	v1	ParaCrawl	v4	24725	16173851	383	1.54	0
+ELRC-1089-German_Foreign_Offic	v1	MultiCCAligned	v1	24725	91967663	142	.57	0
+ELRC-1089-German_Foreign_Offic	v1	ParaCrawl	v1	24725	36203700	94	.38	0
 ELRC-1089-German_Foreign_Offic	v1	CCAligned	v1	24725	15192790	84	.33	0
 ELRC-1089-German_Foreign_Offic	v1	LinguaTools-WikiTitles	v2014	24725	15812874	53	.21	0
 ELRC-1089-German_Foreign_Offic	v1	TildeMODEL	v2018	24725	4184303	47	.19	0
@@ -12,12 +20,17 @@ ELRC-1089-German_Foreign_Offic	v1	XLEnt	v1	24725	3802840	29	.11	0
 ELRC-1089-German_Foreign_Offic	v1	DGT	v2019	24725	3598219	28	.11	0
 ELRC-1089-German_Foreign_Offic	v1	WikiTitles	v3	24725	1386531	29	.11	0
 ELRC-1089-German_Foreign_Offic	v1	OpenSubtitles	v2018	24725	18698900	26	.10	0
+ELRC-1089-German_Foreign_Offic	v1	DGT	v4	24725	1949796	27	.10	0
+ELRC-1089-German_Foreign_Offic	v1	OpenSubtitles	v2016	24725	11777113	23	.09	0
 ELRC-1089-German_Foreign_Offic	v1	KDE4	v2	24725	187849	19	.07	.01
 ELRC-1089-German_Foreign_Offic	v1	QED	v2.0a	24725	492321	15	.06	0
 ELRC-1089-German_Foreign_Offic	v1	ELRC-1090-German_Foreign_Offic	v1	24725	20549	15	.06	.07
 ELRC-1089-German_Foreign_Offic	v1	Europarl	v8	24725	1916512	12	.04	0
+ELRC-1089-German_Foreign_Offic	v1	Europarl	v7	24725	1915803	12	.04	0
+ELRC-1089-German_Foreign_Offic	v1	wikimedia	v20230407	24725	161399	10	.04	0
 ELRC-1089-German_Foreign_Offic	v1	ECB	v1	24725	113033	10	.04	0
 ELRC-1089-German_Foreign_Offic	v1	wikimedia	v20210402	24725	103209	10	.04	0
+ELRC-1089-German_Foreign_Offic	v1	Europarl	v3	24725	1285340	8	.03	0
 ELRC-1089-German_Foreign_Offic	v1	JRC-Acquis	v3.0	24725	503393	8	.03	0
 ELRC-1089-German_Foreign_Offic	v1	ELRC-2014-EUIPO_2017	v1	24725	17145	8	.03	.04
 ELRC-1089-German_Foreign_Offic	v1	ELRC-EUIPO_2017	v1	24725	17145	8	.03	.04
@@ -26,6 +39,7 @@ ELRC-1089-German_Foreign_Offic	v1	ELRC-Information_Portal	v1	24725	11281	9	.03	.
 ELRC-1089-German_Foreign_Offic	v1	ELRC-2714-EMEA	v1	24725	752887	5	.02	0
 ELRC-1089-German_Foreign_Offic	v1	ELRC-EMEA	v1	24725	752887	5	.02	0
 ELRC-1089-German_Foreign_Offic	v1	EMEA	v3	24725	357190	7	.02	0
+ELRC-1089-German_Foreign_Offic	v1	Tatoeba	v2023-04-12	24725	322298	7	.02	0
 ELRC-1089-German_Foreign_Offic	v1	Tatoeba	v2022-03-03	24725	313068	7	.02	0
 ELRC-1089-German_Foreign_Offic	v1	Tatoeba	v2021-07-22	24725	307276	7	.02	0
 ELRC-1089-German_Foreign_Offic	v1	Tatoeba	v2021-03-10	24725	302363	7	.02	0

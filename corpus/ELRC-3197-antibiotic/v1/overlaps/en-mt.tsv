@@ -1,18 +1,23 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3197-antibiotic	v1	ELRC-antibiotic	v1	392	392	392	100.00	100.00
+ELRC-3197-antibiotic	v1	ParaCrawl	v8	392	1604136	79	20.15	0
 ELRC-3197-antibiotic	v1	ParaCrawl	v9	392	1207761	59	15.05	0
+ELRC-3197-antibiotic	v1	NLLB	v1	392	14726004	55	14.03	0
 ELRC-3197-antibiotic	v1	TildeMODEL	v2018	392	1944924	4	1.02	0
 ELRC-3197-antibiotic	v1	ELRC-2709-EMEA	v1	392	405848	3	.76	0
 ELRC-3197-antibiotic	v1	ELRC-EMEA	v1	392	405848	3	.76	0
 ELRC-3197-antibiotic	v1	DGT	v2019	392	2737811	2	.51	0
+ELRC-3197-antibiotic	v1	DGT	v4	392	1097225	2	.51	0
 ELRC-3197-antibiotic	v1	EUbookshop	v2	392	241067	2	.51	0
 ELRC-3197-antibiotic	v1	ELRC-2023-EUIPO_2017	v1	392	17330	2	.51	.01
 ELRC-3197-antibiotic	v1	ELRC-EUIPO_2017	v1	392	17330	2	.51	.01
 ELRC-3197-antibiotic	v1	ELRC-3459-EC_EUROPA_covid	v1	392	554	2	.51	.36
 ELRC-3197-antibiotic	v1	ELRC-EC_EUROPA	v1	392	554	2	.51	.36
+ELRC-3197-antibiotic	v1	MultiParaCrawl	v7.1	392	856984	1	.25	0
 ELRC-3197-antibiotic	v1	EMEA	v3	392	317524	1	.25	0
 ELRC-3197-antibiotic	v1	ELITR-ECA	v1	392	261509	1	.25	0
 ELRC-3197-antibiotic	v1	ECB	v1	392	101332	1	.25	0
+ELRC-3197-antibiotic	v1	wikimedia	v20230407	392	6033	1	.25	.01
 ELRC-3197-antibiotic	v1	ELRC-3560-EUR_LEX_covid	v1	392	4710	1	.25	.02
 ELRC-3197-antibiotic	v1	ELRC-EUR_LEX	v1	392	4710	1	.25	.02
 ELRC-3197-antibiotic	v1	ELRC-807-Malta_Government_Gaz	v1	392	4005	1	.25	.02
@@ -24,6 +29,7 @@ ELRC-3197-antibiotic	v1	ELRC-3601-presscorner_covid	v1	392	1708	1	.25	.05
 ELRC-3197-antibiotic	v1	ELRC-presscorner_covid	v1	392	1708	1	.25	.05
 ELRC-3197-antibiotic	v1	ELRC-2746-vaccination	v1	392	472	1	.25	.21
 ELRC-3197-antibiotic	v1	ELRC-vaccination	v1	392	472	1	.25	.21
+ELRC-3197-antibiotic	v1	Tatoeba	v2023-04-12	392	253	1	.25	.39
 ELRC-3197-antibiotic	v1	Tatoeba	v2022-03-03	392	206	1	.25	.48
 ELRC-3197-antibiotic	v1	Tatoeba	v2020-11-09	392	205	1	.25	.48
 ELRC-3197-antibiotic	v1	Tatoeba	v2021-03-10	392	205	1	.25	.48
@@ -32,6 +38,10 @@ ELRC-3197-antibiotic	v1	TED2020	v1	392	171	1	.25	.58
 ELRC-3197-antibiotic	v1	ELRC-3288-EUROPARL_covid	v1	392	142	1	.25	.70
 ELRC-3197-antibiotic	v1	ELRC-EUROPARL_covid	v1	392	142	1	.25	.70
 ELRC-3197-antibiotic	v1	CCAligned	v1	392	27	1	.25	3.70
+ELRC-3197-antibiotic	v1	MultiCCAligned	v1	392	27	1	.25	3.70
+ELRC-3197-antibiotic	v1	ParaCrawl	v7.1	392	856983	0	0	0
+ELRC-3197-antibiotic	v1	ParaCrawl	v4	392	193983	0	0	0
+ELRC-3197-antibiotic	v1	ParaCrawl	v5	392	176423	0	0	0
 ELRC-3197-antibiotic	v1	QED	v2.0a	392	17978	0	0	0
 ELRC-3197-antibiotic	v1	JRC-Acquis	v3.0	392	12383	0	0	0
 ELRC-3197-antibiotic	v1	ELRA-W0234	v1	392	7172	0	0	0

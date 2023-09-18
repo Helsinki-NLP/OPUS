@@ -1,6 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 OpenSubtitles	v1	OpenSubtitles	v2018	22333	21152745	9714	43.49	.04
+OpenSubtitles	v1	OpenSubtitles	v2016	22333	15393688	7874	35.25	.05
 OpenSubtitles	v1	QED	v2.0a	22333	522751	709	3.17	.13
+OpenSubtitles	v1	MultiCCAligned	v1	22333	68711166	705	3.15	0
+OpenSubtitles	v1	Tatoeba	v2023-04-12	22333	540539	474	2.12	.08
 OpenSubtitles	v1	Tatoeba	v2022-03-03	22333	529043	472	2.11	.08
 OpenSubtitles	v1	Tatoeba	v2021-07-22	22333	523544	471	2.10	.08
 OpenSubtitles	v1	Tatoeba	v2021-03-10	22333	519222	471	2.10	.09
@@ -10,7 +13,11 @@ OpenSubtitles	v1	Tatoeba	v20190709	22333	487111	468	2.09	.09
 OpenSubtitles	v1	CCAligned	v1	22333	13738750	320	1.43	0
 OpenSubtitles	v1	Tatoeba	v2	22333	97202	214	.95	.22
 OpenSubtitles	v1	TED2020	v1	22333	380258	156	.69	.04
+OpenSubtitles	v1	ParaCrawl	v1	22333	12015289	154	.68	0
+OpenSubtitles	v1	MultiParaCrawl	v7.1	22333	5364010	131	.58	0
+OpenSubtitles	v1	ParaCrawl	v8	22333	5364010	131	.58	0
 OpenSubtitles	v1	ParaCrawl	v9	22333	5364010	131	.58	0
+OpenSubtitles	v1	ParaCrawl	v7.1	22333	5364009	131	.58	0
 OpenSubtitles	v1	NeuLab-TedTalks	v1	22333	216889	99	.44	.04
 OpenSubtitles	v1	TED2013	v1.1	22333	132726	78	.34	.05
 OpenSubtitles	v1	UNPC	v1.0	22333	19744553	57	.25	0
@@ -24,8 +31,10 @@ OpenSubtitles	v1	News-Commentary	v11	22333	189831	26	.11	.01
 OpenSubtitles	v1	News-Commentary	v9.0	22333	163747	24	.10	.01
 OpenSubtitles	v1	News-Commentary	v9.1	22333	163747	24	.10	.01
 OpenSubtitles	v1	CCMatrix	v1	22333	138875110	22	.09	0
+OpenSubtitles	v1	NLLB	v1	22333	138865867	22	.09	0
 OpenSubtitles	v1	Wikipedia	v1.0	22333	541331	22	.09	0
 OpenSubtitles	v1	WikiMatrix	v1	22333	1661904	12	.05	0
+OpenSubtitles	v1	wikimedia	v20230407	22333	506264	12	.05	0
 OpenSubtitles	v1	Books	v1	22333	17255	9	.04	.05
 OpenSubtitles	v1	KDE4	v2	22333	159404	8	.03	0
 OpenSubtitles	v1	wikimedia	v20210402	22333	316871	6	.02	0

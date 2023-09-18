@@ -1,11 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1084-Agencia_Tributaria	v1	MultiParaCrawl	v8	17216	264638796	7164	41.61	0
+ELRC-1084-Agencia_Tributaria	v1	ParaCrawl	v8	17216	264638796	7164	41.61	0
+ELRC-1084-Agencia_Tributaria	v1	MultiParaCrawl	v7.1	17216	80995876	6722	39.04	0
+ELRC-1084-Agencia_Tributaria	v1	ParaCrawl	v7.1	17216	80995876	6722	39.04	0
 ELRC-1084-Agencia_Tributaria	v1	MultiParaCrawl	v9	17216	227109648	6185	35.92	0
 ELRC-1084-Agencia_Tributaria	v1	MultiParaCrawl	v9b	17216	227109648	6185	35.92	0
 ELRC-1084-Agencia_Tributaria	v1	ParaCrawl	v9	17216	227109648	6185	35.92	0
 ELRC-1084-Agencia_Tributaria	v1	CCMatrix	v1	17216	863648009	3111	18.07	0
+ELRC-1084-Agencia_Tributaria	v1	NLLB	v1	17216	861713400	3094	17.97	0
 ELRC-1084-Agencia_Tributaria	v1	MultiCCAligned	v1.1	17216	88133854	672	3.90	0
+ELRC-1084-Agencia_Tributaria	v1	MultiCCAligned	v1	17216	88133854	672	3.90	0
 ELRC-1084-Agencia_Tributaria	v1	CCAligned	v1	17216	88133814	672	3.90	0
+ELRC-1084-Agencia_Tributaria	v1	ParaCrawl	v1	17216	16494775	374	2.17	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-4140-NTEU_TierA	v1	17216	11847174	365	2.12	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-4153-NTEU_TierA	v1	17216	9409919	360	2.09	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-4158-NTEU_TierA	v1	17216	6001855	356	2.06	0
@@ -13,6 +19,9 @@ ELRC-1084-Agencia_Tributaria	v1	ELRC-4233-NTEU_TierA	v1	17216	5911242	356	2.06	0
 ELRC-1084-Agencia_Tributaria	v1	DOGC	v2	17216	4535440	336	1.95	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-4255-NTEU_TierA	v1	17216	5518741	335	1.94	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-4168-NTEU_TierA	v1	17216	8944148	312	1.81	0
+ELRC-1084-Agencia_Tributaria	v1	MultiParaCrawl	v5	17216	38651240	310	1.80	0
+ELRC-1084-Agencia_Tributaria	v1	ParaCrawl	v5	17216	38651240	310	1.80	0
+ELRC-1084-Agencia_Tributaria	v1	ParaCrawl	v4	17216	23657111	296	1.71	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-4207-NTEU_TierA	v1	17216	5212322	288	1.67	0
 ELRC-1084-Agencia_Tributaria	v1	DOGC	v3	17216	8128208	286	1.66	0
 ELRC-1084-Agencia_Tributaria	v1	TildeMODEL	v2018	17216	3824504	279	1.62	0
@@ -20,10 +29,15 @@ ELRC-1084-Agencia_Tributaria	v1	JRC-Acquis	v3.0	17216	2003965	277	1.60	.01
 ELRC-1084-Agencia_Tributaria	v1	UNPC	v1.0	17216	21411299	259	1.50	0
 ELRC-1084-Agencia_Tributaria	v1	Elhuyar	v1	17216	584951	219	1.27	.03
 ELRC-1084-Agencia_Tributaria	v1	OpenSubtitles	v2018	17216	74593385	213	1.23	0
+ELRC-1084-Agencia_Tributaria	v1	OpenSubtitles	v2016	17216	63725756	203	1.17	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-4236-NTEU_TierA	v1	17216	1385002	195	1.13	.01
+ELRC-1084-Agencia_Tributaria	v1	OpenSubtitles	v2012	17216	33714648	186	1.08	0
+ELRC-1084-Agencia_Tributaria	v1	wikimedia	v20230407	17216	3896792	171	.99	0
 ELRC-1084-Agencia_Tributaria	v1	EuroPat	v3	17216	48334640	169	.98	0
+ELRC-1084-Agencia_Tributaria	v1	OpenSubtitles	v2013	17216	22788458	160	.92	0
 ELRC-1084-Agencia_Tributaria	v1	wikimedia	v20210402	17216	2577143	158	.91	0
 ELRC-1084-Agencia_Tributaria	v1	EuroPat	v2	17216	42036171	151	.87	0
+ELRC-1084-Agencia_Tributaria	v1	DGT	v4	17216	1867954	139	.80	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-government_websites	v1	17216	38546	135	.78	.35
 ELRC-1084-Agencia_Tributaria	v1	ELRC-863-government_websites_	v1	17216	20531	115	.66	.56
 ELRC-1084-Agencia_Tributaria	v1	EiTB-ParCC	v1	17216	632746	103	.59	.01
@@ -33,8 +47,10 @@ ELRC-1084-Agencia_Tributaria	v1	GlobalVoices	v2018q4	17216	940571	101	.58	.01
 ELRC-1084-Agencia_Tributaria	v1	ELITR-ECA	v1	17216	13953	100	.58	.71
 ELRC-1084-Agencia_Tributaria	v1	XLEnt	v1.1	17216	7597956	99	.57	0
 ELRC-1084-Agencia_Tributaria	v1	XLEnt	v1	17216	7597956	99	.57	0
+ELRC-1084-Agencia_Tributaria	v1	XLEnt	v1.2	17216	7597956	99	.57	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-2410-Portal_oficial_turis	v1	17216	207285	97	.56	.04
 ELRC-1084-Agencia_Tributaria	v1	EUbookshop	v2	17216	6731577	90	.52	0
+ELRC-1084-Agencia_Tributaria	v1	LinguaTools-WikiTitles	v2014	17216	2406984	89	.51	0
 ELRC-1084-Agencia_Tributaria	v1	QED	v2.0a	17216	1692785	89	.51	0
 ELRC-1084-Agencia_Tributaria	v1	GlobalVoices	v2017q3	17216	872501	85	.49	0
 ELRC-1084-Agencia_Tributaria	v1	EhuHac	v1	17216	604243	80	.46	.01
@@ -44,6 +60,7 @@ ELRC-1084-Agencia_Tributaria	v1	OpenSubtitles	v1	17216	1397371	76	.44	0
 ELRC-1084-Agencia_Tributaria	v1	WikiTitles	v3	17216	813027	65	.37	0
 ELRC-1084-Agencia_Tributaria	v1	WikiMatrix	v1	17216	15182653	62	.36	0
 ELRC-1084-Agencia_Tributaria	v1	Europarl	v8	17216	2106876	62	.36	0
+ELRC-1084-Agencia_Tributaria	v1	Europarl	v7	17216	2106740	62	.36	0
 ELRC-1084-Agencia_Tributaria	v1	KDE4	v2	17216	176595	58	.33	.03
 ELRC-1084-Agencia_Tributaria	v1	ELRC-5179-acts_Ukrainian	v1	17216	127790	51	.29	.03
 ELRC-1084-Agencia_Tributaria	v1	Mozilla-I10n	v1	17216	54404	50	.29	.09
@@ -53,6 +70,7 @@ ELRC-1084-Agencia_Tributaria	v1	ELRC-1256-government_websites_	v1	17216	15721	46
 ELRC-1084-Agencia_Tributaria	v1	EUconst	v1	17216	6692	46	.26	.68
 ELRC-1084-Agencia_Tributaria	v1	ELRC-EUIPO_law	v1	17216	110613	43	.24	.03
 ELRC-1084-Agencia_Tributaria	v1	ELRC-1076-EUIPO_law	v1	17216	110608	43	.24	.03
+ELRC-1084-Agencia_Tributaria	v1	Europarl	v3	17216	1429951	35	.20	0
 ELRC-1084-Agencia_Tributaria	v1	News-Commentary	v16	17216	486502	34	.19	0
 ELRC-1084-Agencia_Tributaria	v1	News-Commentary	v14	17216	412124	33	.19	0
 ELRC-1084-Agencia_Tributaria	v1	News-Commentary	v11	17216	287713	33	.19	.01
@@ -67,6 +85,7 @@ ELRC-1084-Agencia_Tributaria	v1	Books	v1	17216	105396	27	.15	.02
 ELRC-1084-Agencia_Tributaria	v1	ECB	v1	17216	363994	24	.13	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-5067-SciPar	v1	17216	358282	24	.13	0
 ELRC-1084-Agencia_Tributaria	v1	wikimedia	v20190628	17216	20799	21	.12	.10
+ELRC-1084-Agencia_Tributaria	v1	NeuLab-TedTalks	v1	17216	237861	17	.09	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-1255-government_websites_	v1	17216	3319	17	.09	.51
 ELRC-1084-Agencia_Tributaria	v1	ELRC-416-Swedish_Social_Secur	v1	17216	482	16	.09	3.31
 ELRC-1084-Agencia_Tributaria	v1	ELRC_416	v1	17216	482	16	.09	3.31
@@ -78,6 +97,7 @@ ELRC-1084-Agencia_Tributaria	v1	ELRC-EUIPO_2017	v1	17216	16384	12	.06	.07
 ELRC-1084-Agencia_Tributaria	v1	ELRC-1082-CNIO	v1	17216	8304	11	.06	.13
 ELRC-1084-Agencia_Tributaria	v1	ELRC-2881-EU_publications_medi	v1	17216	13211	9	.05	.06
 ELRC-1084-Agencia_Tributaria	v1	ELRC-EU_publications	v1	17216	13211	9	.05	.06
+ELRC-1084-Agencia_Tributaria	v1	Tatoeba	v2023-04-12	17216	395021	8	.04	0
 ELRC-1084-Agencia_Tributaria	v1	Tatoeba	v2022-03-03	17216	376749	8	.04	0
 ELRC-1084-Agencia_Tributaria	v1	Tatoeba	v2021-03-10	17216	339154	8	.04	0
 ELRC-1084-Agencia_Tributaria	v1	Tatoeba	v2020-11-09	17216	330705	8	.04	0
@@ -115,6 +135,7 @@ ELRC-1084-Agencia_Tributaria	v1	ELRC-1096-EUIPO_list	v1	17216	32158	2	.01	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-3612-presscorner_covid	v1	17216	7282	3	.01	.04
 ELRC-1084-Agencia_Tributaria	v1	ELRC-presscorner_covid	v1	17216	7282	3	.01	.04
 ELRC-1084-Agencia_Tributaria	v1	ELRC_3382	v1	17216	3690	2	.01	.05
+ELRC-1084-Agencia_Tributaria	v1	ECDC	v2016-03-16	17216	2469	3	.01	.12
 ELRC-1084-Agencia_Tributaria	v1	ELRC-2544-TERMITUR	v1	17216	2174	3	.01	.13
 ELRC-1084-Agencia_Tributaria	v1	ELRC-Swedish_Labour	v1	17216	1501	2	.01	.13
 ELRC-1084-Agencia_Tributaria	v1	ELRC-1254-government_websites_	v1	17216	1230	3	.01	.24
@@ -170,6 +191,7 @@ ELRC-1084-Agencia_Tributaria	v1	ELRC-Patrimnio_Aores	v1	17216	66	0	0	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-2623-Patrimnio_Aores_2006	v1	17216	65	0	0	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-2625-Patrimnio_Aores_2006	v1	17216	63	0	0	0
 ELRC-1084-Agencia_Tributaria	v1	Ubuntu	v14.10	17216	46	1	0	2.17
+ELRC-1084-Agencia_Tributaria	v1	ELRC-5220-Information_crime_vi	v1	17216	38	1	0	2.63
 ELRC-1084-Agencia_Tributaria	v1	ELRC-2478-Glossrio_PT_EN	v1	17216	2	0	0	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-2479-Lei_orgnica_2	v1	17216	2	0	0	0
 ELRC-1084-Agencia_Tributaria	v1	ELRC-2480-Estatuto_dos_Deputad	v1	17216	2	0	0	0

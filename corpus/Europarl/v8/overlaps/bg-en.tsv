@@ -1,19 +1,29 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	Europarl	v7	394736	394341	394340	99.89	99.99
+Europarl	v8	ParaCrawl	v8	394736	11927055	7772	1.96	.06
 Europarl	v8	ParaCrawl	v9	394736	13264298	7621	1.93	.05
 Europarl	v8	CCMatrix	v1	394736	44333768	5616	1.42	.01
+Europarl	v8	NLLB	v1	394736	44332999	5616	1.42	.01
 Europarl	v8	OpenSubtitles	v2018	394736	32563039	909	.23	0
+Europarl	v8	OpenSubtitles	v2016	394736	26838705	851	.21	0
+Europarl	v8	MultiParaCrawl	v7.1	394736	6470710	215	.05	0
+Europarl	v8	ParaCrawl	v7.1	394736	6470709	215	.05	0
 Europarl	v8	QED	v2.0a	394736	492589	207	.05	.04
 Europarl	v8	OpenSubtitles	v1	394736	204640	130	.03	.06
+Europarl	v8	MultiCCAligned	v1	394736	10351609	108	.02	0
 Europarl	v8	CCAligned	v1	394736	10351428	108	.02	0
 Europarl	v8	TED2020	v1	394736	243925	104	.02	.04
 Europarl	v8	NeuLab-TedTalks	v1	394736	178322	87	.02	.04
 Europarl	v8	DGT	v2019	394736	2739551	77	.01	0
+Europarl	v8	ParaCrawl	v5	394736	2569578	52	.01	0
 Europarl	v8	ELITR-ECA	v1	394736	228660	60	.01	.02
 Europarl	v8	ELRC-408-transport	v1	394736	3270	42	.01	1.28
 Europarl	v8	LinguaTools-WikiTitles	v2014	394736	2444290	18	0	0
 Europarl	v8	XLEnt	v1.1	394736	2394543	13	0	0
 Europarl	v8	XLEnt	v1.2	394736	2394543	13	0	0
 Europarl	v8	XLEnt	v1	394736	2394543	13	0	0
+Europarl	v8	DGT	v4	394736	1077223	29	0	0
+Europarl	v8	ParaCrawl	v4	394736	1033746	11	0	0
 Europarl	v8	ELRC-2712-EMEA	v1	394736	766010	10	0	0
 Europarl	v8	ELRC_2682	v1	394736	766009	10	0	0
 Europarl	v8	ELRC-EMEA	v1	394736	766008	10	0	0
@@ -26,6 +36,7 @@ Europarl	v8	Tanzil	v1	394736	131265	2	0	0
 Europarl	v8	KDE4	v2	394736	102046	14	0	.01
 Europarl	v8	Wikipedia	v1.0	394736	77040	21	0	.02
 Europarl	v8	bible-uedin	v1	394736	61559	0	0	0
+Europarl	v8	wikimedia	v20230407	394736	60073	2	0	0
 Europarl	v8	ELRC-768-corpora_State_Admini	v1	394736	50413	9	0	.01
 Europarl	v8	wikimedia	v20210402	394736	32277	2	0	0
 Europarl	v8	JRC-Acquis	v3.0	394736	28494	38	0	.13
@@ -33,6 +44,7 @@ Europarl	v8	ELRC-3563-EUR_LEX_covid	v1	394736	23000	0	0	0
 Europarl	v8	ELRC-EUR_LEX	v1	394736	23000	0	0	0
 Europarl	v8	ELRC-1176-EUIPO_2017	v1	394736	19606	1	0	0
 Europarl	v8	ELRC-EUIPO_2017	v1	394736	19606	1	0	0
+Europarl	v8	Tatoeba	v2023-04-12	394736	17835	14	0	.07
 Europarl	v8	Tatoeba	v2022-03-03	394736	17803	14	0	.07
 Europarl	v8	Tatoeba	v2021-07-22	394736	17800	14	0	.07
 Europarl	v8	Tatoeba	v2020-11-09	394736	17794	14	0	.07

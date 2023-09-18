@@ -1,15 +1,21 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+GlobalVoices	v2018q4	NLLB	v1	2682	19418676	79	2.94	0
+GlobalVoices	v2018q4	MultiCCAligned	v1	2682	484499	1	.03	0
 GlobalVoices	v2018q4	CCAligned	v1	2682	484491	1	.03	0
 GlobalVoices	v2018q4	XLEnt	v1.1	2682	314840	1	.03	0
 GlobalVoices	v2018q4	XLEnt	v1.2	2682	314840	1	.03	0
 GlobalVoices	v2018q4	XLEnt	v1	2682	314840	1	.03	0
+GlobalVoices	v2018q4	MultiParaCrawl	v7.1	2682	90427	1	.03	0
+GlobalVoices	v2018q4	ParaCrawl	v8	2682	90427	1	.03	0
 GlobalVoices	v2018q4	ParaCrawl	v9	2682	90427	1	.03	0
 GlobalVoices	v2018q4	GNOME	v1	2682	77626	1	.03	0
 GlobalVoices	v2018q4	Ubuntu	v14.10	2682	29280	1	.03	0
 GlobalVoices	v2018q4	WikiMatrix	v1	2682	15016	1	.03	0
+GlobalVoices	v2018q4	wikimedia	v20230407	2682	6429	1	.03	.01
 GlobalVoices	v2018q4	TED2020	v1	2682	4104	1	.03	.02
 GlobalVoices	v2018q4	wikimedia	v20210402	2682	3121	1	.03	.03
 GlobalVoices	v2018q4	CCMatrix	v1	2682	695105	0	0	0
+GlobalVoices	v2018q4	ParaCrawl	v7.1	2682	90426	0	0	0
 GlobalVoices	v2018q4	KDE4	v2	2682	81763	0	0	0
 GlobalVoices	v2018q4	bible-uedin	v1	2682	60651	0	0	0
 GlobalVoices	v2018q4	tico-19	v2020-10-28	2682	3070	0	0	0

@@ -1,11 +1,15 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-www.norden.org	v1	ELRC-729-www.norden.org	v1	28541	28541	28541	100.00	100.00
 ELRC-www.norden.org	v1	CCMatrix	v1	28541	47571364	1702	5.96	0
+ELRC-www.norden.org	v1	NLLB	v1	28541	47570737	1702	5.96	0
+ELRC-www.norden.org	v1	ParaCrawl	v8	28541	59090055	1640	5.74	0
+ELRC-www.norden.org	v1	MultiCCAligned	v1	28541	9133068	94	.32	0
 ELRC-www.norden.org	v1	CCAligned	v1	28541	9132909	94	.32	0
 ELRC-www.norden.org	v1	XLEnt	v1.1	28541	2048811	53	.18	0
 ELRC-www.norden.org	v1	XLEnt	v1.2	28541	2048811	53	.18	0
 ELRC-www.norden.org	v1	XLEnt	v1	28541	2048811	53	.18	0
 ELRC-www.norden.org	v1	OpenSubtitles	v2018	28541	7354902	19	.06	0
+ELRC-www.norden.org	v1	OpenSubtitles	v2016	28541	4876710	16	.05	0
 ELRC-www.norden.org	v1	Ubuntu	v14.10	28541	8928	16	.05	.17
 ELRC-www.norden.org	v1	ELRC-2719-EMEA	v1	28541	574124	14	.04	0
 ELRC-www.norden.org	v1	ELRC-EMEA	v1	28541	574124	14	.04	0
@@ -24,6 +28,7 @@ ELRC-www.norden.org	v1	ELRC-4992-Customer_Support_MT	v1	28541	1368	2	0	.14
 ELRC-www.norden.org	v1	ELRC-3071-wikipedia_health	v1	28541	686	1	0	.14
 ELRC-www.norden.org	v1	ELRC-wikipedia_health	v1	28541	686	1	0	.14
 ELRC-www.norden.org	v1	ELRC_2922	v1	28541	685	0	0	0
+ELRC-www.norden.org	v1	wikimedia	v20230407	28541	252	2	0	.79
 ELRC-www.norden.org	v1	wikimedia	v20210402	28541	213	2	0	.93
 ELRC-www.norden.org	v1	wikimedia	v20190628	28541	86	1	0	1.16
 ELRC-www.norden.org	v1	ELRC-2638-monumentos_2007	v1	28541	4	1	0	25.00

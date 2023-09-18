@@ -1,10 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	85992	8678395	6771	7.87	.07
+WikiMatrix	v1	NLLB	v1	85992	8678252	6771	7.87	.07
+WikiMatrix	v1	ParaCrawl	v8	85992	5724257	5117	5.95	.08
 WikiMatrix	v1	ParaCrawl	v9	85992	2967520	3849	4.47	.12
+WikiMatrix	v1	MultiParaCrawl	v7.1	85992	2392423	673	.78	.02
+WikiMatrix	v1	ParaCrawl	v7.1	85992	2392422	669	.77	.02
+WikiMatrix	v1	wikimedia	v20230407	85992	4394	150	.17	3.41
 WikiMatrix	v1	wikimedia	v20210402	85992	2274	150	.17	6.59
+WikiMatrix	v1	MultiCCAligned	v1	85992	1186757	89	.10	0
 WikiMatrix	v1	CCAligned	v1	85992	1186739	89	.10	0
 WikiMatrix	v1	ParIce	v1	85992	1480222	2	0	0
 WikiMatrix	v1	OpenSubtitles	v2018	85992	1361307	5	0	0
+WikiMatrix	v1	OpenSubtitles	v2016	85992	1195814	1	0	0
 WikiMatrix	v1	XLEnt	v1.1	85992	930819	1	0	0
 WikiMatrix	v1	XLEnt	v1.2	85992	930819	1	0	0
 WikiMatrix	v1	XLEnt	v1	85992	930819	1	0	0
@@ -23,6 +30,7 @@ WikiMatrix	v1	ELRC-4324-Government_Offices_I	v1	85992	18176	1	0	0
 WikiMatrix	v1	ELRC-4295-www.malfong.is	v1	85992	12225	1	0	0
 WikiMatrix	v1	ELRC-4334-Rkiskaup_2020	v1	85992	10220	1	0	0
 WikiMatrix	v1	ELRC-4338-University_Iceland	v1	85992	9808	1	0	.01
+WikiMatrix	v1	Tatoeba	v2023-04-12	85992	9595	1	0	.01
 WikiMatrix	v1	Tatoeba	v2022-03-03	85992	9518	1	0	.01
 WikiMatrix	v1	Tatoeba	v2021-03-10	85992	9440	1	0	.01
 WikiMatrix	v1	Tatoeba	v2021-07-22	85992	9440	1	0	.01

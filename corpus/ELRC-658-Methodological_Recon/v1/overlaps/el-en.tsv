@@ -1,6 +1,9 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-658-Methodological_Recon	v1	ELRA-W0208	v1	45	44	43	95.55	97.72
+ELRC-658-Methodological_Recon	v1	ParaCrawl	v8	45	34585108	1	2.22	0
 ELRC-658-Methodological_Recon	v1	ParaCrawl	v9	45	21402043	1	2.22	0
+ELRC-658-Methodological_Recon	v1	MultiParaCrawl	v7.1	45	9402609	1	2.22	0
+ELRC-658-Methodological_Recon	v1	MultiCCAligned	v1	45	8792897	1	2.22	0
 ELRC-658-Methodological_Recon	v1	CCAligned	v1	45	8792737	1	2.22	0
 ELRC-658-Methodological_Recon	v1	XLEnt	v1.1	45	2799832	1	2.22	0
 ELRC-658-Methodological_Recon	v1	XLEnt	v1.2	45	2799832	1	2.22	0
@@ -10,11 +13,13 @@ ELRC-658-Methodological_Recon	v1	ELRC-EMEA	v1	45	774830	1	2.22	0
 ELRC-658-Methodological_Recon	v1	ELRC-2711-EMEA	v1	45	774829	1	2.22	0
 ELRC-658-Methodological_Recon	v1	ELRC-5067-SciPar	v1	45	742987	1	2.22	0
 ELRC-658-Methodological_Recon	v1	WikiMatrix	v1	45	620802	1	2.22	0
+ELRC-658-Methodological_Recon	v1	wikimedia	v20230407	45	549337	1	2.22	0
 ELRC-658-Methodological_Recon	v1	ELITR-ECA	v1	45	329071	1	2.22	0
 ELRC-658-Methodological_Recon	v1	TED2020	v1	45	262648	1	2.22	0
 ELRC-658-Methodological_Recon	v1	wikimedia	v20210402	45	229838	1	2.22	0
 ELRC-658-Methodological_Recon	v1	NeuLab-TedTalks	v1	45	149750	1	2.22	0
 ELRC-658-Methodological_Recon	v1	GlobalVoices	v2018q4	45	112880	1	2.22	0
+ELRC-658-Methodological_Recon	v1	Tatoeba	v2023-04-12	45	25970	1	2.22	0
 ELRC-658-Methodological_Recon	v1	Tatoeba	v2022-03-03	45	24112	1	2.22	0
 ELRC-658-Methodological_Recon	v1	Tatoeba	v2021-07-22	45	23813	1	2.22	0
 ELRC-658-Methodological_Recon	v1	Tatoeba	v2021-03-10	45	23365	1	2.22	0
@@ -71,11 +76,19 @@ ELRC-658-Methodological_Recon	v1	ELRC-416-Swedish_Social_Secur	v1	45	30	1	2.22	3
 ELRC-658-Methodological_Recon	v1	ELRC-1021-Commitment_Property_	v1	45	23	1	2.22	4.34
 ELRC-658-Methodological_Recon	v1	ELRC-403-Rights_Arrested	v1	45	22	1	2.22	4.54
 ELRC-658-Methodological_Recon	v1	CCMatrix	v1	45	48860900	0	0	0
+ELRC-658-Methodological_Recon	v1	NLLB	v1	45	48859850	0	0	0
 ELRC-658-Methodological_Recon	v1	OpenSubtitles	v2018	45	33318146	0	0	0
+ELRC-658-Methodological_Recon	v1	OpenSubtitles	v2016	45	26021007	0	0	0
+ELRC-658-Methodological_Recon	v1	ParaCrawl	v7.1	45	9402608	0	0	0
+ELRC-658-Methodological_Recon	v1	ParaCrawl	v5	45	3803749	0	0	0
 ELRC-658-Methodological_Recon	v1	DGT	v2019	45	3679234	0	0	0
 ELRC-658-Methodological_Recon	v1	EUbookshop	v2	45	3606516	0	0	0
+ELRC-658-Methodological_Recon	v1	DGT	v4	45	2027952	0	0	0
+ELRC-658-Methodological_Recon	v1	ParaCrawl	v4	45	1976986	0	0	0
 ELRC-658-Methodological_Recon	v1	Europarl	v8	45	1260921	0	0	0
+ELRC-658-Methodological_Recon	v1	Europarl	v7	45	1260526	0	0	0
 ELRC-658-Methodological_Recon	v1	ELRC_2682	v1	45	774829	0	0	0
+ELRC-658-Methodological_Recon	v1	Europarl	v3	45	646689	0	0	0
 ELRC-658-Methodological_Recon	v1	QED	v2.0a	45	496445	0	0	0
 ELRC-658-Methodological_Recon	v1	EMEA	v3	45	368049	0	0	0
 ELRC-658-Methodological_Recon	v1	SETIMES	v2	45	224806	0	0	0

@@ -1,19 +1,30 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 EUbookshop	v2	ELRC-4268-NTEU_TierA	v1	1753373	12468100	1751034	99.86	14.04
 EUbookshop	v2	Europarl	v8	1753373	1846661	88411	5.04	4.78
+EUbookshop	v2	Europarl	v7	1753373	1846286	88411	5.04	4.78
+EUbookshop	v2	Europarl	v3	1753373	1136242	88235	5.03	7.76
 EUbookshop	v2	TildeMODEL	v2018	1753373	3185574	20768	1.18	.65
 EUbookshop	v2	CCMatrix	v1	1753373	76586290	10348	.59	.01
+EUbookshop	v2	NLLB	v1	1753373	76584927	10348	.59	.01
 EUbookshop	v2	ParaCrawl	v9	1753373	49109340	10054	.57	.02
+EUbookshop	v2	ParaCrawl	v8	1753373	44066654	9448	.53	.02
 EUbookshop	v2	DGT	v2019	1753373	3635425	9226	.52	.25
+EUbookshop	v2	DGT	v4	1753373	1968717	9057	.51	.46
 EUbookshop	v2	JRC-Acquis	v3.0	1753373	493351	4685	.26	.94
 EUbookshop	v2	ELITR-ECA	v1	1753373	336379	3085	.17	.91
+EUbookshop	v2	MultiParaCrawl	v7.1	1753373	11645803	2144	.12	.01
+EUbookshop	v2	ParaCrawl	v7.1	1753373	11645802	2140	.12	.01
 EUbookshop	v2	EUconst	v1	1753373	6598	1845	.10	27.96
+EUbookshop	v2	MultiCCAligned	v1	1753373	12482516	1725	.09	.01
 EUbookshop	v2	CCAligned	v1	1753373	12482304	1725	.09	.01
 EUbookshop	v2	LinguaTools-WikiTitles	v2014	1753373	7759117	626	.03	0
 EUbookshop	v2	XLEnt	v1.1	1753373	3403994	382	.02	.01
 EUbookshop	v2	XLEnt	v1	1753373	3403994	382	.02	.01
 EUbookshop	v2	XLEnt	v1.2	1753373	3403994	382	.02	.01
 EUbookshop	v2	OpenSubtitles	v2018	1753373	14904885	310	.01	0
+EUbookshop	v2	OpenSubtitles	v2016	1753373	10237744	277	.01	0
+EUbookshop	v2	ParaCrawl	v5	1753373	6027448	227	.01	0
+EUbookshop	v2	ParaCrawl	v4	1753373	3456794	204	.01	0
 EUbookshop	v2	ELRC-2725-EMEA	v1	1753373	752045	241	.01	.03
 EUbookshop	v2	ELRC-EMEA	v1	1753373	752045	241	.01	.03
 EUbookshop	v2	KDE4	v2	1753373	192221	230	.01	.11
@@ -26,6 +37,7 @@ EUbookshop	v2	Tanzil	v1	1753373	124111	0	0	0
 EUbookshop	v2	TED2020	v1	1753373	117646	30	0	.02
 EUbookshop	v2	NeuLab-TedTalks	v1	1753373	67599	23	0	.03
 EUbookshop	v2	bible-uedin	v1	1753373	61422	0	0	0
+EUbookshop	v2	wikimedia	v20230407	1753373	59125	57	0	.09
 EUbookshop	v2	ELRC-1770-valtioneuvosto.fi	v1	1753373	49084	21	0	.04
 EUbookshop	v2	ELRC-valtioneuvosto.fi	v1	1753373	49084	21	0	.04
 EUbookshop	v2	ELRC-1133-www.vtv.fi	v1	1753373	46345	56	0	.12
@@ -38,6 +50,7 @@ EUbookshop	v2	OpenOffice	v2	1753373	32770	63	0	.19
 EUbookshop	v2	WikiSource	v1	1753373	32032	0	0	0
 EUbookshop	v2	wikimedia	v20210402	1753373	29811	41	0	.13
 EUbookshop	v2	ELRC-817-Swedish_Audit_Riksre	v1	1753373	28944	80	0	.27
+EUbookshop	v2	Tatoeba	v2023-04-12	1753373	26957	25	0	.09
 EUbookshop	v2	Tatoeba	v2022-03-03	1753373	26220	25	0	.09
 EUbookshop	v2	Tatoeba	v2021-07-22	1753373	25865	25	0	.09
 EUbookshop	v2	Tatoeba	v2021-03-10	1753373	25646	25	0	.09

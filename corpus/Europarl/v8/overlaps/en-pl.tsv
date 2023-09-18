@@ -1,8 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+Europarl	v8	Europarl	v7	613356	612713	612710	99.89	99.99
 Europarl	v8	ParaCrawl	v9	613356	40082038	13155	2.14	.03
+Europarl	v8	ParaCrawl	v8	613356	45358407	10319	1.68	.02
 Europarl	v8	CCMatrix	v1	613356	73625347	4927	.80	0
+Europarl	v8	NLLB	v1	613356	73623674	4927	.80	0
 Europarl	v8	OpenSubtitles	v2018	613356	34512858	1039	.16	0
+Europarl	v8	MultiCCAligned	v1	613356	25790086	892	.14	0
+Europarl	v8	OpenSubtitles	v2016	613356	22955941	908	.14	0
 Europarl	v8	CCAligned	v1	613356	12846330	879	.14	0
+Europarl	v8	MultiParaCrawl	v7.1	613356	13744836	265	.04	0
+Europarl	v8	ParaCrawl	v7.1	613356	13744835	265	.04	0
+Europarl	v8	ParaCrawl	v1	613356	1270691	248	.04	.01
 Europarl	v8	QED	v2.0a	613356	482625	224	.03	.04
 Europarl	v8	TED2020	v1	613356	293265	125	.02	.04
 Europarl	v8	TildeMODEL	v2018	613356	2124677	76	.01	0
@@ -10,10 +18,13 @@ Europarl	v8	JRC-Acquis	v3.0	613356	1048242	84	.01	0
 Europarl	v8	NeuLab-TedTalks	v1	613356	185955	88	.01	.04
 Europarl	v8	TED2013	v1.1	613356	148046	68	.01	.04
 Europarl	v8	LinguaTools-WikiTitles	v2014	613356	8003882	23	0	0
+Europarl	v8	ParaCrawl	v5	613356	6336749	59	0	0
 Europarl	v8	XLEnt	v1.1	613356	5202602	21	0	0
 Europarl	v8	XLEnt	v1.2	613356	5202602	21	0	0
 Europarl	v8	XLEnt	v1	613356	5202602	21	0	0
 Europarl	v8	DGT	v2019	613356	3659053	39	0	0
+Europarl	v8	ParaCrawl	v4	613356	3483752	30	0	0
+Europarl	v8	DGT	v4	613356	1966769	35	0	0
 Europarl	v8	ELRC-5067-SciPar	v1	613356	862076	7	0	0
 Europarl	v8	ELRC-2726-EMEA	v1	613356	756950	8	0	0
 Europarl	v8	ELRC-EMEA	v1	613356	756950	8	0	0
@@ -31,8 +42,10 @@ Europarl	v8	EuroPat	v2	613356	88959	0	0	0
 Europarl	v8	ELRC-1120-CORDIS_News	v1	613356	87745	7	0	0
 Europarl	v8	ELRC-CORDIS_News	v1	613356	87745	7	0	0
 Europarl	v8	ECB	v1	613356	73127	3	0	0
+Europarl	v8	wikimedia	v20230407	613356	72787	4	0	0
 Europarl	v8	bible-uedin	v1	613356	60374	0	0	0
 Europarl	v8	ELRA-W0241	v1	613356	57206	23	0	.04
+Europarl	v8	Tatoeba	v2023-04-12	613356	55895	59	0	.10
 Europarl	v8	Tatoeba	v2022-03-03	613356	54736	59	0	.10
 Europarl	v8	Tatoeba	v2021-07-22	613356	54279	59	0	.10
 Europarl	v8	Tatoeba	v2021-03-10	613356	54235	59	0	.10
