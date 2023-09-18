@@ -1,11 +1,20 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Wikipedia	v1.0	WikiMatrix	v1	2413702	1573421	175111	7.25	11.12
 Wikipedia	v1.0	ParaCrawl	v9	2413702	278310902	119928	4.96	.04
+Wikipedia	v1.0	ParaCrawl	v8	2413702	261106742	96413	3.99	.03
 Wikipedia	v1.0	CCMatrix	v1	2413702	245958729	79710	3.30	.03
+Wikipedia	v1.0	NLLB	v1	2413702	245954214	79711	3.30	.03
+Wikipedia	v1.0	MultiParaCrawl	v7.1	2413702	82638070	4385	.18	0
+Wikipedia	v1.0	ParaCrawl	v7.1	2413702	82638069	4356	.18	0
+Wikipedia	v1.0	ParaCrawl	v1	2413702	36203700	1224	.05	0
 Wikipedia	v1.0	OpenSubtitles	v2018	2413702	18698900	756	.03	0
+Wikipedia	v1.0	OpenSubtitles	v2016	2413702	11777113	644	.02	0
+Wikipedia	v1.0	ParaCrawl	v5	2413702	36657324	376	.01	0
 Wikipedia	v1.0	LinguaTools-WikiTitles	v2014	2413702	15812874	445	.01	0
 Wikipedia	v1.0	WikiTitles	v3	2413702	1386531	315	.01	.02
+Wikipedia	v1.0	MultiCCAligned	v1	2413702	91967663	74	0	0
 Wikipedia	v1.0	EuroPat	v3	2413702	19734743	0	0	0
+Wikipedia	v1.0	ParaCrawl	v4	2413702	16173851	131	0	0
 Wikipedia	v1.0	EuroPat	v2	2413702	15571045	0	0	0
 Wikipedia	v1.0	CCAligned	v1	2413702	15192790	43	0	0
 Wikipedia	v1.0	EuroPat	v1	2413702	12614161	0	0	0
@@ -15,7 +24,10 @@ Wikipedia	v1.0	XLEnt	v1.1	2413702	3802840	12	0	0
 Wikipedia	v1.0	XLEnt	v1.2	2413702	3802840	12	0	0
 Wikipedia	v1.0	XLEnt	v1	2413702	3802840	12	0	0
 Wikipedia	v1.0	DGT	v2019	2413702	3598219	16	0	0
+Wikipedia	v1.0	DGT	v4	2413702	1949796	12	0	0
 Wikipedia	v1.0	Europarl	v8	2413702	1916512	15	0	0
+Wikipedia	v1.0	Europarl	v7	2413702	1915803	15	0	0
+Wikipedia	v1.0	Europarl	v3	2413702	1285340	11	0	0
 Wikipedia	v1.0	ELRC-5067-SciPar	v1	2413702	890185	1	0	0
 Wikipedia	v1.0	ELRC-2714-EMEA	v1	2413702	752887	6	0	0
 Wikipedia	v1.0	ELRC-EMEA	v1	2413702	752887	6	0	0
@@ -24,6 +36,7 @@ Wikipedia	v1.0	Tanzil	v1	2413702	516835	1	0	0
 Wikipedia	v1.0	JRC-Acquis	v3.0	2413702	503393	98	0	.01
 Wikipedia	v1.0	QED	v2.0a	2413702	492321	120	0	.02
 Wikipedia	v1.0	EMEA	v3	2413702	357190	156	0	.04
+Wikipedia	v1.0	Tatoeba	v2023-04-12	2413702	322298	25	0	0
 Wikipedia	v1.0	Tatoeba	v2022-03-03	2413702	313068	25	0	0
 Wikipedia	v1.0	Tatoeba	v2021-07-22	2413702	307276	25	0	0
 Wikipedia	v1.0	Tatoeba	v2021-03-10	2413702	302363	25	0	0
@@ -43,6 +56,7 @@ Wikipedia	v1.0	KDE4	v2	2413702	187849	21	0	.01
 Wikipedia	v1.0	NeuLab-TedTalks	v1	2413702	182085	16	0	0
 Wikipedia	v1.0	ELRC-1121-CORDIS_Results_Brief	v1	2413702	182066	1	0	0
 Wikipedia	v1.0	ELRC-CORDIS_Results	v1	2413702	182066	1	0	0
+Wikipedia	v1.0	wikimedia	v20230407	2413702	161399	21	0	.01
 Wikipedia	v1.0	Tatoeba	v2	2413702	142996	18	0	.01
 Wikipedia	v1.0	TED2013	v1.1	2413702	142758	15	0	.01
 Wikipedia	v1.0	MultiUN	v1	2413702	127300	3	0	0

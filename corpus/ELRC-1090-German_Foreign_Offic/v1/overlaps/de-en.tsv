@@ -1,8 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-1090-German_Foreign_Offic	v1	ParaCrawl	v9	20549	278310902	8603	41.86	0
+ELRC-1090-German_Foreign_Offic	v1	ParaCrawl	v8	20549	261106742	7725	37.59	0
 ELRC-1090-German_Foreign_Offic	v1	CCMatrix	v1	20549	245958729	7685	37.39	0
+ELRC-1090-German_Foreign_Offic	v1	NLLB	v1	20549	245954214	7685	37.39	0
+ELRC-1090-German_Foreign_Offic	v1	MultiParaCrawl	v7.1	20549	82638070	4145	20.17	0
+ELRC-1090-German_Foreign_Offic	v1	ParaCrawl	v7.1	20549	82638069	4140	20.14	0
+ELRC-1090-German_Foreign_Offic	v1	ParaCrawl	v5	20549	36657324	1429	6.95	0
+ELRC-1090-German_Foreign_Offic	v1	MultiCCAligned	v1	20549	91967663	115	.55	0
 ELRC-1090-German_Foreign_Offic	v1	CCAligned	v1	20549	15192790	77	.37	0
+ELRC-1090-German_Foreign_Offic	v1	ParaCrawl	v1	20549	36203700	75	.36	0
 ELRC-1090-German_Foreign_Offic	v1	ELRC-642-Federal_Foreign_Berl	v1	20549	53842	74	.36	.13
+ELRC-1090-German_Foreign_Offic	v1	ParaCrawl	v4	20549	16173851	71	.34	0
 ELRC-1090-German_Foreign_Offic	v1	TildeMODEL	v2018	20549	4184303	51	.24	0
 ELRC-1090-German_Foreign_Offic	v1	LinguaTools-WikiTitles	v2014	20549	15812874	45	.21	0
 ELRC-1090-German_Foreign_Offic	v1	XLEnt	v1.1	20549	3802840	40	.19	0
@@ -11,11 +19,16 @@ ELRC-1090-German_Foreign_Offic	v1	XLEnt	v1.2	20549	3802840	40	.19	0
 ELRC-1090-German_Foreign_Offic	v1	WikiTitles	v3	20549	1386531	32	.15	0
 ELRC-1090-German_Foreign_Offic	v1	OpenSubtitles	v2018	20549	18698900	29	.14	0
 ELRC-1090-German_Foreign_Offic	v1	DGT	v2019	20549	3598219	27	.13	0
+ELRC-1090-German_Foreign_Offic	v1	DGT	v4	20549	1949796	27	.13	0
 ELRC-1090-German_Foreign_Offic	v1	KDE4	v2	20549	187849	25	.12	.01
+ELRC-1090-German_Foreign_Offic	v1	OpenSubtitles	v2016	20549	11777113	24	.11	0
 ELRC-1090-German_Foreign_Offic	v1	EUbookshop	v2	20549	8268818	24	.11	0
 ELRC-1090-German_Foreign_Offic	v1	Europarl	v8	20549	1916512	16	.07	0
+ELRC-1090-German_Foreign_Offic	v1	Europarl	v7	20549	1915803	16	.07	0
 ELRC-1090-German_Foreign_Offic	v1	ELRC-1089-German_Foreign_Offic	v1	20549	24725	15	.07	.06
+ELRC-1090-German_Foreign_Offic	v1	wikimedia	v20230407	20549	161399	11	.05	0
 ELRC-1090-German_Foreign_Offic	v1	wikimedia	v20210402	20549	103209	11	.05	.01
+ELRC-1090-German_Foreign_Offic	v1	Europarl	v3	20549	1285340	10	.04	0
 ELRC-1090-German_Foreign_Offic	v1	ELRC-2714-EMEA	v1	20549	752887	10	.04	0
 ELRC-1090-German_Foreign_Offic	v1	ELRC-EMEA	v1	20549	752887	10	.04	0
 ELRC-1090-German_Foreign_Offic	v1	ELRC_2682	v1	20549	620450	9	.04	0
@@ -33,6 +46,7 @@ ELRC-1090-German_Foreign_Offic	v1	ELRC-by_Presidency	v1	20549	9023	6	.02	.06
 ELRC-1090-German_Foreign_Offic	v1	GNOME	v1	20549	7515	6	.02	.07
 ELRC-1090-German_Foreign_Offic	v1	ELRC-776-by_Presidency_Counci	v1	20549	4545	5	.02	.11
 ELRC-1090-German_Foreign_Offic	v1	ELRC-1240-Austrian_Research_Te	v1	20549	2709	5	.02	.18
+ELRC-1090-German_Foreign_Offic	v1	Tatoeba	v2023-04-12	20549	322298	4	.01	0
 ELRC-1090-German_Foreign_Offic	v1	Tatoeba	v2022-03-03	20549	313068	4	.01	0
 ELRC-1090-German_Foreign_Offic	v1	Tatoeba	v2021-07-22	20549	307276	4	.01	0
 ELRC-1090-German_Foreign_Offic	v1	Tatoeba	v2021-03-10	20549	302363	4	.01	0

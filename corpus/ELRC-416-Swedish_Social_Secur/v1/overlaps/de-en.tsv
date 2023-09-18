@@ -1,10 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-416-Swedish_Social_Secur	v1	ELRC_416	v1	263	262	262	99.61	100.00
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v1	263	36203700	28	10.64	0
+ELRC-416-Swedish_Social_Secur	v1	MultiCCAligned	v1	263	91967663	19	7.22	0
 ELRC-416-Swedish_Social_Secur	v1	EMEA	v3	263	357190	19	7.22	0
 ELRC-416-Swedish_Social_Secur	v1	OpenOffice	v2	263	35117	17	6.46	.04
 ELRC-416-Swedish_Social_Secur	v1	ELRC-1077-EUIPO_law	v1	263	233271	16	6.08	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-EUIPO_law	v1	263	233271	16	6.08	0
 ELRC-416-Swedish_Social_Secur	v1	OpenSubtitles	v2018	263	18698900	14	5.32	0
+ELRC-416-Swedish_Social_Secur	v1	OpenSubtitles	v2016	263	11777113	14	5.32	0
 ELRC-416-Swedish_Social_Secur	v1	Wikipedia	v1.0	263	2413702	13	4.94	0
 ELRC-416-Swedish_Social_Secur	v1	KDE4	v2	263	187849	13	4.94	0
 ELRC-416-Swedish_Social_Secur	v1	JRC-Acquis	v3.0	263	503393	12	4.56	0
@@ -12,6 +15,7 @@ ELRC-416-Swedish_Social_Secur	v1	EUconst	v1	263	6308	11	4.18	.17
 ELRC-416-Swedish_Social_Secur	v1	LinguaTools-WikiTitles	v2014	263	15812874	10	3.80	0
 ELRC-416-Swedish_Social_Secur	v1	TildeMODEL	v2018	263	4184303	10	3.80	0
 ELRC-416-Swedish_Social_Secur	v1	DGT	v2019	263	3598219	9	3.42	0
+ELRC-416-Swedish_Social_Secur	v1	DGT	v4	263	1949796	9	3.42	0
 ELRC-416-Swedish_Social_Secur	v1	WikiTitles	v3	263	1386531	9	3.42	0
 ELRC-416-Swedish_Social_Secur	v1	CCAligned	v1	263	15192790	8	3.04	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-2714-EMEA	v1	263	752887	7	2.66	0
@@ -32,9 +36,13 @@ ELRC-416-Swedish_Social_Secur	v1	ELRC-2014-EUIPO_2017	v1	263	17145	4	1.52	.02
 ELRC-416-Swedish_Social_Secur	v1	ELRC-EUIPO_2017	v1	263	17145	4	1.52	.02
 ELRC-416-Swedish_Social_Secur	v1	Ubuntu	v14.10	263	13116	4	1.52	.03
 ELRC-416-Swedish_Social_Secur	v1	GNOME	v1	263	7515	4	1.52	.05
+ELRC-416-Swedish_Social_Secur	v1	MultiParaCrawl	v7.1	263	82638070	3	1.14	0
 ELRC-416-Swedish_Social_Secur	v1	GlobalVoices	v2018q4	263	70537	3	1.14	0
 ELRC-416-Swedish_Social_Secur	v1	ELRA-W0201	v1	263	35973	3	1.14	0
 ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v9	263	278310902	2	.76	0
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v8	263	261106742	2	.76	0
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v7.1	263	82638069	2	.76	0
+ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2023-04-12	263	322298	2	.76	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2022-03-03	263	313068	2	.76	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2021-07-22	263	307276	2	.76	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2021-03-10	263	302363	2	.76	0
@@ -48,6 +56,7 @@ ELRC-416-Swedish_Social_Secur	v1	RF	v1	263	177	2	.76	1.12
 ELRC-416-Swedish_Social_Secur	v1	EuroPat	v3	263	19734743	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	EuroPat	v2	263	15571045	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	Europarl	v8	263	1916512	1	.38	0
+ELRC-416-Swedish_Social_Secur	v1	Europarl	v7	263	1915803	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	WikiMatrix	v1	263	1573421	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-5067-SciPar	v1	263	890185	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2020-05-31	263	294740	1	.38	0
@@ -58,6 +67,7 @@ ELRC-416-Swedish_Social_Secur	v1	News-Commentary	v14	263	285704	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	NeuLab-TedTalks	v1	263	182085	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-1121-CORDIS_Results_Brief	v1	263	182066	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-CORDIS_Results	v1	263	182066	1	.38	0
+ELRC-416-Swedish_Social_Secur	v1	wikimedia	v20230407	263	161399	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	Tatoeba	v2	263	142996	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-1117-CORDIS_News	v1	263	111275	1	.38	0
 ELRC-416-Swedish_Social_Secur	v1	ELRC-CORDIS_News	v1	263	111275	1	.38	0
@@ -125,7 +135,11 @@ ELRC-416-Swedish_Social_Secur	v1	ELRC-403-Rights_Arrested	v1	263	24	1	.38	4.16
 ELRC-416-Swedish_Social_Secur	v1	ELRC-417-Swedish_Work_Environ	v1	263	11	1	.38	9.09
 ELRC-416-Swedish_Social_Secur	v1	ELRC-TERMITUR	v1	263	3	1	.38	33.33
 ELRC-416-Swedish_Social_Secur	v1	CCMatrix	v1	263	245958729	0	0	0
+ELRC-416-Swedish_Social_Secur	v1	NLLB	v1	263	245954214	0	0	0
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v5	263	36657324	0	0	0
+ELRC-416-Swedish_Social_Secur	v1	ParaCrawl	v4	263	16173851	0	0	0
 ELRC-416-Swedish_Social_Secur	v1	EuroPat	v1	263	12614161	0	0	0
+ELRC-416-Swedish_Social_Secur	v1	Europarl	v3	263	1285340	0	0	0
 ELRC-416-Swedish_Social_Secur	v1	Tanzil	v1	263	516835	0	0	0
 ELRC-416-Swedish_Social_Secur	v1	News-Commentary	v11	263	222749	0	0	0
 ELRC-416-Swedish_Social_Secur	v1	News-Commentary	v9.0	263	200304	0	0	0

@@ -1,11 +1,16 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-774-Presidency	v1	EUbookshop	v2	16475	8268818	380	2.30	0
 ELRC-774-Presidency	v1	CCMatrix	v1	16475	245958729	364	2.20	0
+ELRC-774-Presidency	v1	NLLB	v1	16475	245954214	364	2.20	0
 ELRC-774-Presidency	v1	DGT	v2019	16475	3598219	84	.50	0
+ELRC-774-Presidency	v1	DGT	v4	16475	1949796	82	.49	0
+ELRC-774-Presidency	v1	MultiCCAligned	v1	16475	91967663	76	.46	0
 ELRC-774-Presidency	v1	TildeMODEL	v2018	16475	4184303	65	.39	0
 ELRC-774-Presidency	v1	JRC-Acquis	v3.0	16475	503393	49	.29	0
 ELRC-774-Presidency	v1	CCAligned	v1	16475	15192790	44	.26	0
+ELRC-774-Presidency	v1	ParaCrawl	v1	16475	36203700	30	.18	0
 ELRC-774-Presidency	v1	ParaCrawl	v9	16475	278310902	25	.15	0
+ELRC-774-Presidency	v1	ParaCrawl	v8	16475	261106742	24	.14	0
 ELRC-774-Presidency	v1	LinguaTools-WikiTitles	v2014	16475	15812874	19	.11	0
 ELRC-774-Presidency	v1	ECB	v1	16475	113033	19	.11	.01
 ELRC-774-Presidency	v1	ELRC-2714-EMEA	v1	16475	752887	17	.10	0
@@ -15,8 +20,11 @@ ELRC-774-Presidency	v1	KDE4	v2	16475	187849	15	.09	0
 ELRC-774-Presidency	v1	XLEnt	v1.1	16475	3802840	12	.07	0
 ELRC-774-Presidency	v1	XLEnt	v1	16475	3802840	12	.07	0
 ELRC-774-Presidency	v1	XLEnt	v1.2	16475	3802840	12	.07	0
+ELRC-774-Presidency	v1	wikimedia	v20230407	16475	161399	12	.07	0
 ELRC-774-Presidency	v1	Europarl	v8	16475	1916512	11	.06	0
+ELRC-774-Presidency	v1	Europarl	v7	16475	1915803	11	.06	0
 ELRC-774-Presidency	v1	WikiTitles	v3	16475	1386531	10	.06	0
+ELRC-774-Presidency	v1	Europarl	v3	16475	1285340	10	.06	0
 ELRC-774-Presidency	v1	EMEA	v3	16475	357190	11	.06	0
 ELRC-774-Presidency	v1	MultiUN	v1	16475	127300	11	.06	0
 ELRC-774-Presidency	v1	ELRC-2875-EU_publications_medi	v1	16475	13280	10	.06	.07
@@ -24,6 +32,8 @@ ELRC-774-Presidency	v1	ELRC-EU_publications	v1	16475	13280	10	.06	.07
 ELRC-774-Presidency	v1	wikimedia	v20210402	16475	103209	9	.05	0
 ELRC-774-Presidency	v1	ELRC-2014-EUIPO_2017	v1	16475	17145	9	.05	.05
 ELRC-774-Presidency	v1	ELRC-EUIPO_2017	v1	16475	17145	9	.05	.05
+ELRC-774-Presidency	v1	MultiParaCrawl	v7.1	16475	82638070	8	.04	0
+ELRC-774-Presidency	v1	ParaCrawl	v7.1	16475	82638069	7	.04	0
 ELRC-774-Presidency	v1	QED	v2.0a	16475	492321	5	.03	0
 ELRC-774-Presidency	v1	News-Commentary	v16	16475	285720	6	.03	0
 ELRC-774-Presidency	v1	News-Commentary	v14	16475	285704	6	.03	0
@@ -38,7 +48,9 @@ ELRC-774-Presidency	v1	ECDC	v2016-03-16	16475	2461	5	.03	.20
 ELRC-774-Presidency	v1	ELRC-by_Presidency	v1	16475	9023	4	.02	.04
 ELRC-774-Presidency	v1	ELRC-776-by_Presidency_Counci	v1	16475	4545	4	.02	.08
 ELRC-774-Presidency	v1	OpenSubtitles	v2018	16475	18698900	3	.01	0
+ELRC-774-Presidency	v1	OpenSubtitles	v2016	16475	11777113	2	.01	0
 ELRC-774-Presidency	v1	WikiMatrix	v1	16475	1573421	2	.01	0
+ELRC-774-Presidency	v1	Tatoeba	v2023-04-12	16475	322298	2	.01	0
 ELRC-774-Presidency	v1	Tatoeba	v2022-03-03	16475	313068	2	.01	0
 ELRC-774-Presidency	v1	Tatoeba	v2021-07-22	16475	307276	2	.01	0
 ELRC-774-Presidency	v1	Tatoeba	v2021-03-10	16475	302363	2	.01	0
@@ -64,7 +76,9 @@ ELRC-774-Presidency	v1	ELRC-EC_EUROPA	v1	16475	2555	2	.01	.07
 ELRC-774-Presidency	v1	ELRC-1243-Vienna_Environmental	v1	16475	2222	2	.01	.09
 ELRC-774-Presidency	v1	ELRC-3293-EUROPARL_covid	v1	16475	720	2	.01	.27
 ELRC-774-Presidency	v1	ELRC-EUROPARL_covid	v1	16475	720	2	.01	.27
+ELRC-774-Presidency	v1	ParaCrawl	v5	16475	36657324	1	0	0
 ELRC-774-Presidency	v1	EuroPat	v3	16475	19734743	1	0	0
+ELRC-774-Presidency	v1	ParaCrawl	v4	16475	16173851	0	0	0
 ELRC-774-Presidency	v1	EuroPat	v2	16475	15571045	1	0	0
 ELRC-774-Presidency	v1	EuroPat	v1	16475	12614161	0	0	0
 ELRC-774-Presidency	v1	Wikipedia	v1.0	16475	2413702	0	0	0

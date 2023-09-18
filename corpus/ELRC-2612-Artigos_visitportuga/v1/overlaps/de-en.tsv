@@ -1,6 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2612-Artigos_visitportuga	v1	ELRC-Artigos_visitportuga	v1	1058	1058	1058	100.00	100.00
+ELRC-2612-Artigos_visitportuga	v1	ParaCrawl	v8	1058	261106742	20	1.89	0
 ELRC-2612-Artigos_visitportuga	v1	CCMatrix	v1	1058	245958729	20	1.89	0
+ELRC-2612-Artigos_visitportuga	v1	NLLB	v1	1058	245954214	20	1.89	0
 ELRC-2612-Artigos_visitportuga	v1	ParaCrawl	v9	1058	278310902	15	1.41	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-2638-monumentos_2007	v1	1058	2474	13	1.22	.52
 ELRC-2612-Artigos_visitportuga	v1	LinguaTools-WikiTitles	v2014	1058	15812874	9	.85	0
@@ -8,8 +10,12 @@ ELRC-2612-Artigos_visitportuga	v1	WikiTitles	v3	1058	1386531	8	.75	0
 ELRC-2612-Artigos_visitportuga	v1	XLEnt	v1	1058	3802840	6	.56	0
 ELRC-2612-Artigos_visitportuga	v1	XLEnt	v1.1	1058	3802840	6	.56	0
 ELRC-2612-Artigos_visitportuga	v1	XLEnt	v1.2	1058	3802840	6	.56	0
+ELRC-2612-Artigos_visitportuga	v1	MultiParaCrawl	v7.1	1058	82638070	4	.37	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-2616-Museus_2007	v1	1058	794	4	.37	.50
 ELRC-2612-Artigos_visitportuga	v1	ELRC-Museus_2007	v1	1058	794	4	.37	.50
+ELRC-2612-Artigos_visitportuga	v1	ParaCrawl	v7.1	1058	82638069	3	.28	0
+ELRC-2612-Artigos_visitportuga	v1	ParaCrawl	v1	1058	36203700	2	.18	0
+ELRC-2612-Artigos_visitportuga	v1	MultiCCAligned	v1	1058	91967663	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	EuroPat	v3	1058	19734743	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	EuroPat	v2	1058	15571045	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	CCAligned	v1	1058	15192790	1	.09	0
@@ -17,6 +23,7 @@ ELRC-2612-Artigos_visitportuga	v1	WikiMatrix	v1	1058	1573421	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-5067-SciPar	v1	1058	890185	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-2714-EMEA	v1	1058	752887	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-EMEA	v1	1058	752887	1	.09	0
+ELRC-2612-Artigos_visitportuga	v1	Tatoeba	v2023-04-12	1058	322298	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	Tatoeba	v2022-03-03	1058	313068	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	Tatoeba	v2021-07-22	1058	307276	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	Tatoeba	v2021-03-10	1058	302363	1	.09	0
@@ -30,6 +37,7 @@ ELRC-2612-Artigos_visitportuga	v1	ELRC-EUIPO_law	v1	1058	233271	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	NeuLab-TedTalks	v1	1058	182085	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-1121-CORDIS_Results_Brief	v1	1058	182066	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-CORDIS_Results	v1	1058	182066	1	.09	0
+ELRC-2612-Artigos_visitportuga	v1	wikimedia	v20230407	1058	161399	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-1117-CORDIS_News	v1	1058	111275	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-CORDIS_News	v1	1058	111275	1	.09	0
 ELRC-2612-Artigos_visitportuga	v1	wikimedia	v20210402	1058	103209	1	.09	0
@@ -99,13 +107,19 @@ ELRC-2612-Artigos_visitportuga	v1	ELRC-5220-Information_crime_vi	v1	1058	41	1	.0
 ELRC-2612-Artigos_visitportuga	v1	ELRC-403-Rights_Arrested	v1	1058	24	1	.09	4.16
 ELRC-2612-Artigos_visitportuga	v1	ELRC-417-Swedish_Work_Environ	v1	1058	11	1	.09	9.09
 ELRC-2612-Artigos_visitportuga	v1	ELRC-TERMITUR	v1	1058	3	1	.09	33.33
+ELRC-2612-Artigos_visitportuga	v1	ParaCrawl	v5	1058	36657324	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	OpenSubtitles	v2018	1058	18698900	0	0	0
+ELRC-2612-Artigos_visitportuga	v1	ParaCrawl	v4	1058	16173851	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	EuroPat	v1	1058	12614161	0	0	0
+ELRC-2612-Artigos_visitportuga	v1	OpenSubtitles	v2016	1058	11777113	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	EUbookshop	v2	1058	8268818	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	TildeMODEL	v2018	1058	4184303	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	DGT	v2019	1058	3598219	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	Wikipedia	v1.0	1058	2413702	0	0	0
+ELRC-2612-Artigos_visitportuga	v1	DGT	v4	1058	1949796	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	Europarl	v8	1058	1916512	0	0	0
+ELRC-2612-Artigos_visitportuga	v1	Europarl	v7	1058	1915803	0	0	0
+ELRC-2612-Artigos_visitportuga	v1	Europarl	v3	1058	1285340	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	ELRC_2682	v1	1058	620450	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	Tanzil	v1	1058	516835	0	0	0
 ELRC-2612-Artigos_visitportuga	v1	JRC-Acquis	v3.0	1058	503393	0	0	0
