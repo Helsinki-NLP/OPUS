@@ -72,7 +72,7 @@
 | [Salome](http://opus.nlpl.eu/Salome.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Salome/v1)  |
 | [Samanantar](http://opus.nlpl.eu/Samanantar.php) | [v0.2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Samanantar/v0.2)  |
 | [sardware](http://opus.nlpl.eu/sardware.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/sardware/v1)  |
-| SCB_MT_EN_TH | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SCB_MT_EN_TH/v1.0)  |
+| [SCB_MT_EN_TH](http://opus.nlpl.eu/SCB_MT_EN_TH.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SCB_MT_EN_TH/v1.0)  |
 | [SciELO](http://opus.nlpl.eu/SciELO.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SciELO/v1)  |
 | [SETIMES](http://opus.nlpl.eu/SETIMES.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SETIMES/v1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SETIMES/v2)  |
 | [SPC](http://opus.nlpl.eu/SPC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/SPC/v1)  |
