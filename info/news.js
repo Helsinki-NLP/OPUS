@@ -1,4 +1,4 @@
-{ "newsList": {
+{  {
     "title": `<a href="/MDN_Web_Docs/corpus/version/MDN_Web_Docs" >MDN_Web_Docs</a>`,
     "date": "2023-09-25",
   },
