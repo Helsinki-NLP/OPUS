@@ -48,6 +48,7 @@
 | [LinguaTools-WikiTitles](http://opus.nlpl.eu/LinguaTools-WikiTitles.php) | [v2014](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/LinguaTools-WikiTitles/v2014)  |
 | [liv4ever](http://opus.nlpl.eu/liv4ever.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/liv4ever/v1)  |
 | [MBS](http://opus.nlpl.eu/MBS.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MBS/v1)  |
+| [MDN_Web_Docs](http://opus.nlpl.eu/MDN_Web_Docs-v2023-09.php) | [v2023-09-25](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MDN_Web_Docs/v2023-09-25)  |
 | [memat](http://opus.nlpl.eu/memat.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/memat/v1)  |
 | [MIZAN](http://opus.nlpl.eu/MIZAN.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MIZAN/v1)  |
 | [MontenegrinSubs](http://opus.nlpl.eu/MontenegrinSubs.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MontenegrinSubs/v1)  |

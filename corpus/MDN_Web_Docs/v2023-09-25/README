@@ -1,0 +1,274 @@
+ Corpus Name: MDN_Web_Docs
+     Website: http://opus.nlpl.eu/MDN_Web_Docs-v2023-09-25.php
+     Release: v2023-09-25
+Release date: Mon Sep 25 12:09:03 EEST 2023
+     License: <a href=https://creativecommons.org/licenses/by-sa/2.5/>CC-BY-SA 2.5</a>
+   Copyright: All prose content is available under (CC-BY-SA 2.5). For more information, see <a href="https://github.com/mdn/translated-content">https://github.com/mdn/translated-content</a>
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please <a href="http://opus.lingfil.uu.se/LREC2012.txt">cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)<br/>
+
+MDN Web Docs is an open-source, collaborative project that documents web platform technologies, including CSS, HTML, JavaScript, and Web APIs. We also provide extensive learning resources for beginning developers and students.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+MDN_Web_Docs/v2023-09-25/freq/en.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/es.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/fr.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/ja.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/ko.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/pt_BR.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/ru.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/zh_CN.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/zh_TW.freq.gz
+MDN_Web_Docs/v2023-09-25/mono/en.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/en.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/es.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/es.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/fr.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/fr.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/ja.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/ja.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/ko.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/ko.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/pt_BR.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/pt_BR.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/ru.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/ru.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/zh_CN.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/zh_CN.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/zh_TW.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/zh_TW.txt.gz
+MDN_Web_Docs/v2023-09-25/moses/en-es.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-fr.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-ja.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-ko.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-fr.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-ja.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-ko.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-ja.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-ko.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-ko.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ko-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ko-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ko-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ko-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/pt_BR-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/pt_BR-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/pt_BR-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ru-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ru-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/zh_CN-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/raw/en.zip
+MDN_Web_Docs/v2023-09-25/raw/es.zip
+MDN_Web_Docs/v2023-09-25/raw/fr.zip
+MDN_Web_Docs/v2023-09-25/raw/ja.zip
+MDN_Web_Docs/v2023-09-25/raw/ko.zip
+MDN_Web_Docs/v2023-09-25/raw/pt_BR.zip
+MDN_Web_Docs/v2023-09-25/raw/ru.zip
+MDN_Web_Docs/v2023-09-25/raw/zh_CN.zip
+MDN_Web_Docs/v2023-09-25/raw/zh_TW.zip
+MDN_Web_Docs/v2023-09-25/tmx/en-es.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-fr.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-ja.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-ko.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-fr.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-ja.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-ko.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-ja.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-ko.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-ko.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ko-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ko-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ko-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ko-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/pt_BR-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/pt_BR-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/pt_BR-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ru-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ru-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/zh_CN-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/xml/en.zip
+MDN_Web_Docs/v2023-09-25/xml/es.zip
+MDN_Web_Docs/v2023-09-25/xml/fr.zip
+MDN_Web_Docs/v2023-09-25/xml/ja.zip
+MDN_Web_Docs/v2023-09-25/xml/ko.zip
+MDN_Web_Docs/v2023-09-25/xml/pt_BR.zip
+MDN_Web_Docs/v2023-09-25/xml/ru.zip
+MDN_Web_Docs/v2023-09-25/xml/zh_CN.zip
+MDN_Web_Docs/v2023-09-25/xml/zh_TW.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+MDN_Web_Docs/v2023-09-25/freq/en.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/es.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/fr.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/ja.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/ko.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/pt_BR.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/ru.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/zh_CN.freq.gz
+MDN_Web_Docs/v2023-09-25/freq/zh_TW.freq.gz
+MDN_Web_Docs/v2023-09-25/mono/en.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/en.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/es.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/es.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/fr.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/fr.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/ja.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/ja.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/ko.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/ko.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/pt_BR.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/pt_BR.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/ru.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/ru.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/zh_CN.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/zh_CN.txt.gz
+MDN_Web_Docs/v2023-09-25/mono/zh_TW.tok.gz
+MDN_Web_Docs/v2023-09-25/mono/zh_TW.txt.gz
+MDN_Web_Docs/v2023-09-25/moses/en-es.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-fr.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-ja.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-ko.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/en-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-fr.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-ja.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-ko.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/es-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-ja.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-ko.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/fr-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-ko.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ja-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ko-pt_BR.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ko-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ko-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ko-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/pt_BR-ru.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/pt_BR-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/pt_BR-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ru-zh_CN.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/ru-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/moses/zh_CN-zh_TW.txt.zip
+MDN_Web_Docs/v2023-09-25/raw/en.zip
+MDN_Web_Docs/v2023-09-25/raw/es.zip
+MDN_Web_Docs/v2023-09-25/raw/fr.zip
+MDN_Web_Docs/v2023-09-25/raw/ja.zip
+MDN_Web_Docs/v2023-09-25/raw/ko.zip
+MDN_Web_Docs/v2023-09-25/raw/pt_BR.zip
+MDN_Web_Docs/v2023-09-25/raw/ru.zip
+MDN_Web_Docs/v2023-09-25/raw/zh_CN.zip
+MDN_Web_Docs/v2023-09-25/raw/zh_TW.zip
+MDN_Web_Docs/v2023-09-25/tmx/en-es.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-fr.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-ja.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-ko.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/en-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-fr.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-ja.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-ko.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/es-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-ja.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-ko.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/fr-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-ko.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ja-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ko-pt_BR.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ko-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ko-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ko-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/pt_BR-ru.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/pt_BR-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/pt_BR-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ru-zh_CN.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/ru-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/tmx/zh_CN-zh_TW.tmx.gz
+MDN_Web_Docs/v2023-09-25/xml/en.zip
+MDN_Web_Docs/v2023-09-25/xml/es.zip
+MDN_Web_Docs/v2023-09-25/xml/fr.zip
+MDN_Web_Docs/v2023-09-25/xml/ja.zip
+MDN_Web_Docs/v2023-09-25/xml/ko.zip
+MDN_Web_Docs/v2023-09-25/xml/pt_BR.zip
+MDN_Web_Docs/v2023-09-25/xml/ru.zip
+MDN_Web_Docs/v2023-09-25/xml/zh_CN.zip
+MDN_Web_Docs/v2023-09-25/xml/zh_TW.zip
