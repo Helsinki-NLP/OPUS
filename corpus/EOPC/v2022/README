@@ -1,0 +1,136 @@
+ Corpus Name: EOPC
+     Website: http://opus.nlpl.eu/EOPC-v2022.php
+     Release: v2022
+Release date: 05/18/2022
+   OPUS date: Sat Sep 30 22:57:14 EEST 2023
+     License: CC-BY-SA
+     Contact: Roberts Rozis <roberts.rozis@tilde.com>
+      Source: https://metashare.tilde.com/repository/browse/eopc-2022-estonian-open-parallel-corpus-2022-estonian-russian/dcb9f35cd69511eca6e4fa163e9d454714176e41bcd048e3a1cf266a6fb68a3f/
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please <a href="http://opus.lingfil.uu.se/LREC2012.txt">cite the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)<br/>
+
+This corpus has been collected within the framework of “Estonian Open Parallel Corpus”. The purpose of the project is to create a significant amount of language resources to improve machine translation systems.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+EOPC/v2022/freq/de.freq.gz
+EOPC/v2022/freq/en.freq.gz
+EOPC/v2022/freq/et.freq.gz
+EOPC/v2022/freq/fi.freq.gz
+EOPC/v2022/freq/fr.freq.gz
+EOPC/v2022/freq/ru.freq.gz
+EOPC/v2022/freq/sv.freq.gz
+EOPC/v2022/mono/de.tok.gz
+EOPC/v2022/mono/de.txt.gz
+EOPC/v2022/mono/en.tok.gz
+EOPC/v2022/mono/en.txt.gz
+EOPC/v2022/mono/et.tok.gz
+EOPC/v2022/mono/et.txt.gz
+EOPC/v2022/mono/fi.tok.gz
+EOPC/v2022/mono/fi.txt.gz
+EOPC/v2022/mono/fr.tok.gz
+EOPC/v2022/mono/fr.txt.gz
+EOPC/v2022/mono/ru.tok.gz
+EOPC/v2022/mono/ru.txt.gz
+EOPC/v2022/mono/sv.tok.gz
+EOPC/v2022/mono/sv.txt.gz
+EOPC/v2022/moses/de-et.txt.zip
+EOPC/v2022/moses/en-et.txt.zip
+EOPC/v2022/moses/et-fi.txt.zip
+EOPC/v2022/moses/et-fr.txt.zip
+EOPC/v2022/moses/et-ru.txt.zip
+EOPC/v2022/moses/et-sv.txt.zip
+EOPC/v2022/raw/de.zip
+EOPC/v2022/raw/en.zip
+EOPC/v2022/raw/et.zip
+EOPC/v2022/raw/fi.zip
+EOPC/v2022/raw/fr.zip
+EOPC/v2022/raw/ru.zip
+EOPC/v2022/raw/sv.zip
+EOPC/v2022/tmx/de-et.tmx.gz
+EOPC/v2022/tmx/en-et.tmx.gz
+EOPC/v2022/tmx/et-fi.tmx.gz
+EOPC/v2022/tmx/et-fr.tmx.gz
+EOPC/v2022/tmx/et-ru.tmx.gz
+EOPC/v2022/tmx/et-sv.tmx.gz
+EOPC/v2022/xml/de.zip
+EOPC/v2022/xml/en.zip
+EOPC/v2022/xml/et.zip
+EOPC/v2022/xml/fi.zip
+EOPC/v2022/xml/fr.zip
+EOPC/v2022/xml/ru.zip
+EOPC/v2022/xml/sv.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+EOPC/v2022/freq/de.freq.gz
+EOPC/v2022/freq/en.freq.gz
+EOPC/v2022/freq/et.freq.gz
+EOPC/v2022/freq/fi.freq.gz
+EOPC/v2022/freq/fr.freq.gz
+EOPC/v2022/freq/ru.freq.gz
+EOPC/v2022/freq/sv.freq.gz
+EOPC/v2022/mono/de.tok.gz
+EOPC/v2022/mono/de.txt.gz
+EOPC/v2022/mono/en.tok.gz
+EOPC/v2022/mono/en.txt.gz
+EOPC/v2022/mono/et.tok.gz
+EOPC/v2022/mono/et.txt.gz
+EOPC/v2022/mono/fi.tok.gz
+EOPC/v2022/mono/fi.txt.gz
+EOPC/v2022/mono/fr.tok.gz
+EOPC/v2022/mono/fr.txt.gz
+EOPC/v2022/mono/ru.tok.gz
+EOPC/v2022/mono/ru.txt.gz
+EOPC/v2022/mono/sv.tok.gz
+EOPC/v2022/mono/sv.txt.gz
+EOPC/v2022/moses/de-et.txt.zip
+EOPC/v2022/moses/en-et.txt.zip
+EOPC/v2022/moses/et-fi.txt.zip
+EOPC/v2022/moses/et-fr.txt.zip
+EOPC/v2022/moses/et-ru.txt.zip
+EOPC/v2022/moses/et-sv.txt.zip
+EOPC/v2022/raw/de.zip
+EOPC/v2022/raw/en.zip
+EOPC/v2022/raw/et.zip
+EOPC/v2022/raw/fi.zip
+EOPC/v2022/raw/fr.zip
+EOPC/v2022/raw/ru.zip
+EOPC/v2022/raw/sv.zip
+EOPC/v2022/tmx/de-et.tmx.gz
+EOPC/v2022/tmx/en-et.tmx.gz
+EOPC/v2022/tmx/et-fi.tmx.gz
+EOPC/v2022/tmx/et-fr.tmx.gz
+EOPC/v2022/tmx/et-ru.tmx.gz
+EOPC/v2022/tmx/et-sv.tmx.gz
+EOPC/v2022/xml/de.zip
+EOPC/v2022/xml/en.zip
+EOPC/v2022/xml/et.zip
+EOPC/v2022/xml/fi.zip
+EOPC/v2022/xml/fr.zip
+EOPC/v2022/xml/ru.zip
+EOPC/v2022/xml/sv.zip

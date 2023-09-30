@@ -23,6 +23,7 @@
 | [Elhuyar](http://opus.nlpl.eu/Elhuyar.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Elhuyar/v1)  |
 | [ELITR-ECA](http://opus.nlpl.eu/ELITR-ECA.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ELITR-ECA/v1)  |
 | [EMEA](http://opus.nlpl.eu/EMEA.php) | [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EMEA/v3)  |
+| [EOPC](http://opus.nlpl.eu/EOPC.php) | [v2022](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EOPC/v2022)  |
 | [EUbookshop](http://opus.nlpl.eu/EUbookshop.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EUbookshop/v2)  |
 | [EUconst](http://opus.nlpl.eu/EUconst.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/EUconst/v1)  |
 | [Europarl](http://opus.nlpl.eu/Europarl.php) | [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v3) [v7](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v7) [v8](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Europarl/v8)  |
