@@ -1,0 +1,210 @@
+ Corpus Name: HPLT
+     Website: http://opus.nlpl.eu/HPLT-v1.php
+     Release: v1
+Release date: Fri Oct 13 16:47:02 EEST 2023
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, acknowledge the HPLT project at <a href="https://hplt-project.org/">https://hplt-project.org/</a>. This version is derived from the original release at their website adjusted for redistribution via the OPUS corpus collection. Please, acknowledge OPUS as well for this service.
+
+Parallel corpora from Web Crawls collected in the HPLT project
+The data is released under the Creative Commons CC0 license ("no rights reserved"), see http://paracrawl.eu/download.html for more details
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+HPLT/v1/freq/bs.freq.gz
+HPLT/v1/freq/ca.freq.gz
+HPLT/v1/freq/en.freq.gz
+HPLT/v1/freq/et.freq.gz
+HPLT/v1/freq/ga.freq.gz
+HPLT/v1/freq/hi.freq.gz
+HPLT/v1/freq/hr.freq.gz
+HPLT/v1/freq/sr.freq.gz
+HPLT/v1/freq/sw.freq.gz
+HPLT/v1/mono/bs.tok.gz
+HPLT/v1/mono/bs.txt.gz
+HPLT/v1/mono/ca.tok.gz
+HPLT/v1/mono/ca.txt.gz
+HPLT/v1/mono/en.tok.gz
+HPLT/v1/mono/en.txt.gz
+HPLT/v1/mono/et.tok.gz
+HPLT/v1/mono/et.txt.gz
+HPLT/v1/mono/ga.tok.gz
+HPLT/v1/mono/ga.txt.gz
+HPLT/v1/mono/hi.tok.gz
+HPLT/v1/mono/hi.txt.gz
+HPLT/v1/mono/hr.tok.gz
+HPLT/v1/mono/hr.txt.gz
+HPLT/v1/mono/sr.tok.gz
+HPLT/v1/mono/sr.txt.gz
+HPLT/v1/mono/sw.tok.gz
+HPLT/v1/mono/sw.txt.gz
+HPLT/v1/moses/bs-en.txt.zip
+HPLT/v1/moses/ca-en.txt.zip
+HPLT/v1/moses/en-et.txt.zip
+HPLT/v1/moses/en-ga.txt.zip
+HPLT/v1/moses/en-hi.txt.zip
+HPLT/v1/moses/en-hr.txt.zip
+HPLT/v1/moses/en-sr.txt.zip
+HPLT/v1/moses/en-sw.txt.zip
+HPLT/v1/raw/bs.zip
+HPLT/v1/raw/ca.zip
+HPLT/v1/raw/en.zip
+HPLT/v1/raw/et.zip
+HPLT/v1/raw/ga.zip
+HPLT/v1/raw/hi.zip
+HPLT/v1/raw/hr.zip
+HPLT/v1/raw/sr.zip
+HPLT/v1/raw/sw.zip
+HPLT/v1/xml/bs.zip
+HPLT/v1/xml/ca.zip
+HPLT/v1/xml/en.zip
+HPLT/v1/xml/et.zip
+HPLT/v1/xml/ga.zip
+HPLT/v1/xml/hi.zip
+HPLT/v1/xml/hr.zip
+HPLT/v1/xml/sr.zip
+HPLT/v1/xml/sw.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+HPLT/v1/freq/bs.freq.gz
+HPLT/v1/freq/ca.freq.gz
+HPLT/v1/freq/en.freq.gz
+HPLT/v1/freq/et.freq.gz
+HPLT/v1/freq/ga.freq.gz
+HPLT/v1/freq/hi.freq.gz
+HPLT/v1/freq/hr.freq.gz
+HPLT/v1/freq/sr.freq.gz
+HPLT/v1/freq/sw.freq.gz
+HPLT/v1/mono/bs.tok.gz
+HPLT/v1/mono/bs.txt.gz
+HPLT/v1/mono/ca.tok.gz
+HPLT/v1/mono/ca.txt.gz
+HPLT/v1/mono/en.tok.gz
+HPLT/v1/mono/en.txt.gz
+HPLT/v1/mono/et.tok.gz
+HPLT/v1/mono/et.txt.gz
+HPLT/v1/mono/ga.tok.gz
+HPLT/v1/mono/ga.txt.gz
+HPLT/v1/mono/hi.tok.gz
+HPLT/v1/mono/hi.txt.gz
+HPLT/v1/mono/hr.tok.gz
+HPLT/v1/mono/hr.txt.gz
+HPLT/v1/mono/sr.tok.gz
+HPLT/v1/mono/sr.txt.gz
+HPLT/v1/mono/sw.tok.gz
+HPLT/v1/mono/sw.txt.gz
+HPLT/v1/moses/bs-en.txt.zip
+HPLT/v1/moses/ca-en.txt.zip
+HPLT/v1/moses/en-et.txt.zip
+HPLT/v1/moses/en-ga.txt.zip
+HPLT/v1/moses/en-hi.txt.zip
+HPLT/v1/moses/en-hr.txt.zip
+HPLT/v1/moses/en-sr.txt.zip
+HPLT/v1/moses/en-sw.txt.zip
+HPLT/v1/raw/bs.zip
+HPLT/v1/raw/ca.zip
+HPLT/v1/raw/en.zip
+HPLT/v1/raw/et.zip
+HPLT/v1/raw/ga.zip
+HPLT/v1/raw/hi.zip
+HPLT/v1/raw/hr.zip
+HPLT/v1/raw/sr.zip
+HPLT/v1/raw/sw.zip
+HPLT/v1/xml/bs.zip
+HPLT/v1/xml/ca.zip
+HPLT/v1/xml/en.zip
+HPLT/v1/xml/et.zip
+HPLT/v1/xml/ga.zip
+HPLT/v1/xml/hi.zip
+HPLT/v1/xml/hr.zip
+HPLT/v1/xml/sr.zip
+HPLT/v1/xml/sw.zip
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+HPLT/v1/freq/bs.freq.gz
+HPLT/v1/freq/ca.freq.gz
+HPLT/v1/freq/en.freq.gz
+HPLT/v1/freq/et.freq.gz
+HPLT/v1/freq/ga.freq.gz
+HPLT/v1/freq/hi.freq.gz
+HPLT/v1/freq/hr.freq.gz
+HPLT/v1/freq/sr.freq.gz
+HPLT/v1/freq/sw.freq.gz
+HPLT/v1/mono/bs.tok.gz
+HPLT/v1/mono/bs.txt.gz
+HPLT/v1/mono/ca.tok.gz
+HPLT/v1/mono/ca.txt.gz
+HPLT/v1/mono/en.tok.gz
+HPLT/v1/mono/en.txt.gz
+HPLT/v1/mono/et.tok.gz
+HPLT/v1/mono/et.txt.gz
+HPLT/v1/mono/ga.tok.gz
+HPLT/v1/mono/ga.txt.gz
+HPLT/v1/mono/hi.tok.gz
+HPLT/v1/mono/hi.txt.gz
+HPLT/v1/mono/hr.tok.gz
+HPLT/v1/mono/hr.txt.gz
+HPLT/v1/mono/sr.tok.gz
+HPLT/v1/mono/sr.txt.gz
+HPLT/v1/mono/sw.tok.gz
+HPLT/v1/mono/sw.txt.gz
+HPLT/v1/moses/bs-en.txt.zip
+HPLT/v1/moses/ca-en.txt.zip
+HPLT/v1/moses/en-et.txt.zip
+HPLT/v1/moses/en-ga.txt.zip
+HPLT/v1/moses/en-hi.txt.zip
+HPLT/v1/moses/en-hr.txt.zip
+HPLT/v1/moses/en-sr.txt.zip
+HPLT/v1/moses/en-sw.txt.zip
+HPLT/v1/raw/bs.zip
+HPLT/v1/raw/ca.zip
+HPLT/v1/raw/en.zip
+HPLT/v1/raw/et.zip
+HPLT/v1/raw/ga.zip
+HPLT/v1/raw/hi.zip
+HPLT/v1/raw/hr.zip
+HPLT/v1/raw/sr.zip
+HPLT/v1/raw/sw.zip
+HPLT/v1/xml/bs.zip
+HPLT/v1/xml/ca.zip
+HPLT/v1/xml/en.zip
+HPLT/v1/xml/et.zip
+HPLT/v1/xml/ga.zip
+HPLT/v1/xml/hi.zip
+HPLT/v1/xml/hr.zip
+HPLT/v1/xml/sr.zip
+HPLT/v1/xml/sw.zip

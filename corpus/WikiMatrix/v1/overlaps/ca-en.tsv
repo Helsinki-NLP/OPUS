@@ -1,6 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	1205909	21161566	322673	26.75	1.52
 WikiMatrix	v1	NLLB	v1	1205909	21161243	322673	26.75	1.52
+WikiMatrix	v1	HPLT	v1	1205909	8905890	65675	5.44	.73
 WikiMatrix	v1	wikimedia	v20230407	1205909	386194	22503	1.86	5.82
 WikiMatrix	v1	wikimedia	v20210402	1205909	208067	22497	1.86	10.81
 WikiMatrix	v1	ELRC-3040-wikipedia_health	v1	1205909	1532	336	.02	21.93
@@ -34,6 +35,7 @@ WikiMatrix	v1	Tatoeba	v2020-05-31	1205909	1629	0	0	0
 WikiMatrix	v1	Tatoeba	v20190709	1205909	1626	0	0	0
 WikiMatrix	v1	ELRC-5190-Cyber_MT_Test	v1	1205909	1004	1	0	.09
 WikiMatrix	v1	Tatoeba	v2	1205909	972	0	0	0
+WikiMatrix	v1	tldr-pages	v2023-08-29	1205909	729	1	0	.13
 WikiMatrix	v1	ELRC-2638-monumentos_2007	v1	1205909	15	1	0	6.66
 WikiMatrix	v1	ELRC-2614-Localidades_2007	v1	1205909	8	1	0	12.50
 WikiMatrix	v1	ELRC-Localidades_2007	v1	1205909	8	1	0	12.50

@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 CCMatrix	v1	NLLB	v1	14907613	33107118	122281	.82	.36
+CCMatrix	v1	HPLT	v1	14907628	12043070	83683	.56	.69
 CCMatrix	v1	MultiCCAligned	v1	14907613	8071736	75917	.50	.94
 CCMatrix	v1	CCAligned	v1	14907613	8071579	75916	.50	.94
 CCMatrix	v1	Samanantar	v0.2	14907613	10043539	72390	.48	.72
@@ -39,6 +40,7 @@ CCMatrix	v1	News-Commentary	v16	14907613	2574	22	0	.85
 CCMatrix	v1	GlobalVoices	v2018q4	14907613	2385	80	0	3.35
 CCMatrix	v1	GlobalVoices	v2017q3	14907613	2284	64	0	2.80
 CCMatrix	v1	GlobalVoices	v2015	14907613	1839	30	0	1.63
+CCMatrix	v1	tldr-pages	v2023-08-29	14907628	485	0	0	0
 CCMatrix	v1	ELRC-3061-wikipedia_health	v1	14907613	246	3	0	1.21
 CCMatrix	v1	ELRC-wikipedia_health	v1	14907613	246	3	0	1.21
 CCMatrix	v1	ELRC_2922	v1	14907613	245	3	0	1.22

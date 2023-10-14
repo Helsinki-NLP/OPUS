@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 CCAligned	v1	MultiCCAligned	v1	5774598	5774694	5774598	100.00	99.99
+CCAligned	v1	HPLT	v1	5774664	8905890	198478	3.43	2.22
 CCAligned	v1	CCMatrix	v1	5774598	21161566	131786	2.28	.62
 CCAligned	v1	NLLB	v1	5774598	21161243	131795	2.28	.62
 CCAligned	v1	XLEnt	v1.1	5774598	2809447	6419	.11	.22
@@ -34,6 +35,7 @@ CCAligned	v1	ELRC-wikipedia_health	v1	5774598	1532	2	0	.13
 CCAligned	v1	ELRC_2922	v1	5774598	1531	1	0	.06
 CCAligned	v1	ELRC-5190-Cyber_MT_Test	v1	5774598	1004	1	0	.09
 CCAligned	v1	Tatoeba	v2	5774598	972	10	0	1.02
+CCAligned	v1	tldr-pages	v2023-08-29	5774664	729	1	0	.13
 CCAligned	v1	ELRC-2638-monumentos_2007	v1	5774598	15	1	0	6.66
 CCAligned	v1	ELRC-2614-Localidades_2007	v1	5774598	8	1	0	12.50
 CCAligned	v1	ELRC-Localidades_2007	v1	5774598	8	1	0	12.50

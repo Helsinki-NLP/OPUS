@@ -1,7 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+wikimedia	v20210402	wikimedia	v20230407	9931	19361	9856	99.24	50.90
+wikimedia	v20210402	NLLB	v1	9931	22449475	836	8.41	0
 wikimedia	v20210402	ParaCrawl	v9	9931	3245616	250	2.51	0
+wikimedia	v20210402	ParaCrawl	v8	9931	1995660	173	1.74	0
+wikimedia	v20210402	HPLT	v1	9931	994747	35	.35	0
+wikimedia	v20210402	MultiParaCrawl	v7.1	9931	2694761	32	.32	0
+wikimedia	v20210402	ParaCrawl	v7.1	9931	2694760	31	.31	0
 wikimedia	v20210402	KDE4	v2	9931	98693	22	.22	.02
 wikimedia	v20210402	DGT	v2019	9931	173204	16	.16	0
+wikimedia	v20210402	DGT	v4	9931	38651	15	.15	.03
 wikimedia	v20210402	EUbookshop	v2	9931	91074	14	.14	.01
 wikimedia	v20210402	GNOME	v1	9931	15602	7	.07	.04
 wikimedia	v20210402	EUconst	v1	9931	6718	5	.05	.07
@@ -22,6 +29,7 @@ wikimedia	v20210402	ELRC-2443-LithrenGrasinOG	v1	9931	3684	1	.01	.02
 wikimedia	v20210402	ELRC-2414-Tuarasclaca_Bliantla	v1	9931	2954	1	.01	.03
 wikimedia	v20210402	ELRC-2497-Tuarascil_Bhliantil_	v1	9931	2645	1	.01	.03
 wikimedia	v20210402	ELRA-W0230	v1	9931	2102	1	.01	.04
+wikimedia	v20210402	Tatoeba	v2023-04-12	9931	1993	1	.01	.05
 wikimedia	v20210402	Tatoeba	v2022-03-03	9931	1974	1	.01	.05
 wikimedia	v20210402	Tatoeba	v2021-07-22	9931	1941	1	.01	.05
 wikimedia	v20210402	Tatoeba	v2021-03-10	9931	1934	1	.01	.05
@@ -91,6 +99,8 @@ wikimedia	v20210402	ELRC-2451-Pleananna_ITBC_le	v1	9931	11	1	.01	9.09
 wikimedia	v20210402	ELRC-2464-Foirm_FSS_Iarratais	v1	9931	11	1	.01	9.09
 wikimedia	v20210402	ELRC-2459-Pstaer_faoi_scoil	v1	9931	7	1	.01	14.28
 wikimedia	v20210402	ELRC-2462-Preasriteas_faoi_Uac	v1	9931	6	1	.01	16.66
+wikimedia	v20210402	ParaCrawl	v5	9931	774937	0	0	0
+wikimedia	v20210402	ParaCrawl	v4	9931	354264	0	0	0
 wikimedia	v20210402	ELRA-W0223	v1	9931	68271	0	0	0
 wikimedia	v20210402	Tatoeba	v2020-05-31	9931	1913	0	0	0
 wikimedia	v20210402	Tatoeba	v20190709	9931	1894	0	0	0

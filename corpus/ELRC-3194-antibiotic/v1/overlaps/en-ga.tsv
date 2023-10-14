@@ -1,12 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3194-antibiotic	v1	ELRC-antibiotic	v1	196	196	196	100.00	100.00
+ELRC-3194-antibiotic	v1	ParaCrawl	v8	196	1995660	18	9.18	0
 ELRC-3194-antibiotic	v1	ParaCrawl	v9	196	3245616	17	8.67	0
+ELRC-3194-antibiotic	v1	NLLB	v1	196	22449475	5	2.55	0
+ELRC-3194-antibiotic	v1	HPLT	v1	196	994747	4	2.04	0
+ELRC-3194-antibiotic	v1	MultiParaCrawl	v7.1	196	2694761	2	1.02	0
 ELRC-3194-antibiotic	v1	ELRC-2748-vaccination	v1	196	360	2	1.02	.55
 ELRC-3194-antibiotic	v1	ELRC-vaccination	v1	196	360	2	1.02	.55
+ELRC-3194-antibiotic	v1	ParaCrawl	v7.1	196	2694760	1	.51	0
 ELRC-3194-antibiotic	v1	XLEnt	v1.1	196	170416	1	.51	0
 ELRC-3194-antibiotic	v1	XLEnt	v1	196	170416	1	.51	0
 ELRC-3194-antibiotic	v1	XLEnt	v1.2	196	170416	1	.51	0
 ELRC-3194-antibiotic	v1	ELRC-781-Gaois_legislation	v1	196	68272	1	.51	0
+ELRC-3194-antibiotic	v1	wikimedia	v20230407	196	19361	1	.51	0
 ELRC-3194-antibiotic	v1	wikimedia	v20210402	196	9931	1	.51	.01
 ELRC-3194-antibiotic	v1	ELRC-2442-_Chonradh_Ginearlta	v1	196	7563	1	.51	.01
 ELRC-3194-antibiotic	v1	ELRC-2438-www.citizensinformat	v1	196	6690	1	.51	.01
@@ -16,6 +22,7 @@ ELRC-3194-antibiotic	v1	ELRC-2414-Tuarasclaca_Bliantla	v1	196	2954	1	.51	.03
 ELRC-3194-antibiotic	v1	ELRC-2497-Tuarascil_Bhliantil_	v1	196	2645	1	.51	.03
 ELRC-3194-antibiotic	v1	ELRC-801-Coimisineir_Teanga_R	v1	196	2103	1	.51	.04
 ELRC-3194-antibiotic	v1	ELRC-2441-_Chonradh_don	v1	196	1998	1	.51	.05
+ELRC-3194-antibiotic	v1	Tatoeba	v2023-04-12	196	1993	1	.51	.05
 ELRC-3194-antibiotic	v1	Tatoeba	v2022-03-03	196	1974	1	.51	.05
 ELRC-3194-antibiotic	v1	Tatoeba	v2021-07-22	196	1941	1	.51	.05
 ELRC-3194-antibiotic	v1	Tatoeba	v2021-03-10	196	1934	1	.51	.05
@@ -84,10 +91,13 @@ ELRC-3194-antibiotic	v1	ELRC-2464-Foirm_FSS_Iarratais	v1	196	11	1	.51	9.09
 ELRC-3194-antibiotic	v1	ELRC-2459-Pstaer_faoi_scoil	v1	196	7	1	.51	14.28
 ELRC-3194-antibiotic	v1	ELRC-2462-Preasriteas_faoi_Uac	v1	196	6	1	.51	16.66
 ELRC-3194-antibiotic	v1	CCMatrix	v1	196	1074570	0	0	0
+ELRC-3194-antibiotic	v1	ParaCrawl	v5	196	774937	0	0	0
+ELRC-3194-antibiotic	v1	ParaCrawl	v4	196	354264	0	0	0
 ELRC-3194-antibiotic	v1	DGT	v2019	196	173204	0	0	0
 ELRC-3194-antibiotic	v1	KDE4	v2	196	98693	0	0	0
 ELRC-3194-antibiotic	v1	EUbookshop	v2	196	91074	0	0	0
 ELRC-3194-antibiotic	v1	ELRA-W0223	v1	196	68271	0	0	0
+ELRC-3194-antibiotic	v1	DGT	v4	196	38651	0	0	0
 ELRC-3194-antibiotic	v1	QED	v2.0a	196	17173	0	0	0
 ELRC-3194-antibiotic	v1	GNOME	v1	196	15602	0	0	0
 ELRC-3194-antibiotic	v1	EUconst	v1	196	6718	0	0	0

@@ -1,12 +1,17 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-vaccination	v1	ELRC-2748-vaccination	v1	360	360	360	100.00	100.00
+ELRC-vaccination	v1	HPLT	v1	360	994747	35	9.72	0
+ELRC-vaccination	v1	NLLB	v1	360	22449475	17	4.72	0
 ELRC-vaccination	v1	ParaCrawl	v9	360	3245616	2	.55	0
+ELRC-vaccination	v1	ParaCrawl	v8	360	1995660	2	.55	0
 ELRC-vaccination	v1	ELRC-3194-antibiotic	v1	360	196	2	.55	1.02
 ELRC-vaccination	v1	ELRC-antibiotic	v1	360	196	2	.55	1.02
+ELRC-vaccination	v1	MultiParaCrawl	v7.1	360	2694761	1	.27	0
 ELRC-vaccination	v1	XLEnt	v1.1	360	170416	1	.27	0
 ELRC-vaccination	v1	XLEnt	v1.2	360	170416	1	.27	0
 ELRC-vaccination	v1	XLEnt	v1	360	170416	1	.27	0
 ELRC-vaccination	v1	ELRC-781-Gaois_legislation	v1	360	68272	1	.27	0
+ELRC-vaccination	v1	wikimedia	v20230407	360	19361	1	.27	0
 ELRC-vaccination	v1	wikimedia	v20210402	360	9931	1	.27	.01
 ELRC-vaccination	v1	ELRC-2442-_Chonradh_Ginearlta	v1	360	7563	1	.27	.01
 ELRC-vaccination	v1	ELRC-2438-www.citizensinformat	v1	360	6690	1	.27	.01
@@ -16,6 +21,7 @@ ELRC-vaccination	v1	ELRC-2414-Tuarasclaca_Bliantla	v1	360	2954	1	.27	.03
 ELRC-vaccination	v1	ELRC-2497-Tuarascil_Bhliantil_	v1	360	2645	1	.27	.03
 ELRC-vaccination	v1	ELRC-801-Coimisineir_Teanga_R	v1	360	2103	1	.27	.04
 ELRC-vaccination	v1	ELRC-2441-_Chonradh_don	v1	360	1998	1	.27	.05
+ELRC-vaccination	v1	Tatoeba	v2023-04-12	360	1993	1	.27	.05
 ELRC-vaccination	v1	Tatoeba	v2022-03-03	360	1974	1	.27	.05
 ELRC-vaccination	v1	Tatoeba	v2021-07-22	360	1941	1	.27	.05
 ELRC-vaccination	v1	Tatoeba	v2021-03-10	360	1934	1	.27	.05
@@ -83,11 +89,15 @@ ELRC-vaccination	v1	ELRC-2451-Pleananna_ITBC_le	v1	360	11	1	.27	9.09
 ELRC-vaccination	v1	ELRC-2464-Foirm_FSS_Iarratais	v1	360	11	1	.27	9.09
 ELRC-vaccination	v1	ELRC-2459-Pstaer_faoi_scoil	v1	360	7	1	.27	14.28
 ELRC-vaccination	v1	ELRC-2462-Preasriteas_faoi_Uac	v1	360	6	1	.27	16.66
+ELRC-vaccination	v1	ParaCrawl	v7.1	360	2694760	0	0	0
 ELRC-vaccination	v1	CCMatrix	v1	360	1074570	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v5	360	774937	0	0	0
+ELRC-vaccination	v1	ParaCrawl	v4	360	354264	0	0	0
 ELRC-vaccination	v1	DGT	v2019	360	173204	0	0	0
 ELRC-vaccination	v1	KDE4	v2	360	98693	0	0	0
 ELRC-vaccination	v1	EUbookshop	v2	360	91074	0	0	0
 ELRC-vaccination	v1	ELRA-W0223	v1	360	68271	0	0	0
+ELRC-vaccination	v1	DGT	v4	360	38651	0	0	0
 ELRC-vaccination	v1	QED	v2.0a	360	17173	0	0	0
 ELRC-vaccination	v1	GNOME	v1	360	15602	0	0	0
 ELRC-vaccination	v1	EUconst	v1	360	6718	0	0	0

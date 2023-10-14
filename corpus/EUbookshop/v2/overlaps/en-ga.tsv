@@ -1,9 +1,18 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
+EUbookshop	v2	MultiParaCrawl	v7.1	91074	2694761	6198	6.80	.23
+EUbookshop	v2	ParaCrawl	v7.1	91074	2694760	6196	6.80	.22
 EUbookshop	v2	ParaCrawl	v9	91074	3245616	4850	5.32	.14
+EUbookshop	v2	ParaCrawl	v8	91074	1995660	4717	5.17	.23
+EUbookshop	v2	NLLB	v1	91074	22449475	4615	5.06	.02
+EUbookshop	v2	HPLT	v1	91074	994747	4293	4.71	.43
 EUbookshop	v2	EUconst	v1	91074	6718	2094	2.29	31.16
 EUbookshop	v2	DGT	v2019	91074	173204	493	.54	.28
+EUbookshop	v2	DGT	v4	91074	38651	474	.52	1.22
 EUbookshop	v2	KDE4	v2	91074	98693	76	.08	.07
+EUbookshop	v2	ParaCrawl	v5	91074	774937	28	.03	0
+EUbookshop	v2	wikimedia	v20230407	91074	19361	25	.02	.12
 EUbookshop	v2	GNOME	v1	91074	15602	21	.02	.13
+EUbookshop	v2	ParaCrawl	v4	91074	354264	14	.01	0
 EUbookshop	v2	wikimedia	v20210402	91074	9931	14	.01	.14
 EUbookshop	v2	CCMatrix	v1	91074	1074570	1	0	0
 EUbookshop	v2	XLEnt	v1.1	91074	170416	0	0	0
@@ -21,6 +30,7 @@ EUbookshop	v2	ELRC-2497-Tuarascil_Bhliantil_	v1	91074	2645	1	0	.03
 EUbookshop	v2	ELRC-801-Coimisineir_Teanga_R	v1	91074	2103	4	0	.19
 EUbookshop	v2	ELRA-W0230	v1	91074	2102	4	0	.19
 EUbookshop	v2	ELRC-2441-_Chonradh_don	v1	91074	1998	5	0	.25
+EUbookshop	v2	Tatoeba	v2023-04-12	91074	1993	4	0	.20
 EUbookshop	v2	Tatoeba	v2022-03-03	91074	1974	4	0	.20
 EUbookshop	v2	Tatoeba	v2021-07-22	91074	1941	4	0	.20
 EUbookshop	v2	Tatoeba	v2021-03-10	91074	1934	4	0	.20

@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 CCAligned	v1	MultiCCAligned	v1	8071579	8071736	8071579	100.00	99.99
+CCAligned	v1	HPLT	v1	8072306	12043070	124685	1.54	1.03
 CCAligned	v1	CCMatrix	v1	8071579	14907613	75916	.94	.50
 CCAligned	v1	NLLB	v1	8071579	33107118	28774	.35	.08
 CCAligned	v1	XLEnt	v1.1	8071579	1931465	28089	.34	1.45
@@ -39,6 +40,7 @@ CCAligned	v1	News-Commentary	v16	8071579	2574	1	0	.03
 CCAligned	v1	GlobalVoices	v2018q4	8071579	2385	8	0	.33
 CCAligned	v1	GlobalVoices	v2017q3	8071579	2284	7	0	.30
 CCAligned	v1	GlobalVoices	v2015	8071579	1839	7	0	.38
+CCAligned	v1	tldr-pages	v2023-08-29	8072306	485	1	0	.20
 CCAligned	v1	ELRC-3061-wikipedia_health	v1	8071579	246	2	0	.81
 CCAligned	v1	ELRC-wikipedia_health	v1	8071579	246	2	0	.81
 CCAligned	v1	ELRC_2922	v1	8071579	245	1	0	.40
