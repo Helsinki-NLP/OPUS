@@ -1,22 +1,43 @@
 ---
 bitexts:
+  ar-en:
+    alignments: 14645128
+    downloads:
+      alignments:
+        size: 157829876
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/ar-en.xml.gz
+      source language:
+        size: 860655864
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/ar.zip
+      target language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      tokenized source language:
+        size: 1904692614
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/ar.zip
+      tokenized target language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+    files: 147
+    source language tokens: 277019313
+    target language tokens: 281967605
   bs-en:
     alignments: 240012
     downloads:
       alignments:
-        size: 2581083
+        size: 2581403
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/bs-en.xml.gz
       source language:
         size: 8129496
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/bs.zip
       target language:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
       tokenized source language:
         size: 21396559
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/bs.zip
       tokenized target language:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
     files: 3
     source language tokens: 3316669
@@ -25,19 +46,19 @@ bitexts:
     alignments: 8905889
     downloads:
       alignments:
-        size: 92974659
+        size: 92974761
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/ca-en.xml.gz
       source language:
         size: 445433070
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/ca.zip
       target language:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
       tokenized source language:
         size: 1128651004
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/ca.zip
       tokenized target language:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
     files: 90
     source language tokens: 180472674
@@ -46,16 +67,16 @@ bitexts:
     alignments: 6089791
     downloads:
       alignments:
-        size: 65419569
+        size: 65419125
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-et.xml.gz
       source language:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
       target language:
         size: 289132125
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/et.zip
       tokenized source language:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
       tokenized target language:
         size: 649449924
@@ -63,20 +84,62 @@ bitexts:
     files: 61
     source language tokens: 111253243
     target language tokens: 91807532
+  en-eu:
+    alignments: 610687
+    downloads:
+      alignments:
+        size: 6744565
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-eu.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 30603515
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/eu.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 68677086
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/eu.zip
+    files: 7
+    source language tokens: 11648786
+    target language tokens: 10180570
+  en-fi:
+    alignments: 25176462
+    downloads:
+      alignments:
+        size: 270737721
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-fi.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 1128992323
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/fi.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 2382215532
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/fi.zip
+    files: 252
+    source language tokens: 397309528
+    target language tokens: 322158994
   en-ga:
     alignments: 994746
     downloads:
       alignments:
-        size: 10695810
+        size: 10696481
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-ga.xml.gz
       source language:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
       target language:
         size: 47845066
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/ga.zip
       tokenized source language:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
       tokenized target language:
         size: 125349702
@@ -84,20 +147,41 @@ bitexts:
     files: 10
     source language tokens: 18403480
     target language tokens: 20438506
+  en-gl:
+    alignments: 1063103
+    downloads:
+      alignments:
+        size: 11208290
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-gl.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 45150271
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/gl.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 108297667
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/gl.zip
+    files: 11
+    source language tokens: 16463557
+    target language tokens: 17117305
   en-hi:
     alignments: 12043069
     downloads:
       alignments:
-        size: 124746652
+        size: 124747525
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-hi.xml.gz
       source language:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
       target language:
         size: 698458522
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/hi.zip
       tokenized source language:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
       tokenized target language:
         size: 1700933648
@@ -109,16 +193,16 @@ bitexts:
     alignments: 9310275
     downloads:
       alignments:
-        size: 99514079
+        size: 99514230
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-hr.xml.gz
       source language:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
       target language:
         size: 451770409
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/hr.zip
       tokenized source language:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
       tokenized target language:
         size: 1042100010
@@ -126,20 +210,125 @@ bitexts:
     files: 94
     source language tokens: 161752964
     target language tokens: 155023933
+  en-is:
+    alignments: 2148854
+    downloads:
+      alignments:
+        size: 22922940
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-is.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 80644910
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/is.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 213251538
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/is.zip
+    files: 22
+    source language tokens: 33142449
+    target language tokens: 33030512
+  en-mk:
+    alignments: 1139051
+    downloads:
+      alignments:
+        size: 12092474
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-mk.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 70838804
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/mk.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 148509050
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/mk.zip
+    files: 12
+    source language tokens: 21424992
+    target language tokens: 21422078
+  en-mt:
+    alignments: 854820
+    downloads:
+      alignments:
+        size: 8309877
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-mt.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 56559982
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/mt.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 165348932
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/mt.zip
+    files: 9
+    source language tokens: 21776120
+    target language tokens: 28144231
+  en-nn:
+    alignments: 132538
+    downloads:
+      alignments:
+        size: 1453398
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-nn.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 6200829
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/nn.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 14790766
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/nn.zip
+    files: 2
+    source language tokens: 2462944
+    target language tokens: 2321483
+  en-sq:
+    alignments: 1655958
+    downloads:
+      alignments:
+        size: 17586323
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-sq.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 82940779
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/sq.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 201588615
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/sq.zip
+    files: 17
+    source language tokens: 29420030
+    target language tokens: 32040386
   en-sr:
     alignments: 555003
     downloads:
       alignments:
-        size: 5939706
+        size: 5957502
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-sr.xml.gz
       source language:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
       target language:
         size: 20096957
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/sr.zip
       tokenized source language:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
       tokenized target language:
         size: 49570454
@@ -151,16 +340,16 @@ bitexts:
     alignments: 1710205
     downloads:
       alignments:
-        size: 18570014
+        size: 18569815
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-sw.xml.gz
       source language:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
       target language:
         size: 53399927
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/sw.zip
       tokenized source language:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
       tokenized target language:
         size: 149727924
@@ -168,7 +357,48 @@ bitexts:
     files: 18
     source language tokens: 24834836
     target language tokens: 25838262
+  en-zh_hant:
+    alignments: 5306570
+    downloads:
+      alignments:
+        size: 57553436
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en-zh_hant.xml.gz
+      source language:
+        size: 4110550401
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
+      target language:
+        size: 279640461
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/zh_hant.zip
+      tokenized source language:
+        size: 342
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
+      tokenized target language:
+        size: 717269323
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/zh_hant.zip
+    files: 54
+    source language tokens: 98413508
+    target language tokens: 106742113
 monolingual:
+  ar:
+    downloads:
+      frequency list:
+        size: 13112815
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/ar.freq.gz
+      plain text:
+        size: 801246102
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/ar.txt.gz
+      tokenized text:
+        size: 805583687
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/ar.tok.gz
+      tokenized xml:
+        size: 1904692614
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/ar.zip
+      xml:
+        size: 860655864
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/ar.zip
+    files: 147
+    sentences: 14746494
+    tokens: 277019313
   bs:
     downloads:
       frequency list:
@@ -212,23 +442,23 @@ monolingual:
   en:
     downloads:
       frequency list:
-        size: 24071817
+        size: 41699194
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/en.freq.gz
       plain text:
-        size: 1568463785
+        size: 3668141042
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/en.txt.gz
       tokenized text:
-        size: 1579173406
+        size: 3694055712
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/en.tok.gz
       tokenized xml:
-        size: 4318254829
+        size: 342
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/en.zip
       xml:
-        size: 1755400196
+        size: 4110550401
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/en.zip
-    files: 403
-    sentences: 41560811
-    tokens: 686995291
+    files: 936
+    sentences: 97401165
+    tokens: 1601024810
   et:
     downloads:
       frequency list:
@@ -249,6 +479,46 @@ monolingual:
     files: 61
     sentences: 6322762
     tokens: 91807532
+  eu:
+    downloads:
+      frequency list:
+        size: 1847400
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/eu.freq.gz
+      plain text:
+        size: 27631585
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/eu.txt.gz
+      tokenized text:
+        size: 27907500
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/eu.tok.gz
+      tokenized xml:
+        size: 68677086
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/eu.zip
+      xml:
+        size: 30603515
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/eu.zip
+    files: 7
+    sentences: 650421
+    tokens: 10180570
+  fi:
+    downloads:
+      frequency list:
+        size: 34209049
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/fi.freq.gz
+      plain text:
+        size: 1009830601
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/fi.txt.gz
+      tokenized text:
+        size: 1016912226
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/fi.tok.gz
+      tokenized xml:
+        size: 2382215532
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/fi.zip
+      xml:
+        size: 1128992323
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/fi.zip
+    files: 252
+    sentences: 26003075
+    tokens: 322158994
   ga:
     downloads:
       frequency list:
@@ -269,10 +539,30 @@ monolingual:
     files: 10
     sentences: 1018796
     tokens: 20438506
+  gl:
+    downloads:
+      frequency list:
+        size: 1960745
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/gl.freq.gz
+      plain text:
+        size: 40377177
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/gl.txt.gz
+      tokenized text:
+        size: 40646251
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/gl.tok.gz
+      tokenized xml:
+        size: 108297667
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/gl.zip
+      xml:
+        size: 45150271
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/gl.zip
+    files: 11
+    sentences: 1088989
+    tokens: 17117305
   hi:
     downloads:
       frequency list:
-        size: 10
+        size: 9836567
         url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/hi.freq.gz
       plain text:
         size: 653721385
@@ -309,6 +599,106 @@ monolingual:
     files: 94
     sentences: 9661189
     tokens: 155023933
+  is:
+    downloads:
+      frequency list:
+        size: 3531209
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/is.freq.gz
+      plain text:
+        size: 71077535
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/is.txt.gz
+      tokenized text:
+        size: 71534031
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/is.tok.gz
+      tokenized xml:
+        size: 213251538
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/is.zip
+      xml:
+        size: 80644910
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/is.zip
+    files: 22
+    sentences: 2211001
+    tokens: 33030512
+  mk:
+    downloads:
+      frequency list:
+        size: 2729375
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/mk.freq.gz
+      plain text:
+        size: 66130383
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/mk.txt.gz
+      tokenized text:
+        size: 66547500
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/mk.tok.gz
+      tokenized xml:
+        size: 148509050
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/mk.zip
+      xml:
+        size: 70838804
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/mk.zip
+    files: 12
+    sentences: 1182154
+    tokens: 21422078
+  mt:
+    downloads:
+      frequency list:
+        size: 1442770
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/mt.freq.gz
+      plain text:
+        size: 52723001
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/mt.txt.gz
+      tokenized text:
+        size: 54087449
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/mt.tok.gz
+      tokenized xml:
+        size: 165348932
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/mt.zip
+      xml:
+        size: 56559982
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/mt.zip
+    files: 9
+    sentences: 877317
+    tokens: 28144231
+  nn:
+    downloads:
+      frequency list:
+        size: 673579
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/nn.freq.gz
+      plain text:
+        size: 5573970
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/nn.txt.gz
+      tokenized text:
+        size: 5614852
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/nn.tok.gz
+      tokenized xml:
+        size: 14790766
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/nn.zip
+      xml:
+        size: 6200829
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/nn.zip
+    files: 2
+    sentences: 138832
+    tokens: 2321483
+  sq:
+    downloads:
+      frequency list:
+        size: 2414551
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/sq.freq.gz
+      plain text:
+        size: 75431852
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/sq.txt.gz
+      tokenized text:
+        size: 75916845
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/sq.tok.gz
+      tokenized xml:
+        size: 201588615
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/sq.zip
+      xml:
+        size: 82940779
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/sq.zip
+    files: 17
+    sentences: 1696203
+    tokens: 32040386
   sr:
     downloads:
       frequency list:
@@ -349,10 +739,36 @@ monolingual:
     files: 18
     sentences: 1761629
     tokens: 25838262
+  zh_hant:
+    downloads:
+      frequency list:
+        size: 5009715
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/freq/zh_hant.freq.gz
+      plain text:
+        size: 253967701
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/zh_hant.txt.gz
+      tokenized text:
+        size: 264537244
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/mono/zh_hant.tok.gz
+      tokenized xml:
+        size: 717269323
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/xml/zh_hant.zip
+      xml:
+        size: 279640461
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v1/raw/zh_hant.zip
+    files: 54
+    sentences: 5321010
+    tokens: 106742113
 moses:
+  ar-en:
+    alignments: 14645275
+    download size: 1507315700
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/ar-en.txt.zip
+    source language tokens: 234055523
+    target language tokens: 239377441
   bs-en:
     alignments: 240015
-    download size: 14978718
+    download size: 14978719
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/bs-en.txt.zip
     source language tokens: 2642719
     target language tokens: 2705525
@@ -368,12 +784,30 @@ moses:
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-et.txt.zip
     source language tokens: 95943555
     target language tokens: 76450230
+  en-eu:
+    alignments: 610694
+    download size: 57909627
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-eu.txt.zip
+    source language tokens: 9964617
+    target language tokens: 8003536
+  en-fi:
+    alignments: 25176714
+    download size: 2079769422
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-fi.txt.zip
+    source language tokens: 338063307
+    target language tokens: 265328397
   en-ga:
     alignments: 994756
-    download size: 86999506
+    download size: 86999507
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-ga.txt.zip
     source language tokens: 16327484
     target language tokens: 18375718
+  en-gl:
+    alignments: 1063114
+    download size: 84243541
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-gl.txt.zip
+    source language tokens: 13904758
+    target language tokens: 14501490
   en-hi:
     alignments: 12043190
     download size: 1168959078
@@ -386,9 +820,39 @@ moses:
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-hr.txt.zip
     source language tokens: 138360661
     target language tokens: 129575981
+  en-is:
+    alignments: 2148876
+    download size: 146869226
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-is.txt.zip
+    source language tokens: 29493241
+    target language tokens: 29644522
+  en-mk:
+    alignments: 1139063
+    download size: 122175239
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-mk.txt.zip
+    source language tokens: 18562461
+    target language tokens: 18410694
+  en-mt:
+    alignments: 854829
+    download size: 103867829
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-mt.txt.zip
+    source language tokens: 18819145
+    target language tokens: 16411256
+  en-nn:
+    alignments: 132540
+    download size: 11853269
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-nn.txt.zip
+    source language tokens: 2087614
+    target language tokens: 1932126
+  en-sq:
+    alignments: 1655975
+    download size: 151324870
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-sq.txt.zip
+    source language tokens: 25831054
+    target language tokens: 27843537
   en-sr:
     alignments: 555009
-    download size: 36513519
+    download size: 36513520
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-sr.txt.zip
     source language tokens: 6091439
     target language tokens: 5984457
@@ -398,52 +862,118 @@ moses:
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-sw.txt.zip
     source language tokens: 20039611
     target language tokens: 20998051
+  en-zh_hant:
+    alignments: 5306624
+    download size: 508089266
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/moses/en-zh_hant.txt.zip
+    source language tokens: 84111039
+    target language tokens: 27157030
 tmx:
+  ar-en:
+    download size: 352
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/ar-en.tmx.gz
+    source language tokens: 29290256
+    target language tokens: 29290256
+    translation units: 14645128
   bs-en:
-    download size: 59034919
+    download size: 15766243
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/bs-en.tmx.gz
-    source language tokens: 480024
-    target language tokens: 480024
-    translation units: 240012
+    source language tokens: 2642719
+    target language tokens: 2705525
+    translation units: 240013
   ca-en:
-    download size: 3569941170
+    download size: 840281272
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/ca-en.tmx.gz
-    source language tokens: 17811778
-    target language tokens: 17811778
-    translation units: 8905889
+    source language tokens: 149862069
+    target language tokens: 141859162
+    translation units: 8905890
   en-et:
-    download size: 2710683256
+    download size: 562768258
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-et.tmx.gz
-    source language tokens: 12179582
-    target language tokens: 12179582
-    translation units: 6089791
+    source language tokens: 95943383
+    target language tokens: 76450101
+    translation units: 6089749
+  en-eu:
+    download size: 176890087
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-eu.tmx.gz
+    source language tokens: 1221374
+    target language tokens: 1221374
+    translation units: 610687
+  en-fi:
+    download size: 708
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-fi.tmx.gz
+    source language tokens: 50352924
+    target language tokens: 50352924
+    translation units: 25176462
   en-ga:
-    download size: 621798955
+    download size: 93539104
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-ga.tmx.gz
-    source language tokens: 1989492
-    target language tokens: 1989492
-    translation units: 994746
+    source language tokens: 16327484
+    target language tokens: 18375718
+    translation units: 994747
+  en-gl:
+    download size: 279085913
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-gl.tmx.gz
+    source language tokens: 2126206
+    target language tokens: 2126206
+    translation units: 1063103
   en-hi:
-    download size: 4814000484
+    download size: 1219198988
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-hi.tmx.gz
-    source language tokens: 24086138
-    target language tokens: 24086138
-    translation units: 12043069
+    source language tokens: 165139332
+    target language tokens: 186150994
+    translation units: 12043054
   en-hr:
-    download size: 4579013264
+    download size: 872515336
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-hr.tmx.gz
-    source language tokens: 18620550
-    target language tokens: 18620550
-    translation units: 9310275
+    source language tokens: 138360520
+    target language tokens: 129575841
+    translation units: 9310243
+  en-is:
+    download size: 849707080
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-is.tmx.gz
+    source language tokens: 4297708
+    target language tokens: 4297708
+    translation units: 2148854
+  en-mk:
+    download size: 643290076
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-mk.tmx.gz
+    source language tokens: 2278102
+    target language tokens: 2278102
+    translation units: 1139051
+  en-mt:
+    download size: 382543568
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-mt.tmx.gz
+    source language tokens: 1709640
+    target language tokens: 1709640
+    translation units: 854820
+  en-nn:
+    download size: 32528368
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-nn.tmx.gz
+    source language tokens: 265076
+    target language tokens: 265076
+    translation units: 132538
+  en-sq:
+    download size: 720556810
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-sq.tmx.gz
+    source language tokens: 3311916
+    target language tokens: 3311916
+    translation units: 1655958
   en-sr:
-    download size: 334769050
+    download size: 35862011
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-sr.tmx.gz
-    source language tokens: 1110006
-    target language tokens: 1110006
-    translation units: 555003
+    source language tokens: 6091439
+    target language tokens: 5984457
+    translation units: 555004
   en-sw:
-    download size: 498076238
+    download size: 95131781
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-sw.tmx.gz
-    source language tokens: 3420410
-    target language tokens: 3420410
-    translation units: 1710205
+    source language tokens: 20039611
+    target language tokens: 20998051
+    translation units: 1710206
+  en-zh_hant:
+    download size: 539628221
+    download url: https://object.pouta.csc.fi/OPUS-HPLT/v1/tmx/en-zh_hant.tmx.gz
+    source language tokens: 84110985
+    target language tokens: 27156981
+    translation units: 5306562
