@@ -1,0 +1,174 @@
+ Corpus Name: MaCoCu
+     Website: http://opus.nlpl.eu/MaCoCu-v2.php
+     Release: v2
+Release date: Fri Oct 27 12:29:19 EEST 2023
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, acknowledge the MaCoCu project at <a href="https://macocu.eu">https://macocu.eu</a>. This version is derived from the original release at their website adjusted for redistribution via the OPUS corpus collection. Please, acknowledge OPUS as well for this service.
+
+The MaCoCu project collected monolingual and parallel data from the Internet, especially for under-resourced languages and DSI-specific data. Parallel texts have been extracted using the bitextor toolbox.
+The data packaging is licensed under the Creative Commons CC0 license ("no rights reserved"), see https://macocu.eu for more details
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+MaCoCu/v2/freq/bg.freq.gz
+MaCoCu/v2/freq/bs_Cyrl.freq.gz
+MaCoCu/v2/freq/bs_Latn.freq.gz
+MaCoCu/v2/freq/ca.freq.gz
+MaCoCu/v2/freq/el.freq.gz
+MaCoCu/v2/freq/en.freq.gz
+MaCoCu/v2/freq/hr.freq.gz
+MaCoCu/v2/freq/is.freq.gz
+MaCoCu/v2/freq/me_Cyrl.freq.gz
+MaCoCu/v2/freq/me_Latn.freq.gz
+MaCoCu/v2/freq/mk.freq.gz
+MaCoCu/v2/freq/mt.freq.gz
+MaCoCu/v2/freq/sl.freq.gz
+MaCoCu/v2/freq/sq.freq.gz
+MaCoCu/v2/freq/sr_Cyrl.freq.gz
+MaCoCu/v2/freq/sr_Latn.freq.gz
+MaCoCu/v2/freq/tr.freq.gz
+MaCoCu/v2/freq/uk.freq.gz
+MaCoCu/v2/mono/bg.tok.gz
+MaCoCu/v2/mono/bg.txt.gz
+MaCoCu/v2/mono/bs_cyrillic.txt.gz
+MaCoCu/v2/mono/bs_Cyrl.tok.gz
+MaCoCu/v2/mono/bs_Cyrl.txt.gz
+MaCoCu/v2/mono/bs_latin.txt.gz
+MaCoCu/v2/mono/bs_Latn.tok.gz
+MaCoCu/v2/mono/bs_Latn.txt.gz
+MaCoCu/v2/mono/ca.tok.gz
+MaCoCu/v2/mono/ca.txt.gz
+MaCoCu/v2/mono/el.tok.gz
+MaCoCu/v2/mono/el.txt.gz
+MaCoCu/v2/mono/en.tok.gz
+MaCoCu/v2/mono/en.txt.gz
+MaCoCu/v2/mono/hr.tok.gz
+MaCoCu/v2/mono/hr.txt.gz
+MaCoCu/v2/mono/is.tok.gz
+MaCoCu/v2/mono/is.txt.gz
+MaCoCu/v2/mono/me_cyrillic.txt.gz
+MaCoCu/v2/mono/me_Cyrl.tok.gz
+MaCoCu/v2/mono/me_Cyrl.txt.gz
+MaCoCu/v2/mono/me_latin.txt.gz
+MaCoCu/v2/mono/me_Latn.tok.gz
+MaCoCu/v2/mono/me_Latn.txt.gz
+MaCoCu/v2/mono/mk.tok.gz
+MaCoCu/v2/mono/mk.txt.gz
+MaCoCu/v2/mono/mt.tok.gz
+MaCoCu/v2/mono/mt.txt.gz
+MaCoCu/v2/mono/sl.tok.gz
+MaCoCu/v2/mono/sl.txt.gz
+MaCoCu/v2/mono/sq.tok.gz
+MaCoCu/v2/mono/sq.txt.gz
+MaCoCu/v2/mono/sr_Cyrl.tok.gz
+MaCoCu/v2/mono/sr_Cyrl.txt.gz
+MaCoCu/v2/mono/sr_Latn.tok.gz
+MaCoCu/v2/mono/sr_Latn.txt.gz
+MaCoCu/v2/mono/tr.tok.gz
+MaCoCu/v2/mono/tr.txt.gz
+MaCoCu/v2/mono/uk.tok.gz
+MaCoCu/v2/mono/uk.txt.gz
+MaCoCu/v2/moses/bg-en.txt.zip
+MaCoCu/v2/moses/bs_cyrillic-en.txt.zip
+MaCoCu/v2/moses/bs_Cyrl-en.txt.zip
+MaCoCu/v2/moses/bs_latin-en.txt.zip
+MaCoCu/v2/moses/bs_Latn-en.txt.zip
+MaCoCu/v2/moses/ca-en.txt.zip
+MaCoCu/v2/moses/el-en.txt.zip
+MaCoCu/v2/moses/en-hr_latin.txt.zip
+MaCoCu/v2/moses/en-hr.txt.zip
+MaCoCu/v2/moses/en-is.txt.zip
+MaCoCu/v2/moses/en-me_cyrillic.txt.zip
+MaCoCu/v2/moses/en-me_Cyrl.txt.zip
+MaCoCu/v2/moses/en-me_latin.txt.zip
+MaCoCu/v2/moses/en-me_Latn.txt.zip
+MaCoCu/v2/moses/en-mk.txt.zip
+MaCoCu/v2/moses/en-mt.txt.zip
+MaCoCu/v2/moses/en-sl.txt.zip
+MaCoCu/v2/moses/en-sq.txt.zip
+MaCoCu/v2/moses/en-sr_cyrillic.txt.zip
+MaCoCu/v2/moses/en-sr_Cyrl.txt.zip
+MaCoCu/v2/moses/en-sr_latin.txt.zip
+MaCoCu/v2/moses/en-sr_Latn.txt.zip
+MaCoCu/v2/moses/en-tr.txt.zip
+MaCoCu/v2/moses/en-uk.txt.zip
+MaCoCu/v2/raw/bg.zip
+MaCoCu/v2/raw/bs_cyrillic.zip
+MaCoCu/v2/raw/bs_Cyrl.zip
+MaCoCu/v2/raw/bs_latin.zip
+MaCoCu/v2/raw/bs_Latn.zip
+MaCoCu/v2/raw/ca.zip
+MaCoCu/v2/raw/el.zip
+MaCoCu/v2/raw/en.zip
+MaCoCu/v2/raw/hr_latin.zip
+MaCoCu/v2/raw/hr.zip
+MaCoCu/v2/raw/is.zip
+MaCoCu/v2/raw/me_cyrillic.zip
+MaCoCu/v2/raw/me_Cyrl.zip
+MaCoCu/v2/raw/me_latin.zip
+MaCoCu/v2/raw/me_Latn.zip
+MaCoCu/v2/raw/mk.zip
+MaCoCu/v2/raw/mt.zip
+MaCoCu/v2/raw/sl.zip
+MaCoCu/v2/raw/sq.zip
+MaCoCu/v2/raw/sr_cyrillic.zip
+MaCoCu/v2/raw/sr_Cyrl.zip
+MaCoCu/v2/raw/sr_latin.zip
+MaCoCu/v2/raw/sr_Latn.zip
+MaCoCu/v2/raw/tr.zip
+MaCoCu/v2/raw/uk.zip
+MaCoCu/v2/tmx/bg-en.tmx.gz
+MaCoCu/v2/tmx/bs_Cyrl-en.tmx.gz
+MaCoCu/v2/tmx/bs_Latn-en.tmx.gz
+MaCoCu/v2/tmx/ca-en.tmx.gz
+MaCoCu/v2/tmx/el-en.tmx.gz
+MaCoCu/v2/tmx/en-hr.tmx.gz
+MaCoCu/v2/tmx/en-is.tmx.gz
+MaCoCu/v2/tmx/en-me_Cyrl.tmx.gz
+MaCoCu/v2/tmx/en-me_Latn.tmx.gz
+MaCoCu/v2/tmx/en-mk.tmx.gz
+MaCoCu/v2/tmx/en-mt.tmx.gz
+MaCoCu/v2/tmx/en-sl.tmx.gz
+MaCoCu/v2/tmx/en-sq.tmx.gz
+MaCoCu/v2/tmx/en-sr_Cyrl.tmx.gz
+MaCoCu/v2/tmx/en-sr_Latn.tmx.gz
+MaCoCu/v2/tmx/en-tr.tmx.gz
+MaCoCu/v2/tmx/en-uk.tmx.gz
+MaCoCu/v2/xml/bg.zip
+MaCoCu/v2/xml/bs_cyrillic.zip
+MaCoCu/v2/xml/bs_Cyrl.zip
+MaCoCu/v2/xml/bs_latin.zip
+MaCoCu/v2/xml/bs_Latn.zip
+MaCoCu/v2/xml/ca.zip
+MaCoCu/v2/xml/el.zip
+MaCoCu/v2/xml/en.zip
+MaCoCu/v2/xml/hr_latin.zip
+MaCoCu/v2/xml/hr.zip
+MaCoCu/v2/xml/is.zip
+MaCoCu/v2/xml/me_cyrillic.zip
+MaCoCu/v2/xml/me_Cyrl.zip
+MaCoCu/v2/xml/me_latin.zip
+MaCoCu/v2/xml/me_Latn.zip
+MaCoCu/v2/xml/mk.zip
+MaCoCu/v2/xml/mt.zip
+MaCoCu/v2/xml/sl.zip
+MaCoCu/v2/xml/sq.zip
+MaCoCu/v2/xml/sr_cyrillic.zip
+MaCoCu/v2/xml/sr_Cyrl.zip
+MaCoCu/v2/xml/sr_latin.zip
+MaCoCu/v2/xml/sr_Latn.zip
+MaCoCu/v2/xml/tr.zip
+MaCoCu/v2/xml/uk.zip

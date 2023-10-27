@@ -1164,6 +1164,7 @@
 | [komi](http://opus.nlpl.eu/komi.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/komi/v1)  |
 | [LinguaTools-WikiTitles](http://opus.nlpl.eu/LinguaTools-WikiTitles.php) | [v2014](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/LinguaTools-WikiTitles/v2014)  |
 | [liv4ever](http://opus.nlpl.eu/liv4ever.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/liv4ever/v1)  |
+| [MaCoCu](http://opus.nlpl.eu/MaCoCu.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MaCoCu/v2)  |
 | [MBS](http://opus.nlpl.eu/MBS.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MBS/v1)  |
 | [MDN_Web_Docs](http://opus.nlpl.eu/MDN_Web_Docs-v2023-09.php) | [v2023-09-25](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MDN_Web_Docs/v2023-09-25)  |
 | [memat](http://opus.nlpl.eu/memat.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/memat/v1)  |
