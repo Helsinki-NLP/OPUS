@@ -33,7 +33,7 @@ cleanup:
 info/RELEASES.tsv: corpus
 	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'release date:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.corpus
-	cut -f3- -d: $@.1 | cut -f3 -d/ | \
+	cut -f3- -d: $@.1 | \
 		sed 's/unknown/1900-01-01/' |\
 		sed 's/^ /date +%F --date="/;s/$$/"/' > $@.date.sh
 	chmod +x $@.date.sh
@@ -41,7 +41,7 @@ info/RELEASES.tsv: corpus
 	paste $@.corpus $@.date | sort -k1,1 -u > $@.releases
 	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'license:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
-	cut -f3- -d: $@.1 | sed 's/^ *//' | tr "\t" ' ' > $@.3
+	cut -f3- -d: $@.1 | sed 's/^ *//' | tr "\t" ' ' | sed 's/<[^>]*>//g' > $@.3
 	paste $@.2 $@.3 | sort -k1,1 -u > $@.license
 	find corpus/ -mindepth 3 -name info.yaml | xargs grep 'alignments:' > $@.1
 	cut -f1 -d: $@.1 | cut -f2,3 -d/ > $@.2
