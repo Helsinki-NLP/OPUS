@@ -1,0 +1,120 @@
+ Corpus Name: MultiHPLT
+     Website: http://opus.nlpl.eu/MultiHPLT-v1.1.php
+     Release: v1.1
+Release date: Wed Nov  1 21:29:35 EET 2023
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, acknowledge the HPLT project at <a href="https://hplt-project.org">https://hplt-project.org</a>. This version is derived from the original release at their website adjusted for redistribution via the OPUS corpus collection. Please, acknowledge OPUS as well for this service.
+
+Parallel corpora from Web Crawls collected in the HPLT project and further processed for making it a multi-parallel corpus by pivoting via English. Here we provide the additional language pairs that came out of pivoting. The bitexts for English are the same as the ones in the original HPLT release.
+The data packaging is released under the Creative Commons CC0 license ("no rights reserved"), see https://hplt-project.org for more details
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+MultiHPLT/v1.1/freq/ar.freq.gz
+MultiHPLT/v1.1/freq/bs.freq.gz
+MultiHPLT/v1.1/freq/ca.freq.gz
+MultiHPLT/v1.1/freq/en.freq.gz
+MultiHPLT/v1.1/freq/et.freq.gz
+MultiHPLT/v1.1/freq/eu.freq.gz
+MultiHPLT/v1.1/freq/fi.freq.gz
+MultiHPLT/v1.1/freq/ga.freq.gz
+MultiHPLT/v1.1/freq/gl.freq.gz
+MultiHPLT/v1.1/freq/hi.freq.gz
+MultiHPLT/v1.1/freq/hr.freq.gz
+MultiHPLT/v1.1/freq/is.freq.gz
+MultiHPLT/v1.1/freq/mk.freq.gz
+MultiHPLT/v1.1/freq/mt.freq.gz
+MultiHPLT/v1.1/freq/nn.freq.gz
+MultiHPLT/v1.1/freq/sq.freq.gz
+MultiHPLT/v1.1/freq/sr.freq.gz
+MultiHPLT/v1.1/freq/sw.freq.gz
+MultiHPLT/v1.1/freq/zh_hant.freq.gz
+MultiHPLT/v1.1/mono/ar.tok.gz
+MultiHPLT/v1.1/mono/ar.txt.gz
+MultiHPLT/v1.1/mono/bs.tok.gz
+MultiHPLT/v1.1/mono/bs.txt.gz
+MultiHPLT/v1.1/mono/ca.tok.gz
+MultiHPLT/v1.1/mono/ca.txt.gz
+MultiHPLT/v1.1/mono/en.tok.gz
+MultiHPLT/v1.1/mono/en.txt.gz
+MultiHPLT/v1.1/mono/et.tok.gz
+MultiHPLT/v1.1/mono/et.txt.gz
+MultiHPLT/v1.1/mono/eu.tok.gz
+MultiHPLT/v1.1/mono/eu.txt.gz
+MultiHPLT/v1.1/mono/fi.tok.gz
+MultiHPLT/v1.1/mono/fi.txt.gz
+MultiHPLT/v1.1/mono/ga.tok.gz
+MultiHPLT/v1.1/mono/ga.txt.gz
+MultiHPLT/v1.1/mono/gl.tok.gz
+MultiHPLT/v1.1/mono/gl.txt.gz
+MultiHPLT/v1.1/mono/hi.tok.gz
+MultiHPLT/v1.1/mono/hi.txt.gz
+MultiHPLT/v1.1/mono/hr.tok.gz
+MultiHPLT/v1.1/mono/hr.txt.gz
+MultiHPLT/v1.1/mono/is.tok.gz
+MultiHPLT/v1.1/mono/is.txt.gz
+MultiHPLT/v1.1/mono/mk.tok.gz
+MultiHPLT/v1.1/mono/mk.txt.gz
+MultiHPLT/v1.1/mono/mt.tok.gz
+MultiHPLT/v1.1/mono/mt.txt.gz
+MultiHPLT/v1.1/mono/nn.tok.gz
+MultiHPLT/v1.1/mono/nn.txt.gz
+MultiHPLT/v1.1/mono/sq.tok.gz
+MultiHPLT/v1.1/mono/sq.txt.gz
+MultiHPLT/v1.1/mono/sr.tok.gz
+MultiHPLT/v1.1/mono/sr.txt.gz
+MultiHPLT/v1.1/mono/sw.tok.gz
+MultiHPLT/v1.1/mono/sw.txt.gz
+MultiHPLT/v1.1/mono/zh_hant.tok.gz
+MultiHPLT/v1.1/mono/zh_hant.txt.gz
+MultiHPLT/v1.1/raw/ar.zip
+MultiHPLT/v1.1/raw/bs.zip
+MultiHPLT/v1.1/raw/ca.zip
+MultiHPLT/v1.1/raw/en.zip
+MultiHPLT/v1.1/raw/et.zip
+MultiHPLT/v1.1/raw/eu.zip
+MultiHPLT/v1.1/raw/fi.zip
+MultiHPLT/v1.1/raw/ga.zip
+MultiHPLT/v1.1/raw/gl.zip
+MultiHPLT/v1.1/raw/hi.zip
+MultiHPLT/v1.1/raw/hr.zip
+MultiHPLT/v1.1/raw/is.zip
+MultiHPLT/v1.1/raw/mk.zip
+MultiHPLT/v1.1/raw/mt.zip
+MultiHPLT/v1.1/raw/nn.zip
+MultiHPLT/v1.1/raw/sq.zip
+MultiHPLT/v1.1/raw/sr.zip
+MultiHPLT/v1.1/raw/sw.zip
+MultiHPLT/v1.1/raw/zh_hant.zip
+MultiHPLT/v1.1/xml/ar.zip
+MultiHPLT/v1.1/xml/bs.zip
+MultiHPLT/v1.1/xml/ca.zip
+MultiHPLT/v1.1/xml/en.zip
+MultiHPLT/v1.1/xml/et.zip
+MultiHPLT/v1.1/xml/eu.zip
+MultiHPLT/v1.1/xml/fi.zip
+MultiHPLT/v1.1/xml/ga.zip
+MultiHPLT/v1.1/xml/gl.zip
+MultiHPLT/v1.1/xml/hi.zip
+MultiHPLT/v1.1/xml/hr.zip
+MultiHPLT/v1.1/xml/is.zip
+MultiHPLT/v1.1/xml/mk.zip
+MultiHPLT/v1.1/xml/mt.zip
+MultiHPLT/v1.1/xml/nn.zip
+MultiHPLT/v1.1/xml/sq.zip
+MultiHPLT/v1.1/xml/sr.zip
+MultiHPLT/v1.1/xml/sw.zip
+MultiHPLT/v1.1/xml/zh_hant.zip
