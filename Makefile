@@ -142,12 +142,12 @@ commit:
 	find corpus -name 'INFO' -exec git add {} \;
 	find corpus -name 'CONTACT*' -exec git add {} \;
 	find corpus -name 'CITATION*' -exec git git add {} \;
-	find corpus -name '*.tsv' | xargs git add
-	find corpus -name '*.yaml' | xargs git add
-	git add corpus/*/*.txt
-	git add corpus/*/*.info
-	git add corpus/*/.released*
-	git add corpus/*/.uploaded*
+	find corpus -name '*.tsv' | xargs -n 1000 git add
+	find corpus -name '*.yaml' | xargs -n 1000 git add
+	find  corpus -mindepth 2 -maxdepth 2 -name '*.txt' | xargs -n 1000 git add
+	find  corpus -mindepth 2 -maxdepth 2 -name '*.info' | xargs -n 1000 git add
+	find  corpus -mindepth 2 -maxdepth 2 -name '.released*' | xargs -n 1000 git add
+	find  corpus -mindepth 2 -maxdepth 2 -name '.uploaded*' | xargs -n 1000 git add
 	git add *.md
 	git commit -am 'corpus update'
 
