@@ -1,0 +1,179 @@
+ Corpus Name: ParaCrawl-Bonus
+     Website: http://opus.nlpl.eu/ParaCrawl-Bonus-v9.php
+     Release: v9
+Release date: Tue Dec 17 08:51:36 EET 2024
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please, acknowledge the ParaCrawl project at <a href="http://paracrawl.eu">http://paracrawl.eu</a>. This version is derived from the original release at their website adjusted for redistribution via the OPUS corpus collection. More information about the releases on South and East Asian Languages can be found in <a href="https://aclanthology.org/2024.wmt-1.132/">Philipp Koehn: Neural Methods for Aligning Large-Scale Parallel Corpora from the Web for South and East Asian Languages</a>. Please, acknowledge OPUS as well for this service.
+
+Parallel corpora from Web Crawls collected in the ParaCrawl project (bonus releases)
+The data is released under the Creative Commons CC0 license ("no rights reserved"), see http://paracrawl.eu/download.html for more details
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+parsed .... parsed corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+tmx ....... bitexts in TMX format
+freq ...... token frequencies
+smt ....... word alignments and phrase translation tables
+dic ....... bilingual dictionaries extracted from word alignments
+-----------------------------
+Files in this release
+-----------------------------
+ParaCrawl-Bonus/v9/freq/az.freq.gz
+ParaCrawl-Bonus/v9/freq/cs.freq.gz
+ParaCrawl-Bonus/v9/freq/de.freq.gz
+ParaCrawl-Bonus/v9/freq/en.freq.gz
+ParaCrawl-Bonus/v9/freq/fr.freq.gz
+ParaCrawl-Bonus/v9/freq/hi.freq.gz
+ParaCrawl-Bonus/v9/freq/hy.freq.gz
+ParaCrawl-Bonus/v9/freq/id.freq.gz
+ParaCrawl-Bonus/v9/freq/km.freq.gz
+ParaCrawl-Bonus/v9/freq/ko.freq.gz
+ParaCrawl-Bonus/v9/freq/lo.freq.gz
+ParaCrawl-Bonus/v9/freq/my.freq.gz
+ParaCrawl-Bonus/v9/freq/ne.freq.gz
+ParaCrawl-Bonus/v9/freq/nl.freq.gz
+ParaCrawl-Bonus/v9/freq/pl.freq.gz
+ParaCrawl-Bonus/v9/freq/ps.freq.gz
+ParaCrawl-Bonus/v9/freq/ru.freq.gz
+ParaCrawl-Bonus/v9/freq/si.freq.gz
+ParaCrawl-Bonus/v9/freq/so.freq.gz
+ParaCrawl-Bonus/v9/freq/sw.freq.gz
+ParaCrawl-Bonus/v9/freq/tg.freq.gz
+ParaCrawl-Bonus/v9/freq/th.freq.gz
+ParaCrawl-Bonus/v9/freq/tl.freq.gz
+ParaCrawl-Bonus/v9/freq/uk.freq.gz
+ParaCrawl-Bonus/v9/freq/vi.freq.gz
+ParaCrawl-Bonus/v9/freq/zh.freq.gz
+ParaCrawl-Bonus/v9/mono/az.tok.gz
+ParaCrawl-Bonus/v9/mono/az.txt.gz
+ParaCrawl-Bonus/v9/mono/cs.tok.gz
+ParaCrawl-Bonus/v9/mono/cs.txt.gz
+ParaCrawl-Bonus/v9/mono/de.tok.gz
+ParaCrawl-Bonus/v9/mono/de.txt.gz
+ParaCrawl-Bonus/v9/mono/en.tok.gz
+ParaCrawl-Bonus/v9/mono/en.txt.gz
+ParaCrawl-Bonus/v9/mono/fr.tok.gz
+ParaCrawl-Bonus/v9/mono/fr.txt.gz
+ParaCrawl-Bonus/v9/mono/hi.tok.gz
+ParaCrawl-Bonus/v9/mono/hi.txt.gz
+ParaCrawl-Bonus/v9/mono/hy.tok.gz
+ParaCrawl-Bonus/v9/mono/hy.txt.gz
+ParaCrawl-Bonus/v9/mono/id.tok.gz
+ParaCrawl-Bonus/v9/mono/id.txt.gz
+ParaCrawl-Bonus/v9/mono/km.tok.gz
+ParaCrawl-Bonus/v9/mono/km.txt.gz
+ParaCrawl-Bonus/v9/mono/ko.tok.gz
+ParaCrawl-Bonus/v9/mono/ko.txt.gz
+ParaCrawl-Bonus/v9/mono/lo.tok.gz
+ParaCrawl-Bonus/v9/mono/lo.txt.gz
+ParaCrawl-Bonus/v9/mono/my.tok.gz
+ParaCrawl-Bonus/v9/mono/my.txt.gz
+ParaCrawl-Bonus/v9/mono/ne.tok.gz
+ParaCrawl-Bonus/v9/mono/ne.txt.gz
+ParaCrawl-Bonus/v9/mono/nl.tok.gz
+ParaCrawl-Bonus/v9/mono/nl.txt.gz
+ParaCrawl-Bonus/v9/mono/pl.tok.gz
+ParaCrawl-Bonus/v9/mono/pl.txt.gz
+ParaCrawl-Bonus/v9/mono/ps.tok.gz
+ParaCrawl-Bonus/v9/mono/ps.txt.gz
+ParaCrawl-Bonus/v9/mono/ru.tok.gz
+ParaCrawl-Bonus/v9/mono/ru.txt.gz
+ParaCrawl-Bonus/v9/mono/si.tok.gz
+ParaCrawl-Bonus/v9/mono/si.txt.gz
+ParaCrawl-Bonus/v9/mono/so.tok.gz
+ParaCrawl-Bonus/v9/mono/so.txt.gz
+ParaCrawl-Bonus/v9/mono/sw.tok.gz
+ParaCrawl-Bonus/v9/mono/sw.txt.gz
+ParaCrawl-Bonus/v9/mono/tg.tok.gz
+ParaCrawl-Bonus/v9/mono/tg.txt.gz
+ParaCrawl-Bonus/v9/mono/th.tok.gz
+ParaCrawl-Bonus/v9/mono/th.txt.gz
+ParaCrawl-Bonus/v9/mono/tl.tok.gz
+ParaCrawl-Bonus/v9/mono/tl.txt.gz
+ParaCrawl-Bonus/v9/mono/uk.tok.gz
+ParaCrawl-Bonus/v9/mono/uk.txt.gz
+ParaCrawl-Bonus/v9/mono/vi.tok.gz
+ParaCrawl-Bonus/v9/mono/vi.txt.gz
+ParaCrawl-Bonus/v9/mono/zh.tok.gz
+ParaCrawl-Bonus/v9/mono/zh.txt.gz
+ParaCrawl-Bonus/v9/moses/az-en.txt.zip
+ParaCrawl-Bonus/v9/moses/cs-pl.txt.zip
+ParaCrawl-Bonus/v9/moses/de-pl.txt.zip
+ParaCrawl-Bonus/v9/moses/en-hi.txt.zip
+ParaCrawl-Bonus/v9/moses/en-hy.txt.zip
+ParaCrawl-Bonus/v9/moses/en-id.txt.zip
+ParaCrawl-Bonus/v9/moses/en-km.txt.zip
+ParaCrawl-Bonus/v9/moses/en-ko.txt.zip
+ParaCrawl-Bonus/v9/moses/en-lo.txt.zip
+ParaCrawl-Bonus/v9/moses/en-my.txt.zip
+ParaCrawl-Bonus/v9/moses/en-ne.txt.zip
+ParaCrawl-Bonus/v9/moses/en-ps.txt.zip
+ParaCrawl-Bonus/v9/moses/en-ru.txt.zip
+ParaCrawl-Bonus/v9/moses/en-si.txt.zip
+ParaCrawl-Bonus/v9/moses/en-so.txt.zip
+ParaCrawl-Bonus/v9/moses/en-sw.txt.zip
+ParaCrawl-Bonus/v9/moses/en-tg.txt.zip
+ParaCrawl-Bonus/v9/moses/en-th.txt.zip
+ParaCrawl-Bonus/v9/moses/en-tl.txt.zip
+ParaCrawl-Bonus/v9/moses/en-uk.txt.zip
+ParaCrawl-Bonus/v9/moses/en-vi.txt.zip
+ParaCrawl-Bonus/v9/moses/en-zh.txt.zip
+ParaCrawl-Bonus/v9/moses/fr-nl.txt.zip
+ParaCrawl-Bonus/v9/raw/az.zip
+ParaCrawl-Bonus/v9/raw/cs.zip
+ParaCrawl-Bonus/v9/raw/de.zip
+ParaCrawl-Bonus/v9/raw/en.zip
+ParaCrawl-Bonus/v9/raw/fr.zip
+ParaCrawl-Bonus/v9/raw/hi.zip
+ParaCrawl-Bonus/v9/raw/hy.zip
+ParaCrawl-Bonus/v9/raw/id.zip
+ParaCrawl-Bonus/v9/raw/km.zip
+ParaCrawl-Bonus/v9/raw/ko.zip
+ParaCrawl-Bonus/v9/raw/lo.zip
+ParaCrawl-Bonus/v9/raw/my.zip
+ParaCrawl-Bonus/v9/raw/ne.zip
+ParaCrawl-Bonus/v9/raw/nl.zip
+ParaCrawl-Bonus/v9/raw/pl.zip
+ParaCrawl-Bonus/v9/raw/ps.zip
+ParaCrawl-Bonus/v9/raw/ru.zip
+ParaCrawl-Bonus/v9/raw/si.zip
+ParaCrawl-Bonus/v9/raw/so.zip
+ParaCrawl-Bonus/v9/raw/sw.zip
+ParaCrawl-Bonus/v9/raw/tg.zip
+ParaCrawl-Bonus/v9/raw/th.zip
+ParaCrawl-Bonus/v9/raw/tl.zip
+ParaCrawl-Bonus/v9/raw/uk.zip
+ParaCrawl-Bonus/v9/raw/vi.zip
+ParaCrawl-Bonus/v9/raw/zh.zip
+ParaCrawl-Bonus/v9/tmx/az-en.tmx.gz
+ParaCrawl-Bonus/v9/xml/az.zip
+ParaCrawl-Bonus/v9/xml/cs.zip
+ParaCrawl-Bonus/v9/xml/de.zip
+ParaCrawl-Bonus/v9/xml/en.zip
+ParaCrawl-Bonus/v9/xml/fr.zip
+ParaCrawl-Bonus/v9/xml/hi.zip
+ParaCrawl-Bonus/v9/xml/hy.zip
+ParaCrawl-Bonus/v9/xml/id.zip
+ParaCrawl-Bonus/v9/xml/km.zip
+ParaCrawl-Bonus/v9/xml/ko.zip
+ParaCrawl-Bonus/v9/xml/lo.zip
+ParaCrawl-Bonus/v9/xml/my.zip
+ParaCrawl-Bonus/v9/xml/ne.zip
+ParaCrawl-Bonus/v9/xml/nl.zip
+ParaCrawl-Bonus/v9/xml/pl.zip
+ParaCrawl-Bonus/v9/xml/ps.zip
+ParaCrawl-Bonus/v9/xml/ru.zip
+ParaCrawl-Bonus/v9/xml/si.zip
+ParaCrawl-Bonus/v9/xml/so.zip
+ParaCrawl-Bonus/v9/xml/sw.zip
+ParaCrawl-Bonus/v9/xml/tg.zip
+ParaCrawl-Bonus/v9/xml/th.zip
+ParaCrawl-Bonus/v9/xml/tl.zip
+ParaCrawl-Bonus/v9/xml/uk.zip
+ParaCrawl-Bonus/v9/xml/vi.zip
+ParaCrawl-Bonus/v9/xml/zh.zip
