@@ -1,18 +1,17 @@
-contact: empty
 copyright: The corpus is released under the CC-BY-4.0, in other words the corpus can be freely shared and adapted as long as appropriate
 latest_release: v1
-license: CC-BY-SA 4.0
+license: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank">CC-BY-SA-4.0</a>
 name: pmindia
 releases:
   v1: Thu Nov 10 12:15:52 EET 2022
 website: http://opus.nlpl.eu/pmindia.php
 description: >
-  This directory contains the releases of the pmindia corpus. It is a parallel corpus containing 13 Indian languages, plus English, derived from the Prime Minister of Indias news updates (https://www.pmindia.gov.in/en/news-updates/). We release a sentence aligned version of the corpus, as well as the monolingual text extracted from the articles.</br>
-  The code for crawling and aligning is available at https://github.com/bhaddow/pmindia-crawler
+  This directory contains the releases of the pmindia corpus. It is a parallel corpus containing 13 Indian languages, plus English, derived from the Prime Minister of Indias news updates (<a href="https://www.pmindia.gov.in/en/news-updates/" target="_blank">https://www.pmindia.gov.in/en/news-updates/</a>). We release a sentence aligned version of the corpus, as well as the monolingual text extracted from the articles.</br>
+  The code for crawling and aligning is available at <a href="https://github.com/bhaddow/pmindia-crawler" target="_blank">https://github.com/bhaddow/pmindia-crawler</a>
 bibtex: CiBAQVJUSUNMRXsyMDIwYXJYaXYyMDAxMDk5MDdILAogYXV0aG9yID0ge3tIYWRkb3d9LCBCYXJyeSBhbmQge0tpcmVmdX0sIEZhaGVlbX0sCiB0aXRsZSA9ICJ7UE1JbmRpYSAtLSBBIENvbGxlY3Rpb24gb2YgUGFyYWxsZWwgQ29ycG9yYSBvZiBMYW5ndWFnZXMgb2YgSW5kaWF9IiwKIGpvdXJuYWwgPSB7YXJYaXYgZS1wcmludHN9LAoga2V5d29yZHMgPSB7Q29tcHV0ZXIgU2NpZW5jZSAtIENvbXB1dGF0aW9uIGFuZCBMYW5ndWFnZX0sCiB5ZWFyID0gIjIwMjAiLAogbW9udGggPSAiSmFuIiwKIGVpZCA9IHthclhpdjoyMDAxLjA5OTA3fSwKIHBhZ2VzID0ge2FyWGl2OjIwMDEuMDk5MDd9LAogYXJjaGl2ZVByZWZpeCA9IHthclhpdn0sCiBlcHJpbnQgPSB7MjAwMS4wOTkwN30KIH0=
 cite: >
-  Please cite the <a href="https://opus.nlpl.eu/LREC2012.txt" target="_blank">following article</a> if you use the OPUS packages and downloads in your own work:
-  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="blank"> Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+  Please cite the <a href="https://opus.nlpl.eu/legacy/LREC2012.txt" target="_blank">following article</a> if you use the OPUS packages and downloads in your own work:
+  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="_blank"> Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
 number_of_languages: 14
 bitexts: 13
 number_of_files: 26
