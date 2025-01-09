@@ -1,14 +1,11 @@
-contact: empty
-copyright: empty
 latest_release: v1.1
-license: empty
 name: MultiCCAligned
 releases:
   v1: unknown
   v1.1: Thu May 20 02:58:14 EEST 2021
 website: http://opus.nlpl.eu/MultiCCAligned.php
 description: >
-  This corpus was created from 68 Commoncrawl Snapshots (up until March 2020). The documents are split into sentences based on punctuations and deduplication is performed. No claims of intellectual property are made on the work of preparation of the corpus. The original distribution is available from http://www.statmt.org/cc-aligned/ </br>
+  This corpus was created from 68 Commoncrawl Snapshots (up until March 2020). The documents are split into sentences based on punctuations and deduplication is performed. No claims of intellectual property are made on the work of preparation of the corpus. The original distribution is available from <a href="http://www.statmt.org/cc-aligned/" target="_blank">http://www.statmt.org/cc-aligned/</a> </br>
 
   CCAligned consists of parallel or comparable web-document pairs in 137 languages aligned with English. These web-document pairs were constructed by performing language identification on raw web-documents, and ensuring corresponding language codes were corresponding in the URLs of web documents. This pattern matching approach yielded more than 100 million aligned documents paired with English. Recognizing that each English document was often aligned to mulitple documents in different target language, we can join on English documents to obtain aligned documents that directly pair two non-English documents (e.g., Arabic-French). </br>
 
