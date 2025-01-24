@@ -1150,7 +1150,7 @@
 | [GlobalVoices](http://opus.nlpl.eu/GlobalVoices.php) | [v2015](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2015) [v2017q3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2017q3) [v2018q4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2018q4)  |
 | [GNOME](http://opus.nlpl.eu/GNOME.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GNOME/v1)  |
 | [GoURMET](http://opus.nlpl.eu/GoURMET.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GoURMET/v1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GoURMET/v2)  |
-| [HPLT](http://opus.nlpl.eu/HPLT.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v1.1)  |
+| [HPLT](https://opus.nlpl.eu/HPLT/corpus/version/HPLT) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v1.1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v2)  |
 | [hrenWaC](http://opus.nlpl.eu/hrenWaC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/hrenWaC/v1)  |
 | [IITB](http://opus.nlpl.eu/IITB.php) | [v2.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/IITB/v2.0)  |
 | [infopankki](http://opus.nlpl.eu/infopankki.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/infopankki/v1)  |
@@ -1209,6 +1209,7 @@
 | [tico-19](http://opus.nlpl.eu/tico-19-v2020-10.php) | [v2020-10-28](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/tico-19/v2020-10-28)  |
 | [TildeMODEL](http://opus.nlpl.eu/TildeMODEL.php) | [v2018](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/TildeMODEL/v2018)  |
 | [tldr-pages](http://opus.nlpl.eu/tldr-pages-v2023-08.php) | [v2023-08-29](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/tldr-pages/v2023-08-29)  |
+| [translatewiki](http://opus.nlpl.eu/legacy/translatewiki-v2025-01.php) | [v2025-01-01](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/translatewiki/v2025-01-01)  |
 | [Ubuntu](http://opus.nlpl.eu/Ubuntu.php) | [v14.10](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Ubuntu/v14.10)  |
 | [UN](http://opus.nlpl.eu/UN.php) | [v20090831](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/UN/v20090831)  |
 | [UNPC](http://opus.nlpl.eu/UNPC.php) | [v1.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/UNPC/v1.0)  |
