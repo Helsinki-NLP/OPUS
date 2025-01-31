@@ -1,10 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-antibiotic	v1	ELRC-3206-antibiotic	v1	816	816	816	100.00	100.00
 ELRC-antibiotic	v1	ParaCrawl	v8	816	5724257	248	30.39	0
+ELRC-antibiotic	v1	HPLT	v2	816	2694539	181	22.18	0
 ELRC-antibiotic	v1	ParaCrawl	v9	816	2967520	165	20.22	0
 ELRC-antibiotic	v1	CCMatrix	v1	816	8678395	76	9.31	0
 ELRC-antibiotic	v1	NLLB	v1	816	8678252	76	9.31	0
+ELRC-antibiotic	v1	HPLT	v1.1	816	2148855	26	3.18	0
 ELRC-antibiotic	v1	HPLT	v1	816	2148855	26	3.18	0
+ELRC-antibiotic	v1	MultiHPLT	v1.1	816	2148855	26	3.18	0
 ELRC-antibiotic	v1	MultiCCAligned	v1	816	1186757	4	.49	0
 ELRC-antibiotic	v1	CCAligned	v1	816	1186739	4	.49	0
 ELRC-antibiotic	v1	MultiParaCrawl	v7.1	816	2392423	1	.12	0
@@ -14,6 +17,8 @@ ELRC-antibiotic	v1	XLEnt	v1.2	816	930819	1	.12	0
 ELRC-antibiotic	v1	XLEnt	v1	816	930819	1	.12	0
 ELRC-antibiotic	v1	ELRC-2718-EMEA	v1	816	536600	1	.12	0
 ELRC-antibiotic	v1	ELRC-EMEA	v1	816	536600	1	.12	0
+ELRC-antibiotic	v1	MaCoCu	v2	816	267366	1	.12	0
+ELRC-antibiotic	v1	MultiMaCoCu	v2	816	267366	1	.12	0
 ELRC-antibiotic	v1	ELRC-5067-SciPar	v1	816	110831	1	.12	0
 ELRC-antibiotic	v1	WikiMatrix	v1	816	85992	1	.12	0
 ELRC-antibiotic	v1	WikiTitles	v3	816	46698	1	.12	0

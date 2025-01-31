@@ -1,5 +1,8 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 bible-uedin	v1	HPLT	v1	61623	9310276	1876	3.04	.02
+bible-uedin	v1	HPLT	v1.1	61623	9310197	1876	3.04	.02
+bible-uedin	v1	MultiHPLT	v1.1	61623	9310197	1876	3.04	.02
+bible-uedin	v1	HPLT	v2	61623	14263875	1465	2.37	.01
 bible-uedin	v1	ParaCrawl	v9	61623	3240421	1177	1.91	.03
 bible-uedin	v1	ParaCrawl	v7.1	61623	6959288	500	.81	0
 bible-uedin	v1	MultiParaCrawl	v7.1	61623	6959286	499	.80	0
@@ -8,6 +11,8 @@ bible-uedin	v1	ParaCrawl	v8	61623	11063124	276	.44	0
 bible-uedin	v1	ParaCrawl	v4	61623	995511	131	.21	.01
 bible-uedin	v1	CCMatrix	v1	61623	18694537	107	.17	0
 bible-uedin	v1	NLLB	v1	61623	18694206	107	.17	0
+bible-uedin	v1	MaCoCu	v2	61623	2266004	33	.05	0
+bible-uedin	v1	MultiMaCoCu	v2	61623	2266004	33	.05	0
 bible-uedin	v1	OpenSubtitles	v2018	61623	28591047	13	.02	0
 bible-uedin	v1	OpenSubtitles	v2016	61623	22002428	10	.01	0
 bible-uedin	v1	MultiCCAligned	v1	61623	9327209	3	0	0

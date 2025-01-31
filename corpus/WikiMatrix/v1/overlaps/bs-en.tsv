@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	NLLB	v1	210679	78968180	27548	13.07	.03
+WikiMatrix	v1	HPLT	v2	210679	4559323	14045	6.66	.30
 WikiMatrix	v1	wikimedia	v20230407	210679	27254	410	.19	1.50
 WikiMatrix	v1	wikimedia	v20210402	210679	10915	406	.19	3.71
 WikiMatrix	v1	OpenSubtitles	v2018	210679	11750487	242	.11	0
@@ -10,7 +11,9 @@ WikiMatrix	v1	XLEnt	v1.2	210679	259341	52	.02	.02
 WikiMatrix	v1	ELRC-3047-wikipedia_health	v1	210679	205	28	.01	13.65
 WikiMatrix	v1	ELRC-wikipedia_health	v1	210679	205	28	.01	13.65
 WikiMatrix	v1	ELRC_2922	v1	210679	204	27	.01	13.23
+WikiMatrix	v1	HPLT	v1.1	210679	240013	14	0	0
 WikiMatrix	v1	HPLT	v1	210679	240013	14	0	0
+WikiMatrix	v1	MultiHPLT	v1.1	210679	240013	14	0	0
 WikiMatrix	v1	MultiHPLT	v1	210679	240013	14	0	0
 WikiMatrix	v1	Tanzil	v1	210679	239903	6	0	0
 WikiMatrix	v1	MultiCCAligned	v1	210679	191706	6	0	0

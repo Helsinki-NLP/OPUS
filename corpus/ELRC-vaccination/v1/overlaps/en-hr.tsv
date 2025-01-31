@@ -1,6 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-vaccination	v1	ELRC-2753-vaccination	v1	508	508	508	100.00	100.00
+ELRC-vaccination	v1	MaCoCu	v2	508	2266004	330	64.96	.01
+ELRC-vaccination	v1	MultiMaCoCu	v2	508	2266004	330	64.96	.01
+ELRC-vaccination	v1	HPLT	v2	508	14263875	327	64.37	0
 ELRC-vaccination	v1	HPLT	v1	508	9310276	122	24.01	0
+ELRC-vaccination	v1	HPLT	v1.1	508	9310197	122	24.01	0
+ELRC-vaccination	v1	MultiHPLT	v1.1	508	9310197	122	24.01	0
 ELRC-vaccination	v1	ParaCrawl	v8	508	11063124	4	.78	0
 ELRC-vaccination	v1	ELRC-4142-NTEU_TierA	v1	508	2273079	4	.78	0
 ELRC-vaccination	v1	MultiCCAligned	v1	508	9327209	3	.59	0

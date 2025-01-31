@@ -1,7 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-presscorner_covid	v1	ELRC-3597-presscorner_covid	v1	6642	6642	6642	100.00	100.00
 ELRC-presscorner_covid	v1	ELRC_3382	v1	6642	3668	3647	54.90	99.42
+ELRC-presscorner_covid	v1	HPLT	v2	6642	14263875	241	3.62	0
 ELRC-presscorner_covid	v1	HPLT	v1	6642	9310276	223	3.35	0
+ELRC-presscorner_covid	v1	HPLT	v1.1	6642	9310197	223	3.35	0
+ELRC-presscorner_covid	v1	MultiHPLT	v1.1	6642	9310197	223	3.35	0
+ELRC-presscorner_covid	v1	MaCoCu	v2	6642	2266004	79	1.18	0
+ELRC-presscorner_covid	v1	MultiMaCoCu	v2	6642	2266004	79	1.18	0
 ELRC-presscorner_covid	v1	ELRC-3478-EC_EUROPA_covid	v1	6642	2595	40	.60	1.54
 ELRC-presscorner_covid	v1	ELRC-EC_EUROPA	v1	6642	2595	40	.60	1.54
 ELRC-presscorner_covid	v1	CCMatrix	v1	6642	18694537	37	.55	0

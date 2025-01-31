@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	259499	18694537	31765	12.24	.16
 WikiMatrix	v1	NLLB	v1	259499	18694206	31765	12.24	.16
+WikiMatrix	v1	HPLT	v2	259499	14263875	20791	8.01	.14
 WikiMatrix	v1	ParaCrawl	v8	259499	11063124	20799	8.01	.18
 WikiMatrix	v1	HPLT	v1	259499	9310276	11150	4.29	.11
+WikiMatrix	v1	HPLT	v1.1	259499	9310197	11150	4.29	.11
+WikiMatrix	v1	MultiHPLT	v1.1	259499	9310197	11150	4.29	.11
 WikiMatrix	v1	ParaCrawl	v9	259499	3240421	8652	3.33	.26
 WikiMatrix	v1	MultiParaCrawl	v7.1	259499	6959286	3547	1.36	.05
 WikiMatrix	v1	ParaCrawl	v7.1	259499	6959288	3524	1.35	.05
@@ -14,6 +17,8 @@ WikiMatrix	v1	OpenSubtitles	v2018	259499	28591047	88	.03	0
 WikiMatrix	v1	OpenSubtitles	v2016	259499	22002428	75	.02	0
 WikiMatrix	v1	MultiCCAligned	v1	259499	9327209	42	.01	0
 WikiMatrix	v1	CCAligned	v1	259499	9327047	42	.01	0
+WikiMatrix	v1	MaCoCu	v2	259499	2266004	43	.01	0
+WikiMatrix	v1	MultiMaCoCu	v2	259499	2266004	43	.01	0
 WikiMatrix	v1	XLEnt	v1.1	259499	2717963	23	0	0
 WikiMatrix	v1	XLEnt	v1.2	259499	2717963	23	0	0
 WikiMatrix	v1	XLEnt	v1	259499	2717963	23	0	0
