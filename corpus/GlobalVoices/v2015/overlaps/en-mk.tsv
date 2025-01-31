@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2015	GlobalVoices	v2017q3	46424	49453	46280	99.68	93.58
 GlobalVoices	v2015	GlobalVoices	v2018q4	46424	52502	46172	99.45	87.94
+GlobalVoices	v2015	HPLT	v2	46424	3991614	19739	42.51	.49
 GlobalVoices	v2015	CCMatrix	v1	46424	11956949	6166	13.28	.05
 GlobalVoices	v2015	NLLB	v1	46424	11956703	6166	13.28	.05
+GlobalVoices	v2015	HPLT	v1.1	46424	1139052	3844	8.28	.33
 GlobalVoices	v2015	HPLT	v1	46424	1139052	3844	8.28	.33
+GlobalVoices	v2015	MultiHPLT	v1.1	46424	1139052	3844	8.28	.33
 GlobalVoices	v2015	OpenSubtitles	v2018	46424	2896675	153	.32	0
 GlobalVoices	v2015	OpenSubtitles	v2016	46424	2217817	136	.29	0
 GlobalVoices	v2015	XLEnt	v1.1	46424	1696310	43	.09	0
@@ -12,6 +15,8 @@ GlobalVoices	v2015	XLEnt	v1	46424	1696310	43	.09	0
 GlobalVoices	v2015	QED	v2.0a	46424	63772	34	.07	.05
 GlobalVoices	v2015	MultiCCAligned	v1	46424	1781824	25	.05	0
 GlobalVoices	v2015	CCAligned	v1	46424	1781797	25	.05	0
+GlobalVoices	v2015	MaCoCu	v2	46424	376748	19	.04	0
+GlobalVoices	v2015	MultiMaCoCu	v2	46424	376748	19	.04	0
 GlobalVoices	v2015	SETIMES	v2	46424	205807	16	.03	0
 GlobalVoices	v2015	Tatoeba	v2023-04-12	46424	80340	15	.03	.01
 GlobalVoices	v2015	Tatoeba	v2021-07-22	46424	80333	15	.03	.01

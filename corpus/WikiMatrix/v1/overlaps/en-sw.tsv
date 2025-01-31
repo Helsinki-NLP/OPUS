@@ -1,7 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	NLLB	v1	51387	23433143	5695	11.08	.02
 WikiMatrix	v1	CCMatrix	v1	51387	5718273	5276	10.26	.09
+WikiMatrix	v1	HPLT	v2	51387	1985897	4278	8.32	.21
+WikiMatrix	v1	HPLT	v1.1	51387	1710206	1639	3.18	.09
 WikiMatrix	v1	HPLT	v1	51387	1710206	1639	3.18	.09
+WikiMatrix	v1	MultiHPLT	v1.1	51387	1710206	1639	3.18	.09
 WikiMatrix	v1	ELRC-3073-wikipedia_health	v1	51387	608	284	.55	46.71
 WikiMatrix	v1	ELRC-wikipedia_health	v1	51387	608	284	.55	46.71
 WikiMatrix	v1	ELRC_2922	v1	51387	607	281	.54	46.29
@@ -14,6 +17,7 @@ WikiMatrix	v1	MultiParaCrawl	v7.1	51387	131579	8	.01	0
 WikiMatrix	v1	ParaCrawl	v8	51387	131579	8	.01	0
 WikiMatrix	v1	ParaCrawl	v9	51387	131579	8	.01	0
 WikiMatrix	v1	ParaCrawl	v7.1	51387	131578	7	.01	0
+WikiMatrix	v1	ParaCrawl-Bonus	v9	51387	131533	8	.01	0
 WikiMatrix	v1	XLEnt	v1.1	51387	846392	1	0	0
 WikiMatrix	v1	XLEnt	v1.2	51387	846392	1	0	0
 WikiMatrix	v1	XLEnt	v1	51387	846392	1	0	0
@@ -22,6 +26,7 @@ WikiMatrix	v1	GlobalVoices	v2018q4	51387	30334	1	0	0
 WikiMatrix	v1	GlobalVoices	v2017q3	51387	29276	0	0	0
 WikiMatrix	v1	GlobalVoices	v2015	51387	25687	0	0	0
 WikiMatrix	v1	TED2020	v1	51387	9473	1	0	.01
+WikiMatrix	v1	translatewiki	v2025-01-01	51387	8180	0	0	0
 WikiMatrix	v1	tico-19	v2020-10-28	51387	3070	0	0	0
 WikiMatrix	v1	Ubuntu	v14.10	51387	971	0	0	0
 WikiMatrix	v1	wikimedia	v20190628	51387	762	1	0	.13

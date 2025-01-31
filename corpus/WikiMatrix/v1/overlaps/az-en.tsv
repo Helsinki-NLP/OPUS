@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	NLLB	v1	71277	74261845	2684	3.76	0
+WikiMatrix	v1	ParaCrawl-Bonus	v9	71277	3158026	611	.85	.01
+WikiMatrix	v1	HPLT	v2	71277	3188231	584	.81	.01
 WikiMatrix	v1	CCMatrix	v1	71277	1148843	307	.43	.02
 WikiMatrix	v1	wikimedia	v20230407	71277	24794	116	.16	.46
 WikiMatrix	v1	wikimedia	v20210402	71277	10041	116	.16	1.15
@@ -9,6 +11,7 @@ WikiMatrix	v1	CCAligned	v1	71277	1169942	13	.01	0
 WikiMatrix	v1	XLEnt	v1.1	71277	290950	9	.01	0
 WikiMatrix	v1	XLEnt	v1.2	71277	290950	9	.01	0
 WikiMatrix	v1	XLEnt	v1	71277	290950	9	.01	0
+WikiMatrix	v1	translatewiki	v2025-01-01	71277	23755	0	0	0
 WikiMatrix	v1	QED	v2.0a	71277	15551	1	0	0
 WikiMatrix	v1	TED2020	v1	71277	11355	1	0	0
 WikiMatrix	v1	GNOME	v1	71277	9529	0	0	0

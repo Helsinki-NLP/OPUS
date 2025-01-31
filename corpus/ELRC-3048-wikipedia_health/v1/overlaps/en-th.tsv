@@ -1,8 +1,10 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-3048-wikipedia_health	v1	ELRC-wikipedia_health	v1	237	237	236	99.57	99.57
 ELRC-3048-wikipedia_health	v1	ELRC_2922	v1	237	236	229	96.62	97.03
+ELRC-3048-wikipedia_health	v1	SCB_MT_EN_TH	v1.0	237	986492	2	.84	0
 ELRC-3048-wikipedia_health	v1	MultiCCAligned	v1	237	10610854	1	.42	0
 ELRC-3048-wikipedia_health	v1	CCAligned	v1	237	10610649	1	.42	0
+ELRC-3048-wikipedia_health	v1	ParaCrawl-Bonus	v9	237	2057691	1	.42	0
 ELRC-3048-wikipedia_health	v1	XLEnt	v1.1	237	1185964	1	.42	0
 ELRC-3048-wikipedia_health	v1	XLEnt	v1.2	237	1185964	1	.42	0
 ELRC-3048-wikipedia_health	v1	XLEnt	v1	237	1185964	1	.42	0
@@ -15,6 +17,8 @@ ELRC-3048-wikipedia_health	v1	Tatoeba	v2022-03-03	237	1173	1	.42	.08
 ELRC-3048-wikipedia_health	v1	Tatoeba	v2021-03-10	237	1159	1	.42	.08
 ELRC-3048-wikipedia_health	v1	Tatoeba	v2021-07-22	237	1159	1	.42	.08
 ELRC-3048-wikipedia_health	v1	Tatoeba	v2020-11-09	237	1145	1	.42	.08
+ELRC-3048-wikipedia_health	v1	tldr-pages	v2023-08-29	237	296	1	.42	.33
+ELRC-3048-wikipedia_health	v1	HPLT	v2	237	4088285	0	0	0
 ELRC-3048-wikipedia_health	v1	OpenSubtitles	v2018	237	2964358	0	0	0
 ELRC-3048-wikipedia_health	v1	OpenSubtitles	v2016	237	2419508	0	0	0
 ELRC-3048-wikipedia_health	v1	QED	v2.0a	237	254780	0	0	0

@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-2745-vaccination	v1	ELRC-vaccination	v1	510	510	510	100.00	100.00
+ELRC-2745-vaccination	v1	HPLT	v2	510	20056317	326	63.92	0
 ELRC-2745-vaccination	v1	ParaCrawl	v9	510	22901691	6	1.17	0
 ELRC-2745-vaccination	v1	ParaCrawl	v8	510	13010368	5	.98	0
 ELRC-2745-vaccination	v1	ELRC-4154-NTEU_TierA	v1	510	7753851	5	.98	0
@@ -58,6 +59,7 @@ ELRC-2745-vaccination	v1	QED	v2.0a	510	162438	0	0	0
 ELRC-2745-vaccination	v1	ECB	v1	510	121989	0	0	0
 ELRC-2745-vaccination	v1	KDE4	v2	510	96030	0	0	0
 ELRC-2745-vaccination	v1	bible-uedin	v1	510	61539	0	0	0
+ELRC-2745-vaccination	v1	translatewiki	v2025-01-01	510	31227	0	0	0
 ELRC-2745-vaccination	v1	JRC-Acquis	v3.0	510	21661	0	0	0
 ELRC-2745-vaccination	v1	ELRA-W0136	v1	510	8029	0	0	0
 ELRC-2745-vaccination	v1	EUconst	v1	510	6743	0	0	0

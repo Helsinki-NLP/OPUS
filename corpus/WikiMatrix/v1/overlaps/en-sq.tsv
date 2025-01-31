@@ -1,9 +1,14 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	180110	22191703	50769	28.18	.22
 WikiMatrix	v1	NLLB	v1	180110	68801691	34405	19.10	.05
+WikiMatrix	v1	HPLT	v2	180110	4166536	17773	9.86	.42
+WikiMatrix	v1	HPLT	v1.1	180110	1655959	9234	5.12	.55
 WikiMatrix	v1	HPLT	v1	180110	1655959	9234	5.12	.55
+WikiMatrix	v1	MultiHPLT	v1.1	180110	1655959	9234	5.12	.55
 WikiMatrix	v1	wikimedia	v20230407	180110	114235	4317	2.39	3.77
 WikiMatrix	v1	wikimedia	v20210402	180110	65960	4314	2.39	6.54
+WikiMatrix	v1	MaCoCu	v2	180110	507538	133	.07	.02
+WikiMatrix	v1	MultiMaCoCu	v2	180110	507538	133	.07	.02
 WikiMatrix	v1	MultiCCAligned	v1	180110	2299252	27	.01	0
 WikiMatrix	v1	CCAligned	v1	180110	2299214	27	.01	0
 WikiMatrix	v1	OpenSubtitles	v2018	180110	1626927	27	.01	0

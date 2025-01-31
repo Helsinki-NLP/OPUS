@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 wikimedia	v20230407	wikimedia	v20210402	24794	10041	9745	39.30	97.05
 wikimedia	v20230407	NLLB	v1	24794	74261845	1286	5.18	0
+wikimedia	v20230407	HPLT	v2	24794	3188231	330	1.33	.01
+wikimedia	v20230407	ParaCrawl-Bonus	v9	24794	3158026	212	.85	0
 wikimedia	v20230407	WikiMatrix	v1	24794	71277	116	.46	.16
 wikimedia	v20230407	MultiCCAligned	v1	24794	1169961	52	.20	0
 wikimedia	v20230407	CCAligned	v1	24794	1169942	52	.20	0
+wikimedia	v20230407	translatewiki	v2025-01-01	24794	23755	50	.20	.21
 wikimedia	v20230407	XLEnt	v1.1	24794	290950	30	.12	.01
 wikimedia	v20230407	XLEnt	v1.2	24794	290950	30	.12	.01
 wikimedia	v20230407	XLEnt	v1	24794	290950	30	.12	.01

@@ -1,9 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	484499	484491	484491	99.99	100.00
+MultiCCAligned	v1	ParaCrawl-Bonus	v9	484499	2228712	24041	4.96	1.07
 MultiCCAligned	v1	MultiParaCrawl	v7.1	484499	90427	12764	2.63	14.11
 MultiCCAligned	v1	ParaCrawl	v8	484499	90427	12764	2.63	14.11
 MultiCCAligned	v1	ParaCrawl	v9	484499	90427	12764	2.63	14.11
 MultiCCAligned	v1	ParaCrawl	v7.1	484499	90426	12611	2.60	13.94
+MultiCCAligned	v1	HPLT	v2	484499	317120	6761	1.39	2.13
 MultiCCAligned	v1	NLLB	v1	484499	19418676	5552	1.14	.02
 MultiCCAligned	v1	XLEnt	v1.1	484499	314840	572	.11	.18
 MultiCCAligned	v1	XLEnt	v1.2	484499	314840	572	.11	.18
@@ -20,4 +22,5 @@ MultiCCAligned	v1	wikimedia	v20210402	484499	3121	5	0	.16
 MultiCCAligned	v1	tico-19	v2020-10-28	484499	3070	0	0	0
 MultiCCAligned	v1	GlobalVoices	v2018q4	484499	2682	1	0	.03
 MultiCCAligned	v1	wikimedia	v20190628	484499	2316	3	0	.12
+MultiCCAligned	v1	tldr-pages	v2023-08-29	484499	295	1	0	.33
 MultiCCAligned	v1	QED	v2.0a	484499	263	0	0	0

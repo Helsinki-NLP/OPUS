@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	876719	876702	876702	99.99	100.00
+MultiCCAligned	v1	HPLT	v2	876719	1111471	10306	1.17	.92
 MultiCCAligned	v1	NLLB	v1	876719	42397195	8986	1.02	.02
 MultiCCAligned	v1	CCMatrix	v1	876719	7247808	7103	.81	.09
 MultiCCAligned	v1	Tanzil	v1	876719	92356	4094	.46	4.43
@@ -22,6 +23,7 @@ MultiCCAligned	v1	NeuLab-TedTalks	v1	876719	6514	62	0	.95
 MultiCCAligned	v1	GNOME	v1	876719	3979	37	0	.92
 MultiCCAligned	v1	Ubuntu	v14.10	876719	3880	28	0	.72
 MultiCCAligned	v1	tico-19	v2020-10-28	876719	3070	0	0	0
+MultiCCAligned	v1	tldr-pages	v2023-08-29	876719	1391	1	0	.07
 MultiCCAligned	v1	Tatoeba	v2023-04-12	876719	357	2	0	.56
 MultiCCAligned	v1	Tatoeba	v2020-11-09	876719	312	1	0	.32
 MultiCCAligned	v1	Tatoeba	v2021-03-10	876719	312	1	0	.32

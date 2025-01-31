@@ -2,6 +2,7 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	5210426	5210326	5210326	99.99	100.00
 MultiCCAligned	v1	CCMatrix	v1	5210426	24357218	52058	.99	.21
 MultiCCAligned	v1	NLLB	v1	5210426	24356686	52059	.99	.21
+MultiCCAligned	v1	HPLT	v2	5210426	3448296	44178	.84	1.28
 MultiCCAligned	v1	XLEnt	v1.1	5210426	1842190	17612	.33	.95
 MultiCCAligned	v1	XLEnt	v1.2	5210426	1842190	17612	.33	.95
 MultiCCAligned	v1	XLEnt	v1	5210426	1842190	17612	.33	.95
@@ -30,3 +31,4 @@ MultiCCAligned	v1	tico-19	v2020-10-28	5210426	3070	0	0	0
 MultiCCAligned	v1	ELRC-3078-wikipedia_health	v1	5210426	1983	2	0	.10
 MultiCCAligned	v1	ELRC-wikipedia_health	v1	5210426	1983	2	0	.10
 MultiCCAligned	v1	ELRC_2922	v1	5210426	1982	1	0	.05
+MultiCCAligned	v1	tldr-pages	v2023-08-29	5210426	187	1	0	.53

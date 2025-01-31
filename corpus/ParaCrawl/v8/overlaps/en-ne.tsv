@@ -2,9 +2,11 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ParaCrawl	v8	MultiParaCrawl	v7.1	90427	90427	90427	100.00	100.00
 ParaCrawl	v8	ParaCrawl	v9	90427	90427	90427	100.00	100.00
 ParaCrawl	v8	ParaCrawl	v7.1	90427	90426	82474	91.20	91.20
+ParaCrawl	v8	ParaCrawl-Bonus	v9	90427	2228712	20704	22.89	.92
 ParaCrawl	v8	MultiCCAligned	v1	90427	484499	12764	14.11	2.63
 ParaCrawl	v8	CCAligned	v1	90427	484491	12763	14.11	2.63
 ParaCrawl	v8	NLLB	v1	90427	19418676	1660	1.83	0
+ParaCrawl	v8	HPLT	v2	90427	317120	1169	1.29	.36
 ParaCrawl	v8	XLEnt	v1.1	90427	314840	56	.06	.01
 ParaCrawl	v8	XLEnt	v1.2	90427	314840	56	.06	.01
 ParaCrawl	v8	XLEnt	v1	90427	314840	56	.06	.01
@@ -20,4 +22,5 @@ ParaCrawl	v8	wikimedia	v20210402	90427	3121	1	0	.03
 ParaCrawl	v8	tico-19	v2020-10-28	90427	3070	0	0	0
 ParaCrawl	v8	GlobalVoices	v2018q4	90427	2682	1	0	.03
 ParaCrawl	v8	wikimedia	v20190628	90427	2316	0	0	0
+ParaCrawl	v8	tldr-pages	v2023-08-29	90427	295	1	0	.33
 ParaCrawl	v8	QED	v2.0a	90427	263	0	0	0

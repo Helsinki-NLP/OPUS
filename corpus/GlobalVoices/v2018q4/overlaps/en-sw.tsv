@@ -1,10 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2018q4	GlobalVoices	v2017q3	30334	29276	28284	93.24	96.61
 GlobalVoices	v2018q4	GlobalVoices	v2015	30334	25687	24636	81.21	95.90
+GlobalVoices	v2018q4	HPLT	v2	30334	1985897	11779	38.83	.59
 GlobalVoices	v2018q4	NLLB	v1	30334	23433143	5478	18.05	.02
 GlobalVoices	v2018q4	CCMatrix	v1	30334	5718273	5113	16.85	.08
 GlobalVoices	v2018q4	GoURMET	v2	30334	104123	1751	5.77	1.68
+GlobalVoices	v2018q4	HPLT	v1.1	30334	1710206	148	.48	0
 GlobalVoices	v2018q4	HPLT	v1	30334	1710206	148	.48	0
+GlobalVoices	v2018q4	MultiHPLT	v1.1	30334	1710206	148	.48	0
 GlobalVoices	v2018q4	XLEnt	v1.1	30334	846392	23	.07	0
 GlobalVoices	v2018q4	XLEnt	v1.2	30334	846392	23	.07	0
 GlobalVoices	v2018q4	XLEnt	v1	30334	846392	23	.07	0
@@ -15,9 +18,11 @@ GlobalVoices	v2018q4	MultiParaCrawl	v7.1	30334	131579	1	0	0
 GlobalVoices	v2018q4	ParaCrawl	v8	30334	131579	1	0	0
 GlobalVoices	v2018q4	ParaCrawl	v9	30334	131579	1	0	0
 GlobalVoices	v2018q4	ParaCrawl	v7.1	30334	131578	0	0	0
+GlobalVoices	v2018q4	ParaCrawl-Bonus	v9	30334	131533	1	0	0
 GlobalVoices	v2018q4	WikiMatrix	v1	30334	51387	1	0	0
 GlobalVoices	v2018q4	wikimedia	v20230407	30334	14789	1	0	0
 GlobalVoices	v2018q4	TED2020	v1	30334	9473	3	0	.03
+GlobalVoices	v2018q4	translatewiki	v2025-01-01	30334	8180	1	0	.01
 GlobalVoices	v2018q4	wikimedia	v20210402	30334	3626	1	0	.02
 GlobalVoices	v2018q4	tico-19	v2020-10-28	30334	3070	0	0	0
 GlobalVoices	v2018q4	Ubuntu	v14.10	30334	971	0	0	0

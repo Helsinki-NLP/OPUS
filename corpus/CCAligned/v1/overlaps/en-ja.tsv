@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 CCAligned	v1	MultiCCAligned	v1	14819515	25892129	14819515	100.00	57.23
+CCAligned	v1	HPLT	v2	14819515	18894014	141163	.95	.74
 CCAligned	v1	JParaCrawl	v3.0	14819515	21626824	92914	.62	.42
 CCAligned	v1	XLEnt	v1.1	14819515	6082819	56354	.38	.92
 CCAligned	v1	XLEnt	v1	14819515	6082819	56354	.38	.92
@@ -28,6 +29,7 @@ CCAligned	v1	Tatoeba	v2020-05-31	14819515	203465	481	0	.23
 CCAligned	v1	Tatoeba	v20190709	14819515	202150	481	0	.23
 CCAligned	v1	Tatoeba	v2	14819515	185593	436	0	.23
 CCAligned	v1	wikimedia	v20210402	14819515	155843	775	0	.49
+CCAligned	v1	MDN_Web_Docs	v2023-09-25	14819515	86246	185	0	.21
 CCAligned	v1	ALT	v2019	14819515	18086	1	0	0
 CCAligned	v1	PHP	v1	14819515	12017	12	0	.09
 CCAligned	v1	OpenSubtitles	v1	14819515	5581	6	0	.10
@@ -37,5 +39,6 @@ CCAligned	v1	News-Commentary	v16	14819515	638	1	0	.15
 CCAligned	v1	News-Commentary	v11	14819515	637	0	0	0
 CCAligned	v1	News-Commentary	v9.0	14819515	637	0	0	0
 CCAligned	v1	News-Commentary	v9.1	14819515	637	0	0	0
+CCAligned	v1	tldr-pages	v2023-08-29	14819515	600	2	0	.33
 CCAligned	v1	EUbookshop	v2	14819515	96	2	0	2.08
 CCAligned	v1	GNOME	v1	14819515	50	4	0	8.00

@@ -1,10 +1,61 @@
-    11145 index-filesize.txt
-    22375 index-long.txt
+    11146 index-filesize.txt
+    22376 index-long.txt
      7403 index.txt
-    15620 info.txt
+    16164 info.txt
        67 releases.txt
-     2598 v1.1/info-files.tar.gz
+     6704 v2/info-files.tar.gz
      2583 v1/info-files.tar.gz
+     2598 v1.1/info-files.tar.gz
+  5048225 v2/freq/af.freq.gz
+ 17987708 v2/freq/ar.freq.gz
+  5318489 v2/freq/az.freq.gz
+  5234379 v2/freq/be.freq.gz
+ 14244395 v2/freq/bg.freq.gz
+  2019229 v2/freq/bn.freq.gz
+  6387585 v2/freq/bs.freq.gz
+ 10267902 v2/freq/ca.freq.gz
+  2819560 v2/freq/cy.freq.gz
+ 91437668 v2/freq/en.freq.gz
+ 15969049 v2/freq/et.freq.gz
+  3398015 v2/freq/eu.freq.gz
+  4051556 v2/freq/fa.freq.gz
+ 49186109 v2/freq/fi.freq.gz
+  3315791 v2/freq/ga.freq.gz
+  3373442 v2/freq/gl.freq.gz
+  1206448 v2/freq/gu.freq.gz
+ 10000023 v2/freq/he.freq.gz
+  6071543 v2/freq/hi.freq.gz
+ 10013443 v2/freq/hr.freq.gz
+  5504239 v2/freq/is.freq.gz
+ 13060505 v2/freq/ja.freq.gz
+  4175472 v2/freq/kk.freq.gz
+  1433069 v2/freq/kn.freq.gz
+  8184181 v2/freq/ko.freq.gz
+ 11412783 v2/freq/lt.freq.gz
+ 10172485 v2/freq/lv.freq.gz
+  5398406 v2/freq/mk.freq.gz
+  1057933 v2/freq/ml.freq.gz
+  1088423 v2/freq/mr.freq.gz
+  4727276 v2/freq/ms.freq.gz
+  1932409 v2/freq/mt.freq.gz
+ 19443865 v2/freq/nb.freq.gz
+  1380373 v2/freq/ne.freq.gz
+  1875623 v2/freq/nn.freq.gz
+  1126345 v2/freq/si.freq.gz
+ 13762942 v2/freq/sk.freq.gz
+  9663760 v2/freq/sl.freq.gz
+  4206503 v2/freq/sq.freq.gz
+  7864999 v2/freq/sr.freq.gz
+  2915551 v2/freq/sw.freq.gz
+  1093474 v2/freq/ta.freq.gz
+  2560193 v2/freq/te.freq.gz
+  3705933 v2/freq/th.freq.gz
+ 23524636 v2/freq/tr.freq.gz
+ 18859562 v2/freq/uk.freq.gz
+  2186758 v2/freq/ur.freq.gz
+  2417472 v2/freq/uz.freq.gz
+  8437965 v2/freq/vi.freq.gz
+  1818903 v2/freq/xh.freq.gz
  13112815 v1/freq/ar.freq.gz
    645338 v1/freq/bs.freq.gz
   8005612 v1/freq/ca.freq.gz
@@ -24,101 +75,155 @@
   4656698 v1/freq/sr.freq.gz
   2858996 v1/freq/sw.freq.gz
   5009715 v1/freq/zh_hant.freq.gz
- 13112815 v1.1/freq/ar.freq.gz
-   645338 v1.1/freq/bs.freq.gz
-  8005612 v1.1/freq/ca.freq.gz
- 42250778 v1.1/freq/en.freq.gz
- 11012595 v1.1/freq/et.freq.gz
-  1847400 v1.1/freq/eu.freq.gz
- 34209049 v1.1/freq/fi.freq.gz
-  1511511 v1.1/freq/ga.freq.gz
-  1960745 v1.1/freq/gl.freq.gz
-  9836567 v1.1/freq/hi.freq.gz
-  8475696 v1.1/freq/hr.freq.gz
-  3531209 v1.1/freq/is.freq.gz
-  2729375 v1.1/freq/mk.freq.gz
-  1442770 v1.1/freq/mt.freq.gz
-   673579 v1.1/freq/nn.freq.gz
-  2414551 v1.1/freq/sq.freq.gz
-  4656698 v1.1/freq/sr.freq.gz
-  2858996 v1.1/freq/sw.freq.gz
-  5009715 v1.1/freq/zh_hant.freq.gz
-      758 v1.1/tmx/README
-      356 v1.1/tmx/ar-en.tmx.gz
- 59034919 v1.1/tmx/bs-en.tmx.gz
-3569941170 v1.1/tmx/ca-en.tmx.gz
-2710683256 v1.1/tmx/en-et.tmx.gz
-176890087 v1.1/tmx/en-eu.tmx.gz
-      716 v1.1/tmx/en-fi.tmx.gz
-621798955 v1.1/tmx/en-ga.tmx.gz
-279085913 v1.1/tmx/en-gl.tmx.gz
-4814000484 v1.1/tmx/en-hi.tmx.gz
-4579013264 v1.1/tmx/en-hr.tmx.gz
-849707080 v1.1/tmx/en-is.tmx.gz
-643290076 v1.1/tmx/en-mk.tmx.gz
-382543568 v1.1/tmx/en-mt.tmx.gz
- 32528368 v1.1/tmx/en-nn.tmx.gz
-720556810 v1.1/tmx/en-sq.tmx.gz
-2167904694 v1.1/tmx/en-sr.tmx.gz
-498076238 v1.1/tmx/en-sw.tmx.gz
-2232759188 v1.1/tmx/en-zh_hant.tmx.gz
-805583687 v1.1/mono/ar.tok.gz
-801246102 v1.1/mono/ar.txt.gz
-  7087093 v1.1/mono/bs.tok.gz
-  7016363 v1.1/mono/bs.txt.gz
-406144043 v1.1/mono/ca.tok.gz
-402624591 v1.1/mono/ca.txt.gz
-3823021860 v1.1/mono/en.tok.gz
-3796283482 v1.1/mono/en.txt.gz
-262112403 v1.1/mono/et.tok.gz
-260332706 v1.1/mono/et.txt.gz
- 27907500 v1.1/mono/eu.tok.gz
- 27631585 v1.1/mono/eu.txt.gz
-1016912226 v1.1/mono/fi.tok.gz
-1009830601 v1.1/mono/fi.txt.gz
- 43685039 v1.1/mono/ga.tok.gz
- 43482586 v1.1/mono/ga.txt.gz
- 40646251 v1.1/mono/gl.tok.gz
- 40377177 v1.1/mono/gl.txt.gz
-595372272 v1.1/mono/hi.tok.gz
-653721385 v1.1/mono/hi.txt.gz
-410420250 v1.1/mono/hr.tok.gz
-407525576 v1.1/mono/hr.txt.gz
- 71534031 v1.1/mono/is.tok.gz
- 71077535 v1.1/mono/is.txt.gz
- 66547500 v1.1/mono/mk.tok.gz
- 66130383 v1.1/mono/mk.txt.gz
- 54087449 v1.1/mono/mt.tok.gz
- 52723001 v1.1/mono/mt.txt.gz
-  5614852 v1.1/mono/nn.tok.gz
-  5573970 v1.1/mono/nn.txt.gz
- 75916845 v1.1/mono/sq.tok.gz
- 75431852 v1.1/mono/sq.txt.gz
-156037123 v1.1/mono/sr.tok.gz
-155111191 v1.1/mono/sr.txt.gz
- 46640603 v1.1/mono/sw.tok.gz
- 46097493 v1.1/mono/sw.txt.gz
-264537244 v1.1/mono/zh_hant.tok.gz
-253967701 v1.1/mono/zh_hant.txt.gz
-860655864 v1/raw/ar.zip
-  8129496 v1/raw/bs.zip
-445433070 v1/raw/ca.zip
-4254707264 v1/raw/en.zip
-289132125 v1/raw/et.zip
- 30603515 v1/raw/eu.zip
-1128992323 v1/raw/fi.zip
- 47845066 v1/raw/ga.zip
- 45150271 v1/raw/gl.zip
-698458522 v1/raw/hi.zip
-451770409 v1/raw/hr.zip
- 80644910 v1/raw/is.zip
- 70838804 v1/raw/mk.zip
- 56559982 v1/raw/mt.zip
-  6200829 v1/raw/nn.zip
- 82940779 v1/raw/sq.zip
-173694864 v1/raw/sr.zip
- 53399927 v1/raw/sw.zip
-279640461 v1/raw/zh_hant.zip
+442927443 v2/tmx/af-en.tmx.gz
+3003676398 v2/tmx/ar-en.tmx.gz
+386441186 v2/tmx/az-en.tmx.gz
+410593707 v2/tmx/be-en.tmx.gz
+3000365980 v2/tmx/bg-en.tmx.gz
+396591145 v2/tmx/bn-en.tmx.gz
+611122132 v2/tmx/bs-en.tmx.gz
+1618416146 v2/tmx/ca-en.tmx.gz
+448361511 v2/tmx/cy-en.tmx.gz
+1030634508 v2/tmx/en-et.tmx.gz
+178126630 v2/tmx/en-eu.tmx.gz
+550072269 v2/tmx/en-fa.tmx.gz
+3208898606 v2/tmx/en-fi.tmx.gz
+311683548 v2/tmx/en-ga.tmx.gz
+331677701 v2/tmx/en-gl.tmx.gz
+120751114 v2/tmx/en-gu.tmx.gz
+1185262485 v2/tmx/en-he.tmx.gz
+1636891023 v2/tmx/en-hi.tmx.gz
+1648846727 v2/tmx/en-hr.tmx.gz
+296851913 v2/tmx/en-is.tmx.gz
+2219814206 v2/tmx/en-ja.tmx.gz
+264972028 v2/tmx/en-kk.tmx.gz
+132208198 v2/tmx/en-kn.tmx.gz
+2385605021 v2/tmx/en-ko.tmx.gz
+1517850244 v2/tmx/en-lt.tmx.gz
+1320538815 v2/tmx/en-lv.tmx.gz
+552116217 v2/tmx/en-mk.tmx.gz
+101255202 v2/tmx/en-ml.tmx.gz
+120381444 v2/tmx/en-mr.tmx.gz
+905551155 v2/tmx/en-ms.tmx.gz
+216392771 v2/tmx/en-mt.tmx.gz
+2380127300 v2/tmx/en-nb.tmx.gz
+ 55349568 v2/tmx/en-ne.tmx.gz
+ 65583641 v2/tmx/en-nn.tmx.gz
+ 45733027 v2/tmx/en-si.tmx.gz
+2309098984 v2/tmx/en-sk.tmx.gz
+1231739468 v2/tmx/en-sl.tmx.gz
+516089657 v2/tmx/en-sq.tmx.gz
+703039361 v2/tmx/en-sr.tmx.gz
+234248308 v2/tmx/en-sw.tmx.gz
+195868628 v2/tmx/en-ta.tmx.gz
+158431333 v2/tmx/en-te.tmx.gz
+708225799 v2/tmx/en-th.tmx.gz
+2879583622 v2/tmx/en-tr.tmx.gz
+3336450051 v2/tmx/en-uk.tmx.gz
+242649287 v2/tmx/en-ur.tmx.gz
+140531719 v2/tmx/en-uz.tmx.gz
+2282050839 v2/tmx/en-vi.tmx.gz
+ 47488719 v2/tmx/en-xh.tmx.gz
+206889106 v2/mono/af.tok.gz
+205300545 v2/mono/af.txt.gz
+1496588829 v2/mono/ar.tok.gz
+1492884738 v2/mono/ar.txt.gz
+180171104 v2/mono/az.tok.gz
+178769178 v2/mono/az.txt.gz
+205556553 v2/mono/be.tok.gz
+204420170 v2/mono/be.txt.gz
+1498923053 v2/mono/bg.tok.gz
+1488942189 v2/mono/bg.txt.gz
+178582710 v2/mono/bn.tok.gz
+210258385 v2/mono/bn.txt.gz
+284870310 v2/mono/bs.tok.gz
+283182275 v2/mono/bs.txt.gz
+781837038 v2/mono/ca.tok.gz
+776173708 v2/mono/ca.txt.gz
+203844046 v2/mono/cy.tok.gz
+202704696 v2/mono/cy.txt.gz
+      700 v2/mono/en.tok.gz
+      700 v2/mono/en.txt.gz
+469392949 v2/mono/et.tok.gz
+466106079 v2/mono/et.txt.gz
+ 82476125 v2/mono/eu.tok.gz
+ 81683477 v2/mono/eu.txt.gz
+277129891 v2/mono/fa.tok.gz
+276346767 v2/mono/fa.txt.gz
+1492087183 v2/mono/fi.tok.gz
+1482555589 v2/mono/fi.txt.gz
+147208933 v2/mono/ga.tok.gz
+146426817 v2/mono/ga.txt.gz
+157812079 v2/mono/gl.tok.gz
+156834695 v2/mono/gl.txt.gz
+ 57327775 v2/mono/gu.tok.gz
+ 64336304 v2/mono/gu.txt.gz
+565533705 v2/mono/he.tok.gz
+562000900 v2/mono/he.txt.gz
+780611026 v2/mono/hi.tok.gz
+872399198 v2/mono/hi.txt.gz
+761365128 v2/mono/hr.tok.gz
+757073835 v2/mono/hr.txt.gz
+137912218 v2/mono/is.tok.gz
+137055452 v2/mono/is.txt.gz
+1273082542 v2/mono/ja.tok.gz
+1201575479 v2/mono/ja.txt.gz
+128762640 v2/mono/kk.tok.gz
+127984448 v2/mono/kk.txt.gz
+ 64240586 v2/mono/kn.tok.gz
+ 71376748 v2/mono/kn.txt.gz
+1174061620 v2/mono/ko.tok.gz
+1163612061 v2/mono/ko.txt.gz
+703213131 v2/mono/lt.tok.gz
+697602450 v2/mono/lt.txt.gz
+608715571 v2/mono/lv.tok.gz
+603572832 v2/mono/lv.txt.gz
+272488650 v2/mono/mk.tok.gz
+270877807 v2/mono/mk.txt.gz
+ 49571126 v2/mono/ml.tok.gz
+ 55601058 v2/mono/ml.txt.gz
+ 57923681 v2/mono/mr.tok.gz
+ 65231897 v2/mono/mr.txt.gz
+416303984 v2/mono/ms.tok.gz
+413442554 v2/mono/ms.txt.gz
+104910250 v2/mono/mt.tok.gz
+102436031 v2/mono/mt.txt.gz
+1098150231 v2/mono/nb.tok.gz
+1089206785 v2/mono/nb.txt.gz
+ 29258102 v2/mono/ne.tok.gz
+ 29172884 v2/mono/ne.txt.gz
+ 30358336 v2/mono/nn.tok.gz
+ 30150699 v2/mono/nn.txt.gz
+ 24439980 v2/mono/si.tok.gz
+ 24350710 v2/mono/si.txt.gz
+1092166124 v2/mono/sk.tok.gz
+1086723688 v2/mono/sk.txt.gz
+566896396 v2/mono/sl.tok.gz
+563063487 v2/mono/sl.txt.gz
+248181545 v2/mono/sq.tok.gz
+246499310 v2/mono/sq.txt.gz
+339609678 v2/mono/sr.tok.gz
+337877558 v2/mono/sr.txt.gz
+105416399 v2/mono/sw.tok.gz
+104916344 v2/mono/sw.txt.gz
+ 90682906 v2/mono/ta.tok.gz
+105589180 v2/mono/ta.txt.gz
+ 81849423 v2/mono/te.tok.gz
+ 85995203 v2/mono/te.txt.gz
+398910240 v2/mono/th.tok.gz
+388786649 v2/mono/th.txt.gz
+1403734427 v2/mono/tr.tok.gz
+1391827838 v2/mono/tr.txt.gz
+1681979866 v2/mono/uk.tok.gz
+1672500589 v2/mono/uk.txt.gz
+123330937 v2/mono/ur.tok.gz
+123053601 v2/mono/ur.txt.gz
+ 63583036 v2/mono/uz.tok.gz
+ 63082246 v2/mono/uz.txt.gz
+1109579796 v2/mono/vi.tok.gz
+1102911889 v2/mono/vi.txt.gz
+ 21764125 v2/mono/xh.tok.gz
+ 21631669 v2/mono/xh.txt.gz
       756 v1/moses/README
 1507315700 v1/moses/ar-en.txt.zip
  14978719 v1/moses/bs-en.txt.zip
@@ -138,6 +243,252 @@
 319209040 v1/moses/en-sr.txt.zip
  99891391 v1/moses/en-sw.txt.zip
 508089266 v1/moses/en-zh_hant.txt.zip
+ 74757204 v2/xml/af-en.xml.gz
+582020850 v2/xml/af.zip
+331659138 v2/xml/ar-en.xml.gz
+3336780870 v2/xml/ar.zip
+ 59785082 v2/xml/az-en.xml.gz
+446766111 v2/xml/az.zip
+ 58252679 v2/xml/be-en.xml.gz
+453088256 v2/xml/be.zip
+425152290 v2/xml/bg-en.xml.gz
+3479506247 v2/xml/bg.zip
+ 43259174 v2/xml/bn-en.xml.gz
+548953060 v2/xml/bn.zip
+ 86295875 v2/xml/bs-en.xml.gz
+729011460 v2/xml/bs.zip
+241940975 v2/xml/ca-en.xml.gz
+2164220253 v2/xml/ca.zip
+ 68738544 v2/xml/cy-en.xml.gz
+580051432 v2/xml/cy.zip
+165217192 v2/xml/en-et.xml.gz
+ 28443940 v2/xml/en-eu.xml.gz
+ 65936749 v2/xml/en-fa.xml.gz
+548527101 v2/xml/en-fi.xml.gz
+ 49370830 v2/xml/en-ga.xml.gz
+ 53053596 v2/xml/en-gl.xml.gz
+ 13831120 v2/xml/en-gu.xml.gz
+168375975 v2/xml/en-he.xml.gz
+185678828 v2/xml/en-hi.xml.gz
+266054931 v2/xml/en-hr.xml.gz
+ 51193963 v2/xml/en-is.xml.gz
+345648127 v2/xml/en-ja.xml.gz
+ 35790537 v2/xml/en-kk.xml.gz
+ 14087445 v2/xml/en-kn.xml.gz
+352082987 v2/xml/en-ko.xml.gz
+242611231 v2/xml/en-lt.xml.gz
+212243727 v2/xml/en-lv.xml.gz
+ 74261556 v2/xml/en-mk.xml.gz
+ 10534986 v2/xml/en-ml.xml.gz
+ 12690487 v2/xml/en-mr.xml.gz
+157604490 v2/xml/en-ms.xml.gz
+ 27776962 v2/xml/en-mt.xml.gz
+428234106 v2/xml/en-nb.xml.gz
+  5933871 v2/xml/en-ne.xml.gz
+ 11243703 v2/xml/en-nn.xml.gz
+  5149788 v2/xml/en-si.xml.gz
+374321470 v2/xml/en-sk.xml.gz
+192807487 v2/xml/en-sl.xml.gz
+ 78676816 v2/xml/en-sq.xml.gz
+ 98625588 v2/xml/en-sr.xml.gz
+ 37745971 v2/xml/en-sw.xml.gz
+ 21645657 v2/xml/en-ta.xml.gz
+ 17575136 v2/xml/en-te.xml.gz
+ 80021457 v2/xml/en-th.xml.gz
+445057991 v2/xml/en-tr.xml.gz
+468951914 v2/xml/en-uk.xml.gz
+ 26598578 v2/xml/en-ur.xml.gz
+ 20503623 v2/xml/en-uz.xml.gz
+364167090 v2/xml/en-vi.xml.gz
+  7754657 v2/xml/en-xh.xml.gz
+     1880 v2/xml/en.zip
+1142619619 v2/xml/et.zip
+207793107 v2/xml/eu.zip
+676519900 v2/xml/fa.zip
+3357994969 v2/xml/fi.zip
+412486174 v2/xml/ga.zip
+426627333 v2/xml/gl.zip
+164286312 v2/xml/gu.zip
+1350377018 v2/xml/he.zip
+2297963548 v2/xml/hi.zip
+1967521928 v2/xml/hr.zip
+359983134 v2/xml/is.zip
+3561739328 v2/xml/ja.zip
+282429823 v2/xml/kk.zip
+168670986 v2/xml/kn.zip
+2793545807 v2/xml/ko.zip
+1746873499 v2/xml/lt.zip
+1545083579 v2/xml/lv.zip
+624682306 v2/xml/mk.zip
+134687865 v2/xml/ml.zip
+161792896 v2/xml/mr.zip
+1111531996 v2/xml/ms.zip
+321737650 v2/xml/mt.zip
+2943408660 v2/xml/nb.zip
+ 61017066 v2/xml/ne.zip
+ 80612497 v2/xml/nn.zip
+ 50334657 v2/xml/si.zip
+2750097383 v2/xml/sk.zip
+1475261171 v2/xml/sl.zip
+672883045 v2/xml/sq.zip
+756158181 v2/xml/sr.zip
+289309274 v2/xml/sw.zip
+279967063 v2/xml/ta.zip
+188622436 v2/xml/te.zip
+972135124 v2/xml/th.zip
+3531745230 v2/xml/tr.zip
+3688579821 v2/xml/uk.zip
+317061915 v2/xml/ur.zip
+162763762 v2/xml/uz.zip
+3313241674 v2/xml/vi.zip
+ 55295279 v2/xml/xh.zip
+225176551 v2/raw/af.zip
+1563244157 v2/raw/ar.zip
+195105773 v2/raw/az.zip
+218308833 v2/raw/be.zip
+1589500927 v2/raw/bg.zip
+219290072 v2/raw/bn.zip
+306752405 v2/raw/bs.zip
+841033576 v2/raw/ca.zip
+221452738 v2/raw/cy.zip
+      854 v2/raw/en.zip
+510217001 v2/raw/et.zip
+ 89485154 v2/raw/eu.zip
+290379124 v2/raw/fa.zip
+1629988415 v2/raw/fi.zip
+159080091 v2/raw/ga.zip
+170610923 v2/raw/gl.zip
+ 67183179 v2/raw/gu.zip
+598691924 v2/raw/he.zip
+910019838 v2/raw/hi.zip
+829005850 v2/raw/hr.zip
+150908915 v2/raw/is.zip
+1296271887 v2/raw/ja.zip
+136613864 v2/raw/kk.zip
+ 74281139 v2/raw/kn.zip
+1249748785 v2/raw/ko.zip
+764015591 v2/raw/lt.zip
+660143312 v2/raw/lv.zip
+288038658 v2/raw/mk.zip
+ 57955746 v2/raw/ml.zip
+ 68013742 v2/raw/mr.zip
+453432132 v2/raw/ms.zip
+109732612 v2/raw/mt.zip
+1202600447 v2/raw/nb.zip
+ 30386001 v2/raw/ne.zip
+ 33198296 v2/raw/nn.zip
+ 25427048 v2/raw/si.zip
+1187814283 v2/raw/sk.zip
+614425437 v2/raw/sl.zip
+266762329 v2/raw/sq.zip
+361400071 v2/raw/sr.zip
+115040784 v2/raw/sw.zip
+110288354 v2/raw/ta.zip
+ 89668885 v2/raw/te.zip
+405318648 v2/raw/th.zip
+1555182905 v2/raw/tr.zip
+1789147446 v2/raw/uk.zip
+128642354 v2/raw/ur.zip
+ 68742618 v2/raw/uz.zip
+1194472775 v2/raw/vi.zip
+ 23698887 v2/raw/xh.zip
+404356712 v2/moses/af-en.txt.zip
+2646918712 v2/moses/ar-en.txt.zip
+343735214 v2/moses/az-en.txt.zip
+354473982 v2/moses/be-en.txt.zip
+2608926402 v2/moses/bg-en.txt.zip
+346375196 v2/moses/bn-en.txt.zip
+552973718 v2/moses/bs-en.txt.zip
+1502260754 v2/moses/ca-en.txt.zip
+398068744 v2/moses/cy-en.txt.zip
+925088222 v2/moses/en-et.txt.zip
+161910523 v2/moses/en-eu.txt.zip
+484246371 v2/moses/en-fa.txt.zip
+2873772123 v2/moses/en-fi.txt.zip
+277689520 v2/moses/en-ga.txt.zip
+305952411 v2/moses/en-gl.txt.zip
+106350566 v2/moses/en-gu.txt.zip
+1049307001 v2/moses/en-he.txt.zip
+1437914079 v2/moses/en-hi.txt.zip
+1472532042 v2/moses/en-hr.txt.zip
+265704259 v2/moses/en-is.txt.zip
+1983618195 v2/moses/en-ja.txt.zip
+227824916 v2/moses/en-kk.txt.zip
+115947607 v2/moses/en-kn.txt.zip
+2121460281 v2/moses/en-ko.txt.zip
+1341277750 v2/moses/en-lt.txt.zip
+1166357965 v2/moses/en-lv.txt.zip
+479005465 v2/moses/en-mk.txt.zip
+ 88569200 v2/moses/en-ml.txt.zip
+105702340 v2/moses/en-mr.txt.zip
+819872159 v2/moses/en-ms.txt.zip
+194425781 v2/moses/en-mt.txt.zip
+2166199208 v2/moses/en-nb.txt.zip
+ 48655913 v2/moses/en-ne.txt.zip
+ 60883575 v2/moses/en-nn.txt.zip
+ 40329114 v2/moses/en-si.txt.zip
+2046941917 v2/moses/en-sk.txt.zip
+1105812455 v2/moses/en-sl.txt.zip
+469607105 v2/moses/en-sq.txt.zip
+603962036 v2/moses/en-sr.txt.zip
+211134505 v2/moses/en-sw.txt.zip
+172057090 v2/moses/en-ta.txt.zip
+139589788 v2/moses/en-te.txt.zip
+637909520 v2/moses/en-th.txt.zip
+2621970690 v2/moses/en-tr.txt.zip
+2898737562 v2/moses/en-uk.txt.zip
+213009499 v2/moses/en-ur.txt.zip
+124632069 v2/moses/en-uz.txt.zip
+2059187084 v2/moses/en-vi.txt.zip
+ 42786442 v2/moses/en-xh.txt.zip
+860655864 v1/raw/ar.zip
+  8129496 v1/raw/bs.zip
+445433070 v1/raw/ca.zip
+4254707264 v1/raw/en.zip
+289132125 v1/raw/et.zip
+ 30603515 v1/raw/eu.zip
+1128992323 v1/raw/fi.zip
+ 47845066 v1/raw/ga.zip
+ 45150271 v1/raw/gl.zip
+698458522 v1/raw/hi.zip
+451770409 v1/raw/hr.zip
+ 80644910 v1/raw/is.zip
+ 70838804 v1/raw/mk.zip
+ 56559982 v1/raw/mt.zip
+  6200829 v1/raw/nn.zip
+ 82940779 v1/raw/sq.zip
+173694864 v1/raw/sr.zip
+ 53399927 v1/raw/sw.zip
+279640461 v1/raw/zh_hant.zip
+     2555 v1/overlaps/ar-en.tsv
+     2932 v1/overlaps/ar.tsv
+     1458 v1/overlaps/bs-en.tsv
+     1818 v1/overlaps/bs.tsv
+     2442 v1/overlaps/ca-en.tsv
+     3891 v1/overlaps/ca.tsv
+     5221 v1/overlaps/en-et.tsv
+     1540 v1/overlaps/en-eu.tsv
+     5331 v1/overlaps/en-fi.tsv
+     5940 v1/overlaps/en-ga.tsv
+     1385 v1/overlaps/en-gl.tsv
+     2303 v1/overlaps/en-hi.tsv
+     5449 v1/overlaps/en-hr.tsv
+     3227 v1/overlaps/en-is.tsv
+     1826 v1/overlaps/en-mk.tsv
+     2758 v1/overlaps/en-mt.tsv
+     1254 v1/overlaps/en-nn.tsv
+     1876 v1/overlaps/en-sq.tsv
+     1975 v1/overlaps/en-sr.tsv
+     1427 v1/overlaps/en-sw.tsv
+     2355 v1/overlaps/eu.tsv
+     2047 v1/overlaps/gl.tsv
+     2633 v1/overlaps/hi.tsv
+     3800 v1/overlaps/is.tsv
+     2197 v1/overlaps/mk.tsv
+     1429 v1/overlaps/nn.tsv
+     2151 v1/overlaps/sq.tsv
+     2317 v1/overlaps/sr.tsv
+     1853 v1/overlaps/sw.tsv
 805583687 v1/mono/ar.tok.gz
 801246102 v1/mono/ar.txt.gz
   7087093 v1/mono/bs.tok.gz
@@ -176,25 +527,6 @@
  46097493 v1/mono/sw.txt.gz
 264537244 v1/mono/zh_hant.tok.gz
 253967701 v1/mono/zh_hant.txt.gz
-      754 v1/tmx/README
-      352 v1/tmx/ar-en.tmx.gz
- 15766243 v1/tmx/bs-en.tmx.gz
-840281272 v1/tmx/ca-en.tmx.gz
-562768258 v1/tmx/en-et.tmx.gz
-176890087 v1/tmx/en-eu.tmx.gz
-      708 v1/tmx/en-fi.tmx.gz
- 93539104 v1/tmx/en-ga.tmx.gz
-279085913 v1/tmx/en-gl.tmx.gz
-1219198988 v1/tmx/en-hi.tmx.gz
-872515336 v1/tmx/en-hr.tmx.gz
-849707080 v1/tmx/en-is.tmx.gz
-643290076 v1/tmx/en-mk.tmx.gz
-382543568 v1/tmx/en-mt.tmx.gz
- 32528368 v1/tmx/en-nn.tmx.gz
-720556810 v1/tmx/en-sq.tmx.gz
-333893455 v1/tmx/en-sr.tmx.gz
- 95131781 v1/tmx/en-sw.tmx.gz
-539628221 v1/tmx/en-zh_hant.tmx.gz
       754 v1/xml/README
 157829876 v1/xml/ar-en.xml.gz
 1904692614 v1/xml/ar.zip
@@ -233,44 +565,82 @@
 416675103 v1/xml/sr.zip
 149727924 v1/xml/sw.zip
 717269323 v1/xml/zh_hant.zip
-      758 v1.1/xml/README
-157829876 v1.1/xml/ar-en.xml.gz
-1904692614 v1.1/xml/ar.zip
-  2581403 v1.1/xml/bs-en.xml.gz
- 21396559 v1.1/xml/bs.zip
- 92974761 v1.1/xml/ca-en.xml.gz
-1128651004 v1.1/xml/ca.zip
- 65419125 v1.1/xml/en-et.xml.gz
-  6744565 v1.1/xml/en-eu.xml.gz
-270737721 v1.1/xml/en-fi.xml.gz
- 10696481 v1.1/xml/en-ga.xml.gz
- 11208290 v1.1/xml/en-gl.xml.gz
-124747525 v1.1/xml/en-hi.xml.gz
- 99514230 v1.1/xml/en-hr.xml.gz
- 22922940 v1.1/xml/en-is.xml.gz
- 12092474 v1.1/xml/en-mk.xml.gz
-  8309877 v1.1/xml/en-mt.xml.gz
-  1453398 v1.1/xml/en-nn.xml.gz
- 17586323 v1.1/xml/en-sq.xml.gz
- 41670902 v1.1/xml/en-sr.xml.gz
- 18569815 v1.1/xml/en-sw.xml.gz
- 57553436 v1.1/xml/en-zh_hant.xml.gz
-      346 v1.1/xml/en.zip
-649449924 v1.1/xml/et.zip
- 68677086 v1.1/xml/eu.zip
-2382215532 v1.1/xml/fi.zip
-125349702 v1.1/xml/ga.zip
-108297667 v1.1/xml/gl.zip
-1700933648 v1.1/xml/hi.zip
-1042100010 v1.1/xml/hr.zip
-213251538 v1.1/xml/is.zip
-148509050 v1.1/xml/mk.zip
-165348932 v1.1/xml/mt.zip
- 14790766 v1.1/xml/nn.zip
-201588615 v1.1/xml/sq.zip
-416675103 v1.1/xml/sr.zip
-149727924 v1.1/xml/sw.zip
-717269323 v1.1/xml/zh_hant.zip
+ 13112815 v1.1/freq/ar.freq.gz
+   645338 v1.1/freq/bs.freq.gz
+  8005612 v1.1/freq/ca.freq.gz
+ 42250778 v1.1/freq/en.freq.gz
+ 11012595 v1.1/freq/et.freq.gz
+  1847400 v1.1/freq/eu.freq.gz
+ 34209049 v1.1/freq/fi.freq.gz
+  1511511 v1.1/freq/ga.freq.gz
+  1960745 v1.1/freq/gl.freq.gz
+  9836567 v1.1/freq/hi.freq.gz
+  8475696 v1.1/freq/hr.freq.gz
+  3531209 v1.1/freq/is.freq.gz
+  2729375 v1.1/freq/mk.freq.gz
+  1442770 v1.1/freq/mt.freq.gz
+   673579 v1.1/freq/nn.freq.gz
+  2414551 v1.1/freq/sq.freq.gz
+  4656698 v1.1/freq/sr.freq.gz
+  2858996 v1.1/freq/sw.freq.gz
+  5009715 v1.1/freq/zh_hant.freq.gz
+      754 v1/tmx/README
+      352 v1/tmx/ar-en.tmx.gz
+ 15766243 v1/tmx/bs-en.tmx.gz
+840281272 v1/tmx/ca-en.tmx.gz
+562768258 v1/tmx/en-et.tmx.gz
+176890087 v1/tmx/en-eu.tmx.gz
+      708 v1/tmx/en-fi.tmx.gz
+ 93539104 v1/tmx/en-ga.tmx.gz
+279085913 v1/tmx/en-gl.tmx.gz
+1219198988 v1/tmx/en-hi.tmx.gz
+872515336 v1/tmx/en-hr.tmx.gz
+849707080 v1/tmx/en-is.tmx.gz
+643290076 v1/tmx/en-mk.tmx.gz
+382543568 v1/tmx/en-mt.tmx.gz
+ 32528368 v1/tmx/en-nn.tmx.gz
+720556810 v1/tmx/en-sq.tmx.gz
+333893455 v1/tmx/en-sr.tmx.gz
+ 95131781 v1/tmx/en-sw.tmx.gz
+539628221 v1/tmx/en-zh_hant.tmx.gz
+805583687 v1.1/mono/ar.tok.gz
+801246102 v1.1/mono/ar.txt.gz
+  7087093 v1.1/mono/bs.tok.gz
+  7016363 v1.1/mono/bs.txt.gz
+406144043 v1.1/mono/ca.tok.gz
+402624591 v1.1/mono/ca.txt.gz
+3823021860 v1.1/mono/en.tok.gz
+3796283482 v1.1/mono/en.txt.gz
+262112403 v1.1/mono/et.tok.gz
+260332706 v1.1/mono/et.txt.gz
+ 27907500 v1.1/mono/eu.tok.gz
+ 27631585 v1.1/mono/eu.txt.gz
+1016912226 v1.1/mono/fi.tok.gz
+1009830601 v1.1/mono/fi.txt.gz
+ 43685039 v1.1/mono/ga.tok.gz
+ 43482586 v1.1/mono/ga.txt.gz
+ 40646251 v1.1/mono/gl.tok.gz
+ 40377177 v1.1/mono/gl.txt.gz
+595372272 v1.1/mono/hi.tok.gz
+653721385 v1.1/mono/hi.txt.gz
+410420250 v1.1/mono/hr.tok.gz
+407525576 v1.1/mono/hr.txt.gz
+ 71534031 v1.1/mono/is.tok.gz
+ 71077535 v1.1/mono/is.txt.gz
+ 66547500 v1.1/mono/mk.tok.gz
+ 66130383 v1.1/mono/mk.txt.gz
+ 54087449 v1.1/mono/mt.tok.gz
+ 52723001 v1.1/mono/mt.txt.gz
+  5614852 v1.1/mono/nn.tok.gz
+  5573970 v1.1/mono/nn.txt.gz
+ 75916845 v1.1/mono/sq.tok.gz
+ 75431852 v1.1/mono/sq.txt.gz
+156037123 v1.1/mono/sr.tok.gz
+155111191 v1.1/mono/sr.txt.gz
+ 46640603 v1.1/mono/sw.tok.gz
+ 46097493 v1.1/mono/sw.txt.gz
+264537244 v1.1/mono/zh_hant.tok.gz
+253967701 v1.1/mono/zh_hant.txt.gz
       760 v1.1/moses/README
 1507315700 v1.1/moses/ar-en.txt.zip
  14978719 v1.1/moses/bs-en.txt.zip
@@ -309,6 +679,63 @@
 173694864 v1.1/raw/sr.zip
  53399927 v1.1/raw/sw.zip
 279640461 v1.1/raw/zh_hant.zip
+      758 v1.1/tmx/README
+      356 v1.1/tmx/ar-en.tmx.gz
+ 59034919 v1.1/tmx/bs-en.tmx.gz
+3569941170 v1.1/tmx/ca-en.tmx.gz
+2710683256 v1.1/tmx/en-et.tmx.gz
+176890087 v1.1/tmx/en-eu.tmx.gz
+      716 v1.1/tmx/en-fi.tmx.gz
+621798955 v1.1/tmx/en-ga.tmx.gz
+279085913 v1.1/tmx/en-gl.tmx.gz
+4814000484 v1.1/tmx/en-hi.tmx.gz
+4579013264 v1.1/tmx/en-hr.tmx.gz
+849707080 v1.1/tmx/en-is.tmx.gz
+643290076 v1.1/tmx/en-mk.tmx.gz
+382543568 v1.1/tmx/en-mt.tmx.gz
+ 32528368 v1.1/tmx/en-nn.tmx.gz
+720556810 v1.1/tmx/en-sq.tmx.gz
+2167904694 v1.1/tmx/en-sr.tmx.gz
+498076238 v1.1/tmx/en-sw.tmx.gz
+2232759188 v1.1/tmx/en-zh_hant.tmx.gz
+      758 v1.1/xml/README
+157829876 v1.1/xml/ar-en.xml.gz
+1904692614 v1.1/xml/ar.zip
+  2581403 v1.1/xml/bs-en.xml.gz
+ 21396559 v1.1/xml/bs.zip
+ 92974761 v1.1/xml/ca-en.xml.gz
+1128651004 v1.1/xml/ca.zip
+ 65419125 v1.1/xml/en-et.xml.gz
+  6744565 v1.1/xml/en-eu.xml.gz
+270737721 v1.1/xml/en-fi.xml.gz
+ 10696481 v1.1/xml/en-ga.xml.gz
+ 11208290 v1.1/xml/en-gl.xml.gz
+124747525 v1.1/xml/en-hi.xml.gz
+ 99514230 v1.1/xml/en-hr.xml.gz
+ 22922940 v1.1/xml/en-is.xml.gz
+ 12092474 v1.1/xml/en-mk.xml.gz
+  8309877 v1.1/xml/en-mt.xml.gz
+  1453398 v1.1/xml/en-nn.xml.gz
+ 17586323 v1.1/xml/en-sq.xml.gz
+ 41670902 v1.1/xml/en-sr.xml.gz
+ 18569815 v1.1/xml/en-sw.xml.gz
+ 57553436 v1.1/xml/en-zh_hant.xml.gz
+      346 v1.1/xml/en.zip
+649449924 v1.1/xml/et.zip
+ 68677086 v1.1/xml/eu.zip
+2382215532 v1.1/xml/fi.zip
+125349702 v1.1/xml/ga.zip
+108297667 v1.1/xml/gl.zip
+1700933648 v1.1/xml/hi.zip
+1042100010 v1.1/xml/hr.zip
+213251538 v1.1/xml/is.zip
+148509050 v1.1/xml/mk.zip
+165348932 v1.1/xml/mt.zip
+ 14790766 v1.1/xml/nn.zip
+201588615 v1.1/xml/sq.zip
+416675103 v1.1/xml/sr.zip
+149727924 v1.1/xml/sw.zip
+717269323 v1.1/xml/zh_hant.zip
      2555 v1.1/overlaps/ar-en.tsv
      2934 v1.1/overlaps/ar.tsv
      1514 v1.1/overlaps/bs-en.tsv
@@ -343,32 +770,3 @@
      2313 v1.1/overlaps/sq.tsv
      2479 v1.1/overlaps/sr.tsv
      1912 v1.1/overlaps/sw.tsv
-     2555 v1/overlaps/ar-en.tsv
-     2932 v1/overlaps/ar.tsv
-     1458 v1/overlaps/bs-en.tsv
-     1818 v1/overlaps/bs.tsv
-     2442 v1/overlaps/ca-en.tsv
-     3891 v1/overlaps/ca.tsv
-     5221 v1/overlaps/en-et.tsv
-     1540 v1/overlaps/en-eu.tsv
-     5331 v1/overlaps/en-fi.tsv
-     5940 v1/overlaps/en-ga.tsv
-     1385 v1/overlaps/en-gl.tsv
-     2303 v1/overlaps/en-hi.tsv
-     5449 v1/overlaps/en-hr.tsv
-     3227 v1/overlaps/en-is.tsv
-     1826 v1/overlaps/en-mk.tsv
-     2758 v1/overlaps/en-mt.tsv
-     1254 v1/overlaps/en-nn.tsv
-     1876 v1/overlaps/en-sq.tsv
-     1975 v1/overlaps/en-sr.tsv
-     1427 v1/overlaps/en-sw.tsv
-     2355 v1/overlaps/eu.tsv
-     2047 v1/overlaps/gl.tsv
-     2633 v1/overlaps/hi.tsv
-     3800 v1/overlaps/is.tsv
-     2197 v1/overlaps/mk.tsv
-     1429 v1/overlaps/nn.tsv
-     2151 v1/overlaps/sq.tsv
-     2317 v1/overlaps/sr.tsv
-     1853 v1/overlaps/sw.tsv

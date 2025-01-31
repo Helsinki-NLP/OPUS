@@ -1,6 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 WikiMatrix	v1	CCMatrix	v1	357970	44333768	99038	27.66	.22
 WikiMatrix	v1	NLLB	v1	357970	44332999	99038	27.66	.22
+WikiMatrix	v1	HPLT	v2	357970	22725296	47715	13.32	.20
 WikiMatrix	v1	ParaCrawl	v9	357970	13264298	44357	12.39	.33
 WikiMatrix	v1	ParaCrawl	v8	357970	11927055	29176	8.15	.24
 WikiMatrix	v1	Wikipedia	v1.0	357970	77040	7799	2.17	10.12
@@ -44,6 +45,7 @@ WikiMatrix	v1	KDE4	v2	357970	102046	9	0	0
 WikiMatrix	v1	bible-uedin	v1	357970	61559	0	0	0
 WikiMatrix	v1	ELRC-768-corpora_State_Admini	v1	357970	50413	2	0	0
 WikiMatrix	v1	JRC-Acquis	v3.0	357970	28494	1	0	0
+WikiMatrix	v1	translatewiki	v2025-01-01	357970	23591	3	0	.01
 WikiMatrix	v1	ELRC-3563-EUR_LEX_covid	v1	357970	23000	1	0	0
 WikiMatrix	v1	ELRC-EUR_LEX	v1	357970	23000	1	0	0
 WikiMatrix	v1	ELRC-1176-EUIPO_2017	v1	357970	19606	1	0	0

@@ -1,8 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2017q3	GlobalVoices	v2018q4	5738	5745	5738	100.00	99.87
+GlobalVoices	v2017q3	HPLT	v2	5738	4166536	2413	42.05	.05
 GlobalVoices	v2017q3	NLLB	v1	5738	68801691	1322	23.03	0
 GlobalVoices	v2017q3	CCMatrix	v1	5738	22191703	992	17.28	0
+GlobalVoices	v2017q3	HPLT	v1.1	5738	1655959	535	9.32	.03
 GlobalVoices	v2017q3	HPLT	v1	5738	1655959	535	9.32	.03
+GlobalVoices	v2017q3	MultiHPLT	v1.1	5738	1655959	535	9.32	.03
+GlobalVoices	v2017q3	MaCoCu	v2	5738	507538	426	7.42	.08
+GlobalVoices	v2017q3	MultiMaCoCu	v2	5738	507538	426	7.42	.08
 GlobalVoices	v2017q3	OpenSubtitles	v2018	5738	1626927	26	.45	0
 GlobalVoices	v2017q3	OpenSubtitles	v2016	5738	1537760	23	.40	0
 GlobalVoices	v2017q3	XLEnt	v1.1	5738	1290636	11	.19	0

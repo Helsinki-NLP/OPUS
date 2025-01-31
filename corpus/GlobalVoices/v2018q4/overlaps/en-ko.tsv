@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2018q4	GlobalVoices	v2017q3	8913	8131	7658	85.91	94.18
+GlobalVoices	v2018q4	HPLT	v2	8913	18302434	469	5.26	0
 GlobalVoices	v2018q4	CCMatrix	v1	8913	19154169	277	3.10	0
 GlobalVoices	v2018q4	NLLB	v1	8913	19153948	277	3.10	0
+GlobalVoices	v2018q4	ParaCrawl-Bonus	v9	8913	7649185	12	.13	0
 GlobalVoices	v2018q4	OpenSubtitles	v2018	8913	1248658	6	.06	0
 GlobalVoices	v2018q4	OpenSubtitles	v2016	8913	344372	6	.06	0
+GlobalVoices	v2018q4	MDN_Web_Docs	v2023-09-25	8913	6097	5	.05	.08
 GlobalVoices	v2018q4	ParaCrawl	v8	8913	3985516	3	.03	0
 GlobalVoices	v2018q4	ParaCrawl	v9	8913	3985516	3	.03	0
 GlobalVoices	v2018q4	QED	v2.0a	8913	493349	3	.03	0
@@ -16,6 +19,7 @@ GlobalVoices	v2018q4	XLEnt	v1	8913	2694241	2	.02	0
 GlobalVoices	v2018q4	TED2020	v1	8913	389336	2	.02	0
 GlobalVoices	v2018q4	NeuLab-TedTalks	v1	8913	215654	2	.02	0
 GlobalVoices	v2018q4	wikimedia	v20230407	8913	99485	2	.02	0
+GlobalVoices	v2018q4	translatewiki	v2025-01-01	8913	53398	2	.02	0
 GlobalVoices	v2018q4	wikimedia	v20210402	8913	42643	2	.02	0
 GlobalVoices	v2018q4	WikiMatrix	v1	8913	306822	1	.01	0
 GlobalVoices	v2018q4	Tatoeba	v2023-04-12	8913	3562	1	.01	.02
@@ -25,6 +29,7 @@ GlobalVoices	v2018q4	Tatoeba	v2021-03-10	8913	3390	1	.01	.02
 GlobalVoices	v2018q4	Tatoeba	v2020-11-09	8913	3365	1	.01	.02
 GlobalVoices	v2018q4	ELRC-3070-wikipedia_health	v1	8913	1637	1	.01	.06
 GlobalVoices	v2018q4	ELRC-wikipedia_health	v1	8913	1637	1	.01	.06
+GlobalVoices	v2018q4	tldr-pages	v2023-08-29	8913	1541	1	.01	.06
 GlobalVoices	v2018q4	Tanzil	v1	8913	92140	0	0	0
 GlobalVoices	v2018q4	KDE4	v2	8913	69392	0	0	0
 GlobalVoices	v2018q4	bible-uedin	v1	8913	61453	0	0	0

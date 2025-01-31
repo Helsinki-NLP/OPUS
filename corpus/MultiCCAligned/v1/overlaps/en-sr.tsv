@@ -2,6 +2,7 @@ corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	1986759	1986729	1986729	99.99	100.00
 MultiCCAligned	v1	CCMatrix	v1	1986759	26373997	57447	2.89	.21
 MultiCCAligned	v1	NLLB	v1	1986759	26373614	57449	2.89	.21
+MultiCCAligned	v1	HPLT	v2	1986759	5291671	37548	1.88	.70
 MultiCCAligned	v1	XLEnt	v1.1	1986759	1409606	2270	.11	.16
 MultiCCAligned	v1	XLEnt	v1	1986759	1409606	2270	.11	.16
 MultiCCAligned	v1	XLEnt	v1.2	1986759	1409606	2270	.11	.16
@@ -9,7 +10,9 @@ MultiCCAligned	v1	OpenSubtitles	v2018	1986759	34892472	384	.01	0
 MultiCCAligned	v1	OpenSubtitles	v2016	1986759	18645057	220	.01	0
 MultiCCAligned	v1	wikimedia	v20230407	1986759	211270	199	.01	.09
 MultiCCAligned	v1	KDE4	v2	1986759	51909	347	.01	.66
-MultiCCAligned	v1	HPLT	v1	1986774	555004	12	0	0
+MultiCCAligned	v1	HPLT	v1.1	1986759	3904384	12	0	0
+MultiCCAligned	v1	HPLT	v1	1986759	3904384	12	0	0
+MultiCCAligned	v1	MultiHPLT	v1.1	1986759	3904384	12	0	0
 MultiCCAligned	v1	WikiMatrix	v1	1986759	395569	44	0	.01
 MultiCCAligned	v1	GoURMET	v1	1986759	326997	63	0	.01
 MultiCCAligned	v1	GoURMET	v2	1986759	326997	63	0	.01
@@ -40,4 +43,4 @@ MultiCCAligned	v1	Tatoeba	v2	1986759	732	1	0	.13
 MultiCCAligned	v1	GNOME	v1	1986759	149	5	0	3.35
 MultiCCAligned	v1	ELRC-416-Swedish_Social_Secur	v1	1986759	90	1	0	1.11
 MultiCCAligned	v1	ELRC_416	v1	1986759	89	0	0	0
-MultiCCAligned	v1	tldr-pages	v2023-08-29	1986774	26	1	0	3.84
+MultiCCAligned	v1	tldr-pages	v2023-08-29	1986759	26	1	0	3.84

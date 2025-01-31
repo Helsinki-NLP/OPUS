@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	25892129	14819515	14819515	57.23	100.00
+MultiCCAligned	v1	HPLT	v2	25892129	18894014	181975	.70	.96
 MultiCCAligned	v1	JParaCrawl	v3.0	25892129	21626824	123292	.47	.57
 MultiCCAligned	v1	XLEnt	v1.1	25892129	6082819	73167	.28	1.20
 MultiCCAligned	v1	XLEnt	v1.2	25892129	6082819	73167	.28	1.20
@@ -28,6 +29,7 @@ MultiCCAligned	v1	Tatoeba	v20190709	25892129	202150	527	0	.26
 MultiCCAligned	v1	Tatoeba	v2	25892129	185593	476	0	.25
 MultiCCAligned	v1	wikimedia	v20210402	25892129	155843	880	0	.56
 MultiCCAligned	v1	KDE4	v2	25892129	114199	2540	0	2.22
+MultiCCAligned	v1	MDN_Web_Docs	v2023-09-25	25892129	86246	209	0	.24
 MultiCCAligned	v1	ALT	v2019	25892129	18086	1	0	0
 MultiCCAligned	v1	PHP	v1	25892129	12017	12	0	.09
 MultiCCAligned	v1	OpenSubtitles	v1	25892129	5581	6	0	.10
@@ -37,5 +39,6 @@ MultiCCAligned	v1	News-Commentary	v16	25892129	638	1	0	.15
 MultiCCAligned	v1	News-Commentary	v11	25892129	637	0	0	0
 MultiCCAligned	v1	News-Commentary	v9.0	25892129	637	0	0	0
 MultiCCAligned	v1	News-Commentary	v9.1	25892129	637	0	0	0
+MultiCCAligned	v1	tldr-pages	v2023-08-29	25892129	600	2	0	.33
 MultiCCAligned	v1	EUbookshop	v2	25892129	96	2	0	2.08
 MultiCCAligned	v1	GNOME	v1	25892129	50	4	0	8.00

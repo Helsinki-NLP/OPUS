@@ -1,10 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Tanzil	v1	MultiCCAligned	v1	92140	8613122	3471	3.76	.04
 Tanzil	v1	CCAligned	v1	92140	8612957	3471	3.76	.04
+Tanzil	v1	ParaCrawl-Bonus	v9	92140	7649185	2301	2.49	.03
 Tanzil	v1	CCMatrix	v1	92140	19154169	1474	1.59	0
 Tanzil	v1	NLLB	v1	92140	19153948	1474	1.59	0
 Tanzil	v1	ParaCrawl	v8	92140	3985516	320	.34	0
 Tanzil	v1	ParaCrawl	v9	92140	3985516	320	.34	0
+Tanzil	v1	HPLT	v2	92140	18302434	35	.03	0
 Tanzil	v1	LinguaTools-WikiTitles	v2014	92140	3297534	0	0	0
 Tanzil	v1	XLEnt	v1.1	92140	2694241	0	0	0
 Tanzil	v1	XLEnt	v1.2	92140	2694241	0	0	0
@@ -18,10 +20,12 @@ Tanzil	v1	NeuLab-TedTalks	v1	92140	215654	0	0	0
 Tanzil	v1	wikimedia	v20230407	92140	99485	0	0	0
 Tanzil	v1	KDE4	v2	92140	69392	0	0	0
 Tanzil	v1	bible-uedin	v1	92140	61453	0	0	0
+Tanzil	v1	translatewiki	v2025-01-01	92140	53398	0	0	0
 Tanzil	v1	wikimedia	v20210402	92140	42643	0	0	0
 Tanzil	v1	PHP	v1	92140	10903	0	0	0
 Tanzil	v1	GlobalVoices	v2018q4	92140	8913	0	0	0
 Tanzil	v1	GlobalVoices	v2017q3	92140	8131	0	0	0
+Tanzil	v1	MDN_Web_Docs	v2023-09-25	92140	6097	0	0	0
 Tanzil	v1	Tatoeba	v2023-04-12	92140	3562	0	0	0
 Tanzil	v1	Tatoeba	v2022-03-03	92140	3414	0	0	0
 Tanzil	v1	Tatoeba	v2021-07-22	92140	3397	0	0	0
@@ -32,6 +36,7 @@ Tanzil	v1	Tatoeba	v20190709	92140	2779	0	0	0
 Tanzil	v1	ELRC-3070-wikipedia_health	v1	92140	1637	0	0	0
 Tanzil	v1	ELRC-wikipedia_health	v1	92140	1637	0	0	0
 Tanzil	v1	ELRC_2922	v1	92140	1636	0	0	0
+Tanzil	v1	tldr-pages	v2023-08-29	92140	1541	0	0	0
 Tanzil	v1	Tatoeba	v2	92140	904	0	0	0
 Tanzil	v1	Ubuntu	v14.10	92140	353	0	0	0
 Tanzil	v1	GNOME	v1	92140	165	0	0	0

@@ -1,8 +1,11 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	10610854	10610649	10610649	99.99	100.00
+MultiCCAligned	v1	ParaCrawl-Bonus	v9	10610854	2057691	118742	1.11	5.77
+MultiCCAligned	v1	HPLT	v2	10610854	4088285	83382	.78	2.03
 MultiCCAligned	v1	XLEnt	v1	10610854	1185964	15318	.14	1.29
 MultiCCAligned	v1	XLEnt	v1.1	10610854	1185964	15318	.14	1.29
 MultiCCAligned	v1	XLEnt	v1.2	10610854	1185964	15318	.14	1.29
+MultiCCAligned	v1	SCB_MT_EN_TH	v1.0	10610854	986492	9903	.09	1.00
 MultiCCAligned	v1	Tanzil	v1	10610854	92182	4597	.04	4.98
 MultiCCAligned	v1	KDE4	v2	10610854	64154	1410	.01	2.19
 MultiCCAligned	v1	OpenSubtitles	v2018	10610854	2964358	1054	0	.03
@@ -21,6 +24,7 @@ MultiCCAligned	v1	Tatoeba	v2021-07-22	10610854	1159	31	0	2.67
 MultiCCAligned	v1	Tatoeba	v2020-11-09	10610854	1145	31	0	2.70
 MultiCCAligned	v1	Tatoeba	v2020-05-31	10610854	1144	30	0	2.62
 MultiCCAligned	v1	Tatoeba	v20190709	10610854	1081	30	0	2.77
+MultiCCAligned	v1	tldr-pages	v2023-08-29	10610854	296	1	0	.33
 MultiCCAligned	v1	ELRC-3048-wikipedia_health	v1	10610854	237	1	0	.42
 MultiCCAligned	v1	ELRC-wikipedia_health	v1	10610854	237	1	0	.42
 MultiCCAligned	v1	ELRC_2922	v1	10610854	236	0	0	0

@@ -1,10 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	579746	579735	579735	99.99	100.00
 MultiCCAligned	v1	NLLB	v1	579746	46208096	9506	1.63	.02
+MultiCCAligned	v1	HPLT	v2	579746	902962	7685	1.32	.85
 MultiCCAligned	v1	XLEnt	v1.1	579746	141795	1340	.23	.94
 MultiCCAligned	v1	XLEnt	v1.2	579746	141795	1340	.23	.94
 MultiCCAligned	v1	XLEnt	v1	579746	141795	1340	.23	.94
 MultiCCAligned	v1	Samanantar	v0.2	579746	4911406	468	.08	0
+MultiCCAligned	v1	translatewiki	v2025-01-01	579746	22449	338	.05	1.50
 MultiCCAligned	v1	Anuvaad	v1	579746	1563069	188	.03	.01
 MultiCCAligned	v1	wikimedia	v20230407	579746	61616	76	.01	.12
 MultiCCAligned	v1	wikimedia	v20210402	579746	30406	67	.01	.22

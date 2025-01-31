@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	8613122	8612957	8612957	99.99	100.00
+MultiCCAligned	v1	ParaCrawl-Bonus	v9	8613122	7649185	205777	2.38	2.69
+MultiCCAligned	v1	HPLT	v2	8613122	18302434	114095	1.32	.62
 MultiCCAligned	v1	CCMatrix	v1	8613122	19154169	34729	.40	.18
 MultiCCAligned	v1	NLLB	v1	8613122	19153948	34732	.40	.18
 MultiCCAligned	v1	ParaCrawl	v8	8613122	3985516	25195	.29	.63
@@ -18,10 +20,12 @@ MultiCCAligned	v1	NeuLab-TedTalks	v1	8613122	215654	86	0	.03
 MultiCCAligned	v1	wikimedia	v20230407	8613122	99485	48	0	.04
 MultiCCAligned	v1	KDE4	v2	8613122	69392	268	0	.38
 MultiCCAligned	v1	bible-uedin	v1	8613122	61453	9	0	.01
+MultiCCAligned	v1	translatewiki	v2025-01-01	8613122	53398	415	0	.77
 MultiCCAligned	v1	wikimedia	v20210402	8613122	42643	38	0	.08
 MultiCCAligned	v1	PHP	v1	8613122	10903	1	0	0
 MultiCCAligned	v1	GlobalVoices	v2018q4	8613122	8913	2	0	.02
 MultiCCAligned	v1	GlobalVoices	v2017q3	8613122	8131	0	0	0
+MultiCCAligned	v1	MDN_Web_Docs	v2023-09-25	8613122	6097	6	0	.09
 MultiCCAligned	v1	Tatoeba	v2023-04-12	8613122	3562	12	0	.33
 MultiCCAligned	v1	Tatoeba	v2022-03-03	8613122	3414	12	0	.35
 MultiCCAligned	v1	Tatoeba	v2021-07-22	8613122	3397	12	0	.35
@@ -32,6 +36,7 @@ MultiCCAligned	v1	Tatoeba	v20190709	8613122	2779	11	0	.39
 MultiCCAligned	v1	ELRC-3070-wikipedia_health	v1	8613122	1637	1	0	.06
 MultiCCAligned	v1	ELRC-wikipedia_health	v1	8613122	1637	1	0	.06
 MultiCCAligned	v1	ELRC_2922	v1	8613122	1636	0	0	0
+MultiCCAligned	v1	tldr-pages	v2023-08-29	8613122	1541	1	0	.06
 MultiCCAligned	v1	Tatoeba	v2	8613122	904	3	0	.33
 MultiCCAligned	v1	Ubuntu	v14.10	8613122	353	4	0	1.13
 MultiCCAligned	v1	GNOME	v1	8613122	165	2	0	1.21

@@ -1,5 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ParaCrawl	v8	ParaCrawl	v9	3985516	3985516	3985516	100.00	100.00
+ParaCrawl	v8	ParaCrawl-Bonus	v9	3985516	7649185	177918	4.46	2.32
+ParaCrawl	v8	HPLT	v2	3985516	18302434	105021	2.63	.57
 ParaCrawl	v8	CCMatrix	v1	3985516	19154169	62143	1.55	.32
 ParaCrawl	v8	NLLB	v1	3985516	19153948	62143	1.55	.32
 ParaCrawl	v8	MultiCCAligned	v1	3985516	8613122	25195	.63	.29
@@ -18,10 +20,12 @@ ParaCrawl	v8	OpenSubtitles	v2016	3985516	344372	32	0	0
 ParaCrawl	v8	wikimedia	v20230407	3985516	99485	30	0	.03
 ParaCrawl	v8	Tanzil	v1	3985516	92140	320	0	.34
 ParaCrawl	v8	KDE4	v2	3985516	69392	34	0	.04
+ParaCrawl	v8	translatewiki	v2025-01-01	3985516	53398	138	0	.25
 ParaCrawl	v8	wikimedia	v20210402	3985516	42643	22	0	.05
 ParaCrawl	v8	PHP	v1	3985516	10903	1	0	0
 ParaCrawl	v8	GlobalVoices	v2018q4	3985516	8913	3	0	.03
 ParaCrawl	v8	GlobalVoices	v2017q3	3985516	8131	2	0	.02
+ParaCrawl	v8	MDN_Web_Docs	v2023-09-25	3985516	6097	7	0	.11
 ParaCrawl	v8	Tatoeba	v2023-04-12	3985516	3562	10	0	.28
 ParaCrawl	v8	Tatoeba	v2022-03-03	3985516	3414	10	0	.29
 ParaCrawl	v8	Tatoeba	v2021-07-22	3985516	3397	10	0	.29
@@ -32,6 +36,7 @@ ParaCrawl	v8	Tatoeba	v20190709	3985516	2779	9	0	.32
 ParaCrawl	v8	ELRC-3070-wikipedia_health	v1	3985516	1637	14	0	.85
 ParaCrawl	v8	ELRC-wikipedia_health	v1	3985516	1637	14	0	.85
 ParaCrawl	v8	ELRC_2922	v1	3985516	1636	13	0	.79
+ParaCrawl	v8	tldr-pages	v2023-08-29	3985516	1541	1	0	.06
 ParaCrawl	v8	Tatoeba	v2	3985516	904	7	0	.77
 ParaCrawl	v8	Ubuntu	v14.10	3985516	353	0	0	0
 ParaCrawl	v8	GNOME	v1	3985516	165	0	0	0

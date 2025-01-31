@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 CCAligned	v1	MultiCCAligned	v1	687353	687365	687353	100.00	99.99
+CCAligned	v1	HPLT	v2	687353	1943935	9767	1.42	.50
 CCAligned	v1	NLLB	v1	687353	34443405	3684	.53	.01
 CCAligned	v1	XLEnt	v1.1	687353	157242	687	.09	.43
 CCAligned	v1	XLEnt	v1.2	687353	157242	687	.09	.43
@@ -26,5 +27,6 @@ CCAligned	v1	Tatoeba	v2021-07-22	687353	407	3	0	.73
 CCAligned	v1	Tatoeba	v2020-11-09	687353	401	3	0	.74
 CCAligned	v1	Tatoeba	v2020-05-31	687353	397	2	0	.50
 CCAligned	v1	Tatoeba	v20190709	687353	386	2	0	.51
+CCAligned	v1	translatewiki	v2025-01-01	687353	350	5	0	1.42
 CCAligned	v1	Ubuntu	v14.10	687353	234	3	0	1.28
 CCAligned	v1	Tatoeba	v2	687353	175	1	0	.57

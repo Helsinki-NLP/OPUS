@@ -1,5 +1,6 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 ELRC-antibiotic	v1	ELRC-3209-antibiotic	v1	1009	1009	1009	100.00	100.00
+ELRC-antibiotic	v1	HPLT	v2	1009	20056317	304	30.12	0
 ELRC-antibiotic	v1	ParaCrawl	v8	1009	13010368	301	29.83	0
 ELRC-antibiotic	v1	CCMatrix	v1	1009	37874215	274	27.15	0
 ELRC-antibiotic	v1	NLLB	v1	1009	37873653	274	27.15	0
@@ -10,6 +11,7 @@ ELRC-antibiotic	v1	CCAligned	v1	1009	6901883	4	.39	0
 ELRC-antibiotic	v1	TildeMODEL	v2018	1009	2133398	3	.29	0
 ELRC-antibiotic	v1	ELRC-2721-EMEA	v1	1009	774311	3	.29	0
 ELRC-antibiotic	v1	ELRC-EMEA	v1	1009	774311	3	.29	0
+ELRC-antibiotic	v1	translatewiki	v2025-01-01	1009	31227	3	.29	0
 ELRC-antibiotic	v1	EMEA	v3	1009	334130	2	.19	0
 ELRC-antibiotic	v1	ELITR-ECA	v1	1009	252908	2	.19	0
 ELRC-antibiotic	v1	ELRC-3570-EUR_LEX_covid	v1	1009	22470	2	.19	0

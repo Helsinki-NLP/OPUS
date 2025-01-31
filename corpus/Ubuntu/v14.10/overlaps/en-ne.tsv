@@ -1,11 +1,13 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 Ubuntu	v14.10	GNOME	v1	29280	77626	20604	70.36	26.54
 Ubuntu	v14.10	KDE4	v2	29280	81763	1574	5.37	1.92
+Ubuntu	v14.10	ParaCrawl-Bonus	v9	29280	2228712	660	2.25	.02
 Ubuntu	v14.10	XLEnt	v1.1	29280	314840	329	1.12	.10
 Ubuntu	v14.10	XLEnt	v1.2	29280	314840	329	1.12	.10
 Ubuntu	v14.10	XLEnt	v1	29280	314840	329	1.12	.10
 Ubuntu	v14.10	MultiCCAligned	v1	29280	484499	112	.38	.02
 Ubuntu	v14.10	CCAligned	v1	29280	484491	112	.38	.02
+Ubuntu	v14.10	HPLT	v2	29280	317120	23	.07	0
 Ubuntu	v14.10	NLLB	v1	29280	19418676	15	.05	0
 Ubuntu	v14.10	MultiParaCrawl	v7.1	29280	90427	17	.05	.01
 Ubuntu	v14.10	ParaCrawl	v8	29280	90427	17	.05	.01
@@ -20,4 +22,5 @@ Ubuntu	v14.10	WikiMatrix	v1	29280	15016	0	0	0
 Ubuntu	v14.10	TED2020	v1	29280	4104	0	0	0
 Ubuntu	v14.10	tico-19	v2020-10-28	29280	3070	0	0	0
 Ubuntu	v14.10	GlobalVoices	v2018q4	29280	2682	1	0	.03
+Ubuntu	v14.10	tldr-pages	v2023-08-29	29280	295	0	0	0
 Ubuntu	v14.10	QED	v2.0a	29280	263	0	0	0

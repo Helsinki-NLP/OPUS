@@ -1,9 +1,12 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 GlobalVoices	v2017q3	GlobalVoices	v2018q4	49453	52502	49255	99.59	93.81
 GlobalVoices	v2017q3	GlobalVoices	v2015	49453	46424	46280	93.58	99.68
+GlobalVoices	v2017q3	HPLT	v2	49453	3991614	20774	42.00	.52
 GlobalVoices	v2017q3	CCMatrix	v1	49453	11956949	6771	13.69	.05
 GlobalVoices	v2017q3	NLLB	v1	49453	11956703	6771	13.69	.05
+GlobalVoices	v2017q3	HPLT	v1.1	49453	1139052	4065	8.21	.35
 GlobalVoices	v2017q3	HPLT	v1	49453	1139052	4065	8.21	.35
+GlobalVoices	v2017q3	MultiHPLT	v1.1	49453	1139052	4065	8.21	.35
 GlobalVoices	v2017q3	OpenSubtitles	v2018	49453	2896675	162	.32	0
 GlobalVoices	v2017q3	OpenSubtitles	v2016	49453	2217817	147	.29	0
 GlobalVoices	v2017q3	XLEnt	v1.1	49453	1696310	45	.09	0
@@ -12,6 +15,8 @@ GlobalVoices	v2017q3	XLEnt	v1	49453	1696310	45	.09	0
 GlobalVoices	v2017q3	QED	v2.0a	49453	63772	35	.07	.05
 GlobalVoices	v2017q3	MultiCCAligned	v1	49453	1781824	27	.05	0
 GlobalVoices	v2017q3	CCAligned	v1	49453	1781797	27	.05	0
+GlobalVoices	v2017q3	MaCoCu	v2	49453	376748	20	.04	0
+GlobalVoices	v2017q3	MultiMaCoCu	v2	49453	376748	20	.04	0
 GlobalVoices	v2017q3	SETIMES	v2	49453	205807	16	.03	0
 GlobalVoices	v2017q3	Tatoeba	v2023-04-12	49453	80340	16	.03	.01
 GlobalVoices	v2017q3	Tatoeba	v2021-07-22	49453	80333	16	.03	.01
