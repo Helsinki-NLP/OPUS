@@ -1,6 +1,7 @@
 corpus A	release A	corpus B	release B	size A	size B	A∩B	A∩B/A	A∩B/B
 MultiCCAligned	v1	CCAligned	v1	687365	687353	687353	99.99	100.00
 MultiCCAligned	v1	HPLT	v2	687365	1943935	9767	1.42	.50
+MultiCCAligned	v1	MultiHPLT	v2	687365	1943935	9767	1.42	.50
 MultiCCAligned	v1	NLLB	v1	687365	34443405	3685	.53	.01
 MultiCCAligned	v1	XLEnt	v1.1	687365	157242	687	.09	.43
 MultiCCAligned	v1	XLEnt	v1.2	687365	157242	687	.09	.43
