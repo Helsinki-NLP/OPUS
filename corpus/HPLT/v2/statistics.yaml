@@ -189,6 +189,24 @@ bitexts:
     files: 4
     source language tokens: 93112940
     target language tokens: 88202843
+  en-eo:
+    alignments: 1521821
+    downloads:
+      source language:
+        size: 854
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v2/raw/en.zip
+      target language:
+        size: ~
+        url: ~
+      tokenized source language:
+        size: 1880
+        url: https://object.pouta.csc.fi/OPUS-HPLT/v2/xml/en.zip
+      tokenized target language:
+        size: ~
+        url: ~
+    files: 2
+    source language tokens: 38996442
+    target language tokens: 37894267
   en-et:
     alignments: 8797574
     downloads:
@@ -1029,7 +1047,7 @@ bitexts:
     files: 1
     source language tokens: 10598172
     target language tokens: 8089537
-files: 806
+files: 810
 monolingual:
   af:
     downloads:
@@ -1228,9 +1246,16 @@ monolingual:
       xml:
         size: 854
         url: https://object.pouta.csc.fi/OPUS-HPLT/v2/raw/en.zip
-    files: 403
-    sentences: 428027326
-    tokens: 8662936068
+    files: 405
+    sentences: 429711162
+    tokens: 8701932510
+  eo:
+    downloads:
+      tokenized xml: {}
+      xml: {}
+    files: 2
+    sentences: 1667647
+    tokens: 37894267
   et:
     downloads:
       frequency list:
@@ -2086,6 +2111,10 @@ moses:
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v2/moses/cy-en.txt.zip
     source language tokens: 82244642
     target language tokens: 78094329
+  en-eo:
+    alignments: 1521821
+    source language tokens: 33069940
+    target language tokens: 30986720
   en-et:
     alignments: 8797574
     download size: 925088222
@@ -2381,6 +2410,10 @@ tmx:
     source language tokens: 82243825
     target language tokens: 78093522
     translation units: 3867374
+  en-eo:
+    source language tokens: 3043642
+    target language tokens: 3043642
+    translation units: 1521821
   en-et:
     download size: 1030634508
     download url: https://object.pouta.csc.fi/OPUS-HPLT/v2/tmx/en-et.tmx.gz
