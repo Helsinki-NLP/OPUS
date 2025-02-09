@@ -35,7 +35,7 @@
 | [GlobalVoices](http://opus.nlpl.eu/GlobalVoices.php) | [v2015](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2015) [v2017q3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2017q3) [v2018q4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GlobalVoices/v2018q4)  |
 | [GNOME](http://opus.nlpl.eu/GNOME.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GNOME/v1)  |
 | [GoURMET](http://opus.nlpl.eu/GoURMET.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GoURMET/v1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/GoURMET/v2)  |
-| [HPLT](http://opus.nlpl.eu/legacy/HPLT.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v1.1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v2)  |
+| [HPLT](http://opus.nlpl.eu/HPLT.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v1.1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/HPLT/v2)  |
 | [hrenWaC](http://opus.nlpl.eu/hrenWaC.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/hrenWaC/v1)  |
 | [IITB](http://opus.nlpl.eu/IITB.php) | [v2.0](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/IITB/v2.0)  |
 | [infopankki](http://opus.nlpl.eu/infopankki.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/infopankki/v1)  |
