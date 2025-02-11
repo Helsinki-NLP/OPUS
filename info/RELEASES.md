@@ -1173,7 +1173,7 @@
 | [Mozilla-I10n](http://opus.nlpl.eu/Mozilla-I10n.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/Mozilla-I10n/v1)  |
 | [MPC1]() | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MPC1/v1)  |
 | [MultiCCAligned](http://opus.nlpl.eu/MultiCCAligned.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiCCAligned/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiCCAligned/v1.1)  |
-| [MultiHPLT](http://opus.nlpl.eu/MultiHPLT.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiHPLT/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiHPLT/v1.1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiHPLT/v2)  |
+| [MultiHPLT](http://opus.nlpl.eu/legacy/MultiHPLT.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiHPLT/v1) [v1.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiHPLT/v1.1) [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiHPLT/v2)  |
 | [MultiMaCoCu](http://opus.nlpl.eu/MultiMaCoCu.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiMaCoCu/v2)  |
 | [MultiParaCrawl](http://opus.nlpl.eu/MultiParaCrawl.php) | [v5](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v5) [v7.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v7.1) [v8](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v8) [v9](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v9) [v9b](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiParaCrawl/v9b)  |
 | [MultiUN](http://opus.nlpl.eu/MultiUN.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/MultiUN/v1)  |
