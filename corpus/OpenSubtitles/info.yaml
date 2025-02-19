@@ -1,11 +1,5 @@
----
-bitext: 3377
-cite: "Please cite the following article if you use any part of the corpus in your own work: J. Tiedemann, 2012, Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)\n"
-description: "A collection of documents from http://www.opensubtitles.org/.IMPORTANT: If you use the OpenSubtitle corpus, please, add a link to http://www.opensubtitles.org/ to your website and to your reports and publications produced with the data! I got the data under this condition!\n\n"
 latest_release: v2024
 name: OpenSubtitles
-number_of_files: 7302711
-number_of_languages: 94
 releases:
   v1: unknown
   v2011: unknown
@@ -14,6 +8,21 @@ releases:
   v2016: unknown
   v2018: Tue Apr 10 00:04:37 EEST 2018
   v2024: Fri Feb 14 23:13:54 EET 2025
+website: http://opus.nlpl.eu/OpenSubtitles.php
+description: >
+  This is a new collection of translated movie subtitles from <a href="http://www.opensubtitles.org/" target="_blank">http://www.opensubtitles.org/</a> . </br>
+  This is a slightly cleaner version of the subtitle collection using improved sentence alignment and better language checking. </br>
+cite: >
+  IMPORTANT: If you use the OpenSubtitle corpus: Please, add a link to <a href="http://www.opensubtitles.org/" target="_blank">http://www.opensubtitles.org/</a> to your website and to your reports and publications produced with the data! I promised this when I got the data from the providers of that website!</br>
+  Please cite the following article if you use any part of the corpus in your own work:
+  P. Lison and J. Tiedemann, 2016, <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/947_Paper.pdf" target="_blank">OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles</a>. In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016)</br>
+  For more information, please look at
+  J. Tiedemann, 2016, <a href="http://www.lrec-conf.org/proceedings/lrec2016/pdf/62_Paper.pdf" target="_blank">Finding Alternative Translations in a Large Corpus of Movie Subtitles.</a>
+  In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016)
+  (and, please, cite the paper as well).
+number_of_languages: 94
+bitext: 3377
+bitexts: 1782
+number_of_files: 7,302,711
 total_number_of_tokens: 39G
 total_sentence_fragments: 4.8G
-website: http://opus.nlpl.eu/OpenSubtitles.php
