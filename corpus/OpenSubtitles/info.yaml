@@ -1,12 +1,12 @@
 ---
 bitext: 3377
-cite: "Please cite the following article if you use any part of the corpus in your own work: P. Lison and J. Tiedemann, 2016, OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles. In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016)\n"
+cite: "Please cite the following article if you use any part of the corpus in your own work:<br/> P. Lison and J. Tiedemann, 2016, <a href=\"http://stp.lingfil.uu.se/~joerg/paper/opensubs2016.pdf\"><i>OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles.</i></a> In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016)<br/>\n"
 description: |
   This is a new collection of translated movie subtitles from http://www.opensubtitles.org/.IMPORTANT: If you use the OpenSubtitle corpus: Please, add a link to http://www.opensubtitles.org/ to your website and to your reports and publications produced with the data! I promised this when I got the data from the providers of that website!  This is a slightly cleaner version of the subtitle collection using improved sentence alignment and better language checking.
-  We also provide sentence alignments between alternative subtitle uploads. This produces a lot of repeated material and, therefore, we do not provide data sets that are compiled into plain text or TMX format. Instead, you can download the standoff annotation of the sentence alignment from the form at the top-level website. There are links to [alt] in the other files column of the search result if they exist.OpenSubtitles also includes intra-lingual sentence alignments between alternative subtitle uploads in the same language. To access those files, search for resources with the same source and target language using the form on the top-level website. The intra-lingual links are divided into different categories (listed in the column other files in the search result):  insert: Sentence pairs that differ only by some inserted text on one side other: Other types of sentence pairs; probably paraphrases and/or stylistically different subtitles. pct: Sentence pairs that differ only in punctuation characters. spell: Sentence pairs that differ in a few characters only that looks suspiciously like misspellings.  For more information, please look at  J. Tiedemann, 2016, Finding Alternative Translations in a Large Corpus of Movie Subtitles. In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016)(and, please, cite the paper as well).
+  We also provide sentence alignments between alternative subtitle uploads. This produces a lot of repeated material and, therefore, we do not provide data sets that are compiled into plain text or TMX format. Instead, you can download the standoff annotation of the sentence alignment from the form at the top-level website. There are links to [alt] in the "other files" column of the search result if they exist.OpenSubtitles also includes intra-lingual sentence alignments between alternative subtitle uploads in the same language. To access those files, look at this website or search for resources with the same source and target language using the form on the top-level website. The intra-lingual links are divided into different categories (listed in the column "other files" in the search result):  insert: Sentence pairs that differ only by some inserted text on one side other: Other types of sentence pairs; probably paraphrases and/or stylistically different subtitles. pct: Sentence pairs that differ only in punctuation characters. spell: Sentence pairs that differ in a few characters only that looks suspiciously like misspellings.  For more information, please look at  J. Tiedemann, 2016, Finding Alternative Translations in a Large Corpus of Movie Subtitles. In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016)(and, please, cite the paper as well).
 latest_release: v2024
 name: OpenSubtitles
-number_of_files: 7302711
+number_of_files: 7707672
 number_of_languages: 94
 releases:
   v1: unknown
@@ -16,6 +16,6 @@ releases:
   v2016: unknown
   v2018: Tue Apr 10 00:04:37 EEST 2018
   v2024: Fri Feb 14 23:13:54 EET 2025
-total_number_of_tokens: 39G
-total_sentence_fragments: 4.8G
-website: http://opus.nlpl.eu/OpenSubtitles.php
+total_number_of_tokens: 40G
+total_sentence_fragments: 5.1G
+website: http://opus.nlpl.eu/legacy/OpenSubtitles.php
