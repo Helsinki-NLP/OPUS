@@ -15,7 +15,7 @@
 | [CCMatrix](http://opus.nlpl.eu/CCMatrix.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/CCMatrix/v1)  |
 | [ChuBiCo](http://opus.nlpl.eu/ChuBiCo.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ChuBiCo/v1)  |
 | [DGT](http://opus.nlpl.eu/DGT.php) | [v2019](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DGT/v2019) [v4](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DGT/v4)  |
-| [DocHPLT](http://opus.nlpl.eu/legacy/DocHPLT.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DocHPLT/v2)  |
+| [DocHPLT](http://opus.nlpl.eu/legacy/DocHPLT.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DocHPLT/v2) [v2.1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DocHPLT/v2.1)  |
 | [DOGC](http://opus.nlpl.eu/DOGC.php) | [v2](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DOGC/v2) [v3](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/DOGC/v3)  |
 | [ECB](http://opus.nlpl.eu/ECB.php) | [v1](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ECB/v1)  |
 | [ECDC](http://opus.nlpl.eu/ECDC-v2016-03.php) | [v2016-03-16](https://github.com/Helsinki-NLP/OPUS/blob/main/corpus/ECDC/v2016-03-16)  |
