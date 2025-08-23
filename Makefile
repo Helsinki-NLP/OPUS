@@ -14,7 +14,7 @@ all:  ${MD_FILES} ${TSV_FILES}
 	${MAKE} commit
 	${MAKE} cleanup-dry-run > untracked-files.txt
 
-info:  ${MD_FILES} ${TSV_FILES}
+info-files:  ${MD_FILES} ${TSV_FILES}
 
 ## remove untracked files
 ## (all released data that we don't store in the repository)
