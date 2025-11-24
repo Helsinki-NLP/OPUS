@@ -1,19 +1,16 @@
-copyright: The corpus is released under the CC-BY-4.0, in other words the corpus can be freely shared and adapted as long as appropriate
-latest_release: v1
-license: <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en" target="_blank">CC-BY-SA-4.0</a>
+---
+bitexts: 13
+contact: Barry Haddow (bhaddow _at_ inf _dot_ ed _dot_ ac _dot_ uk)
+copyright: 'The corpus is released under the CC-BY-4.0, in other words the corpus can be freely shared and adapted as long as appropriate'
+description: "If you use the corpus, please cite: <blockquote><pre> @ARTICLE{2020arXiv200109907H, author = {{Haddow}, Barry and {Kirefu}, Faheem}, title = {PMIndia -- A Collection of Parallel Corpora of Languages of India}, journal = {arXiv e-prints}, keywords = {Computer Science - Computation and Language}, year = 2020, month = Jan, eid = {arXiv:2001.09907}, pages = {arXiv:2001.09907}, archivePrefix = {arXiv}, eprint = {2001.09907} } </blockquote></pre> and also <a href=http://opus.lingfil.uu.se/LREC2012.txt>acknowledge the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href=http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)\n\n"
+latest_release: v1b
+license: CC-BY-SA 4.0
 name: pmindia
+number_of_files: 0
+number_of_languages: 14
 releases:
   v1: Thu Nov 10 12:15:52 EET 2022
+  v1b: Mon Nov 24 19:51:56 EET 2025
+total_number_of_tokens: 425K
+total_sentence_fragments: 14
 website: http://opus.nlpl.eu/pmindia.php
-description: >
-  This directory contains the releases of the pmindia corpus. It is a parallel corpus containing 13 Indian languages, plus English, derived from the Prime Minister of Indias news updates (<a href="https://www.pmindia.gov.in/en/news-updates/" target="_blank">https://www.pmindia.gov.in/en/news-updates/</a>). We release a sentence aligned version of the corpus, as well as the monolingual text extracted from the articles.</br>
-  The code for crawling and aligning is available at <a href="https://github.com/bhaddow/pmindia-crawler" target="_blank">https://github.com/bhaddow/pmindia-crawler</a>
-bibtex: CiBAQVJUSUNMRXsyMDIwYXJYaXYyMDAxMDk5MDdILAogYXV0aG9yID0ge3tIYWRkb3d9LCBCYXJyeSBhbmQge0tpcmVmdX0sIEZhaGVlbX0sCiB0aXRsZSA9ICJ7UE1JbmRpYSAtLSBBIENvbGxlY3Rpb24gb2YgUGFyYWxsZWwgQ29ycG9yYSBvZiBMYW5ndWFnZXMgb2YgSW5kaWF9IiwKIGpvdXJuYWwgPSB7YXJYaXYgZS1wcmludHN9LAoga2V5d29yZHMgPSB7Q29tcHV0ZXIgU2NpZW5jZSAtIENvbXB1dGF0aW9uIGFuZCBMYW5ndWFnZX0sCiB5ZWFyID0gIjIwMjAiLAogbW9udGggPSAiSmFuIiwKIGVpZCA9IHthclhpdjoyMDAxLjA5OTA3fSwKIHBhZ2VzID0ge2FyWGl2OjIwMDEuMDk5MDd9LAogYXJjaGl2ZVByZWZpeCA9IHthclhpdn0sCiBlcHJpbnQgPSB7MjAwMS4wOTkwN30KIH0=
-cite: >
-  Please cite the <a href="https://opus.nlpl.eu/legacy/LREC2012.txt" target="_blank">following article</a> if you use the OPUS packages and downloads in your own work:
-  J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf" target="_blank"> Parallel Data, Tools and Interfaces in OPUS</a>. In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
-number_of_languages: 14
-bitexts: 13
-number_of_files: 26
-total_number_of_tokens: 21.37M
-total_sentence_fragments: 0.86M

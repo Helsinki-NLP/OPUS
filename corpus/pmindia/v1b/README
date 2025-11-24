@@ -1,0 +1,174 @@
+ Corpus Name: pmindia
+     Website: http://opus.nlpl.eu/legacy/pmindia-v1b.php
+     Release: v1b
+Release date: 2020-01-27
+   OPUS date: Mon Nov 24 21:05:36 EET 2025
+     License: CC-BY-SA 4.0
+   Copyright: The corpus is released under the CC-BY-4.0, in other words the corpus can be freely shared and adapted as long as appropriate
+     Contact: Barry Haddow (bhaddow _at_ inf _dot_ ed _dot_ ac _dot_ uk)
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+<h3>Acknowledgements</h3> This work has received funding from the European Unions Horizon 2020 research and innovation programme under grant agreement No 825299 (Gourmet). We thank the Prime Minister's Office of the Government of India for making the content available for re-distribution. If you use the corpus, please cite: <blockquote><pre><br/> @ARTICLE{2020arXiv200109907H,<br/> author = {{Haddow}, Barry and {Kirefu}, Faheem},<br/> title = "{PMIndia -- A Collection of Parallel Corpora of Languages of India}",<br/> journal = {arXiv e-prints},<br/> keywords = {Computer Science - Computation and Language},<br/> year = "2020",<br/> month = "Jan",<br/> eid = {arXiv:2001.09907},<br/> pages = {arXiv:2001.09907},<br/> archivePrefix = {arXiv},<br/> eprint = {2001.09907}<br/> }<br/> </blockquote></pre> and also <a href="http://opus.lingfil.uu.se/LREC2012.txt">acknowledge the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+This directory contains the releases of the pmindia corpus. It is a parallel corpus containing 13 Indian languages, plus English, derived from the Prime Minister of India's news updates (https://www.pmindia.gov.in/en/news-updates/). We release a sentence aligned version of the corpus, as well as the monolingual text extracted from the articles.
+The code for crawling and aligning is available at https://github.com/bhaddow/pmindia-crawler. Version 1b fixes the alignment problem for bs-en and as-en.
+
+Additional information:
+
+Overview
+--------
+This directory contains the releases of the pmindia corpus. It is a parallel corpus containing 13 Indian languages,
+plus English, derived from the Prime Minister of India's news updates (https://www.pmindia.gov.in/en/news-updates/).
+We release a sentence aligned version of the corpus, as well as the monolingual text extracted from the articles.
+
+The parallel directory contains sentence-aligned corpora (as tsv files). The monolingual directory contains the raw text documents,
+which can be document aligned using the names.
+
+History
+------
+v1 - Released 2020-01-27
+
+
+Licence
+-------
+The corpus is released under the CC-BY-4.0, in other words the corpus can be freely shared and adapted as long as appropriate
+credit is give. https://creativecommons.org/licenses/by/4.0/
+
+Code
+----
+The code for crawling and aligning is available at https://github.com/bhaddow/pmindia-crawler
+
+Citation
+--------
+If you use the corpus, please cite:
+
+@ARTICLE{2020arXiv200109907H,
+       author = {{Haddow}, Barry and {Kirefu}, Faheem},
+        title = "{PMIndia -- A Collection of Parallel Corpora of Languages of India}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Computation and Language},
+         year = "2020",
+        month = "Jan",
+          eid = {arXiv:2001.09907},
+        pages = {arXiv:2001.09907},
+archivePrefix = {arXiv},
+       eprint = {2001.09907}
+}
+
+
+Acknowledgements
+----------------
+This work has received funding from the European Union's Horizon 2020 research and innovation programme 
+under grant agreement No 825299 (Gourmet). We thank the Prime Minister's Office of the Government of India for making the content
+available for re-distribution.
+
+Contact
+-------
+Barry Haddow (bhaddow _at_ inf _dot_ ed _dot_ ac _dot_ uk)
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+freq ...... token frequencies
+-----------------------------
+Files in this release
+-----------------------------
+pmindia/v1b/freq/as.freq.gz
+pmindia/v1b/freq/bn.freq.gz
+pmindia/v1b/freq/en.freq.gz
+pmindia/v1b/freq/gu.freq.gz
+pmindia/v1b/freq/hi.freq.gz
+pmindia/v1b/freq/kn.freq.gz
+pmindia/v1b/freq/ml.freq.gz
+pmindia/v1b/freq/mni.freq.gz
+pmindia/v1b/freq/mr.freq.gz
+pmindia/v1b/freq/or.freq.gz
+pmindia/v1b/freq/pa.freq.gz
+pmindia/v1b/freq/ta.freq.gz
+pmindia/v1b/freq/te.freq.gz
+pmindia/v1b/freq/ur.freq.gz
+pmindia/v1b/mono/as.tok.gz
+pmindia/v1b/mono/as.txt.gz
+pmindia/v1b/mono/bn.tok.gz
+pmindia/v1b/mono/bn.txt.gz
+pmindia/v1b/mono/en.tok.gz
+pmindia/v1b/mono/en.txt.gz
+pmindia/v1b/mono/gu.tok.gz
+pmindia/v1b/mono/gu.txt.gz
+pmindia/v1b/mono/hi.tok.gz
+pmindia/v1b/mono/hi.txt.gz
+pmindia/v1b/mono/kn.tok.gz
+pmindia/v1b/mono/kn.txt.gz
+pmindia/v1b/mono/ml.tok.gz
+pmindia/v1b/mono/ml.txt.gz
+pmindia/v1b/mono/mni.tok.gz
+pmindia/v1b/mono/mni.txt.gz
+pmindia/v1b/mono/mr.tok.gz
+pmindia/v1b/mono/mr.txt.gz
+pmindia/v1b/mono/or.tok.gz
+pmindia/v1b/mono/or.txt.gz
+pmindia/v1b/mono/pa.tok.gz
+pmindia/v1b/mono/pa.txt.gz
+pmindia/v1b/mono/ta.tok.gz
+pmindia/v1b/mono/ta.txt.gz
+pmindia/v1b/mono/te.tok.gz
+pmindia/v1b/mono/te.txt.gz
+pmindia/v1b/mono/ur.tok.gz
+pmindia/v1b/mono/ur.txt.gz
+pmindia/v1b/moses/as-en.txt.zip
+pmindia/v1b/moses/bn-en.txt.zip
+pmindia/v1b/moses/en-gu.txt.zip
+pmindia/v1b/moses/en-hi.txt.zip
+pmindia/v1b/moses/en-kn.txt.zip
+pmindia/v1b/moses/en-ml.txt.zip
+pmindia/v1b/moses/en-mni.txt.zip
+pmindia/v1b/moses/en-mr.txt.zip
+pmindia/v1b/moses/en-or.txt.zip
+pmindia/v1b/moses/en-pa.txt.zip
+pmindia/v1b/moses/en-ta.txt.zip
+pmindia/v1b/moses/en-te.txt.zip
+pmindia/v1b/moses/en-ur.txt.zip
+pmindia/v1b/raw/as.zip
+pmindia/v1b/raw/bn.zip
+pmindia/v1b/raw/en.zip
+pmindia/v1b/raw/gu.zip
+pmindia/v1b/raw/hi.zip
+pmindia/v1b/raw/kn.zip
+pmindia/v1b/raw/ml.zip
+pmindia/v1b/raw/mni.zip
+pmindia/v1b/raw/mr.zip
+pmindia/v1b/raw/or.zip
+pmindia/v1b/raw/pa.zip
+pmindia/v1b/raw/ta.zip
+pmindia/v1b/raw/te.zip
+pmindia/v1b/raw/ur.zip
+pmindia/v1b/tmx/as-en.tmx.gz
+pmindia/v1b/tmx/bn-en.tmx.gz
+pmindia/v1b/tmx/en-gu.tmx.gz
+pmindia/v1b/tmx/en-hi.tmx.gz
+pmindia/v1b/tmx/en-kn.tmx.gz
+pmindia/v1b/tmx/en-ml.tmx.gz
+pmindia/v1b/tmx/en-mni.tmx.gz
+pmindia/v1b/tmx/en-mr.tmx.gz
+pmindia/v1b/tmx/en-or.tmx.gz
+pmindia/v1b/tmx/en-pa.tmx.gz
+pmindia/v1b/tmx/en-ta.tmx.gz
+pmindia/v1b/tmx/en-te.tmx.gz
+pmindia/v1b/tmx/en-ur.tmx.gz
+pmindia/v1b/xml/as.zip
+pmindia/v1b/xml/bn.zip
+pmindia/v1b/xml/en.zip
+pmindia/v1b/xml/gu.zip
+pmindia/v1b/xml/hi.zip
+pmindia/v1b/xml/kn.zip
+pmindia/v1b/xml/ml.zip
+pmindia/v1b/xml/mni.zip
+pmindia/v1b/xml/mr.zip
+pmindia/v1b/xml/or.zip
+pmindia/v1b/xml/pa.zip
+pmindia/v1b/xml/ta.zip
+pmindia/v1b/xml/te.zip
+pmindia/v1b/xml/ur.zip
