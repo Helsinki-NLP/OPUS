@@ -1,10 +1,55 @@
-      773 index-filesize.txt
-     1583 index-long.txt
-      503 index.txt
-      514 info.txt
-       35 releases.txt
-     3933 v20191206/info-files.tar.gz
+    12024 index-filesize.txt
+    21864 index-long.txt
+     8792 index.txt
+    13057 info.txt
+       74 releases.txt
       319 v2019/info-files.tar.gz
+      969 v2019/tmx/README
+  3162163 v2019/tmx/en-ja.tmx.gz
+  3162173 v2019/tmx/en-my.tmx.gz
+   124251 v2019/freq/en.freq.gz
+    49660 v2019/freq/my.freq.gz
+   992717 v2019/mono/en.tok.gz
+   988091 v2019/mono/en.txt.gz
+  1738537 v2019/mono/my.tok.gz
+  1732298 v2019/mono/my.txt.gz
+      969 v2019/xml/README
+   137336 v2019/xml/en-ja.xml.gz
+   137336 v2019/xml/en-my.xml.gz
+  2775031 v2019/xml/en.zip
+  4632110 v2019/xml/my.zip
+      971 v2019/moses/README
+  2810710 v2019/moses/en-ja.txt.zip
+  2810711 v2019/moses/en-my.txt.zip
+  1063331 v2019/raw/en.zip
+  1797019 v2019/raw/my.zip
+     6286 v20191206/info-files.tar.gz
+    62954 v20191206/freq/bn.freq.gz
+   143390 v20191206/freq/en.freq.gz
+   170301 v20191206/freq/fil.freq.gz
+    75591 v20191206/freq/hi.freq.gz
+   128375 v20191206/freq/id.freq.gz
+   127367 v20191206/freq/ja.freq.gz
+   129706 v20191206/freq/khm.freq.gz
+    96380 v20191206/freq/lo.freq.gz
+   120217 v20191206/freq/ms.freq.gz
+    58341 v20191206/freq/my.freq.gz
+   109351 v20191206/freq/th.freq.gz
+    77353 v20191206/freq/vi.freq.gz
+   920583 v20191206/freq/zh.freq.gz
+  2371747 v20191206/raw/bn.zip
+  1779905 v20191206/raw/en.zip
+  1884745 v20191206/raw/fil.zip
+  2358720 v20191206/raw/hi.zip
+  1811140 v20191206/raw/id.zip
+  2108342 v20191206/raw/ja.zip
+  2548799 v20191206/raw/khm.zip
+  2385985 v20191206/raw/lo.zip
+  1819508 v20191206/raw/ms.zip
+  2729748 v20191206/raw/my.zip
+  2452259 v20191206/raw/th.zip
+  2142908 v20191206/raw/vi.zip
+  1894493 v20191206/raw/zh.zip
      5021 v20191206/xml/README
    159712 v20191206/xml/bn-en.xml.gz
    159757 v20191206/xml/bn-fil.xml.gz
@@ -18,7 +63,7 @@
    159723 v20191206/xml/bn-th.xml.gz
    159713 v20191206/xml/bn-vi.xml.gz
    159713 v20191206/xml/bn-zh.xml.gz
-  4647054 v20191206/xml/bn.zip
+  4647053 v20191206/xml/bn.zip
    159757 v20191206/xml/en-fil.xml.gz
    159713 v20191206/xml/en-hi.xml.gz
    159712 v20191206/xml/en-id.xml.gz
@@ -30,7 +75,7 @@
    159723 v20191206/xml/en-th.xml.gz
    159712 v20191206/xml/en-vi.xml.gz
    159713 v20191206/xml/en-zh.xml.gz
-  3341054 v20191206/xml/en.zip
+  3341052 v20191206/xml/en.zip
    159753 v20191206/xml/fil-hi.xml.gz
    159753 v20191206/xml/fil-id.xml.gz
    159722 v20191206/xml/fil-ja.xml.gz
@@ -41,7 +86,7 @@
    159756 v20191206/xml/fil-th.xml.gz
    159753 v20191206/xml/fil-vi.xml.gz
    159754 v20191206/xml/fil-zh.xml.gz
-  3706205 v20191206/xml/fil.zip
+  3706204 v20191206/xml/fil.zip
    159713 v20191206/xml/hi-id.xml.gz
    159686 v20191206/xml/hi-ja.xml.gz
    159747 v20191206/xml/hi-khm.xml.gz
@@ -51,7 +96,7 @@
    159723 v20191206/xml/hi-th.xml.gz
    159713 v20191206/xml/hi-vi.xml.gz
    159713 v20191206/xml/hi-zh.xml.gz
-  4581184 v20191206/xml/hi.zip
+  4581183 v20191206/xml/hi.zip
    159686 v20191206/xml/id-ja.xml.gz
    159747 v20191206/xml/id-khm.xml.gz
    159723 v20191206/xml/id-lo.xml.gz
@@ -60,7 +105,7 @@
    159723 v20191206/xml/id-th.xml.gz
    159712 v20191206/xml/id-vi.xml.gz
    159713 v20191206/xml/id-zh.xml.gz
-  3274050 v20191206/xml/id.zip
+  3274049 v20191206/xml/id.zip
    159718 v20191206/xml/ja-khm.xml.gz
    159696 v20191206/xml/ja-lo.xml.gz
    159685 v20191206/xml/ja-ms.xml.gz
@@ -68,261 +113,216 @@
    159696 v20191206/xml/ja-th.xml.gz
    159686 v20191206/xml/ja-vi.xml.gz
    159686 v20191206/xml/ja-zh.xml.gz
-  4311177 v20191206/xml/ja.zip
+  4311176 v20191206/xml/ja.zip
    159756 v20191206/xml/khm-lo.xml.gz
    159745 v20191206/xml/khm-ms.xml.gz
    159709 v20191206/xml/khm-my.xml.gz
    159757 v20191206/xml/khm-th.xml.gz
    159745 v20191206/xml/khm-vi.xml.gz
    159745 v20191206/xml/khm-zh.xml.gz
-  4610844 v20191206/xml/khm.zip
+  4610843 v20191206/xml/khm.zip
    159721 v20191206/xml/lo-ms.xml.gz
    159688 v20191206/xml/lo-my.xml.gz
    159726 v20191206/xml/lo-th.xml.gz
    159721 v20191206/xml/lo-vi.xml.gz
    159722 v20191206/xml/lo-zh.xml.gz
-  4510358 v20191206/xml/lo.zip
+  4510357 v20191206/xml/lo.zip
    159678 v20191206/xml/ms-my.xml.gz
    159723 v20191206/xml/ms-th.xml.gz
    159712 v20191206/xml/ms-vi.xml.gz
    159713 v20191206/xml/ms-zh.xml.gz
-  3305752 v20191206/xml/ms.zip
+  3305751 v20191206/xml/ms.zip
    159690 v20191206/xml/my-th.xml.gz
    159679 v20191206/xml/my-vi.xml.gz
    159680 v20191206/xml/my-zh.xml.gz
-  5522617 v20191206/xml/my.zip
+  5522613 v20191206/xml/my.zip
    159722 v20191206/xml/th-vi.xml.gz
    159721 v20191206/xml/th-zh.xml.gz
-  4438941 v20191206/xml/th.zip
+  4438939 v20191206/xml/th.zip
    159713 v20191206/xml/vi-zh.xml.gz
-  4222614 v20191206/xml/vi.zip
-  2459848 v20191206/xml/zh.zip
-    62954 v20191206/freq/bn.freq.gz
-   143390 v20191206/freq/en.freq.gz
-   170301 v20191206/freq/fil.freq.gz
-    75591 v20191206/freq/hi.freq.gz
-   128375 v20191206/freq/id.freq.gz
-   127367 v20191206/freq/ja.freq.gz
-   129706 v20191206/freq/khm.freq.gz
-    96379 v20191206/freq/lo.freq.gz
-   120217 v20191206/freq/ms.freq.gz
-    58341 v20191206/freq/my.freq.gz
-   109351 v20191206/freq/th.freq.gz
-    77353 v20191206/freq/vi.freq.gz
-   920583 v20191206/freq/zh.freq.gz
-  2371749 v20191206/raw/bn.zip
-  1779908 v20191206/raw/en.zip
-  1884746 v20191206/raw/fil.zip
-  2358722 v20191206/raw/hi.zip
-  1811142 v20191206/raw/id.zip
-  2108343 v20191206/raw/ja.zip
-  2548799 v20191206/raw/khm.zip
-  2385986 v20191206/raw/lo.zip
-  1819509 v20191206/raw/ms.zip
-  2729752 v20191206/raw/my.zip
-  2452260 v20191206/raw/th.zip
-  2142909 v20191206/raw/vi.zip
-  1894493 v20191206/raw/zh.zip
-   124251 v2019/freq/en.freq.gz
-    49660 v2019/freq/my.freq.gz
-   992717 v2019/mono/en.tok.gz
-   988091 v2019/mono/en.txt.gz
-  1738537 v2019/mono/my.tok.gz
-  1732298 v2019/mono/my.txt.gz
-  1179332 v20191206/mono/bn.tok.gz
-  1401451 v20191206/mono/bn.txt.gz
-   985875 v20191206/mono/en.tok.gz
-   981395 v20191206/mono/en.txt.gz
-  1075363 v20191206/mono/fil.tok.gz
-  1069476 v20191206/mono/fil.txt.gz
-  1226039 v20191206/mono/hi.tok.gz
-  1384972 v20191206/mono/hi.txt.gz
-   993707 v20191206/mono/id.tok.gz
-   988806 v20191206/mono/id.txt.gz
-  1219858 v20191206/mono/ja.tok.gz
-  1129807 v20191206/mono/ja.txt.gz
-  1568515 v20191206/mono/khm.tok.gz
-  1503674 v20191206/mono/khm.txt.gz
-  1477799 v20191206/mono/lo.tok.gz
-  1431197 v20191206/mono/lo.txt.gz
-   988937 v20191206/mono/ms.tok.gz
-   983839 v20191206/mono/ms.txt.gz
-  1764514 v20191206/mono/my.tok.gz
-  1750771 v20191206/mono/my.txt.gz
-  1480074 v20191206/mono/th.tok.gz
-  1444119 v20191206/mono/th.txt.gz
-  1120103 v20191206/mono/vi.tok.gz
-  1116598 v20191206/mono/vi.txt.gz
-  1012867 v20191206/mono/zh.tok.gz
-   994817 v20191206/mono/zh.txt.gz
+  4222613 v20191206/xml/vi.zip
+  2459847 v20191206/xml/zh.zip
+  1182289 v20191206/mono/bn.tok.gz
+  1406160 v20191206/mono/bn.txt.gz
+   992014 v20191206/mono/en.tok.gz
+   987470 v20191206/mono/en.txt.gz
+  1079529 v20191206/mono/fil.tok.gz
+  1073538 v20191206/mono/fil.txt.gz
+  1231993 v20191206/mono/hi.tok.gz
+  1391772 v20191206/mono/hi.txt.gz
+   997351 v20191206/mono/id.tok.gz
+   992248 v20191206/mono/id.txt.gz
+  1225491 v20191206/mono/ja.tok.gz
+  1135213 v20191206/mono/ja.txt.gz
+  1573449 v20191206/mono/khm.tok.gz
+  1507128 v20191206/mono/khm.txt.gz
+  1480047 v20191206/mono/lo.tok.gz
+  1433071 v20191206/mono/lo.txt.gz
+   993583 v20191206/mono/ms.tok.gz
+   988543 v20191206/mono/ms.txt.gz
+  1767543 v20191206/mono/my.tok.gz
+  1752775 v20191206/mono/my.txt.gz
+  1485884 v20191206/mono/th.tok.gz
+  1449391 v20191206/mono/th.txt.gz
+  1125541 v20191206/mono/vi.tok.gz
+  1122049 v20191206/mono/vi.txt.gz
+  1017986 v20191206/mono/zh.tok.gz
+   999768 v20191206/mono/zh.txt.gz
      5021 v20191206/tmx/README
-      208 v20191206/tmx/bn-en.tmx.gz
-      208 v20191206/tmx/bn-fil.tmx.gz
-      208 v20191206/tmx/bn-hi.tmx.gz
-      208 v20191206/tmx/bn-id.tmx.gz
-      208 v20191206/tmx/bn-ja.tmx.gz
-      208 v20191206/tmx/bn-khm.tmx.gz
-      208 v20191206/tmx/bn-lo.tmx.gz
-      207 v20191206/tmx/bn-ms.tmx.gz
-      208 v20191206/tmx/bn-my.tmx.gz
-      207 v20191206/tmx/bn-th.tmx.gz
-      208 v20191206/tmx/bn-vi.tmx.gz
-      207 v20191206/tmx/bn-zh.tmx.gz
-      207 v20191206/tmx/en-fil.tmx.gz
-      207 v20191206/tmx/en-hi.tmx.gz
-      207 v20191206/tmx/en-id.tmx.gz
-      207 v20191206/tmx/en-ja.tmx.gz
-      207 v20191206/tmx/en-khm.tmx.gz
-      207 v20191206/tmx/en-lo.tmx.gz
-      207 v20191206/tmx/en-ms.tmx.gz
-      207 v20191206/tmx/en-my.tmx.gz
-      207 v20191206/tmx/en-th.tmx.gz
-      207 v20191206/tmx/en-vi.tmx.gz
-      207 v20191206/tmx/en-zh.tmx.gz
-      209 v20191206/tmx/fil-hi.tmx.gz
-      209 v20191206/tmx/fil-id.tmx.gz
-      209 v20191206/tmx/fil-ja.tmx.gz
-      209 v20191206/tmx/fil-khm.tmx.gz
-      209 v20191206/tmx/fil-lo.tmx.gz
-      209 v20191206/tmx/fil-ms.tmx.gz
-      209 v20191206/tmx/fil-my.tmx.gz
-      209 v20191206/tmx/fil-th.tmx.gz
-      209 v20191206/tmx/fil-vi.tmx.gz
-      209 v20191206/tmx/fil-zh.tmx.gz
-      208 v20191206/tmx/hi-id.tmx.gz
-      208 v20191206/tmx/hi-ja.tmx.gz
-      208 v20191206/tmx/hi-khm.tmx.gz
-      208 v20191206/tmx/hi-lo.tmx.gz
-      208 v20191206/tmx/hi-ms.tmx.gz
-      208 v20191206/tmx/hi-my.tmx.gz
-      208 v20191206/tmx/hi-th.tmx.gz
-      208 v20191206/tmx/hi-vi.tmx.gz
-      208 v20191206/tmx/hi-zh.tmx.gz
-      208 v20191206/tmx/id-ja.tmx.gz
-      208 v20191206/tmx/id-khm.tmx.gz
-      208 v20191206/tmx/id-lo.tmx.gz
-      208 v20191206/tmx/id-ms.tmx.gz
-      208 v20191206/tmx/id-my.tmx.gz
-      208 v20191206/tmx/id-th.tmx.gz
-      208 v20191206/tmx/id-vi.tmx.gz
-      208 v20191206/tmx/id-zh.tmx.gz
-      208 v20191206/tmx/ja-khm.tmx.gz
-      208 v20191206/tmx/ja-lo.tmx.gz
-      208 v20191206/tmx/ja-ms.tmx.gz
-      208 v20191206/tmx/ja-my.tmx.gz
-      208 v20191206/tmx/ja-th.tmx.gz
-      208 v20191206/tmx/ja-vi.tmx.gz
-      208 v20191206/tmx/ja-zh.tmx.gz
-      209 v20191206/tmx/khm-lo.tmx.gz
-      209 v20191206/tmx/khm-ms.tmx.gz
-      209 v20191206/tmx/khm-my.tmx.gz
-      209 v20191206/tmx/khm-th.tmx.gz
-      209 v20191206/tmx/khm-vi.tmx.gz
-      209 v20191206/tmx/khm-zh.tmx.gz
-      207 v20191206/tmx/lo-ms.tmx.gz
-      207 v20191206/tmx/lo-my.tmx.gz
-      208 v20191206/tmx/lo-th.tmx.gz
-      208 v20191206/tmx/lo-vi.tmx.gz
-      208 v20191206/tmx/lo-zh.tmx.gz
-      208 v20191206/tmx/ms-my.tmx.gz
-      208 v20191206/tmx/ms-th.tmx.gz
-      208 v20191206/tmx/ms-vi.tmx.gz
-      208 v20191206/tmx/ms-zh.tmx.gz
-      208 v20191206/tmx/my-th.tmx.gz
-      208 v20191206/tmx/my-vi.tmx.gz
-      208 v20191206/tmx/my-zh.tmx.gz
-      208 v20191206/tmx/th-vi.tmx.gz
-      208 v20191206/tmx/th-zh.tmx.gz
-      208 v20191206/tmx/vi-zh.tmx.gz
-  1063331 v2019/raw/en.zip
-  1797019 v2019/raw/my.zip
+  2771061 v20191206/tmx/bn-en.tmx.gz
+  2830040 v20191206/tmx/bn-fil.tmx.gz
+  3051324 v20191206/tmx/bn-hi.tmx.gz
+  2749723 v20191206/tmx/bn-id.tmx.gz
+  2887258 v20191206/tmx/bn-ja.tmx.gz
+  3185509 v20191206/tmx/bn-khm.tmx.gz
+  3058099 v20191206/tmx/bn-lo.tmx.gz
+  2750246 v20191206/tmx/bn-ms.tmx.gz
+  3428954 v20191206/tmx/bn-my.tmx.gz
+  3125838 v20191206/tmx/bn-th.tmx.gz
+  2876268 v20191206/tmx/bn-vi.tmx.gz
+  2783876 v20191206/tmx/bn-zh.tmx.gz
+  2193045 v20191206/tmx/en-fil.tmx.gz
+  2739916 v20191206/tmx/en-hi.tmx.gz
+  2130307 v20191206/tmx/en-id.tmx.gz
+  2472981 v20191206/tmx/en-ja.tmx.gz
+  2840444 v20191206/tmx/en-khm.tmx.gz
+  2716349 v20191206/tmx/en-lo.tmx.gz
+  2137553 v20191206/tmx/en-ms.tmx.gz
+  3171806 v20191206/tmx/en-my.tmx.gz
+  2678151 v20191206/tmx/en-th.tmx.gz
+  2322968 v20191206/tmx/en-vi.tmx.gz
+  2360993 v20191206/tmx/en-zh.tmx.gz
+  2805030 v20191206/tmx/fil-hi.tmx.gz
+  2207747 v20191206/tmx/fil-id.tmx.gz
+  2550299 v20191206/tmx/fil-ja.tmx.gz
+  2898928 v20191206/tmx/fil-khm.tmx.gz
+  2775321 v20191206/tmx/fil-lo.tmx.gz
+  2211697 v20191206/tmx/fil-ms.tmx.gz
+  3228126 v20191206/tmx/fil-my.tmx.gz
+  2745337 v20191206/tmx/fil-th.tmx.gz
+  2400437 v20191206/tmx/fil-vi.tmx.gz
+  2443830 v20191206/tmx/fil-zh.tmx.gz
+  2727493 v20191206/tmx/hi-id.tmx.gz
+  2867629 v20191206/tmx/hi-ja.tmx.gz
+  3162040 v20191206/tmx/hi-khm.tmx.gz
+  3033497 v20191206/tmx/hi-lo.tmx.gz
+  2725373 v20191206/tmx/hi-ms.tmx.gz
+  3421675 v20191206/tmx/hi-my.tmx.gz
+  3100341 v20191206/tmx/hi-th.tmx.gz
+  2855180 v20191206/tmx/hi-vi.tmx.gz
+  2761323 v20191206/tmx/hi-zh.tmx.gz
+  2465651 v20191206/tmx/id-ja.tmx.gz
+  2823412 v20191206/tmx/id-khm.tmx.gz
+  2698879 v20191206/tmx/id-lo.tmx.gz
+  1886319 v20191206/tmx/id-ms.tmx.gz
+  3147876 v20191206/tmx/id-my.tmx.gz
+  2673721 v20191206/tmx/id-th.tmx.gz
+  2317060 v20191206/tmx/id-vi.tmx.gz
+  2356792 v20191206/tmx/id-zh.tmx.gz
+  2989500 v20191206/tmx/ja-khm.tmx.gz
+  2864981 v20191206/tmx/ja-lo.tmx.gz
+  2466757 v20191206/tmx/ja-ms.tmx.gz
+  3275326 v20191206/tmx/ja-my.tmx.gz
+  2921077 v20191206/tmx/ja-th.tmx.gz
+  2598382 v20191206/tmx/ja-vi.tmx.gz
+  2375482 v20191206/tmx/ja-zh.tmx.gz
+  3141078 v20191206/tmx/khm-lo.tmx.gz
+  2823736 v20191206/tmx/khm-ms.tmx.gz
+  3531596 v20191206/tmx/khm-my.tmx.gz
+  3198729 v20191206/tmx/khm-th.tmx.gz
+  2958402 v20191206/tmx/khm-vi.tmx.gz
+  2883453 v20191206/tmx/khm-zh.tmx.gz
+  2698586 v20191206/tmx/lo-ms.tmx.gz
+  3414062 v20191206/tmx/lo-my.tmx.gz
+  3060212 v20191206/tmx/lo-th.tmx.gz
+  2828587 v20191206/tmx/lo-vi.tmx.gz
+  2763957 v20191206/tmx/lo-zh.tmx.gz
+  3149857 v20191206/tmx/ms-my.tmx.gz
+  2675133 v20191206/tmx/ms-th.tmx.gz
+  2319672 v20191206/tmx/ms-vi.tmx.gz
+  2357644 v20191206/tmx/ms-zh.tmx.gz
+  3492637 v20191206/tmx/my-th.tmx.gz
+  3278545 v20191206/tmx/my-vi.tmx.gz
+  3171309 v20191206/tmx/my-zh.tmx.gz
+  2813478 v20191206/tmx/th-vi.tmx.gz
+  2828299 v20191206/tmx/th-zh.tmx.gz
+  2493919 v20191206/tmx/vi-zh.tmx.gz
      5023 v20191206/moses/README
-     2739 v20191206/moses/bn-en.txt.zip
-     2739 v20191206/moses/bn-fil.txt.zip
-     2739 v20191206/moses/bn-hi.txt.zip
-     2739 v20191206/moses/bn-id.txt.zip
-     2739 v20191206/moses/bn-ja.txt.zip
-     2739 v20191206/moses/bn-khm.txt.zip
-     2739 v20191206/moses/bn-lo.txt.zip
-     2739 v20191206/moses/bn-ms.txt.zip
-     2739 v20191206/moses/bn-my.txt.zip
-     2739 v20191206/moses/bn-th.txt.zip
-     2739 v20191206/moses/bn-vi.txt.zip
-     2739 v20191206/moses/bn-zh.txt.zip
-     2739 v20191206/moses/en-fil.txt.zip
-     2739 v20191206/moses/en-hi.txt.zip
-     2740 v20191206/moses/en-id.txt.zip
-     2739 v20191206/moses/en-ja.txt.zip
-     2739 v20191206/moses/en-khm.txt.zip
-     2738 v20191206/moses/en-lo.txt.zip
-     2739 v20191206/moses/en-ms.txt.zip
-     2738 v20191206/moses/en-my.txt.zip
-     2739 v20191206/moses/en-th.txt.zip
-     2739 v20191206/moses/en-vi.txt.zip
-     2739 v20191206/moses/en-zh.txt.zip
-     2739 v20191206/moses/fil-hi.txt.zip
-     2739 v20191206/moses/fil-id.txt.zip
-     2740 v20191206/moses/fil-ja.txt.zip
-     2739 v20191206/moses/fil-khm.txt.zip
-     2739 v20191206/moses/fil-lo.txt.zip
-     2739 v20191206/moses/fil-ms.txt.zip
-     2739 v20191206/moses/fil-my.txt.zip
-     2738 v20191206/moses/fil-th.txt.zip
-     2739 v20191206/moses/fil-vi.txt.zip
-     2739 v20191206/moses/fil-zh.txt.zip
-     2739 v20191206/moses/hi-id.txt.zip
-     2739 v20191206/moses/hi-ja.txt.zip
-     2739 v20191206/moses/hi-khm.txt.zip
-     2739 v20191206/moses/hi-lo.txt.zip
-     2739 v20191206/moses/hi-ms.txt.zip
-     2739 v20191206/moses/hi-my.txt.zip
-     2739 v20191206/moses/hi-th.txt.zip
-     2738 v20191206/moses/hi-vi.txt.zip
-     2738 v20191206/moses/hi-zh.txt.zip
-     2739 v20191206/moses/id-ja.txt.zip
-     2738 v20191206/moses/id-khm.txt.zip
-     2739 v20191206/moses/id-lo.txt.zip
-     2739 v20191206/moses/id-ms.txt.zip
-     2738 v20191206/moses/id-my.txt.zip
-     2739 v20191206/moses/id-th.txt.zip
-     2739 v20191206/moses/id-vi.txt.zip
-     2739 v20191206/moses/id-zh.txt.zip
-     2739 v20191206/moses/ja-khm.txt.zip
-     2739 v20191206/moses/ja-lo.txt.zip
-     2738 v20191206/moses/ja-ms.txt.zip
-     2739 v20191206/moses/ja-my.txt.zip
-     2738 v20191206/moses/ja-th.txt.zip
-     2739 v20191206/moses/ja-vi.txt.zip
-     2740 v20191206/moses/ja-zh.txt.zip
-     2738 v20191206/moses/khm-lo.txt.zip
-     2739 v20191206/moses/khm-ms.txt.zip
-     2739 v20191206/moses/khm-my.txt.zip
-     2739 v20191206/moses/khm-th.txt.zip
-     2739 v20191206/moses/khm-vi.txt.zip
-     2738 v20191206/moses/khm-zh.txt.zip
-     2739 v20191206/moses/lo-ms.txt.zip
-     2739 v20191206/moses/lo-my.txt.zip
-     2739 v20191206/moses/lo-th.txt.zip
-     2739 v20191206/moses/lo-vi.txt.zip
-     2738 v20191206/moses/lo-zh.txt.zip
-     2739 v20191206/moses/ms-my.txt.zip
-     2738 v20191206/moses/ms-th.txt.zip
-     2739 v20191206/moses/ms-vi.txt.zip
-     2739 v20191206/moses/ms-zh.txt.zip
-     2739 v20191206/moses/my-th.txt.zip
-     2738 v20191206/moses/my-vi.txt.zip
-     2739 v20191206/moses/my-zh.txt.zip
-     2739 v20191206/moses/th-vi.txt.zip
-     2739 v20191206/moses/th-zh.txt.zip
-     2739 v20191206/moses/vi-zh.txt.zip
-      969 v2019/xml/README
-   137336 v2019/xml/en-ja.xml.gz
-   137336 v2019/xml/en-my.xml.gz
-  2775031 v2019/xml/en.zip
-  4632110 v2019/xml/my.zip
-      971 v2019/moses/README
-  2810710 v2019/moses/en-ja.txt.zip
-  2810711 v2019/moses/en-my.txt.zip
-      969 v2019/tmx/README
-  3162163 v2019/tmx/en-ja.tmx.gz
-  3162173 v2019/tmx/en-my.tmx.gz
+  2375183 v20191206/moses/bn-en.txt.zip
+  2452303 v20191206/moses/bn-fil.txt.zip
+  2765636 v20191206/moses/bn-hi.txt.zip
+  2372528 v20191206/moses/bn-id.txt.zip
+  2503815 v20191206/moses/bn-ja.txt.zip
+  2870508 v20191206/moses/bn-khm.txt.zip
+  2771410 v20191206/moses/bn-lo.txt.zip
+  2372622 v20191206/moses/bn-ms.txt.zip
+  3129506 v20191206/moses/bn-my.txt.zip
+  2822271 v20191206/moses/bn-th.txt.zip
+  2500328 v20191206/moses/bn-vi.txt.zip
+  2383977 v20191206/moses/bn-zh.txt.zip
+  2053330 v20191206/moses/en-fil.txt.zip
+  2366663 v20191206/moses/en-hi.txt.zip
+  1973555 v20191206/moses/en-id.txt.zip
+  2104934 v20191206/moses/en-ja.txt.zip
+  2471536 v20191206/moses/en-khm.txt.zip
+  2372437 v20191206/moses/en-lo.txt.zip
+  1973650 v20191206/moses/en-ms.txt.zip
+  2730615 v20191206/moses/en-my.txt.zip
+  2423299 v20191206/moses/en-th.txt.zip
+  2101355 v20191206/moses/en-vi.txt.zip
+  1985004 v20191206/moses/en-zh.txt.zip
+  2443783 v20191206/moses/fil-hi.txt.zip
+  2050675 v20191206/moses/fil-id.txt.zip
+  2182047 v20191206/moses/fil-ja.txt.zip
+  2548656 v20191206/moses/fil-khm.txt.zip
+  2449556 v20191206/moses/fil-lo.txt.zip
+  2050770 v20191206/moses/fil-ms.txt.zip
+  2807661 v20191206/moses/fil-my.txt.zip
+  2500419 v20191206/moses/fil-th.txt.zip
+  2178475 v20191206/moses/fil-vi.txt.zip
+  2062125 v20191206/moses/fil-zh.txt.zip
+  2364008 v20191206/moses/hi-id.txt.zip
+  2495318 v20191206/moses/hi-ja.txt.zip
+  2861989 v20191206/moses/hi-khm.txt.zip
+  2762890 v20191206/moses/hi-lo.txt.zip
+  2364102 v20191206/moses/hi-ms.txt.zip
+  3120988 v20191206/moses/hi-my.txt.zip
+  2813752 v20191206/moses/hi-th.txt.zip
+  2491808 v20191206/moses/hi-vi.txt.zip
+  2375458 v20191206/moses/hi-zh.txt.zip
+  2102288 v20191206/moses/id-ja.txt.zip
+  2468881 v20191206/moses/id-khm.txt.zip
+  2369782 v20191206/moses/id-lo.txt.zip
+  1970994 v20191206/moses/id-ms.txt.zip
+  2727934 v20191206/moses/id-my.txt.zip
+  2420644 v20191206/moses/id-th.txt.zip
+  2098700 v20191206/moses/id-vi.txt.zip
+  1982350 v20191206/moses/id-zh.txt.zip
+  2600128 v20191206/moses/ja-khm.txt.zip
+  2501106 v20191206/moses/ja-lo.txt.zip
+  2102379 v20191206/moses/ja-ms.txt.zip
+  2859139 v20191206/moses/ja-my.txt.zip
+  2551930 v20191206/moses/ja-th.txt.zip
+  2230069 v20191206/moses/ja-vi.txt.zip
+  2113713 v20191206/moses/ja-zh.txt.zip
+  2867763 v20191206/moses/khm-lo.txt.zip
+  2468976 v20191206/moses/khm-ms.txt.zip
+  3225857 v20191206/moses/khm-my.txt.zip
+  2918625 v20191206/moses/khm-th.txt.zip
+  2596681 v20191206/moses/khm-vi.txt.zip
+  2480331 v20191206/moses/khm-zh.txt.zip
+  2369877 v20191206/moses/lo-ms.txt.zip
+  3126762 v20191206/moses/lo-my.txt.zip
+  2819525 v20191206/moses/lo-th.txt.zip
+  2497582 v20191206/moses/lo-vi.txt.zip
+  2381232 v20191206/moses/lo-zh.txt.zip
+  2728055 v20191206/moses/ms-my.txt.zip
+  2420739 v20191206/moses/ms-th.txt.zip
+  2098795 v20191206/moses/ms-vi.txt.zip
+  1982444 v20191206/moses/ms-zh.txt.zip
+  3177585 v20191206/moses/my-th.txt.zip
+  2855723 v20191206/moses/my-vi.txt.zip
+  2739404 v20191206/moses/my-zh.txt.zip
+  2548444 v20191206/moses/th-vi.txt.zip
+  2432093 v20191206/moses/th-zh.txt.zip
+  2110150 v20191206/moses/vi-zh.txt.zip
