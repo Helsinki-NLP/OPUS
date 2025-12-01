@@ -1,0 +1,339 @@
+ Corpus Name: ALT
+     Website: http://opus.nlpl.eu/legacy/ALT-v20191206.php
+     Release: v20191206
+Release date: 20191206
+   OPUS date: Mon Dec  1 10:00:07 EET 2025
+     License: CC BY 4.0
+   Copyright: For more information about the source, see <a href="https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/">https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/</a>
+     Contact: For questions, comments, etc. please email to alt-info[at]khn[dot]nict[dot]go[dot]jp.
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Hammam Riza, Michael Purwoadi, Gunarso, Teduh Uliniansyah, Aw Ai Ti, Sharifah Mahani Aljunied, Luong Chi Mai, Vu Tat Thang, Nguyen Phuong Thai, Vichet Chea, Rapid Sun, Sethserey Sam, Sopheap Seng, Khin Mar Soe, Khin Thandar Nwet, Masao Utiyama, Chenchen Ding. (2016) "Introduction of the Asian Language Treebank" Oriental COCOSDA. (<a href="https://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/ALT-Parallel-Corpus-20191206/ALT-O-COCOSDA.pdf">pdf</a>) and also acknowledge the distribution of the package via OPUS.
+
+The ALT corpus is part of the Asian Language Treebank (ALT) Project, consisting of twenty thousand 20,000 sentences from English Wikinews that were translated into 13 languages: Bengali, English, Filipino, Hindi, Bahasa Indonesia, Japanese, Khmer, Lao, Malay, Myanmar (Burmese), Thai, Vietnamese, Chinese (Simplified Chinese). This collection only includes the training split of the parallel data.
+
+
+Additional information:
+
+
+Asian Language Treebank Parallel Corpus
+
+				Masao Utiyama
+				Fri Jul  1 13:21:26 JST 2016
+				Fri Dec  1 11:06:54 JST 2017
+				Fri May 31 13:31:11 JST 2019
+				Tue Dec 24 11:54:24 JST 2019
+
+* Introduction
+
+This is the Asian Language Treebank (ALT) Parallel
+Corpus. Please refer to ALT-O-COCOSDA.pdf for an introduction of
+the ALT project.
+
+The copyright holder of the translations of the ALT Parallel
+Corpus is the National Institute of Information and
+Communications Technology, Japan (NICT). NICT translated the
+English texts sampled from English Wikinews (listed in URL.txt),
+which were available under a Creative Commons Attribution 2.5
+License. The University of Computer Studies, Yangon, Myanmar
+helped NICT translate the English texts into the Myanmar texts.
+
+NICT released the ALT Parallel Text as a
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+
+Please cite
+
+Hammam Riza, Michael Purwoadi, Gunarso, Teduh Uliniansyah, Aw Ai
+Ti, Sharifah Mahani Aljunied, Luong Chi Mai, Vu Tat Thang,
+Nguyen Phuong Thai, Rapid Sun, Vichet Chea, Khin Mar Soe, Khin
+Thandar Nwet, Masao Utiyama, Chenchen Ding. (2016) 
+"Introduction of the Asian Language Treebank" 
+Oriental COCOSDA.
+
+when you use this corpus.
+
+
+* Contents
+
+data_bg.txt	Bengali
+data_en.txt	English
+data_en_tok.txt Tokenized English 
+data_fil.txt	Filipino
+data_hi.txt	Hindi
+data_id.txt	Bahasa Indonesia
+data_ja.txt	Japanese
+data_khm.txt	Khmer
+data_lo.txt	Lao
+data_ms.txt	Malay
+data_my.txt	Myanmar (Burmese)
+data_th.txt	Thai
+data_vi.txt	Vietnamese
+data_zh.txt	Chinese (Simplified Chinese)
+
+URL.txt		URL of the texts
+
+
+* Format
+
+Each text file is the following format.
+
+SNT.URLID.SNTID
+
+The website for URLID is listed in URL.txt
+SNTID is from 1 to 20000. Some sentences divided into two are
+represented by xxx and xxx-1. For example,
+
+SNT.114026.167	"I'm the only candidate who lives here with roots here." The Teamster's lawyer is originally from Edmonton, but has been living in Vancouver environs since 1991.
+SNT.114026.167-1	The Teamster's lawyer is originally from Edmonton, but has been living in Vancouver environs since 1991.
+
+These are cases where automatic sentence segmentations were
+corrected by human annotators.
+
+Those files are encoded in UTF-8 with DOS format.
+
+Note that Japanese and Myanmar texts have empty sentence fields
+in this release.
+
+
+* Disclaimer
+
+[1] The content of the selected English Wikinews articles have been translated for this corpus. English texts sampled from English Wikinews were available under a Creative Commons Attribution 2.5 License. Users of the corpus are requested to take careful consideration when encountering any instances of defamation, discriminatory terms, or personal information that might be found within the corpus. Users of the corpus are advised to read Terms of Use in https://en.wikinews.org/wiki/Main_Page carefully to ensure proper usage.
+
+[2] NICT bears no responsibility for the contents of the corpus and the lexicon and assumes no liability for any direct or indirect damage or loss whatsoever that may be incurred as a result of using the corpus or the lexicon.
+
+[3] If any copyright infringement or other problems are found in the corpus or the lexicon, please contact us at alt-info[at]khn[dot]nict[dot]go[dot]jp. We will review the issue and undertake appropriate measures when needed.
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+freq ...... token frequencies
+-----------------------------
+Files in this release
+-----------------------------
+ALT/v20191206/freq/bn.freq.gz
+ALT/v20191206/freq/en.freq.gz
+ALT/v20191206/freq/fil.freq.gz
+ALT/v20191206/freq/hi.freq.gz
+ALT/v20191206/freq/id.freq.gz
+ALT/v20191206/freq/ja.freq.gz
+ALT/v20191206/freq/khm.freq.gz
+ALT/v20191206/freq/lo.freq.gz
+ALT/v20191206/freq/ms.freq.gz
+ALT/v20191206/freq/my.freq.gz
+ALT/v20191206/freq/th.freq.gz
+ALT/v20191206/freq/vi.freq.gz
+ALT/v20191206/freq/zh.freq.gz
+ALT/v20191206/mono/bn.tok.gz
+ALT/v20191206/mono/bn.txt.gz
+ALT/v20191206/mono/en.tok.gz
+ALT/v20191206/mono/en.txt.gz
+ALT/v20191206/mono/fil.tok.gz
+ALT/v20191206/mono/fil.txt.gz
+ALT/v20191206/mono/hi.tok.gz
+ALT/v20191206/mono/hi.txt.gz
+ALT/v20191206/mono/id.tok.gz
+ALT/v20191206/mono/id.txt.gz
+ALT/v20191206/mono/ja.tok.gz
+ALT/v20191206/mono/ja.txt.gz
+ALT/v20191206/mono/khm.tok.gz
+ALT/v20191206/mono/khm.txt.gz
+ALT/v20191206/mono/lo.tok.gz
+ALT/v20191206/mono/lo.txt.gz
+ALT/v20191206/mono/ms.tok.gz
+ALT/v20191206/mono/ms.txt.gz
+ALT/v20191206/mono/my.tok.gz
+ALT/v20191206/mono/my.txt.gz
+ALT/v20191206/mono/th.tok.gz
+ALT/v20191206/mono/th.txt.gz
+ALT/v20191206/mono/vi.tok.gz
+ALT/v20191206/mono/vi.txt.gz
+ALT/v20191206/mono/zh.tok.gz
+ALT/v20191206/mono/zh.txt.gz
+ALT/v20191206/moses/bn-en.txt.zip
+ALT/v20191206/moses/bn-fil.txt.zip
+ALT/v20191206/moses/bn-hi.txt.zip
+ALT/v20191206/moses/bn-id.txt.zip
+ALT/v20191206/moses/bn-ja.txt.zip
+ALT/v20191206/moses/bn-khm.txt.zip
+ALT/v20191206/moses/bn-lo.txt.zip
+ALT/v20191206/moses/bn-ms.txt.zip
+ALT/v20191206/moses/bn-my.txt.zip
+ALT/v20191206/moses/bn-th.txt.zip
+ALT/v20191206/moses/bn-vi.txt.zip
+ALT/v20191206/moses/bn-zh.txt.zip
+ALT/v20191206/moses/en-fil.txt.zip
+ALT/v20191206/moses/en-hi.txt.zip
+ALT/v20191206/moses/en-id.txt.zip
+ALT/v20191206/moses/en-ja.txt.zip
+ALT/v20191206/moses/en-khm.txt.zip
+ALT/v20191206/moses/en-lo.txt.zip
+ALT/v20191206/moses/en-ms.txt.zip
+ALT/v20191206/moses/en-my.txt.zip
+ALT/v20191206/moses/en-th.txt.zip
+ALT/v20191206/moses/en-vi.txt.zip
+ALT/v20191206/moses/en-zh.txt.zip
+ALT/v20191206/moses/fil-hi.txt.zip
+ALT/v20191206/moses/fil-id.txt.zip
+ALT/v20191206/moses/fil-ja.txt.zip
+ALT/v20191206/moses/fil-khm.txt.zip
+ALT/v20191206/moses/fil-lo.txt.zip
+ALT/v20191206/moses/fil-ms.txt.zip
+ALT/v20191206/moses/fil-my.txt.zip
+ALT/v20191206/moses/fil-th.txt.zip
+ALT/v20191206/moses/fil-vi.txt.zip
+ALT/v20191206/moses/fil-zh.txt.zip
+ALT/v20191206/moses/hi-id.txt.zip
+ALT/v20191206/moses/hi-ja.txt.zip
+ALT/v20191206/moses/hi-khm.txt.zip
+ALT/v20191206/moses/hi-lo.txt.zip
+ALT/v20191206/moses/hi-ms.txt.zip
+ALT/v20191206/moses/hi-my.txt.zip
+ALT/v20191206/moses/hi-th.txt.zip
+ALT/v20191206/moses/hi-vi.txt.zip
+ALT/v20191206/moses/hi-zh.txt.zip
+ALT/v20191206/moses/id-ja.txt.zip
+ALT/v20191206/moses/id-khm.txt.zip
+ALT/v20191206/moses/id-lo.txt.zip
+ALT/v20191206/moses/id-ms.txt.zip
+ALT/v20191206/moses/id-my.txt.zip
+ALT/v20191206/moses/id-th.txt.zip
+ALT/v20191206/moses/id-vi.txt.zip
+ALT/v20191206/moses/id-zh.txt.zip
+ALT/v20191206/moses/ja-khm.txt.zip
+ALT/v20191206/moses/ja-lo.txt.zip
+ALT/v20191206/moses/ja-ms.txt.zip
+ALT/v20191206/moses/ja-my.txt.zip
+ALT/v20191206/moses/ja-th.txt.zip
+ALT/v20191206/moses/ja-vi.txt.zip
+ALT/v20191206/moses/ja-zh.txt.zip
+ALT/v20191206/moses/khm-lo.txt.zip
+ALT/v20191206/moses/khm-ms.txt.zip
+ALT/v20191206/moses/khm-my.txt.zip
+ALT/v20191206/moses/khm-th.txt.zip
+ALT/v20191206/moses/khm-vi.txt.zip
+ALT/v20191206/moses/khm-zh.txt.zip
+ALT/v20191206/moses/lo-ms.txt.zip
+ALT/v20191206/moses/lo-my.txt.zip
+ALT/v20191206/moses/lo-th.txt.zip
+ALT/v20191206/moses/lo-vi.txt.zip
+ALT/v20191206/moses/lo-zh.txt.zip
+ALT/v20191206/moses/ms-my.txt.zip
+ALT/v20191206/moses/ms-th.txt.zip
+ALT/v20191206/moses/ms-vi.txt.zip
+ALT/v20191206/moses/ms-zh.txt.zip
+ALT/v20191206/moses/my-th.txt.zip
+ALT/v20191206/moses/my-vi.txt.zip
+ALT/v20191206/moses/my-zh.txt.zip
+ALT/v20191206/moses/th-vi.txt.zip
+ALT/v20191206/moses/th-zh.txt.zip
+ALT/v20191206/moses/vi-zh.txt.zip
+ALT/v20191206/raw/bn.zip
+ALT/v20191206/raw/en.zip
+ALT/v20191206/raw/fil.zip
+ALT/v20191206/raw/hi.zip
+ALT/v20191206/raw/id.zip
+ALT/v20191206/raw/ja.zip
+ALT/v20191206/raw/khm.zip
+ALT/v20191206/raw/lo.zip
+ALT/v20191206/raw/ms.zip
+ALT/v20191206/raw/my.zip
+ALT/v20191206/raw/th.zip
+ALT/v20191206/raw/vi.zip
+ALT/v20191206/raw/zh.zip
+ALT/v20191206/tmx/bn-en.tmx.gz
+ALT/v20191206/tmx/bn-fil.tmx.gz
+ALT/v20191206/tmx/bn-hi.tmx.gz
+ALT/v20191206/tmx/bn-id.tmx.gz
+ALT/v20191206/tmx/bn-ja.tmx.gz
+ALT/v20191206/tmx/bn-khm.tmx.gz
+ALT/v20191206/tmx/bn-lo.tmx.gz
+ALT/v20191206/tmx/bn-ms.tmx.gz
+ALT/v20191206/tmx/bn-my.tmx.gz
+ALT/v20191206/tmx/bn-th.tmx.gz
+ALT/v20191206/tmx/bn-vi.tmx.gz
+ALT/v20191206/tmx/bn-zh.tmx.gz
+ALT/v20191206/tmx/en-fil.tmx.gz
+ALT/v20191206/tmx/en-hi.tmx.gz
+ALT/v20191206/tmx/en-id.tmx.gz
+ALT/v20191206/tmx/en-ja.tmx.gz
+ALT/v20191206/tmx/en-khm.tmx.gz
+ALT/v20191206/tmx/en-lo.tmx.gz
+ALT/v20191206/tmx/en-ms.tmx.gz
+ALT/v20191206/tmx/en-my.tmx.gz
+ALT/v20191206/tmx/en-th.tmx.gz
+ALT/v20191206/tmx/en-vi.tmx.gz
+ALT/v20191206/tmx/en-zh.tmx.gz
+ALT/v20191206/tmx/fil-hi.tmx.gz
+ALT/v20191206/tmx/fil-id.tmx.gz
+ALT/v20191206/tmx/fil-ja.tmx.gz
+ALT/v20191206/tmx/fil-khm.tmx.gz
+ALT/v20191206/tmx/fil-lo.tmx.gz
+ALT/v20191206/tmx/fil-ms.tmx.gz
+ALT/v20191206/tmx/fil-my.tmx.gz
+ALT/v20191206/tmx/fil-th.tmx.gz
+ALT/v20191206/tmx/fil-vi.tmx.gz
+ALT/v20191206/tmx/fil-zh.tmx.gz
+ALT/v20191206/tmx/hi-id.tmx.gz
+ALT/v20191206/tmx/hi-ja.tmx.gz
+ALT/v20191206/tmx/hi-khm.tmx.gz
+ALT/v20191206/tmx/hi-lo.tmx.gz
+ALT/v20191206/tmx/hi-ms.tmx.gz
+ALT/v20191206/tmx/hi-my.tmx.gz
+ALT/v20191206/tmx/hi-th.tmx.gz
+ALT/v20191206/tmx/hi-vi.tmx.gz
+ALT/v20191206/tmx/hi-zh.tmx.gz
+ALT/v20191206/tmx/id-ja.tmx.gz
+ALT/v20191206/tmx/id-khm.tmx.gz
+ALT/v20191206/tmx/id-lo.tmx.gz
+ALT/v20191206/tmx/id-ms.tmx.gz
+ALT/v20191206/tmx/id-my.tmx.gz
+ALT/v20191206/tmx/id-th.tmx.gz
+ALT/v20191206/tmx/id-vi.tmx.gz
+ALT/v20191206/tmx/id-zh.tmx.gz
+ALT/v20191206/tmx/ja-khm.tmx.gz
+ALT/v20191206/tmx/ja-lo.tmx.gz
+ALT/v20191206/tmx/ja-ms.tmx.gz
+ALT/v20191206/tmx/ja-my.tmx.gz
+ALT/v20191206/tmx/ja-th.tmx.gz
+ALT/v20191206/tmx/ja-vi.tmx.gz
+ALT/v20191206/tmx/ja-zh.tmx.gz
+ALT/v20191206/tmx/khm-lo.tmx.gz
+ALT/v20191206/tmx/khm-ms.tmx.gz
+ALT/v20191206/tmx/khm-my.tmx.gz
+ALT/v20191206/tmx/khm-th.tmx.gz
+ALT/v20191206/tmx/khm-vi.tmx.gz
+ALT/v20191206/tmx/khm-zh.tmx.gz
+ALT/v20191206/tmx/lo-ms.tmx.gz
+ALT/v20191206/tmx/lo-my.tmx.gz
+ALT/v20191206/tmx/lo-th.tmx.gz
+ALT/v20191206/tmx/lo-vi.tmx.gz
+ALT/v20191206/tmx/lo-zh.tmx.gz
+ALT/v20191206/tmx/ms-my.tmx.gz
+ALT/v20191206/tmx/ms-th.tmx.gz
+ALT/v20191206/tmx/ms-vi.tmx.gz
+ALT/v20191206/tmx/ms-zh.tmx.gz
+ALT/v20191206/tmx/my-th.tmx.gz
+ALT/v20191206/tmx/my-vi.tmx.gz
+ALT/v20191206/tmx/my-zh.tmx.gz
+ALT/v20191206/tmx/th-vi.tmx.gz
+ALT/v20191206/tmx/th-zh.tmx.gz
+ALT/v20191206/tmx/vi-zh.tmx.gz
+ALT/v20191206/xml/bn.zip
+ALT/v20191206/xml/en.zip
+ALT/v20191206/xml/fil.zip
+ALT/v20191206/xml/hi.zip
+ALT/v20191206/xml/id.zip
+ALT/v20191206/xml/ja.zip
+ALT/v20191206/xml/khm.zip
+ALT/v20191206/xml/lo.zip
+ALT/v20191206/xml/ms.zip
+ALT/v20191206/xml/my.zip
+ALT/v20191206/xml/th.zip
+ALT/v20191206/xml/vi.zip
+ALT/v20191206/xml/zh.zip
