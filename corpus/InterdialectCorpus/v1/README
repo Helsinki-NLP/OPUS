@@ -1,0 +1,41 @@
+ Corpus Name: InterdialectCorpus
+     Website: http://opus.nlpl.eu/legacy/InterdialectCorpus-v1.php
+     Release: v1
+Release date: Tue Dec  2 15:32:12 EET 2025
+     License: CC BY-NC-SA 4.0
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+Please cite <pre>@misc{ahmadi2020leveraging,<br /> title={Leveraging Multilingual News Websites for Building a Kurdish Parallel Corpus}, <br /> author={Sina Ahmadi and Hossein Hassani and Daban Q. Jaff},<br /> year={2020},<br /> eprint={2010.01554},<br /> archivePrefix={arXiv},<br /> primaryClass={cs.CL}<br /> }</pre> and also acknowledge OPUS for providing this package.
+
+InterdialectCorpus is a parallel corpus of Kurdish (Sorani and Kurmanji) and English available from https://github.com/KurdishBLARK/InterdialectCorpus.
+
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+freq ...... token frequencies
+-----------------------------
+Files in this release
+-----------------------------
+InterdialectCorpus/v1/freq/ckb.freq.gz
+InterdialectCorpus/v1/freq/en.freq.gz
+InterdialectCorpus/v1/freq/kmr.freq.gz
+InterdialectCorpus/v1/mono/ckb.tok.gz
+InterdialectCorpus/v1/mono/ckb.txt.gz
+InterdialectCorpus/v1/mono/en.tok.gz
+InterdialectCorpus/v1/mono/en.txt.gz
+InterdialectCorpus/v1/mono/kmr.tok.gz
+InterdialectCorpus/v1/mono/kmr.txt.gz
+InterdialectCorpus/v1/moses/ckb-en.txt.zip
+InterdialectCorpus/v1/moses/en-kmr.txt.zip
+InterdialectCorpus/v1/raw/ckb.zip
+InterdialectCorpus/v1/raw/en.zip
+InterdialectCorpus/v1/raw/kmr.zip
+InterdialectCorpus/v1/tmx/ckb-en.tmx.gz
+InterdialectCorpus/v1/tmx/en-kmr.tmx.gz
+InterdialectCorpus/v1/xml/ckb.zip
+InterdialectCorpus/v1/xml/en.zip
+InterdialectCorpus/v1/xml/kmr.zip

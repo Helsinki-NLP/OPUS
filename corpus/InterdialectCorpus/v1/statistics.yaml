@@ -1,0 +1,132 @@
+---
+bitexts:
+  ckb-en:
+    alignments: 650
+    downloads:
+      alignments:
+        size: 3355
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/ckb-en.xml.gz
+      source language:
+        size: 34886
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/raw/ckb.zip
+      target language:
+        size: 112464
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/raw/en.zip
+      tokenized source language:
+        size: 82517
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/ckb.zip
+      tokenized target language:
+        size: 302518
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/en.zip
+    files: 1
+    source language tokens: 13018
+    target language tokens: 13495
+  en-kmr:
+    alignments: 1797
+    downloads:
+      alignments:
+        size: 9204
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/en-kmr.xml.gz
+      source language:
+        size: 112464
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/raw/en.zip
+      target language:
+        size: 86964
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/raw/kmr.zip
+      tokenized source language:
+        size: 302518
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/en.zip
+      tokenized target language:
+        size: 234792
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/kmr.zip
+    files: 1
+    source language tokens: 38627
+    target language tokens: 40279
+files: 4
+monolingual:
+  ckb:
+    downloads:
+      frequency list:
+        size: 15341
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/freq/ckb.freq.gz
+      plain text:
+        size: 29048
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/mono/ckb.txt.gz
+      tokenized text:
+        size: 29183
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/mono/ckb.tok.gz
+      tokenized xml:
+        size: 82517
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/ckb.zip
+      xml:
+        size: 34886
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/raw/ckb.zip
+    files: 1
+    sentences: 650
+    tokens: 13018
+  en:
+    downloads:
+      frequency list:
+        size: 27821
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/freq/en.freq.gz
+      plain text:
+        size: 92800
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/mono/en.txt.gz
+      tokenized text:
+        size: 93282
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/mono/en.tok.gz
+      tokenized xml:
+        size: 302518
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/en.zip
+      xml:
+        size: 112464
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/raw/en.zip
+    files: 2
+    sentences: 2447
+    tokens: 52122
+  kmr:
+    downloads:
+      frequency list:
+        size: 29236
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/freq/kmr.freq.gz
+      plain text:
+        size: 73166
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/mono/kmr.txt.gz
+      tokenized text:
+        size: 73580
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/mono/kmr.tok.gz
+      tokenized xml:
+        size: 234792
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/xml/kmr.zip
+      xml:
+        size: 86964
+        url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/raw/kmr.zip
+    files: 1
+    sentences: 1797
+    tokens: 40279
+moses:
+  ckb-en:
+    alignments: 650
+    download size: 53879
+    download url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/moses/ckb-en.txt.zip
+    source language tokens: 11218
+    target language tokens: 11855
+  en-kmr:
+    alignments: 1797
+    download size: 144698
+    download url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/moses/en-kmr.txt.zip
+    source language tokens: 34178
+    target language tokens: 34856
+tmx:
+  ckb-en:
+    download size: 61753
+    download url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/tmx/ckb-en.tmx.gz
+    source language tokens: 11011
+    target language tokens: 11649
+    translation units: 643
+  en-kmr:
+    download size: 163082
+    download url: https://object.pouta.csc.fi/OPUS-InterdialectCorpus/v1/tmx/en-kmr.tmx.gz
+    source language tokens: 34168
+    target language tokens: 34847
+    translation units: 1796
