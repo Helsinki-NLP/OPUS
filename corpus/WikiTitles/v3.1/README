@@ -1,0 +1,182 @@
+ Corpus Name: WikiTitles
+     Website: http://opus.nlpl.eu/legacy/WikiTitles-v3.1.php
+     Release: v3.1
+Release date: 2025-12-02
+   OPUS date: Tue Dec  2 18:51:19 EET 2025
+     License: CC-BY-SA 4.0
+   Copyright: The actual packaging of this parallel data is licensed under the Creative Commons CC0 license ("no rights reserved"). For take-down policy, see <a href="https://www.paracrawl.eu/releases.html">https://www.paracrawl.eu/releases.html</a>
+     Contact: Barry Haddow (bhaddow _at_ inf _dot_ ed _dot_ ac _dot_ uk)
+
+This package is part of OPUS - the open collection of parallel corpora
+OPUS Website: http://opus.nlpl.eu
+
+If you use the data, please cite the most recent WMT overview paper (currently https://aclanthology.info/papers/W18-6401/w18-6401) and also <a href="http://opus.lingfil.uu.se/LREC2012.txt">acknowledge the following article</a> if you use the OPUS packages and downloads in your own work:<br/> J. Tiedemann, 2012, <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"><i>Parallel Data, Tools and Interfaces in OPUS.</i></a> In Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
+
+This corpus contains data released for the WMT series of shared tasks. It consists of parallel wikipedia titles. Version 3.1 fixes some problems with the alignment because some language pairs have been swapped in the previous release.
+The code used to extract the wikititles is available at https://github.com/bhaddow/wikipedia-interlanguage-titles
+
+Additional information:
+
+Overview
+--------
+This directory contains the wikitles corpus, released for  the WMT series
+of shared tasks. It consists of parallel wikipedia titles.
+
+There is a subdirectory for each version.
+
+The code used to extract the wikititles is available at https://github.com/bhaddow/wikipedia-interlanguage-titles
+
+Licence
+-------
+The data is released on the same terms as the ParaCrawl (www.paracrawl.eu) data, i.e.:
+- We do not own any of the text from which this data has been extracted.
+- We license the actual packaging of this parallel data under the Creative Commons CC0 license ("no rights reserved").
+For take-down policy, see https://www.paracrawl.eu/releases.html
+
+Citation
+--------
+If you use the data, please cite the most recent WMT overview paper (currently https://aclanthology.info/papers/W18-6401/w18-6401)
+
+Contact
+-------
+Barry Haddow (bhaddow _at_ inf _dot_ ed _dot_ ac _dot_ uk)
+-----------------------------
+xml ....... tokenized corpus and sentence alignments
+raw ....... untokenized corpus in XML
+mono ...... monolingual text files
+moses ..... aligned plain text files
+freq ...... token frequencies
+-----------------------------
+Files in this release
+-----------------------------
+WikiTitles/v3.1/freq/bn.freq.gz
+WikiTitles/v3.1/freq/ca.freq.gz
+WikiTitles/v3.1/freq/cs.freq.gz
+WikiTitles/v3.1/freq/de.freq.gz
+WikiTitles/v3.1/freq/en.freq.gz
+WikiTitles/v3.1/freq/es.freq.gz
+WikiTitles/v3.1/freq/fr.freq.gz
+WikiTitles/v3.1/freq/ha.freq.gz
+WikiTitles/v3.1/freq/hi.freq.gz
+WikiTitles/v3.1/freq/ig.freq.gz
+WikiTitles/v3.1/freq/is.freq.gz
+WikiTitles/v3.1/freq/ja.freq.gz
+WikiTitles/v3.1/freq/ps.freq.gz
+WikiTitles/v3.1/freq/pt.freq.gz
+WikiTitles/v3.1/freq/ro.freq.gz
+WikiTitles/v3.1/freq/ru.freq.gz
+WikiTitles/v3.1/freq/xh.freq.gz
+WikiTitles/v3.1/freq/zh.freq.gz
+WikiTitles/v3.1/freq/zu.freq.gz
+WikiTitles/v3.1/mono/bn.tok.gz
+WikiTitles/v3.1/mono/bn.txt.gz
+WikiTitles/v3.1/mono/ca.tok.gz
+WikiTitles/v3.1/mono/ca.txt.gz
+WikiTitles/v3.1/mono/cs.tok.gz
+WikiTitles/v3.1/mono/cs.txt.gz
+WikiTitles/v3.1/mono/de.tok.gz
+WikiTitles/v3.1/mono/de.txt.gz
+WikiTitles/v3.1/mono/en.tok.gz
+WikiTitles/v3.1/mono/en.txt.gz
+WikiTitles/v3.1/mono/es.tok.gz
+WikiTitles/v3.1/mono/es.txt.gz
+WikiTitles/v3.1/mono/fr.tok.gz
+WikiTitles/v3.1/mono/fr.txt.gz
+WikiTitles/v3.1/mono/ha.tok.gz
+WikiTitles/v3.1/mono/ha.txt.gz
+WikiTitles/v3.1/mono/hi.tok.gz
+WikiTitles/v3.1/mono/hi.txt.gz
+WikiTitles/v3.1/mono/ig.tok.gz
+WikiTitles/v3.1/mono/ig.txt.gz
+WikiTitles/v3.1/mono/is.tok.gz
+WikiTitles/v3.1/mono/is.txt.gz
+WikiTitles/v3.1/mono/ja.tok.gz
+WikiTitles/v3.1/mono/ja.txt.gz
+WikiTitles/v3.1/mono/ps.tok.gz
+WikiTitles/v3.1/mono/ps.txt.gz
+WikiTitles/v3.1/mono/pt.tok.gz
+WikiTitles/v3.1/mono/pt.txt.gz
+WikiTitles/v3.1/mono/ro.tok.gz
+WikiTitles/v3.1/mono/ro.txt.gz
+WikiTitles/v3.1/mono/ru.tok.gz
+WikiTitles/v3.1/mono/ru.txt.gz
+WikiTitles/v3.1/mono/xh.tok.gz
+WikiTitles/v3.1/mono/xh.txt.gz
+WikiTitles/v3.1/mono/zh.tok.gz
+WikiTitles/v3.1/mono/zh.txt.gz
+WikiTitles/v3.1/mono/zu.tok.gz
+WikiTitles/v3.1/mono/zu.txt.gz
+WikiTitles/v3.1/moses/bn-hi.txt.zip
+WikiTitles/v3.1/moses/ca-es.txt.zip
+WikiTitles/v3.1/moses/ca-pt.txt.zip
+WikiTitles/v3.1/moses/ca-ro.txt.zip
+WikiTitles/v3.1/moses/cs-en.txt.zip
+WikiTitles/v3.1/moses/de-en.txt.zip
+WikiTitles/v3.1/moses/de-fr.txt.zip
+WikiTitles/v3.1/moses/en-ha.txt.zip
+WikiTitles/v3.1/moses/en-ig.txt.zip
+WikiTitles/v3.1/moses/en-is.txt.zip
+WikiTitles/v3.1/moses/en-ja.txt.zip
+WikiTitles/v3.1/moses/en-ps.txt.zip
+WikiTitles/v3.1/moses/en-ru.txt.zip
+WikiTitles/v3.1/moses/en-zh.txt.zip
+WikiTitles/v3.1/moses/es-pt.txt.zip
+WikiTitles/v3.1/moses/es-ro.txt.zip
+WikiTitles/v3.1/moses/pt-ro.txt.zip
+WikiTitles/v3.1/moses/xh-zu.txt.zip
+WikiTitles/v3.1/raw/bn.zip
+WikiTitles/v3.1/raw/ca.zip
+WikiTitles/v3.1/raw/cs.zip
+WikiTitles/v3.1/raw/de.zip
+WikiTitles/v3.1/raw/en.zip
+WikiTitles/v3.1/raw/es.zip
+WikiTitles/v3.1/raw/fr.zip
+WikiTitles/v3.1/raw/ha.zip
+WikiTitles/v3.1/raw/hi.zip
+WikiTitles/v3.1/raw/ig.zip
+WikiTitles/v3.1/raw/is.zip
+WikiTitles/v3.1/raw/ja.zip
+WikiTitles/v3.1/raw/ps.zip
+WikiTitles/v3.1/raw/pt.zip
+WikiTitles/v3.1/raw/ro.zip
+WikiTitles/v3.1/raw/ru.zip
+WikiTitles/v3.1/raw/xh.zip
+WikiTitles/v3.1/raw/zh.zip
+WikiTitles/v3.1/raw/zu.zip
+WikiTitles/v3.1/tmx/bn-hi.tmx.gz
+WikiTitles/v3.1/tmx/ca-es.tmx.gz
+WikiTitles/v3.1/tmx/ca-pt.tmx.gz
+WikiTitles/v3.1/tmx/ca-ro.tmx.gz
+WikiTitles/v3.1/tmx/cs-en.tmx.gz
+WikiTitles/v3.1/tmx/de-en.tmx.gz
+WikiTitles/v3.1/tmx/de-fr.tmx.gz
+WikiTitles/v3.1/tmx/en-ha.tmx.gz
+WikiTitles/v3.1/tmx/en-ig.tmx.gz
+WikiTitles/v3.1/tmx/en-is.tmx.gz
+WikiTitles/v3.1/tmx/en-ja.tmx.gz
+WikiTitles/v3.1/tmx/en-ps.tmx.gz
+WikiTitles/v3.1/tmx/en-ru.tmx.gz
+WikiTitles/v3.1/tmx/en-zh.tmx.gz
+WikiTitles/v3.1/tmx/es-pt.tmx.gz
+WikiTitles/v3.1/tmx/es-ro.tmx.gz
+WikiTitles/v3.1/tmx/pt-ro.tmx.gz
+WikiTitles/v3.1/tmx/xh-zu.tmx.gz
+WikiTitles/v3.1/xml/bn.zip
+WikiTitles/v3.1/xml/ca.zip
+WikiTitles/v3.1/xml/cs.zip
+WikiTitles/v3.1/xml/de.zip
+WikiTitles/v3.1/xml/en.zip
+WikiTitles/v3.1/xml/es.zip
+WikiTitles/v3.1/xml/fr.zip
+WikiTitles/v3.1/xml/ha.zip
+WikiTitles/v3.1/xml/hi.zip
+WikiTitles/v3.1/xml/ig.zip
+WikiTitles/v3.1/xml/is.zip
+WikiTitles/v3.1/xml/ja.zip
+WikiTitles/v3.1/xml/ps.zip
+WikiTitles/v3.1/xml/pt.zip
+WikiTitles/v3.1/xml/ro.zip
+WikiTitles/v3.1/xml/ru.zip
+WikiTitles/v3.1/xml/xh.zip
+WikiTitles/v3.1/xml/zh.zip
+WikiTitles/v3.1/xml/zu.zip
