@@ -1,8 +1,8 @@
-    24260 index-filesize.txt
-    49157 index-long.txt
-    15885 index.txt
-    37607 info.txt
-       99 releases.txt
+    29200 index-filesize.txt
+    59158 index-long.txt
+    18938 index.txt
+    49894 info.txt
+      131 releases.txt
         0 v1.1/dic
  13112815 v1.1/freq/ar.freq.gz
    645338 v1.1/freq/bs.freq.gz
@@ -852,7 +852,7 @@
   6693950 v3/freq/mk.freq.gz
   2990044 v3/freq/mt.freq.gz
  26819739 v3/freq/nb.freq.gz
-   904206 v3/freq/no.freq.gz
+   904697 v3/freq/nn.freq.gz
  21070162 v3/freq/ro.freq.gz
  18678846 v3/freq/sk.freq.gz
  12461894 v3/freq/sl.freq.gz
@@ -860,7 +860,7 @@
   9965074 v3/freq/sr.freq.gz
  30033073 v3/freq/tr.freq.gz
  25568896 v3/freq/uk.freq.gz
-     3897 v3/info-files.tar.gz
+     3921 v3/info-files.tar.gz
 2360765747 v3/mono/bg.tok.gz
 2346187656 v3/mono/bg.txt.gz
 339667072 v3/mono/bs.tok.gz
@@ -873,8 +873,8 @@
 3329149730 v3/mono/da.txt.gz
 4172320867 v3/mono/el.tok.gz
 4152602022 v3/mono/el.txt.gz
-34092128272 v3/mono/en.tok.gz
-33883485568 v3/mono/en.txt.gz
+34084395353 v3/mono/en.tok.gz
+33883496048 v3/mono/en.txt.gz
 825331316 v3/mono/et.tok.gz
 819559447 v3/mono/et.txt.gz
 141010236 v3/mono/eu.tok.gz
@@ -903,8 +903,8 @@
 159536875 v3/mono/mt.txt.gz
 1635352843 v3/mono/nb.tok.gz
 1621814793 v3/mono/nb.txt.gz
-  7899309 v3/mono/no.tok.gz
-  7824080 v3/mono/no.txt.gz
+  7903394 v3/mono/nn.tok.gz
+  7829526 v3/mono/nn.txt.gz
 3125926679 v3/mono/ro.tok.gz
 3105330156 v3/mono/ro.txt.gz
 1772624617 v3/mono/sk.tok.gz
@@ -920,15 +920,40 @@
 3030014460 v3/mono/uk.tok.gz
 3012858114 v3/mono/uk.txt.gz
 4103937449 v3/moses/bg-en.txt.zip
-5951943903 v3/moses/cs-en.txt.zip
+657636519 v3/moses/bs-en.txt.zip
+1968817852 v3/moses/ca-en.txt.zip
+5951943902 v3/moses/cs-en.txt.zip
+6560877474 v3/moses/da-en.txt.zip
+6916544254 v3/moses/el-en.txt.zip
 1623692300 v3/moses/en-et.txt.zip
 277799769 v3/moses/en-eu.txt.zip
+4653759344 v3/moses/en-fi.txt.zip
+415991464 v3/moses/en-ga.txt.zip
+367733988 v3/moses/en-gl.txt.zip
+2685912412 v3/moses/en-hr.txt.zip
+4865797918 v3/moses/en-hu.txt.zip
+517009594 v3/moses/en-is.txt.zip
 270129024 v3/moses/en-ka.txt.zip
+2217457618 v3/moses/en-lt.txt.zip
+1959237974 v3/moses/en-lv.txt.zip
+666730373 v3/moses/en-mk.txt.zip
 303136463 v3/moses/en-mt.txt.zip
- 15489076 v3/moses/en-no.txt.zip
+3220876807 v3/moses/en-nb.txt.zip
+ 15509325 v3/moses/en-nn.txt.zip
+5855304799 v3/moses/en-ro.txt.zip
+3321010432 v3/moses/en-sk.txt.zip
+1798298014 v3/moses/en-sl.txt.zip
+755627305 v3/moses/en-sq.txt.zip
+954427563 v3/moses/en-sr.txt.zip
+4865936246 v3/moses/en-tr.txt.zip
+5226697043 v3/moses/en-uk.txt.zip
 2501935519 v3/raw/bg.zip
 371322293 v3/raw/bs.zip
 1105603873 v3/raw/ca.zip
+3430018710 v3/raw/cs.zip
+3666842467 v3/raw/da.zip
+4396796313 v3/raw/el.zip
+37308993805 v3/raw/en.zip
 896288915 v3/raw/et.zip
 152871370 v3/raw/eu.zip
 2642107582 v3/raw/fi.zip
@@ -936,24 +961,55 @@
 205833593 v3/raw/gl.zip
 1511832791 v3/raw/hr.zip
 2834807605 v3/raw/hu.zip
+295901490 v3/raw/is.zip
 180663827 v3/raw/ka.zip
 1260009978 v3/raw/lt.zip
 1106769506 v3/raw/lv.zip
 402805957 v3/raw/mk.zip
 171264743 v3/raw/mt.zip
 1789818932 v3/raw/nb.zip
-  8775062 v3/raw/no.zip
+  8780142 v3/raw/nn.zip
+3375697592 v3/raw/ro.zip
+1925535187 v3/raw/sk.zip
 998404721 v3/raw/sl.zip
 430561727 v3/raw/sq.zip
+572532383 v3/raw/sr.zip
+2883936968 v3/raw/tr.zip
+3220745469 v3/raw/uk.zip
+10044966242 v3/tmx/bg-en.tmx.gz
+1712186639 v3/tmx/bs-en.tmx.gz
+4710115180 v3/tmx/ca-en.tmx.gz
+15434875418 v3/tmx/cs-en.tmx.gz
+17449690901 v3/tmx/da-en.tmx.gz
+16566620837 v3/tmx/el-en.tmx.gz
+4070008525 v3/tmx/en-et.tmx.gz
+675408107 v3/tmx/en-eu.tmx.gz
+12397196525 v3/tmx/en-fi.tmx.gz
 1017255251 v3/tmx/en-ga.tmx.gz
 891600468 v3/tmx/en-gl.tmx.gz
+6951978777 v3/tmx/en-hr.tmx.gz
+12483811630 v3/tmx/en-hu.tmx.gz
+1465295401 v3/tmx/en-is.tmx.gz
+523789071 v3/tmx/en-ka.tmx.gz
+5776420175 v3/tmx/en-lt.tmx.gz
+5087103344 v3/tmx/en-lv.tmx.gz
+1590857785 v3/tmx/en-mk.tmx.gz
 695087837 v3/tmx/en-mt.tmx.gz
- 45223850 v3/tmx/en-no.tmx.gz
+8564130701 v3/tmx/en-nb.tmx.gz
+ 45506922 v3/tmx/en-nn.tmx.gz
+14332149612 v3/tmx/en-ro.tmx.gz
+8662127194 v3/tmx/en-sk.tmx.gz
+4454727295 v3/tmx/en-sl.tmx.gz
+1775607609 v3/tmx/en-sq.tmx.gz
+2311804132 v3/tmx/en-sr.tmx.gz
 11499692133 v3/tmx/en-tr.tmx.gz
+12689840062 v3/tmx/en-uk.tmx.gz
 691049358 v3/xml/bg-en.xml.gz
+5338571766 v3/xml/bg.zip
 131383352 v3/xml/bs-en.xml.gz
 855944213 v3/xml/bs.zip
 335372574 v3/xml/ca-en.xml.gz
+2792042693 v3/xml/ca.zip
 1136060146 v3/xml/cs-en.xml.gz
 7656342526 v3/xml/cs.zip
 1330578219 v3/xml/da-en.xml.gz
@@ -974,7 +1030,7 @@
 111363957 v3/xml/en-mk.xml.gz
  46286685 v3/xml/en-mt.xml.gz
 664753585 v3/xml/en-nb.xml.gz
-  3838756 v3/xml/en-no.xml.gz
+  3843202 v3/xml/en-nn.xml.gz
 1065295598 v3/xml/en-ro.xml.gz
 625892932 v3/xml/en-sk.xml.gz
 326075132 v3/xml/en-sl.xml.gz
@@ -982,6 +1038,7 @@
 161715574 v3/xml/en-sr.xml.gz
 835839206 v3/xml/en-tr.xml.gz
 879055137 v3/xml/en-uk.xml.gz
+94351642528 v3/xml/en.zip
 1954615014 v3/xml/et.zip
 346468775 v3/xml/eu.zip
 5439374723 v3/xml/fi.zip
@@ -995,7 +1052,8 @@
 2520512989 v3/xml/lv.zip
 853703975 v3/xml/mk.zip
 499947521 v3/xml/mt.zip
- 20824231 v3/xml/no.zip
+4248485766 v3/xml/nb.zip
+ 20828491 v3/xml/nn.zip
 8020015950 v3/xml/ro.zip
 4343962271 v3/xml/sk.zip
 2346770847 v3/xml/sl.zip
