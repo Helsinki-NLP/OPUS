@@ -1,14 +1,31 @@
----
-bitexts: 406
-description: "Please, acknowledge the HPLT project at <a href=\"https://hplt-project.org\">https://hplt-project.org</a>. This version is derived from the original release at their website adjusted for redistribution via the OPUS corpus collection. Please, acknowledge OPUS as well for this service.\n\n"
 latest_release: v3
+license: <a href="https://creativecommons.org/public-domain/cc0/" target="_blank">CCO</a>
+description: >
+  Parallel corpora from Web Crawls collected in the HPLT project. Please,  acknowledge the HPLT project at <a  href="https://hplt-project.org" target="_blank">https://hplt-project.org/</a>.  This version is derived from the original release at their website  adjusted for redistribution via the OPUS corpus collection. Please,  acknowledge OPUS as well for this service.
 name: MultiHPLT
-number_of_files: 29
-number_of_languages: 29
 releases:
   v1.1: Sat Oct 21 12:21:26 EEST 2023
   v2: Mon Feb  3 15:33:03 EET 2025
   v3: Tue Jan 13 09:17:23 EET 2026
+website: http://opus.nlpl.eu/MultiHPLT
+bibtex: >
+  QG1pc2N7ZGVnaWJlcnQyMDI0bmV3LAogICAgICB0aXRsZT17QSBOZXcgTWFzc2l2ZSBNdWx0aWxpbmd1YWwgRGF0YXNldCBmb3IgSGlnaC1QZXJmb3JtYW5jZSBMYW5ndWFnZSBUZWNobm9sb2dpZXN9LCAKICAgICAgYXV0aG9yPXtPbmEgZGUgR2liZXJ0IGFuZCBHcmFlbWUgTmFpbCBhbmQgTmlrb2xheSBBcmVmeWV2IGFuZCBNYXJ0YSBCYcOxw7NuIGFuZCBKZWxtZXIgdmFuIGRlciBMaW5kZSBhbmQgU2hhb3hpb25nIEppIGFuZCBKYXVtZSBaYXJhZ296YS1CZXJuYWJldSBhbmQgTWlra28gQXVsYW1vIGFuZCBHZW1hIFJhbcOtcmV6LVPDoW5jaGV6IGFuZCBBbmRyZXkgS3V0dXpvdiBhbmQgU2FtcG8gUHl5c2FsbyBhbmQgU3RlcGhhbiBPZXBlbiBhbmQgSsO2cmcgVGllZGVtYW5ufSwKICAgICAgeWVhcj17MjAyNH0sCiAgICAgIGVwcmludD17MjQwMy4xNDAwOX0sCiAgICAgIGFyY2hpdmVQcmVmaXg9e2FyWGl2fSwKICAgICAgcHJpbWFyeUNsYXNzPXtjcy5DTH0KfQ==
+cite: >
+  Please, cite:
+  <pre>
+   @misc{degibert2024new,
+   title={A New Massive Multilingual Dataset for High-Performance Language Technologies},
+   author={Ona de Gibert, Graeme Nail, Nikolay Arefyev, Marta Bañón, Jelmer van der Linde, Shaoxiong Ji, Jaume Zaragoza-Bernabeu, Mikko Aulamo, Gema Ramírez-Sánchez, Andrey Kutuzov, Sampo Pyysalo, Stephan Oepen, Jörg Tiedemann},
+   year={2024},
+   eprint={2403.14009},
+   archivePrefix={arXiv},
+   primaryClass={cs.CL}
+   } 
+  </pre>
+  Please  also cite the <a href="https://opus.nlpl.eu/legacy/LREC2012.txt"  target="_blank">following article</a> if you use any part of  the corpus in your own work:
+  J. Tiedemann, 2012, <a  href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/463_Paper.pdf"  target="_blank"> Parallel Data, Tools and Interfaces in  OPUS</a>. In Proceedings of the 8th International Conference on  Language Resources and Evaluation (LREC 2012
+number_of_languages: 29
+bitexts: 406
+number_of_files: 29
 total_number_of_tokens: 18G
 total_sentence_fragments: 926M
-website: http://opus.nlpl.eu/MultiHPLT.php
