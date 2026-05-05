@@ -1,7 +1,8 @@
-    84874 index-filesize.txt
-   167785 index-long.txt
-    57231 index.txt
-    11963 info.txt
+    98362 index-filesize.txt
+   195044 index-long.txt
+    66146 index.txt
+    16264 info.txt
+       32 releases.txt
      2111 v2/info-files.tar.gz
      2165 v2.1/info-files.tar.gz
 453518670 v2/mono/af.txt.gz
@@ -55,7 +56,6 @@
 112469071 v2/mono/uz.txt.gz
 2642681930 v2/mono/vi.txt.gz
  33537763 v2/mono/xh.txt.gz
-      957 v2.1/tmx/README
 727368649 v2/raw/af.zip
       345 v2/raw/ar.zip
 669589058 v2/raw/az.zip
@@ -107,57 +107,6 @@
 176063601 v2/raw/uz.zip
 4634988471 v2/raw/vi.zip
  53746353 v2/raw/xh.zip
-803987317 v2.1/raw/af.zip
-      349 v2.1/raw/ar.zip
-719542432 v2.1/raw/az.zip
-668140211 v2.1/raw/be.zip
-4890712042 v2.1/raw/bg.zip
-1127157298 v2.1/raw/bn.zip
-1240860994 v2.1/raw/bs.zip
-2698243040 v2.1/raw/ca.zip
-512286677 v2.1/raw/cy.zip
-     4071 v2.1/raw/en.zip
-309862454 v2.1/raw/eo.zip
-1674748346 v2.1/raw/et.zip
-377410508 v2.1/raw/eu.zip
-2298095159 v2.1/raw/fa.zip
-      348 v2.1/raw/fi.zip
-370619155 v2.1/raw/ga.zip
-603404371 v2.1/raw/gl.zip
-334136345 v2.1/raw/gu.zip
-2936198138 v2.1/raw/he.zip
-3771929843 v2.1/raw/hi.zip
-2657318343 v2.1/raw/hr.zip
-571829580 v2.1/raw/is.zip
-      527 v2.1/raw/ja.zip
-393129300 v2.1/raw/kk.zip
-465422804 v2.1/raw/kn.zip
-      349 v2.1/raw/ko.zip
-2406418858 v2.1/raw/lt.zip
-1857859088 v2.1/raw/lv.zip
-848058983 v2.1/raw/mk.zip
-342495417 v2.1/raw/ml.zip
-339222217 v2.1/raw/mr.zip
-2321638053 v2.1/raw/ms.zip
-366252115 v2.1/raw/mt.zip
-3980979386 v2.1/raw/nb.zip
-179984182 v2.1/raw/ne.zip
-191178624 v2.1/raw/nn.zip
-160228060 v2.1/raw/si.zip
-3582303150 v2.1/raw/sk.zip
-1887677702 v2.1/raw/sl.zip
-697523403 v2.1/raw/sq.zip
-1288684305 v2.1/raw/sr.zip
-431936090 v2.1/raw/sw.zip
-673010438 v2.1/raw/ta.zip
-515136836 v2.1/raw/te.zip
-1896801061 v2.1/raw/th.zip
-      350 v2.1/raw/tr.zip
-      349 v2.1/raw/uk.zip
-612141127 v2.1/raw/ur.zip
-185098029 v2.1/raw/uz.zip
-4940574728 v2.1/raw/vi.zip
- 55086122 v2.1/raw/xh.zip
 528258629 v2.1/mono/af.txt.gz
 3819703710 v2.1/mono/ar.txt.gz
 418503042 v2.1/mono/az.txt.gz
@@ -209,6 +158,120 @@
 119822068 v2.1/mono/uz.txt.gz
 1053201584 v2.1/mono/vi.txt.gz
  33497100 v2.1/mono/xh.txt.gz
+803987317 v2.1/raw/af.zip
+      349 v2.1/raw/ar.zip
+719542432 v2.1/raw/az.zip
+668140211 v2.1/raw/be.zip
+4890712042 v2.1/raw/bg.zip
+1127157298 v2.1/raw/bn.zip
+1240860994 v2.1/raw/bs.zip
+2698243040 v2.1/raw/ca.zip
+512286677 v2.1/raw/cy.zip
+     4071 v2.1/raw/en.zip
+309862454 v2.1/raw/eo.zip
+1674748346 v2.1/raw/et.zip
+377410508 v2.1/raw/eu.zip
+2298095159 v2.1/raw/fa.zip
+      348 v2.1/raw/fi.zip
+370619155 v2.1/raw/ga.zip
+603404371 v2.1/raw/gl.zip
+334136345 v2.1/raw/gu.zip
+2936198138 v2.1/raw/he.zip
+3771929843 v2.1/raw/hi.zip
+2657318343 v2.1/raw/hr.zip
+571829580 v2.1/raw/is.zip
+      527 v2.1/raw/ja.zip
+393129300 v2.1/raw/kk.zip
+465422804 v2.1/raw/kn.zip
+      349 v2.1/raw/ko.zip
+2406418858 v2.1/raw/lt.zip
+1857859088 v2.1/raw/lv.zip
+848058983 v2.1/raw/mk.zip
+342495417 v2.1/raw/ml.zip
+339222217 v2.1/raw/mr.zip
+2321638053 v2.1/raw/ms.zip
+366252115 v2.1/raw/mt.zip
+3980979386 v2.1/raw/nb.zip
+179984182 v2.1/raw/ne.zip
+191178624 v2.1/raw/nn.zip
+160228060 v2.1/raw/si.zip
+3582303150 v2.1/raw/sk.zip
+1887677702 v2.1/raw/sl.zip
+697523403 v2.1/raw/sq.zip
+1288684305 v2.1/raw/sr.zip
+431936090 v2.1/raw/sw.zip
+673010438 v2.1/raw/ta.zip
+515136836 v2.1/raw/te.zip
+1896801061 v2.1/raw/th.zip
+      350 v2.1/raw/tr.zip
+      349 v2.1/raw/uk.zip
+612141127 v2.1/raw/ur.zip
+185098029 v2.1/raw/uz.zip
+4940574728 v2.1/raw/vi.zip
+ 55086122 v2.1/raw/xh.zip
+      959 v2.1/moses/README
+     1213 v3/info-files.tar.gz
+      346 v3/raw/bg.zip
+3333232332 v3/raw/bs.zip
+3022534502 v3/raw/ca.zip
+      522 v3/raw/cs.zip
+      521 v3/raw/da.zip
+      522 v3/raw/el.zip
+     7524 v3/raw/en.zip
+2833904696 v3/raw/et.zip
+497252958 v3/raw/eu.zip
+      346 v3/raw/fi.zip
+544073325 v3/raw/ga.zip
+544906389 v3/raw/gl.zip
+      345 v3/raw/hr.zip
+      521 v3/raw/hu.zip
+980079547 v3/raw/is.zip
+568897700 v3/raw/ka.zip
+4450399553 v3/raw/lt.zip
+3371711036 v3/raw/lv.zip
+1068361702 v3/raw/mk.zip
+553018168 v3/raw/mt.zip
+      345 v3/raw/nb.zip
+133366999 v3/raw/nn.zip
+      522 v3/raw/ro.zip
+      345 v3/raw/sk.zip
+3035561755 v3/raw/sl.zip
+1179395520 v3/raw/sq.zip
+1810786691 v3/raw/sr.zip
+      522 v3/raw/tr.zip
+815501016 v3/raw/uk.zip
+      955 v3/moses/README
+      953 v3/tmx/README
+      353 v3/mono/bg.txt.gz
+2254953791 v3/mono/bs.txt.gz
+1931760208 v3/mono/ca.txt.gz
+      354 v3/mono/cs.txt.gz
+      354 v3/mono/da.txt.gz
+      354 v3/mono/el.txt.gz
+     5191 v3/mono/en.txt.gz
+1883911502 v3/mono/et.txt.gz
+329587897 v3/mono/eu.txt.gz
+      353 v3/mono/fi.txt.gz
+353390301 v3/mono/ga.txt.gz
+368054792 v3/mono/gl.txt.gz
+3791179740 v3/mono/hr.txt.gz
+      354 v3/mono/hu.txt.gz
+617943092 v3/mono/is.txt.gz
+426049793 v3/mono/ka.txt.gz
+2996041359 v3/mono/lt.txt.gz
+2242432755 v3/mono/lv.txt.gz
+722228861 v3/mono/mk.txt.gz
+363958499 v3/mono/mt.txt.gz
+3617290076 v3/mono/nb.txt.gz
+ 89762149 v3/mono/nn.txt.gz
+      354 v3/mono/ro.txt.gz
+4232357700 v3/mono/sk.txt.gz
+2084674235 v3/mono/sl.txt.gz
+772729955 v3/mono/sq.txt.gz
+1310948481 v3/mono/sr.txt.gz
+      356 v3/mono/tr.txt.gz
+506975069 v3/mono/uk.txt.gz
+      957 v2.1/tmx/README
   2637197 v2/xml/af-ar.xml.gz
   2232803 v2/xml/af-az.xml.gz
   1614830 v2/xml/af-be.xml.gz
@@ -1484,7 +1547,414 @@
   1607619 v2/xml/uz-vi.xml.gz
    484678 v2/xml/uz-xh.xml.gz
    623996 v2/xml/vi-xh.xml.gz
-     1278 v3/info-files.tar.gz
+      953 v3/xml/README
+ 49662321 v3/xml/bg-bs.xml.gz
+ 79718608 v3/xml/bg-ca.xml.gz
+215264814 v3/xml/bg-cs.xml.gz
+202682346 v3/xml/bg-da.xml.gz
+223961647 v3/xml/bg-el.xml.gz
+1276914494 v3/xml/bg-en.xml.gz
+115225042 v3/xml/bg-et.xml.gz
+ 14339814 v3/xml/bg-eu.xml.gz
+185034292 v3/xml/bg-fi.xml.gz
+ 26736905 v3/xml/bg-ga.xml.gz
+ 19999625 v3/xml/bg-gl.xml.gz
+177909982 v3/xml/bg-hr.xml.gz
+210953593 v3/xml/bg-hu.xml.gz
+ 36095150 v3/xml/bg-is.xml.gz
+  7456207 v3/xml/bg-ka.xml.gz
+164947225 v3/xml/bg-lt.xml.gz
+150537891 v3/xml/bg-lv.xml.gz
+ 29079913 v3/xml/bg-mk.xml.gz
+ 38636547 v3/xml/bg-mt.xml.gz
+107625172 v3/xml/bg-nb.xml.gz
+  1393109 v3/xml/bg-nn.xml.gz
+234690642 v3/xml/bg-ro.xml.gz
+166456467 v3/xml/bg-sk.xml.gz
+119245392 v3/xml/bg-sl.xml.gz
+ 30868060 v3/xml/bg-sq.xml.gz
+ 58254913 v3/xml/bg-sr.xml.gz
+111637672 v3/xml/bg-tr.xml.gz
+ 23211965 v3/xml/bg-uk.xml.gz
+ 21041865 v3/xml/bs-ca.xml.gz
+ 53553180 v3/xml/bs-cs.xml.gz
+ 47876963 v3/xml/bs-da.xml.gz
+ 54784865 v3/xml/bs-el.xml.gz
+467839799 v3/xml/bs-en.xml.gz
+ 25907479 v3/xml/bs-et.xml.gz
+  5228416 v3/xml/bs-eu.xml.gz
+ 45176741 v3/xml/bs-fi.xml.gz
+  5590560 v3/xml/bs-ga.xml.gz
+  6002207 v3/xml/bs-gl.xml.gz
+ 72753909 v3/xml/bs-hr.xml.gz
+ 54731256 v3/xml/bs-hu.xml.gz
+ 13002511 v3/xml/bs-is.xml.gz
+  2921565 v3/xml/bs-ka.xml.gz
+ 36059250 v3/xml/bs-lt.xml.gz
+ 33361073 v3/xml/bs-lv.xml.gz
+ 11952530 v3/xml/bs-mk.xml.gz
+  5855742 v3/xml/bs-mt.xml.gz
+ 30167748 v3/xml/bs-nb.xml.gz
+   476451 v3/xml/bs-nn.xml.gz
+ 62103466 v3/xml/bs-ro.xml.gz
+ 46322936 v3/xml/bs-sk.xml.gz
+ 31615119 v3/xml/bs-sl.xml.gz
+ 13855325 v3/xml/bs-sq.xml.gz
+ 19348548 v3/xml/bs-sr.xml.gz
+ 36638233 v3/xml/bs-tr.xml.gz
+  5428162 v3/xml/bs-uk.xml.gz
+ 86197055 v3/xml/ca-cs.xml.gz
+ 91415676 v3/xml/ca-da.xml.gz
+ 98820320 v3/xml/ca-el.xml.gz
+582658036 v3/xml/ca-en.xml.gz
+ 51983203 v3/xml/ca-et.xml.gz
+ 18216778 v3/xml/ca-eu.xml.gz
+ 84369404 v3/xml/ca-fi.xml.gz
+ 16255416 v3/xml/ca-ga.xml.gz
+ 23765198 v3/xml/ca-gl.xml.gz
+ 76796956 v3/xml/ca-hr.xml.gz
+ 84519970 v3/xml/ca-hu.xml.gz
+ 21560719 v3/xml/ca-is.xml.gz
+  4792819 v3/xml/ca-ka.xml.gz
+ 66098010 v3/xml/ca-lt.xml.gz
+ 63870365 v3/xml/ca-lv.xml.gz
+ 16591371 v3/xml/ca-mk.xml.gz
+ 15864593 v3/xml/ca-mt.xml.gz
+ 60267901 v3/xml/ca-nb.xml.gz
+   896492 v3/xml/ca-nn.xml.gz
+ 98065038 v3/xml/ca-ro.xml.gz
+ 65400429 v3/xml/ca-sk.xml.gz
+ 54266590 v3/xml/ca-sl.xml.gz
+ 18561254 v3/xml/ca-sq.xml.gz
+ 33403233 v3/xml/ca-sr.xml.gz
+ 53721617 v3/xml/ca-tr.xml.gz
+ 17527126 v3/xml/ca-uk.xml.gz
+369564489 v3/xml/cs-da.xml.gz
+320218965 v3/xml/cs-el.xml.gz
+2164565336 v3/xml/cs-en.xml.gz
+133638381 v3/xml/cs-et.xml.gz
+ 15841884 v3/xml/cs-eu.xml.gz
+305014573 v3/xml/cs-fi.xml.gz
+ 28117808 v3/xml/cs-ga.xml.gz
+ 20827817 v3/xml/cs-gl.xml.gz
+211545130 v3/xml/cs-hr.xml.gz
+370368577 v3/xml/cs-hu.xml.gz
+ 51651153 v3/xml/cs-is.xml.gz
+  6598561 v3/xml/cs-ka.xml.gz
+194092672 v3/xml/cs-lt.xml.gz
+168721404 v3/xml/cs-lv.xml.gz
+ 24086550 v3/xml/cs-mk.xml.gz
+ 37378491 v3/xml/cs-mt.xml.gz
+187524815 v3/xml/cs-nb.xml.gz
+  1916274 v3/xml/cs-nn.xml.gz
+288069394 v3/xml/cs-ro.xml.gz
+295586434 v3/xml/cs-sk.xml.gz
+134324793 v3/xml/cs-sl.xml.gz
+ 25803536 v3/xml/cs-sq.xml.gz
+ 60034141 v3/xml/cs-sr.xml.gz
+210702734 v3/xml/cs-tr.xml.gz
+ 29367670 v3/xml/cs-uk.xml.gz
+335777475 v3/xml/da-el.xml.gz
+2466726978 v3/xml/da-en.xml.gz
+133651027 v3/xml/da-et.xml.gz
+ 15317817 v3/xml/da-eu.xml.gz
+395357598 v3/xml/da-fi.xml.gz
+ 30036713 v3/xml/da-ga.xml.gz
+ 21505224 v3/xml/da-gl.xml.gz
+188266947 v3/xml/da-hr.xml.gz
+332652214 v3/xml/da-hu.xml.gz
+ 62634639 v3/xml/da-is.xml.gz
+  6278850 v3/xml/da-ka.xml.gz
+184313557 v3/xml/da-lt.xml.gz
+165719770 v3/xml/da-lv.xml.gz
+ 23986580 v3/xml/da-mk.xml.gz
+ 39020350 v3/xml/da-mt.xml.gz
+322317437 v3/xml/da-nb.xml.gz
+  2662062 v3/xml/da-nn.xml.gz
+303644369 v3/xml/da-ro.xml.gz
+212457289 v3/xml/da-sk.xml.gz
+125024194 v3/xml/da-sl.xml.gz
+ 26083174 v3/xml/da-sq.xml.gz
+ 56593260 v3/xml/da-sr.xml.gz
+224289165 v3/xml/da-tr.xml.gz
+ 23779678 v3/xml/da-uk.xml.gz
+2212937387 v3/xml/el-en.xml.gz
+123958120 v3/xml/el-et.xml.gz
+ 15596371 v3/xml/el-eu.xml.gz
+270588858 v3/xml/el-fi.xml.gz
+ 28678739 v3/xml/el-ga.xml.gz
+ 21143053 v3/xml/el-gl.xml.gz
+203268624 v3/xml/el-hr.xml.gz
+318380169 v3/xml/el-hu.xml.gz
+ 57678547 v3/xml/el-is.xml.gz
+  6972840 v3/xml/el-ka.xml.gz
+188508282 v3/xml/el-lt.xml.gz
+167825292 v3/xml/el-lv.xml.gz
+ 26275805 v3/xml/el-mk.xml.gz
+ 38028973 v3/xml/el-mt.xml.gz
+169489059 v3/xml/el-nb.xml.gz
+  1835441 v3/xml/el-nn.xml.gz
+295902758 v3/xml/el-ro.xml.gz
+201970008 v3/xml/el-sk.xml.gz
+119797753 v3/xml/el-sl.xml.gz
+ 29982003 v3/xml/el-sq.xml.gz
+ 63475336 v3/xml/el-sr.xml.gz
+223532213 v3/xml/el-tr.xml.gz
+ 31394973 v3/xml/el-uk.xml.gz
+571184288 v3/xml/en-et.xml.gz
+ 95671916 v3/xml/en-eu.xml.gz
+1805383722 v3/xml/en-fi.xml.gz
+125260135 v3/xml/en-ga.xml.gz
+107043916 v3/xml/en-gl.xml.gz
+1047104682 v3/xml/en-hr.xml.gz
+1862736157 v3/xml/en-hu.xml.gz
+247324023 v3/xml/en-is.xml.gz
+ 53386454 v3/xml/en-ka.xml.gz
+852296066 v3/xml/en-lt.xml.gz
+711873149 v3/xml/en-lv.xml.gz
+176293919 v3/xml/en-mk.xml.gz
+132436850 v3/xml/en-mt.xml.gz
+1181005148 v3/xml/en-nb.xml.gz
+ 20572326 v3/xml/en-nn.xml.gz
+ 19370320 v3/xml/en-no.xml.gz
+2047662805 v3/xml/en-ro.xml.gz
+1178951538 v3/xml/en-sk.xml.gz
+572474247 v3/xml/en-sl.xml.gz
+206056153 v3/xml/en-sq.xml.gz
+289657764 v3/xml/en-sr.xml.gz
+1823738267 v3/xml/en-tr.xml.gz
+ 95148386 v3/xml/en-uk.xml.gz
+ 12011569 v3/xml/et-eu.xml.gz
+136846089 v3/xml/et-fi.xml.gz
+ 22399599 v3/xml/et-ga.xml.gz
+ 16341484 v3/xml/et-gl.xml.gz
+108277494 v3/xml/et-hr.xml.gz
+127977893 v3/xml/et-hu.xml.gz
+ 34802493 v3/xml/et-is.xml.gz
+  5441816 v3/xml/et-ka.xml.gz
+132809452 v3/xml/et-lt.xml.gz
+128842088 v3/xml/et-lv.xml.gz
+ 19560054 v3/xml/et-mk.xml.gz
+ 31476919 v3/xml/et-mt.xml.gz
+ 85057810 v3/xml/et-nb.xml.gz
+   643356 v3/xml/et-nn.xml.gz
+122516464 v3/xml/et-ro.xml.gz
+110835928 v3/xml/et-sk.xml.gz
+ 92041956 v3/xml/et-sl.xml.gz
+ 20144482 v3/xml/et-sq.xml.gz
+ 40126495 v3/xml/et-sr.xml.gz
+ 64256613 v3/xml/et-tr.xml.gz
+ 14648964 v3/xml/et-uk.xml.gz
+ 14754178 v3/xml/eu-fi.xml.gz
+ 11237809 v3/xml/eu-ga.xml.gz
+ 15221592 v3/xml/eu-gl.xml.gz
+ 16113062 v3/xml/eu-hr.xml.gz
+ 14939997 v3/xml/eu-hu.xml.gz
+ 11650463 v3/xml/eu-is.xml.gz
+  4283645 v3/xml/eu-ka.xml.gz
+ 13107817 v3/xml/eu-lt.xml.gz
+ 12814673 v3/xml/eu-lv.xml.gz
+ 10958341 v3/xml/eu-mk.xml.gz
+  9825738 v3/xml/eu-mt.xml.gz
+ 11508328 v3/xml/eu-nb.xml.gz
+   270291 v3/xml/eu-nn.xml.gz
+ 15792210 v3/xml/eu-ro.xml.gz
+ 13443656 v3/xml/eu-sk.xml.gz
+ 11452960 v3/xml/eu-sl.xml.gz
+ 11304685 v3/xml/eu-sq.xml.gz
+ 10762565 v3/xml/eu-sr.xml.gz
+  8531828 v3/xml/eu-tr.xml.gz
+  1032491 v3/xml/eu-uk.xml.gz
+ 27609734 v3/xml/fi-ga.xml.gz
+ 20249783 v3/xml/fi-gl.xml.gz
+182159535 v3/xml/fi-hr.xml.gz
+279519833 v3/xml/fi-hu.xml.gz
+ 56914036 v3/xml/fi-is.xml.gz
+  6515616 v3/xml/fi-ka.xml.gz
+175359645 v3/xml/fi-lt.xml.gz
+160479510 v3/xml/fi-lv.xml.gz
+ 25023159 v3/xml/fi-mk.xml.gz
+ 37626155 v3/xml/fi-mt.xml.gz
+242181618 v3/xml/fi-nb.xml.gz
+  2035230 v3/xml/fi-nn.xml.gz
+245770584 v3/xml/fi-ro.xml.gz
+199496263 v3/xml/fi-sk.xml.gz
+119470838 v3/xml/fi-sl.xml.gz
+ 25381617 v3/xml/fi-sq.xml.gz
+ 57411581 v3/xml/fi-sr.xml.gz
+170998602 v3/xml/fi-tr.xml.gz
+ 22898739 v3/xml/fi-uk.xml.gz
+ 14987739 v3/xml/ga-gl.xml.gz
+ 26623243 v3/xml/ga-hr.xml.gz
+ 27623192 v3/xml/ga-hu.xml.gz
+ 19008976 v3/xml/ga-is.xml.gz
+  4292990 v3/xml/ga-ka.xml.gz
+ 24115054 v3/xml/ga-lt.xml.gz
+ 24322844 v3/xml/ga-lv.xml.gz
+ 16580981 v3/xml/ga-mk.xml.gz
+ 19898283 v3/xml/ga-mt.xml.gz
+ 19287839 v3/xml/ga-nb.xml.gz
+   213086 v3/xml/ga-nn.xml.gz
+ 26318355 v3/xml/ga-ro.xml.gz
+ 24532082 v3/xml/ga-sk.xml.gz
+ 22391448 v3/xml/ga-sl.xml.gz
+ 15618685 v3/xml/ga-sq.xml.gz
+ 17400457 v3/xml/ga-sr.xml.gz
+ 13894979 v3/xml/ga-tr.xml.gz
+  1745521 v3/xml/ga-uk.xml.gz
+ 20887407 v3/xml/gl-hr.xml.gz
+ 20969581 v3/xml/gl-hu.xml.gz
+ 15883019 v3/xml/gl-is.xml.gz
+  4242366 v3/xml/gl-ka.xml.gz
+ 17167834 v3/xml/gl-lt.xml.gz
+ 16698994 v3/xml/gl-lv.xml.gz
+ 14722473 v3/xml/gl-mk.xml.gz
+ 14310105 v3/xml/gl-mt.xml.gz
+ 15661480 v3/xml/gl-nb.xml.gz
+   434236 v3/xml/gl-nn.xml.gz
+ 21147475 v3/xml/gl-ro.xml.gz
+ 19405509 v3/xml/gl-sk.xml.gz
+ 15518748 v3/xml/gl-sl.xml.gz
+ 15472527 v3/xml/gl-sq.xml.gz
+ 15422109 v3/xml/gl-sr.xml.gz
+ 11254206 v3/xml/gl-tr.xml.gz
+  1442061 v3/xml/gl-uk.xml.gz
+208985653 v3/xml/hr-hu.xml.gz
+ 53679432 v3/xml/hr-is.xml.gz
+  7179545 v3/xml/hr-ka.xml.gz
+162321584 v3/xml/hr-lt.xml.gz
+151165098 v3/xml/hr-lv.xml.gz
+ 27441800 v3/xml/hr-mk.xml.gz
+ 35235878 v3/xml/hr-mt.xml.gz
+108117658 v3/xml/hr-nb.xml.gz
+  1020824 v3/xml/hr-nn.xml.gz
+199825061 v3/xml/hr-ro.xml.gz
+175788147 v3/xml/hr-sk.xml.gz
+124038288 v3/xml/hr-sl.xml.gz
+ 31388414 v3/xml/hr-sq.xml.gz
+ 60698677 v3/xml/hr-sr.xml.gz
+116128816 v3/xml/hr-tr.xml.gz
+ 23979298 v3/xml/hr-uk.xml.gz
+ 57409328 v3/xml/hu-is.xml.gz
+  6491604 v3/xml/hu-ka.xml.gz
+191538108 v3/xml/hu-lt.xml.gz
+169083743 v3/xml/hu-lv.xml.gz
+ 24644633 v3/xml/hu-mk.xml.gz
+ 38433581 v3/xml/hu-mt.xml.gz
+169060282 v3/xml/hu-nb.xml.gz
+  1907529 v3/xml/hu-nn.xml.gz
+285344690 v3/xml/hu-ro.xml.gz
+240907331 v3/xml/hu-sk.xml.gz
+134559631 v3/xml/hu-sl.xml.gz
+ 26491273 v3/xml/hu-sq.xml.gz
+ 59563167 v3/xml/hu-sr.xml.gz
+201234768 v3/xml/hu-tr.xml.gz
+ 28743383 v3/xml/hu-uk.xml.gz
+  4741403 v3/xml/is-ka.xml.gz
+ 50462526 v3/xml/is-lt.xml.gz
+ 50513383 v3/xml/is-lv.xml.gz
+ 18656628 v3/xml/is-mk.xml.gz
+ 17791608 v3/xml/is-mt.xml.gz
+ 37206013 v3/xml/is-nb.xml.gz
+   280683 v3/xml/is-nn.xml.gz
+ 35641346 v3/xml/is-ro.xml.gz
+ 52809686 v3/xml/is-sk.xml.gz
+ 23180685 v3/xml/is-sl.xml.gz
+ 18191892 v3/xml/is-sq.xml.gz
+ 18864360 v3/xml/is-sr.xml.gz
+ 40343581 v3/xml/is-tr.xml.gz
+  4879070 v3/xml/is-uk.xml.gz
+  6301061 v3/xml/ka-lt.xml.gz
+  5990034 v3/xml/ka-lv.xml.gz
+  5020882 v3/xml/ka-mk.xml.gz
+  3811035 v3/xml/ka-mt.xml.gz
+  4916206 v3/xml/ka-nb.xml.gz
+    68576 v3/xml/ka-nn.xml.gz
+  7259724 v3/xml/ka-ro.xml.gz
+  6219214 v3/xml/ka-sk.xml.gz
+  5238695 v3/xml/ka-sl.xml.gz
+  5219116 v3/xml/ka-sq.xml.gz
+  5514812 v3/xml/ka-sr.xml.gz
+  5409743 v3/xml/ka-tr.xml.gz
+   407041 v3/xml/ka-uk.xml.gz
+191209763 v3/xml/lt-lv.xml.gz
+ 21693945 v3/xml/lt-mk.xml.gz
+ 37462623 v3/xml/lt-mt.xml.gz
+101204623 v3/xml/lt-nb.xml.gz
+  1152166 v3/xml/lt-nn.xml.gz
+181740233 v3/xml/lt-ro.xml.gz
+162677057 v3/xml/lt-sk.xml.gz
+110132154 v3/xml/lt-sl.xml.gz
+ 22222406 v3/xml/lt-sq.xml.gz
+ 51776727 v3/xml/lt-sr.xml.gz
+ 99888249 v3/xml/lt-tr.xml.gz
+ 22435167 v3/xml/lt-uk.xml.gz
+ 20683956 v3/xml/lv-mk.xml.gz
+ 37456594 v3/xml/lv-mt.xml.gz
+ 89304469 v3/xml/lv-nb.xml.gz
+   728051 v3/xml/lv-nn.xml.gz
+157215555 v3/xml/lv-ro.xml.gz
+154038197 v3/xml/lv-sk.xml.gz
+107214914 v3/xml/lv-sl.xml.gz
+ 22013031 v3/xml/lv-sq.xml.gz
+ 47342113 v3/xml/lv-sr.xml.gz
+ 88905664 v3/xml/lv-tr.xml.gz
+ 20705289 v3/xml/lv-uk.xml.gz
+ 15580003 v3/xml/mk-mt.xml.gz
+ 19360873 v3/xml/mk-nb.xml.gz
+   341591 v3/xml/mk-nn.xml.gz
+ 26932577 v3/xml/mk-ro.xml.gz
+ 24369584 v3/xml/mk-sk.xml.gz
+ 19918427 v3/xml/mk-sl.xml.gz
+ 23033810 v3/xml/mk-sq.xml.gz
+ 20542776 v3/xml/mk-sr.xml.gz
+ 15112737 v3/xml/mk-tr.xml.gz
+  1621924 v3/xml/mk-uk.xml.gz
+ 17175511 v3/xml/mt-nb.xml.gz
+   144478 v3/xml/mt-nn.xml.gz
+ 36767320 v3/xml/mt-ro.xml.gz
+ 40067132 v3/xml/mt-sk.xml.gz
+ 35285141 v3/xml/mt-sl.xml.gz
+ 16621820 v3/xml/mt-sq.xml.gz
+ 15797123 v3/xml/mt-sr.xml.gz
+ 11173698 v3/xml/mt-tr.xml.gz
+  1433223 v3/xml/mt-uk.xml.gz
+  2900172 v3/xml/nb-nn.xml.gz
+163312136 v3/xml/nb-ro.xml.gz
+115246970 v3/xml/nb-sk.xml.gz
+ 74096566 v3/xml/nb-sl.xml.gz
+ 20269272 v3/xml/nb-sq.xml.gz
+ 46936059 v3/xml/nb-sr.xml.gz
+117618859 v3/xml/nb-tr.xml.gz
+ 14773348 v3/xml/nb-uk.xml.gz
+  1745483 v3/xml/nn-ro.xml.gz
+  1062546 v3/xml/nn-sk.xml.gz
+   771702 v3/xml/nn-sl.xml.gz
+   254025 v3/xml/nn-sq.xml.gz
+   532906 v3/xml/nn-sr.xml.gz
+  1570047 v3/xml/nn-tr.xml.gz
+   256284 v3/xml/nn-uk.xml.gz
+198633306 v3/xml/ro-sk.xml.gz
+129230629 v3/xml/ro-sl.xml.gz
+ 31063572 v3/xml/ro-sq.xml.gz
+ 61259113 v3/xml/ro-sr.xml.gz
+166227411 v3/xml/ro-tr.xml.gz
+ 27470510 v3/xml/ro-uk.xml.gz
+127513244 v3/xml/sk-sl.xml.gz
+ 26105483 v3/xml/sk-sq.xml.gz
+ 53630738 v3/xml/sk-sr.xml.gz
+116656480 v3/xml/sk-tr.xml.gz
+ 18855957 v3/xml/sk-uk.xml.gz
+ 20041026 v3/xml/sl-sq.xml.gz
+ 38527995 v3/xml/sl-sr.xml.gz
+ 56631852 v3/xml/sl-tr.xml.gz
+ 14080161 v3/xml/sl-uk.xml.gz
+ 20513151 v3/xml/sq-sr.xml.gz
+ 18779613 v3/xml/sq-tr.xml.gz
+  2202437 v3/xml/sq-uk.xml.gz
+ 37749523 v3/xml/sr-tr.xml.gz
+  9167346 v3/xml/sr-uk.xml.gz
+ 26511175 v3/xml/tr-uk.xml.gz
       957 v2.1/xml/README
   5941665 v2.1/xml/af-ar.xml.gz
   7186730 v2.1/xml/af-az.xml.gz
@@ -2761,460 +3231,3 @@
   3462064 v2.1/xml/uz-vi.xml.gz
   1701107 v2.1/xml/uz-xh.xml.gz
   1887405 v2.1/xml/vi-xh.xml.gz
-      870 v3/raw/bg.zip
-      346 v3/raw/bs.zip
-      346 v3/raw/ca.zip
-     1218 v3/raw/cs.zip
-     1218 v3/raw/da.zip
-     1392 v3/raw/el.zip
-     7524 v3/raw/en.zip
-      346 v3/raw/et.zip
-1132788000 v3/raw/eu.zip
-      870 v3/raw/fi.zip
-1523109711 v3/raw/ga.zip
-1300151653 v3/raw/gl.zip
-      696 v3/raw/hr.zip
-     1218 v3/raw/hu.zip
-2804626155 v3/raw/is.zip
-825926637 v3/raw/ka.zip
-      522 v3/raw/lt.zip
-      521 v3/raw/lv.zip
-2228320824 v3/raw/mk.zip
-2177627565 v3/raw/mt.zip
-      522 v3/raw/nb.zip
-285414822 v3/raw/nn.zip
-     1392 v3/raw/ro.zip
-      696 v3/raw/sk.zip
-      346 v3/raw/sl.zip
-2595478156 v3/raw/sq.zip
-4394337672 v3/raw/sr.zip
-     1391 v3/raw/tr.zip
-1720146736 v3/raw/uk.zip
-      952 v3/tmx/README
-      712 v3/mono/bg.txt.gz
-      353 v3/mono/bs.txt.gz
-4541059002 v3/mono/ca.txt.gz
-      890 v3/mono/cs.txt.gz
-      890 v3/mono/da.txt.gz
-     1068 v3/mono/el.txt.gz
-     5191 v3/mono/en.txt.gz
-5195523557 v3/mono/et.txt.gz
-776407031 v3/mono/eu.txt.gz
-      712 v3/mono/fi.txt.gz
-1053385766 v3/mono/ga.txt.gz
-886541678 v3/mono/gl.txt.gz
-      534 v3/mono/hr.txt.gz
-      890 v3/mono/hu.txt.gz
-1825287643 v3/mono/is.txt.gz
-622848263 v3/mono/ka.txt.gz
-      354 v3/mono/lt.txt.gz
-      354 v3/mono/lv.txt.gz
-1544062353 v3/mono/mk.txt.gz
-1593310020 v3/mono/mt.txt.gz
-      354 v3/mono/nb.txt.gz
-192820425 v3/mono/nn.txt.gz
-     1068 v3/mono/ro.txt.gz
-      534 v3/mono/sk.txt.gz
-      353 v3/mono/sl.txt.gz
-1798807102 v3/mono/sq.txt.gz
-3267586887 v3/mono/sr.txt.gz
-      890 v3/mono/tr.txt.gz
-1164295950 v3/mono/uk.txt.gz
-      952 v3/xml/README
- 50145558 v3/xml/bg-bs.xml.gz
- 80403646 v3/xml/bg-ca.xml.gz
-      125 v3/xml/bg-cs.xml.gz
-      125 v3/xml/bg-da.xml.gz
-      125 v3/xml/bg-el.xml.gz
-4455644634 v3/xml/bg-en.xml.gz
-116197102 v3/xml/bg-et.xml.gz
- 14464688 v3/xml/bg-eu.xml.gz
-      125 v3/xml/bg-fi.xml.gz
- 26969870 v3/xml/bg-ga.xml.gz
- 20182635 v3/xml/bg-gl.xml.gz
-      125 v3/xml/bg-hr.xml.gz
-      125 v3/xml/bg-hu.xml.gz
-      125 v3/xml/bg-is.xml.gz
-  7519550 v3/xml/bg-ka.xml.gz
-166356515 v3/xml/bg-lt.xml.gz
-151820944 v3/xml/bg-lv.xml.gz
- 29362284 v3/xml/bg-mk.xml.gz
- 38971779 v3/xml/bg-mt.xml.gz
-      125 v3/xml/bg-nb.xml.gz
-  1409995 v3/xml/bg-nn.xml.gz
-      125 v3/xml/bg-ro.xml.gz
-      125 v3/xml/bg-sk.xml.gz
-120238614 v3/xml/bg-sl.xml.gz
- 31166761 v3/xml/bg-sq.xml.gz
- 58731178 v3/xml/bg-sr.xml.gz
-      125 v3/xml/bg-tr.xml.gz
- 23384740 v3/xml/bg-uk.xml.gz
- 21224265 v3/xml/bs-ca.xml.gz
-      125 v3/xml/bs-cs.xml.gz
-      125 v3/xml/bs-da.xml.gz
-      125 v3/xml/bs-el.xml.gz
-1112336813 v3/xml/bs-en.xml.gz
- 26138101 v3/xml/bs-et.xml.gz
-  5275050 v3/xml/bs-eu.xml.gz
-      125 v3/xml/bs-fi.xml.gz
-  5639950 v3/xml/bs-ga.xml.gz
-  6059748 v3/xml/bs-gl.xml.gz
-      125 v3/xml/bs-hr.xml.gz
-      125 v3/xml/bs-hu.xml.gz
-      125 v3/xml/bs-is.xml.gz
-  2947005 v3/xml/bs-ka.xml.gz
- 36393220 v3/xml/bs-lt.xml.gz
- 33666935 v3/xml/bs-lv.xml.gz
- 12073176 v3/xml/bs-mk.xml.gz
-  5911796 v3/xml/bs-mt.xml.gz
-      125 v3/xml/bs-nb.xml.gz
-   482373 v3/xml/bs-nn.xml.gz
-      125 v3/xml/bs-ro.xml.gz
-      125 v3/xml/bs-sk.xml.gz
- 31901749 v3/xml/bs-sl.xml.gz
- 14001963 v3/xml/bs-sq.xml.gz
- 19564541 v3/xml/bs-sr.xml.gz
-      125 v3/xml/bs-tr.xml.gz
-  5475991 v3/xml/bs-uk.xml.gz
-      125 v3/xml/ca-cs.xml.gz
-      125 v3/xml/ca-da.xml.gz
-      125 v3/xml/ca-el.xml.gz
-1665307367 v3/xml/ca-en.xml.gz
- 52400445 v3/xml/ca-et.xml.gz
- 18378514 v3/xml/ca-eu.xml.gz
-      125 v3/xml/ca-fi.xml.gz
- 16397775 v3/xml/ca-ga.xml.gz
- 23985810 v3/xml/ca-gl.xml.gz
-      125 v3/xml/ca-hr.xml.gz
-      125 v3/xml/ca-hu.xml.gz
-      125 v3/xml/ca-is.xml.gz
-  4830553 v3/xml/ca-ka.xml.gz
- 66635308 v3/xml/ca-lt.xml.gz
- 64391118 v3/xml/ca-lv.xml.gz
- 16732588 v3/xml/ca-mk.xml.gz
- 16004274 v3/xml/ca-mt.xml.gz
-      125 v3/xml/ca-nb.xml.gz
-   907769 v3/xml/ca-nn.xml.gz
-      125 v3/xml/ca-ro.xml.gz
-      125 v3/xml/ca-sk.xml.gz
- 54703371 v3/xml/ca-sl.xml.gz
- 18730551 v3/xml/ca-sq.xml.gz
- 33639816 v3/xml/ca-sr.xml.gz
-      125 v3/xml/ca-tr.xml.gz
- 17647195 v3/xml/ca-uk.xml.gz
-      125 v3/xml/cs-da.xml.gz
-      125 v3/xml/cs-el.xml.gz
-      125 v3/xml/cs-et.xml.gz
-      125 v3/xml/cs-eu.xml.gz
-      125 v3/xml/cs-fi.xml.gz
-      125 v3/xml/cs-ga.xml.gz
-      125 v3/xml/cs-gl.xml.gz
-      125 v3/xml/cs-hr.xml.gz
-      125 v3/xml/cs-hu.xml.gz
-      125 v3/xml/cs-is.xml.gz
-      125 v3/xml/cs-ka.xml.gz
-      125 v3/xml/cs-lt.xml.gz
-      125 v3/xml/cs-lv.xml.gz
-      125 v3/xml/cs-mk.xml.gz
-      125 v3/xml/cs-mt.xml.gz
-      125 v3/xml/cs-nb.xml.gz
-      125 v3/xml/cs-nn.xml.gz
-      125 v3/xml/cs-ro.xml.gz
-      125 v3/xml/cs-sk.xml.gz
-      125 v3/xml/cs-sl.xml.gz
-      125 v3/xml/cs-sq.xml.gz
-      125 v3/xml/cs-sr.xml.gz
-      125 v3/xml/cs-tr.xml.gz
-      125 v3/xml/cs-uk.xml.gz
-      125 v3/xml/da-el.xml.gz
-      125 v3/xml/da-et.xml.gz
-      125 v3/xml/da-eu.xml.gz
-      125 v3/xml/da-fi.xml.gz
-      125 v3/xml/da-ga.xml.gz
-      125 v3/xml/da-gl.xml.gz
-      125 v3/xml/da-hr.xml.gz
-      125 v3/xml/da-hu.xml.gz
-      125 v3/xml/da-is.xml.gz
-      125 v3/xml/da-ka.xml.gz
-      125 v3/xml/da-lt.xml.gz
-      125 v3/xml/da-lv.xml.gz
-      125 v3/xml/da-mk.xml.gz
-      125 v3/xml/da-mt.xml.gz
-      125 v3/xml/da-nb.xml.gz
-      125 v3/xml/da-nn.xml.gz
-      125 v3/xml/da-ro.xml.gz
-      125 v3/xml/da-sk.xml.gz
-      125 v3/xml/da-sl.xml.gz
-      125 v3/xml/da-sq.xml.gz
-      125 v3/xml/da-sr.xml.gz
-      125 v3/xml/da-tr.xml.gz
-      125 v3/xml/da-uk.xml.gz
-      125 v3/xml/el-et.xml.gz
-      125 v3/xml/el-eu.xml.gz
-      125 v3/xml/el-fi.xml.gz
-      125 v3/xml/el-ga.xml.gz
-      125 v3/xml/el-gl.xml.gz
-      125 v3/xml/el-hr.xml.gz
-      125 v3/xml/el-hu.xml.gz
-      125 v3/xml/el-is.xml.gz
-      125 v3/xml/el-ka.xml.gz
-      125 v3/xml/el-lt.xml.gz
-      125 v3/xml/el-lv.xml.gz
-      125 v3/xml/el-mk.xml.gz
-      125 v3/xml/el-mt.xml.gz
-      125 v3/xml/el-nb.xml.gz
-      125 v3/xml/el-nn.xml.gz
-      125 v3/xml/el-ro.xml.gz
-      125 v3/xml/el-sk.xml.gz
-      125 v3/xml/el-sl.xml.gz
-      125 v3/xml/el-sq.xml.gz
-      125 v3/xml/el-sr.xml.gz
-      125 v3/xml/el-tr.xml.gz
-      125 v3/xml/el-uk.xml.gz
-1877690839 v3/xml/en-et.xml.gz
-188234642 v3/xml/en-eu.xml.gz
-369207757 v3/xml/en-ga.xml.gz
-199284613 v3/xml/en-gl.xml.gz
- 63796236 v3/xml/en-ka.xml.gz
-3162781289 v3/xml/en-lt.xml.gz
-2946872148 v3/xml/en-lv.xml.gz
-307306399 v3/xml/en-mk.xml.gz
-593216720 v3/xml/en-mt.xml.gz
- 33430629 v3/xml/en-nn.xml.gz
-2120107658 v3/xml/en-sl.xml.gz
-394279612 v3/xml/en-sq.xml.gz
-954760789 v3/xml/en-sr.xml.gz
-398111647 v3/xml/en-uk.xml.gz
- 12107559 v3/xml/et-eu.xml.gz
-      125 v3/xml/et-fi.xml.gz
- 22589418 v3/xml/et-ga.xml.gz
- 16478577 v3/xml/et-gl.xml.gz
-      125 v3/xml/et-hr.xml.gz
-      125 v3/xml/et-hu.xml.gz
-      125 v3/xml/et-is.xml.gz
-  5483627 v3/xml/et-ka.xml.gz
-133926211 v3/xml/et-lt.xml.gz
-129909068 v3/xml/et-lv.xml.gz
- 19738003 v3/xml/et-mk.xml.gz
- 31742954 v3/xml/et-mt.xml.gz
-      125 v3/xml/et-nb.xml.gz
-   651538 v3/xml/et-nn.xml.gz
-      125 v3/xml/et-ro.xml.gz
-      125 v3/xml/et-sk.xml.gz
- 92762272 v3/xml/et-sl.xml.gz
- 20315116 v3/xml/et-sq.xml.gz
- 40453362 v3/xml/et-sr.xml.gz
-      125 v3/xml/et-tr.xml.gz
- 14761600 v3/xml/et-uk.xml.gz
-      125 v3/xml/eu-fi.xml.gz
- 11328716 v3/xml/eu-ga.xml.gz
- 15349836 v3/xml/eu-gl.xml.gz
-      125 v3/xml/eu-hr.xml.gz
-      125 v3/xml/eu-hu.xml.gz
-      125 v3/xml/eu-is.xml.gz
-  4315277 v3/xml/eu-ka.xml.gz
- 13218285 v3/xml/eu-lt.xml.gz
- 12922347 v3/xml/eu-lv.xml.gz
- 11044875 v3/xml/eu-mk.xml.gz
-  9906028 v3/xml/eu-mt.xml.gz
-      125 v3/xml/eu-nb.xml.gz
-   273767 v3/xml/eu-nn.xml.gz
-      125 v3/xml/eu-ro.xml.gz
-      125 v3/xml/eu-sk.xml.gz
- 11547182 v3/xml/eu-sl.xml.gz
- 11397166 v3/xml/eu-sq.xml.gz
- 10848965 v3/xml/eu-sr.xml.gz
-      125 v3/xml/eu-tr.xml.gz
-  1042957 v3/xml/eu-uk.xml.gz
-      125 v3/xml/fi-ga.xml.gz
-      125 v3/xml/fi-gl.xml.gz
-      125 v3/xml/fi-hr.xml.gz
-      125 v3/xml/fi-hu.xml.gz
-      125 v3/xml/fi-is.xml.gz
-      125 v3/xml/fi-ka.xml.gz
-      125 v3/xml/fi-lt.xml.gz
-      125 v3/xml/fi-lv.xml.gz
-      125 v3/xml/fi-mk.xml.gz
-      125 v3/xml/fi-mt.xml.gz
-      125 v3/xml/fi-nb.xml.gz
-      125 v3/xml/fi-nn.xml.gz
-      125 v3/xml/fi-ro.xml.gz
-      125 v3/xml/fi-sk.xml.gz
-      125 v3/xml/fi-sl.xml.gz
-      125 v3/xml/fi-sq.xml.gz
-      125 v3/xml/fi-sr.xml.gz
-      125 v3/xml/fi-tr.xml.gz
-      125 v3/xml/fi-uk.xml.gz
- 15116173 v3/xml/ga-gl.xml.gz
-      125 v3/xml/ga-hr.xml.gz
-      125 v3/xml/ga-hu.xml.gz
-      125 v3/xml/ga-is.xml.gz
-  4325992 v3/xml/ga-ka.xml.gz
- 24322687 v3/xml/ga-lt.xml.gz
- 24536413 v3/xml/ga-lv.xml.gz
- 16719053 v3/xml/ga-mk.xml.gz
- 20071708 v3/xml/ga-mt.xml.gz
-      125 v3/xml/ga-nb.xml.gz
-   215743 v3/xml/ga-nn.xml.gz
-      125 v3/xml/ga-ro.xml.gz
-      125 v3/xml/ga-sk.xml.gz
- 22578241 v3/xml/ga-sl.xml.gz
- 15749996 v3/xml/ga-sq.xml.gz
- 17546012 v3/xml/ga-sr.xml.gz
-      125 v3/xml/ga-tr.xml.gz
-  1762118 v3/xml/ga-uk.xml.gz
-      125 v3/xml/gl-hr.xml.gz
-      125 v3/xml/gl-hu.xml.gz
-      125 v3/xml/gl-is.xml.gz
-  4274743 v3/xml/gl-ka.xml.gz
- 17322211 v3/xml/gl-lt.xml.gz
- 16847334 v3/xml/gl-lv.xml.gz
- 14845327 v3/xml/gl-mk.xml.gz
- 14430571 v3/xml/gl-mt.xml.gz
-      125 v3/xml/gl-nb.xml.gz
-   439964 v3/xml/gl-nn.xml.gz
-      125 v3/xml/gl-ro.xml.gz
-      125 v3/xml/gl-sk.xml.gz
- 15652525 v3/xml/gl-sl.xml.gz
- 15602937 v3/xml/gl-sq.xml.gz
- 15549725 v3/xml/gl-sr.xml.gz
-      125 v3/xml/gl-tr.xml.gz
-  1456985 v3/xml/gl-uk.xml.gz
-      125 v3/xml/hr-hu.xml.gz
-      125 v3/xml/hr-is.xml.gz
-      125 v3/xml/hr-ka.xml.gz
-      125 v3/xml/hr-lt.xml.gz
-      125 v3/xml/hr-lv.xml.gz
-      125 v3/xml/hr-mk.xml.gz
-      125 v3/xml/hr-mt.xml.gz
-      125 v3/xml/hr-nb.xml.gz
-      125 v3/xml/hr-nn.xml.gz
-      125 v3/xml/hr-ro.xml.gz
-      125 v3/xml/hr-sk.xml.gz
-      125 v3/xml/hr-sl.xml.gz
-      125 v3/xml/hr-sq.xml.gz
-      125 v3/xml/hr-sr.xml.gz
-      125 v3/xml/hr-tr.xml.gz
-      125 v3/xml/hr-uk.xml.gz
-      125 v3/xml/hu-is.xml.gz
-      125 v3/xml/hu-ka.xml.gz
-      125 v3/xml/hu-lt.xml.gz
-      125 v3/xml/hu-lv.xml.gz
-      125 v3/xml/hu-mk.xml.gz
-      125 v3/xml/hu-mt.xml.gz
-      125 v3/xml/hu-nb.xml.gz
-      125 v3/xml/hu-nn.xml.gz
-      125 v3/xml/hu-ro.xml.gz
-      125 v3/xml/hu-sk.xml.gz
-      125 v3/xml/hu-sl.xml.gz
-      125 v3/xml/hu-sq.xml.gz
-      125 v3/xml/hu-sr.xml.gz
-      125 v3/xml/hu-tr.xml.gz
-      125 v3/xml/hu-uk.xml.gz
-      125 v3/xml/is-ka.xml.gz
-      125 v3/xml/is-lt.xml.gz
-      125 v3/xml/is-lv.xml.gz
-      125 v3/xml/is-mk.xml.gz
-      125 v3/xml/is-mt.xml.gz
-      125 v3/xml/is-nb.xml.gz
-      125 v3/xml/is-nn.xml.gz
-      125 v3/xml/is-ro.xml.gz
-      125 v3/xml/is-sk.xml.gz
-      125 v3/xml/is-sl.xml.gz
-      125 v3/xml/is-sq.xml.gz
-      125 v3/xml/is-sr.xml.gz
-      125 v3/xml/is-tr.xml.gz
-      125 v3/xml/is-uk.xml.gz
-  6348133 v3/xml/ka-lt.xml.gz
-  6035019 v3/xml/ka-lv.xml.gz
-  5057839 v3/xml/ka-mk.xml.gz
-  3839076 v3/xml/ka-mt.xml.gz
-      125 v3/xml/ka-nb.xml.gz
-    69551 v3/xml/ka-nn.xml.gz
-      125 v3/xml/ka-ro.xml.gz
-      125 v3/xml/ka-sk.xml.gz
-  5276855 v3/xml/ka-sl.xml.gz
-  5258696 v3/xml/ka-sq.xml.gz
-  5552966 v3/xml/ka-sr.xml.gz
-      125 v3/xml/ka-tr.xml.gz
-   410860 v3/xml/ka-uk.xml.gz
-192784095 v3/xml/lt-lv.xml.gz
- 21890485 v3/xml/lt-mk.xml.gz
- 37781369 v3/xml/lt-mt.xml.gz
-      125 v3/xml/lt-nb.xml.gz
-  1165857 v3/xml/lt-nn.xml.gz
-      125 v3/xml/lt-ro.xml.gz
-      125 v3/xml/lt-sk.xml.gz
-111014553 v3/xml/lt-sl.xml.gz
- 22426602 v3/xml/lt-sq.xml.gz
- 52189032 v3/xml/lt-sr.xml.gz
-      125 v3/xml/lt-tr.xml.gz
- 22603158 v3/xml/lt-uk.xml.gz
- 20869809 v3/xml/lv-mk.xml.gz
- 37780968 v3/xml/lv-mt.xml.gz
-      125 v3/xml/lv-nb.xml.gz
-   737083 v3/xml/lv-nn.xml.gz
-      125 v3/xml/lv-ro.xml.gz
-      125 v3/xml/lv-sk.xml.gz
-108071900 v3/xml/lv-sl.xml.gz
- 22211412 v3/xml/lv-sq.xml.gz
- 47703730 v3/xml/lv-sr.xml.gz
-      125 v3/xml/lv-tr.xml.gz
- 20858675 v3/xml/lv-uk.xml.gz
- 15712706 v3/xml/mk-mt.xml.gz
-      125 v3/xml/mk-nb.xml.gz
-   346078 v3/xml/mk-nn.xml.gz
-      125 v3/xml/mk-ro.xml.gz
-      125 v3/xml/mk-sk.xml.gz
- 20086961 v3/xml/mk-sl.xml.gz
- 23247174 v3/xml/mk-sq.xml.gz
- 20723720 v3/xml/mk-sr.xml.gz
-      125 v3/xml/mk-tr.xml.gz
-  1638583 v3/xml/mk-uk.xml.gz
-      125 v3/xml/mt-nb.xml.gz
-   146272 v3/xml/mt-nn.xml.gz
-      125 v3/xml/mt-ro.xml.gz
-      125 v3/xml/mt-sk.xml.gz
- 35579366 v3/xml/mt-sl.xml.gz
- 16766109 v3/xml/mt-sq.xml.gz
- 15928364 v3/xml/mt-sr.xml.gz
-      125 v3/xml/mt-tr.xml.gz
-  1446785 v3/xml/mt-uk.xml.gz
-      125 v3/xml/nb-nn.xml.gz
-      125 v3/xml/nb-ro.xml.gz
-      125 v3/xml/nb-sk.xml.gz
-      125 v3/xml/nb-sl.xml.gz
-      125 v3/xml/nb-sq.xml.gz
-      125 v3/xml/nb-sr.xml.gz
-      125 v3/xml/nb-tr.xml.gz
-      125 v3/xml/nb-uk.xml.gz
-      125 v3/xml/nn-ro.xml.gz
-      125 v3/xml/nn-sk.xml.gz
-   780679 v3/xml/nn-sl.xml.gz
-   257229 v3/xml/nn-sq.xml.gz
-   539715 v3/xml/nn-sr.xml.gz
-      125 v3/xml/nn-tr.xml.gz
-   259390 v3/xml/nn-uk.xml.gz
-      125 v3/xml/ro-sk.xml.gz
-      125 v3/xml/ro-sl.xml.gz
-      125 v3/xml/ro-sq.xml.gz
-      125 v3/xml/ro-sr.xml.gz
-      125 v3/xml/ro-tr.xml.gz
-      125 v3/xml/ro-uk.xml.gz
-      125 v3/xml/sk-sl.xml.gz
-      125 v3/xml/sk-sq.xml.gz
-      125 v3/xml/sk-sr.xml.gz
-      125 v3/xml/sk-tr.xml.gz
-      125 v3/xml/sk-uk.xml.gz
- 20218998 v3/xml/sl-sq.xml.gz
- 38804002 v3/xml/sl-sr.xml.gz
-      125 v3/xml/sl-tr.xml.gz
- 14182108 v3/xml/sl-uk.xml.gz
- 20697278 v3/xml/sq-sr.xml.gz
-      125 v3/xml/sq-tr.xml.gz
-  2225797 v3/xml/sq-uk.xml.gz
-      125 v3/xml/sr-tr.xml.gz
-  9231559 v3/xml/sr-uk.xml.gz
-      125 v3/xml/tr-uk.xml.gz
-      959 v2.1/moses/README
-      954 v3/moses/README
